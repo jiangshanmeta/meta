@@ -1,3 +1,7 @@
+/**
+ * @param {string} s
+ * @return {string}
+ */
 var longestPalindrome = function(s) {
     var maxLen = 1;
     var strLen = s.length;
