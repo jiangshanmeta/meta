@@ -10,6 +10,7 @@ leetcode
 | 3 | longest-substring-without-repeating-characters | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/003.longest-substring-without-repeating-characters.js) | Medium |
 | 4 | median-of-two-sorted-arrays | [Javascript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/004.median-of-two-sorted-arrays.js) | Hard |
 | 5 | longest-palindromic-substring | [Javascript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/005.longest-palindromic-substring.js)  |  Medium |
+| 6 | zigzag-conversion | [Javascript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/006.zigzag-conversion.js) | Medium |
 
 
 PAT B
