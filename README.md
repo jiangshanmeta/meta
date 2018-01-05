@@ -12,6 +12,7 @@ leetcode
 | 5 | longest-palindromic-substring | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/005.longest-palindromic-substring.js)  |  Medium |
 | 6 | zigzag-conversion | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/006.zigzag-conversion.js) | Medium |
 | 7 | reverse-integer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/007.reverse-integer.js)    | Easy |
+| 8 | string-to-integer-atoi | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/008.string-to-integer-atoi.js)  | Medium |
 
 PAT B
 
