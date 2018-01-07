@@ -13,6 +13,7 @@ leetcode
 | 6 | zigzag-conversion | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/006.zigzag-conversion.js) | Medium |
 | 7 | reverse-integer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/007.reverse-integer.js)    | Easy |
 | 8 | string-to-integer-atoi | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/008.string-to-integer-atoi.js)  | Medium |
+| 9 | palindrome-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/009.palindrome-number.js) | Easy |
 
 PAT B
 
