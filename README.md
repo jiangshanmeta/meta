@@ -15,6 +15,8 @@ leetcode
 | 8 | string-to-integer-atoi | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/008.string-to-integer-atoi.js)  | Medium |
 | 9 | palindrome-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/009.palindrome-number.js) | Easy |
 | 10 | regular-expression-matching | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/010.regular-expression-matching.js)  |  Hard |
+| 12 | integer-to-roman | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/012.integer-to-roman.js)   | Medium |
+
 
 PAT B
 
