@@ -17,6 +17,9 @@ leetcode
 | 10 | regular-expression-matching | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/010.regular-expression-matching.js)  |  Hard |
 | 12 | integer-to-roman | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/012.integer-to-roman.js)   | Medium |
 | 13 | roman-to-integer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/013.roman-to-integer.js) | Easy |
+| 14 | longest-common-prefix | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/014.longest-common-prefix.js)     | Easy |
+
+
 
 PAT B
 
