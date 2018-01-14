@@ -19,6 +19,7 @@ leetcode
 | 12 | integer-to-roman | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/012.integer-to-roman.js)   | Medium |
 | 13 | roman-to-integer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/013.roman-to-integer.js) | Easy |
 | 14 | longest-common-prefix | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/014.longest-common-prefix.js)     | Easy |
+| 15 | 3sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/015.3sum.js) | Medium |
 
 
 
