@@ -14,17 +14,17 @@ var lengthOfLongestSubstring = function(s) {
         if(!hash[item]){
             hash[item] = true;
         }else{
-            // 从startIndex到i只重复i对应元素
-            // 但是要满足i在子串内，需要移动左边界
-            // 要满足 i对应元素在内，移动左边界
+            // 第i个元素与第k(startIndex=<k<i)个元素重复,
+            // 则以startIndex到k为开头的满足条件子串长度都不大于以startIndex为开头的子串
+            // 新的开头为k+1
 
             while(true){
-                // startIndex对应元素和i对应元素一致
-                // 删除startIndex后就是一个不重复的子串了
+                // 第k个元素
                 if(s[startIndex] === item){
                     startIndex++;
                     break;
                 }
+                // 第k个元素之前的元素
                 hash[s[startIndex]] = false;
                 startIndex++;
             }
