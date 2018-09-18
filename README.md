@@ -21,6 +21,7 @@ leetcode
 | 14 | longest-common-prefix | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/014.longest-common-prefix.js)     | Easy |
 | 15 | 3sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/015.3sum.js) | Medium |
 | 19 | remove-nth-node-from-end-of-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/019.remove-nth-node-from-end-of-list.js) | Medium |
+| 23 | merge-k-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/023.merge-k-sorted-lists.js) | Hard |
 
 
 PAT B
