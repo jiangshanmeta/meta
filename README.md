@@ -23,6 +23,7 @@ leetcode
 | 19 | remove-nth-node-from-end-of-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/019.remove-nth-node-from-end-of-list.js) | Medium |
 | 21| merge-two-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/021.merge-two-sorted-lists.js)  | Easy |
 | 23 | merge-k-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/023.merge-k-sorted-lists.js) | Hard |
+| 50 | merge-k-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/050.powx-n.js) | Medium |
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 868 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
