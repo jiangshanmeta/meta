@@ -28,9 +28,8 @@ leetcode
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
+| 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
 | 868 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
-
-
 
 
 
