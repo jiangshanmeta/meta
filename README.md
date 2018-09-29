@@ -26,17 +26,13 @@ leetcode
 | 50 | merge-k-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/050.powx-n.js) | Medium |
 | 78 | subsets | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/078.subsets.js) | Medium |
 | 95 | unique-binary-search-trees-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/095.unique-binary-search-trees-ii.js) | Medium |
+| 100 | same-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/100.same-tree.js) | Easy |
 | 112 | path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/112.path-sum.js)  | Easy |
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   | Medium |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
-
-
-
-
-
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
 | 868 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
