@@ -31,6 +31,7 @@ leetcode
 | 112 | path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/112.path-sum.js)  | Easy |
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   | Medium |
+| 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
