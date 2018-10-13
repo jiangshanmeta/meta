@@ -37,11 +37,12 @@ leetcode
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
+| 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
 | 700 | search-in-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/700.search-in-a-binary-search-tree.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
-| 868 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
+| 868 | binary-gap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
 
 
 
