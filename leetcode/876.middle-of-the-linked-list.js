@@ -14,6 +14,7 @@ var middleNode = function(head) {
         return head;
     }
     // 思路是快慢指针，快指针到了中点，慢指针到中点
+    // 109 148用到了这一方法
     let slow = head;
     let fast = head;
     while(fast && fast.next){
