@@ -5,20 +5,18 @@
  * @return {number[][]}
  */
 var subsets = function(nums) {
-    const sequences = [[]];
-    
-    function helper(nums,index,sequence){
-        const val = nums[index];
-        
-        const length = sequence.length;
-        for(let i=0;i<length;i++){
-            sequence.push(sequence[i].concat(val) );
+    var subsets = function(nums) {
+        function backTracking(list,nums,sequence,index){
+            sequence.push(list.slice());
+            for(let i=index;i<nums.length;i++){
+                list.push(nums[i]);
+                backTracking(list,nums,sequence,i+1);
+                list.pop();
+            }
+            
         }
-        
-        index++;
-        index<nums.length && helper(nums,index,sequence);
-    }
-    
-    helper(nums,0,sequences);
-    return sequences;
+        const sequence = [];
+        backTracking([],nums,sequence,0);
+        return sequence;
+    };
 };
