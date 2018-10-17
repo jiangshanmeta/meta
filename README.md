@@ -55,7 +55,7 @@ leetcode
 | 868 | binary-gap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
 | 876 | middle-of-the-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/876.middle-of-the-linked-list.js) | Easy |
 | 892 | surface-area-of-3d-shapes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/892.surface-area-of-3d-shapes.js) | Easy |
-
+| 893 | groups-of-special-equivalent-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/893.groups-of-special-equivalent-strings.js) | Easy |
 
 
 
