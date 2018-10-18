@@ -44,6 +44,7 @@ leetcode
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
+| 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
