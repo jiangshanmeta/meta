@@ -48,6 +48,7 @@ leetcode
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
+| 682 | baseball-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/682.baseball-game.js) | Easy |
 | 700 | search-in-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/700.search-in-a-binary-search-tree.js) | Easy |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
