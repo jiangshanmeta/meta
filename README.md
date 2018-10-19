@@ -40,6 +40,7 @@ leetcode
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 148 | sort-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/148.sort-list.js)   | Medium |
 | 145 | binary-tree-postorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/145.binary-tree-postorder-traversal.js)   | Hard |
+| 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
 | 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   | Medium |
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
