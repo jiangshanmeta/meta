@@ -57,6 +57,7 @@ leetcode
 | 682 | baseball-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/682.baseball-game.js) | Easy |
 | 700 | search-in-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/700.search-in-a-binary-search-tree.js) | Easy |
 | 717 | 1-bit-and-2-bit-characters | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/717.1-bit-and-2-bit-characters.js) | Easy |
+| 725 | split-linked-list-in-parts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/725.split-linked-list-in-parts.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
