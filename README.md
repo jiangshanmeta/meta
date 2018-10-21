@@ -51,6 +51,7 @@ leetcode
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
+| 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
 | 645 | set-mismatch | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/645.set-mismatch.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
