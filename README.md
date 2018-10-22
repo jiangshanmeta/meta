@@ -67,6 +67,7 @@ leetcode
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
 | 849 | maximize-distance-to-closest-person | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/849.maximize-distance-to-closest-person.js) | Easy |
 | 868 | binary-gap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
+| 875 | koko-eating-bananas | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/875.koko-eating-bananas.js)   | Medium |
 | 876 | middle-of-the-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/876.middle-of-the-linked-list.js) | Easy |
 | 892 | surface-area-of-3d-shapes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/892.surface-area-of-3d-shapes.js) | Easy |
 | 893 | groups-of-special-equivalent-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/893.groups-of-special-equivalent-strings.js) | Easy |
