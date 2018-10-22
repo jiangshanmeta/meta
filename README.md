@@ -46,6 +46,7 @@ leetcode
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
+| 283 | move-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/283.move-zeroes.js) | Easy |
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
