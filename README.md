@@ -64,6 +64,7 @@ leetcode
 | 725 | split-linked-list-in-parts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/725.split-linked-list-in-parts.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
+| 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
 | 849 | maximize-distance-to-closest-person | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/849.maximize-distance-to-closest-person.js) | Easy |
