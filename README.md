@@ -43,8 +43,9 @@ leetcode
 | 172 | factorial-trailing-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/172.factorial-trailing-zeroes.js)  | Easy |
 | 173 | binary-search-tree-iterator | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/173.binary-search-tree-iterator.js)   | Medium |
 | 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
-| 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   | Medium |
+| 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   |  |
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
+| 228 | summary-ranges | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/228.summary-ranges.js) | Medium |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 283 | move-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/283.move-zeroes.js) | Easy |
