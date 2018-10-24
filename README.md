@@ -66,6 +66,7 @@ leetcode
 | 717 | 1-bit-and-2-bit-characters | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/717.1-bit-and-2-bit-characters.js) | Easy |
 | 724 | find-pivot-index | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/724.find-pivot-index.js) | Easy |
 | 725 | split-linked-list-in-parts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/725.split-linked-list-in-parts.js)   | Medium |
+| 739 | daily-temperatures | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/739.daily-temperatures.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
 | 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
