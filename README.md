@@ -42,6 +42,7 @@ leetcode
 | 145 | binary-tree-postorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/145.binary-tree-postorder-traversal.js)   | Hard |
 | 172 | factorial-trailing-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/172.factorial-trailing-zeroes.js)  | Easy |
 | 173 | binary-search-tree-iterator | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/173.binary-search-tree-iterator.js)   | Medium |
+| 198 | house-robber | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/198.house-robber.js)  | Easy |
 | 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
 | 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   |  |
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
