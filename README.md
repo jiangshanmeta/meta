@@ -36,6 +36,7 @@ leetcode
 | 102 | binary-tree-level-order-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/102.binary-tree-level-order-traversal.js)   | Medium |
 | 109 | convert-sorted-list-to-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/109.convert-sorted-list-to-binary-search-tree.js)   | Medium |
 | 112 | path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/112.path-sum.js)  | Easy |
+| 121 | best-time-to-buy-and-sell-stock | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/121.best-time-to-buy-and-sell-stock.js)  | Easy |
 | 138 | copy-list-with-random-pointer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/138.copy-list-with-random-pointer.js)   | Medium |
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 148 | sort-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/148.sort-list.js)   | Medium |
