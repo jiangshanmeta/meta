@@ -76,6 +76,7 @@ leetcode
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
 | 849 | maximize-distance-to-closest-person | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/849.maximize-distance-to-closest-person.js) | Easy |
+| 856 | score-of-parentheses | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/856.score-of-parentheses.js)   | Medium |
 | 859 | buddy-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/859.buddy-strings.js) | Easy |
 | 868 | binary-gap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
 | 875 | koko-eating-bananas | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/875.koko-eating-bananas.js)   | Medium |
