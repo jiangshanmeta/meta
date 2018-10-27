@@ -58,6 +58,7 @@ leetcode
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
+| 554 | brick-wall | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/554.brick-wall.js)   | Medium |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
 | 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
