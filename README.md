@@ -57,6 +57,7 @@ leetcode
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
+| 474 | ones-and-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/474.ones-and-zeroes.js)   | Medium |
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
 | 554 | brick-wall | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/554.brick-wall.js)   | Medium |
