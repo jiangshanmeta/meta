@@ -53,6 +53,7 @@ leetcode
 | 278 | first-bad-version | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/278.first-bad-version.js) | Easy |
 | 283 | move-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/283.move-zeroes.js) | Easy |
 | 290 | word-pattern | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/290.word-pattern.js) | Easy |
+| 292 | nim-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/292.nim-game.js) | Easy |
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
