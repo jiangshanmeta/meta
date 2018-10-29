@@ -58,6 +58,7 @@ leetcode
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
+| 423 | reconstruct-original-digits-from-english | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/423.reconstruct-original-digits-from-english.js)   | Medium |
 | 474 | ones-and-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/474.ones-and-zeroes.js)   | Medium |
 | 494 | target-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/494.target-sum.js)   | Medium |
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
