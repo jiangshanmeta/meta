@@ -27,6 +27,7 @@ leetcode
 | 46 | permutations | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/46.permutations.js) | Medium |
 | 47 | permutations-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/047.permutations-ii.js) | Medium |
 | 50 | powx-n | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/050.powx-n.js) | Medium |
+| 71 | simplify-path | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/071.simplify-path.js) | Medium |
 | 78 | subsets | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/078.subsets.js) | Medium |
 | 90 | subsets-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/090.subsets-ii.js) | Medium |
 | 94 | binary-tree-inorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/094.binary-tree-inorder-traversal.js) | Medium |
