@@ -83,6 +83,7 @@ leetcode
 | 724 | find-pivot-index | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/724.find-pivot-index.js) | Easy |
 | 725 | split-linked-list-in-parts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/725.split-linked-list-in-parts.js)   | Medium |
 | 739 | daily-temperatures | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/739.daily-temperatures.js)   | Medium |
+| 763 | partition-labels | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/763.partition-labels.js)   | Medium |
 | 789 | escape-the-ghosts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/789.escape-the-ghosts.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
