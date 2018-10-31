@@ -70,6 +70,7 @@ leetcode
 | 554 | brick-wall | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/554.brick-wall.js)   | Medium |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
+| 636 | exclusive-time-of-functions | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/636.exclusive-time-of-functions.js)   | Medium |
 | 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
 | 645 | set-mismatch | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/645.set-mismatch.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
