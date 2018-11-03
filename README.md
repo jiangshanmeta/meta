@@ -58,6 +58,7 @@ leetcode
 | 290 | word-pattern | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/290.word-pattern.js) | Easy |
 | 292 | nim-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/292.nim-game.js) | Easy |
 | 322 | coin-change | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/322.coin-change.js)   | Medium |
+| 384 | shuffle-an-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/384.shuffle-an-array.js)   | Medium |
 | 377 | combination-sum-iv | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/377.combination-sum-iv.js)   | Medium |
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
