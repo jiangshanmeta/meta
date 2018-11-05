@@ -108,7 +108,7 @@ leetcode
 | 915 | partition-array-into-disjoint-intervals | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/915.partition-array-into-disjoint-intervals.js) | Medium |
 | 931 | minimum-falling-path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/931.minimum-falling-path-sum.js) | Medium |
 | 933 | number-of-recent-calls | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/933.number-of-recent-calls.js) | Easy |
-
+| 934 | shortest-bridge | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/934.shortest-bridge.js) | Medium |
 
 
 
