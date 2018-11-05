@@ -92,6 +92,7 @@ leetcode
 | 785 | is-graph-bipartite | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/785.is-graph-bipartite.js)   | Medium |
 | 789 | escape-the-ghosts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/789.escape-the-ghosts.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
+| 812 | largest-triangle-area | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/812.largest-triangle-area.js) | Easy |
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
 | 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
