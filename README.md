@@ -108,6 +108,7 @@ leetcode
 | 892 | surface-area-of-3d-shapes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/892.surface-area-of-3d-shapes.js) | Easy |
 | 893 | groups-of-special-equivalent-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/893.groups-of-special-equivalent-strings.js) | Easy |
 | 915 | partition-array-into-disjoint-intervals | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/915.partition-array-into-disjoint-intervals.js) | Medium |
+| 926 | flip-string-to-monotone-increasing | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/926.flip-string-to-monotone-increasing.js) | Medium |
 | 931 | minimum-falling-path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/931.minimum-falling-path-sum.js) | Medium |
 | 933 | number-of-recent-calls | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/933.number-of-recent-calls.js) | Easy |
 | 934 | shortest-bridge | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/934.shortest-bridge.js) | Medium |
