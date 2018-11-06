@@ -82,6 +82,7 @@ leetcode
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
 | 670 | maximum-swap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/670.maximum-swap.js)   | Medium |
+| 678 | valid-parenthesis-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/678.valid-parenthesis-string.js)   | Medium |
 | 680 | valid-palindrome-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/680.valid-palindrome-ii.js) | Easy |
 | 682 | baseball-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/682.baseball-game.js) | Easy |
 | 700 | search-in-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/700.search-in-a-binary-search-tree.js) | Easy |
