@@ -75,6 +75,7 @@ leetcode
 | 554 | brick-wall | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/554.brick-wall.js)   | Medium |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
+| 622 | design-circular-queue | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/622.design-circular-queue.js)   | Medium |
 | 636 | exclusive-time-of-functions | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/636.exclusive-time-of-functions.js)   | Medium |
 | 640 | solve-the-equation | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/640.solve-the-equation.js)   | Medium |
 | 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
