@@ -58,6 +58,7 @@ leetcode
 | 283 | move-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/283.move-zeroes.js) | Easy |
 | 290 | word-pattern | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/290.word-pattern.js) | Easy |
 | 292 | nim-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/292.nim-game.js) | Easy |
+| 319 | bulb-switcher | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/319.bulb-switcher.js)   | Medium |
 | 322 | coin-change | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/322.coin-change.js)   | Medium |
 | 384 | shuffle-an-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/384.shuffle-an-array.js)   | Medium |
 | 377 | combination-sum-iv | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/377.combination-sum-iv.js)   | Medium |
