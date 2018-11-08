@@ -78,6 +78,7 @@ leetcode
 | 622 | design-circular-queue | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/622.design-circular-queue.js)   | Medium |
 | 636 | exclusive-time-of-functions | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/636.exclusive-time-of-functions.js)   | Medium |
 | 640 | solve-the-equation | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/640.solve-the-equation.js)   | Medium |
+| 641 | design-circular-deque | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/641.design-circular-deque.js)   | Medium |
 | 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
 | 645 | set-mismatch | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/645.set-mismatch.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
