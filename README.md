@@ -84,6 +84,7 @@ leetcode
 | 643 | maximum-average-subarray-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/643.maximum-average-subarray-i.js) | Easy |
 | 645 | set-mismatch | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/645.set-mismatch.js) | Easy |
 | 652 | find-duplicate-subtrees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/652.find-duplicate-subtrees.js)   | Medium |
+| 665 | non-decreasing-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/665.non-decreasing-array.js) | Easy |
 | 669 | trim-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/669.trim-a-binary-search-tree.js) | Easy |
 | 670 | maximum-swap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/670.maximum-swap.js)   | Medium |
 | 678 | valid-parenthesis-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/678.valid-parenthesis-string.js)   | Medium |
