@@ -124,6 +124,7 @@ leetcode
 | 931 | minimum-falling-path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/931.minimum-falling-path-sum.js) | Medium |
 | 933 | number-of-recent-calls | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/933.number-of-recent-calls.js) | Easy |
 | 934 | shortest-bridge | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/934.shortest-bridge.js) | Medium |
+| 935 | knight-dialer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/935.knight-dialer.js) | Medium |
 | 937 | reorder-log-files | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/937.reorder-log-files.js) | Easy |
 | 938 | range-sum-of-bst | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/938.range-sum-of-bst.js) | Medium |
 | 939 | minimum-area-rectangle | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/939.minimum-area-rectangle.js) | Medium |
