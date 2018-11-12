@@ -126,7 +126,7 @@ leetcode
 | 937 | reorder-log-files | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/937.reorder-log-files.js) | Easy |
 | 938 | range-sum-of-bst | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/938.range-sum-of-bst.js) | Medium |
 | 939 | minimum-area-rectangle | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/939.minimum-area-rectangle.js) | Medium |
-
+| 940 | distinct-subsequences-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/940.distinct-subsequences-ii.js) | Hard |
 
 
 
