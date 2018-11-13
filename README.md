@@ -121,6 +121,7 @@ leetcode
 | 892 | surface-area-of-3d-shapes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/892.surface-area-of-3d-shapes.js) | Easy |
 | 893 | groups-of-special-equivalent-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/893.groups-of-special-equivalent-strings.js) | Easy |
 | 915 | partition-array-into-disjoint-intervals | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/915.partition-array-into-disjoint-intervals.js) | Medium |
+| 919 | complete-binary-tree-inserter | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/919.complete-binary-tree-inserter.js) | Medium |
 | 926 | flip-string-to-monotone-increasing | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/926.flip-string-to-monotone-increasing.js) | Medium |
 | 930 | binary-subarrays-with-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/930.binary-subarrays-with-sum.js) | Medium |
 | 931 | minimum-falling-path-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/931.minimum-falling-path-sum.js) | Medium |
