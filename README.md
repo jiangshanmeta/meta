@@ -99,6 +99,7 @@ leetcode
 | 738 | monotone-increasing-digits | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/738.monotone-increasing-digits.js)   | Medium |
 | 739 | daily-temperatures | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/739.daily-temperatures.js)   | Medium |
 | 763 | partition-labels | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/763.partition-labels.js)   | Medium |
+| 777 | swap-adjacent-in-lr-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/777.swap-adjacent-in-lr-string.js)   | Medium |
 | 785 | is-graph-bipartite | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/785.is-graph-bipartite.js)   | Medium |
 | 789 | escape-the-ghosts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/789.escape-the-ghosts.js)   | Medium |
 | 806 | number-of-lines-to-write-string | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/806.number-of-lines-to-write-string.js) | Easy |
