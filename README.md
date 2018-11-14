@@ -108,6 +108,7 @@ leetcode
 | 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
+| 840 | magic-squares-in-grid | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/840.magic-squares-in-grid.js) | Easy |
 | 845 | longest-mountain-in-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/845.longest-mountain-in-array.js)   | Medium |
 | 846 | hand-of-straights | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/846.hand-of-straights.js)   | Medium |
 | 849 | maximize-distance-to-closest-person | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/849.maximize-distance-to-closest-person.js) | Easy |
