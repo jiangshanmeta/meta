@@ -118,6 +118,7 @@ leetcode
 | 874 | walking-robot-simulation | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/874.walking-robot-simulation.js) | Easy |
 | 875 | koko-eating-bananas | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/875.koko-eating-bananas.js)   | Medium |
 | 876 | middle-of-the-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/876.middle-of-the-linked-list.js) | Easy |
+| 881 | boats-to-save-people | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/881.boats-to-save-people.js)   | Medium |
 | 886 | possible-bipartition | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/886.possible-bipartition.js)   | Medium |
 | 892 | surface-area-of-3d-shapes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/892.surface-area-of-3d-shapes.js) | Easy |
 | 893 | groups-of-special-equivalent-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/893.groups-of-special-equivalent-strings.js) | Easy |
