@@ -115,6 +115,7 @@ leetcode
 | 859 | buddy-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/859.buddy-strings.js) | Easy |
 | 860 | lemonade-change | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/860.lemonade-change.js) | Easy |
 | 868 | binary-gap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/868.binary-gap.js) | Easy |
+| 874 | walking-robot-simulation | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/874.walking-robot-simulation.js) | Easy |
 | 875 | koko-eating-bananas | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/875.koko-eating-bananas.js)   | Medium |
 | 876 | middle-of-the-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/876.middle-of-the-linked-list.js) | Easy |
 | 886 | possible-bipartition | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/886.possible-bipartition.js)   | Medium |
