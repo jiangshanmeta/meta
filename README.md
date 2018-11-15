@@ -107,6 +107,7 @@ leetcode
 | 814 | binary-tree-pruning | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/814.binary-tree-pruning.js)   | Medium |
 | 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
+| 825 | friends-of-appropriate-ages | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/825.friends-of-appropriate-ages.js)   | Medium |
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
 | 840 | magic-squares-in-grid | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/840.magic-squares-in-grid.js) | Easy |
 | 845 | longest-mountain-in-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/845.longest-mountain-in-array.js)   | Medium |
