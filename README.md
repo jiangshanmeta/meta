@@ -61,9 +61,10 @@ leetcode
 | 292 | nim-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/292.nim-game.js) | Easy |
 | 319 | bulb-switcher | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/319.bulb-switcher.js)   | Medium |
 | 322 | coin-change | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/322.coin-change.js)   | Medium |
-| 384 | shuffle-an-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/384.shuffle-an-array.js)   | Medium |
+| 373 | find-k-pairs-with-smallest-sums | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/373.find-k-pairs-with-smallest-sums.js)   | Medium |
 | 377 | combination-sum-iv | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/377.combination-sum-iv.js)   | Medium |
 | 383 | ransom-note | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/383.ransom-note.js) | Easy |
+| 384 | shuffle-an-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/384.shuffle-an-array.js)   | Medium |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 400 | nth-digit | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/400.nth-digit.js) | Easy |
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
