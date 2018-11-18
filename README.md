@@ -144,7 +144,7 @@ leetcode
 | 938 | range-sum-of-bst | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/938.range-sum-of-bst.js) | Medium |
 | 939 | minimum-area-rectangle | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/939.minimum-area-rectangle.js) | Medium |
 | 940 | distinct-subsequences-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/940.distinct-subsequences-ii.js) | Hard |
-
+| 944 | delete-columns-to-make-sorted | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/944.delete-columns-to-make-sorted.js) | Medium |
 
 
 PAT B
