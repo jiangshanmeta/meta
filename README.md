@@ -67,6 +67,7 @@ leetcode
 | 384 | shuffle-an-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/384.shuffle-an-array.js)   | Medium |
 | 389 | find-the-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/389.find-the-difference.js) | Easy |
 | 392 | is-subsequence | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/392.is-subsequence.js)   | Medium |
+| 396 | rotate-function | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/396.rotate-function.js)   | Medium |
 | 400 | nth-digit | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/400.nth-digit.js) | Easy |
 | 415 | add-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/415.add-strings.js) | Easy |
 | 423 | reconstruct-original-digits-from-english | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/423.reconstruct-original-digits-from-english.js)   | Medium |
