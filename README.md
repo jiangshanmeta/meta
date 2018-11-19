@@ -145,6 +145,7 @@ leetcode
 | 939 | minimum-area-rectangle | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/939.minimum-area-rectangle.js) | Medium |
 | 940 | distinct-subsequences-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/940.distinct-subsequences-ii.js) | Hard |
 | 941 | valid-mountain-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/941.valid-mountain-array.js) | Easy |
+| 942 | di-string-match | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/942.di-string-match.js) | Easy |
 | 944 | delete-columns-to-make-sorted | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/944.delete-columns-to-make-sorted.js) | Medium |
 
 
@@ -152,4 +153,4 @@ PAT B
 
 | index |       title            | code           |
 | :--:  | :-------------------:  | :---:          |
-| 1001 | 害死人不偿命的(3n+1)猜想 | [Node](https://github.com/jiangshanmeta/meta/tree/master/PAT/B/B1001.js) |   
+| 1001 | 害死人不偿命的(3n+1)猜想 | [Node](https://github.com/jiangshanmeta/meta/tree/master/PAT/ddB/B1001.js) |   
