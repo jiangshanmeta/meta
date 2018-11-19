@@ -48,6 +48,7 @@ leetcode
 | 165 | compare-version-numbers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/165.compare-version-numbers.js)   | Medium |
 | 172 | factorial-trailing-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/172.factorial-trailing-zeroes.js)  | Easy |
 | 173 | binary-search-tree-iterator | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/173.binary-search-tree-iterator.js)   | Medium |
+| 179 | largest-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/179.largest-number.js)   | Medium |
 | 198 | house-robber | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/198.house-robber.js)  | Easy |
 | 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
 | 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   |  |
