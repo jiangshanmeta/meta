@@ -80,6 +80,7 @@ leetcode
 | 491 | increasing-subsequences | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/491.increasing-subsequences.js)   | Medium |
 | 494 | target-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/494.target-sum.js)   | Medium |
 | 506 | relative-ranks | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/506.relative-ranks.js) | Easy |
+| 525 | contiguous-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/525.contiguous-array.js)   | Medium |
 | 535 | encode-and-decode-tinyurl | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/535.encode-and-decode-tinyurl.js)   | Medium |
 | 539 | minimum-time-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/539.minimum-time-difference.js)   | Medium |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
