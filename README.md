@@ -91,6 +91,7 @@ leetcode
 | 581 | shortest-unsorted-continuous-subarray | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/581.shortest-unsorted-continuous-subarray.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
 | 622 | design-circular-queue | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/622.design-circular-queue.js)   | Medium |
+| 628 | maximum-product-of-three-numbers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/628.maximum-product-of-three-numbers.js) | Easy |
 | 636 | exclusive-time-of-functions | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/636.exclusive-time-of-functions.js)   | Medium |
 | 640 | solve-the-equation | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/640.solve-the-equation.js)   | Medium |
 | 641 | design-circular-deque | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/641.design-circular-deque.js)   | Medium |
