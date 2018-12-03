@@ -11,69 +11,33 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    var item1;
-    var item2;
-    var sum;
-    var yushu;
-    var jinwei = 0;
-    
-    var headNode = new ListNode();
-    var preNode = headNode;
-    
-    while(l1 && l2){
-        item1 = l1.val;
-        item2 = l2.val;
-        sum = item1 + item2 + jinwei;
-        
-        if(sum>=10){
-            yushu = sum%10;
-            jinwei = (sum-yushu)/10;
-            sum = yushu;
-        }else{
-            jinwei = 0;
+    let head1 = l1;
+    let head2 = l2;
+    // add是进位
+    let add = 0;
+    let before = l1;
+    while(head1 && head2){
+        let sum = head1.val + head2.val + add;
+        // 合并到l1上
+        head1.val = sum%10;
+        add = (sum-head1.val)/10;
+        before = head1;
+        head1 = head1.next;
+        head2 = head2.next;
+    }
+    // 处理l1/l2多出来的位和进位
+    if(head1){
+        if(add){
+            before.next = addTwoNumbers(head1,new ListNode(add));
         }
-
-
-        
-        preNode.next = new ListNode(sum);
-        preNode = preNode.next;
-        l1 = l1.next;
-        l2 = l2.next;
-    }
-    
-    while(l1){
-        item1 = l1.val;
-        sum = item1 + jinwei;
-        if(sum>=10){
-            yushu = sum%10;
-            jinwei = (sum-yushu)/10;
-            sum = yushu;
+    }else if(head2){
+        if(add){
+            before.next = addTwoNumbers(head2,new ListNode(add));
         }else{
-            jinwei = 0;
+            before.next = head2;
         }
-        preNode.next = new ListNode(sum);
-        preNode = preNode.next;
-        l1 = l1.next;
+    }else if(add){
+        before.next = new ListNode(add);
     }
-    
-    while(l2){
-        item2 = l2.val;
-        sum = item2 + jinwei;
-        if(sum>=10){
-            yushu = sum%10;
-            jinwei = (sum-yushu)/10;
-            sum = yushu;
-        }else{
-            jinwei = 0;
-        }
-        preNode.next = new ListNode(sum);
-        preNode = preNode.next;
-        l2 = l2.next;
-    }
-    
-    if(jinwei){
-        preNode.next = new ListNode(jinwei);
-    }
-    
-    return headNode.next;
+    return l1;
 };
