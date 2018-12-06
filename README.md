@@ -153,7 +153,7 @@ leetcode
 | 942 | di-string-match | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/942.di-string-match.js) | Easy |
 | 944 | delete-columns-to-make-sorted | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/944.delete-columns-to-make-sorted.js) | Medium |
 | 945 | minimum-increment-to-make-array-unique | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/945.minimum-increment-to-make-array-unique.js) | Medium |
-
+| 951 | flip-equivalent-binary-trees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/951.flip-equivalent-binary-trees.js) | Medium |
 
 
 
