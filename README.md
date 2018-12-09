@@ -157,8 +157,7 @@ leetcode
 | 950 | reveal-cards-in-increasing-order | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/950.reveal-cards-in-increasing-order.js) | Medium |
 | 951 | flip-equivalent-binary-trees | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/951.flip-equivalent-binary-trees.js) | Medium |
 | 953 | verifying-an-alien-dictionary | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/953.verifying-an-alien-dictionary.js) | Easy |
-
-
+| 954 | array-of-doubled-pairs | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/954.array-of-doubled-pairs.js) | Medium |
 
 
 
