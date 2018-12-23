@@ -160,7 +160,7 @@ leetcode
 | 954 | array-of-doubled-pairs | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/954.array-of-doubled-pairs.js) | Medium |
 | 955 | delete-columns-to-make-sorted-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/955.delete-columns-to-make-sorted-ii.js) | Medium |
 | 958 | check-completeness-of-a-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/958.check-completeness-of-a-binary-tree.js) | Medium |
-
+| 961 | n-repeated-element-in-size-2n-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/961.n-repeated-element-in-size-2n-array.js) | Easy |
 
 
 
