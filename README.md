@@ -165,6 +165,8 @@ leetcode
 | 965 | univalued-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/965.univalued-binary-tree.js) | Easy |
 | 966 | Vowel Spellchecker | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/966.Vowel Spellchecker.js) | Medium |
 | 967 | numbers-with-same-consecutive-differences | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/967.numbers-with-same-consecutive-differences.js) | Medium |
+| 968 | binary-tree-cameras | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/968.binary-tree-cameras.js) | Hard |
+
 
 
 PAT B
