@@ -162,7 +162,7 @@ leetcode
 | 955 | delete-columns-to-make-sorted-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/955.delete-columns-to-make-sorted-ii.js) | Medium |
 | 958 | check-completeness-of-a-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/958.check-completeness-of-a-binary-tree.js) | Medium |
 | 961 | n-repeated-element-in-size-2n-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/961.n-repeated-element-in-size-2n-array.js) | Easy |
-
+| 965 | univalued-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/965.univalued-binary-tree.js) | Easy |
 
 
 
