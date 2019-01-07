@@ -166,6 +166,7 @@ leetcode
 | 966 | Vowel Spellchecker | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/966.Vowel Spellchecker.js) | Medium |
 | 967 | numbers-with-same-consecutive-differences | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/967.numbers-with-same-consecutive-differences.js) | Medium |
 | 968 | binary-tree-cameras | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/968.binary-tree-cameras.js) | Hard |
+| 969 | pancake-sorting | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/969.pancake-sorting.js) | Medium |
 | 970 | powerful-integers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/970.powerful-integers.js) | Easy |
 
 
