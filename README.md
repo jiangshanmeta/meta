@@ -123,6 +123,7 @@ leetcode
 | 817 | linked-list-components | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/817.linked-list-components.js)   | Medium |
 | 821 | shortest-distance-to-a-character | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/821.shortest-distance-to-a-character.js) | Easy |
 | 825 | friends-of-appropriate-ages | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/825.friends-of-appropriate-ages.js)   | Medium |
+| 836 | rectangle-overlap | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/836.rectangle-overlap.js)   | Easy |
 | 838 | push-dominoes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/838.push-dominoes.js)   | Medium |
 | 840 | magic-squares-in-grid | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/840.magic-squares-in-grid.js) | Easy |
 | 845 | longest-mountain-in-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/845.longest-mountain-in-array.js)   | Medium |
@@ -164,7 +165,7 @@ leetcode
 | 958 | check-completeness-of-a-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/958.check-completeness-of-a-binary-tree.js) | Medium |
 | 961 | n-repeated-element-in-size-2n-array | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/961.n-repeated-element-in-size-2n-array.js) | Easy |
 | 965 | univalued-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/965.univalued-binary-tree.js) | Easy |
-| 966 | Vowel Spellchecker | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/966.Vowel Spellchecker.js) | Medium |
+| 966 | Vowel Spellchecker | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/966.vowel-spellchecker.js) | Medium |
 | 967 | numbers-with-same-consecutive-differences | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/967.numbers-with-same-consecutive-differences.js) | Medium |
 | 968 | binary-tree-cameras | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/968.binary-tree-cameras.js) | Hard |
 | 969 | pancake-sorting | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/969.pancake-sorting.js) | Medium |
