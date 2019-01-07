@@ -52,7 +52,8 @@ leetcode
 | 179 | largest-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/179.largest-number.js)   | Medium |
 | 198 | house-robber | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/198.house-robber.js)  | Easy |
 | 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
-| 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   |  |
+| 222 | count-complete-tree-nodes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/222.count-complete-tree-nodes.js)   | Medium |
+| 223 | rectangle-area | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/223.rectangle-area.js)   | Medium |
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 228 | summary-ranges | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/228.summary-ranges.js) | Medium |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
