@@ -172,9 +172,11 @@ leetcode
 | 967 | numbers-with-same-consecutive-differences | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/967.numbers-with-same-consecutive-differences.js) | Medium |
 | 968 | binary-tree-cameras | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/968.binary-tree-cameras.js) | Hard |
 | 969 | pancake-sorting | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/969.pancake-sorting.js) | Medium |
-| 970 | powerful-integers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/970.powerful-integers.js) | Easy |
+| 970 | powerful-integers | [JavaScrlargest-perimeter-triangleipt](https://github.com/jiangshanmeta/meta/tree/master/leetcode/970.powerful-integers.js) | Easy |
 | 971 | flip-binary-tree-to-match-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/971.flip-binary-tree-to-match-preorder-traversal.js) | Medium |
 | 972 | equal-rational-numbers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/972.equal-rational-numbers.js) | Hard |
+| 976 | largest-perimeter-triangle | [JavaScrlargest-perimeter-triangleipt](https://github.com/jiangshanmeta/meta/tree/master/leetcode/976.largest-perimeter-triangle.js) | Easy |
+
 
 
 
