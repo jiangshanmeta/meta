@@ -52,6 +52,7 @@ leetcode
 | 173 | binary-search-tree-iterator | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/173.binary-search-tree-iterator.js)   | Medium |
 | 179 | largest-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/179.largest-number.js)   | Medium |
 | 198 | house-robber | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/198.house-robber.js)  | Easy |
+| 203 | remove-linked-list-elements | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/203.remove-linked-list-elements.js)  | Easy |
 | 205 | isomorphic-strings | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/205.isomorphic-strings.js)  | Easy |
 | 206 | reverse-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/206.reverse-linked-list.js)  | Easy |
 | 208 | implement-trie-prefix-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/208.implement-trie-prefix-tree.js)   | Medium |
