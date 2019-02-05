@@ -64,6 +64,7 @@ leetcode
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 278 | first-bad-version | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/278.first-bad-version.js) | Easy |
 | 283 | move-zeroes | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/283.move-zeroes.js) | Easy |
+| 289 | game-of-life | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/289.game-of-life.js) | Medium |
 | 290 | word-pattern | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/290.word-pattern.js) | Easy |
 | 292 | nim-game | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/292.nim-game.js) | Easy |
 | 319 | bulb-switcher | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/319.bulb-switcher.js)   | Medium |
