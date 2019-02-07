@@ -101,6 +101,7 @@ leetcode
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 581 | shortest-unsorted-continuous-subarray | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/581.shortest-unsorted-continuous-subarray.js) | Easy |
 | 589 | n-ary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/589.n-ary-tree-preorder-traversal.js) | Easy |
+| 590 | n-ary-tree-postorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/590.n-ary-tree-postorder-traversal.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
 | 622 | design-circular-queue | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/622.design-circular-queue.js)   | Medium |
 | 628 | maximum-product-of-three-numbers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/628.maximum-product-of-three-numbers.js) | Easy |
