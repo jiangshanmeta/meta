@@ -97,6 +97,7 @@ leetcode
 | 539 | minimum-time-difference | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/539.minimum-time-difference.js)   | Medium |
 | 551 | student-attendance-record-i | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/551.student-attendance-record-i.js) | Easy |
 | 554 | brick-wall | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/554.brick-wall.js)   | Medium |
+| 559 | maximum-depth-of-n-ary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/559.maximum-depth-of-n-ary-tree.js) | Easy |
 | 575 | distribute-candies | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/575.distribute-candies.js) | Easy |
 | 581 | shortest-unsorted-continuous-subarray | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/581.shortest-unsorted-continuous-subarray.js) | Easy |
 | 605 | can-place-flowers | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/605.can-place-flowers.js) | Easy |
