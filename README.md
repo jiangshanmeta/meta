@@ -121,6 +121,7 @@ leetcode
 | 700 | search-in-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/700.search-in-a-binary-search-tree.js) | Easy |
 | 701 | insert-into-a-binary-search-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/701.insert-into-a-binary-search-tree.js)   | Medium |
 | 704 | binary-search | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/704.binary-search.js) | Easy |
+| 707 | design-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/707.design-linked-list.js) | Easy |
 | 717 | 1-bit-and-2-bit-characters | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/717.1-bit-and-2-bit-characters.js) | Easy |
 | 724 | find-pivot-index | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/724.find-pivot-index.js) | Easy |
 | 725 | split-linked-list-in-parts | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/725.split-linked-list-in-parts.js)   | Medium |
