@@ -30,6 +30,7 @@ leetcode
 | 50 | powx-n | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/050.powx-n.js) | Medium |
 | 71 | simplify-path | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/071.simplify-path.js) | Medium |
 | 78 | subsets | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/078.subsets.js) | Medium |
+| 082 | remove-duplicates-from-sorted-list-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/082.remove-duplicates-from-sorted-list-ii.js) | Medium |
 | 083  | remove-duplicates-from-sorted-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/083.merge-two-sorted-lists.js)  | Easy |
 | 90 | subsets-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/090.subsets-ii.js) | Medium |
 | 94 | binary-tree-inorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/094.binary-tree-inorder-traversal.js) | Medium |
