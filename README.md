@@ -34,6 +34,7 @@ leetcode
 | 082 | remove-duplicates-from-sorted-list-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/082.remove-duplicates-from-sorted-list-ii.js) | Medium |
 | 083  | remove-duplicates-from-sorted-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/083.merge-two-sorted-lists.js)  | Easy |
 | 90 | subsets-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/090.subsets-ii.js) | Medium |
+| 092 | reverse-linked-list-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/092.reverse-linked-list-ii.js) | Medium |
 | 94 | binary-tree-inorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/094.binary-tree-inorder-traversal.js) | Medium |
 | 95 | unique-binary-search-trees-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/095.unique-binary-search-trees-ii.js) | Medium |
 | 100 | same-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/100.same-tree.js) | Easy |
