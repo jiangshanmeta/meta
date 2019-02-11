@@ -66,6 +66,7 @@ leetcode
 | 223 | rectangle-area | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/223.rectangle-area.js)   | Medium |
 | 226 | invert-binary-tree | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/226.invert-binary-tree.js) | Easy |
 | 228 | summary-ranges | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/228.summary-ranges.js) | Medium |
+| 234 | palindrome-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/234.palindrome-linked-list.js) | Easy |
 | 237 | delete-node-in-a-linked-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/237.delete-node-in-a-linked-list.js) | Easy |
 | 268 | missing-number | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/268.missing-number.js) | Easy |
 | 278 | first-bad-version | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/278.first-bad-version.js) | Easy |
