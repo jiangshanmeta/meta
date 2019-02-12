@@ -24,6 +24,7 @@ leetcode
 | 21| merge-two-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/021.merge-two-sorted-lists.js)  | Easy |
 | 23 | merge-k-sorted-lists | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/023.merge-k-sorted-lists.js) | Hard |
 | 024 | swap-nodes-in-pairs | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/024.swap-nodes-in-pairs.js) | Medium |
+| 025 | reverse-nodes-in-k-group | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/025.reverse-nodes-in-k-group.js) | Hard |
 | 36 | valid-sudoku | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/036.valid-sudoku.js) | Medium |
 | 39 | combination-sum | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/039.combination-sum.js) | Medium |
 | 46 | permutations | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/46.permutations.js) | Medium |
