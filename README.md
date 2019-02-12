@@ -50,6 +50,8 @@ leetcode
 | 121 | best-time-to-buy-and-sell-stock | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/121.best-time-to-buy-and-sell-stock.js)  | Easy |
 | 122 | best-time-to-buy-and-sell-stock-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/122.best-time-to-buy-and-sell-stock-ii.js)  | Easy |
 | 138 | copy-list-with-random-pointer | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/138.copy-list-with-random-pointer.js)   | Medium |
+| 141 | linked-list-cycle | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/141.linked-list-cycle.js)  | Easy |
+| 142 | linked-list-cycle-ii | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/142.linked-list-cycle-ii.js)   | Medium |
 | 143 | reorder-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/143.reorder-list.js)   | Medium |
 | 144 | binary-tree-preorder-traversal | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/144.binary-tree-preorder-traversal.js)   | Medium |
 | 148 | sort-list | [JavaScript](https://github.com/jiangshanmeta/meta/tree/master/leetcode/148.sort-list.js)   | Medium |
