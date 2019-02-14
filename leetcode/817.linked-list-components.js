@@ -11,29 +11,30 @@
  * @return {number}
  */
 var numComponents = function(head, G) {
-    const valueIndexMap = new Map();
-    let count = 0;
-    while(head){
-        valueIndexMap.set(head.val,count++);
+    // 构成hash 便于查询是否有该节点
+    const map = {};
+    for(let i=0;i<G.length;i++){
+        map[G[i]] = true;
+    }
+    
+    // 处理开始的不在G的节点
+    while(head && !map[head.val]){
         head = head.next;
     }
     
-    let arr = new Array(count);
-    for(let i=0;i<G.length;i++){
-        arr[valueIndexMap.get(G[i])] = true;
-    }
-    
-    count = 0;
-    let lastUsed = false;
-    for(let i=0;i<arr.length;i++){
-        if(arr[i]){
-            if(!lastUsed){
-                lastUsed = true;
-                count++;
-            }
-        }else{
-            lastUsed = false;
+    let count = 0;
+    while(head){
+        count++;
+        // 一组在G的节点
+        while(head && map[head.val]){
+            head = head.next;
+        }
+        // 一组不在G的节点
+        while(head && !map[head.val]){
+            head = head.next;
         }
     }
+    
+    
     return count;
 };
