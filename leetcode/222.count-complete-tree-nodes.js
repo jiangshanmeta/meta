@@ -1,13 +1,3 @@
-// 大体思路：
-// 完全二叉树的子树也是完全二叉树
-// 完全二叉树最左侧节点对应索引(leftIndex)如果大于最右侧节点坐标(rightIndex)
-// 说明在最左侧节点在最右侧节点下一层
-// 找到他们最近祖先节点(root)
-// 看root.right最左侧节点对应索引(tmpIndex)
-// 如果tmpIndex>leftIndex，则最后一个元素在以root.right为根节点的子树上
-// 否则最后一个元素在以root.left为根节点的子树上
-// 一个技巧是最右侧节点，如果它有left，则这个left就是最后一个节点
-
 /**
  * Definition for a binary tree node.
  * function TreeNode(val) {
@@ -19,66 +9,106 @@
  * @param {TreeNode} root
  * @return {number}
  */
+// 对于完全二叉树索引从1开始 当前子节点索引为index 左子节点索引为2*index 右子节点索引为2*index+1
+// 对于完全二叉树 找到其最左侧子节点对应的索引和最右侧对应的索引 
+// 若右>左 则说明两者在同一层上 我们仅需关心右子树即可
+// 若左>右 两者在不同层上 此时需要此时需要以node.right为根节点 找到其最左侧节点对应索引 rightIndex2
+// 如果 rightIndex2<=rightIndex 则只需考虑左子树即可
+// 否则 只需要考虑右子树
+
+// 节点为N个 树高为 logN
+// helper函数每次调用消耗一层树高 所以调用 logN次 每次调用访问树高个节点(最多3*logN )
+// 时间复杂度 O(log2N)
+
 var countNodes = function(root) {
     if(!root){
         return 0;
     }
     
-    let rootIndex = 1;
-    
-    // 最左侧元素
-    let leftNode = root;
-    let leftIndex = 1;
-    while(leftNode.left !== null){
-        leftNode = leftNode.left;
-        leftIndex *= 2;
-    }
-    
-    // 最右侧元素
-    let rightNode = root;
-    let rightIndex = 1;
-    while(rightNode.right !== null){
-        rightNode = rightNode.right;
-        rightIndex = rightIndex*2 + 1;
-    }
-    
-    if(rightNode.left){
-        return 2*rightIndex;
-    }
-    
-
-    while(leftIndex > rightIndex){
-        let tmpNode = root.right;
-        let tmpIndex = 2*rootIndex + 1;
-        while(tmpNode.left !== null){
-            tmpNode = tmpNode.left;
-            tmpIndex *= 2;
+    function helper(node,index){
+        if(!node.right){
+            if(!node.left){
+                return index;
+            }else{
+                return index<<1;
+            }
+        }
+        let leftIndex = index<<1;
+        let leftNode = node.left;
+        while(leftNode.left){
+            leftNode = leftNode.left;
+            leftIndex = leftIndex<<1;
         }
         
-        if(tmpIndex > leftIndex){
-            // 最后一个节点在以root.right为根节点的子树上
-            root = root.right;
-            rootIndex = 2*rootIndex + 1;
-            // 更新leftNode相关信息
-            leftNode = tmpNode;
-            leftIndex = tmpIndex;
+        let rightIndex = 2*index+1;
+        let rightNode = node.right;
+        while(rightNode.right){
+            rightNode = rightNode.right;
+            rightIndex = 2*rightIndex+1;
+        }
+        
+        if(rightIndex>leftIndex){
+            return helper(node.right,2*index+1);
         }else{
-            // 最后一个节点在以root.left为根节点的子树上
-            root = rightNode = root.left;
-            rootIndex = rightIndex =2*rootIndex;
             
-            // 更新rightNode相关信息
-            while(rightNode.right !== null){
-                rightNode = rightNode.right;
-                rightIndex = 2*rightIndex + 1;
+            let rightIndex2 = 2*index+1;
+            let rightNode2 = node.right;
+            while(rightNode2.left){
+                rightNode2 = rightNode2.left;
+                rightIndex2 = rightIndex2*2;
             }
             
-            if(rightNode.left){
-                return 2*rightIndex;
+            if(rightIndex2<=rightIndex){
+                return helper(node.left,2*index);
+            }else{
+                return helper(node.right,2*index+1);
             }
         }
         
     }
     
-    return rightIndex;
+    return helper(root,1);
+};
+
+
+// 解法2
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {number}
+ */
+// 注意完全二叉树和满二叉树的关系
+// 完全二叉树的子树也是完全二叉树 
+// 看是否是满二叉树(lHeight 和 rHeight比较)的条件 把完全二叉树转化为满二叉树
+// 如果是满二叉树则根据树高求出节点数
+// 否则分别处理左子树和右子树
+// 时间复杂度也是O(log2N)
+var countNodes = function(root) {
+    if(!root){
+        return 0;
+    }
+    let lHeight = 0;
+    let lNode = root;
+    let rHeight = 0;
+    let rNode = root;
+    while(lNode){
+        lHeight++;
+        lNode = lNode.left;
+    }
+    
+    while(rNode){
+        rHeight++;
+        rNode = rNode.right;
+    }
+    if(lHeight === rHeight){
+        return 2**lHeight-1;
+    }else{
+        return countNodes(root.left)+countNodes(root.right)+1;
+    }
 };
