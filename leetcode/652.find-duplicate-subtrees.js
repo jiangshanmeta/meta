@@ -10,6 +10,7 @@
  * @return {TreeNode[]}
  */
 
+//  判断是否是同一棵树
 function isSameTree(node1,node2){
     if(node1 && node2){
         return node1.val === node2.val && isSameTree(node1.left,node2.left) && isSameTree(node1.right,node2.right);
@@ -24,6 +25,8 @@ function isSameTree(node1,node2){
 var findDuplicateSubtrees = function(root) {
     const map = {};
     
+    // 先进行聚合
+    // 这个实现聚合分了两层 第一层是根节点的值 第二层是节点数 可以减少一部分比较
     function dfs(node){
         if(!node){
             return 0;
@@ -52,6 +55,7 @@ var findDuplicateSubtrees = function(root) {
     Object.keys(map).forEach((rootVal)=>{
         const subMap = map[rootVal];
         Object.keys(subMap).forEach((nodeCount)=>{
+            // arr中的树根节点一致 子节点数量相同
             const arr = subMap[nodeCount];
 
             while(arr.length>1){
@@ -66,7 +70,7 @@ var findDuplicateSubtrees = function(root) {
                 if(indexs.length>1){
                     rst.push(node0);
                 }
-                
+                // 把这一组从数组中去掉
                 for(let i=indexs.length-1;i>=0;i--){
                     arr.splice(indexs[i],1);
                 }
