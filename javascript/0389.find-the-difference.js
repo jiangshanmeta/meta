@@ -3,7 +3,7 @@
  * @param {string} t
  * @return {character}
  */
-//  a^b^b = a^0 = 0
+//  a^b^b = a^0 = a
 // 即通过异或操作可以成对消除元素
 var findTheDifference = function(s, t) {
     let code = 0;
