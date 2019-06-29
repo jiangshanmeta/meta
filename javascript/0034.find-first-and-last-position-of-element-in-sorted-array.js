@@ -1,0 +1,50 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var searchRange = function(nums, target) {
+    let low = 0;
+    let high = nums.length -1;
+    
+    while(low<=high){
+        let mid = Math.floor((low+high)/2);
+        if(nums[mid] === target){
+            // 确认有值，但不知道最低和最高
+            let findMinHigh = mid;
+            let min = mid;
+            
+            while(low<=findMinHigh){
+                let mid2 = Math.floor((low+findMinHigh)/2);
+                if(nums[mid2] === target){
+                    findMinHigh = mid2 - 1;
+                    min = mid2;
+                }else{
+                    low = mid2 + 1;
+                }
+            }
+            
+            let findMaxLow = mid;
+            let max = mid;
+            
+            while(findMaxLow<=high){
+                let mid3 = Math.ceil((findMaxLow+high)/2);
+                if(nums[mid3] === target){
+                    max = mid3;
+                    findMaxLow = mid3+1;
+                }else{
+                    high = mid3-1;
+                }
+                
+            }
+            
+            return [min,max];
+        }else if(nums[mid]<target){
+            low = mid + 1;    
+        }else{
+            high = mid - 1;
+        }
+    }
+    
+    return [-1,-1];
+};
