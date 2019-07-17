@@ -12,11 +12,7 @@ const difficultyMap = {
     3:"Hard",
 }
 
-const listPromise = new Promise((resolve)=>{
-    fs.readFile('../metaData/question.json', 'utf8' ,(err, data) => {
-        resolve(JSON.parse(data));
-    });
-});
+const questions = require('../metaData/question.json');
 
 const readdir = Promise.all(languages.map(({dir,label})=>{
     return new Promise((resolve)=>{
@@ -38,7 +34,7 @@ const readdir = Promise.all(languages.map(({dir,label})=>{
 
 
 
-Promise.all([listPromise,readdir]).then(([questions,answerDir])=>{
+readdir.then((answerDir)=>{
     const groupByIndex = {};
     for(let i=0;i<languages.length;i++){
         const answers = answerDir[i];
@@ -52,7 +48,7 @@ Promise.all([listPromise,readdir]).then(([questions,answerDir])=>{
         const index = question.index;
 
         const answers = (groupByIndex[index] || []).map((answer)=>{
-            return `[${answer.label}](https://github.com/jiangshanmeta/meta/tree/master${answer.dir}/${answer.name})`;
+            return `[${answer.label}](.${answer.dir}/${answer.name})`;
         }).join(" ");
     
         return `| ${index} | ${question.title} | ${answers} | ${difficultyMap[question.difficulty]} |`;
@@ -60,7 +56,7 @@ Promise.all([listPromise,readdir]).then(([questions,answerDir])=>{
 
     const prefix = fs.readFileSync("./_prefix.md",'utf8');
 
-    fs.writeFile('../README.md', prefix+mergedQuestions, 'utf8', (err) => {
+    fs.writeFile('../README.md', prefix+mergedQuestions+'\n', 'utf8', (err) => {
         if (err) throw err;
         console.log('文件已被保存');
     });
