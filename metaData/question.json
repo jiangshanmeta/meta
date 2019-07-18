@@ -727,7 +727,7 @@
     {
         "index": 146,
         "title": "LRU Cache",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 147,
@@ -2132,7 +2132,7 @@
     {
         "index": 427,
         "title": "Construct Quad Tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 428,
@@ -2550,6 +2550,16 @@
         "difficulty": 2
     },
     {
+        "index": 511,
+        "title": "Game Play Analysis I",
+        "difficulty": 1
+    },
+    {
+        "index": 512,
+        "title": "Game Play Analysis II",
+        "difficulty": 1
+    },
+    {
         "index": 513,
         "title": "Find Bottom Left Tree Value",
         "difficulty": 2
@@ -2655,6 +2665,11 @@
         "difficulty": 2
     },
     {
+        "index": 534,
+        "title": "Game Play Analysis III",
+        "difficulty": 2
+    },
+    {
         "index": 535,
         "title": "Encode and Decode TinyURL",
         "difficulty": 2
@@ -2727,6 +2742,11 @@
     {
         "index": 549,
         "title": "Binary Tree Longest Consecutive Sequence II",
+        "difficulty": 2
+    },
+    {
+        "index": 550,
+        "title": "Game Play Analysis IV",
         "difficulty": 2
     },
     {
@@ -5248,5 +5268,370 @@
         "index": 1054,
         "title": "Distant Barcodes",
         "difficulty": 2
+    },
+    {
+        "index": 1055,
+        "title": "Shortest Way to Form String",
+        "difficulty": 2
+    },
+    {
+        "index": 1056,
+        "title": "Confusing Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1057,
+        "title": "Campus Bikes",
+        "difficulty": 2
+    },
+    {
+        "index": 1058,
+        "title": "Minimize Rounding Error to Meet Target",
+        "difficulty": 2
+    },
+    {
+        "index": 1059,
+        "title": "All Paths from Source Lead to Destination",
+        "difficulty": 2
+    },
+    {
+        "index": 1060,
+        "title": "Missing Element in Sorted Array",
+        "difficulty": 2
+    },
+    {
+        "index": 1061,
+        "title": "Lexicographically Smallest Equivalent String",
+        "difficulty": 2
+    },
+    {
+        "index": 1062,
+        "title": "Longest Repeating Substring",
+        "difficulty": 2
+    },
+    {
+        "index": 1063,
+        "title": "Number of Valid Subarrays",
+        "difficulty": 3
+    },
+    {
+        "index": 1064,
+        "title": "Fixed Point",
+        "difficulty": 1
+    },
+    {
+        "index": 1065,
+        "title": "Index Pairs of a String",
+        "difficulty": 1
+    },
+    {
+        "index": 1066,
+        "title": "Campus Bikes II",
+        "difficulty": 2
+    },
+    {
+        "index": 1067,
+        "title": "Digit Count in Range",
+        "difficulty": 3
+    },
+    {
+        "index": 1068,
+        "title": "Product Sales Analysis I",
+        "difficulty": 1
+    },
+    {
+        "index": 1069,
+        "title": "Product Sales Analysis II",
+        "difficulty": 1
+    },
+    {
+        "index": 1070,
+        "title": "Product Sales Analysis III",
+        "difficulty": 2
+    },
+    {
+        "index": 1071,
+        "title": "Greatest Common Divisor of Strings",
+        "difficulty": 1
+    },
+    {
+        "index": 1072,
+        "title": "Flip Columns For Maximum Number of Equal Rows",
+        "difficulty": 2
+    },
+    {
+        "index": 1073,
+        "title": "Adding Two Negabinary Numbers",
+        "difficulty": 2
+    },
+    {
+        "index": 1074,
+        "title": "Number of Submatrices That Sum to Target",
+        "difficulty": 3
+    },
+    {
+        "index": 1075,
+        "title": "Project Employees I",
+        "difficulty": 1
+    },
+    {
+        "index": 1076,
+        "title": "Project Employees II",
+        "difficulty": 1
+    },
+    {
+        "index": 1077,
+        "title": "Project Employees III",
+        "difficulty": 2
+    },
+    {
+        "index": 1078,
+        "title": "Occurrences After Bigram",
+        "difficulty": 1
+    },
+    {
+        "index": 1079,
+        "title": "Letter Tile Possibilities",
+        "difficulty": 2
+    },
+    {
+        "index": 1080,
+        "title": "Insufficient Nodes in Root to Leaf Paths",
+        "difficulty": 2
+    },
+    {
+        "index": 1081,
+        "title": "Smallest Subsequence of Distinct Characters",
+        "difficulty": 2
+    },
+    {
+        "index": 1082,
+        "title": "Sales Analysis I",
+        "difficulty": 1
+    },
+    {
+        "index": 1083,
+        "title": "Sales Analysis II",
+        "difficulty": 1
+    },
+    {
+        "index": 1084,
+        "title": "Sales Analysis III",
+        "difficulty": 1
+    },
+    {
+        "index": 1085,
+        "title": "Sum of Digits in the Minimum Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1086,
+        "title": "High Five",
+        "difficulty": 1
+    },
+    {
+        "index": 1087,
+        "title": "Brace Expansion",
+        "difficulty": 2
+    },
+    {
+        "index": 1088,
+        "title": "Confusing Number II",
+        "difficulty": 3
+    },
+    {
+        "index": 1089,
+        "title": "Duplicate Zeros",
+        "difficulty": 1
+    },
+    {
+        "index": 1090,
+        "title": "Largest Values From Labels",
+        "difficulty": 2
+    },
+    {
+        "index": 1091,
+        "title": "Shortest Path in Binary Matrix",
+        "difficulty": 2
+    },
+    {
+        "index": 1092,
+        "title": "Shortest Common Supersequence",
+        "difficulty": 3
+    },
+    {
+        "index": 1093,
+        "title": "Statistics from a Large Sample",
+        "difficulty": 2
+    },
+    {
+        "index": 1094,
+        "title": "Car Pooling",
+        "difficulty": 2
+    },
+    {
+        "index": 1095,
+        "title": "Find in Mountain Array",
+        "difficulty": 3
+    },
+    {
+        "index": 1096,
+        "title": "Brace Expansion II",
+        "difficulty": 3
+    },
+    {
+        "index": 1097,
+        "title": "Game Play Analysis V",
+        "difficulty": 3
+    },
+    {
+        "index": 1098,
+        "title": "Unpopular Books",
+        "difficulty": 2
+    },
+    {
+        "index": 1099,
+        "title": "Two Sum Less Than K",
+        "difficulty": 1
+    },
+    {
+        "index": 1100,
+        "title": "Find K-Length Substrings With No Repeated Characters",
+        "difficulty": 2
+    },
+    {
+        "index": 1101,
+        "title": "The Earliest Moment When Everyone Become Friends",
+        "difficulty": 2
+    },
+    {
+        "index": 1102,
+        "title": "Path With Maximum Minimum Value",
+        "difficulty": 2
+    },
+    {
+        "index": 1103,
+        "title": "Distribute Candies to People",
+        "difficulty": 1
+    },
+    {
+        "index": 1104,
+        "title": "Path In Zigzag Labelled Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 1105,
+        "title": "Filling Bookcase Shelves",
+        "difficulty": 2
+    },
+    {
+        "index": 1106,
+        "title": "Parsing A Boolean Expression",
+        "difficulty": 3
+    },
+    {
+        "index": 1107,
+        "title": "New Users Daily Count",
+        "difficulty": 2
+    },
+    {
+        "index": 1108,
+        "title": "Defanging an IP Address",
+        "difficulty": 1
+    },
+    {
+        "index": 1109,
+        "title": "Corporate Flight Bookings",
+        "difficulty": 2
+    },
+    {
+        "index": 1110,
+        "title": "Delete Nodes And Return Forest",
+        "difficulty": 2
+    },
+    {
+        "index": 1111,
+        "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+        "difficulty": 2
+    },
+    {
+        "index": 1112,
+        "title": "Highest Grade For Each Student",
+        "difficulty": 2
+    },
+    {
+        "index": 1113,
+        "title": "Reported Posts",
+        "difficulty": 1
+    },
+    {
+        "index": 1114,
+        "title": "Print in Order",
+        "difficulty": 1
+    },
+    {
+        "index": 1115,
+        "title": "Print FooBar Alternately",
+        "difficulty": 2
+    },
+    {
+        "index": 1116,
+        "title": "Print Zero Even Odd",
+        "difficulty": 2
+    },
+    {
+        "index": 1117,
+        "title": "Building H2O",
+        "difficulty": 3
+    },
+    {
+        "index": 1118,
+        "title": "Number of Days in a Month",
+        "difficulty": 1
+    },
+    {
+        "index": 1119,
+        "title": "Remove Vowels from a String",
+        "difficulty": 1
+    },
+    {
+        "index": 1120,
+        "title": "Maximum Average Subtree",
+        "difficulty": 2
+    },
+    {
+        "index": 1121,
+        "title": "Divide Array Into Increasing Sequences",
+        "difficulty": 3
+    },
+    {
+        "index": 1122,
+        "title": "Relative Sort Array",
+        "difficulty": 1
+    },
+    {
+        "index": 1123,
+        "title": "Lowest Common Ancestor of Deepest Leaves",
+        "difficulty": 2
+    },
+    {
+        "index": 1124,
+        "title": "Longest Well-Performing Interval",
+        "difficulty": 2
+    },
+    {
+        "index": 1125,
+        "title": "Smallest Sufficient Team",
+        "difficulty": 3
+    },
+    {
+        "index": 1126,
+        "title": "Active Businesses",
+        "difficulty": 2
+    },
+    {
+        "index": 1127,
+        "title": "User Purchase Platform",
+        "difficulty": 3
     }
 ]
