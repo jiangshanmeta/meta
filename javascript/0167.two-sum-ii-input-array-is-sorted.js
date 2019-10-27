@@ -4,12 +4,19 @@
  * @return {number[]}
  */
 var twoSum = function(numbers, target) {
-    const map = new Map();
-    for(let i=0;i<numbers.length;i++){
-        const rest = target - numbers[i];
-        if(rest<=numbers[i] && map.has(rest)){
-            return [map.get(rest),i+1];
+    // 双指针
+    // left指针初始化为0 right初始化指向最后一个元素
+    // 两元素相加，若大于target 则 right-- 若小于target left++
+    let left = 0;
+    let right = numbers.length-1;
+    while(left<right){
+        const sum = numbers[left]+numbers[right];
+        if(sum > target){
+            right--;
+        }else if(sum < target){
+            left++;
+        }else{
+            return [left+1,right+1]
         }
-        map.set(numbers[i],i+1);
     }
 };
