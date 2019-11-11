@@ -4,22 +4,21 @@
  * @return {string}
  */
 var reverseStr = function(s, k) {
-    const result = [];
-    let startIndex = 0;
-    while(startIndex<s.length){
-        // 处理前k个 需要翻转
-        let endIndex = Math.min(startIndex+k-1,s.length-1);
-        for(let i=endIndex;i>=startIndex;i--){
-            result.push(s[i]);
-        }
-        startIndex += k;
-        // 处理后k个 不需要翻转
-        endIndex = Math.min(startIndex+k-1,s.length-1);
-        for(let i=startIndex;i<=endIndex;i++){
-            result.push(s[i]);
-        }
-        startIndex += k;
+    const sequence = s.split('');
+    let index = 0;
+    while(index<sequence.length){
+        reverse(sequence,index,Math.min(index+k-1,s.length-1));
+        index += 2*k;
     }
-    
-    return result.join("");
+    return sequence.join('');
 };
+
+function reverse(sequence,left,right){
+    while(left<right){
+        const tmp = sequence[right];
+        sequence[right] = sequence[left];
+        sequence[left] = tmp;
+        left++;
+        right--;
+    }
+}

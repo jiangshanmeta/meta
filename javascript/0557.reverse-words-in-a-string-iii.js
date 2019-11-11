@@ -2,13 +2,26 @@
  * @param {string} s
  * @return {string}
  */
-// 按题意做就好了
 var reverseWords = function(s) {
-    return s.split(" ").map((word)=>{
-        let reverse = '';
-        for(let i=word.length-1;i>-1;i--){
-            reverse += word[i];
+    const sequence = s.split('');
+    let index = 0;
+    while(index<sequence.length){
+        const start = index;
+        while(index<sequence.length && sequence[index] !== ' '){
+            index++;
         }
-        return reverse;
-    }).join(" ")
+        reverse(sequence,start,index-1);
+        index++;
+    }
+    return sequence.join('');
 };
+
+function reverse(sequence,left,right){
+    while(left<right){
+        const tmp = sequence[right];
+        sequence[right] = sequence[left];
+        sequence[left] = tmp;
+        left++;
+        right--;
+    }
+}

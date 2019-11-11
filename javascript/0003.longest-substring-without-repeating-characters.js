@@ -21,3 +21,23 @@ var lengthOfLongestSubstring = function(s) {
     }
     return max;
 };
+// 同样思路 滑动窗口
+var lengthOfLongestSubstring = function(s) {
+    const lastIndexs = {};
+    let result = 0;
+    let index = 0;
+    let curLength = 0;
+    while(index<s.length){
+        const lastIndex = lastIndexs[s[index]] === undefined?-1:lastIndexs[s[index]];
+        lastIndexs[s[index]] = index;
+        if(lastIndex<index-curLength){
+            curLength++;
+        }else{
+            curLength = index-lastIndex;
+        }
+        result = Math.max(result,curLength);
+        index++;
+    }
+
+    return result;
+};

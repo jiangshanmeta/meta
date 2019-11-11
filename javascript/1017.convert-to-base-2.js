@@ -2,19 +2,16 @@
  * @param {number} N
  * @return {string}
  */
-// 本质是除k取余法
 var baseNeg2 = function(N) {
-    if(N === 0){
-        return "0"
+    if(N===0){
+        return '0';
     }
-    const result = [];
-    let sign = 1;
-    while(N>0){
-        const rest = N%-2;
-        result.unshift(rest);
-        N = (N-sign*rest)/2;
-        sign = -sign;
+    const stack = [];
+    while(N){
+        // 看余数 通过位运算看最后一位是否为1
+        stack.push(N&1)
+        // 除-2
+        N = -(N>>1);
     }
-    
-    return result.join("");
+    return stack.reverse().join('')
 };
