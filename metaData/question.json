@@ -792,7 +792,7 @@
     {
         "index": 159,
         "title": "Longest Substring with At Most Two Distinct Characters",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 160,
@@ -1492,7 +1492,7 @@
     {
         "index": 299,
         "title": "Bulls and Cows",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "index": 300,
@@ -1957,7 +1957,7 @@
     {
         "index": 392,
         "title": "Is Subsequence",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "index": 393,
@@ -1997,7 +1997,7 @@
     {
         "index": 400,
         "title": "Nth Digit",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 401,
@@ -2142,7 +2142,7 @@
     {
         "index": 429,
         "title": "N-ary Tree Level Order Traversal",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 430,
@@ -2187,7 +2187,7 @@
     {
         "index": 438,
         "title": "Find All Anagrams in a String",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 439,
@@ -3156,7 +3156,7 @@
     },
     {
         "index": 632,
-        "title": "Smallest Range",
+        "title": "Smallest Range Covering Elements from K Lists",
         "difficulty": 3
     },
     {
@@ -3532,11 +3532,11 @@
     {
         "index": 707,
         "title": "Design Linked List",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 708,
-        "title": "Insert into a Cyclic Sorted List",
+        "title": "Insert into a Sorted Circular Linked List",
         "difficulty": 2
     },
     {
@@ -4681,7 +4681,7 @@
     },
     {
         "index": 937,
-        "title": "Reorder Log Files",
+        "title": "Reorder Data in Log Files",
         "difficulty": 1
     },
     {
@@ -5202,7 +5202,7 @@
     {
         "index": 1041,
         "title": "Robot Bounded In Circle",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 1042,
@@ -5456,7 +5456,7 @@
     },
     {
         "index": 1092,
-        "title": "Shortest Common Supersequence",
+        "title": "Shortest Common Supersequence ",
         "difficulty": 3
     },
     {
@@ -5582,7 +5582,7 @@
     {
         "index": 1117,
         "title": "Building H2O",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 1118,
@@ -5633,5 +5633,720 @@
         "index": 1127,
         "title": "User Purchase Platform",
         "difficulty": 3
+    },
+    {
+        "index": 1128,
+        "title": "Number of Equivalent Domino Pairs",
+        "difficulty": 1
+    },
+    {
+        "index": 1129,
+        "title": "Shortest Path with Alternating Colors",
+        "difficulty": 2
+    },
+    {
+        "index": 1130,
+        "title": "Minimum Cost Tree From Leaf Values",
+        "difficulty": 2
+    },
+    {
+        "index": 1131,
+        "title": "Maximum of Absolute Value Expression",
+        "difficulty": 2
+    },
+    {
+        "index": 1132,
+        "title": "Reported Posts II",
+        "difficulty": 2
+    },
+    {
+        "index": 1133,
+        "title": "Largest Unique Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1134,
+        "title": "Armstrong Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1135,
+        "title": "Connecting Cities With Minimum Cost",
+        "difficulty": 2
+    },
+    {
+        "index": 1136,
+        "title": "Parallel Courses",
+        "difficulty": 3
+    },
+    {
+        "index": 1137,
+        "title": "N-th Tribonacci Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1138,
+        "title": "Alphabet Board Path",
+        "difficulty": 2
+    },
+    {
+        "index": 1139,
+        "title": "Largest 1-Bordered Square",
+        "difficulty": 2
+    },
+    {
+        "index": 1140,
+        "title": "Stone Game II",
+        "difficulty": 2
+    },
+    {
+        "index": 1141,
+        "title": "User Activity for the Past 30 Days I",
+        "difficulty": 1
+    },
+    {
+        "index": 1142,
+        "title": "User Activity for the Past 30 Days II",
+        "difficulty": 1
+    },
+    {
+        "index": 1143,
+        "title": "Longest Common Subsequence",
+        "difficulty": 2
+    },
+    {
+        "index": 1144,
+        "title": "Decrease Elements To Make Array Zigzag",
+        "difficulty": 2
+    },
+    {
+        "index": 1145,
+        "title": "Binary Tree Coloring Game",
+        "difficulty": 2
+    },
+    {
+        "index": 1146,
+        "title": "Snapshot Array",
+        "difficulty": 2
+    },
+    {
+        "index": 1147,
+        "title": "Longest Chunked Palindrome Decomposition",
+        "difficulty": 3
+    },
+    {
+        "index": 1148,
+        "title": "Article Views I",
+        "difficulty": 1
+    },
+    {
+        "index": 1149,
+        "title": "Article Views II",
+        "difficulty": 2
+    },
+    {
+        "index": 1150,
+        "title": "Check If a Number Is Majority Element in a Sorted Array",
+        "difficulty": 1
+    },
+    {
+        "index": 1151,
+        "title": "Minimum Swaps to Group All 1's Together",
+        "difficulty": 2
+    },
+    {
+        "index": 1152,
+        "title": "Analyze User Website Visit Pattern",
+        "difficulty": 2
+    },
+    {
+        "index": 1153,
+        "title": "String Transforms Into Another String",
+        "difficulty": 3
+    },
+    {
+        "index": 1154,
+        "title": "Day of the Year",
+        "difficulty": 1
+    },
+    {
+        "index": 1155,
+        "title": "Number of Dice Rolls With Target Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 1156,
+        "title": "Swap For Longest Repeated Character Substring",
+        "difficulty": 2
+    },
+    {
+        "index": 1157,
+        "title": "Online Majority Element In Subarray",
+        "difficulty": 3
+    },
+    {
+        "index": 1158,
+        "title": "Market Analysis I",
+        "difficulty": 2
+    },
+    {
+        "index": 1159,
+        "title": "Market Analysis II",
+        "difficulty": 3
+    },
+    {
+        "index": 1160,
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": 1
+    },
+    {
+        "index": 1161,
+        "title": "Maximum Level Sum of a Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 1162,
+        "title": "As Far from Land as Possible",
+        "difficulty": 2
+    },
+    {
+        "index": 1163,
+        "title": "Last Substring in Lexicographical Order",
+        "difficulty": 3
+    },
+    {
+        "index": 1164,
+        "title": "Product Price at a Given Date",
+        "difficulty": 2
+    },
+    {
+        "index": 1165,
+        "title": "Single-Row Keyboard",
+        "difficulty": 1
+    },
+    {
+        "index": 1166,
+        "title": "Design File System",
+        "difficulty": 2
+    },
+    {
+        "index": 1167,
+        "title": "Minimum Cost to Connect Sticks",
+        "difficulty": 2
+    },
+    {
+        "index": 1168,
+        "title": "Optimize Water Distribution in a Village",
+        "difficulty": 3
+    },
+    {
+        "index": 1169,
+        "title": "Invalid Transactions",
+        "difficulty": 2
+    },
+    {
+        "index": 1170,
+        "title": "Compare Strings by Frequency of the Smallest Character",
+        "difficulty": 1
+    },
+    {
+        "index": 1171,
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "difficulty": 2
+    },
+    {
+        "index": 1172,
+        "title": "Dinner Plate Stacks",
+        "difficulty": 3
+    },
+    {
+        "index": 1173,
+        "title": "Immediate Food Delivery I",
+        "difficulty": 1
+    },
+    {
+        "index": 1174,
+        "title": "Immediate Food Delivery II",
+        "difficulty": 2
+    },
+    {
+        "index": 1175,
+        "title": "Prime Arrangements",
+        "difficulty": 1
+    },
+    {
+        "index": 1176,
+        "title": "Diet Plan Performance",
+        "difficulty": 1
+    },
+    {
+        "index": 1177,
+        "title": "Can Make Palindrome from Substring",
+        "difficulty": 2
+    },
+    {
+        "index": 1178,
+        "title": "Number of Valid Words for Each Puzzle",
+        "difficulty": 3
+    },
+    {
+        "index": 1179,
+        "title": "Reformat Department Table",
+        "difficulty": 1
+    },
+    {
+        "index": 1180,
+        "title": "Count Substrings with Only One Distinct Letter",
+        "difficulty": 1
+    },
+    {
+        "index": 1181,
+        "title": "Before and After Puzzle",
+        "difficulty": 2
+    },
+    {
+        "index": 1182,
+        "title": "Shortest Distance to Target Color",
+        "difficulty": 2
+    },
+    {
+        "index": 1183,
+        "title": "Maximum Number of Ones",
+        "difficulty": 3
+    },
+    {
+        "index": 1184,
+        "title": "Distance Between Bus Stops",
+        "difficulty": 1
+    },
+    {
+        "index": 1185,
+        "title": "Day of the Week",
+        "difficulty": 1
+    },
+    {
+        "index": 1186,
+        "title": "Maximum Subarray Sum with One Deletion",
+        "difficulty": 2
+    },
+    {
+        "index": 1187,
+        "title": "Make Array Strictly Increasing",
+        "difficulty": 3
+    },
+    {
+        "index": 1188,
+        "title": "Design Bounded Blocking Queue",
+        "difficulty": 2
+    },
+    {
+        "index": 1189,
+        "title": "Maximum Number of Balloons",
+        "difficulty": 1
+    },
+    {
+        "index": 1190,
+        "title": "Reverse Substrings Between Each Pair of Parentheses",
+        "difficulty": 2
+    },
+    {
+        "index": 1191,
+        "title": "K-Concatenation Maximum Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 1192,
+        "title": "Critical Connections in a Network",
+        "difficulty": 3
+    },
+    {
+        "index": 1193,
+        "title": "Monthly Transactions I",
+        "difficulty": 2
+    },
+    {
+        "index": 1194,
+        "title": "Tournament Winners",
+        "difficulty": 3
+    },
+    {
+        "index": 1195,
+        "title": "Fizz Buzz Multithreaded",
+        "difficulty": 2
+    },
+    {
+        "index": 1196,
+        "title": "How Many Apples Can You Put into the Basket",
+        "difficulty": 1
+    },
+    {
+        "index": 1197,
+        "title": "Minimum Knight Moves",
+        "difficulty": 2
+    },
+    {
+        "index": 1198,
+        "title": "Find Smallest Common Element in All Rows",
+        "difficulty": 2
+    },
+    {
+        "index": 1199,
+        "title": "Minimum Time to Build Blocks",
+        "difficulty": 3
+    },
+    {
+        "index": 1200,
+        "title": "Minimum Absolute Difference",
+        "difficulty": 1
+    },
+    {
+        "index": 1201,
+        "title": "Ugly Number III",
+        "difficulty": 2
+    },
+    {
+        "index": 1202,
+        "title": "Smallest String With Swaps",
+        "difficulty": 2
+    },
+    {
+        "index": 1203,
+        "title": "Sort Items by Groups Respecting Dependencies",
+        "difficulty": 3
+    },
+    {
+        "index": 1204,
+        "title": "Last Person to Fit in the Elevator",
+        "difficulty": 2
+    },
+    {
+        "index": 1205,
+        "title": "Monthly Transactions II",
+        "difficulty": 2
+    },
+    {
+        "index": 1206,
+        "title": "Design Skiplist",
+        "difficulty": 3
+    },
+    {
+        "index": 1207,
+        "title": "Unique Number of Occurrences",
+        "difficulty": 1
+    },
+    {
+        "index": 1208,
+        "title": "Get Equal Substrings Within Budget",
+        "difficulty": 2
+    },
+    {
+        "index": 1209,
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": 2
+    },
+    {
+        "index": 1210,
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "difficulty": 3
+    },
+    {
+        "index": 1211,
+        "title": "Queries Quality and Percentage",
+        "difficulty": 1
+    },
+    {
+        "index": 1212,
+        "title": "Team Scores in Football Tournament",
+        "difficulty": 2
+    },
+    {
+        "index": 1213,
+        "title": "Intersection of Three Sorted Arrays",
+        "difficulty": 1
+    },
+    {
+        "index": 1214,
+        "title": "Two Sum BSTs",
+        "difficulty": 2
+    },
+    {
+        "index": 1215,
+        "title": "Stepping Numbers",
+        "difficulty": 2
+    },
+    {
+        "index": 1216,
+        "title": "Valid Palindrome III",
+        "difficulty": 3
+    },
+    {
+        "index": 1217,
+        "title": "Play with Chips",
+        "difficulty": 1
+    },
+    {
+        "index": 1218,
+        "title": "Longest Arithmetic Subsequence of Given Difference",
+        "difficulty": 2
+    },
+    {
+        "index": 1219,
+        "title": "Path with Maximum Gold",
+        "difficulty": 2
+    },
+    {
+        "index": 1220,
+        "title": "Count Vowels Permutation",
+        "difficulty": 3
+    },
+    {
+        "index": 1221,
+        "title": "Split a String in Balanced Strings",
+        "difficulty": 1
+    },
+    {
+        "index": 1222,
+        "title": "Queens That Can Attack the King",
+        "difficulty": 2
+    },
+    {
+        "index": 1223,
+        "title": "Dice Roll Simulation",
+        "difficulty": 2
+    },
+    {
+        "index": 1224,
+        "title": "Maximum Equal Frequency",
+        "difficulty": 3
+    },
+    {
+        "index": 1225,
+        "title": "Report Contiguous Dates",
+        "difficulty": 3
+    },
+    {
+        "index": 1226,
+        "title": "The Dining Philosophers",
+        "difficulty": 2
+    },
+    {
+        "index": 1227,
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": 2
+    },
+    {
+        "index": 1228,
+        "title": "Missing Number In Arithmetic Progression",
+        "difficulty": 1
+    },
+    {
+        "index": 1229,
+        "title": "Meeting Scheduler",
+        "difficulty": 2
+    },
+    {
+        "index": 1230,
+        "title": "Toss Strange Coins",
+        "difficulty": 2
+    },
+    {
+        "index": 1231,
+        "title": "Divide Chocolate",
+        "difficulty": 3
+    },
+    {
+        "index": 1232,
+        "title": "Check If It Is a Straight Line",
+        "difficulty": 1
+    },
+    {
+        "index": 1233,
+        "title": "Remove Sub-Folders from the Filesystem",
+        "difficulty": 2
+    },
+    {
+        "index": 1234,
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": 2
+    },
+    {
+        "index": 1235,
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": 3
+    },
+    {
+        "index": 1236,
+        "title": "Web Crawler",
+        "difficulty": 2
+    },
+    {
+        "index": 1237,
+        "title": "Find Positive Integer Solution for a Given Equation",
+        "difficulty": 1
+    },
+    {
+        "index": 1238,
+        "title": "Circular Permutation in Binary Representation",
+        "difficulty": 2
+    },
+    {
+        "index": 1239,
+        "title": "Maximum Length of a Concatenated String with Unique Characters",
+        "difficulty": 2
+    },
+    {
+        "index": 1240,
+        "title": "Tiling a Rectangle with the Fewest Squares",
+        "difficulty": 3
+    },
+    {
+        "index": 1241,
+        "title": "Number of Comments per Post",
+        "difficulty": 1
+    },
+    {
+        "index": 1242,
+        "title": "Web Crawler Multithreaded",
+        "difficulty": 2
+    },
+    {
+        "index": 1243,
+        "title": "Array Transformation",
+        "difficulty": 1
+    },
+    {
+        "index": 1244,
+        "title": "Design A Leaderboard",
+        "difficulty": 2
+    },
+    {
+        "index": 1245,
+        "title": "Tree Diameter",
+        "difficulty": 2
+    },
+    {
+        "index": 1246,
+        "title": "Palindrome Removal",
+        "difficulty": 3
+    },
+    {
+        "index": 1247,
+        "title": "Minimum Swaps to Make Strings Equal",
+        "difficulty": 2
+    },
+    {
+        "index": 1248,
+        "title": "Count Number of Nice Subarrays",
+        "difficulty": 2
+    },
+    {
+        "index": 1249,
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "difficulty": 2
+    },
+    {
+        "index": 1250,
+        "title": "Check If It Is a Good Array",
+        "difficulty": 3
+    },
+    {
+        "index": 1251,
+        "title": "Average Selling Price",
+        "difficulty": 1
+    },
+    {
+        "index": 1252,
+        "title": "Cells with Odd Values in a Matrix",
+        "difficulty": 1
+    },
+    {
+        "index": 1253,
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "difficulty": 2
+    },
+    {
+        "index": 1254,
+        "title": "Number of Closed Islands",
+        "difficulty": 2
+    },
+    {
+        "index": 1255,
+        "title": "Maximum Score Words Formed by Letters",
+        "difficulty": 3
+    },
+    {
+        "index": 1256,
+        "title": "Encode Number",
+        "difficulty": 2
+    },
+    {
+        "index": 1257,
+        "title": "Smallest Common Region",
+        "difficulty": 2
+    },
+    {
+        "index": 1258,
+        "title": "Synonymous Sentences",
+        "difficulty": 2
+    },
+    {
+        "index": 1259,
+        "title": "Handshakes That Don't Cross",
+        "difficulty": 3
+    },
+    {
+        "index": 1260,
+        "title": "Shift 2D Grid",
+        "difficulty": 1
+    },
+    {
+        "index": 1261,
+        "title": "Find Elements in a Contaminated Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 1262,
+        "title": "Greatest Sum Divisible by Three",
+        "difficulty": 2
+    },
+    {
+        "index": 1263,
+        "title": "Minimum Moves to Move a Box to Their Target Location",
+        "difficulty": 3
+    },
+    {
+        "index": 1264,
+        "title": "Page Recommendations",
+        "difficulty": 2
+    },
+    {
+        "index": 1265,
+        "title": "Print Immutable Linked List in Reverse",
+        "difficulty": 2
+    },
+    {
+        "index": 1266,
+        "title": "Minimum Time Visiting All Points",
+        "difficulty": 1
+    },
+    {
+        "index": 1267,
+        "title": "Count Servers that Communicate",
+        "difficulty": 2
+    },
+    {
+        "index": 1268,
+        "title": "Search Suggestions System",
+        "difficulty": 2
+    },
+    {
+        "index": 1269,
+        "title": "Number of Ways to Stay in the Same Place After Some Steps",
+        "difficulty": 3
+    },
+    {
+        "index": 1270,
+        "title": "All People Report to the Given Manager",
+        "difficulty": 2
     }
 ]

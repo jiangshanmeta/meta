@@ -4,20 +4,18 @@
  * @param {number} K
  * @return {number}
  */
-// 直接暴力算的
 var twoSumLessThanK = function(A, K) {
     A.sort((a,b)=>a-b);
+    let low = 0;
+    let high = A.length-1;
     let result = -1;
-    for(let i=0;i<A.length-1;i++){
-        if(A[i]>=K){
-            break;
-        }
-        for(let j=i+1;j<A.length;j++){
-            const sum = A[i]+A[j];
-            if(sum>=K){
-                break;
-            }
+    while(low<high){
+        const sum = A[low]+A[high];
+        if(sum<K){
             result = Math.max(result,sum);
+            low++;
+        }else{
+            high--;
         }
     }
     return result;

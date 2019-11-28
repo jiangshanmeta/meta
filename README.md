@@ -1,6 +1,10 @@
-# meta
+# leetcode 题解
 
-leetcode
+[leetcode题解](https://github.com/jiangshanmeta/meta)
+
+[lintcode题解](https://github.com/jiangshanmeta/lintcode)
+
+[剑指offer题解](https://github.com/jiangshanmeta/coding-interviews)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -19,9 +23,9 @@ leetcode
 | 13 | Roman to Integer | [JavaScript](./javascript/0013.roman-to-integer.js) | Easy |
 | 14 | Longest Common Prefix | [JavaScript](./javascript/0014.longest-common-prefix.js) | Easy |
 | 15 | 3Sum | [JavaScript](./javascript/0015.3sum.js) | Medium |
-| 16 | 3Sum Closest |  | Medium |
+| 16 | 3Sum Closest | [JavaScript](./javascript/0016.3sum-closest.js) | Medium |
 | 17 | Letter Combinations of a Phone Number | [JavaScript](./javascript/0017.letter-combinations-of-a-phone-number.js) | Medium |
-| 18 | 4Sum |  | Medium |
+| 18 | 4Sum | [JavaScript](./javascript/0018.4sum.js) | Medium |
 | 19 | Remove Nth Node From End of List | [JavaScript](./javascript/0019.remove-nth-node-from-end-of-list.js) | Medium |
 | 20 | Valid Parentheses | [JavaScript](./javascript/0020.valid-parentheses.js) | Easy |
 | 21 | Merge Two Sorted Lists | [JavaScript](./javascript/0021.merge-two-sorted-lists.js) | Easy |
@@ -94,7 +98,7 @@ leetcode
 | 88 | Merge Sorted Array | [JavaScript](./javascript/0088.merge-sorted-array.js) | Easy |
 | 89 | Gray Code | [JavaScript](./javascript/0089.gray-code.js) | Medium |
 | 90 | Subsets II | [JavaScript](./javascript/0090.subsets-ii.js) | Medium |
-| 91 | Decode Ways |  | Medium |
+| 91 | Decode Ways | [JavaScript](./javascript/0091.decode-ways.js) | Medium |
 | 92 | Reverse Linked List II | [JavaScript](./javascript/0092.reverse-linked-list-ii.js) | Medium |
 | 93 | Restore IP Addresses | [JavaScript](./javascript/0093.restore-ip-addresses.js) | Medium |
 | 94 | Binary Tree Inorder Traversal | [JavaScript](./javascript/0094.binary-tree-inorder-traversal.js) | Medium |
@@ -140,7 +144,7 @@ leetcode
 | 134 | Gas Station | [JavaScript](./javascript/0134.gas-station.js) | Medium |
 | 135 | Candy |  | Hard |
 | 136 | Single Number | [JavaScript](./javascript/0136.single-number.js) | Easy |
-| 137 | Single Number II |  | Medium |
+| 137 | Single Number II | [JavaScript](./javascript/0137.single-number-ii.js) | Medium |
 | 138 | Copy List with Random Pointer | [JavaScript](./javascript/0138.copy-list-with-random-pointer.js) | Medium |
 | 139 | Word Break | [JavaScript](./javascript/0139.word-break.js) | Medium |
 | 140 | Word Break II | [JavaScript](./javascript/0140.word-break-ii.js) | Hard |
@@ -162,7 +166,7 @@ leetcode
 | 156 | Binary Tree Upside Down |  | Medium |
 | 157 | Read N Characters Given Read4 |  | Easy |
 | 158 | Read N Characters Given Read4 II - Call multiple times |  | Hard |
-| 159 | Longest Substring with At Most Two Distinct Characters |  | Hard |
+| 159 | Longest Substring with At Most Two Distinct Characters |  | Medium |
 | 160 | Intersection of Two Linked Lists | [JavaScript](./javascript/0160.intersection-of-two-linked-lists.js) | Easy |
 | 161 | One Edit Distance |  | Medium |
 | 162 | Find Peak Element | [JavaScript](./javascript/0162.find-peak-element.js) | Medium |
@@ -207,7 +211,7 @@ leetcode
 | 201 | Bitwise AND of Numbers Range | [JavaScript](./javascript/0201.bitwise-and-of-numbers-range.js) | Medium |
 | 202 | Happy Number | [JavaScript](./javascript/0202.happy-number.js) | Easy |
 | 203 | Remove Linked List Elements | [JavaScript](./javascript/0203.remove-linked-list-elements.js) | Easy |
-| 204 | Count Primes |  | Easy |
+| 204 | Count Primes | [JavaScript](./javascript/0204.count-primes.js) | Easy |
 | 205 | Isomorphic Strings | [JavaScript](./javascript/0205.isomorphic-strings.js) | Easy |
 | 206 | Reverse Linked List | [JavaScript](./javascript/0206.reverse-linked-list.js) | Easy |
 | 207 | Course Schedule | [JavaScript](./javascript/0207.course-schedule.js) | Medium |
@@ -218,7 +222,7 @@ leetcode
 | 212 | Word Search II |  | Hard |
 | 213 | House Robber II | [JavaScript](./javascript/0213.house-robber-ii.js) | Medium |
 | 214 | Shortest Palindrome |  | Hard |
-| 215 | Kth Largest Element in an Array |  | Medium |
+| 215 | Kth Largest Element in an Array | [JavaScript](./javascript/0215.kth-largest-element-in-an-array.js) | Medium |
 | 216 | Combination Sum III | [JavaScript](./javascript/0216.combination-sum-iii.js) | Medium |
 | 217 | Contains Duplicate | [JavaScript](./javascript/0217.contains-duplicate.js) | Easy |
 | 218 | The Skyline Problem |  | Hard |
@@ -267,7 +271,7 @@ leetcode
 | 261 | Graph Valid Tree |  | Medium |
 | 262 | Trips and Users |  | Hard |
 | 263 | Ugly Number | [JavaScript](./javascript/0263.ugly-number.js) | Easy |
-| 264 | Ugly Number II |  | Medium |
+| 264 | Ugly Number II | [JavaScript](./javascript/0264.ugly-number-ii.js) | Medium |
 | 265 | Paint House II |  | Hard |
 | 266 | Palindrome Permutation |  | Easy |
 | 267 | Palindrome Permutation II |  | Medium |
@@ -302,7 +306,7 @@ leetcode
 | 296 | Best Meeting Point |  | Hard |
 | 297 | Serialize and Deserialize Binary Tree | [JavaScript](./javascript/0297.serialize-and-deserialize-binary-tree.js) | Hard |
 | 298 | Binary Tree Longest Consecutive Sequence |  | Medium |
-| 299 | Bulls and Cows | [JavaScript](./javascript/0299.bulls-and-cows.js) | Medium |
+| 299 | Bulls and Cows | [JavaScript](./javascript/0299.bulls-and-cows.js) | Easy |
 | 300 | Longest Increasing Subsequence | [JavaScript](./javascript/0300.longest-increasing-subsequence.js) | Medium |
 | 301 | Remove Invalid Parentheses |  | Hard |
 | 302 | Smallest Rectangle Enclosing Black Pixels |  | Hard |
@@ -316,9 +320,9 @@ leetcode
 | 310 | Minimum Height Trees |  | Medium |
 | 311 | Sparse Matrix Multiplication |  | Medium |
 | 312 | Burst Balloons |  | Hard |
-| 313 | Super Ugly Number |  | Medium |
+| 313 | Super Ugly Number | [JavaScript](./javascript/0313.super-ugly-number.js) | Medium |
 | 314 | Binary Tree Vertical Order Traversal |  | Medium |
-| 315 | Count of Smaller Numbers After Self |  | Hard |
+| 315 | Count of Smaller Numbers After Self | [JavaScript](./javascript/0315.count-of-smaller-numbers-after-self.js) | Hard |
 | 316 | Remove Duplicate Letters |  | Hard |
 | 317 | Shortest Distance from All Buildings |  | Hard |
 | 318 | Maximum Product of Word Lengths | [JavaScript](./javascript/0318.maximum-product-of-word-lengths.js) | Medium |
@@ -350,7 +354,7 @@ leetcode
 | 344 | Reverse String | [JavaScript](./javascript/0344.reverse-string.js) | Easy |
 | 345 | Reverse Vowels of a String | [JavaScript](./javascript/0345.reverse-vowels-of-a-string.js) | Easy |
 | 346 | Moving Average from Data Stream |  | Easy |
-| 347 | Top K Frequent Elements |  | Medium |
+| 347 | Top K Frequent Elements | [JavaScript](./javascript/0347.top-k-frequent-elements.js) | Medium |
 | 348 | Design Tic-Tac-Toe |  | Medium |
 | 349 | Intersection of Two Arrays | [JavaScript](./javascript/0349.intersection-of-two-arrays.js) | Easy |
 | 350 | Intersection of Two Arrays II | [JavaScript](./javascript/0350.intersection-of-two-arrays-ii.js) | Easy |
@@ -375,13 +379,13 @@ leetcode
 | 369 | Plus One Linked List |  | Medium |
 | 370 | Range Addition |  | Medium |
 | 371 | Sum of Two Integers | [JavaScript](./javascript/0371.sum-of-two-integers.js) | Easy |
-| 372 | Super Pow |  | Medium |
+| 372 | Super Pow | [JavaScript](./javascript/0372.super-pow.js) | Medium |
 | 373 | Find K Pairs with Smallest Sums | [JavaScript](./javascript/0373.find-k-pairs-with-smallest-sums.js) | Medium |
 | 374 | Guess Number Higher or Lower | [Python3](./python/0374.guess-number-higher-or-lower.py) | Easy |
 | 375 | Guess Number Higher or Lower II | [JavaScript](./javascript/0375.guess-number-higher-or-lower-ii.js) | Medium |
 | 376 | Wiggle Subsequence | [JavaScript](./javascript/0376.wiggle-subsequence.js) | Medium |
 | 377 | Combination Sum IV | [JavaScript](./javascript/0377.combination-sum-iv.js) | Medium |
-| 378 | Kth Smallest Element in a Sorted Matrix |  | Medium |
+| 378 | Kth Smallest Element in a Sorted Matrix | [JavaScript](./javascript/0378.kth-smallest-element-in-a-sorted-matrix.js) | Medium |
 | 379 | Design Phone Directory |  | Medium |
 | 380 | Insert Delete GetRandom O(1) | [JavaScript](./javascript/0380.insert-delete-getrandom-o1.js) | Medium |
 | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | [JavaScript](./javascript/0381.insert-delete-getrandom-o1-duplicates-allowed.js) | Hard |
@@ -395,7 +399,7 @@ leetcode
 | 389 | Find the Difference | [JavaScript](./javascript/0389.find-the-difference.js) | Easy |
 | 390 | Elimination Game |  | Medium |
 | 391 | Perfect Rectangle |  | Hard |
-| 392 | Is Subsequence | [JavaScript](./javascript/0392.is-subsequence.js) | Medium |
+| 392 | Is Subsequence | [JavaScript](./javascript/0392.is-subsequence.js) | Easy |
 | 393 | UTF-8 Validation | [JavaScript](./javascript/0393.utf-8-validation.js) | Medium |
 | 394 | Decode String | [JavaScript](./javascript/0394.decode-string.js) | Medium |
 | 395 | Longest Substring with At Least K Repeating Characters | [JavaScript](./javascript/0395.longest-substring-with-at-least-k-repeating-characters.js) | Medium |
@@ -403,7 +407,7 @@ leetcode
 | 397 | Integer Replacement | [JavaScript](./javascript/0397.integer-replacement.js) | Medium |
 | 398 | Random Pick Index | [JavaScript](./javascript/0398.random-pick-index.js) | Medium |
 | 399 | Evaluate Division |  | Medium |
-| 400 | Nth Digit | [JavaScript](./javascript/0400.nth-digit.js) | Easy |
+| 400 | Nth Digit | [JavaScript](./javascript/0400.nth-digit.js) | Medium |
 | 401 | Binary Watch | [JavaScript](./javascript/0401.binary-watch.js) | Easy |
 | 402 | Remove K Digits |  | Medium |
 | 403 | Frog Jump | [JavaScript](./javascript/0403.frog-jump.js) | Hard |
@@ -432,7 +436,7 @@ leetcode
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List |  | Medium |
 | 427 | Construct Quad Tree | [JavaScript](./javascript/0427.construct-quad-tree.js) | Medium |
 | 428 | Serialize and Deserialize N-ary Tree |  | Hard |
-| 429 | N-ary Tree Level Order Traversal | [JavaScript](./javascript/0429.n-ary-tree-level-order-traversal.js) | Easy |
+| 429 | N-ary Tree Level Order Traversal | [JavaScript](./javascript/0429.n-ary-tree-level-order-traversal.js) | Medium |
 | 430 | Flatten a Multilevel Doubly Linked List | [JavaScript](./javascript/0430.flatten-a-multilevel-doubly-linked-list.js) | Medium |
 | 431 | Encode N-ary Tree to Binary Tree |  | Hard |
 | 432 | All O`one Data Structure | [JavaScript](./javascript/0432.all-oone-data-structure.js) | Hard |
@@ -441,7 +445,7 @@ leetcode
 | 435 | Non-overlapping Intervals |  | Medium |
 | 436 | Find Right Interval | [JavaScript](./javascript/0436.find-right-interval.js) | Medium |
 | 437 | Path Sum III | [JavaScript](./javascript/0437.path-sum-iii.js) | Easy |
-| 438 | Find All Anagrams in a String | [JavaScript](./javascript/0438.find-all-anagrams-in-a-string.js) | Easy |
+| 438 | Find All Anagrams in a String | [JavaScript](./javascript/0438.find-all-anagrams-in-a-string.js) | Medium |
 | 439 | Ternary Expression Parser |  | Medium |
 | 440 | K-th Smallest in Lexicographical Order |  | Hard |
 | 441 | Arranging Coins | [JavaScript](./javascript/0441.arranging-coins.js) | Easy |
@@ -457,7 +461,7 @@ leetcode
 | 451 | Sort Characters By Frequency | [JavaScript](./javascript/0451.sort-characters-by-frequency.js) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons |  | Medium |
 | 453 | Minimum Moves to Equal Array Elements |  | Easy |
-| 454 | 4Sum II |  | Medium |
+| 454 | 4Sum II | [JavaScript](./javascript/0454.4sum-ii.js) | Medium |
 | 455 | Assign Cookies | [JavaScript](./javascript/0455.assign-cookies.js) | Easy |
 | 456 | 132 Pattern |  | Medium |
 | 457 | Circular Array Loop |  | Medium |
@@ -496,7 +500,7 @@ leetcode
 | 490 | The Maze |  | Medium |
 | 491 | Increasing Subsequences | [JavaScript](./javascript/0491.increasing-subsequences.js) | Medium |
 | 492 | Construct the Rectangle | [JavaScript](./javascript/0492.construct-the-rectangle.js) | Easy |
-| 493 | Reverse Pairs |  | Hard |
+| 493 | Reverse Pairs | [JavaScript](./javascript/0493.reverse-pairs.js) | Hard |
 | 494 | Target Sum | [JavaScript](./javascript/0494.target-sum.js) | Medium |
 | 495 | Teemo Attacking | [JavaScript](./javascript/0495.teemo-attacking.js) | Medium |
 | 496 | Next Greater Element I | [JavaScript](./javascript/0496.next-greater-element-i.js) | Easy |
@@ -635,7 +639,7 @@ leetcode
 | 629 | K Inverse Pairs Array |  | Hard |
 | 630 | Course Schedule III |  | Hard |
 | 631 | Design Excel Sum Formula |  | Hard |
-| 632 | Smallest Range |  | Hard |
+| 632 | Smallest Range Covering Elements from K Lists |  | Hard |
 | 633 | Sum of Square Numbers | [JavaScript](./javascript/0633.sum-of-square-numbers.js) | Easy |
 | 634 | Find the Derangement of An Array |  | Medium |
 | 635 | Design Log Storage System |  | Medium |
@@ -710,8 +714,8 @@ leetcode
 | 704 | Binary Search | [JavaScript](./javascript/0704.binary-search.js) | Easy |
 | 705 | Design HashSet | [JavaScript](./javascript/0705.design-hashset.js) | Easy |
 | 706 | Design HashMap | [JavaScript](./javascript/0706.design-hashmap.js) | Easy |
-| 707 | Design Linked List | [JavaScript](./javascript/0707.design-linked-list.js) | Easy |
-| 708 | Insert into a Cyclic Sorted List |  | Medium |
+| 707 | Design Linked List | [JavaScript](./javascript/0707.design-linked-list.js) | Medium |
+| 708 | Insert into a Sorted Circular Linked List |  | Medium |
 | 709 | To Lower Case | [JavaScript](./javascript/0709.to-lower-case.js) | Easy |
 | 710 | Random Pick with Blacklist |  | Hard |
 | 711 | Number of Distinct Islands II |  | Hard |
@@ -926,7 +930,7 @@ leetcode
 | 920 | Number of Music Playlists |  | Hard |
 | 921 | Minimum Add to Make Parentheses Valid | [JavaScript](./javascript/0921.minimum-add-to-make-parentheses-valid.js) | Medium |
 | 922 | Sort Array By Parity II | [JavaScript](./javascript/0922.sort-array-by-parity-ii.js) | Easy |
-| 923 | 3Sum With Multiplicity |  | Medium |
+| 923 | 3Sum With Multiplicity | [JavaScript](./javascript/0923.3sum-with-multiplicity.js) | Medium |
 | 924 | Minimize Malware Spread |  | Hard |
 | 925 | Long Pressed Name | [JavaScript](./javascript/0925.long-pressed-name.js) | Easy |
 | 926 | Flip String to Monotone Increasing | [JavaScript](./javascript/0926.flip-string-to-monotone-increasing.js) | Medium |
@@ -940,7 +944,7 @@ leetcode
 | 934 | Shortest Bridge | [JavaScript](./javascript/0934.shortest-bridge.js) | Medium |
 | 935 | Knight Dialer | [JavaScript](./javascript/0935.knight-dialer.js) | Medium |
 | 936 | Stamping The Sequence |  | Hard |
-| 937 | Reorder Log Files | [JavaScript](./javascript/0937.reorder-log-files.js) | Easy |
+| 937 | Reorder Data in Log Files | [JavaScript](./javascript/0937.reorder-log-files.js) | Easy |
 | 938 | Range Sum of BST | [JavaScript](./javascript/0938.range-sum-of-bst.js) | Easy |
 | 939 | Minimum Area Rectangle | [JavaScript](./javascript/0939.minimum-area-rectangle.js) | Medium |
 | 940 | Distinct Subsequences II | [JavaScript](./javascript/0940.distinct-subsequences-ii.js) | Hard |
@@ -962,7 +966,7 @@ leetcode
 | 956 | Tallest Billboard |  | Hard |
 | 957 | Prison Cells After N Days |  | Medium |
 | 958 | Check Completeness of a Binary Tree | [JavaScript](./javascript/0958.check-completeness-of-a-binary-tree.js) | Medium |
-| 959 | Regions Cut By Slashes |  | Medium |
+| 959 | Regions Cut By Slashes | [JavaScript](./javascript/0959.regions-cut-by-slashes.js) | Medium |
 | 960 | Delete Columns to Make Sorted III |  | Hard |
 | 961 | N-Repeated Element in Size 2N Array | [JavaScript](./javascript/0961.n-repeated-element-in-size-2n-array.js) | Easy |
 | 962 | Maximum Width Ramp |  | Medium |
@@ -1044,7 +1048,7 @@ leetcode
 | 1038 | Binary Search Tree to Greater Sum Tree | [JavaScript](./javascript/1038.binary-search-tree-to-greater-sum-tree.js) | Medium |
 | 1039 | Minimum Score Triangulation of Polygon |  | Medium |
 | 1040 | Moving Stones Until Consecutive II |  | Medium |
-| 1041 | Robot Bounded In Circle | [JavaScript](./javascript/1041.robot-bounded-in-circle.js) | Easy |
+| 1041 | Robot Bounded In Circle | [JavaScript](./javascript/1041.robot-bounded-in-circle.js) | Medium |
 | 1042 | Flower Planting With No Adjacent |  | Easy |
 | 1043 | Partition Array for Maximum Sum |  | Medium |
 | 1044 | Longest Duplicate Substring |  | Hard |
@@ -1095,7 +1099,7 @@ leetcode
 | 1089 | Duplicate Zeros | [JavaScript](./javascript/1089.duplicate-zeros.js) | Easy |
 | 1090 | Largest Values From Labels | [JavaScript](./javascript/1090.largest-values-from-labels.js) | Medium |
 | 1091 | Shortest Path in Binary Matrix | [JavaScript](./javascript/1091.shortest-path-in-binary-matrix.js) | Medium |
-| 1092 | Shortest Common Supersequence |  | Hard |
+| 1092 | Shortest Common Supersequence  |  | Hard |
 | 1093 | Statistics from a Large Sample | [JavaScript](./javascript/1093.statistics-from-a-large-sample.js) | Medium |
 | 1094 | Car Pooling | [JavaScript](./javascript/1094.car-pooling.js) | Medium |
 | 1095 | Find in Mountain Array | [JavaScript](./javascript/1095.find-in-mountain-array.js) [Python3](./python/1095.find-in-mountain-array.py) | Hard |
@@ -1120,7 +1124,7 @@ leetcode
 | 1114 | Print in Order |  | Easy |
 | 1115 | Print FooBar Alternately |  | Medium |
 | 1116 | Print Zero Even Odd |  | Medium |
-| 1117 | Building H2O |  | Hard |
+| 1117 | Building H2O |  | Medium |
 | 1118 | Number of Days in a Month | [JavaScript](./javascript/1118.number-of-days-in-a-month.js) | Easy |
 | 1119 | Remove Vowels from a String | [JavaScript](./javascript/1119.remove-vowels-from-a-string.js) | Easy |
 | 1120 | Maximum Average Subtree | [JavaScript](./javascript/1120.maximum-average-subtree.js) | Medium |
@@ -1131,3 +1135,146 @@ leetcode
 | 1125 | Smallest Sufficient Team |  | Hard |
 | 1126 | Active Businesses |  | Medium |
 | 1127 | User Purchase Platform |  | Hard |
+| 1128 | Number of Equivalent Domino Pairs | [JavaScript](./javascript/1128.number-of-equivalent-domino-pairs.js) | Easy |
+| 1129 | Shortest Path with Alternating Colors | [JavaScript](./javascript/1129.shortest-path-with-alternating-colors.js) | Medium |
+| 1130 | Minimum Cost Tree From Leaf Values |  | Medium |
+| 1131 | Maximum of Absolute Value Expression | [JavaScript](./javascript/1131.maximum-of-absolute-value-expression.js) | Medium |
+| 1132 | Reported Posts II |  | Medium |
+| 1133 | Largest Unique Number | [JavaScript](./javascript/1133.largest-unique-number.js) | Easy |
+| 1134 | Armstrong Number | [JavaScript](./javascript/1134.armstrong-number.js) | Easy |
+| 1135 | Connecting Cities With Minimum Cost |  | Medium |
+| 1136 | Parallel Courses |  | Hard |
+| 1137 | N-th Tribonacci Number | [JavaScript](./javascript/1137.n-th-tribonacci-number.js) | Easy |
+| 1138 | Alphabet Board Path | [JavaScript](./javascript/1138.alphabet-board-path.js) | Medium |
+| 1139 | Largest 1-Bordered Square | [JavaScript](./javascript/1139.largest-1-bordered-square.js) | Medium |
+| 1140 | Stone Game II |  | Medium |
+| 1141 | User Activity for the Past 30 Days I |  | Easy |
+| 1142 | User Activity for the Past 30 Days II |  | Easy |
+| 1143 | Longest Common Subsequence | [JavaScript](./javascript/1143.longest-common-subsequence.js) | Medium |
+| 1144 | Decrease Elements To Make Array Zigzag | [JavaScript](./javascript/1144.decrease-elements-to-make-array-zigzag.js) | Medium |
+| 1145 | Binary Tree Coloring Game | [JavaScript](./javascript/1145.binary-tree-coloring-game.js) | Medium |
+| 1146 | Snapshot Array | [JavaScript](./javascript/1146.snapshot-array.js) | Medium |
+| 1147 | Longest Chunked Palindrome Decomposition |  | Hard |
+| 1148 | Article Views I |  | Easy |
+| 1149 | Article Views II |  | Medium |
+| 1150 | Check If a Number Is Majority Element in a Sorted Array | [JavaScript](./javascript/1150.is-a-a-majority-element.js) | Easy |
+| 1151 | Minimum Swaps to Group All 1's Together |  | Medium |
+| 1152 | Analyze User Website Visit Pattern | [JavaScript](./javascript/1152.analyse-user-website-visit-pattern.js) | Medium |
+| 1153 | String Transforms Into Another String |  | Hard |
+| 1154 | Day of the Year | [JavaScript](./javascript/1154.ordinal-number-of-date.js) | Easy |
+| 1155 | Number of Dice Rolls With Target Sum | [JavaScript](./javascript/1155.number-of-dice-rolls-with-target-sum.js) | Medium |
+| 1156 | Swap For Longest Repeated Character Substring | [JavaScript](./javascript/1156.swap-for-maximum-repeated-substring.js) | Medium |
+| 1157 | Online Majority Element In Subarray |  | Hard |
+| 1158 | Market Analysis I |  | Medium |
+| 1159 | Market Analysis II |  | Hard |
+| 1160 | Find Words That Can Be Formed by Characters | [JavaScript](./javascript/1160.find-words-that-can-be-formed-by-characters.js) | Easy |
+| 1161 | Maximum Level Sum of a Binary Tree | [JavaScript](./javascript/1161.maximum-level-sum-of-a-binary-tree.js) | Medium |
+| 1162 | As Far from Land as Possible | [JavaScript](./javascript/1162.as-far-from-land-as-possible.js) | Medium |
+| 1163 | Last Substring in Lexicographical Order |  | Hard |
+| 1164 | Product Price at a Given Date |  | Medium |
+| 1165 | Single-Row Keyboard | [JavaScript](./javascript/1165.single-row-keyboard.js) | Easy |
+| 1166 | Design File System | [JavaScript](./javascript/1166.design-file-system.js) | Medium |
+| 1167 | Minimum Cost to Connect Sticks | [JavaScript](./javascript/1167.minimum-cost-to-connect-sticks.js) | Medium |
+| 1168 | Optimize Water Distribution in a Village |  | Hard |
+| 1169 | Invalid Transactions | [JavaScript](./javascript/1169.invalid-transactions.js) | Medium |
+| 1170 | Compare Strings by Frequency of the Smallest Character | [JavaScript](./javascript/1170.compare-strings-by-frequency-of-the-smallest-character.js) | Easy |
+| 1171 | Remove Zero Sum Consecutive Nodes from Linked List | [JavaScript](./javascript/1171.remove-zero-sum-consecutive-nodes-from-linked-list.js) | Medium |
+| 1172 | Dinner Plate Stacks | [JavaScript](./javascript/1172.dinner-plate-stacks.js) | Hard |
+| 1173 | Immediate Food Delivery I |  | Easy |
+| 1174 | Immediate Food Delivery II |  | Medium |
+| 1175 | Prime Arrangements | [JavaScript](./javascript/1175.prime-arrangements.js) | Easy |
+| 1176 | Diet Plan Performance | [JavaScript](./javascript/1176.diet-plan-performance.js) | Easy |
+| 1177 | Can Make Palindrome from Substring | [JavaScript](./javascript/1177.can-make-palindrome-from-substring.js) | Medium |
+| 1178 | Number of Valid Words for Each Puzzle |  | Hard |
+| 1179 | Reformat Department Table |  | Easy |
+| 1180 | Count Substrings with Only One Distinct Letter | [JavaScript](./javascript/1180.count-substrings-with-only-one-distinct-letter.js) | Easy |
+| 1181 | Before and After Puzzle | [JavaScript](./javascript/1181.before-and-after-puzzle.js) | Medium |
+| 1182 | Shortest Distance to Target Color | [JavaScript](./javascript/1182.shortest-distance-to-target-color.js) | Medium |
+| 1183 | Maximum Number of Ones |  | Hard |
+| 1184 | Distance Between Bus Stops | [JavaScript](./javascript/1184.distance-between-bus-stops.js) | Easy |
+| 1185 | Day of the Week | [JavaScript](./javascript/1185.day-of-the-week.js) | Easy |
+| 1186 | Maximum Subarray Sum with One Deletion |  | Medium |
+| 1187 | Make Array Strictly Increasing |  | Hard |
+| 1188 | Design Bounded Blocking Queue |  | Medium |
+| 1189 | Maximum Number of Balloons | [JavaScript](./javascript/1189.maximum-number-of-balloons.js) | Easy |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | [JavaScript](./javascript/1190.reverse-substrings-between-each-pair-of-parentheses.js) | Medium |
+| 1191 | K-Concatenation Maximum Sum | [JavaScript](./javascript/1191.k-concatenation-maximum-sum.js) | Medium |
+| 1192 | Critical Connections in a Network |  | Hard |
+| 1193 | Monthly Transactions I |  | Medium |
+| 1194 | Tournament Winners |  | Hard |
+| 1195 | Fizz Buzz Multithreaded |  | Medium |
+| 1196 | How Many Apples Can You Put into the Basket | [JavaScript](./javascript/1196.how-many-apples-can-you-put-into-the-basket.js) | Easy |
+| 1197 | Minimum Knight Moves | [JavaScript](./javascript/1197.minimum-knight-moves.js) | Medium |
+| 1198 | Find Smallest Common Element in All Rows | [JavaScript](./javascript/1198.find-smallest-common-element-in-all-rows.js) | Medium |
+| 1199 | Minimum Time to Build Blocks |  | Hard |
+| 1200 | Minimum Absolute Difference | [JavaScript](./javascript/1200.minimum-absolute-difference.js) | Easy |
+| 1201 | Ugly Number III | [JavaScript](./javascript/1201.ugly-number-iii.js) | Medium |
+| 1202 | Smallest String With Swaps | [JavaScript](./javascript/1202.smallest-string-with-swaps.js) | Medium |
+| 1203 | Sort Items by Groups Respecting Dependencies |  | Hard |
+| 1204 | Last Person to Fit in the Elevator |  | Medium |
+| 1205 | Monthly Transactions II |  | Medium |
+| 1206 | Design Skiplist |  | Hard |
+| 1207 | Unique Number of Occurrences | [JavaScript](./javascript/1207.unique-number-of-occurrences.js) | Easy |
+| 1208 | Get Equal Substrings Within Budget | [JavaScript](./javascript/1208.get-equal-substrings-within-budget.js) | Medium |
+| 1209 | Remove All Adjacent Duplicates in String II | [JavaScript](./javascript/1209.remove-all-adjacent-duplicates-in-string-ii.js) | Medium |
+| 1210 | Minimum Moves to Reach Target with Rotations | [JavaScript](./javascript/1210.minimum-moves-to-reach-target-with-rotations.js) | Hard |
+| 1211 | Queries Quality and Percentage |  | Easy |
+| 1212 | Team Scores in Football Tournament |  | Medium |
+| 1213 | Intersection of Three Sorted Arrays | [JavaScript](./javascript/1213.intersection-of-three-sorted-arrays.js) | Easy |
+| 1214 | Two Sum BSTs | [JavaScript](./javascript/1214.two-sum-bsts.js) | Medium |
+| 1215 | Stepping Numbers |  | Medium |
+| 1216 | Valid Palindrome III |  | Hard |
+| 1217 | Play with Chips | [JavaScript](./javascript/1217.play-with-chips.js) | Easy |
+| 1218 | Longest Arithmetic Subsequence of Given Difference | [JavaScript](./javascript/1218.longest-arithmetic-subsequence-of-given-difference.js) | Medium |
+| 1219 | Path with Maximum Gold |  | Medium |
+| 1220 | Count Vowels Permutation | [JavaScript](./javascript/1220.count-vowels-permutation.js) | Hard |
+| 1221 | Split a String in Balanced Strings | [JavaScript](./javascript/1221.split-a-string-in-balanced-strings.js) | Easy |
+| 1222 | Queens That Can Attack the King | [JavaScript](./javascript/1222.queens-that-can-attack-the-king.js) | Medium |
+| 1223 | Dice Roll Simulation |  | Medium |
+| 1224 | Maximum Equal Frequency |  | Hard |
+| 1225 | Report Contiguous Dates |  | Hard |
+| 1226 | The Dining Philosophers |  | Medium |
+| 1227 | Airplane Seat Assignment Probability |  | Medium |
+| 1228 | Missing Number In Arithmetic Progression | [JavaScript](./javascript/1228.missing-number-in-arithmetic-progression.js) | Easy |
+| 1229 | Meeting Scheduler | [JavaScript](./javascript/1229.meeting-scheduler.js) | Medium |
+| 1230 | Toss Strange Coins | [JavaScript](./javascript/1230.toss-strange-coins.js) | Medium |
+| 1231 | Divide Chocolate |  | Hard |
+| 1232 | Check If It Is a Straight Line | [JavaScript](./javascript/1232.check-if-it-is-a-straight-line.js) | Easy |
+| 1233 | Remove Sub-Folders from the Filesystem | [JavaScript](./javascript/1233.remove-sub-folders-from-the-filesystem.js) | Medium |
+| 1234 | Replace the Substring for Balanced String |  | Medium |
+| 1235 | Maximum Profit in Job Scheduling |  | Hard |
+| 1236 | Web Crawler |  | Medium |
+| 1237 | Find Positive Integer Solution for a Given Equation | [JavaScript](./javascript/1237.find-positive-integer-solution-for-a-given-equation.js) | Easy |
+| 1238 | Circular Permutation in Binary Representation |  | Medium |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters | [JavaScript](./javascript/1239.maximum-length-of-a-concatenated-string-with-unique-characters.js) | Medium |
+| 1240 | Tiling a Rectangle with the Fewest Squares |  | Hard |
+| 1241 | Number of Comments per Post |  | Easy |
+| 1242 | Web Crawler Multithreaded |  | Medium |
+| 1243 | Array Transformation |  | Easy |
+| 1244 | Design A Leaderboard |  | Medium |
+| 1245 | Tree Diameter |  | Medium |
+| 1246 | Palindrome Removal |  | Hard |
+| 1247 | Minimum Swaps to Make Strings Equal | [JavaScript](./javascript/1247.minimum-swaps-to-make-strings-equal.js) | Medium |
+| 1248 | Count Number of Nice Subarrays | [JavaScript](./javascript/1248.count-number-of-nice-subarrays.js) | Medium |
+| 1249 | Minimum Remove to Make Valid Parentheses | [JavaScript](./javascript/1249.minimum-remove-to-make-valid-parentheses.js) | Medium |
+| 1250 | Check If It Is a Good Array |  | Hard |
+| 1251 | Average Selling Price |  | Easy |
+| 1252 | Cells with Odd Values in a Matrix | [JavaScript](./javascript/1252.cells-with-odd-values-in-a-matrix.js) | Easy |
+| 1253 | Reconstruct a 2-Row Binary Matrix | [JavaScript](./javascript/1253.reconstruct-a-2-row-binary-matrix.js) | Medium |
+| 1254 | Number of Closed Islands | [JavaScript](./javascript/1254.number-of-closed-islands.js) | Medium |
+| 1255 | Maximum Score Words Formed by Letters | [JavaScript](./javascript/1255.maximum-score-words-formed-by-letters.js) | Hard |
+| 1256 | Encode Number | [JavaScript](./javascript/1256.encode-number.js) | Medium |
+| 1257 | Smallest Common Region | [JavaScript](./javascript/1257.smallest-common-region.js) | Medium |
+| 1258 | Synonymous Sentences | [Python3](./python/1258.synonymous-sentences.py) | Medium |
+| 1259 | Handshakes That Don't Cross |  | Hard |
+| 1260 | Shift 2D Grid | [JavaScript](./javascript/1260.shift-2d-grid.js) | Easy |
+| 1261 | Find Elements in a Contaminated Binary Tree | [Python3](./python/1261.find-elements-in-a-contaminated-binary-tree.py) | Medium |
+| 1262 | Greatest Sum Divisible by Three | [JavaScript](./javascript/1262.greatest-sum-divisible-by-three.js) | Medium |
+| 1263 | Minimum Moves to Move a Box to Their Target Location |  | Hard |
+| 1264 | Page Recommendations |  | Medium |
+| 1265 | Print Immutable Linked List in Reverse |  | Medium |
+| 1266 | Minimum Time Visiting All Points | [JavaScript](./javascript/1266.minimum-time-visiting-all-points.js) | Easy |
+| 1267 | Count Servers that Communicate | [JavaScript](./javascript/1267.count-servers-that-communicate.js) | Medium |
+| 1268 | Search Suggestions System | [Python3](./python/1268.search-suggestions-system.py) | Medium |
+| 1269 | Number of Ways to Stay in the Same Place After Some Steps | [JavaScript](./javascript/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.js) | Hard |
+| 1270 | All People Report to the Given Manager |  | Medium |

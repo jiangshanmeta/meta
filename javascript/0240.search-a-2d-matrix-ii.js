@@ -7,16 +7,15 @@ var searchMatrix = function(matrix, target) {
     if(matrix.length === 0){
         return false;
     }
-    let x = matrix.length-1;
-    let maxColumn = matrix[0].length;
-    let y = 0;
     
-    while(x>-1 && y<maxColumn){
-        const val = matrix[x][y];
-        if(val<target){
-            y++;
-        }else if(val>target){
-            x--;
+    let row = 0;
+    let column = matrix[0].length-1;
+    while(row<matrix.length && column>-1){
+        const element = matrix[row][column];
+        if(element>target){
+            column--;
+        }else if(element<target){
+            row++;
         }else{
             return true;
         }
