@@ -10,7 +10,7 @@
 
 [LeetCode笔记本](https://github.com/jiangshanmeta/leetcode-notebook)
 
-LeetCode笔记本已经录制视频视频，发布在[网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1209597911&share=2&shareId=480000001947591)上
+[制作的课程](https://study.163.com/provider/480000001947591/index.htm)
 
 为了对LeetCode上的题目做专题整理，办了一个知识星球：
 
@@ -773,7 +773,7 @@ LeetCode笔记本已经录制视频视频，发布在[网易云课堂](https://s
 | 751 | IP to CIDR |  | Easy |
 | 752 | Open the Lock | [JavaScript](./javascript/0752.open-the-lock.js) | Medium |
 | 753 | Cracking the Safe |  | Hard |
-| 754 | Reach a Number |  | Easy |
+| 754 | Reach a Number |  | Medium |
 | 755 | Pour Water |  | Medium |
 | 756 | Pyramid Transition Matrix | [JavaScript](./javascript/0756.pyramid-transition-matrix.js) | Medium |
 | 757 | Set Intersection Size At Least Two |  | Hard |
@@ -1290,3 +1290,12 @@ LeetCode笔记本已经录制视频视频，发布在[网易云课堂](https://s
 | 1268 | Search Suggestions System | [Python3](./python/1268.search-suggestions-system.py) | Medium |
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | [JavaScript](./javascript/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.js) | Hard |
 | 1270 | All People Report to the Given Manager |  | Medium |
+| 1271 | Hexspeak | [Python3](./python/1271.hexspeak.py) | Easy |
+| 1272 | Remove Interval | [Python3](./python/1272.remove-interval.py) | Medium |
+| 1273 | Delete Tree Nodes | [JavaScript](./javascript/1273.delete-tree-nodes.js) | Medium |
+| 1274 | Number of Ships in a Rectangle |  | Hard |
+| 1275 | Find Winner on a Tic Tac Toe Game | [JavaScript](./javascript/1275.find-winner-on-a-tic-tac-toe-game.js) | Easy |
+| 1276 | Number of Burgers with No Waste of Ingredients | [JavaScript](./javascript/1276.number-of-burgers-with-no-waste-of-ingredients.js) | Medium |
+| 1277 | Count Square Submatrices with All Ones | [JavaScript](./javascript/1277.count-square-submatrices-with-all-ones.js) | Medium |
+| 1278 | Palindrome Partitioning III |  | Hard |
+| 1279 | Traffic Light Controlled Intersection |  | Easy |

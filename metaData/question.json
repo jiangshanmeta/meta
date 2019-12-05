@@ -3767,7 +3767,7 @@
     {
         "index": 754,
         "title": "Reach a Number",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 755,
@@ -6348,5 +6348,50 @@
         "index": 1270,
         "title": "All People Report to the Given Manager",
         "difficulty": 2
+    },
+    {
+        "index": 1271,
+        "title": "Hexspeak",
+        "difficulty": 1
+    },
+    {
+        "index": 1272,
+        "title": "Remove Interval",
+        "difficulty": 2
+    },
+    {
+        "index": 1273,
+        "title": "Delete Tree Nodes",
+        "difficulty": 2
+    },
+    {
+        "index": 1274,
+        "title": "Number of Ships in a Rectangle",
+        "difficulty": 3
+    },
+    {
+        "index": 1275,
+        "title": "Find Winner on a Tic Tac Toe Game",
+        "difficulty": 1
+    },
+    {
+        "index": 1276,
+        "title": "Number of Burgers with No Waste of Ingredients",
+        "difficulty": 2
+    },
+    {
+        "index": 1277,
+        "title": "Count Square Submatrices with All Ones",
+        "difficulty": 2
+    },
+    {
+        "index": 1278,
+        "title": "Palindrome Partitioning III",
+        "difficulty": 3
+    },
+    {
+        "index": 1279,
+        "title": "Traffic Light Controlled Intersection",
+        "difficulty": 1
     }
 ]
