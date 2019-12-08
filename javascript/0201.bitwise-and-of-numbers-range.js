@@ -4,16 +4,12 @@
  * @return {number}
  */
 var rangeBitwiseAnd = function(m, n) {
-    if(m===0 || 2*m<n){
-        return 0;
-    }
-    
-    let i=0;
+    // 只需要找到m和n最左边的公共部分
+    let count = 0;
     while(m !== n){
-        m >>= 1;
-        n >>= 1;
-        i++
+        m >>>= 1;
+        n >>>= 1;
+        count++;
     }
-    
-    return m << i;
+    return m<<count;
 };

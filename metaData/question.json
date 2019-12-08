@@ -6393,5 +6393,30 @@
         "index": 1279,
         "title": "Traffic Light Controlled Intersection",
         "difficulty": 1
+    },
+    {
+        "index": 1280,
+        "title": "Students and Examinations",
+        "difficulty": 1
+    },
+    {
+        "index": 1281,
+        "title": "Subtract the Product and Sum of Digits of an Integer",
+        "difficulty": 1
+    },
+    {
+        "index": 1282,
+        "title": "Group the People Given the Group Size They Belong To",
+        "difficulty": 2
+    },
+    {
+        "index": 1283,
+        "title": "Find the Smallest Divisor Given a Threshold",
+        "difficulty": 2
+    },
+    {
+        "index": 1284,
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "difficulty": 3
     }
 ]

@@ -1299,3 +1299,8 @@
 | 1277 | Count Square Submatrices with All Ones | [JavaScript](./javascript/1277.count-square-submatrices-with-all-ones.js) | Medium |
 | 1278 | Palindrome Partitioning III |  | Hard |
 | 1279 | Traffic Light Controlled Intersection |  | Easy |
+| 1280 | Students and Examinations |  | Easy |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | [JavaScript](./javascript/1281.subtract-the-product-and-sum-of-digits-of-an-integer.js) | Easy |
+| 1282 | Group the People Given the Group Size They Belong To | [JavaScript](./javascript/1282.group-the-people-given-the-group-size-they-belong-to.js) | Medium |
+| 1283 | Find the Smallest Divisor Given a Threshold | [JavaScript](./javascript/1283.find-the-smallest-divisor-given-a-threshold.js) | Medium |
+| 1284 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix |  | Hard |
