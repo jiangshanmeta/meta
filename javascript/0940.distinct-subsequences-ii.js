@@ -2,33 +2,24 @@
  * @param {string} S
  * @return {number}
  */
-const mod = 10**9 + 7;
+const mod = 10**9+7;
 var distinctSubseqII = function(S) {
-    const duplicate = {};
-    const arr = new Array(S.length).fill(0);
-    arr[S.length-1] = 1;
-    duplicate[S[S.length-1]] = 1;
-    let right = 1;
-    // 思路是这样的，从后向前，长度逐渐+1
-    // 以当前节点S[i]为开始的序列为1(只用当前元素)+right(右面的全部组合每一个以S[i]为前缀构成新组合)
-    for(let i=S.length-2;i>-1;i--){
-        let cur = 1 + right;
-        // 比较复杂的是重复元素的处理
-        // 比如aaa 从a=>aa 我们得到['a','aa']但是'a'是重复的，所以减去1
-        // 从aa=>aaa 得到['a','aa','aaa'] 'a'和'aa'是重复的，要减去2
-        if(duplicate[S[i]] !== undefined){
-            cur -= duplicate[S[i]];
-        }
-        arr[i] = cur;
-        if(duplicate[S[i]] === undefined){
-            duplicate[S[i]] = cur;
-        }else{
-            duplicate[S[i]] += cur;
-        }
-        right += cur%mod;
+    // duplicate[i] 记录字母表第i个字符有多少已经出现的组合
+    const duplicate = new Array(26).fill(0);
+    let result = 0;
+    let previous = 0;
+    for(let i=0;i<S.length;i++){
+        const code = S.charCodeAt(i)-97;
+        // count是以S[i]为结尾的独一无二的字符
+        // 不考虑重复是previous+1个
+        // 考虑重复所以要减去duplicate[code]
+        // 还要加上mod再%是因为 经过多次mod运算 previous可能比duplicate[code]小了
+        // 要保证count为正数
+
+        const count = (previous+1-duplicate[code]+mod)%mod;
+        result = (result+count)%mod;
+        previous = (previous+count)%mod;
+        duplicate[code] = (duplicate[code]+count)%mod;
     }
-    return arr.reduce((sum,cur)=>{
-        sum += cur;
-        return sum;
-    },0)%mod;
+    return result;
 };

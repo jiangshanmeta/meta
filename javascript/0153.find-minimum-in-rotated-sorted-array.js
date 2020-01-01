@@ -1,27 +1,19 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var findMin = function(nums) {
-    if(nums[nums.length-1]>nums[0]){
-        return nums[0];
-    }
-    let low = 0;
-    let high = nums.length-1;
-    
-    while(low<=high){
-        const mid = (low+high)/2 | 0;
-        const left = mid>0?nums[mid-1]:Infinity;
-        const right = mid<nums.length-1?nums[mid+1]:Infinity;
-        if(nums[mid]<left && nums[mid]<right){
-            return nums[mid];
+    // left 左侧增长序列的最大索引
+    let left = 0;
+    // right 右侧增长序列的最大索引
+    let right = nums.length-1;
+    while(nums[left]>nums[right]){
+        if(left+1 === right){
+            return nums[right];
         }
-        
-        if(nums[mid]>=nums[0]){
-            low = mid+1;
+        const mid = (left+right)>>1;
+        if(nums[mid]>nums[left]){
+            left = mid;
         }else{
-            high = mid-1;
+            right = mid;
         }
     }
-    
+    // 考虑到可能旋转后是原数组，不会进入循环 最小的就是第0个
+    return nums[0];
 };
