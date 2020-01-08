@@ -145,7 +145,7 @@
 | 129 | Sum Root to Leaf Numbers | [JavaScript](./javascript/0129.sum-root-to-leaf-numbers.js) | Medium |
 | 130 | Surrounded Regions | [JavaScript](./javascript/0130.surrounded-regions.js) | Medium |
 | 131 | Palindrome Partitioning | [JavaScript](./javascript/0131.palindrome-partitioning.js) | Medium |
-| 132 | Palindrome Partitioning II |  | Hard |
+| 132 | Palindrome Partitioning II | [JavaScript](./javascript/0132.palindrome-partitioning-ii.js) | Hard |
 | 133 | Clone Graph | [JavaScript](./javascript/0133.clone-graph.js) | Medium |
 | 134 | Gas Station | [JavaScript](./javascript/0134.gas-station.js) | Medium |
 | 135 | Candy |  | Hard |
@@ -246,7 +246,7 @@
 | 230 | Kth Smallest Element in a BST | [JavaScript](./javascript/0230.kth-smallest-element-in-a-bst.js) | Medium |
 | 231 | Power of Two | [JavaScript](./javascript/0231.power-of-two.js) | Easy |
 | 232 | Implement Queue using Stacks | [JavaScript](./javascript/0232.implement-queue-using-stacks.js) | Easy |
-| 233 | Number of Digit One |  | Hard |
+| 233 | Number of Digit One | [JavaScript](./javascript/0233.number-of-digit-one.js) | Hard |
 | 234 | Palindrome Linked List | [JavaScript](./javascript/0234.palindrome-linked-list.js) | Easy |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [JavaScript](./javascript/0235.lowest-common-ancestor-of-a-binary-search-tree.js) | Easy |
 | 236 | Lowest Common Ancestor of a Binary Tree | [JavaScript](./javascript/0236.lowest-common-ancestor-of-a-binary-tree.js) | Medium |
@@ -589,7 +589,7 @@
 | 573 | Squirrel Simulation |  | Medium |
 | 574 | Winning Candidate |  | Medium |
 | 575 | Distribute Candies | [JavaScript](./javascript/0575.distribute-candies.js) | Easy |
-| 576 | Out of Boundary Paths |  | Medium |
+| 576 | Out of Boundary Paths | [JavaScript](./javascript/0576.out-of-boundary-paths.js) | Medium |
 | 577 | Employee Bonus |  | Easy |
 | 578 | Get Highest Answer Rate Question |  | Medium |
 | 579 | Find Cumulative Salary of an Employee |  | Hard |
@@ -660,7 +660,7 @@
 | 644 | Maximum Average Subarray II |  | Hard |
 | 645 | Set Mismatch | [JavaScript](./javascript/0645.set-mismatch.js) | Easy |
 | 646 | Maximum Length of Pair Chain | [JavaScript](./javascript/0646.maximum-length-of-pair-chain.js) | Medium |
-| 647 | Palindromic Substrings |  | Medium |
+| 647 | Palindromic Substrings | [JavaScript](./javascript/0647.palindromic-substrings.js) | Medium |
 | 648 | Replace Words | [JavaScript](./javascript/0648.replace-words.js) | Medium |
 | 649 | Dota2 Senate |  | Medium |
 | 650 | 2 Keys Keyboard |  | Medium |
@@ -731,7 +731,7 @@
 | 715 | Range Module | [JavaScript](./javascript/0715.range-module.js) | Hard |
 | 716 | Max Stack |  | Easy |
 | 717 | 1-bit and 2-bit Characters | [JavaScript](./javascript/0717.1-bit-and-2-bit-characters.js) | Easy |
-| 718 | Maximum Length of Repeated Subarray |  | Medium |
+| 718 | Maximum Length of Repeated Subarray | [JavaScript](./javascript/0718.maximum-length-of-repeated-subarray.js) | Medium |
 | 719 | Find K-th Smallest Pair Distance |  | Hard |
 | 720 | Longest Word in Dictionary | [JavaScript](./javascript/0720.longest-word-in-dictionary.js) | Easy |
 | 721 | Accounts Merge | [JavaScript](./javascript/0721.accounts-merge.js) | Medium |
@@ -753,7 +753,7 @@
 | 737 | Sentence Similarity II |  | Medium |
 | 738 | Monotone Increasing Digits | [JavaScript](./javascript/0738.monotone-increasing-digits.js) | Medium |
 | 739 | Daily Temperatures | [JavaScript](./javascript/0739.daily-temperatures.js) | Medium |
-| 740 | Delete and Earn |  | Medium |
+| 740 | Delete and Earn | [JavaScript](./javascript/0740.delete-and-earn.js) | Medium |
 | 741 | Cherry Pickup |  | Hard |
 | 742 | Closest Leaf in a Binary Tree |  | Medium |
 | 743 | Network Delay Time | [JavaScript](./javascript/0743.network-delay-time.js) | Medium |
@@ -1056,7 +1056,7 @@
 | 1040 | Moving Stones Until Consecutive II |  | Medium |
 | 1041 | Robot Bounded In Circle | [JavaScript](./javascript/1041.robot-bounded-in-circle.js) | Medium |
 | 1042 | Flower Planting With No Adjacent |  | Easy |
-| 1043 | Partition Array for Maximum Sum |  | Medium |
+| 1043 | Partition Array for Maximum Sum | [JavaScript](./javascript/1043.partition-array-for-maximum-sum.js) | Medium |
 | 1044 | Longest Duplicate Substring |  | Hard |
 | 1045 | Customers Who Bought All Products |  | Medium |
 | 1046 | Last Stone Weight | [JavaScript](./javascript/1046.last-stone-weight.js) | Easy |
@@ -1232,7 +1232,7 @@
 | 1216 | Valid Palindrome III |  | Hard |
 | 1217 | Play with Chips | [JavaScript](./javascript/1217.play-with-chips.js) | Easy |
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [JavaScript](./javascript/1218.longest-arithmetic-subsequence-of-given-difference.js) | Medium |
-| 1219 | Path with Maximum Gold |  | Medium |
+| 1219 | Path with Maximum Gold | [JavaScript](./javascript/1219.path-with-maximum-gold.js) | Medium |
 | 1220 | Count Vowels Permutation | [JavaScript](./javascript/1220.count-vowels-permutation.js) | Hard |
 | 1221 | Split a String in Balanced Strings | [JavaScript](./javascript/1221.split-a-string-in-balanced-strings.js) | Easy |
 | 1222 | Queens That Can Attack the King | [JavaScript](./javascript/1222.queens-that-can-attack-the-king.js) | Medium |
