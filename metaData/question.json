@@ -6538,5 +6538,140 @@
         "index": 1308,
         "title": "Running Total for Different Genders",
         "difficulty": 2
+    },
+    {
+        "index": 1309,
+        "title": "Decrypt String from Alphabet to Integer Mapping",
+        "difficulty": 1
+    },
+    {
+        "index": 1310,
+        "title": "XOR Queries of a Subarray",
+        "difficulty": 2
+    },
+    {
+        "index": 1311,
+        "title": "Get Watched Videos by Your Friends",
+        "difficulty": 2
+    },
+    {
+        "index": 1312,
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": 3
+    },
+    {
+        "index": 1313,
+        "title": "Decompress Run-Length Encoded List",
+        "difficulty": 1
+    },
+    {
+        "index": 1314,
+        "title": "Matrix Block Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 1315,
+        "title": "Sum of Nodes with Even-Valued Grandparent",
+        "difficulty": 2
+    },
+    {
+        "index": 1316,
+        "title": "Distinct Echo Substrings",
+        "difficulty": 3
+    },
+    {
+        "index": 1317,
+        "title": "Convert Integer to the Sum of Two No-Zero Integers",
+        "difficulty": 1
+    },
+    {
+        "index": 1318,
+        "title": "Minimum Flips to Make a OR b Equal to c",
+        "difficulty": 2
+    },
+    {
+        "index": 1319,
+        "title": "Number of Operations to Make Network Connected",
+        "difficulty": 2
+    },
+    {
+        "index": 1320,
+        "title": "Minimum Distance to Type a Word Using Two Fingers",
+        "difficulty": 3
+    },
+    {
+        "index": 1321,
+        "title": "Restaurant Growth",
+        "difficulty": 2
+    },
+    {
+        "index": 1322,
+        "title": "Ads Performance",
+        "difficulty": 1
+    },
+    {
+        "index": 1323,
+        "title": "Maximum 69 Number",
+        "difficulty": 1
+    },
+    {
+        "index": 1324,
+        "title": "Print Words Vertically",
+        "difficulty": 2
+    },
+    {
+        "index": 1325,
+        "title": "Delete Leaves With a Given Value",
+        "difficulty": 2
+    },
+    {
+        "index": 1326,
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": 3
+    },
+    {
+        "index": 1327,
+        "title": "List the Products Ordered in a Period",
+        "difficulty": 1
+    },
+    {
+        "index": 1328,
+        "title": "Break a Palindrome",
+        "difficulty": 2
+    },
+    {
+        "index": 1329,
+        "title": "Sort the Matrix Diagonally",
+        "difficulty": 2
+    },
+    {
+        "index": 1330,
+        "title": "Reverse Subarray To Maximize Array Value",
+        "difficulty": 3
+    },
+    {
+        "index": 1331,
+        "title": "Rank Transform of an Array",
+        "difficulty": 1
+    },
+    {
+        "index": 1332,
+        "title": "Remove Palindromic Subsequences",
+        "difficulty": 1
+    },
+    {
+        "index": 1333,
+        "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+        "difficulty": 2
+    },
+    {
+        "index": 1334,
+        "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "difficulty": 2
+    },
+    {
+        "index": 1335,
+        "title": "Minimum Difficulty of a Job Schedule",
+        "difficulty": 3
     }
 ]

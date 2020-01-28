@@ -1322,3 +1322,30 @@
 | 1306 | Jump Game III | [JavaScript](./javascript/1306.jump-game-iii.js) | Medium |
 | 1307 | Verbal Arithmetic Puzzle |  | Hard |
 | 1308 | Running Total for Different Genders |  | Medium |
+| 1309 | Decrypt String from Alphabet to Integer Mapping | [JavaScript](./javascript/1309.decrypt-string-from-alphabet-to-integer-mapping.js) | Easy |
+| 1310 | XOR Queries of a Subarray | [JavaScript](./javascript/1310.xor-queries-of-a-subarray.js) | Medium |
+| 1311 | Get Watched Videos by Your Friends | [JavaScript](./javascript/1311.get-watched-videos-by-your-friends.js) | Medium |
+| 1312 | Minimum Insertion Steps to Make a String Palindrome | [JavaScript](./javascript/1312.minimum-insertion-steps-to-make-a-string-palindrome.js) | Hard |
+| 1313 | Decompress Run-Length Encoded List | [JavaScript](./javascript/1313.decompress-run-length-encoded-list.js) | Easy |
+| 1314 | Matrix Block Sum | [JavaScript](./javascript/1314.matrix-block-sum.js) | Medium |
+| 1315 | Sum of Nodes with Even-Valued Grandparent | [JavaScript](./javascript/1315.sum-of-nodes-with-even-valued-grandparent.js) | Medium |
+| 1316 | Distinct Echo Substrings |  | Hard |
+| 1317 | Convert Integer to the Sum of Two No-Zero Integers | [JavaScript](./javascript/1317.convert-integer-to-the-sum-of-two-no-zero-integers.js) | Easy |
+| 1318 | Minimum Flips to Make a OR b Equal to c | [JavaScript](./javascript/1318.minimum-flips-to-make-a-or-b-equal-to-c.js) | Medium |
+| 1319 | Number of Operations to Make Network Connected |  | Medium |
+| 1320 | Minimum Distance to Type a Word Using Two Fingers |  | Hard |
+| 1321 | Restaurant Growth |  | Medium |
+| 1322 | Ads Performance |  | Easy |
+| 1323 | Maximum 69 Number | [JavaScript](./javascript/1323.maximum-69-number.js) | Easy |
+| 1324 | Print Words Vertically | [JavaScript](./javascript/1324.print-words-vertically.js) | Medium |
+| 1325 | Delete Leaves With a Given Value | [JavaScript](./javascript/1325.delete-leaves-with-a-given-value.js) | Medium |
+| 1326 | Minimum Number of Taps to Open to Water a Garden | [JavaScript](./javascript/1326.minimum-number-of-taps-to-open-to-water-a-garden.js) | Hard |
+| 1327 | List the Products Ordered in a Period |  | Easy |
+| 1328 | Break a Palindrome | [JavaScript](./javascript/1328.break-a-palindrome.js) | Medium |
+| 1329 | Sort the Matrix Diagonally | [JavaScript](./javascript/1329.sort-the-matrix-diagonally.js) | Medium |
+| 1330 | Reverse Subarray To Maximize Array Value |  | Hard |
+| 1331 | Rank Transform of an Array | [JavaScript](./javascript/1331.rank-transform-of-an-array.js) | Easy |
+| 1332 | Remove Palindromic Subsequences | [JavaScript](./javascript/1332.remove-palindromic-subsequences.js) | Easy |
+| 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | [JavaScript](./javascript/1333.filter-restaurants-by-vegan-friendly-price-and-distance.js) | Medium |
+| 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JavaScript](./javascript/1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js) | Medium |
+| 1335 | Minimum Difficulty of a Job Schedule | [JavaScript](./javascript/1335.minimum-difficulty-of-a-job-schedule.js) | Hard |
