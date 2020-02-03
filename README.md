@@ -2,6 +2,8 @@
 
 ## 相关链接
 
+[LeetCode个人主页](https://leetcode.com/jiangshanmeta/)
+
 [leetcode题解](https://github.com/jiangshanmeta/meta)
 
 [lintcode题解](https://github.com/jiangshanmeta/lintcode)
@@ -950,7 +952,7 @@
 | 934 | Shortest Bridge | [JavaScript](./javascript/0934.shortest-bridge.js) | Medium |
 | 935 | Knight Dialer | [JavaScript](./javascript/0935.knight-dialer.js) | Medium |
 | 936 | Stamping The Sequence |  | Hard |
-| 937 | Reorder Data in Log Files | [JavaScript](./javascript/0937.reorder-log-files.js) | Easy |
+| 937 | Reorder Data in Log Files | [JavaScript](./javascript/0937.reorder-data-in-log-files.js) | Easy |
 | 938 | Range Sum of BST | [JavaScript](./javascript/0938.range-sum-of-bst.js) | Easy |
 | 939 | Minimum Area Rectangle | [JavaScript](./javascript/0939.minimum-area-rectangle.js) | Medium |
 | 940 | Distinct Subsequences II | [JavaScript](./javascript/0940.distinct-subsequences-ii.js) | Hard |
@@ -1163,13 +1165,13 @@
 | 1147 | Longest Chunked Palindrome Decomposition |  | Hard |
 | 1148 | Article Views I |  | Easy |
 | 1149 | Article Views II |  | Medium |
-| 1150 | Check If a Number Is Majority Element in a Sorted Array | [JavaScript](./javascript/1150.is-a-a-majority-element.js) | Easy |
+| 1150 | Check If a Number Is Majority Element in a Sorted Array | [JavaScript](./javascript/1150.check-if-a-number-is-majority-element-in-a-sorted-array.js) | Easy |
 | 1151 | Minimum Swaps to Group All 1's Together |  | Medium |
-| 1152 | Analyze User Website Visit Pattern | [JavaScript](./javascript/1152.analyse-user-website-visit-pattern.js) | Medium |
+| 1152 | Analyze User Website Visit Pattern | [JavaScript](./javascript/1152.analyze-user-website-visit-pattern.js) | Medium |
 | 1153 | String Transforms Into Another String |  | Hard |
-| 1154 | Day of the Year | [JavaScript](./javascript/1154.ordinal-number-of-date.js) | Easy |
+| 1154 | Day of the Year | [JavaScript](./javascript/1154.day-of-the-year.js) | Easy |
 | 1155 | Number of Dice Rolls With Target Sum | [JavaScript](./javascript/1155.number-of-dice-rolls-with-target-sum.js) | Medium |
-| 1156 | Swap For Longest Repeated Character Substring | [JavaScript](./javascript/1156.swap-for-maximum-repeated-substring.js) | Medium |
+| 1156 | Swap For Longest Repeated Character Substring | [JavaScript](./javascript/1156.swap-for-longest-repeated-character-substring.js) | Medium |
 | 1157 | Online Majority Element In Subarray |  | Hard |
 | 1158 | Market Analysis I |  | Medium |
 | 1159 | Market Analysis II |  | Hard |
@@ -1345,7 +1347,12 @@
 | 1329 | Sort the Matrix Diagonally | [JavaScript](./javascript/1329.sort-the-matrix-diagonally.js) | Medium |
 | 1330 | Reverse Subarray To Maximize Array Value |  | Hard |
 | 1331 | Rank Transform of an Array | [JavaScript](./javascript/1331.rank-transform-of-an-array.js) | Easy |
-| 1332 | Remove Palindromic Subsequences | [JavaScript](./javascript/1332.remove-palindromic-subsequences.js) | Easy |
-| 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | [JavaScript](./javascript/1333.filter-restaurants-by-vegan-friendly-price-and-distance.js) | Medium |
-| 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JavaScript](./javascript/1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js) | Medium |
-| 1335 | Minimum Difficulty of a Job Schedule | [JavaScript](./javascript/1335.minimum-difficulty-of-a-job-schedule.js) | Hard |
+| 1336 | Number of Transactions per Visit |  | Medium |
+| 1337 | Remove Palindromic Subsequences | [JavaScript](./javascript/1337.remove-palindromic-subsequences.js) | Easy |
+| 1338 | Filter Restaurants by Vegan-Friendly, Price and Distance | [JavaScript](./javascript/1338.filter-restaurants-by-vegan-friendly-price-and-distance.js) | Medium |
+| 1339 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JavaScript](./javascript/1339.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js) | Medium |
+| 1340 | Minimum Difficulty of a Job Schedule | [JavaScript](./javascript/1340.minimum-difficulty-of-a-job-schedule.js) | Hard |
+| 1341 | The K Weakest Rows in a Matrix | [JavaScript](./javascript/1341.the-k-weakest-rows-in-a-matrix.js) | Easy |
+| 1342 | Reduce Array Size to The Half | [JavaScript](./javascript/1342.reduce-array-size-to-the-half.js) | Medium |
+| 1343 | Maximum Product of Splitted Binary Tree | [JavaScript](./javascript/1343.maximum-product-of-splitted-binary-tree.js) | Medium |
+| 1344 | Jump Game V | [JavaScript](./javascript/1344.jump-game-v.js) | Hard |

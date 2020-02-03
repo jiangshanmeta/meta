@@ -31,6 +31,7 @@ function writeLocalQuestion(json){
         const stat = item.stat;
         data.index = stat.frontend_question_id;
         data.title = stat.question__title;
+        data.title_slug = stat.question__title_slug;
         data.difficulty = item.difficulty.level;
         return data;
     }).sort((a,b)=>a.index-b.index);

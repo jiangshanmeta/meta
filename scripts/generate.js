@@ -1,16 +1,9 @@
 const fs = require('fs');
 
-const languages = [
-    {label:"JavaScript",dir:"../javascript"},
-    {label:"Python3",dir:"../python"},
-    {label:"Mysql",dir:"../sql"},
-];
-
-const difficultyMap = {
-    1:"Easy",
-    2:"Medium",
-    3:"Hard",
-}
+const {
+    languages,
+    difficultyMap,
+} = require('./config');
 
 const questions = require('../metaData/question.json');
 
