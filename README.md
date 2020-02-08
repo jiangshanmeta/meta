@@ -1347,12 +1347,17 @@
 | 1329 | Sort the Matrix Diagonally | [JavaScript](./javascript/1329.sort-the-matrix-diagonally.js) | Medium |
 | 1330 | Reverse Subarray To Maximize Array Value |  | Hard |
 | 1331 | Rank Transform of an Array | [JavaScript](./javascript/1331.rank-transform-of-an-array.js) | Easy |
-| 1336 | Number of Transactions per Visit |  | Medium |
-| 1337 | Remove Palindromic Subsequences | [JavaScript](./javascript/1337.remove-palindromic-subsequences.js) | Easy |
-| 1338 | Filter Restaurants by Vegan-Friendly, Price and Distance | [JavaScript](./javascript/1338.filter-restaurants-by-vegan-friendly-price-and-distance.js) | Medium |
-| 1339 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JavaScript](./javascript/1339.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js) | Medium |
-| 1340 | Minimum Difficulty of a Job Schedule | [JavaScript](./javascript/1340.minimum-difficulty-of-a-job-schedule.js) | Hard |
-| 1341 | The K Weakest Rows in a Matrix | [JavaScript](./javascript/1341.the-k-weakest-rows-in-a-matrix.js) | Easy |
-| 1342 | Reduce Array Size to The Half | [JavaScript](./javascript/1342.reduce-array-size-to-the-half.js) | Medium |
-| 1343 | Maximum Product of Splitted Binary Tree | [JavaScript](./javascript/1343.maximum-product-of-splitted-binary-tree.js) | Medium |
-| 1344 | Jump Game V | [JavaScript](./javascript/1344.jump-game-v.js) | Hard |
+| 1332 | Remove Palindromic Subsequences | [JavaScript](./javascript/1332.remove-palindromic-subsequences.js) | Easy |
+| 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | [JavaScript](./javascript/1333.filter-restaurants-by-vegan-friendly-price-and-distance.js) | Medium |
+| 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JavaScript](./javascript/1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.js) | Medium |
+| 1335 | Minimum Difficulty of a Job Schedule | [JavaScript](./javascript/1335.minimum-difficulty-of-a-job-schedule.js) | Hard |
+| 1336 | Number of Transactions per Visit |  | Hard |
+| 1337 | The K Weakest Rows in a Matrix | [JavaScript](./javascript/1337.the-k-weakest-rows-in-a-matrix.js) | Easy |
+| 1338 | Reduce Array Size to The Half | [JavaScript](./javascript/1338.reduce-array-size-to-the-half.js) | Medium |
+| 1339 | Maximum Product of Splitted Binary Tree | [JavaScript](./javascript/1339.maximum-product-of-splitted-binary-tree.js) | Medium |
+| 1340 | Jump Game V | [JavaScript](./javascript/1340.jump-game-v.js) | Hard |
+| 1341 | Movie Rating |  | Medium |
+| 1342 | Number of Steps to Reduce a Number to Zero | [JavaScript](./javascript/1342.number-of-steps-to-reduce-a-number-to-zero.js) | Easy |
+| 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | [JavaScript](./javascript/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.js) | Medium |
+| 1344 | Angle Between Hands of a Clock | [JavaScript](./javascript/1344.angle-between-hands-of-a-clock.js) | Medium |
+| 1345 | Jump Game IV | [JavaScript](./javascript/1345.jump-game-iv.js) | Hard |

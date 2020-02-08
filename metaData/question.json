@@ -7986,57 +7986,87 @@
         "difficulty": 1
     },
     {
-        "index": 1336,
-        "title": "Number of Transactions per Visit",
-        "title_slug": "number-of-transactions-per-visit",
-        "difficulty": 2
-    },
-    {
-        "index": 1337,
+        "index": 1332,
         "title": "Remove Palindromic Subsequences",
         "title_slug": "remove-palindromic-subsequences",
         "difficulty": 1
     },
     {
-        "index": 1338,
+        "index": 1333,
         "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
         "title_slug": "filter-restaurants-by-vegan-friendly-price-and-distance",
         "difficulty": 2
     },
     {
-        "index": 1339,
+        "index": 1334,
         "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
         "title_slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
         "difficulty": 2
     },
     {
-        "index": 1340,
+        "index": 1335,
         "title": "Minimum Difficulty of a Job Schedule",
         "title_slug": "minimum-difficulty-of-a-job-schedule",
         "difficulty": 3
     },
     {
-        "index": 1341,
+        "index": 1336,
+        "title": "Number of Transactions per Visit",
+        "title_slug": "number-of-transactions-per-visit",
+        "difficulty": 3
+    },
+    {
+        "index": 1337,
         "title": "The K Weakest Rows in a Matrix",
         "title_slug": "the-k-weakest-rows-in-a-matrix",
         "difficulty": 1
     },
     {
-        "index": 1342,
+        "index": 1338,
         "title": "Reduce Array Size to The Half",
         "title_slug": "reduce-array-size-to-the-half",
         "difficulty": 2
     },
     {
-        "index": 1343,
+        "index": 1339,
         "title": "Maximum Product of Splitted Binary Tree",
         "title_slug": "maximum-product-of-splitted-binary-tree",
         "difficulty": 2
     },
     {
-        "index": 1344,
+        "index": 1340,
         "title": "Jump Game V",
         "title_slug": "jump-game-v",
+        "difficulty": 3
+    },
+    {
+        "index": 1341,
+        "title": "Movie Rating",
+        "title_slug": "movie-rating",
+        "difficulty": 2
+    },
+    {
+        "index": 1342,
+        "title": "Number of Steps to Reduce a Number to Zero",
+        "title_slug": "number-of-steps-to-reduce-a-number-to-zero",
+        "difficulty": 1
+    },
+    {
+        "index": 1343,
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "title_slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "difficulty": 2
+    },
+    {
+        "index": 1344,
+        "title": "Angle Between Hands of a Clock",
+        "title_slug": "angle-between-hands-of-a-clock",
+        "difficulty": 2
+    },
+    {
+        "index": 1345,
+        "title": "Jump Game IV",
+        "title_slug": "jump-game-iv",
         "difficulty": 3
     }
 ]
