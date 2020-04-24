@@ -1,18 +1,23 @@
 /**
  * @param {number} capacity
  */
+// 双向链表+哈希
+function LinkedListNode(key,value){
+    this.key = key;
+    this.value = value;
+    this.prev = null;
+    this.next = null;
+}
+
 var LRUCache = function(capacity) {
-    // cache 是缓存的key value对
+    this.capacity = capacity;
     this.cache = {};
-    // index是自增的排序 
-    // key对应的index越大 则越最近被使用
-    this.index = 0;
-    // 便于查找 key=>index index=>key的map
-    this.keyIndex = {};
-    this.indexKey = {};
-    this.rest = capacity;
-    // 需要删除元素时 找的起始序号
-    this.start = 0;
+    const head = new LinkedListNode();
+    const tail = new LinkedListNode();
+    head.next = tail;
+    tail.prev = head;
+    this.head = head;
+    this.tail = tail;
 };
 
 /** 
@@ -20,16 +25,13 @@ var LRUCache = function(capacity) {
  * @return {number}
  */
 LRUCache.prototype.get = function(key) {
-    if(this.cache[key] === undefined){
+    const node = this.cache[key];
+    if(!node){
         return -1;
     }
-    // 更新该key对应的index
-    delete this.indexKey[this.keyIndex[key]];
-    const newIndex = this.index++;
-    this.keyIndex[key] = newIndex;
-    this.indexKey[newIndex] = key;
-    
-    return this.cache[key];
+    this.removeNode(node);
+    this.insertNode(node);
+    return node.value;
 };
 
 /** 
@@ -38,30 +40,41 @@ LRUCache.prototype.get = function(key) {
  * @return {void}
  */
 LRUCache.prototype.put = function(key, value) {
-    if(this.cache[key] !== undefined){
-        // 有这个key 干掉以前的 index=>key
-        delete this.indexKey[this.keyIndex[key]];
-    }else if(this.rest === 0){
-        // 找到最早出现的key
-        while(this.indexKey[this.start] === undefined){
-            this.start++;
-        }
-        const deleteKey = this.indexKey[this.start];
-        delete this.cache[deleteKey];
-        delete this.indexKey[this.keyIndex[deleteKey]];
-        delete this.keyIndex[deleteKey]
+    const node = this.cache[key];
+    if(node){
+        node.value = value;
+        this.removeNode(node);
+        this.insertNode(node);
     }else{
-        this.rest--;
+        if(this.capacity === 0){
+            const removeNode = this.tail.prev;
+            this.cache[removeNode.key] = null;
+            this.removeNode(removeNode); 
+        }else{
+            this.capacity--;
+        }
+        const newNode = new LinkedListNode(key,value) 
+        this.insertNode(newNode);
+        this.cache[key] = newNode;
     }
-    this.cache[key] = value;
-    const newIndex = this.index++;
-    this.indexKey[newIndex] = key;
-    this.keyIndex[key] = newIndex;
 };
 
-/** 
- * Your LRUCache object will be instantiated and called as such:
- * var obj = new LRUCache(capacity)
- * var param_1 = obj.get(key)
- * obj.put(key,value)
- */
+
+LRUCache.prototype.removeNode = function(node){
+    const prev = node.prev;
+    const next = node.next;
+    prev.next = next;
+    next.prev = prev;
+    node.prev = null;
+    node.next = null;
+}
+// 作为头结点
+LRUCache.prototype.insertNode = function(node){
+    const prev = this.head;
+    const next = this.head.next;
+    node.next = next;
+    node.prev = prev;
+    next.prev = node;
+    prev.next = node;
+    
+}
