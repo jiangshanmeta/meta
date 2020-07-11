@@ -2,30 +2,27 @@ const fs = require('fs');
 const questions = require('../metaData/question.json');
 const languages = require('./config').languages;
 
-const questionsMap = questions.reduce((obj,item)=>{
-    obj[item.id] = item;
+const questionMap = questions.reduce((obj,item)=>{
+    obj[item.index] = item;
     return obj;
-},{});
+},Object.create(null));
 
-languages.forEach(({dir,ext})=>{
+languages.forEach(({
+    dir,ext
+})=>{
     fs.readdir(dir,(err,fileList)=>{
         if(err){
             console.log(err);
             return;
         }
-
         fileList.forEach((fileName)=>{
-            const id = +fileName.split('.')[2];
-            const question = questionsMap[id];
+            const question = questionMap[fileName.slice(0,fileName.indexOf('.'))];
             if(!question){
                 console.log(fileName);
                 return;
             }
-            if(fileName !== `${question.index}.${question.title_slug}.${question.id}.${ext}`){
-                console.log(fileName);
-            }
+
+            fs.renameSync(`${dir}/${fileName}`,`${dir}/${question.index}.${question.title_slug}.${question.id}.${ext}`);
         });
     });
-});
-
-
+})

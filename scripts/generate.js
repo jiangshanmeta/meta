@@ -8,13 +8,18 @@ const {
 const questions = require('../metaData/question.json');
 
 const readdir = Promise.all(languages.map(({dir,label})=>{
+    const urlDir = dir.substring(dir.indexOf("/"));
     return new Promise((resolve)=>{
         fs.readdir(dir,(err,fileList)=>{
-            const urlDir = dir.substring(dir.indexOf("/"));
+            if(err){
+                console.log(err);
+                return;
+            }
+            
             const list = fileList.map((name)=>{
-                const index = parseInt(name.substring(0,name.indexOf(".")));
+                const id = +name.split('.')[2];
                 return {
-                    index,
+                    id,
                     label,
                     name,
                     dir:urlDir,
@@ -28,19 +33,20 @@ const readdir = Promise.all(languages.map(({dir,label})=>{
 
 
 readdir.then((answerDir)=>{
-    const groupByIndex = {};
+    const groupById = {};
     for(let i=0;i<languages.length;i++){
         const answers = answerDir[i];
         for(let j=0;j<answers.length;j++){
-            const index = answers[j].index;
-            (groupByIndex[index] || (groupByIndex[index] = [])).push(answers[j]);
+            const id = answers[j].id;
+            (groupById[id] || (groupById[id] = [])).push(answers[j]);
         }
     }
 
     const mergedQuestions = questions.map((question)=>{
+        const id = question.id;
         const index = question.index;
 
-        const answers = (groupByIndex[index] || []).map((answer)=>{
+        const answers = (groupById[id] || []).map((answer)=>{
             return `[${answer.label}](.${answer.dir}/${answer.name})`;
         }).join(" ");
     

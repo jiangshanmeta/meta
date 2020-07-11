@@ -4,7 +4,7 @@ const https = require("https");
 
 function getQuestions(){
     return new Promise((resolve)=>{
-        https.get('https://leetcode.com/api/problems/all/', (res) => {
+        https.get('https://leetcode-cn.com/api/problems/all/', (res) => {
             res.setEncoding('utf8');
             let rawData = '';
             res.on('data', (chunk) => { 
@@ -26,20 +26,86 @@ function getQuestions(){
 
 
 function writeLocalQuestion(json){
-    const list = json.stat_status_pairs.map((item)=>{
+    const questionList = json.stat_status_pairs.map((item)=>{
         const data = {};
         const stat = item.stat;
+        data.id = stat.question_id;
         data.index = stat.frontend_question_id;
+        if(!Number.isNaN(+data.index)){
+            data.index  = data.index.padStart(4,'0');
+        }
+        if(data.index.includes('.')){
+            data.index = data.index.replace('.','_')
+        }
         data.title = stat.question__title;
         data.title_slug = stat.question__title_slug;
         data.difficulty = item.difficulty.level;
         return data;
-    }).sort((a,b)=>a.index-b.index);
+    });
 
-    const fmtData = JSON.stringify(list,null,4);
+    const algorithms = [];
+    const lcp = [];
+    // 剑指offer
+    const lcof = [];
+    // 程序员面试经典
+    const lcci = [];
+    
+    questionList.forEach((question)=>{
+        const index = question.index;
+        const title_slug = question.title_slug;
+        if(Number.isInteger(+index)){
+            algorithms.push(question);
+        }else if(index.startsWith('LCP')){
+            lcp.push(question);
+        }else if(title_slug.endsWith('lcof')){
+            lcof.push(question);
+        }else if(title_slug.endsWith('lcci')){
+            lcci.push(question);
+        }else{
+            console.log(question);
+        }
+    });
+    
+    algorithms.sort((a,b)=>a.index-b.index);
+    lcp.sort((a,b)=>{
+        const indexA = a.index.split(' ')[1]
+        const indexB = b.index.split(' ')[1];
+        return indexA-indexB;
+    });
+    const regex = /(\d+)/
+    lcof.sort((a,b)=>{
+        const indexA = a.index.match(regex)[0];
+        const indexB = b.index.match(regex)[0];
+        if(indexA !== indexB){
+            return indexA-indexB;
+        }
+        return a.index.length-b.index.length;
+    });
+
+    lcci.sort((a,b)=>{
+        const [indexA1,indexA2] = a.index.split(' ')[1].split('_');
+        const [indexB1,indexB2] = b.index.split(' ')[1].split('_');
+        if(indexA1 !== indexB1){
+            return indexA1-indexB1;
+        }else{
+            return indexA2-indexB2;
+        }
+    });
+
+    
+    const sortedList = [
+        ...algorithms,
+        ...lcp,
+        ...lcof,
+        ...lcci,
+    ];
+
+    const fmtData = JSON.stringify(sortedList,null,4);
 
     fs.writeFile('../metaData/question.json', fmtData, 'utf8', (err) => {
-        if (err) throw err;
+        if (err) {
+            throw err;
+        }
         console.log('文件已被保存');
     });
 }
