@@ -10543,1400 +10543,1400 @@
     },
     {
         "id": 100107,
-        "index": "LCP 01",
+        "index": "LCP01",
         "title": "Guess Numbers",
         "title_slug": "guess-numbers",
         "difficulty": 1
     },
     {
         "id": 100092,
-        "index": "LCP 02",
+        "index": "LCP02",
         "title": "Deep Dark Fraction",
         "title_slug": "deep-dark-fraction",
         "difficulty": 1
     },
     {
         "id": 100096,
-        "index": "LCP 03",
+        "index": "LCP03",
         "title": "Programmable Robot",
         "title_slug": "programmable-robot",
         "difficulty": 2
     },
     {
         "id": 100093,
-        "index": "LCP 04",
+        "index": "LCP04",
         "title": "Broken Board Dominoes",
         "title_slug": "broken-board-dominoes",
         "difficulty": 3
     },
     {
         "id": 100094,
-        "index": "LCP 05",
+        "index": "LCP05",
         "title": "Coin Bonus",
         "title_slug": "coin-bonus",
         "difficulty": 3
     },
     {
         "id": 1000056,
-        "index": "LCP 06",
+        "index": "LCP06",
         "title": "拿硬币",
         "title_slug": "na-ying-bi",
         "difficulty": 1
     },
     {
         "id": 1000063,
-        "index": "LCP 07",
+        "index": "LCP07",
         "title": "传递信息",
         "title_slug": "chuan-di-xin-xi",
         "difficulty": 1
     },
     {
         "id": 1000057,
-        "index": "LCP 08",
+        "index": "LCP08",
         "title": "剧情触发时间",
         "title_slug": "ju-qing-hong-fa-shi-jian",
         "difficulty": 2
     },
     {
         "id": 1000090,
-        "index": "LCP 09",
+        "index": "LCP09",
         "title": "最小跳跃次数",
         "title_slug": "zui-xiao-tiao-yue-ci-shu",
         "difficulty": 3
     },
     {
         "id": 1000062,
-        "index": "LCP 10",
+        "index": "LCP10",
         "title": "二叉树任务调度",
         "title_slug": "er-cha-shu-ren-wu-diao-du",
         "difficulty": 3
     },
     {
         "id": 1000086,
-        "index": "LCP 11",
+        "index": "LCP11",
         "title": "期望个数统计",
         "title_slug": "qi-wang-ge-shu-tong-ji",
         "difficulty": 1
     },
     {
         "id": 1000087,
-        "index": "LCP 12",
+        "index": "LCP12",
         "title": "小张刷题计划",
         "title_slug": "xiao-zhang-shua-ti-ji-hua",
         "difficulty": 2
     },
     {
         "id": 1000093,
-        "index": "LCP 13",
+        "index": "LCP13",
         "title": "寻宝",
         "title_slug": "xun-bao",
         "difficulty": 3
     },
     {
         "id": 1000059,
-        "index": "LCP 14",
+        "index": "LCP14",
         "title": "切分数组",
         "title_slug": "qie-fen-shu-zu",
         "difficulty": 3
     },
     {
         "id": 1000088,
-        "index": "LCP 15",
+        "index": "LCP15",
         "title": "游乐园的迷宫",
         "title_slug": "you-le-yuan-de-mi-gong",
         "difficulty": 3
     },
     {
         "id": 1000085,
-        "index": "LCP 16",
+        "index": "LCP16",
         "title": "游乐园的游览计划",
         "title_slug": "you-le-yuan-de-you-lan-ji-hua",
         "difficulty": 3
     },
     {
         "id": 100275,
-        "index": "剑指 Offer 03",
+        "index": "剑指Offer03",
         "title": "数组中重复的数字 LCOF",
         "title_slug": "shu-zu-zhong-zhong-fu-de-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100276,
-        "index": "剑指 Offer 04",
+        "index": "剑指Offer04",
         "title": "二维数组中的查找 LCOF",
         "title_slug": "er-wei-shu-zu-zhong-de-cha-zhao-lcof",
         "difficulty": 1
     },
     {
         "id": 100280,
-        "index": "剑指 Offer 05",
+        "index": "剑指Offer05",
         "title": "替换空格 LCOF",
         "title_slug": "ti-huan-kong-ge-lcof",
         "difficulty": 1
     },
     {
         "id": 100282,
-        "index": "剑指 Offer 06",
+        "index": "剑指Offer06",
         "title": "从尾到头打印链表 LCOF",
         "title_slug": "cong-wei-dao-tou-da-yin-lian-biao-lcof",
         "difficulty": 1
     },
     {
         "id": 100283,
-        "index": "剑指 Offer 07",
+        "index": "剑指Offer07",
         "title": "重建二叉树 LCOF",
         "title_slug": "zhong-jian-er-cha-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100273,
-        "index": "剑指 Offer 09",
+        "index": "剑指Offer09",
         "title": "用两个栈实现队列 LCOF",
         "title_slug": "yong-liang-ge-zhan-shi-xian-dui-lie-lcof",
         "difficulty": 1
     },
     {
         "id": 100274,
-        "index": "剑指 Offer 10- I",
+        "index": "剑指Offer10-I",
         "title": "斐波那契数列  LCOF",
         "title_slug": "fei-bo-na-qi-shu-lie-lcof",
         "difficulty": 1
     },
     {
         "id": 100277,
-        "index": "剑指 Offer 10- II",
+        "index": "剑指Offer10-II",
         "title": "青蛙跳台阶问题  LCOF",
         "title_slug": "qing-wa-tiao-tai-jie-wen-ti-lcof",
         "difficulty": 1
     },
     {
         "id": 100278,
-        "index": "剑指 Offer 11",
+        "index": "剑指Offer11",
         "title": "旋转数组的最小数字  LCOF",
         "title_slug": "xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100279,
-        "index": "剑指 Offer 12",
+        "index": "剑指Offer12",
         "title": "矩阵中的路径  LCOF",
         "title_slug": "ju-zhen-zhong-de-lu-jing-lcof",
         "difficulty": 2
     },
     {
         "id": 100281,
-        "index": "剑指 Offer 13",
+        "index": "剑指Offer13",
         "title": "机器人的运动范围  LCOF",
         "title_slug": "ji-qi-ren-de-yun-dong-fan-wei-lcof",
         "difficulty": 2
     },
     {
         "id": 100284,
-        "index": "剑指 Offer 14- I",
+        "index": "剑指Offer14-I",
         "title": "剪绳子  LCOF",
         "title_slug": "jian-sheng-zi-lcof",
         "difficulty": 2
     },
     {
         "id": 100285,
-        "index": "剑指 Offer 14- II",
+        "index": "剑指Offer14-II",
         "title": "剪绳子 II LCOF",
         "title_slug": "jian-sheng-zi-ii-lcof",
         "difficulty": 2
     },
     {
         "id": 100292,
-        "index": "剑指 Offer 15",
+        "index": "剑指Offer15",
         "title": "二进制中1的个数 LCOF",
         "title_slug": "er-jin-zhi-zhong-1de-ge-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100295,
-        "index": "剑指 Offer 16",
+        "index": "剑指Offer16",
         "title": "数值的整数次方 LCOF",
         "title_slug": "shu-zhi-de-zheng-shu-ci-fang-lcof",
         "difficulty": 2
     },
     {
         "id": 100296,
-        "index": "剑指 Offer 17",
+        "index": "剑指Offer17",
         "title": "打印从1到最大的n位数 LCOF",
         "title_slug": "da-yin-cong-1dao-zui-da-de-nwei-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100299,
-        "index": "剑指 Offer 18",
+        "index": "剑指Offer18",
         "title": "删除链表的节点 LCOF",
         "title_slug": "shan-chu-lian-biao-de-jie-dian-lcof",
         "difficulty": 1
     },
     {
         "id": 100297,
-        "index": "剑指 Offer 19",
+        "index": "剑指Offer19",
         "title": "正则表达式匹配 LCOF",
         "title_slug": "zheng-ze-biao-da-shi-pi-pei-lcof",
         "difficulty": 3
     },
     {
         "id": 100290,
-        "index": "剑指 Offer 20",
+        "index": "剑指Offer20",
         "title": "表示数值的字符串 LCOF",
         "title_slug": "biao-shi-shu-zhi-de-zi-fu-chuan-lcof",
         "difficulty": 2
     },
     {
         "id": 100291,
-        "index": "剑指 Offer 21",
+        "index": "剑指Offer21",
         "title": "调整数组顺序使奇数位于偶数前面 LCOF",
         "title_slug": "diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof",
         "difficulty": 1
     },
     {
         "id": 100294,
-        "index": "剑指 Offer 22",
+        "index": "剑指Offer22",
         "title": "链表中倒数第k个节点 LCOF",
         "title_slug": "lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof",
         "difficulty": 1
     },
     {
         "id": 100298,
-        "index": "剑指 Offer 24",
+        "index": "剑指Offer24",
         "title": "反转链表 LCOF",
         "title_slug": "fan-zhuan-lian-biao-lcof",
         "difficulty": 1
     },
     {
         "id": 100286,
-        "index": "剑指 Offer 25",
+        "index": "剑指Offer25",
         "title": "合并两个排序的链表  LCOF",
         "title_slug": "he-bing-liang-ge-pai-xu-de-lian-biao-lcof",
         "difficulty": 1
     },
     {
         "id": 100287,
-        "index": "剑指 Offer 26",
+        "index": "剑指Offer26",
         "title": "树的子结构  LCOF",
         "title_slug": "shu-de-zi-jie-gou-lcof",
         "difficulty": 2
     },
     {
         "id": 100288,
-        "index": "剑指 Offer 27",
+        "index": "剑指Offer27",
         "title": "二叉树的镜像  LCOF",
         "title_slug": "er-cha-shu-de-jing-xiang-lcof",
         "difficulty": 1
     },
     {
         "id": 100289,
-        "index": "剑指 Offer 28",
+        "index": "剑指Offer28",
         "title": "对称的二叉树  LCOF",
         "title_slug": "dui-cheng-de-er-cha-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100293,
-        "index": "剑指 Offer 29",
+        "index": "剑指Offer29",
         "title": "顺时针打印矩阵  LCOF",
         "title_slug": "shun-shi-zhen-da-yin-ju-zhen-lcof",
         "difficulty": 1
     },
     {
         "id": 100302,
-        "index": "剑指 Offer 30",
+        "index": "剑指Offer30",
         "title": "包含min函数的栈 LCOF",
         "title_slug": "bao-han-minhan-shu-de-zhan-lcof",
         "difficulty": 1
     },
     {
         "id": 100306,
-        "index": "剑指 Offer 31",
+        "index": "剑指Offer31",
         "title": "栈的压入、弹出序列 LCOF",
         "title_slug": "zhan-de-ya-ru-dan-chu-xu-lie-lcof",
         "difficulty": 2
     },
     {
         "id": 100311,
-        "index": "剑指 Offer 32 - I",
+        "index": "剑指Offer32-I",
         "title": "从上到下打印二叉树 LCOF",
         "title_slug": "cong-shang-dao-xia-da-yin-er-cha-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100312,
-        "index": "剑指 Offer 32 - II",
+        "index": "剑指Offer32-II",
         "title": "从上到下打印二叉树 II LCOF",
         "title_slug": "cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof",
         "difficulty": 1
     },
     {
         "id": 100314,
-        "index": "剑指 Offer 32 - III",
+        "index": "剑指Offer32-III",
         "title": "从上到下打印二叉树 III LCOF",
         "title_slug": "cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof",
         "difficulty": 2
     },
     {
         "id": 100315,
-        "index": "剑指 Offer 33",
+        "index": "剑指Offer33",
         "title": "二叉搜索树的后序遍历序列 LCOF",
         "title_slug": "er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof",
         "difficulty": 2
     },
     {
         "id": 100317,
-        "index": "剑指 Offer 34",
+        "index": "剑指Offer34",
         "title": "二叉树中和为某一值的路径 LCOF",
         "title_slug": "er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof",
         "difficulty": 2
     },
     {
         "id": 100300,
-        "index": "剑指 Offer 35",
+        "index": "剑指Offer35",
         "title": "复杂链表的复制  LCOF",
         "title_slug": "fu-za-lian-biao-de-fu-zhi-lcof",
         "difficulty": 2
     },
     {
         "id": 100305,
-        "index": "剑指 Offer 36",
+        "index": "剑指Offer36",
         "title": "二叉搜索树与双向链表  LCOF",
         "title_slug": "er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof",
         "difficulty": 2
     },
     {
         "id": 100307,
-        "index": "剑指 Offer 37",
+        "index": "剑指Offer37",
         "title": "序列化二叉树  LCOF",
         "title_slug": "xu-lie-hua-er-cha-shu-lcof",
         "difficulty": 3
     },
     {
         "id": 100308,
-        "index": "剑指 Offer 38",
+        "index": "剑指Offer38",
         "title": "字符串的排列  LCOF",
         "title_slug": "zi-fu-chuan-de-pai-lie-lcof",
         "difficulty": 2
     },
     {
         "id": 100310,
-        "index": "剑指 Offer 39",
+        "index": "剑指Offer39",
         "title": "数组中出现次数超过一半的数字  LCOF",
         "title_slug": "shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100301,
-        "index": "剑指 Offer 40",
+        "index": "剑指Offer40",
         "title": "最小的k个数  LCOF",
         "title_slug": "zui-xiao-de-kge-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100303,
-        "index": "剑指 Offer 41",
+        "index": "剑指Offer41",
         "title": "数据流中的中位数  LCOF",
         "title_slug": "shu-ju-liu-zhong-de-zhong-wei-shu-lcof",
         "difficulty": 3
     },
     {
         "id": 100304,
-        "index": "剑指 Offer 42",
+        "index": "剑指Offer42",
         "title": "连续子数组的最大和  LCOF",
         "title_slug": "lian-xu-zi-shu-zu-de-zui-da-he-lcof",
         "difficulty": 1
     },
     {
         "id": 100309,
-        "index": "剑指 Offer 43",
+        "index": "剑指Offer43",
         "title": "1～n整数中1出现的次数  LCOF",
         "title_slug": "1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100313,
-        "index": "剑指 Offer 44",
+        "index": "剑指Offer44",
         "title": "数字序列中某一位的数字  LCOF",
         "title_slug": "shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof",
         "difficulty": 2
     },
     {
         "id": 100323,
-        "index": "剑指 Offer 45",
+        "index": "剑指Offer45",
         "title": "把数组排成最小的数 LCOF",
         "title_slug": "ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100325,
-        "index": "剑指 Offer 46",
+        "index": "剑指Offer46",
         "title": "把数字翻译成字符串 LCOF",
         "title_slug": "ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof",
         "difficulty": 2
     },
     {
         "id": 100327,
-        "index": "剑指 Offer 47",
+        "index": "剑指Offer47",
         "title": "礼物的最大价值 LCOF",
         "title_slug": "li-wu-de-zui-da-jie-zhi-lcof",
         "difficulty": 2
     },
     {
         "id": 100332,
-        "index": "剑指 Offer 48",
+        "index": "剑指Offer48",
         "title": "最长不含重复字符的子字符串 LCOF",
         "title_slug": "zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof",
         "difficulty": 2
     },
     {
         "id": 100334,
-        "index": "剑指 Offer 49",
+        "index": "剑指Offer49",
         "title": "丑数 LCOF",
         "title_slug": "chou-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100316,
-        "index": "剑指 Offer 50",
+        "index": "剑指Offer50",
         "title": "第一个只出现一次的字符  LCOF",
         "title_slug": "di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof",
         "difficulty": 1
     },
     {
         "id": 100318,
-        "index": "剑指 Offer 51",
+        "index": "剑指Offer51",
         "title": "数组中的逆序对  LCOF",
         "title_slug": "shu-zu-zhong-de-ni-xu-dui-lcof",
         "difficulty": 3
     },
     {
         "id": 100326,
-        "index": "剑指 Offer 52",
+        "index": "剑指Offer52",
         "title": "两个链表的第一个公共节点  LCOF",
         "title_slug": "liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof",
         "difficulty": 1
     },
     {
         "id": 100329,
-        "index": "剑指 Offer 53 - I",
+        "index": "剑指Offer53-I",
         "title": "在排序数组中查找数字  LCOF",
         "title_slug": "zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100331,
-        "index": "剑指 Offer 53 - II",
+        "index": "剑指Offer53-II",
         "title": "缺失的数字  LCOF",
         "title_slug": "que-shi-de-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100333,
-        "index": "剑指 Offer 54",
+        "index": "剑指Offer54",
         "title": "二叉搜索树的第k大节点  LCOF",
         "title_slug": "er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof",
         "difficulty": 1
     },
     {
         "id": 100319,
-        "index": "剑指 Offer 55 - I",
+        "index": "剑指Offer55-I",
         "title": "二叉树的深度 LCOF",
         "title_slug": "er-cha-shu-de-shen-du-lcof",
         "difficulty": 1
     },
     {
         "id": 100342,
-        "index": "剑指 Offer 55 - II",
+        "index": "剑指Offer55-II",
         "title": "平衡二叉树 LCOF",
         "title_slug": "ping-heng-er-cha-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100320,
-        "index": "剑指 Offer 56 - I",
+        "index": "剑指Offer56-I",
         "title": "数组中数字出现的次数 LCOF",
         "title_slug": "shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100321,
-        "index": "剑指 Offer 56 - II",
+        "index": "剑指Offer56-II",
         "title": "数组中数字出现的次数 II LCOF",
         "title_slug": "shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof",
         "difficulty": 2
     },
     {
         "id": 100322,
-        "index": "剑指 Offer 57",
+        "index": "剑指Offer57",
         "title": "和为s的两个数字 LCOF",
         "title_slug": "he-wei-sde-liang-ge-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100324,
-        "index": "剑指 Offer 57 - II",
+        "index": "剑指Offer57-II",
         "title": "和为s的连续正数序列 LCOF",
         "title_slug": "he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof",
         "difficulty": 1
     },
     {
         "id": 100328,
-        "index": "剑指 Offer 58 - I",
+        "index": "剑指Offer58-I",
         "title": "翻转单词顺序 LCOF",
         "title_slug": "fan-zhuan-dan-ci-shun-xu-lcof",
         "difficulty": 1
     },
     {
         "id": 100330,
-        "index": "剑指 Offer 58 - II",
+        "index": "剑指Offer58-II",
         "title": "左旋转字符串 LCOF",
         "title_slug": "zuo-xuan-zhuan-zi-fu-chuan-lcof",
         "difficulty": 1
     },
     {
         "id": 100336,
-        "index": "剑指 Offer 59 - I",
+        "index": "剑指Offer59-I",
         "title": "滑动窗口的最大值 LCOF",
         "title_slug": "hua-dong-chuang-kou-de-zui-da-zhi-lcof",
         "difficulty": 1
     },
     {
         "id": 100337,
-        "index": "剑指 Offer 59 - II",
+        "index": "剑指Offer59-II",
         "title": "队列的最大值 LCOF",
         "title_slug": "dui-lie-de-zui-da-zhi-lcof",
         "difficulty": 2
     },
     {
         "id": 100339,
-        "index": "剑指 Offer 60",
+        "index": "剑指Offer60",
         "title": "n个骰子的点数  LCOF",
         "title_slug": "nge-tou-zi-de-dian-shu-lcof",
         "difficulty": 1
     },
     {
         "id": 100341,
-        "index": "剑指 Offer 61",
+        "index": "剑指Offer61",
         "title": "扑克牌中的顺子  LCOF",
         "title_slug": "bu-ke-pai-zhong-de-shun-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100343,
-        "index": "剑指 Offer 62",
+        "index": "剑指Offer62",
         "title": "圆圈中最后剩下的数字 LCOF",
         "title_slug": "yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof",
         "difficulty": 1
     },
     {
         "id": 100344,
-        "index": "剑指 Offer 63",
+        "index": "剑指Offer63",
         "title": "股票的最大利润  LCOF",
         "title_slug": "gu-piao-de-zui-da-li-run-lcof",
         "difficulty": 2
     },
     {
         "id": 100345,
-        "index": "剑指 Offer 64",
+        "index": "剑指Offer64",
         "title": "求1+2+…+n LCOF",
         "title_slug": "qiu-12n-lcof",
         "difficulty": 2
     },
     {
         "id": 100335,
-        "index": "剑指 Offer 65",
+        "index": "剑指Offer65",
         "title": "不用加减乘除做加法 LCOF",
         "title_slug": "bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof",
         "difficulty": 1
     },
     {
         "id": 100338,
-        "index": "剑指 Offer 66",
+        "index": "剑指Offer66",
         "title": "构建乘积数组 LCOF",
         "title_slug": "gou-jian-cheng-ji-shu-zu-lcof",
         "difficulty": 1
     },
     {
         "id": 100340,
-        "index": "剑指 Offer 67",
+        "index": "剑指Offer67",
         "title": "把字符串转换成整数 LCOF",
         "title_slug": "ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof",
         "difficulty": 2
     },
     {
         "id": 100346,
-        "index": "面试题68 - I",
+        "index": "面试题68-I",
         "title": "二叉搜索树的最近公共祖先 LCOF",
         "title_slug": "er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof",
         "difficulty": 1
     },
     {
         "id": 100347,
-        "index": "面试题68 - II",
+        "index": "面试题68-II",
         "title": "二叉树的最近公共祖先 LCOF",
         "title_slug": "er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof",
         "difficulty": 1
     },
     {
         "id": 100158,
-        "index": "面试题 01_01",
+        "index": "面试题01_01",
         "title": "Is Unique LCCI",
         "title_slug": "is-unique-lcci",
         "difficulty": 1
     },
     {
         "id": 100159,
-        "index": "面试题 01_02",
+        "index": "面试题01_02",
         "title": "Check Permutation LCCI",
         "title_slug": "check-permutation-lcci",
         "difficulty": 1
     },
     {
         "id": 100160,
-        "index": "面试题 01_03",
+        "index": "面试题01_03",
         "title": "String to URL LCCI",
         "title_slug": "string-to-url-lcci",
         "difficulty": 1
     },
     {
         "id": 100184,
-        "index": "面试题 01_04",
+        "index": "面试题01_04",
         "title": "Palindrome Permutation LCCI",
         "title_slug": "palindrome-permutation-lcci",
         "difficulty": 1
     },
     {
         "id": 1000006,
-        "index": "面试题 01_05",
+        "index": "面试题01_05",
         "title": "One Away LCCI",
         "title_slug": "one-away-lcci",
         "difficulty": 2
     },
     {
         "id": 100161,
-        "index": "面试题 01_06",
+        "index": "面试题01_06",
         "title": "Compress String LCCI",
         "title_slug": "compress-string-lcci",
         "difficulty": 1
     },
     {
         "id": 100185,
-        "index": "面试题 01_07",
+        "index": "面试题01_07",
         "title": "Rotate Matrix LCCI",
         "title_slug": "rotate-matrix-lcci",
         "difficulty": 2
     },
     {
         "id": 100186,
-        "index": "面试题 01_08",
+        "index": "面试题01_08",
         "title": "Zero Matrix LCCI",
         "title_slug": "zero-matrix-lcci",
         "difficulty": 2
     },
     {
         "id": 100162,
-        "index": "面试题 01_09",
+        "index": "面试题01_09",
         "title": "String Rotation LCCI",
         "title_slug": "string-rotation-lcci",
         "difficulty": 1
     },
     {
         "id": 100163,
-        "index": "面试题 02_01",
+        "index": "面试题02_01",
         "title": "Remove Duplicate Node LCCI",
         "title_slug": "remove-duplicate-node-lcci",
         "difficulty": 1
     },
     {
         "id": 1000007,
-        "index": "面试题 02_02",
+        "index": "面试题02_02",
         "title": "Kth Node From End of List LCCI",
         "title_slug": "kth-node-from-end-of-list-lcci",
         "difficulty": 1
     },
     {
         "id": 100187,
-        "index": "面试题 02_03",
+        "index": "面试题02_03",
         "title": "Delete Middle Node LCCI",
         "title_slug": "delete-middle-node-lcci",
         "difficulty": 1
     },
     {
         "id": 1000008,
-        "index": "面试题 02_04",
+        "index": "面试题02_04",
         "title": "Partition List LCCI",
         "title_slug": "partition-list-lcci",
         "difficulty": 2
     },
     {
         "id": 100188,
-        "index": "面试题 02_05",
+        "index": "面试题02_05",
         "title": "Sum Lists LCCI",
         "title_slug": "sum-lists-lcci",
         "difficulty": 2
     },
     {
         "id": 100164,
-        "index": "面试题 02_06",
+        "index": "面试题02_06",
         "title": "Palindrome Linked List LCCI",
         "title_slug": "palindrome-linked-list-lcci",
         "difficulty": 1
     },
     {
         "id": 100167,
-        "index": "面试题 02_07",
+        "index": "面试题02_07",
         "title": "Intersection of Two Linked Lists LCCI",
         "title_slug": "intersection-of-two-linked-lists-lcci",
         "difficulty": 1
     },
     {
         "id": 100168,
-        "index": "面试题 02_08",
+        "index": "面试题02_08",
         "title": "Linked List Cycle LCCI",
         "title_slug": "linked-list-cycle-lcci",
         "difficulty": 2
     },
     {
         "id": 100172,
-        "index": "面试题 03_01",
+        "index": "面试题03_01",
         "title": "Three in One LCCI",
         "title_slug": "three-in-one-lcci",
         "difficulty": 1
     },
     {
         "id": 100169,
-        "index": "面试题 03_02",
+        "index": "面试题03_02",
         "title": "Min Stack LCCI",
         "title_slug": "min-stack-lcci",
         "difficulty": 1
     },
     {
         "id": 100195,
-        "index": "面试题 03_03",
+        "index": "面试题03_03",
         "title": "Stack of Plates LCCI",
         "title_slug": "stack-of-plates-lcci",
         "difficulty": 2
     },
     {
         "id": 100170,
-        "index": "面试题 03_04",
+        "index": "面试题03_04",
         "title": "Implement Queue using Stacks LCCI",
         "title_slug": "implement-queue-using-stacks-lcci",
         "difficulty": 1
     },
     {
         "id": 100173,
-        "index": "面试题 03_05",
+        "index": "面试题03_05",
         "title": "Sort of Stacks LCCI",
         "title_slug": "sort-of-stacks-lcci",
         "difficulty": 2
     },
     {
         "id": 100228,
-        "index": "面试题 03_06",
+        "index": "面试题03_06",
         "title": "Animal Shelter LCCI",
         "title_slug": "animal-shelter-lcci",
         "difficulty": 1
     },
     {
         "id": 100171,
-        "index": "面试题 04_01",
+        "index": "面试题04_01",
         "title": "Route Between Nodes LCCI",
         "title_slug": "route-between-nodes-lcci",
         "difficulty": 2
     },
     {
         "id": 100174,
-        "index": "面试题 04_02",
+        "index": "面试题04_02",
         "title": "Minimum Height Tree LCCI",
         "title_slug": "minimum-height-tree-lcci",
         "difficulty": 1
     },
     {
         "id": 100175,
-        "index": "面试题 04_03",
+        "index": "面试题04_03",
         "title": "List of Depth LCCI",
         "title_slug": "list-of-depth-lcci",
         "difficulty": 2
     },
     {
         "id": 100176,
-        "index": "面试题 04_04",
+        "index": "面试题04_04",
         "title": "Check Balance LCCI",
         "title_slug": "check-balance-lcci",
         "difficulty": 1
     },
     {
         "id": 100177,
-        "index": "面试题 04_05",
+        "index": "面试题04_05",
         "title": "Legal Binary Search Tree LCCI",
         "title_slug": "legal-binary-search-tree-lcci",
         "difficulty": 2
     },
     {
         "id": 100178,
-        "index": "面试题 04_06",
+        "index": "面试题04_06",
         "title": "Successor LCCI",
         "title_slug": "successor-lcci",
         "difficulty": 2
     },
     {
         "id": 100179,
-        "index": "面试题 04_08",
+        "index": "面试题04_08",
         "title": "First Common Ancestor LCCI",
         "title_slug": "first-common-ancestor-lcci",
         "difficulty": 2
     },
     {
         "id": 1000010,
-        "index": "面试题 04_09",
+        "index": "面试题04_09",
         "title": "BST Sequences LCCI",
         "title_slug": "bst-sequences-lcci",
         "difficulty": 3
     },
     {
         "id": 100229,
-        "index": "面试题 04_10",
+        "index": "面试题04_10",
         "title": "Check SubTree LCCI",
         "title_slug": "check-subtree-lcci",
         "difficulty": 2
     },
     {
         "id": 1000009,
-        "index": "面试题 04_12",
+        "index": "面试题04_12",
         "title": "Paths with Sum LCCI",
         "title_slug": "paths-with-sum-lcci",
         "difficulty": 2
     },
     {
         "id": 100180,
-        "index": "面试题 05_01",
+        "index": "面试题05_01",
         "title": "Insert Into Bits LCCI",
         "title_slug": "insert-into-bits-lcci",
         "difficulty": 1
     },
     {
         "id": 100203,
-        "index": "面试题 05_02",
+        "index": "面试题05_02",
         "title": "Bianry Number to String LCCI",
         "title_slug": "bianry-number-to-string-lcci",
         "difficulty": 2
     },
     {
         "id": 100230,
-        "index": "面试题 05_03",
+        "index": "面试题05_03",
         "title": "Reverse Bits LCCI",
         "title_slug": "reverse-bits-lcci",
         "difficulty": 1
     },
     {
         "id": 100183,
-        "index": "面试题 05_04",
+        "index": "面试题05_04",
         "title": "Closed Number LCCI",
         "title_slug": "closed-number-lcci",
         "difficulty": 2
     },
     {
         "id": 100181,
-        "index": "面试题 05_06",
+        "index": "面试题05_06",
         "title": "Convert Integer LCCI",
         "title_slug": "convert-integer-lcci",
         "difficulty": 1
     },
     {
         "id": 100182,
-        "index": "面试题 05_07",
+        "index": "面试题05_07",
         "title": "Exchange LCCI",
         "title_slug": "exchange-lcci",
         "difficulty": 1
     },
     {
         "id": 100196,
-        "index": "面试题 05_08",
+        "index": "面试题05_08",
         "title": "Draw Line LCCI",
         "title_slug": "draw-line-lcci",
         "difficulty": 2
     },
     {
         "id": 100197,
-        "index": "面试题 08_01",
+        "index": "面试题08_01",
         "title": "Three Steps Problem LCCI",
         "title_slug": "three-steps-problem-lcci",
         "difficulty": 1
     },
     {
         "id": 1000011,
-        "index": "面试题 08_02",
+        "index": "面试题08_02",
         "title": "Robot in a Grid LCCI",
         "title_slug": "robot-in-a-grid-lcci",
         "difficulty": 2
     },
     {
         "id": 100240,
-        "index": "面试题 08_03",
+        "index": "面试题08_03",
         "title": "Magic Index LCCI",
         "title_slug": "magic-index-lcci",
         "difficulty": 1
     },
     {
         "id": 100198,
-        "index": "面试题 08_04",
+        "index": "面试题08_04",
         "title": "Power Set LCCI",
         "title_slug": "power-set-lcci",
         "difficulty": 2
     },
     {
         "id": 100199,
-        "index": "面试题 08_05",
+        "index": "面试题08_05",
         "title": "Recursive Mulitply LCCI",
         "title_slug": "recursive-mulitply-lcci",
         "difficulty": 2
     },
     {
         "id": 1000015,
-        "index": "面试题 08_06",
+        "index": "面试题08_06",
         "title": "Hanota LCCI",
         "title_slug": "hanota-lcci",
         "difficulty": 1
     },
     {
         "id": 100241,
-        "index": "面试题 08_07",
+        "index": "面试题08_07",
         "title": "Permutation I LCCI",
         "title_slug": "permutation-i-lcci",
         "difficulty": 2
     },
     {
         "id": 100348,
-        "index": "面试题 08_08",
+        "index": "面试题08_08",
         "title": "Permutation II LCCI",
         "title_slug": "permutation-ii-lcci",
         "difficulty": 2
     },
     {
         "id": 100200,
-        "index": "面试题 08_09",
+        "index": "面试题08_09",
         "title": "Bracket LCCI",
         "title_slug": "bracket-lcci",
         "difficulty": 2
     },
     {
         "id": 100201,
-        "index": "面试题 08_10",
+        "index": "面试题08_10",
         "title": "Color Fill LCCI",
         "title_slug": "color-fill-lcci",
         "difficulty": 1
     },
     {
         "id": 100231,
-        "index": "面试题 08_11",
+        "index": "面试题08_11",
         "title": "Coin LCCI",
         "title_slug": "coin-lcci",
         "difficulty": 2
     },
     {
         "id": 100233,
-        "index": "面试题 08_12",
+        "index": "面试题08_12",
         "title": "Eight Queens LCCI",
         "title_slug": "eight-queens-lcci",
         "difficulty": 3
     },
     {
         "id": 100202,
-        "index": "面试题 08_13",
+        "index": "面试题08_13",
         "title": "Pile Box LCCI",
         "title_slug": "pile-box-lcci",
         "difficulty": 3
     },
     {
         "id": 1000031,
-        "index": "面试题 08_14",
+        "index": "面试题08_14",
         "title": "Boolean Evaluation LCCI",
         "title_slug": "boolean-evaluation-lcci",
         "difficulty": 2
     },
     {
         "id": 1000012,
-        "index": "面试题 10_01",
+        "index": "面试题10_01",
         "title": "Sorted Merge LCCI",
         "title_slug": "sorted-merge-lcci",
         "difficulty": 1
     },
     {
         "id": 1000040,
-        "index": "面试题 10_02",
+        "index": "面试题10_02",
         "title": "Group Anagrams LCCI",
         "title_slug": "group-anagrams-lcci",
         "difficulty": 2
     },
     {
         "id": 100232,
-        "index": "面试题 10_03",
+        "index": "面试题10_03",
         "title": "Search Rotate Array LCCI",
         "title_slug": "search-rotate-array-lcci",
         "difficulty": 2
     },
     {
         "id": 100242,
-        "index": "面试题 10_05",
+        "index": "面试题10_05",
         "title": "Sparse Array Search LCCI",
         "title_slug": "sparse-array-search-lcci",
         "difficulty": 1
     },
     {
         "id": 1000016,
-        "index": "面试题 10_09",
+        "index": "面试题10_09",
         "title": "Sorted Matrix Search LCCI",
         "title_slug": "sorted-matrix-search-lcci",
         "difficulty": 2
     },
     {
         "id": 1000041,
-        "index": "面试题 10_10",
+        "index": "面试题10_10",
         "title": "Rank from Stream LCCI",
         "title_slug": "rank-from-stream-lcci",
         "difficulty": 2
     },
     {
         "id": 1000013,
-        "index": "面试题 10_11",
+        "index": "面试题10_11",
         "title": "Peaks and Valleys LCCI",
         "title_slug": "peaks-and-valleys-lcci",
         "difficulty": 2
     },
     {
         "id": 100258,
-        "index": "面试题 16_01",
+        "index": "面试题16_01",
         "title": "Swap Numbers LCCI",
         "title_slug": "swap-numbers-lcci",
         "difficulty": 2
     },
     {
         "id": 100259,
-        "index": "面试题 16_02",
+        "index": "面试题16_02",
         "title": "Words Frequency LCCI",
         "title_slug": "words-frequency-lcci",
         "difficulty": 2
     },
     {
         "id": 100260,
-        "index": "面试题 16_03",
+        "index": "面试题16_03",
         "title": "Intersection LCCI",
         "title_slug": "intersection-lcci",
         "difficulty": 3
     },
     {
         "id": 100261,
-        "index": "面试题 16_04",
+        "index": "面试题16_04",
         "title": "Tic-Tac-Toe LCCI",
         "title_slug": "tic-tac-toe-lcci",
         "difficulty": 2
     },
     {
         "id": 1000017,
-        "index": "面试题 16_05",
+        "index": "面试题16_05",
         "title": "Factorial Zeros LCCI",
         "title_slug": "factorial-zeros-lcci",
         "difficulty": 1
     },
     {
         "id": 100262,
-        "index": "面试题 16_06",
+        "index": "面试题16_06",
         "title": "Smallest Difference LCCI",
         "title_slug": "smallest-difference-lcci",
         "difficulty": 2
     },
     {
         "id": 100349,
-        "index": "面试题 16_07",
+        "index": "面试题16_07",
         "title": "Maximum LCCI",
         "title_slug": "maximum-lcci",
         "difficulty": 1
     },
     {
         "id": 1000018,
-        "index": "面试题 16_08",
+        "index": "面试题16_08",
         "title": "English Int LCCI",
         "title_slug": "english-int-lcci",
         "difficulty": 3
     },
     {
         "id": 100350,
-        "index": "面试题 16_09",
+        "index": "面试题16_09",
         "title": "Operations LCCI",
         "title_slug": "operations-lcci",
         "difficulty": 2
     },
     {
         "id": 100351,
-        "index": "面试题 16_10",
+        "index": "面试题16_10",
         "title": "Living People LCCI",
         "title_slug": "living-people-lcci",
         "difficulty": 2
     },
     {
         "id": 100352,
-        "index": "面试题 16_11",
+        "index": "面试题16_11",
         "title": "Diving Board LCCI",
         "title_slug": "diving-board-lcci",
         "difficulty": 1
     },
     {
         "id": 100353,
-        "index": "面试题 16_13",
+        "index": "面试题16_13",
         "title": "Bisect Squares LCCI",
         "title_slug": "bisect-squares-lcci",
         "difficulty": 2
     },
     {
         "id": 100354,
-        "index": "面试题 16_14",
+        "index": "面试题16_14",
         "title": "Best Line LCCI",
         "title_slug": "best-line-lcci",
         "difficulty": 2
     },
     {
         "id": 100355,
-        "index": "面试题 16_15",
+        "index": "面试题16_15",
         "title": "Master Mind LCCI",
         "title_slug": "master-mind-lcci",
         "difficulty": 1
     },
     {
         "id": 100356,
-        "index": "面试题 16_16",
+        "index": "面试题16_16",
         "title": "Sub Sort LCCI",
         "title_slug": "sub-sort-lcci",
         "difficulty": 2
     },
     {
         "id": 1000003,
-        "index": "面试题 16_17",
+        "index": "面试题16_17",
         "title": "Contiguous Sequence LCCI",
         "title_slug": "contiguous-sequence-lcci",
         "difficulty": 1
     },
     {
         "id": 1000004,
-        "index": "面试题 16_18",
+        "index": "面试题16_18",
         "title": "Pattern Matching LCCI",
         "title_slug": "pattern-matching-lcci",
         "difficulty": 2
     },
     {
         "id": 1000005,
-        "index": "面试题 16_19",
+        "index": "面试题16_19",
         "title": "Pond Sizes LCCI",
         "title_slug": "pond-sizes-lcci",
         "difficulty": 2
     },
     {
         "id": 1000047,
-        "index": "面试题 16_20",
+        "index": "面试题16_20",
         "title": "T9 LCCI",
         "title_slug": "t9-lcci",
         "difficulty": 2
     },
     {
         "id": 1000048,
-        "index": "面试题 16_21",
+        "index": "面试题16_21",
         "title": "Sum Swap LCCI",
         "title_slug": "sum-swap-lcci",
         "difficulty": 2
     },
     {
         "id": 1000050,
-        "index": "面试题 16_22",
+        "index": "面试题16_22",
         "title": "Langtons Ant LCCI",
         "title_slug": "langtons-ant-lcci",
         "difficulty": 2
     },
     {
         "id": 1000042,
-        "index": "面试题 16_24",
+        "index": "面试题16_24",
         "title": "Pairs With Sum LCCI",
         "title_slug": "pairs-with-sum-lcci",
         "difficulty": 2
     },
     {
         "id": 1000026,
-        "index": "面试题 16_25",
+        "index": "面试题16_25",
         "title": "LRU Cache LCCI",
         "title_slug": "lru-cache-lcci",
         "difficulty": 2
     },
     {
         "id": 1000027,
-        "index": "面试题 16_26",
+        "index": "面试题16_26",
         "title": "Calculator LCCI",
         "title_slug": "calculator-lcci",
         "difficulty": 2
     },
     {
         "id": 1000025,
-        "index": "面试题 17_01",
+        "index": "面试题17_01",
         "title": "Add Without Plus LCCI",
         "title_slug": "add-without-plus-lcci",
         "difficulty": 1
     },
     {
         "id": 1000032,
-        "index": "面试题 17_04",
+        "index": "面试题17_04",
         "title": "Missing Number LCCI",
         "title_slug": "missing-number-lcci",
         "difficulty": 1
     },
     {
         "id": 1000033,
-        "index": "面试题 17_05",
+        "index": "面试题17_05",
         "title": "Find Longest Subarray LCCI",
         "title_slug": "find-longest-subarray-lcci",
         "difficulty": 2
     },
     {
         "id": 1000034,
-        "index": "面试题 17_06",
+        "index": "面试题17_06",
         "title": "Number Of 2s In Range LCCI",
         "title_slug": "number-of-2s-in-range-lcci",
         "difficulty": 2
     },
     {
         "id": 1000035,
-        "index": "面试题 17_07",
+        "index": "面试题17_07",
         "title": "Baby Names LCCI",
         "title_slug": "baby-names-lcci",
         "difficulty": 2
     },
     {
         "id": 1000036,
-        "index": "面试题 17_08",
+        "index": "面试题17_08",
         "title": "Circus Tower LCCI",
         "title_slug": "circus-tower-lcci",
         "difficulty": 2
     },
     {
         "id": 1000037,
-        "index": "面试题 17_09",
+        "index": "面试题17_09",
         "title": "Get Kth Magic Number LCCI",
         "title_slug": "get-kth-magic-number-lcci",
         "difficulty": 2
     },
     {
         "id": 1000038,
-        "index": "面试题 17_10",
+        "index": "面试题17_10",
         "title": "Find Majority Element LCCI",
         "title_slug": "find-majority-element-lcci",
         "difficulty": 1
     },
     {
         "id": 1000039,
-        "index": "面试题 17_11",
+        "index": "面试题17_11",
         "title": "Find Closest LCCI",
         "title_slug": "find-closest-lcci",
         "difficulty": 2
     },
     {
         "id": 1000019,
-        "index": "面试题 17_12",
+        "index": "面试题17_12",
         "title": "BiNode LCCI",
         "title_slug": "binode-lcci",
         "difficulty": 1
     },
     {
         "id": 1000020,
-        "index": "面试题 17_13",
+        "index": "面试题17_13",
         "title": "Re-Space LCCI",
         "title_slug": "re-space-lcci",
         "difficulty": 2
     },
     {
         "id": 1000021,
-        "index": "面试题 17_14",
+        "index": "面试题17_14",
         "title": "Smallest K LCCI",
         "title_slug": "smallest-k-lcci",
         "difficulty": 2
     },
     {
         "id": 1000022,
-        "index": "面试题 17_15",
+        "index": "面试题17_15",
         "title": "Longest Word LCCI",
         "title_slug": "longest-word-lcci",
         "difficulty": 2
     },
     {
         "id": 1000023,
-        "index": "面试题 17_16",
+        "index": "面试题17_16",
         "title": "The Masseuse LCCI",
         "title_slug": "the-masseuse-lcci",
         "difficulty": 1
     },
     {
         "id": 1000024,
-        "index": "面试题 17_17",
+        "index": "面试题17_17",
         "title": "Multi Search LCCI",
         "title_slug": "multi-search-lcci",
         "difficulty": 2
     },
     {
         "id": 1000043,
-        "index": "面试题 17_18",
+        "index": "面试题17_18",
         "title": "Shortest Supersequence LCCI",
         "title_slug": "shortest-supersequence-lcci",
         "difficulty": 2
     },
     {
         "id": 1000044,
-        "index": "面试题 17_19",
+        "index": "面试题17_19",
         "title": "Missing Two LCCI",
         "title_slug": "missing-two-lcci",
         "difficulty": 3
     },
     {
         "id": 1000028,
-        "index": "面试题 17_20",
+        "index": "面试题17_20",
         "title": "Continuous Median LCCI",
         "title_slug": "continuous-median-lcci",
         "difficulty": 3
     },
     {
         "id": 1000029,
-        "index": "面试题 17_21",
+        "index": "面试题17_21",
         "title": "Volume of Histogram LCCI",
         "title_slug": "volume-of-histogram-lcci",
         "difficulty": 3
     },
     {
         "id": 1000030,
-        "index": "面试题 17_22",
+        "index": "面试题17_22",
         "title": "Word Transformer LCCI",
         "title_slug": "word-transformer-lcci",
         "difficulty": 2
     },
     {
         "id": 1000045,
-        "index": "面试题 17_23",
+        "index": "面试题17_23",
         "title": "Max Black Square LCCI",
         "title_slug": "max-black-square-lcci",
         "difficulty": 2
     },
     {
         "id": 1000046,
-        "index": "面试题 17_24",
+        "index": "面试题17_24",
         "title": "Max Submatrix LCCI",
         "title_slug": "max-submatrix-lcci",
         "difficulty": 3
     },
     {
         "id": 1000049,
-        "index": "面试题 17_25",
+        "index": "面试题17_25",
         "title": "Word Rectangle LCCI",
         "title_slug": "word-rectangle-lcci",
         "difficulty": 3
     },
     {
         "id": 1000051,
-        "index": "面试题 17_26",
+        "index": "面试题17_26",
         "title": "Sparse Similarity LCCI",
         "title_slug": "sparse-similarity-lcci",
         "difficulty": 3

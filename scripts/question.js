@@ -37,6 +37,7 @@ function writeLocalQuestion(json){
         if(data.index.includes('.')){
             data.index = data.index.replace('.','_')
         }
+
         data.title = stat.question__title;
         data.title_slug = stat.question__title_slug;
         data.difficulty = item.difficulty.level;
@@ -99,6 +100,12 @@ function writeLocalQuestion(json){
         ...lcof,
         ...lcci,
     ];
+
+    sortedList.forEach((data)=>{
+        if(data.index.includes(' ')){
+            data.index = data.index.replace(/\s/g,'');
+        }
+    });
 
     const fmtData = JSON.stringify(sortedList,null,4);
 

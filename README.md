@@ -1524,203 +1524,203 @@
 | 1504 | Count Submatrices With All Ones |  | Medium |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard |
 | 1506 | Find Root of N-Ary Tree |  | Medium |
-| LCP 01 | Guess Numbers | [JavaScript](./javascript/LCP 01.guess-numbers.100107.js) | Easy |
-| LCP 02 | Deep Dark Fraction |  | Easy |
-| LCP 03 | Programmable Robot |  | Medium |
-| LCP 04 | Broken Board Dominoes |  | Hard |
-| LCP 05 | Coin Bonus |  | Hard |
-| LCP 06 | 拿硬币 | [JavaScript](./javascript/LCP 06.na-ying-bi.1000056.js) | Easy |
-| LCP 07 | 传递信息 |  | Easy |
-| LCP 08 | 剧情触发时间 |  | Medium |
-| LCP 09 | 最小跳跃次数 |  | Hard |
-| LCP 10 | 二叉树任务调度 |  | Hard |
-| LCP 11 | 期望个数统计 |  | Easy |
-| LCP 12 | 小张刷题计划 |  | Medium |
-| LCP 13 | 寻宝 |  | Hard |
-| LCP 14 | 切分数组 |  | Hard |
-| LCP 15 | 游乐园的迷宫 |  | Hard |
-| LCP 16 | 游乐园的游览计划 |  | Hard |
-| 剑指 Offer 03 | 数组中重复的数字 LCOF | [JavaScript](./javascript/剑指 Offer 03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) | Easy |
-| 剑指 Offer 04 | 二维数组中的查找 LCOF | [JavaScript](./javascript/剑指 Offer 04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) | Easy |
-| 剑指 Offer 05 | 替换空格 LCOF | [JavaScript](./javascript/剑指 Offer 05.ti-huan-kong-ge-lcof.100280.js) | Easy |
-| 剑指 Offer 06 | 从尾到头打印链表 LCOF | [JavaScript](./javascript/剑指 Offer 06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282.js) | Easy |
-| 剑指 Offer 07 | 重建二叉树 LCOF | [JavaScript](./javascript/剑指 Offer 07.zhong-jian-er-cha-shu-lcof.100283.js) | Medium |
-| 剑指 Offer 09 | 用两个栈实现队列 LCOF | [JavaScript](./javascript/剑指 Offer 09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273.js) | Easy |
-| 剑指 Offer 10- I | 斐波那契数列  LCOF | [JavaScript](./javascript/剑指 Offer 10- I.fei-bo-na-qi-shu-lie-lcof.100274.js) | Easy |
-| 剑指 Offer 10- II | 青蛙跳台阶问题  LCOF | [JavaScript](./javascript/剑指 Offer 10- II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277.js) | Easy |
-| 剑指 Offer 11 | 旋转数组的最小数字  LCOF | [JavaScript](./javascript/剑指 Offer 11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278.js) | Easy |
-| 剑指 Offer 12 | 矩阵中的路径  LCOF |  | Medium |
-| 剑指 Offer 13 | 机器人的运动范围  LCOF |  | Medium |
-| 剑指 Offer 14- I | 剪绳子  LCOF |  | Medium |
-| 剑指 Offer 14- II | 剪绳子 II LCOF |  | Medium |
-| 剑指 Offer 15 | 二进制中1的个数 LCOF | [JavaScript](./javascript/剑指 Offer 15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292.js) | Easy |
-| 剑指 Offer 16 | 数值的整数次方 LCOF | [JavaScript](./javascript/剑指 Offer 16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295.js) | Medium |
-| 剑指 Offer 17 | 打印从1到最大的n位数 LCOF | [JavaScript](./javascript/剑指 Offer 17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296.js) | Easy |
-| 剑指 Offer 18 | 删除链表的节点 LCOF | [JavaScript](./javascript/剑指 Offer 18.shan-chu-lian-biao-de-jie-dian-lcof.100299.js) | Easy |
-| 剑指 Offer 19 | 正则表达式匹配 LCOF |  | Hard |
-| 剑指 Offer 20 | 表示数值的字符串 LCOF |  | Medium |
-| 剑指 Offer 21 | 调整数组顺序使奇数位于偶数前面 LCOF | [JavaScript](./javascript/剑指 Offer 21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291.js) | Easy |
-| 剑指 Offer 22 | 链表中倒数第k个节点 LCOF | [JavaScript](./javascript/剑指 Offer 22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294.js) | Easy |
-| 剑指 Offer 24 | 反转链表 LCOF | [JavaScript](./javascript/剑指 Offer 24.fan-zhuan-lian-biao-lcof.100298.js) | Easy |
-| 剑指 Offer 25 | 合并两个排序的链表  LCOF | [JavaScript](./javascript/剑指 Offer 25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286.js) | Easy |
-| 剑指 Offer 26 | 树的子结构  LCOF | [JavaScript](./javascript/剑指 Offer 26.shu-de-zi-jie-gou-lcof.100287.js) | Medium |
-| 剑指 Offer 27 | 二叉树的镜像  LCOF | [JavaScript](./javascript/剑指 Offer 27.er-cha-shu-de-jing-xiang-lcof.100288.js) | Easy |
-| 剑指 Offer 28 | 对称的二叉树  LCOF | [JavaScript](./javascript/剑指 Offer 28.dui-cheng-de-er-cha-shu-lcof.100289.js) | Easy |
-| 剑指 Offer 29 | 顺时针打印矩阵  LCOF | [JavaScript](./javascript/剑指 Offer 29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293.js) | Easy |
-| 剑指 Offer 30 | 包含min函数的栈 LCOF | [JavaScript](./javascript/剑指 Offer 30.bao-han-minhan-shu-de-zhan-lcof.100302.js) | Easy |
-| 剑指 Offer 31 | 栈的压入、弹出序列 LCOF | [JavaScript](./javascript/剑指 Offer 31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306.js) | Medium |
-| 剑指 Offer 32 - I | 从上到下打印二叉树 LCOF | [JavaScript](./javascript/剑指 Offer 32 - I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311.js) | Medium |
-| 剑指 Offer 32 - II | 从上到下打印二叉树 II LCOF | [JavaScript](./javascript/剑指 Offer 32 - II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312.js) | Easy |
-| 剑指 Offer 32 - III | 从上到下打印二叉树 III LCOF | [JavaScript](./javascript/剑指 Offer 32 - III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314.js) | Medium |
-| 剑指 Offer 33 | 二叉搜索树的后序遍历序列 LCOF | [JavaScript](./javascript/剑指 Offer 33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315.js) | Medium |
-| 剑指 Offer 34 | 二叉树中和为某一值的路径 LCOF | [JavaScript](./javascript/剑指 Offer 34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317.js) | Medium |
-| 剑指 Offer 35 | 复杂链表的复制  LCOF |  | Medium |
-| 剑指 Offer 36 | 二叉搜索树与双向链表  LCOF | [JavaScript](./javascript/剑指 Offer 36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305.js) | Medium |
-| 剑指 Offer 37 | 序列化二叉树  LCOF |  | Hard |
-| 剑指 Offer 38 | 字符串的排列  LCOF |  | Medium |
-| 剑指 Offer 39 | 数组中出现次数超过一半的数字  LCOF | [JavaScript](./javascript/剑指 Offer 39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310.js) | Easy |
-| 剑指 Offer 40 | 最小的k个数  LCOF |  | Easy |
-| 剑指 Offer 41 | 数据流中的中位数  LCOF |  | Hard |
-| 剑指 Offer 42 | 连续子数组的最大和  LCOF | [JavaScript](./javascript/剑指 Offer 42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304.js) | Easy |
-| 剑指 Offer 43 | 1～n整数中1出现的次数  LCOF |  | Medium |
-| 剑指 Offer 44 | 数字序列中某一位的数字  LCOF |  | Medium |
-| 剑指 Offer 45 | 把数组排成最小的数 LCOF |  | Medium |
-| 剑指 Offer 46 | 把数字翻译成字符串 LCOF |  | Medium |
-| 剑指 Offer 47 | 礼物的最大价值 LCOF | [JavaScript](./javascript/剑指 Offer 47.li-wu-de-zui-da-jie-zhi-lcof.100327.js) | Medium |
-| 剑指 Offer 48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./javascript/剑指 Offer 48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332.js) | Medium |
-| 剑指 Offer 49 | 丑数 LCOF | [JavaScript](./javascript/剑指 Offer 49.chou-shu-lcof.100334.js) | Medium |
-| 剑指 Offer 50 | 第一个只出现一次的字符  LCOF | [JavaScript](./javascript/剑指 Offer 50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316.js) | Easy |
-| 剑指 Offer 51 | 数组中的逆序对  LCOF | [JavaScript](./javascript/剑指 Offer 51.shu-zu-zhong-de-ni-xu-dui-lcof.100318.js) | Hard |
-| 剑指 Offer 52 | 两个链表的第一个公共节点  LCOF | [JavaScript](./javascript/剑指 Offer 52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326.js) | Easy |
-| 剑指 Offer 53 - I | 在排序数组中查找数字  LCOF | [JavaScript](./javascript/剑指 Offer 53 - I.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329.js) | Easy |
-| 剑指 Offer 53 - II | 缺失的数字  LCOF | [JavaScript](./javascript/剑指 Offer 53 - II.que-shi-de-shu-zi-lcof.100331.js) | Easy |
-| 剑指 Offer 54 | 二叉搜索树的第k大节点  LCOF | [JavaScript](./javascript/剑指 Offer 54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333.js) | Easy |
-| 剑指 Offer 55 - I | 二叉树的深度 LCOF | [JavaScript](./javascript/剑指 Offer 55 - I.er-cha-shu-de-shen-du-lcof.100319.js) | Easy |
-| 剑指 Offer 55 - II | 平衡二叉树 LCOF | [JavaScript](./javascript/剑指 Offer 55 - II.ping-heng-er-cha-shu-lcof.100342.js) | Easy |
-| 剑指 Offer 56 - I | 数组中数字出现的次数 LCOF | [JavaScript](./javascript/剑指 Offer 56 - I.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320.js) | Medium |
-| 剑指 Offer 56 - II | 数组中数字出现的次数 II LCOF | [JavaScript](./javascript/剑指 Offer 56 - II.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.100321.js) | Medium |
-| 剑指 Offer 57 | 和为s的两个数字 LCOF | [JavaScript](./javascript/剑指 Offer 57.he-wei-sde-liang-ge-shu-zi-lcof.100322.js) | Easy |
-| 剑指 Offer 57 - II | 和为s的连续正数序列 LCOF |  | Easy |
-| 剑指 Offer 58 - I | 翻转单词顺序 LCOF | [JavaScript](./javascript/剑指 Offer 58 - I.fan-zhuan-dan-ci-shun-xu-lcof.100328.js) | Easy |
-| 剑指 Offer 58 - II | 左旋转字符串 LCOF | [JavaScript](./javascript/剑指 Offer 58 - II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) | Easy |
-| 剑指 Offer 59 - I | 滑动窗口的最大值 LCOF | [JavaScript](./javascript/剑指 Offer 59 - I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) | Easy |
-| 剑指 Offer 59 - II | 队列的最大值 LCOF | [JavaScript](./javascript/剑指 Offer 59 - II.dui-lie-de-zui-da-zhi-lcof.100337.js) | Medium |
-| 剑指 Offer 60 | n个骰子的点数  LCOF |  | Easy |
-| 剑指 Offer 61 | 扑克牌中的顺子  LCOF | [JavaScript](./javascript/剑指 Offer 61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) | Easy |
-| 剑指 Offer 62 | 圆圈中最后剩下的数字 LCOF |  | Easy |
-| 剑指 Offer 63 | 股票的最大利润  LCOF | [JavaScript](./javascript/剑指 Offer 63.gu-piao-de-zui-da-li-run-lcof.100344.js) | Medium |
-| 剑指 Offer 64 | 求1+2+…+n LCOF | [JavaScript](./javascript/剑指 Offer 64.qiu-12n-lcof.100345.js) | Medium |
-| 剑指 Offer 65 | 不用加减乘除做加法 LCOF | [JavaScript](./javascript/剑指 Offer 65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335.js) | Easy |
-| 剑指 Offer 66 | 构建乘积数组 LCOF | [JavaScript](./javascript/剑指 Offer 66.gou-jian-cheng-ji-shu-zu-lcof.100338.js) | Easy |
-| 剑指 Offer 67 | 把字符串转换成整数 LCOF |  | Medium |
-| 面试题68 - I | 二叉搜索树的最近公共祖先 LCOF | [Python3](./python/面试题68 - I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) | Easy |
-| 面试题68 - II | 二叉树的最近公共祖先 LCOF | [Python3](./python/面试题68 - II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) | Easy |
-| 面试题 01_01 | Is Unique LCCI | [JavaScript](./javascript/面试题 01_01.is-unique-lcci.100158.js) | Easy |
-| 面试题 01_02 | Check Permutation LCCI | [JavaScript](./javascript/面试题 01_02.check-permutation-lcci.100159.js) | Easy |
-| 面试题 01_03 | String to URL LCCI | [JavaScript](./javascript/面试题 01_03.string-to-url-lcci.100160.js) | Easy |
-| 面试题 01_04 | Palindrome Permutation LCCI | [JavaScript](./javascript/面试题 01_04.palindrome-permutation-lcci.100184.js) | Easy |
-| 面试题 01_05 | One Away LCCI | [JavaScript](./javascript/面试题 01_05.one-away-lcci.1000006.js) | Medium |
-| 面试题 01_06 | Compress String LCCI | [JavaScript](./javascript/面试题 01_06.compress-string-lcci.100161.js) | Easy |
-| 面试题 01_07 | Rotate Matrix LCCI | [JavaScript](./javascript/面试题 01_07.rotate-matrix-lcci.100185.js) | Medium |
-| 面试题 01_08 | Zero Matrix LCCI | [JavaScript](./javascript/面试题 01_08.zero-matrix-lcci.100186.js) | Medium |
-| 面试题 01_09 | String Rotation LCCI |  | Easy |
-| 面试题 02_01 | Remove Duplicate Node LCCI | [JavaScript](./javascript/面试题 02_01.remove-duplicate-node-lcci.100163.js) | Easy |
-| 面试题 02_02 | Kth Node From End of List LCCI | [JavaScript](./javascript/面试题 02_02.kth-node-from-end-of-list-lcci.1000007.js) | Easy |
-| 面试题 02_03 | Delete Middle Node LCCI | [JavaScript](./javascript/面试题 02_03.delete-middle-node-lcci.100187.js) | Easy |
-| 面试题 02_04 | Partition List LCCI |  | Medium |
-| 面试题 02_05 | Sum Lists LCCI |  | Medium |
-| 面试题 02_06 | Palindrome Linked List LCCI |  | Easy |
-| 面试题 02_07 | Intersection of Two Linked Lists LCCI | [JavaScript](./javascript/面试题 02_07.intersection-of-two-linked-lists-lcci.100167.js) | Easy |
-| 面试题 02_08 | Linked List Cycle LCCI |  | Medium |
-| 面试题 03_01 | Three in One LCCI |  | Easy |
-| 面试题 03_02 | Min Stack LCCI | [JavaScript](./javascript/面试题 03_02.min-stack-lcci.100169.js) | Easy |
-| 面试题 03_03 | Stack of Plates LCCI |  | Medium |
-| 面试题 03_04 | Implement Queue using Stacks LCCI | [JavaScript](./javascript/面试题 03_04.implement-queue-using-stacks-lcci.100170.js) | Easy |
-| 面试题 03_05 | Sort of Stacks LCCI |  | Medium |
-| 面试题 03_06 | Animal Shelter LCCI | [JavaScript](./javascript/面试题 03_06.animal-shelter-lcci.100228.js) | Easy |
-| 面试题 04_01 | Route Between Nodes LCCI |  | Medium |
-| 面试题 04_02 | Minimum Height Tree LCCI | [JavaScript](./javascript/面试题 04_02.minimum-height-tree-lcci.100174.js) | Easy |
-| 面试题 04_03 | List of Depth LCCI | [JavaScript](./javascript/面试题 04_03.list-of-depth-lcci.100175.js) | Medium |
-| 面试题 04_04 | Check Balance LCCI | [JavaScript](./javascript/面试题 04_04.check-balance-lcci.100176.js) | Easy |
-| 面试题 04_05 | Legal Binary Search Tree LCCI | [JavaScript](./javascript/面试题 04_05.legal-binary-search-tree-lcci.100177.js) | Medium |
-| 面试题 04_06 | Successor LCCI | [JavaScript](./javascript/面试题 04_06.successor-lcci.100178.js) | Medium |
-| 面试题 04_08 | First Common Ancestor LCCI | [JavaScript](./javascript/面试题 04_08.first-common-ancestor-lcci.100179.js) | Medium |
-| 面试题 04_09 | BST Sequences LCCI |  | Hard |
-| 面试题 04_10 | Check SubTree LCCI |  | Medium |
-| 面试题 04_12 | Paths with Sum LCCI |  | Medium |
-| 面试题 05_01 | Insert Into Bits LCCI |  | Easy |
-| 面试题 05_02 | Bianry Number to String LCCI |  | Medium |
-| 面试题 05_03 | Reverse Bits LCCI |  | Easy |
-| 面试题 05_04 | Closed Number LCCI |  | Medium |
-| 面试题 05_06 | Convert Integer LCCI | [JavaScript](./javascript/面试题 05_06.convert-integer-lcci.100181.js) | Easy |
-| 面试题 05_07 | Exchange LCCI |  | Easy |
-| 面试题 05_08 | Draw Line LCCI |  | Medium |
-| 面试题 08_01 | Three Steps Problem LCCI | [JavaScript](./javascript/面试题 08_01.three-steps-problem-lcci.100197.js) | Easy |
-| 面试题 08_02 | Robot in a Grid LCCI | [JavaScript](./javascript/面试题 08_02.robot-in-a-grid-lcci.1000011.js) | Medium |
-| 面试题 08_03 | Magic Index LCCI | [JavaScript](./javascript/面试题 08_03.magic-index-lcci.100240.js) | Easy |
-| 面试题 08_04 | Power Set LCCI | [JavaScript](./javascript/面试题 08_04.power-set-lcci.100198.js) | Medium |
-| 面试题 08_05 | Recursive Mulitply LCCI |  | Medium |
-| 面试题 08_06 | Hanota LCCI |  | Easy |
-| 面试题 08_07 | Permutation I LCCI | [JavaScript](./javascript/面试题 08_07.permutation-i-lcci.100241.js) | Medium |
-| 面试题 08_08 | Permutation II LCCI | [JavaScript](./javascript/面试题 08_08.permutation-ii-lcci.100348.js) | Medium |
-| 面试题 08_09 | Bracket LCCI | [JavaScript](./javascript/面试题 08_09.bracket-lcci.100200.js) | Medium |
-| 面试题 08_10 | Color Fill LCCI | [JavaScript](./javascript/面试题 08_10.color-fill-lcci.100201.js) | Easy |
-| 面试题 08_11 | Coin LCCI |  | Medium |
-| 面试题 08_12 | Eight Queens LCCI |  | Hard |
-| 面试题 08_13 | Pile Box LCCI |  | Hard |
-| 面试题 08_14 | Boolean Evaluation LCCI |  | Medium |
-| 面试题 10_01 | Sorted Merge LCCI | [JavaScript](./javascript/面试题 10_01.sorted-merge-lcci.1000012.js) | Easy |
-| 面试题 10_02 | Group Anagrams LCCI |  | Medium |
-| 面试题 10_03 | Search Rotate Array LCCI |  | Medium |
-| 面试题 10_05 | Sparse Array Search LCCI |  | Easy |
-| 面试题 10_09 | Sorted Matrix Search LCCI | [JavaScript](./javascript/面试题 10_09.sorted-matrix-search-lcci.1000016.js) | Medium |
-| 面试题 10_10 | Rank from Stream LCCI |  | Medium |
-| 面试题 10_11 | Peaks and Valleys LCCI |  | Medium |
-| 面试题 16_01 | Swap Numbers LCCI |  | Medium |
-| 面试题 16_02 | Words Frequency LCCI | [JavaScript](./javascript/面试题 16_02.words-frequency-lcci.100259.js) | Medium |
-| 面试题 16_03 | Intersection LCCI |  | Hard |
-| 面试题 16_04 | Tic-Tac-Toe LCCI |  | Medium |
-| 面试题 16_05 | Factorial Zeros LCCI | [JavaScript](./javascript/面试题 16_05.factorial-zeros-lcci.1000017.js) | Easy |
-| 面试题 16_06 | Smallest Difference LCCI |  | Medium |
-| 面试题 16_07 | Maximum LCCI |  | Easy |
-| 面试题 16_08 | English Int LCCI |  | Hard |
-| 面试题 16_09 | Operations LCCI |  | Medium |
-| 面试题 16_10 | Living People LCCI |  | Medium |
-| 面试题 16_11 | Diving Board LCCI | [JavaScript](./javascript/面试题 16_11.diving-board-lcci.100352.js) | Easy |
-| 面试题 16_13 | Bisect Squares LCCI |  | Medium |
-| 面试题 16_14 | Best Line LCCI |  | Medium |
-| 面试题 16_15 | Master Mind LCCI |  | Easy |
-| 面试题 16_16 | Sub Sort LCCI |  | Medium |
-| 面试题 16_17 | Contiguous Sequence LCCI | [JavaScript](./javascript/面试题 16_17.contiguous-sequence-lcci.1000003.js) | Easy |
-| 面试题 16_18 | Pattern Matching LCCI |  | Medium |
-| 面试题 16_19 | Pond Sizes LCCI | [JavaScript](./javascript/面试题 16_19.pond-sizes-lcci.1000005.js) | Medium |
-| 面试题 16_20 | T9 LCCI |  | Medium |
-| 面试题 16_21 | Sum Swap LCCI |  | Medium |
-| 面试题 16_22 | Langtons Ant LCCI |  | Medium |
-| 面试题 16_24 | Pairs With Sum LCCI | [JavaScript](./javascript/面试题 16_24.pairs-with-sum-lcci.1000042.js) | Medium |
-| 面试题 16_25 | LRU Cache LCCI | [JavaScript](./javascript/面试题 16_25.lru-cache-lcci.1000026.js) | Medium |
-| 面试题 16_26 | Calculator LCCI |  | Medium |
-| 面试题 17_01 | Add Without Plus LCCI | [JavaScript](./javascript/面试题 17_01.add-without-plus-lcci.1000025.js) | Easy |
-| 面试题 17_04 | Missing Number LCCI | [JavaScript](./javascript/面试题 17_04.missing-number-lcci.1000032.js) | Easy |
-| 面试题 17_05 | Find Longest Subarray LCCI |  | Medium |
-| 面试题 17_06 | Number Of 2s In Range LCCI |  | Medium |
-| 面试题 17_07 | Baby Names LCCI |  | Medium |
-| 面试题 17_08 | Circus Tower LCCI |  | Medium |
-| 面试题 17_09 | Get Kth Magic Number LCCI |  | Medium |
-| 面试题 17_10 | Find Majority Element LCCI | [JavaScript](./javascript/面试题 17_10.find-majority-element-lcci.1000038.js) | Easy |
-| 面试题 17_11 | Find Closest LCCI |  | Medium |
-| 面试题 17_12 | BiNode LCCI | [JavaScript](./javascript/面试题 17_12.binode-lcci.1000019.js) | Easy |
-| 面试题 17_13 | Re-Space LCCI |  | Medium |
-| 面试题 17_14 | Smallest K LCCI |  | Medium |
-| 面试题 17_15 | Longest Word LCCI |  | Medium |
-| 面试题 17_16 | The Masseuse LCCI | [JavaScript](./javascript/面试题 17_16.the-masseuse-lcci.1000023.js) | Easy |
-| 面试题 17_17 | Multi Search LCCI |  | Medium |
-| 面试题 17_18 | Shortest Supersequence LCCI |  | Medium |
-| 面试题 17_19 | Missing Two LCCI |  | Hard |
-| 面试题 17_20 | Continuous Median LCCI |  | Hard |
-| 面试题 17_21 | Volume of Histogram LCCI |  | Hard |
-| 面试题 17_22 | Word Transformer LCCI |  | Medium |
-| 面试题 17_23 | Max Black Square LCCI |  | Medium |
-| 面试题 17_24 | Max Submatrix LCCI |  | Hard |
-| 面试题 17_25 | Word Rectangle LCCI |  | Hard |
-| 面试题 17_26 | Sparse Similarity LCCI |  | Hard |
+| LCP01 | Guess Numbers | [JavaScript](./javascript/LCP01.guess-numbers.100107.js) | Easy |
+| LCP02 | Deep Dark Fraction |  | Easy |
+| LCP03 | Programmable Robot |  | Medium |
+| LCP04 | Broken Board Dominoes |  | Hard |
+| LCP05 | Coin Bonus |  | Hard |
+| LCP06 | 拿硬币 | [JavaScript](./javascript/LCP06.na-ying-bi.1000056.js) | Easy |
+| LCP07 | 传递信息 |  | Easy |
+| LCP08 | 剧情触发时间 |  | Medium |
+| LCP09 | 最小跳跃次数 |  | Hard |
+| LCP10 | 二叉树任务调度 |  | Hard |
+| LCP11 | 期望个数统计 |  | Easy |
+| LCP12 | 小张刷题计划 |  | Medium |
+| LCP13 | 寻宝 |  | Hard |
+| LCP14 | 切分数组 |  | Hard |
+| LCP15 | 游乐园的迷宫 |  | Hard |
+| LCP16 | 游乐园的游览计划 |  | Hard |
+| 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./javascript/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) | Easy |
+| 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./javascript/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) | Easy |
+| 剑指Offer05 | 替换空格 LCOF | [JavaScript](./javascript/剑指Offer05.ti-huan-kong-ge-lcof.100280.js) | Easy |
+| 剑指Offer06 | 从尾到头打印链表 LCOF | [JavaScript](./javascript/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282.js) | Easy |
+| 剑指Offer07 | 重建二叉树 LCOF | [JavaScript](./javascript/剑指Offer07.zhong-jian-er-cha-shu-lcof.100283.js) | Medium |
+| 剑指Offer09 | 用两个栈实现队列 LCOF | [JavaScript](./javascript/剑指Offer09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273.js) | Easy |
+| 剑指Offer10-I | 斐波那契数列  LCOF | [JavaScript](./javascript/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274.js) | Easy |
+| 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./javascript/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277.js) | Easy |
+| 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./javascript/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278.js) | Easy |
+| 剑指Offer12 | 矩阵中的路径  LCOF |  | Medium |
+| 剑指Offer13 | 机器人的运动范围  LCOF |  | Medium |
+| 剑指Offer14-I | 剪绳子  LCOF |  | Medium |
+| 剑指Offer14-II | 剪绳子 II LCOF |  | Medium |
+| 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./javascript/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292.js) | Easy |
+| 剑指Offer16 | 数值的整数次方 LCOF | [JavaScript](./javascript/剑指Offer16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295.js) | Medium |
+| 剑指Offer17 | 打印从1到最大的n位数 LCOF | [JavaScript](./javascript/剑指Offer17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296.js) | Easy |
+| 剑指Offer18 | 删除链表的节点 LCOF | [JavaScript](./javascript/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299.js) | Easy |
+| 剑指Offer19 | 正则表达式匹配 LCOF |  | Hard |
+| 剑指Offer20 | 表示数值的字符串 LCOF |  | Medium |
+| 剑指Offer21 | 调整数组顺序使奇数位于偶数前面 LCOF | [JavaScript](./javascript/剑指Offer21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291.js) | Easy |
+| 剑指Offer22 | 链表中倒数第k个节点 LCOF | [JavaScript](./javascript/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294.js) | Easy |
+| 剑指Offer24 | 反转链表 LCOF | [JavaScript](./javascript/剑指Offer24.fan-zhuan-lian-biao-lcof.100298.js) | Easy |
+| 剑指Offer25 | 合并两个排序的链表  LCOF | [JavaScript](./javascript/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286.js) | Easy |
+| 剑指Offer26 | 树的子结构  LCOF | [JavaScript](./javascript/剑指Offer26.shu-de-zi-jie-gou-lcof.100287.js) | Medium |
+| 剑指Offer27 | 二叉树的镜像  LCOF | [JavaScript](./javascript/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288.js) | Easy |
+| 剑指Offer28 | 对称的二叉树  LCOF | [JavaScript](./javascript/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289.js) | Easy |
+| 剑指Offer29 | 顺时针打印矩阵  LCOF | [JavaScript](./javascript/剑指Offer29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293.js) | Easy |
+| 剑指Offer30 | 包含min函数的栈 LCOF | [JavaScript](./javascript/剑指Offer30.bao-han-minhan-shu-de-zhan-lcof.100302.js) | Easy |
+| 剑指Offer31 | 栈的压入、弹出序列 LCOF | [JavaScript](./javascript/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306.js) | Medium |
+| 剑指Offer32-I | 从上到下打印二叉树 LCOF | [JavaScript](./javascript/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311.js) | Medium |
+| 剑指Offer32-II | 从上到下打印二叉树 II LCOF | [JavaScript](./javascript/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312.js) | Easy |
+| 剑指Offer32-III | 从上到下打印二叉树 III LCOF | [JavaScript](./javascript/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314.js) | Medium |
+| 剑指Offer33 | 二叉搜索树的后序遍历序列 LCOF | [JavaScript](./javascript/剑指Offer33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315.js) | Medium |
+| 剑指Offer34 | 二叉树中和为某一值的路径 LCOF | [JavaScript](./javascript/剑指Offer34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317.js) | Medium |
+| 剑指Offer35 | 复杂链表的复制  LCOF |  | Medium |
+| 剑指Offer36 | 二叉搜索树与双向链表  LCOF | [JavaScript](./javascript/剑指Offer36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305.js) | Medium |
+| 剑指Offer37 | 序列化二叉树  LCOF |  | Hard |
+| 剑指Offer38 | 字符串的排列  LCOF |  | Medium |
+| 剑指Offer39 | 数组中出现次数超过一半的数字  LCOF | [JavaScript](./javascript/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310.js) | Easy |
+| 剑指Offer40 | 最小的k个数  LCOF |  | Easy |
+| 剑指Offer41 | 数据流中的中位数  LCOF |  | Hard |
+| 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./javascript/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304.js) | Easy |
+| 剑指Offer43 | 1～n整数中1出现的次数  LCOF |  | Medium |
+| 剑指Offer44 | 数字序列中某一位的数字  LCOF |  | Medium |
+| 剑指Offer45 | 把数组排成最小的数 LCOF |  | Medium |
+| 剑指Offer46 | 把数字翻译成字符串 LCOF |  | Medium |
+| 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./javascript/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327.js) | Medium |
+| 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./javascript/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332.js) | Medium |
+| 剑指Offer49 | 丑数 LCOF | [JavaScript](./javascript/剑指Offer49.chou-shu-lcof.100334.js) | Medium |
+| 剑指Offer50 | 第一个只出现一次的字符  LCOF | [JavaScript](./javascript/剑指Offer50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316.js) | Easy |
+| 剑指Offer51 | 数组中的逆序对  LCOF | [JavaScript](./javascript/剑指Offer51.shu-zu-zhong-de-ni-xu-dui-lcof.100318.js) | Hard |
+| 剑指Offer52 | 两个链表的第一个公共节点  LCOF | [JavaScript](./javascript/剑指Offer52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326.js) | Easy |
+| 剑指Offer53-I | 在排序数组中查找数字  LCOF | [JavaScript](./javascript/剑指Offer53-I.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329.js) | Easy |
+| 剑指Offer53-II | 缺失的数字  LCOF | [JavaScript](./javascript/剑指Offer53-II.que-shi-de-shu-zi-lcof.100331.js) | Easy |
+| 剑指Offer54 | 二叉搜索树的第k大节点  LCOF | [JavaScript](./javascript/剑指Offer54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333.js) | Easy |
+| 剑指Offer55-I | 二叉树的深度 LCOF | [JavaScript](./javascript/剑指Offer55-I.er-cha-shu-de-shen-du-lcof.100319.js) | Easy |
+| 剑指Offer55-II | 平衡二叉树 LCOF | [JavaScript](./javascript/剑指Offer55-II.ping-heng-er-cha-shu-lcof.100342.js) | Easy |
+| 剑指Offer56-I | 数组中数字出现的次数 LCOF | [JavaScript](./javascript/剑指Offer56-I.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320.js) | Medium |
+| 剑指Offer56-II | 数组中数字出现的次数 II LCOF | [JavaScript](./javascript/剑指Offer56-II.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.100321.js) | Medium |
+| 剑指Offer57 | 和为s的两个数字 LCOF | [JavaScript](./javascript/剑指Offer57.he-wei-sde-liang-ge-shu-zi-lcof.100322.js) | Easy |
+| 剑指Offer57-II | 和为s的连续正数序列 LCOF |  | Easy |
+| 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./javascript/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.js) | Easy |
+| 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./javascript/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) | Easy |
+| 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./javascript/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) | Easy |
+| 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./javascript/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.js) | Medium |
+| 剑指Offer60 | n个骰子的点数  LCOF |  | Easy |
+| 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./javascript/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) | Easy |
+| 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy |
+| 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./javascript/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344.js) | Medium |
+| 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./javascript/剑指Offer64.qiu-12n-lcof.100345.js) | Medium |
+| 剑指Offer65 | 不用加减乘除做加法 LCOF | [JavaScript](./javascript/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335.js) | Easy |
+| 剑指Offer66 | 构建乘积数组 LCOF | [JavaScript](./javascript/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338.js) | Easy |
+| 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium |
+| 面试题68-I | 二叉搜索树的最近公共祖先 LCOF | [Python3](./python/面试题68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) | Easy |
+| 面试题68-II | 二叉树的最近公共祖先 LCOF | [Python3](./python/面试题68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) | Easy |
+| 面试题01_01 | Is Unique LCCI | [JavaScript](./javascript/面试题01_01.is-unique-lcci.100158.js) | Easy |
+| 面试题01_02 | Check Permutation LCCI | [JavaScript](./javascript/面试题01_02.check-permutation-lcci.100159.js) | Easy |
+| 面试题01_03 | String to URL LCCI | [JavaScript](./javascript/面试题01_03.string-to-url-lcci.100160.js) | Easy |
+| 面试题01_04 | Palindrome Permutation LCCI | [JavaScript](./javascript/面试题01_04.palindrome-permutation-lcci.100184.js) | Easy |
+| 面试题01_05 | One Away LCCI | [JavaScript](./javascript/面试题01_05.one-away-lcci.1000006.js) | Medium |
+| 面试题01_06 | Compress String LCCI | [JavaScript](./javascript/面试题01_06.compress-string-lcci.100161.js) | Easy |
+| 面试题01_07 | Rotate Matrix LCCI | [JavaScript](./javascript/面试题01_07.rotate-matrix-lcci.100185.js) | Medium |
+| 面试题01_08 | Zero Matrix LCCI | [JavaScript](./javascript/面试题01_08.zero-matrix-lcci.100186.js) | Medium |
+| 面试题01_09 | String Rotation LCCI |  | Easy |
+| 面试题02_01 | Remove Duplicate Node LCCI | [JavaScript](./javascript/面试题02_01.remove-duplicate-node-lcci.100163.js) | Easy |
+| 面试题02_02 | Kth Node From End of List LCCI | [JavaScript](./javascript/面试题02_02.kth-node-from-end-of-list-lcci.1000007.js) | Easy |
+| 面试题02_03 | Delete Middle Node LCCI | [JavaScript](./javascript/面试题02_03.delete-middle-node-lcci.100187.js) | Easy |
+| 面试题02_04 | Partition List LCCI |  | Medium |
+| 面试题02_05 | Sum Lists LCCI |  | Medium |
+| 面试题02_06 | Palindrome Linked List LCCI |  | Easy |
+| 面试题02_07 | Intersection of Two Linked Lists LCCI | [JavaScript](./javascript/面试题02_07.intersection-of-two-linked-lists-lcci.100167.js) | Easy |
+| 面试题02_08 | Linked List Cycle LCCI |  | Medium |
+| 面试题03_01 | Three in One LCCI |  | Easy |
+| 面试题03_02 | Min Stack LCCI | [JavaScript](./javascript/面试题03_02.min-stack-lcci.100169.js) | Easy |
+| 面试题03_03 | Stack of Plates LCCI |  | Medium |
+| 面试题03_04 | Implement Queue using Stacks LCCI | [JavaScript](./javascript/面试题03_04.implement-queue-using-stacks-lcci.100170.js) | Easy |
+| 面试题03_05 | Sort of Stacks LCCI |  | Medium |
+| 面试题03_06 | Animal Shelter LCCI | [JavaScript](./javascript/面试题03_06.animal-shelter-lcci.100228.js) | Easy |
+| 面试题04_01 | Route Between Nodes LCCI |  | Medium |
+| 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./javascript/面试题04_02.minimum-height-tree-lcci.100174.js) | Easy |
+| 面试题04_03 | List of Depth LCCI | [JavaScript](./javascript/面试题04_03.list-of-depth-lcci.100175.js) | Medium |
+| 面试题04_04 | Check Balance LCCI | [JavaScript](./javascript/面试题04_04.check-balance-lcci.100176.js) | Easy |
+| 面试题04_05 | Legal Binary Search Tree LCCI | [JavaScript](./javascript/面试题04_05.legal-binary-search-tree-lcci.100177.js) | Medium |
+| 面试题04_06 | Successor LCCI | [JavaScript](./javascript/面试题04_06.successor-lcci.100178.js) | Medium |
+| 面试题04_08 | First Common Ancestor LCCI | [JavaScript](./javascript/面试题04_08.first-common-ancestor-lcci.100179.js) | Medium |
+| 面试题04_09 | BST Sequences LCCI |  | Hard |
+| 面试题04_10 | Check SubTree LCCI |  | Medium |
+| 面试题04_12 | Paths with Sum LCCI |  | Medium |
+| 面试题05_01 | Insert Into Bits LCCI |  | Easy |
+| 面试题05_02 | Bianry Number to String LCCI |  | Medium |
+| 面试题05_03 | Reverse Bits LCCI |  | Easy |
+| 面试题05_04 | Closed Number LCCI |  | Medium |
+| 面试题05_06 | Convert Integer LCCI | [JavaScript](./javascript/面试题05_06.convert-integer-lcci.100181.js) | Easy |
+| 面试题05_07 | Exchange LCCI |  | Easy |
+| 面试题05_08 | Draw Line LCCI |  | Medium |
+| 面试题08_01 | Three Steps Problem LCCI | [JavaScript](./javascript/面试题08_01.three-steps-problem-lcci.100197.js) | Easy |
+| 面试题08_02 | Robot in a Grid LCCI | [JavaScript](./javascript/面试题08_02.robot-in-a-grid-lcci.1000011.js) | Medium |
+| 面试题08_03 | Magic Index LCCI | [JavaScript](./javascript/面试题08_03.magic-index-lcci.100240.js) | Easy |
+| 面试题08_04 | Power Set LCCI | [JavaScript](./javascript/面试题08_04.power-set-lcci.100198.js) | Medium |
+| 面试题08_05 | Recursive Mulitply LCCI |  | Medium |
+| 面试题08_06 | Hanota LCCI |  | Easy |
+| 面试题08_07 | Permutation I LCCI | [JavaScript](./javascript/面试题08_07.permutation-i-lcci.100241.js) | Medium |
+| 面试题08_08 | Permutation II LCCI | [JavaScript](./javascript/面试题08_08.permutation-ii-lcci.100348.js) | Medium |
+| 面试题08_09 | Bracket LCCI | [JavaScript](./javascript/面试题08_09.bracket-lcci.100200.js) | Medium |
+| 面试题08_10 | Color Fill LCCI | [JavaScript](./javascript/面试题08_10.color-fill-lcci.100201.js) | Easy |
+| 面试题08_11 | Coin LCCI |  | Medium |
+| 面试题08_12 | Eight Queens LCCI |  | Hard |
+| 面试题08_13 | Pile Box LCCI |  | Hard |
+| 面试题08_14 | Boolean Evaluation LCCI |  | Medium |
+| 面试题10_01 | Sorted Merge LCCI | [JavaScript](./javascript/面试题10_01.sorted-merge-lcci.1000012.js) | Easy |
+| 面试题10_02 | Group Anagrams LCCI |  | Medium |
+| 面试题10_03 | Search Rotate Array LCCI |  | Medium |
+| 面试题10_05 | Sparse Array Search LCCI |  | Easy |
+| 面试题10_09 | Sorted Matrix Search LCCI | [JavaScript](./javascript/面试题10_09.sorted-matrix-search-lcci.1000016.js) | Medium |
+| 面试题10_10 | Rank from Stream LCCI |  | Medium |
+| 面试题10_11 | Peaks and Valleys LCCI |  | Medium |
+| 面试题16_01 | Swap Numbers LCCI |  | Medium |
+| 面试题16_02 | Words Frequency LCCI | [JavaScript](./javascript/面试题16_02.words-frequency-lcci.100259.js) | Medium |
+| 面试题16_03 | Intersection LCCI |  | Hard |
+| 面试题16_04 | Tic-Tac-Toe LCCI |  | Medium |
+| 面试题16_05 | Factorial Zeros LCCI | [JavaScript](./javascript/面试题16_05.factorial-zeros-lcci.1000017.js) | Easy |
+| 面试题16_06 | Smallest Difference LCCI |  | Medium |
+| 面试题16_07 | Maximum LCCI |  | Easy |
+| 面试题16_08 | English Int LCCI |  | Hard |
+| 面试题16_09 | Operations LCCI |  | Medium |
+| 面试题16_10 | Living People LCCI |  | Medium |
+| 面试题16_11 | Diving Board LCCI | [JavaScript](./javascript/面试题16_11.diving-board-lcci.100352.js) | Easy |
+| 面试题16_13 | Bisect Squares LCCI |  | Medium |
+| 面试题16_14 | Best Line LCCI |  | Medium |
+| 面试题16_15 | Master Mind LCCI |  | Easy |
+| 面试题16_16 | Sub Sort LCCI |  | Medium |
+| 面试题16_17 | Contiguous Sequence LCCI | [JavaScript](./javascript/面试题16_17.contiguous-sequence-lcci.1000003.js) | Easy |
+| 面试题16_18 | Pattern Matching LCCI |  | Medium |
+| 面试题16_19 | Pond Sizes LCCI | [JavaScript](./javascript/面试题16_19.pond-sizes-lcci.1000005.js) | Medium |
+| 面试题16_20 | T9 LCCI |  | Medium |
+| 面试题16_21 | Sum Swap LCCI |  | Medium |
+| 面试题16_22 | Langtons Ant LCCI |  | Medium |
+| 面试题16_24 | Pairs With Sum LCCI | [JavaScript](./javascript/面试题16_24.pairs-with-sum-lcci.1000042.js) | Medium |
+| 面试题16_25 | LRU Cache LCCI | [JavaScript](./javascript/面试题16_25.lru-cache-lcci.1000026.js) | Medium |
+| 面试题16_26 | Calculator LCCI |  | Medium |
+| 面试题17_01 | Add Without Plus LCCI | [JavaScript](./javascript/面试题17_01.add-without-plus-lcci.1000025.js) | Easy |
+| 面试题17_04 | Missing Number LCCI | [JavaScript](./javascript/面试题17_04.missing-number-lcci.1000032.js) | Easy |
+| 面试题17_05 | Find Longest Subarray LCCI |  | Medium |
+| 面试题17_06 | Number Of 2s In Range LCCI |  | Medium |
+| 面试题17_07 | Baby Names LCCI |  | Medium |
+| 面试题17_08 | Circus Tower LCCI |  | Medium |
+| 面试题17_09 | Get Kth Magic Number LCCI |  | Medium |
+| 面试题17_10 | Find Majority Element LCCI | [JavaScript](./javascript/面试题17_10.find-majority-element-lcci.1000038.js) | Easy |
+| 面试题17_11 | Find Closest LCCI |  | Medium |
+| 面试题17_12 | BiNode LCCI | [JavaScript](./javascript/面试题17_12.binode-lcci.1000019.js) | Easy |
+| 面试题17_13 | Re-Space LCCI |  | Medium |
+| 面试题17_14 | Smallest K LCCI |  | Medium |
+| 面试题17_15 | Longest Word LCCI |  | Medium |
+| 面试题17_16 | The Masseuse LCCI | [JavaScript](./javascript/面试题17_16.the-masseuse-lcci.1000023.js) | Easy |
+| 面试题17_17 | Multi Search LCCI |  | Medium |
+| 面试题17_18 | Shortest Supersequence LCCI |  | Medium |
+| 面试题17_19 | Missing Two LCCI |  | Hard |
+| 面试题17_20 | Continuous Median LCCI |  | Hard |
+| 面试题17_21 | Volume of Histogram LCCI |  | Hard |
+| 面试题17_22 | Word Transformer LCCI |  | Medium |
+| 面试题17_23 | Max Black Square LCCI |  | Medium |
+| 面试题17_24 | Max Submatrix LCCI |  | Hard |
+| 面试题17_25 | Word Rectangle LCCI |  | Hard |
+| 面试题17_26 | Sparse Similarity LCCI |  | Hard |
