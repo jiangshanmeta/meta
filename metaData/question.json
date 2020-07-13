@@ -10542,6 +10542,76 @@
         "difficulty": 2
     },
     {
+        "id": 1283,
+        "index": "1507",
+        "title": "Reformat Date",
+        "title_slug": "reformat-date",
+        "difficulty": 1
+    },
+    {
+        "id": 1615,
+        "index": "1508",
+        "title": "Range Sum of Sorted Subarray Sums",
+        "title_slug": "range-sum-of-sorted-subarray-sums",
+        "difficulty": 2
+    },
+    {
+        "id": 1616,
+        "index": "1509",
+        "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+        "title_slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+        "difficulty": 2
+    },
+    {
+        "id": 1617,
+        "index": "1510",
+        "title": "Stone Game IV",
+        "title_slug": "stone-game-iv",
+        "difficulty": 3
+    },
+    {
+        "id": 1654,
+        "index": "1511",
+        "title": "Customer Order Frequency",
+        "title_slug": "customer-order-frequency",
+        "difficulty": 1
+    },
+    {
+        "id": 1635,
+        "index": "1512",
+        "title": "Number of Good Pairs",
+        "title_slug": "number-of-good-pairs",
+        "difficulty": 1
+    },
+    {
+        "id": 1636,
+        "index": "1513",
+        "title": "Number of Substrings With Only 1s",
+        "title_slug": "number-of-substrings-with-only-1s",
+        "difficulty": 2
+    },
+    {
+        "id": 1325,
+        "index": "1514",
+        "title": "Path with Maximum Probability",
+        "title_slug": "path-with-maximum-probability",
+        "difficulty": 2
+    },
+    {
+        "id": 1638,
+        "index": "1515",
+        "title": "Best Position for a Service Centre",
+        "title_slug": "best-position-for-a-service-centre",
+        "difficulty": 3
+    },
+    {
+        "id": 1655,
+        "index": "1516",
+        "title": "Move Sub-Tree of N-Ary Tree",
+        "title_slug": "move-sub-tree-of-n-ary-tree",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
