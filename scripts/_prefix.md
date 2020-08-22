@@ -8,7 +8,7 @@
 
 [lintcode题解](https://github.com/jiangshanmeta/lintcode)
 
-[scriptoj](https://github.com/jiangshanmeta/scriptoj)
+[scriptoj题解](https://github.com/jiangshanmeta/scriptoj)
 
 [剑指offer题解](https://github.com/jiangshanmeta/coding-interviews)
 

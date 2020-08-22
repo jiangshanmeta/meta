@@ -8,7 +8,7 @@
 
 [lintcode题解](https://github.com/jiangshanmeta/lintcode)
 
-[scriptoj](https://github.com/jiangshanmeta/scriptoj)
+[scriptoj题解](https://github.com/jiangshanmeta/scriptoj)
 
 [剑指offer题解](https://github.com/jiangshanmeta/coding-interviews)
 
@@ -79,7 +79,7 @@
 | 0059 | Spiral Matrix II | [JavaScript](./javascript/0059.spiral-matrix-ii.59.js) | Medium |
 | 0060 | Permutation Sequence | [JavaScript](./javascript/0060.permutation-sequence.60.js) | Medium |
 | 0061 | Rotate List | [JavaScript](./javascript/0061.rotate-list.61.js) | Medium |
-| 0062 | Unique Paths |  | Medium |
+| 0062 | Unique Paths | [JavaScript](./javascript/0062.unique-paths.62.js) | Medium |
 | 0063 | Unique Paths II | [JavaScript](./javascript/0063.unique-paths-ii.63.js) | Medium |
 | 0064 | Minimum Path Sum | [JavaScript](./javascript/0064.minimum-path-sum.64.js) | Medium |
 | 0065 | Valid Number | [JavaScript](./javascript/0065.valid-number.65.js) | Hard |
@@ -144,7 +144,7 @@
 | 0124 | Binary Tree Maximum Path Sum | [JavaScript](./javascript/0124.binary-tree-maximum-path-sum.124.js) | Hard |
 | 0125 | Valid Palindrome | [JavaScript](./javascript/0125.valid-palindrome.125.js) | Easy |
 | 0126 | Word Ladder II |  | Hard |
-| 0127 | Word Ladder |  | Medium |
+| 0127 | Word Ladder | [JavaScript](./javascript/0127.word-ladder.127.js) | Medium |
 | 0128 | Longest Consecutive Sequence | [JavaScript](./javascript/0128.longest-consecutive-sequence.128.js) | Hard |
 | 0129 | Sum Root to Leaf Numbers | [JavaScript](./javascript/0129.sum-root-to-leaf-numbers.129.js) | Medium |
 | 0130 | Surrounded Regions | [JavaScript](./javascript/0130.surrounded-regions.130.js) | Medium |
@@ -228,7 +228,7 @@
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./javascript/0208.implement-trie-prefix-tree.208.js) | Medium |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./javascript/0209.minimum-size-subarray-sum.209.js) | Medium |
 | 0210 | Course Schedule II |  | Medium |
-| 0211 | Add and Search Word - Data structure design | [JavaScript](./javascript/0211.add-and-search-word-data-structure-design.211.js) | Medium |
+| 0211 | Design Add and Search Words Data Structure | [JavaScript](./javascript/0211.add-and-search-word-data-structure-design.211.js) | Medium |
 | 0212 | Word Search II |  | Hard |
 | 0213 | House Robber II | [JavaScript](./javascript/0213.house-robber-ii.213.js) | Medium |
 | 0214 | Shortest Palindrome |  | Hard |
@@ -304,7 +304,7 @@
 | 0284 | Peeking Iterator | [Python3](./python/0284.peeking-iterator.284.py) | Medium |
 | 0285 | Inorder Successor in BST |  | Medium |
 | 0286 | Walls and Gates |  | Medium |
-| 0287 | Find the Duplicate Number |  | Medium |
+| 0287 | Find the Duplicate Number | [JavaScript](./javascript/0287.find-the-duplicate-number.287.js) | Medium |
 | 0288 | Unique Word Abbreviation |  | Medium |
 | 0289 | Game of Life | [JavaScript](./javascript/0289.game-of-life.289.js) | Medium |
 | 0290 | Word Pattern | [JavaScript](./javascript/0290.word-pattern.290.js) | Easy |
@@ -327,7 +327,7 @@
 | 0307 | Range Sum Query - Mutable | [JavaScript](./javascript/0307.range-sum-query-mutable.307.js) | Medium |
 | 0308 | Range Sum Query 2D - Mutable |  | Hard |
 | 0309 | Best Time to Buy and Sell Stock with Cooldown | [JavaScript](./javascript/0309.best-time-to-buy-and-sell-stock-with-cooldown.309.js) | Medium |
-| 0310 | Minimum Height Trees |  | Medium |
+| 0310 | Minimum Height Trees | [JavaScript](./javascript/0310.minimum-height-trees.310.js) | Medium |
 | 0311 | Sparse Matrix Multiplication |  | Medium |
 | 0312 | Burst Balloons |  | Hard |
 | 0313 | Super Ugly Number | [JavaScript](./javascript/0313.super-ugly-number.313.js) | Medium |
@@ -371,7 +371,7 @@
 | 0351 | Android Unlock Patterns |  | Medium |
 | 0352 | Data Stream as Disjoint Intervals | [JavaScript](./javascript/0352.data-stream-as-disjoint-intervals.352.js) | Hard |
 | 0353 | Design Snake Game |  | Medium |
-| 0354 | Russian Doll Envelopes |  | Hard |
+| 0354 | Russian Doll Envelopes | [JavaScript](./javascript/0354.russian-doll-envelopes.354.js) | Hard |
 | 0355 | Design Twitter |  | Medium |
 | 0356 | Line Reflection |  | Medium |
 | 0357 | Count Numbers with Unique Digits | [JavaScript](./javascript/0357.count-numbers-with-unique-digits.357.js) | Medium |
@@ -454,13 +454,13 @@
 | 0434 | Number of Segments in a String | [JavaScript](./javascript/0434.number-of-segments-in-a-string.434.js) | Easy |
 | 0435 | Non-overlapping Intervals | [JavaScript](./javascript/0435.non-overlapping-intervals.435.js) | Medium |
 | 0436 | Find Right Interval | [JavaScript](./javascript/0436.find-right-interval.436.js) | Medium |
-| 0437 | Path Sum III | [JavaScript](./javascript/0437.path-sum-iii.437.js) | Easy |
+| 0437 | Path Sum III | [JavaScript](./javascript/0437.path-sum-iii.437.js) | Medium |
 | 0438 | Find All Anagrams in a String | [JavaScript](./javascript/0438.find-all-anagrams-in-a-string.438.js) | Medium |
 | 0439 | Ternary Expression Parser |  | Medium |
 | 0440 | K-th Smallest in Lexicographical Order |  | Hard |
 | 0441 | Arranging Coins | [JavaScript](./javascript/0441.arranging-coins.441.js) | Easy |
 | 0442 | Find All Duplicates in an Array | [JavaScript](./javascript/0442.find-all-duplicates-in-an-array.442.js) | Medium |
-| 0443 | String Compression |  | Easy |
+| 0443 | String Compression | [JavaScript](./javascript/0443.string-compression.443.js) | Easy |
 | 0444 | Sequence Reconstruction |  | Medium |
 | 0445 | Add Two Numbers II | [JavaScript](./javascript/0445.add-two-numbers-ii.445.js) | Medium |
 | 0446 | Arithmetic Slices II - Subsequence | [JavaScript](./javascript/0446.arithmetic-slices-ii-subsequence.446.js) | Hard |
@@ -473,7 +473,7 @@
 | 0453 | Minimum Moves to Equal Array Elements |  | Easy |
 | 0454 | 4Sum II | [JavaScript](./javascript/0454.4sum-ii.454.js) | Medium |
 | 0455 | Assign Cookies | [JavaScript](./javascript/0455.assign-cookies.455.js) | Easy |
-| 0456 | 132 Pattern |  | Medium |
+| 0456 | 132 Pattern | [JavaScript](./javascript/0456.132-pattern.456.js) | Medium |
 | 0457 | Circular Array Loop |  | Medium |
 | 0458 | Poor Pigs |  | Hard |
 | 0459 | Repeated Substring Pattern | [JavaScript](./javascript/0459.repeated-substring-pattern.459.js) | Easy |
@@ -667,7 +667,7 @@
 | 0647 | Palindromic Substrings | [JavaScript](./javascript/0647.palindromic-substrings.647.js) | Medium |
 | 0648 | Replace Words | [JavaScript](./javascript/0648.replace-words.648.js) | Medium |
 | 0649 | Dota2 Senate |  | Medium |
-| 0650 | 2 Keys Keyboard |  | Medium |
+| 0650 | 2 Keys Keyboard | [JavaScript](./javascript/0650.2-keys-keyboard.650.js) | Medium |
 | 0651 | 4 Keys Keyboard |  | Medium |
 | 0652 | Find Duplicate Subtrees | [JavaScript](./javascript/0652.find-duplicate-subtrees.652.js) | Medium |
 | 0653 | Two Sum IV - Input is a BST | [JavaScript](./javascript/0653.two-sum-iv-input-is-a-bst.653.js) | Easy |
@@ -727,7 +727,7 @@
 | 0707 | Design Linked List | [JavaScript](./javascript/0707.design-linked-list.838.js) | Medium |
 | 0708 | Insert into a Sorted Circular Linked List |  | Medium |
 | 0709 | To Lower Case | [JavaScript](./javascript/0709.to-lower-case.742.js) | Easy |
-| 0710 | Random Pick with Blacklist |  | Hard |
+| 0710 | Random Pick with Blacklist | [JavaScript](./javascript/0710.random-pick-with-blacklist.894.js) | Hard |
 | 0711 | Number of Distinct Islands II |  | Hard |
 | 0712 | Minimum ASCII Delete Sum for Two Strings | [JavaScript](./javascript/0712.minimum-ascii-delete-sum-for-two-strings.712.js) | Medium |
 | 0713 | Subarray Product Less Than K | [JavaScript](./javascript/0713.subarray-product-less-than-k.713.js) | Medium |
@@ -779,7 +779,7 @@
 | 0759 | Employee Free Time |  | Hard |
 | 0760 | Find Anagram Mappings |  | Easy |
 | 0761 | Special Binary String |  | Hard |
-| 0762 | Prime Number of Set Bits in Binary Representation |  | Easy |
+| 0762 | Prime Number of Set Bits in Binary Representation | [JavaScript](./javascript/0762.prime-number-of-set-bits-in-binary-representation.767.js) | Easy |
 | 0763 | Partition Labels | [JavaScript](./javascript/0763.partition-labels.768.js) | Medium |
 | 0764 | Largest Plus Sign |  | Medium |
 | 0765 | Couples Holding Hands |  | Hard |
@@ -792,7 +792,7 @@
 | 0772 | Basic Calculator III |  | Hard |
 | 0773 | Sliding Puzzle |  | Hard |
 | 0774 | Minimize Max Distance to Gas Station |  | Hard |
-| 0775 | Global and Local Inversions |  | Medium |
+| 0775 | Global and Local Inversions | [JavaScript](./javascript/0775.global-and-local-inversions.790.js) | Medium |
 | 0776 | Split BST |  | Medium |
 | 0777 | Swap Adjacent in LR String | [JavaScript](./javascript/0777.swap-adjacent-in-lr-string.793.js) | Medium |
 | 0778 | Swim in Rising Water |  | Hard |
@@ -801,7 +801,7 @@
 | 0781 | Rabbits in Forest | [JavaScript](./javascript/0781.rabbits-in-forest.797.js) | Medium |
 | 0782 | Transform to Chessboard |  | Hard |
 | 0783 | Minimum Distance Between BST Nodes | [JavaScript](./javascript/0783.minimum-distance-between-bst-nodes.799.js) | Easy |
-| 0784 | Letter Case Permutation | [JavaScript](./javascript/0784.letter-case-permutation.800.js) | Easy |
+| 0784 | Letter Case Permutation | [JavaScript](./javascript/0784.letter-case-permutation.800.js) | Medium |
 | 0785 | Is Graph Bipartite? | [JavaScript](./javascript/0785.is-graph-bipartite.801.js) | Medium |
 | 0786 | K-th Smallest Prime Fraction |  | Hard |
 | 0787 | Cheapest Flights Within K Stops |  | Medium |
@@ -819,7 +819,7 @@
 | 0799 | Champagne Tower | [JavaScript](./javascript/0799.champagne-tower.815.js) | Medium |
 | 0800 | Similar RGB Color |  | Easy |
 | 0801 | Minimum Swaps To Make Sequences Increasing |  | Medium |
-| 0802 | Find Eventual Safe States |  | Medium |
+| 0802 | Find Eventual Safe States | [JavaScript](./javascript/0802.find-eventual-safe-states.820.js) | Medium |
 | 0803 | Bricks Falling When Hit |  | Hard |
 | 0804 | Unique Morse Code Words | [JavaScript](./javascript/0804.unique-morse-code-words.822.js) | Easy |
 | 0805 | Split Array With Same Average |  | Hard |
@@ -851,7 +851,7 @@
 | 0831 | Masking Personal Information | [JavaScript](./javascript/0831.masking-personal-information.858.js) | Medium |
 | 0832 | Flipping an Image | [JavaScript](./javascript/0832.flipping-an-image.861.js) | Easy |
 | 0833 | Find And Replace in String | [JavaScript](./javascript/0833.find-and-replace-in-string.862.js) | Medium |
-| 0834 | Sum of Distances in Tree |  | Hard |
+| 0834 | Sum of Distances in Tree | [JavaScript](./javascript/0834.sum-of-distances-in-tree.863.js) | Hard |
 | 0835 | Image Overlap |  | Medium |
 | 0836 | Rectangle Overlap | [JavaScript](./javascript/0836.rectangle-overlap.866.js) | Easy |
 | 0837 | New 21 Game |  | Medium |
@@ -912,7 +912,7 @@
 | 0892 | Surface Area of 3D Shapes | [JavaScript](./javascript/0892.surface-area-of-3d-shapes.928.js) | Easy |
 | 0893 | Groups of Special-Equivalent Strings | [JavaScript](./javascript/0893.groups-of-special-equivalent-strings.929.js) | Easy |
 | 0894 | All Possible Full Binary Trees | [JavaScript](./javascript/0894.all-possible-full-binary-trees.930.js) | Medium |
-| 0895 | Maximum Frequency Stack |  | Hard |
+| 0895 | Maximum Frequency Stack | [JavaScript](./javascript/0895.maximum-frequency-stack.931.js) | Hard |
 | 0896 | Monotonic Array | [JavaScript](./javascript/0896.monotonic-array.932.js) | Easy |
 | 0897 | Increasing Order Search Tree | [JavaScript](./javascript/0897.increasing-order-search-tree.933.js) | Easy |
 | 0898 | Bitwise ORs of Subarrays |  | Medium |
@@ -964,7 +964,7 @@
 | 0944 | Delete Columns to Make Sorted | [JavaScript](./javascript/0944.delete-columns-to-make-sorted.981.js) | Easy |
 | 0945 | Minimum Increment to Make Array Unique | [JavaScript](./javascript/0945.minimum-increment-to-make-array-unique.982.js) | Medium |
 | 0946 | Validate Stack Sequences | [JavaScript](./javascript/0946.validate-stack-sequences.983.js) | Medium |
-| 0947 | Most Stones Removed with Same Row or Column |  | Medium |
+| 0947 | Most Stones Removed with Same Row or Column | [JavaScript](./javascript/0947.most-stones-removed-with-same-row-or-column.984.js) | Medium |
 | 0948 | Bag of Tokens | [JavaScript](./javascript/0948.bag-of-tokens.985.js) | Medium |
 | 0949 | Largest Time for Given Digits | [JavaScript](./javascript/0949.largest-time-for-given-digits.986.js) | Easy |
 | 0950 | Reveal Cards In Increasing Order | [JavaScript](./javascript/0950.reveal-cards-in-increasing-order.987.js) | Medium |
@@ -974,12 +974,12 @@
 | 0954 | Array of Doubled Pairs | [JavaScript](./javascript/0954.array-of-doubled-pairs.991.js) | Medium |
 | 0955 | Delete Columns to Make Sorted II | [JavaScript](./javascript/0955.delete-columns-to-make-sorted-ii.992.js) | Medium |
 | 0956 | Tallest Billboard |  | Hard |
-| 0957 | Prison Cells After N Days |  | Medium |
+| 0957 | Prison Cells After N Days | [JavaScript](./javascript/0957.prison-cells-after-n-days.994.js) | Medium |
 | 0958 | Check Completeness of a Binary Tree | [JavaScript](./javascript/0958.check-completeness-of-a-binary-tree.998.js) | Medium |
 | 0959 | Regions Cut By Slashes | [JavaScript](./javascript/0959.regions-cut-by-slashes.999.js) | Medium |
 | 0960 | Delete Columns to Make Sorted III |  | Hard |
 | 0961 | N-Repeated Element in Size 2N Array | [JavaScript](./javascript/0961.n-repeated-element-in-size-2n-array.1001.js) | Easy |
-| 0962 | Maximum Width Ramp |  | Medium |
+| 0962 | Maximum Width Ramp | [JavaScript](./javascript/0962.maximum-width-ramp.1002.js) | Medium |
 | 0963 | Minimum Area Rectangle II |  | Medium |
 | 0964 | Least Operators to Express Number |  | Hard |
 | 0965 | Univalued Binary Tree | [JavaScript](./javascript/0965.univalued-binary-tree.1005.js) | Easy |
@@ -990,33 +990,33 @@
 | 0970 | Powerful Integers | [JavaScript](./javascript/0970.powerful-integers.1010.js) | Easy |
 | 0971 | Flip Binary Tree To Match Preorder Traversal | [JavaScript](./javascript/0971.flip-binary-tree-to-match-preorder-traversal.1011.js) | Medium |
 | 0972 | Equal Rational Numbers | [JavaScript](./javascript/0972.equal-rational-numbers.1012.js) | Hard |
-| 0973 | K Closest Points to Origin |  | Medium |
+| 0973 | K Closest Points to Origin | [JavaScript](./javascript/0973.k-closest-points-to-origin.1014.js) | Medium |
 | 0974 | Subarray Sums Divisible by K | [JavaScript](./javascript/0974.subarray-sums-divisible-by-k.1016.js) | Medium |
-| 0975 | Odd Even Jump |  | Hard |
+| 0975 | Odd Even Jump | [JavaScript](./javascript/0975.odd-even-jump.1017.js) | Hard |
 | 0976 | Largest Perimeter Triangle | [JavaScript](./javascript/0976.largest-perimeter-triangle.1018.js) | Easy |
-| 0977 | Squares of a Sorted Array |  | Easy |
-| 0978 | Longest Turbulent Subarray |  | Medium |
-| 0979 | Distribute Coins in Binary Tree |  | Medium |
+| 0977 | Squares of a Sorted Array | [JavaScript](./javascript/0977.squares-of-a-sorted-array.1019.js) | Easy |
+| 0978 | Longest Turbulent Subarray | [JavaScript](./javascript/0978.longest-turbulent-subarray.1020.js) | Medium |
+| 0979 | Distribute Coins in Binary Tree | [JavaScript](./javascript/0979.distribute-coins-in-binary-tree.1021.js) | Medium |
 | 0980 | Unique Paths III |  | Hard |
-| 0981 | Time Based Key-Value Store |  | Medium |
+| 0981 | Time Based Key-Value Store | [JavaScript](./javascript/0981.time-based-key-value-store.1023.js) | Medium |
 | 0982 | Triples with Bitwise AND Equal To Zero |  | Hard |
 | 0983 | Minimum Cost For Tickets | [JavaScript](./javascript/0983.minimum-cost-for-tickets.1025.js) | Medium |
-| 0984 | String Without AAA or BBB |  | Medium |
-| 0985 | Sum of Even Numbers After Queries |  | Easy |
-| 0986 | Interval List Intersections |  | Medium |
-| 0987 | Vertical Order Traversal of a Binary Tree |  | Medium |
-| 0988 | Smallest String Starting From Leaf |  | Medium |
-| 0989 | Add to Array-Form of Integer |  | Easy |
-| 0990 | Satisfiability of Equality Equations |  | Medium |
+| 0984 | String Without AAA or BBB | [JavaScript](./javascript/0984.string-without-aaa-or-bbb.1026.js) | Medium |
+| 0985 | Sum of Even Numbers After Queries | [JavaScript](./javascript/0985.sum-of-even-numbers-after-queries.1027.js) | Easy |
+| 0986 | Interval List Intersections | [JavaScript](./javascript/0986.interval-list-intersections.1028.js) | Medium |
+| 0987 | Vertical Order Traversal of a Binary Tree | [JavaScript](./javascript/0987.vertical-order-traversal-of-a-binary-tree.1029.js) | Medium |
+| 0988 | Smallest String Starting From Leaf | [JavaScript](./javascript/0988.smallest-string-starting-from-leaf.1030.js) | Medium |
+| 0989 | Add to Array-Form of Integer | [JavaScript](./javascript/0989.add-to-array-form-of-integer.1031.js) | Easy |
+| 0990 | Satisfiability of Equality Equations | [JavaScript](./javascript/0990.satisfiability-of-equality-equations.1032.js) | Medium |
 | 0991 | Broken Calculator |  | Medium |
-| 0992 | Subarrays with K Different Integers |  | Hard |
-| 0993 | Cousins in Binary Tree |  | Easy |
-| 0994 | Rotting Oranges |  | Medium |
+| 0992 | Subarrays with K Different Integers | [JavaScript](./javascript/0992.subarrays-with-k-different-integers.1034.js) | Hard |
+| 0993 | Cousins in Binary Tree | [JavaScript](./javascript/0993.cousins-in-binary-tree.1035.js) | Easy |
+| 0994 | Rotting Oranges | [JavaScript](./javascript/0994.rotting-oranges.1036.js) | Medium |
 | 0995 | Minimum Number of K Consecutive Bit Flips |  | Hard |
 | 0996 | Number of Squareful Arrays |  | Hard |
-| 0997 | Find the Town Judge |  | Easy |
-| 0998 | Maximum Binary Tree II |  | Medium |
-| 0999 | Available Captures for Rook |  | Easy |
+| 0997 | Find the Town Judge | [JavaScript](./javascript/0997.find-the-town-judge.1039.js) | Easy |
+| 0998 | Maximum Binary Tree II | [JavaScript](./javascript/0998.maximum-binary-tree-ii.1040.js) | Medium |
+| 0999 | Available Captures for Rook | [JavaScript](./javascript/0999.available-captures-for-rook.1041.js) | Easy |
 | 1000 | Minimum Cost to Merge Stones |  | Hard |
 | 1001 | Grid Illumination | [JavaScript](./javascript/1001.grid-illumination.1043.js) | Hard |
 | 1002 | Find Common Characters | [JavaScript](./javascript/1002.find-common-characters.1044.js) | Easy |
@@ -1044,7 +1044,7 @@
 | 1024 | Video Stitching | [JavaScript](./javascript/1024.video-stitching.1081.js) | Medium |
 | 1025 | Divisor Game | [JavaScript](./javascript/1025.divisor-game.1086.js) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [JavaScript](./javascript/1026.maximum-difference-between-node-and-ancestor.1092.js) | Medium |
-| 1027 | Longest Arithmetic Sequence | [JavaScript](./javascript/1027.longest-arithmetic-sequence.1087.js) | Medium |
+| 1027 | Longest Arithmetic Subsequence | [JavaScript](./javascript/1027.longest-arithmetic-sequence.1087.js) | Medium |
 | 1028 | Recover a Tree From Preorder Traversal | [JavaScript](./javascript/1028.recover-a-tree-from-preorder-traversal.1093.js) | Hard |
 | 1029 | Two City Scheduling | [JavaScript](./javascript/1029.two-city-scheduling.1095.js) | Easy |
 | 1030 | Matrix Cells in Distance Order | [JavaScript](./javascript/1030.matrix-cells-in-distance-order.1094.js) | Easy |
@@ -1066,7 +1066,7 @@
 | 1046 | Last Stone Weight | [JavaScript](./javascript/1046.last-stone-weight.1127.js) | Easy |
 | 1047 | Remove All Adjacent Duplicates In String | [JavaScript](./javascript/1047.remove-all-adjacent-duplicates-in-string.1128.js) | Easy |
 | 1048 | Longest String Chain | [JavaScript](./javascript/1048.longest-string-chain.1129.js) | Medium |
-| 1049 | Last Stone Weight II |  | Medium |
+| 1049 | Last Stone Weight II | [JavaScript](./javascript/1049.last-stone-weight-ii.1130.js) | Medium |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times |  | Easy |
 | 1051 | Height Checker | [JavaScript](./javascript/1051.height-checker.1137.js) | Easy |
 | 1052 | Grumpy Bookstore Owner | [JavaScript](./javascript/1052.grumpy-bookstore-owner.1138.js) | Medium |
@@ -1234,7 +1234,7 @@
 | 1214 | Two Sum BSTs | [JavaScript](./javascript/1214.two-sum-bsts.1150.js) | Medium |
 | 1215 | Stepping Numbers |  | Medium |
 | 1216 | Valid Palindrome III |  | Hard |
-| 1217 | Play with Chips | [JavaScript](./javascript/1217.play-with-chips.1329.js) | Easy |
+| 1217 | Minimum Cost to Move Chips to The Same Position | [JavaScript](./javascript/1217.play-with-chips.1329.js) | Easy |
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [JavaScript](./javascript/1218.longest-arithmetic-subsequence-of-given-difference.1330.js) | Medium |
 | 1219 | Path with Maximum Gold | [JavaScript](./javascript/1219.path-with-maximum-gold.1331.js) | Medium |
 | 1220 | Count Vowels Permutation | [JavaScript](./javascript/1220.count-vowels-permutation.1332.js) | Hard |
@@ -1252,7 +1252,7 @@
 | 1232 | Check If It Is a Straight Line | [JavaScript](./javascript/1232.check-if-it-is-a-straight-line.1349.js) | Easy |
 | 1233 | Remove Sub-Folders from the Filesystem | [JavaScript](./javascript/1233.remove-sub-folders-from-the-filesystem.1350.js) | Medium |
 | 1234 | Replace the Substring for Balanced String |  | Medium |
-| 1235 | Maximum Profit in Job Scheduling |  | Hard |
+| 1235 | Maximum Profit in Job Scheduling | [JavaScript](./javascript/1235.maximum-profit-in-job-scheduling.1352.js) | Hard |
 | 1236 | Web Crawler |  | Medium |
 | 1237 | Find Positive Integer Solution for a Given Equation | [JavaScript](./javascript/1237.find-positive-integer-solution-for-a-given-equation.1358.js) | Easy |
 | 1238 | Circular Permutation in Binary Representation |  | Medium |
@@ -1261,7 +1261,7 @@
 | 1241 | Number of Comments per Post |  | Easy |
 | 1242 | Web Crawler Multithreaded |  | Medium |
 | 1243 | Array Transformation |  | Easy |
-| 1244 | Design A Leaderboard |  | Medium |
+| 1244 | Design A Leaderboard | [JavaScript](./javascript/1244.design-a-leaderboard.1176.js) | Medium |
 | 1245 | Tree Diameter |  | Medium |
 | 1246 | Palindrome Removal |  | Hard |
 | 1247 | Minimum Swaps to Make Strings Equal | [JavaScript](./javascript/1247.minimum-swaps-to-make-strings-equal.1369.js) | Medium |
@@ -1524,6 +1524,53 @@
 | 1504 | Count Submatrices With All Ones |  | Medium |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard |
 | 1506 | Find Root of N-Ary Tree |  | Medium |
+| 1507 | Reformat Date | [JavaScript](./javascript/1507.reformat-date.1283.js) | Easy |
+| 1508 | Range Sum of Sorted Subarray Sums | [JavaScript](./javascript/1508.range-sum-of-sorted-subarray-sums.1615.js) | Medium |
+| 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | [JavaScript](./javascript/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.1616.js) | Medium |
+| 1510 | Stone Game IV | [JavaScript](./javascript/1510.stone-game-iv.1617.js) | Hard |
+| 1511 | Customer Order Frequency |  | Easy |
+| 1512 | Number of Good Pairs | [JavaScript](./javascript/1512.number-of-good-pairs.1635.js) | Easy |
+| 1513 | Number of Substrings With Only 1s | [JavaScript](./javascript/1513.number-of-substrings-with-only-1s.1636.js) | Medium |
+| 1514 | Path with Maximum Probability | [JavaScript](./javascript/1514.path-with-maximum-probability.1325.js) | Medium |
+| 1515 | Best Position for a Service Centre |  | Hard |
+| 1516 | Move Sub-Tree of N-Ary Tree |  | Hard |
+| 1517 | Find Users With Valid E-Mails |  | Easy |
+| 1518 | Water Bottles | [JavaScript](./javascript/1518.water-bottles.1642.js) | Easy |
+| 1519 | Number of Nodes in the Sub-Tree With the Same Label | [JavaScript](./javascript/1519.number-of-nodes-in-the-sub-tree-with-the-same-label.1643.js) | Medium |
+| 1520 | Maximum Number of Non-Overlapping Substrings |  | Medium |
+| 1521 | Find a Value of a Mysterious Function Closest to Target |  | Hard |
+| 1522 | Diameter of N-Ary Tree |  | Medium |
+| 1523 | Count Odd Numbers in an Interval Range | [JavaScript](./javascript/1523.count-odd-numbers-in-an-interval-range.1630.js) | Easy |
+| 1524 | Number of Sub-arrays With Odd Sum | [JavaScript](./javascript/1524.number-of-sub-arrays-with-odd-sum.1631.js) | Medium |
+| 1525 | Number of Good Ways to Split a String | [JavaScript](./javascript/1525.number-of-good-ways-to-split-a-string.1632.js) | Medium |
+| 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [JavaScript](./javascript/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633.js) | Hard |
+| 1527 | Patients With a Condition |  | Easy |
+| 1528 | Shuffle String | [JavaScript](./javascript/1528.shuffle-string.1651.js) | Easy |
+| 1529 | Bulb Switcher IV | [JavaScript](./javascript/1529.bulb-switcher-iv.1652.js) | Medium |
+| 1530 | Number of Good Leaf Nodes Pairs | [JavaScript](./javascript/1530.number-of-good-leaf-nodes-pairs.1653.js) | Medium |
+| 1531 | String Compression II |  | Hard |
+| 1532 | The Most Recent Three Orders |  | Medium |
+| 1533 | Find the Index of the Large Integer |  | Medium |
+| 1534 | Count Good Triplets | [JavaScript](./javascript/1534.count-good-triplets.1656.js) | Easy |
+| 1535 | Find the Winner of an Array Game | [JavaScript](./javascript/1535.find-the-winner-of-an-array-game.1657.js) | Medium |
+| 1536 | Minimum Swaps to Arrange a Binary Grid |  | Medium |
+| 1537 | Get the Maximum Score | [JavaScript](./javascript/1537.get-the-maximum-score.1659.js) | Hard |
+| 1538 | Guess the Majority in a Hidden Array |  | Medium |
+| 1539 | Kth Missing Positive Number | [JavaScript](./javascript/1539.kth-missing-positive-number.1646.js) | Easy |
+| 1540 | Can Convert String in K Moves | [JavaScript](./javascript/1540.can-convert-string-in-k-moves.1647.js) | Medium |
+| 1541 | Minimum Insertions to Balance a Parentheses String | [JavaScript](./javascript/1541.minimum-insertions-to-balance-a-parentheses-string.1648.js) | Medium |
+| 1542 | Find Longest Awesome Substring | [JavaScript](./javascript/1542.find-longest-awesome-substring.1668.js) | Hard |
+| 1543 | Fix Product Name Format |  | Easy |
+| 1544 | Make The String Great | [JavaScript](./javascript/1544.make-the-string-great.1666.js) | Easy |
+| 1545 | Find Kth Bit in Nth Binary String | [JavaScript](./javascript/1545.find-kth-bit-in-nth-binary-string.1667.js) | Medium |
+| 1546 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target |  | Medium |
+| 1547 | Minimum Cost to Cut a Stick |  | Hard |
+| 1548 | The Most Similar Path in a Graph |  | Hard |
+| 1549 | The Most Recent Orders for Each Product |  | Medium |
+| 1550 | Three Consecutive Odds | [JavaScript](./javascript/1550.three-consecutive-odds.1293.js) | Easy |
+| 1551 | Minimum Operations to Make Array Equal | [JavaScript](./javascript/1551.minimum-operations-to-make-array-equal.1674.js) | Medium |
+| 1552 | Magnetic Force Between Two Balls |  | Medium |
+| 1553 | Minimum Number of Days to Eat N Oranges | [JavaScript](./javascript/1553.minimum-number-of-days-to-eat-n-oranges.1676.js) | Hard |
 | LCP01 | Guess Numbers | [JavaScript](./javascript/LCP01.guess-numbers.100107.js) | Easy |
 | LCP02 | Deep Dark Fraction |  | Easy |
 | LCP03 | Programmable Robot |  | Medium |
@@ -1549,7 +1596,7 @@
 | 剑指Offer10-I | 斐波那契数列  LCOF | [JavaScript](./javascript/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274.js) | Easy |
 | 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./javascript/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277.js) | Easy |
 | 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./javascript/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278.js) | Easy |
-| 剑指Offer12 | 矩阵中的路径  LCOF |  | Medium |
+| 剑指Offer12 | 矩阵中的路径  LCOF | [JavaScript](./javascript/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279.js) | Medium |
 | 剑指Offer13 | 机器人的运动范围  LCOF |  | Medium |
 | 剑指Offer14-I | 剪绳子  LCOF |  | Medium |
 | 剑指Offer14-II | 剪绳子 II LCOF |  | Medium |
@@ -1574,12 +1621,12 @@
 | 剑指Offer32-III | 从上到下打印二叉树 III LCOF | [JavaScript](./javascript/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314.js) | Medium |
 | 剑指Offer33 | 二叉搜索树的后序遍历序列 LCOF | [JavaScript](./javascript/剑指Offer33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315.js) | Medium |
 | 剑指Offer34 | 二叉树中和为某一值的路径 LCOF | [JavaScript](./javascript/剑指Offer34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317.js) | Medium |
-| 剑指Offer35 | 复杂链表的复制  LCOF |  | Medium |
+| 剑指Offer35 | 复杂链表的复制  LCOF | [JavaScript](./javascript/剑指Offer35.fu-za-lian-biao-de-fu-zhi-lcof.100300.js) | Medium |
 | 剑指Offer36 | 二叉搜索树与双向链表  LCOF | [JavaScript](./javascript/剑指Offer36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305.js) | Medium |
-| 剑指Offer37 | 序列化二叉树  LCOF |  | Hard |
-| 剑指Offer38 | 字符串的排列  LCOF |  | Medium |
+| 剑指Offer37 | 序列化二叉树  LCOF | [JavaScript](./javascript/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307.js) | Hard |
+| 剑指Offer38 | 字符串的排列  LCOF | [JavaScript](./javascript/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308.js) | Medium |
 | 剑指Offer39 | 数组中出现次数超过一半的数字  LCOF | [JavaScript](./javascript/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310.js) | Easy |
-| 剑指Offer40 | 最小的k个数  LCOF |  | Easy |
+| 剑指Offer40 | 最小的k个数  LCOF | [JavaScript](./javascript/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301.js) | Easy |
 | 剑指Offer41 | 数据流中的中位数  LCOF |  | Hard |
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./javascript/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304.js) | Easy |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF |  | Medium |
@@ -1605,7 +1652,7 @@
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./javascript/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) | Easy |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./javascript/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) | Easy |
 | 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./javascript/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.js) | Medium |
-| 剑指Offer60 | n个骰子的点数  LCOF |  | Easy |
+| 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./javascript/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339.js) | Easy |
 | 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./javascript/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) | Easy |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy |
 | 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./javascript/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344.js) | Medium |
@@ -1613,8 +1660,8 @@
 | 剑指Offer65 | 不用加减乘除做加法 LCOF | [JavaScript](./javascript/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335.js) | Easy |
 | 剑指Offer66 | 构建乘积数组 LCOF | [JavaScript](./javascript/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338.js) | Easy |
 | 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium |
-| 面试题68-I | 二叉搜索树的最近公共祖先 LCOF | [Python3](./python/面试题68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) | Easy |
-| 面试题68-II | 二叉树的最近公共祖先 LCOF | [Python3](./python/面试题68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) | Easy |
+| 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [Python3](./python/面试题68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) | Easy |
+| 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [Python3](./python/面试题68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) | Easy |
 | 面试题01_01 | Is Unique LCCI | [JavaScript](./javascript/面试题01_01.is-unique-lcci.100158.js) | Easy |
 | 面试题01_02 | Check Permutation LCCI | [JavaScript](./javascript/面试题01_02.check-permutation-lcci.100159.js) | Easy |
 | 面试题01_03 | String to URL LCCI | [JavaScript](./javascript/面试题01_03.string-to-url-lcci.100160.js) | Easy |
@@ -1623,22 +1670,22 @@
 | 面试题01_06 | Compress String LCCI | [JavaScript](./javascript/面试题01_06.compress-string-lcci.100161.js) | Easy |
 | 面试题01_07 | Rotate Matrix LCCI | [JavaScript](./javascript/面试题01_07.rotate-matrix-lcci.100185.js) | Medium |
 | 面试题01_08 | Zero Matrix LCCI | [JavaScript](./javascript/面试题01_08.zero-matrix-lcci.100186.js) | Medium |
-| 面试题01_09 | String Rotation LCCI |  | Easy |
+| 面试题01_09 | String Rotation LCCI | [JavaScript](./javascript/面试题01_09.string-rotation-lcci.100162.js) | Easy |
 | 面试题02_01 | Remove Duplicate Node LCCI | [JavaScript](./javascript/面试题02_01.remove-duplicate-node-lcci.100163.js) | Easy |
 | 面试题02_02 | Kth Node From End of List LCCI | [JavaScript](./javascript/面试题02_02.kth-node-from-end-of-list-lcci.1000007.js) | Easy |
 | 面试题02_03 | Delete Middle Node LCCI | [JavaScript](./javascript/面试题02_03.delete-middle-node-lcci.100187.js) | Easy |
-| 面试题02_04 | Partition List LCCI |  | Medium |
-| 面试题02_05 | Sum Lists LCCI |  | Medium |
-| 面试题02_06 | Palindrome Linked List LCCI |  | Easy |
+| 面试题02_04 | Partition List LCCI | [JavaScript](./javascript/面试题02_04.partition-list-lcci.1000008.js) | Medium |
+| 面试题02_05 | Sum Lists LCCI | [JavaScript](./javascript/面试题02_05.sum-lists-lcci.100188.js) | Medium |
+| 面试题02_06 | Palindrome Linked List LCCI | [JavaScript](./javascript/面试题02_06.palindrome-linked-list-lcci.100164.js) | Easy |
 | 面试题02_07 | Intersection of Two Linked Lists LCCI | [JavaScript](./javascript/面试题02_07.intersection-of-two-linked-lists-lcci.100167.js) | Easy |
 | 面试题02_08 | Linked List Cycle LCCI |  | Medium |
-| 面试题03_01 | Three in One LCCI |  | Easy |
+| 面试题03_01 | Three in One LCCI | [JavaScript](./javascript/面试题03_01.three-in-one-lcci.100172.js) | Easy |
 | 面试题03_02 | Min Stack LCCI | [JavaScript](./javascript/面试题03_02.min-stack-lcci.100169.js) | Easy |
-| 面试题03_03 | Stack of Plates LCCI |  | Medium |
+| 面试题03_03 | Stack of Plates LCCI | [JavaScript](./javascript/面试题03_03.stack-of-plates-lcci.100195.js) | Medium |
 | 面试题03_04 | Implement Queue using Stacks LCCI | [JavaScript](./javascript/面试题03_04.implement-queue-using-stacks-lcci.100170.js) | Easy |
-| 面试题03_05 | Sort of Stacks LCCI |  | Medium |
+| 面试题03_05 | Sort of Stacks LCCI | [JavaScript](./javascript/面试题03_05.sort-of-stacks-lcci.100173.js) | Medium |
 | 面试题03_06 | Animal Shelter LCCI | [JavaScript](./javascript/面试题03_06.animal-shelter-lcci.100228.js) | Easy |
-| 面试题04_01 | Route Between Nodes LCCI |  | Medium |
+| 面试题04_01 | Route Between Nodes LCCI | [JavaScript](./javascript/面试题04_01.route-between-nodes-lcci.100171.js) | Medium |
 | 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./javascript/面试题04_02.minimum-height-tree-lcci.100174.js) | Easy |
 | 面试题04_03 | List of Depth LCCI | [JavaScript](./javascript/面试题04_03.list-of-depth-lcci.100175.js) | Medium |
 | 面试题04_04 | Check Balance LCCI | [JavaScript](./javascript/面试题04_04.check-balance-lcci.100176.js) | Easy |
@@ -1646,8 +1693,8 @@
 | 面试题04_06 | Successor LCCI | [JavaScript](./javascript/面试题04_06.successor-lcci.100178.js) | Medium |
 | 面试题04_08 | First Common Ancestor LCCI | [JavaScript](./javascript/面试题04_08.first-common-ancestor-lcci.100179.js) | Medium |
 | 面试题04_09 | BST Sequences LCCI |  | Hard |
-| 面试题04_10 | Check SubTree LCCI |  | Medium |
-| 面试题04_12 | Paths with Sum LCCI |  | Medium |
+| 面试题04_10 | Check SubTree LCCI | [JavaScript](./javascript/面试题04_10.check-subtree-lcci.100229.js) | Medium |
+| 面试题04_12 | Paths with Sum LCCI | [JavaScript](./javascript/面试题04_12.paths-with-sum-lcci.1000009.js) | Medium |
 | 面试题05_01 | Insert Into Bits LCCI |  | Easy |
 | 面试题05_02 | Bianry Number to String LCCI |  | Medium |
 | 面试题05_03 | Reverse Bits LCCI |  | Easy |
@@ -1670,18 +1717,18 @@
 | 面试题08_13 | Pile Box LCCI |  | Hard |
 | 面试题08_14 | Boolean Evaluation LCCI |  | Medium |
 | 面试题10_01 | Sorted Merge LCCI | [JavaScript](./javascript/面试题10_01.sorted-merge-lcci.1000012.js) | Easy |
-| 面试题10_02 | Group Anagrams LCCI |  | Medium |
+| 面试题10_02 | Group Anagrams LCCI | [JavaScript](./javascript/面试题10_02.group-anagrams-lcci.1000040.js) | Medium |
 | 面试题10_03 | Search Rotate Array LCCI |  | Medium |
-| 面试题10_05 | Sparse Array Search LCCI |  | Easy |
+| 面试题10_05 | Sparse Array Search LCCI | [JavaScript](./javascript/面试题10_05.sparse-array-search-lcci.100242.js) | Easy |
 | 面试题10_09 | Sorted Matrix Search LCCI | [JavaScript](./javascript/面试题10_09.sorted-matrix-search-lcci.1000016.js) | Medium |
 | 面试题10_10 | Rank from Stream LCCI |  | Medium |
 | 面试题10_11 | Peaks and Valleys LCCI |  | Medium |
-| 面试题16_01 | Swap Numbers LCCI |  | Medium |
+| 面试题16_01 | Swap Numbers LCCI | [JavaScript](./javascript/面试题16_01.swap-numbers-lcci.100258.js) | Medium |
 | 面试题16_02 | Words Frequency LCCI | [JavaScript](./javascript/面试题16_02.words-frequency-lcci.100259.js) | Medium |
 | 面试题16_03 | Intersection LCCI |  | Hard |
 | 面试题16_04 | Tic-Tac-Toe LCCI |  | Medium |
 | 面试题16_05 | Factorial Zeros LCCI | [JavaScript](./javascript/面试题16_05.factorial-zeros-lcci.1000017.js) | Easy |
-| 面试题16_06 | Smallest Difference LCCI |  | Medium |
+| 面试题16_06 | Smallest Difference LCCI | [JavaScript](./javascript/面试题16_06.smallest-difference-lcci.100262.js) | Medium |
 | 面试题16_07 | Maximum LCCI |  | Easy |
 | 面试题16_08 | English Int LCCI |  | Hard |
 | 面试题16_09 | Operations LCCI |  | Medium |
@@ -1689,20 +1736,20 @@
 | 面试题16_11 | Diving Board LCCI | [JavaScript](./javascript/面试题16_11.diving-board-lcci.100352.js) | Easy |
 | 面试题16_13 | Bisect Squares LCCI |  | Medium |
 | 面试题16_14 | Best Line LCCI |  | Medium |
-| 面试题16_15 | Master Mind LCCI |  | Easy |
+| 面试题16_15 | Master Mind LCCI | [JavaScript](./javascript/面试题16_15.master-mind-lcci.100355.js) | Easy |
 | 面试题16_16 | Sub Sort LCCI |  | Medium |
 | 面试题16_17 | Contiguous Sequence LCCI | [JavaScript](./javascript/面试题16_17.contiguous-sequence-lcci.1000003.js) | Easy |
 | 面试题16_18 | Pattern Matching LCCI |  | Medium |
 | 面试题16_19 | Pond Sizes LCCI | [JavaScript](./javascript/面试题16_19.pond-sizes-lcci.1000005.js) | Medium |
 | 面试题16_20 | T9 LCCI |  | Medium |
-| 面试题16_21 | Sum Swap LCCI |  | Medium |
+| 面试题16_21 | Sum Swap LCCI | [JavaScript](./javascript/面试题16_21.sum-swap-lcci.1000048.js) | Medium |
 | 面试题16_22 | Langtons Ant LCCI |  | Medium |
 | 面试题16_24 | Pairs With Sum LCCI | [JavaScript](./javascript/面试题16_24.pairs-with-sum-lcci.1000042.js) | Medium |
 | 面试题16_25 | LRU Cache LCCI | [JavaScript](./javascript/面试题16_25.lru-cache-lcci.1000026.js) | Medium |
 | 面试题16_26 | Calculator LCCI |  | Medium |
 | 面试题17_01 | Add Without Plus LCCI | [JavaScript](./javascript/面试题17_01.add-without-plus-lcci.1000025.js) | Easy |
 | 面试题17_04 | Missing Number LCCI | [JavaScript](./javascript/面试题17_04.missing-number-lcci.1000032.js) | Easy |
-| 面试题17_05 | Find Longest Subarray LCCI |  | Medium |
+| 面试题17_05 | Find Longest Subarray LCCI | [JavaScript](./javascript/面试题17_05.find-longest-subarray-lcci.1000033.js) | Medium |
 | 面试题17_06 | Number Of 2s In Range LCCI |  | Medium |
 | 面试题17_07 | Baby Names LCCI |  | Medium |
 | 面试题17_08 | Circus Tower LCCI |  | Medium |
@@ -1711,12 +1758,12 @@
 | 面试题17_11 | Find Closest LCCI |  | Medium |
 | 面试题17_12 | BiNode LCCI | [JavaScript](./javascript/面试题17_12.binode-lcci.1000019.js) | Easy |
 | 面试题17_13 | Re-Space LCCI |  | Medium |
-| 面试题17_14 | Smallest K LCCI |  | Medium |
+| 面试题17_14 | Smallest K LCCI | [JavaScript](./javascript/面试题17_14.smallest-k-lcci.1000021.js) | Medium |
 | 面试题17_15 | Longest Word LCCI |  | Medium |
 | 面试题17_16 | The Masseuse LCCI | [JavaScript](./javascript/面试题17_16.the-masseuse-lcci.1000023.js) | Easy |
 | 面试题17_17 | Multi Search LCCI |  | Medium |
 | 面试题17_18 | Shortest Supersequence LCCI |  | Medium |
-| 面试题17_19 | Missing Two LCCI |  | Hard |
+| 面试题17_19 | Missing Two LCCI | [JavaScript](./javascript/面试题17_19.missing-two-lcci.1000044.js) | Hard |
 | 面试题17_20 | Continuous Median LCCI |  | Hard |
 | 面试题17_21 | Volume of Histogram LCCI |  | Hard |
 | 面试题17_22 | Word Transformer LCCI |  | Medium |

@@ -1472,8 +1472,8 @@
     {
         "id": 211,
         "index": "0211",
-        "title": "Add and Search Word - Data structure design",
-        "title_slug": "add-and-search-word-data-structure-design",
+        "title": "Design Add and Search Words Data Structure",
+        "title_slug": "design-add-and-search-words-data-structure",
         "difficulty": 2
     },
     {
@@ -3056,7 +3056,7 @@
         "index": "0437",
         "title": "Path Sum III",
         "title_slug": "path-sum-iii",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 438,
@@ -5485,7 +5485,7 @@
         "index": "0784",
         "title": "Letter Case Permutation",
         "title_slug": "letter-case-permutation",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 801,
@@ -7184,8 +7184,8 @@
     {
         "id": 1087,
         "index": "1027",
-        "title": "Longest Arithmetic Sequence",
-        "title_slug": "longest-arithmetic-sequence",
+        "title": "Longest Arithmetic Subsequence",
+        "title_slug": "longest-arithmetic-subsequence",
         "difficulty": 2
     },
     {
@@ -8514,8 +8514,8 @@
     {
         "id": 1329,
         "index": "1217",
-        "title": "Play with Chips",
-        "title_slug": "play-with-chips",
+        "title": "Minimum Cost to Move Chips to The Same Position",
+        "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
         "difficulty": 1
     },
     {
@@ -10612,6 +10612,265 @@
         "difficulty": 3
     },
     {
+        "id": 1664,
+        "index": "1517",
+        "title": "Find Users With Valid E-Mails",
+        "title_slug": "find-users-with-valid-e-mails",
+        "difficulty": 1
+    },
+    {
+        "id": 1642,
+        "index": "1518",
+        "title": "Water Bottles",
+        "title_slug": "water-bottles",
+        "difficulty": 1
+    },
+    {
+        "id": 1643,
+        "index": "1519",
+        "title": "Number of Nodes in the Sub-Tree With the Same Label",
+        "title_slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+        "difficulty": 2
+    },
+    {
+        "id": 1644,
+        "index": "1520",
+        "title": "Maximum Number of Non-Overlapping Substrings",
+        "title_slug": "maximum-number-of-non-overlapping-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1645,
+        "index": "1521",
+        "title": "Find a Value of a Mysterious Function Closest to Target",
+        "title_slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+        "difficulty": 3
+    },
+    {
+        "id": 1665,
+        "index": "1522",
+        "title": "Diameter of N-Ary Tree",
+        "title_slug": "diameter-of-n-ary-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 1630,
+        "index": "1523",
+        "title": "Count Odd Numbers in an Interval Range",
+        "title_slug": "count-odd-numbers-in-an-interval-range",
+        "difficulty": 1
+    },
+    {
+        "id": 1631,
+        "index": "1524",
+        "title": "Number of Sub-arrays With Odd Sum",
+        "title_slug": "number-of-sub-arrays-with-odd-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 1632,
+        "index": "1525",
+        "title": "Number of Good Ways to Split a String",
+        "title_slug": "number-of-good-ways-to-split-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1633,
+        "index": "1526",
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "title_slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+        "difficulty": 3
+    },
+    {
+        "id": 1670,
+        "index": "1527",
+        "title": "Patients With a Condition",
+        "title_slug": "patients-with-a-condition",
+        "difficulty": 1
+    },
+    {
+        "id": 1651,
+        "index": "1528",
+        "title": "Shuffle String",
+        "title_slug": "shuffle-string",
+        "difficulty": 1
+    },
+    {
+        "id": 1652,
+        "index": "1529",
+        "title": "Bulb Switcher IV",
+        "title_slug": "bulb-switcher-iv",
+        "difficulty": 2
+    },
+    {
+        "id": 1653,
+        "index": "1530",
+        "title": "Number of Good Leaf Nodes Pairs",
+        "title_slug": "number-of-good-leaf-nodes-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 1637,
+        "index": "1531",
+        "title": "String Compression II",
+        "title_slug": "string-compression-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1671,
+        "index": "1532",
+        "title": "The Most Recent Three Orders",
+        "title_slug": "the-most-recent-three-orders",
+        "difficulty": 2
+    },
+    {
+        "id": 1672,
+        "index": "1533",
+        "title": "Find the Index of the Large Integer",
+        "title_slug": "find-the-index-of-the-large-integer",
+        "difficulty": 2
+    },
+    {
+        "id": 1656,
+        "index": "1534",
+        "title": "Count Good Triplets",
+        "title_slug": "count-good-triplets",
+        "difficulty": 1
+    },
+    {
+        "id": 1657,
+        "index": "1535",
+        "title": "Find the Winner of an Array Game",
+        "title_slug": "find-the-winner-of-an-array-game",
+        "difficulty": 2
+    },
+    {
+        "id": 1658,
+        "index": "1536",
+        "title": "Minimum Swaps to Arrange a Binary Grid",
+        "title_slug": "minimum-swaps-to-arrange-a-binary-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 1659,
+        "index": "1537",
+        "title": "Get the Maximum Score",
+        "title_slug": "get-the-maximum-score",
+        "difficulty": 3
+    },
+    {
+        "id": 1681,
+        "index": "1538",
+        "title": "Guess the Majority in a Hidden Array",
+        "title_slug": "guess-the-majority-in-a-hidden-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1646,
+        "index": "1539",
+        "title": "Kth Missing Positive Number",
+        "title_slug": "kth-missing-positive-number",
+        "difficulty": 1
+    },
+    {
+        "id": 1647,
+        "index": "1540",
+        "title": "Can Convert String in K Moves",
+        "title_slug": "can-convert-string-in-k-moves",
+        "difficulty": 2
+    },
+    {
+        "id": 1648,
+        "index": "1541",
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "title_slug": "minimum-insertions-to-balance-a-parentheses-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1668,
+        "index": "1542",
+        "title": "Find Longest Awesome Substring",
+        "title_slug": "find-longest-awesome-substring",
+        "difficulty": 3
+    },
+    {
+        "id": 1686,
+        "index": "1543",
+        "title": "Fix Product Name Format",
+        "title_slug": "fix-product-name-format",
+        "difficulty": 1
+    },
+    {
+        "id": 1666,
+        "index": "1544",
+        "title": "Make The String Great",
+        "title_slug": "make-the-string-great",
+        "difficulty": 1
+    },
+    {
+        "id": 1667,
+        "index": "1545",
+        "title": "Find Kth Bit in Nth Binary String",
+        "title_slug": "find-kth-bit-in-nth-binary-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1649,
+        "index": "1546",
+        "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+        "title_slug": "maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+        "difficulty": 2
+    },
+    {
+        "id": 1669,
+        "index": "1547",
+        "title": "Minimum Cost to Cut a Stick",
+        "title_slug": "minimum-cost-to-cut-a-stick",
+        "difficulty": 3
+    },
+    {
+        "id": 1687,
+        "index": "1548",
+        "title": "The Most Similar Path in a Graph",
+        "title_slug": "the-most-similar-path-in-a-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 1688,
+        "index": "1549",
+        "title": "The Most Recent Orders for Each Product",
+        "title_slug": "the-most-recent-orders-for-each-product",
+        "difficulty": 2
+    },
+    {
+        "id": 1293,
+        "index": "1550",
+        "title": "Three Consecutive Odds",
+        "title_slug": "three-consecutive-odds",
+        "difficulty": 1
+    },
+    {
+        "id": 1674,
+        "index": "1551",
+        "title": "Minimum Operations to Make Array Equal",
+        "title_slug": "minimum-operations-to-make-array-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 1675,
+        "index": "1552",
+        "title": "Magnetic Force Between Two Balls",
+        "title_slug": "magnetic-force-between-two-balls",
+        "difficulty": 2
+    },
+    {
+        "id": 1676,
+        "index": "1553",
+        "title": "Minimum Number of Days to Eat N Oranges",
+        "title_slug": "minimum-number-of-days-to-eat-n-oranges",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -11236,14 +11495,14 @@
     },
     {
         "id": 100346,
-        "index": "面试题68-I",
+        "index": "剑指Offer68-I",
         "title": "二叉搜索树的最近公共祖先 LCOF",
         "title_slug": "er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof",
         "difficulty": 1
     },
     {
         "id": 100347,
-        "index": "面试题68-II",
+        "index": "剑指Offer68-II",
         "title": "二叉树的最近公共祖先 LCOF",
         "title_slug": "er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof",
         "difficulty": 1
