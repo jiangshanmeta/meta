@@ -9,35 +9,36 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var findMode = function(root) {
-    if(!root){
+var findMode = function (root) {
+    if (!root) {
         return [];
     }
     let max = 0;
     let lastVal;
     let modes = [];
     let counter = 0;
-    
-    function inOrderTravel(node){
+
+    function inOrderTravel (node) {
         node.left && inOrderTravel(node.left);
-        
-        if(node.val !== lastVal){
+
+        if (node.val !== lastVal) {
             lastVal = node.val;
             counter = 1;
-        }else{
+        } else {
             counter++;
         }
-        
-        if(counter>max){
+
+        if (counter > max) {
             max = counter;
-            modes = [node.val];
-        }else if(counter === max){
+            modes = [
+                node.val, ];
+        } else if (counter === max) {
             modes.push(node.val);
         }
-        
+
         node.right && inOrderTravel(node.right);
     }
-    
+
     inOrderTravel(root);
     return modes;
 };

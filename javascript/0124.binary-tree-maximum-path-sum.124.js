@@ -10,40 +10,39 @@
  * @return {number}
  */
 // 后序遍历
-var maxPathSum = function(root) {
-    if(!root){
+var maxPathSum = function (root) {
+    if (!root) {
         return 0;
     }
     let max = -Infinity;
-    
-    function divideConquer(node){
-        if(!node.left && !node.right){
-            if(node.val>max){
+
+    function divideConquer (node) {
+        if (!node.left && !node.right) {
+            if (node.val > max) {
                 max = node.val;
             }
             return node.val;
         }
-        
+
         const leftPath = (node.left && divideConquer(node.left)) || 0;
-        const rightPath = (node.right &&  divideConquer(node.right)) || 0;
-        
+        const rightPath = (node.right && divideConquer(node.right)) || 0;
+
         let curSum = node.val;
-        
-        if(node.val+leftPath>curSum){
-            curSum = node.val+leftPath;
+
+        if (node.val + leftPath > curSum) {
+            curSum = node.val + leftPath;
         }
-        
-        if(node.val+rightPath>curSum){
+
+        if (node.val + rightPath > curSum) {
             curSum = node.val + rightPath;
         }
-        
-        let allSum = node.val+rightPath+leftPath;
-        if(allSum>max){
+
+        const allSum = node.val + rightPath + leftPath;
+        if (allSum > max) {
             max = allSum;
         }
 
-        
-        if(curSum>max){
+        if (curSum > max) {
             max = curSum;
         }
         return curSum;

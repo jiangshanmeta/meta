@@ -2,7 +2,7 @@
  * Initialize your data structure here.
  */
 // 既然要求O(1) 那就是hash了
-var AllOne = function() {
+var AllOne = function () {
     // keyValue的key对应inc的参数key value是其数量
     this.keyValue = {};
     // valueCount 同一个value值总共出现过几次
@@ -18,82 +18,81 @@ var AllOne = function() {
 };
 
 /**
- * Inserts a new key <Key> with value 1. Or increments an existing key by 1. 
+ * Inserts a new key <Key> with value 1. Or increments an existing key by 1.
  * @param {string} key
  * @return {void}
  */
-AllOne.prototype.inc = function(key) {
+AllOne.prototype.inc = function (key) {
     let newValue;
 
-    if(this.keyValue[key]){
+    if (this.keyValue[key]) {
         const oldValue = this.keyValue[key];
-        newValue = oldValue+1;
+        newValue = oldValue + 1;
         delete this.valueKeyMap[oldValue][key];
         this.valueCount[oldValue]--;
-        if(!this.minDirty && this.minCount === oldValue && this.valueCount[oldValue] === 0){
+        if (!this.minDirty && this.minCount === oldValue && this.valueCount[oldValue] === 0) {
             this.minCount = newValue;
         }
-    }else{
+    } else {
         newValue = 1;
 
         this.minCount = 1;
         this.minDirty = false;
     }
-    
+
     this.keyValue[key] = newValue;
     (this.valueKeyMap[newValue] || (this.valueKeyMap[newValue] = {}))[key] = true;
-    this.valueCount[newValue] = (this.valueCount[newValue] || 0)+1;
+    this.valueCount[newValue] = (this.valueCount[newValue] || 0) + 1;
 
-    newValue>this.maxCount && (this.maxCount = newValue);
+    newValue > this.maxCount && (this.maxCount = newValue);
 };
 
 /**
- * Decrements an existing key by 1. If Key's value is 1, remove it from the data structure. 
+ * Decrements an existing key by 1. If Key's value is 1, remove it from the data structure.
  * @param {string} key
  * @return {void}
  */
-AllOne.prototype.dec = function(key) {
-    if(!this.keyValue[key]){
+AllOne.prototype.dec = function (key) {
+    if (!this.keyValue[key]) {
         return;
     }
     let oldValue;
-    
-    if(this.keyValue[key] === 1){
+
+    if (this.keyValue[key] === 1) {
         oldValue = 1;
         delete this.keyValue[key];
-        if(this.minCount === 1 && this.valueCount[1] === 1){
+        if (this.minCount === 1 && this.valueCount[1] === 1) {
             this.minDirty = true;
         }
-    }else{
+    } else {
         oldValue = this.keyValue[key];
-        const newValue = oldValue-1;
+        const newValue = oldValue - 1;
         this.keyValue[key] = newValue;
         this.valueCount[newValue]++;
         this.valueKeyMap[newValue][key] = true;
-        if(!this.minDirty && this.minCount>newValue){
+        if (!this.minDirty && this.minCount > newValue) {
             this.minCount = newValue;
         }
     }
-    
+
     this.valueCount[oldValue]--;
     delete this.valueKeyMap[oldValue][key];
 
-    if(this.maxCount === oldValue && this.valueCount[oldValue] === 0){
+    if (this.maxCount === oldValue && this.valueCount[oldValue] === 0) {
         this.maxCount--;
     }
-    
 };
 
 /**
  * Returns one of the keys with maximal value.
  * @return {string}
  */
-AllOne.prototype.getMaxKey = function() {
-    if(this.maxCount === 0){
-        return "";
+AllOne.prototype.getMaxKey = function () {
+    if (this.maxCount === 0) {
+        return '';
     }
 
-    for(key in this.valueKeyMap[this.maxCount]){
+    for (key in this.valueKeyMap[this.maxCount]) {
         return key;
     }
 };
@@ -102,24 +101,24 @@ AllOne.prototype.getMaxKey = function() {
  * Returns one of the keys with Minimal value.
  * @return {string}
  */
-AllOne.prototype.getMinKey = function() {
-    if(this.maxCount === 0){
-        return "";
+AllOne.prototype.getMinKey = function () {
+    if (this.maxCount === 0) {
+        return '';
     }
-    if(this.minDirty){
+    if (this.minDirty) {
         let minCount = 1;
-        while(this.valueCount[minCount] === 0){
+        while (this.valueCount[minCount] === 0) {
             minCount++;
         }
-        this.minCount = minCount
+        this.minCount = minCount;
     }
-    
-    for(let key in this.valueKeyMap[this.minCount]){
+
+    for (const key in this.valueKeyMap[this.minCount]) {
         return key;
     }
 };
 
-/** 
+/**
  * Your AllOne object will be instantiated and called as such:
  * var obj = new AllOne()
  * obj.inc(key)

@@ -1,13 +1,13 @@
 /**
  * @param {number[]} nums
  */
-function LinkedListNode(key){
+function LinkedListNode (key) {
     this.key = key;
     this.prev = null;
     this.next = null;
 }
 
-function removeNode(node){
+function removeNode (node) {
     const prev = node.prev;
     const next = node.next;
     prev.next = next;
@@ -16,14 +16,14 @@ function removeNode(node){
     node.next = null;
 }
 
-var FirstUnique = function(nums) {
+var FirstUnique = function (nums) {
     this.uniqueMap = {};
     this.keyNodeMap = {};
     this.head = new LinkedListNode(null);
     this.tail = new LinkedListNode(null);
     this.head.next = this.tail;
     this.tail.prev = this.head;
-    nums.forEach((num)=>{
+    nums.forEach((num) => {
         this.add(num);
     });
 };
@@ -31,28 +31,28 @@ var FirstUnique = function(nums) {
 /**
  * @return {number}
  */
-FirstUnique.prototype.showFirstUnique = function() {
-    if(this.head.next === this.tail){
+FirstUnique.prototype.showFirstUnique = function () {
+    if (this.head.next === this.tail) {
         return -1;
     }
     return this.head.next.key;
 };
 
-/** 
+/**
  * @param {number} value
  * @return {void}
  */
-FirstUnique.prototype.add = function(value) {
-    if(value in this.uniqueMap){
-        if(this.uniqueMap[value]){
+FirstUnique.prototype.add = function (value) {
+    if (value in this.uniqueMap) {
+        if (this.uniqueMap[value]) {
             this.uniqueMap[value] = false;
             removeNode(this.keyNodeMap[value]);
             delete this.keyNodeMap[value];
         }
-    }else{
+    } else {
         const node = new LinkedListNode(value);
         const prev = this.tail.prev;
-        const next = this.tail
+        const next = this.tail;
         prev.next = node;
         node.prev = prev;
         node.next = next;
@@ -62,7 +62,7 @@ FirstUnique.prototype.add = function(value) {
     }
 };
 
-/** 
+/**
  * Your FirstUnique object will be instantiated and called as such:
  * var obj = new FirstUnique(nums)
  * var param_1 = obj.showFirstUnique()

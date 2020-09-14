@@ -3,8 +3,10 @@
  * @param {number} numRows
  * @return {string}
  */
-var convert = function(s, numRows) {
-    var arrs = Array.apply(null,{length:numRows}).map(function(){
+var convert = function (s, numRows) {
+    var arrs = Array.apply(null, {
+        length: numRows,
+    }).map(function () {
         return [];
     });
 
@@ -14,38 +16,38 @@ var convert = function(s, numRows) {
     var strLen = s.length;
     var maxRow = numRows - 1;
     var item;
-    for(var i=0;i<strLen;i++){
+    for (var i = 0; i < strLen; i++) {
         item = s[i];
         arrs[x][y] = item;
         // 推算下一个的坐标
-        if(x === maxRow){
+        if (x === maxRow) {
             direction = -1;
             y++;
             // 处理只有一行的情况
-            if(x>0){
+            if (x > 0) {
                 x--;
             }
-        }else if(x === 0 && direction === -1){
+        } else if (x === 0 && direction === -1) {
             direction = 1;
             x++;
-        }else{
+        } else {
             x += direction;
-            if(direction === -1){
+            if (direction === -1) {
                 y++;
             }
         }
     }
-    var strArr = arrs.reduce(function(arr,arrItem){
-        var fragment = arrItem.reduce(function(arr2,item){
-            if(item){
+    var strArr = arrs.reduce(function (arr, arrItem) {
+        var fragment = arrItem.reduce(function (arr2, item) {
+            if (item) {
                 arr2.push(item);
             }
             return arr2;
-        },[]).join("");
-        
+        }, []).join('');
+
         arr.push(fragment);
         return arr;
-    },[])
-    
-    return strArr.join("");
+    }, []);
+
+    return strArr.join('');
 };

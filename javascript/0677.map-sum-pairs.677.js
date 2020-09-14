@@ -1,19 +1,19 @@
 /**
  * Initialize your data structure here.
  */
-var MapSum = function() {
+var MapSum = function () {
     this.trie = {};
 };
 
-/** 
- * @param {string} key 
+/**
+ * @param {string} key
  * @param {number} val
  * @return {void}
  */
-MapSum.prototype.insert = function(key, val) {
+MapSum.prototype.insert = function (key, val) {
     let before = this.trie;
-    for(let i=0;i<key.length;i++){
-        if(before[key[i]] === undefined){
+    for (let i = 0; i < key.length; i++) {
+        if (before[key[i]] === undefined) {
             before[key[i]] = {};
         }
         before = before[key[i]];
@@ -21,27 +21,27 @@ MapSum.prototype.insert = function(key, val) {
     before.val = val;
 };
 
-/** 
+/**
  * @param {string} prefix
  * @return {number}
  */
 
-function travel(node){
+function travel (node) {
     let sum = 0;
-    Object.keys(node).forEach((key)=>{
-        if(key === 'val'){
+    Object.keys(node).forEach((key) => {
+        if (key === 'val') {
             sum += node.val;
-        }else{
+        } else {
             sum += travel(node[key]);
         }
     });
     return sum;
 }
 
-MapSum.prototype.sum = function(prefix) {
+MapSum.prototype.sum = function (prefix) {
     let before = this.trie;
-    for(let i=0;i<prefix.length;i++){
-        if(before[prefix[i]] === undefined){
+    for (let i = 0; i < prefix.length; i++) {
+        if (before[prefix[i]] === undefined) {
             return 0;
         }
         before = before[prefix[i]];
@@ -49,7 +49,7 @@ MapSum.prototype.sum = function(prefix) {
     return travel(before);
 };
 
-/** 
+/**
  * Your MapSum object will be instantiated and called as such:
  * var obj = Object.create(MapSum).createNew()
  * obj.insert(key,val)

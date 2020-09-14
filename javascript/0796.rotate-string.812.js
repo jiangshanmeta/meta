@@ -3,9 +3,9 @@
  * @param {string} B
  * @return {boolean}
  */
-var rotateString = function(A, B) {
-    if(A.length !== B.length){
+var rotateString = function (A, B) {
+    if (A.length !== B.length) {
         return false;
     }
-    return (A+A).includes(B);
+    return (A + A).includes(B);
 };

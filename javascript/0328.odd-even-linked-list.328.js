@@ -9,8 +9,8 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var oddEvenList = function(head) {
-    if(!head){
+var oddEvenList = function (head) {
+    if (!head) {
         return head;
     }
     const oddStart = head;
@@ -18,14 +18,13 @@ var oddEvenList = function(head) {
     let oddNode = oddStart;
     let evenNode = evenStart;
     // 链表重排  拆分链表
-    while(oddNode.next !== null && evenNode.next !== null){
+    while (oddNode.next !== null && evenNode.next !== null) {
         oddNode.next = oddNode.next.next;
         oddNode = oddNode.next;
         evenNode.next = evenNode.next.next;
         evenNode = evenNode.next;
     }
-    
-    
-    oddNode.next = evenStart
+
+    oddNode.next = evenStart;
     return oddStart;
 };

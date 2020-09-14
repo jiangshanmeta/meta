@@ -3,13 +3,13 @@
  * @param {number} extraCandies
  * @return {boolean[]}
  */
-var kidsWithCandies = function(candies, extraCandies) {
+var kidsWithCandies = function (candies, extraCandies) {
     const MAX = Math.max(...candies);
     const result = new Array(candies.length);
-    for(let i=0;i<candies.length;i++){
-        if(candies[i]+extraCandies<MAX){
+    for (let i = 0; i < candies.length; i++) {
+        if (candies[i] + extraCandies < MAX) {
             result[i] = false;
-        }else{
+        } else {
             result[i] = true;
         }
     }

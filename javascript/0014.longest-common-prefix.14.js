@@ -2,34 +2,34 @@
  * @param {string[]} strs
  * @return {string}
  */
-var longestCommonPrefix = function(strs) {
-    if(!strs.length){
-        return "";
+var longestCommonPrefix = function (strs) {
+    if (!strs.length) {
+        return '';
     }
     var minLen = Infinity;
     var flag;
     var first;
     var rst = [];
-    strs.forEach(function(item){
-        if(item.length<minLen){
+    strs.forEach(function (item) {
+        if (item.length < minLen) {
             minLen = item.length;
         }
-    })
-    
-    for(var i=0;i<minLen;i++){
+    });
+
+    for (var i = 0; i < minLen; i++) {
         first = strs[0][i];
-        flag = strs.every(function(item){
-            if(item[i] === first){
+        flag = strs.every(function (item) {
+            if (item[i] === first) {
                 return true;
-            }else{
+            } else {
                 return false;
             }
-        })
-        if(flag){
-            rst.push(first)
-        }else{
+        });
+        if (flag) {
+            rst.push(first);
+        } else {
             break;
         }
     }
-    return rst.join("");
+    return rst.join('');
 };

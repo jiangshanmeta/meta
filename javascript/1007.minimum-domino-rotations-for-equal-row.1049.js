@@ -3,9 +3,9 @@
  * @param {number[]} B
  * @return {number}
  */
-var minDominoRotations = function(A, B) {
-    let aVal = A[0];
-    let bVal = B[0];
+var minDominoRotations = function (A, B) {
+    const aVal = A[0];
+    const bVal = B[0];
     // aCount意思是A[0]不和B[0]交换 A[index]和aVal比较
     let aCount = 0;
     let bCount = 0;
@@ -17,44 +17,41 @@ var minDominoRotations = function(A, B) {
     let aFlag = true;
     let bFlag = true;
     let index = 1;
-    while((aFlag || bFlag) && index<A.length){
-        if(aFlag){
-            if(A[index] !== aVal){
-                if(B[index] === aVal){
+    while ((aFlag || bFlag) && index < A.length) {
+        if (aFlag) {
+            if (A[index] !== aVal) {
+                if (B[index] === aVal) {
                     aCount++;
-                }else{
+                } else {
                     aFlag = false;
                 }
             }
-            
-            if(B[index] !== aVal && A[index] === aVal){
+
+            if (B[index] !== aVal && A[index] === aVal) {
                 aReverseCount++;
             }
-            
-            
         }
-        if(bFlag){
-            if(B[index] !== bVal){
-                if(A[index] === bVal){
+        if (bFlag) {
+            if (B[index] !== bVal) {
+                if (A[index] === bVal) {
                     bCount++;
-                }else{
+                } else {
                     bFlag = false;
                 }
             }
-            
-            if(A[index] !== bVal && B[index] === bVal){
+
+            if (A[index] !== bVal && B[index] === bVal) {
                 bReverseCount++;
             }
-        
         }
         index++;
     }
-    
-    aCount = aFlag?Math.min(aCount,aReverseCount):Infinity;
-    bCount = bFlag?Math.min(bCount,bReverseCount):Infinity;
-    
-    const count = Math.min(aCount,bCount);
-    if(count === Infinity){
+
+    aCount = aFlag ? Math.min(aCount, aReverseCount) : Infinity;
+    bCount = bFlag ? Math.min(bCount, bReverseCount) : Infinity;
+
+    const count = Math.min(aCount, bCount);
+    if (count === Infinity) {
         return -1;
     }
     return count;

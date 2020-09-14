@@ -9,17 +9,17 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
-var convertBiNode = function(root) {
-    if(!root){
+var convertBiNode = function (root) {
+    if (!root) {
         return root;
     }
     root.right = convertBiNode(root.right);
-    if(!root.left){
+    if (!root.left) {
         return root;
     }
     const newRoot = convertBiNode(root.left);
     let node = newRoot;
-    while(node.right){
+    while (node.right) {
         node = node.right;
     }
     node.right = root;

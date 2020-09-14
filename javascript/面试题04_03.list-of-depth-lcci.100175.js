@@ -16,27 +16,28 @@
  * @param {TreeNode} tree
  * @return {ListNode[]}
  */
-var listOfDepth = function(tree) {
-    if(!tree){
+var listOfDepth = function (tree) {
+    if (!tree) {
         return [];
     }
     const result = [];
-    levelOrder(result,[tree]);
+    levelOrder(result, [
+        tree, ]);
     return result;
 };
 
-function levelOrder(result,level){
-    let dummyHead = new ListNode();
+function levelOrder (result, level) {
+    const dummyHead = new ListNode();
     let node = dummyHead;
     const nextLevel = [];
-    for(let i=0;i<level.length;i++){
+    for (let i = 0; i < level.length; i++) {
         const lNode = new ListNode(level[i].val);
         node.next = lNode;
         node = lNode;
-        
+
         level[i].left && nextLevel.push(level[i].left);
         level[i].right && nextLevel.push(level[i].right);
     }
     result.push(dummyHead.next);
-    nextLevel.length && levelOrder(result,nextLevel);
+    nextLevel.length && levelOrder(result, nextLevel);
 }

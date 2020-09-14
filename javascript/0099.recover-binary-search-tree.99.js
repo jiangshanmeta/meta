@@ -14,16 +14,16 @@
 // 如果发生了 则可能是前一个节点被置换为较大的节点 或者当前节点被置换为较小的节点
 // 第一次遇到这种情况时 前一个节点是被置换的较大的节点
 // 最后一次遇到这种情况时 当前节点是被置换的较小的节点
-var recoverTree = function(root) {
+var recoverTree = function (root) {
     let lastNode;
     let moreNode;
     let lessNode;
-    
-    function inorderTravel(node){
+
+    function inorderTravel (node) {
         node.left && inorderTravel(node.left);
-        
-        if(lastNode && node.val<lastNode.val){
-            if(!moreNode){
+
+        if (lastNode && node.val < lastNode.val) {
+            if (!moreNode) {
                 moreNode = lastNode;
             }
             lessNode = node;
@@ -32,10 +32,10 @@ var recoverTree = function(root) {
 
         node.right && inorderTravel(node.right);
     }
-    
+
     inorderTravel(root);
-    
-    let tmp = moreNode.val;
+
+    const tmp = moreNode.val;
     moreNode.val = lessNode.val;
     lessNode.val = tmp;
 };

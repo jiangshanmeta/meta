@@ -9,17 +9,17 @@
  * @param {number[]} nums
  * @return {TreeNode}
  */
-var sortedArrayToBST = function(nums) {
-    return buildTree(nums,0,nums.length-1);
+var sortedArrayToBST = function (nums) {
+    return buildTree(nums, 0, nums.length - 1);
 };
 
-function buildTree(nums,left,right){
-    if(left>right){
+function buildTree (nums, left, right) {
+    if (left > right) {
         return null;
     }
-    const mid = (left+right) >> 1;
+    const mid = (left + right) >> 1;
     const root = new TreeNode(nums[mid]);
-    root.left = buildTree(nums,left,mid-1);
-    root.right = buildTree(nums,mid+1,right);
+    root.left = buildTree(nums, left, mid - 1);
+    root.right = buildTree(nums, mid + 1, right);
     return root;
 }

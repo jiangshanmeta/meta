@@ -9,19 +9,20 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrderBottom = function(root) {
-    if(!root){
+var levelOrderBottom = function (root) {
+    if (!root) {
         return [];
     }
     const rst = [];
-    var lastLevelNodes = [root];
+    var lastLevelNodes = [
+        root, ];
     var lastLevelNodeValues;
     var curLevelNodes;
-    
-    while(lastLevelNodes.length){
+
+    while (lastLevelNodes.length) {
         lastLevelNodeValues = [];
         curLevelNodes = [];
-        for(var i=0;i<lastLevelNodes.length;i++){
+        for (var i = 0; i < lastLevelNodes.length; i++) {
             const node = lastLevelNodes[i];
             lastLevelNodeValues.push(node.val);
             node.left && curLevelNodes.push(node.left);
@@ -30,7 +31,6 @@ var levelOrderBottom = function(root) {
         rst.unshift(lastLevelNodeValues);
         lastLevelNodes = curLevelNodes;
     }
-    
-    
+
     return rst;
 };

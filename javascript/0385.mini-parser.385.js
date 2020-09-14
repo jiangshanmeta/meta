@@ -41,31 +41,30 @@
  * @return {NestedInteger}
  */
 // 和 leetcode 726 很像
-var deserialize = function(s) {
+var deserialize = function (s) {
     let index = 0;
-    function parse(){
+    function parse () {
         const node = new NestedInteger();
-        const isList = s[index] === '['
-        if(isList){
+        const isList = s[index] === '[';
+        if (isList) {
             index++;
-            while(index<s.length){
-                if(s[index] === ']'){
+            while (index < s.length) {
+                if (s[index] === ']') {
                     index++;
                     break;
-                }else if(s[index] === ','){
+                } else if (s[index] === ',') {
                     index++;
-                }else{
+                } else {
                     node.add(parse());
                 }
             }
-            
-        }else{
+        } else {
             const start = index;
             index++;
-            while(index<s.length && s.charCodeAt(index)>47 && s.charCodeAt(index)<58 ){
+            while (index < s.length && s.charCodeAt(index) > 47 && s.charCodeAt(index) < 58) {
                 index++;
             }
-            node.setInteger(+s.substring(start,index));
+            node.setInteger(+s.substring(start, index));
         }
         return node;
     }

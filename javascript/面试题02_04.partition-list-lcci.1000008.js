@@ -10,24 +10,24 @@
  * @param {number} x
  * @return {ListNode}
  */
-var partition = function(head, x) {
+var partition = function (head, x) {
     const beforeHead = new ListNode();
     const afterHead = new ListNode();
     let beforeNode = beforeHead;
     let afterNode = afterHead;
-    while(head){
+    while (head) {
         const n = head.next;
         head.next = null;
-        if(head.val<x){
+        if (head.val < x) {
             beforeNode.next = head;
             beforeNode = head;
-        }else{
+        } else {
             afterNode.next = head;
             afterNode = head;
         }
         head = n;
     }
-    if(!beforeHead.next){
+    if (!beforeHead.next) {
         return afterHead.next;
     }
     beforeNode.next = afterHead.next;

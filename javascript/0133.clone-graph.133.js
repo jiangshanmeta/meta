@@ -10,15 +10,15 @@
  * @param {UndirectedGraphNode} graph
  * @return {UndirectedGraphNode}
  */
-var cloneGraph = function(graph) {
-    if(!graph){
-        return graph
+var cloneGraph = function (graph) {
+    if (!graph) {
+        return graph;
     }
-    function dfs(node){
-        if(node.copy === undefined){
+    function dfs (node) {
+        if (node.copy === undefined) {
             node.copy = new UndirectedGraphNode(node.label);
-            for(let i=0;i<node.neighbors.length;i++){
-                node.copy.neighbors[i] = dfs(node.neighbors[i])
+            for (let i = 0; i < node.neighbors.length; i++) {
+                node.copy.neighbors[i] = dfs(node.neighbors[i]);
             }
         }
         return node.copy;

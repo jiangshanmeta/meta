@@ -3,21 +3,21 @@
  * @param {number} k
  * @return {number}
  */
-var kConcatenationMaxSum = function(arr, k) {
-    const mod = 10**9+7;
+var kConcatenationMaxSum = function (arr, k) {
+    const mod = 10 ** 9 + 7;
     // k为1则退化为leetcode53最大子列和问题
-    if(k === 1){
+    if (k === 1) {
         let max = 0;
         let curSum = 0;
-        for(let i=0;i<arr.length;i++){
+        for (let i = 0; i < arr.length; i++) {
             curSum += arr[i];
-            max = Math.max(max,curSum);
-            if(curSum<0){
+            max = Math.max(max, curSum);
+            if (curSum < 0) {
                 curSum = 0;
             }
         }
-        return max%mod;
-    }else{
+        return max % mod;
+    } else {
         // 对于重复的多个序列，最大子列和出现的可能情况有：
         // 1. 在一个序列内部
         // 2. 一个序列尾部+下一个序列的头部
@@ -31,14 +31,14 @@ var kConcatenationMaxSum = function(arr, k) {
         let sum = 0;
         let max = 0;
         let curSum = 0;
-        for(let i=0;i<arr.length;i++){
-            i<L && (sum += arr[i]);
+        for (let i = 0; i < arr.length; i++) {
+            i < L && (sum += arr[i]);
             curSum += arr[i];
-            max = Math.max(max,curSum);
-            if(curSum<0){
+            max = Math.max(max, curSum);
+            if (curSum < 0) {
                 curSum = 0;
             }
         }
-        return (sum>0?max+(k-2)*sum:max)%mod;
+        return (sum > 0 ? max + (k - 2) * sum : max) % mod;
     }
 };

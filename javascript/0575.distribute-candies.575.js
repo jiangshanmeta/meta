@@ -5,14 +5,14 @@
  * @param {number[]} candies
  * @return {number}
  */
-var distributeCandies = function(candies) {
-    const half = candies.length/2;
+var distributeCandies = function (candies) {
+    const half = candies.length / 2;
     const candyTypeSet = new Set();
 
-    for(let i=0;i<candies.length;i++){
+    for (let i = 0; i < candies.length; i++) {
         candyTypeSet.add(candies[i]);
-        if(candyTypeSet.size === half){
-            return half
+        if (candyTypeSet.size === half) {
+            return half;
         }
     }
     return candyTypeSet.size;

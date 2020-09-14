@@ -11,21 +11,21 @@
  * @return {number}
  */
 // BST 中遍历的结果就是从小到大的
-var kthSmallest = function(root, k) {
+var kthSmallest = function (root, k) {
     let counter = 0;
     let rst;
-    
-    function inorderTravel(node){
+
+    function inorderTravel (node) {
         node.left && inorderTravel(node.left);
-        
+
         counter++;
-        if(counter === k){
+        if (counter === k) {
             rst = node.val;
             return;
         }
-        
+
         node.right && inorderTravel(node.right);
     }
-    inorderTravel(root)
+    inorderTravel(root);
     return rst;
 };

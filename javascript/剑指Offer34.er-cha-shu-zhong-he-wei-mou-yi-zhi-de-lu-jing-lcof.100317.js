@@ -10,26 +10,26 @@
  * @param {number} sum
  * @return {number[][]}
  */
-var pathSum = function(root, sum) {
+var pathSum = function (root, sum) {
     const result = [];
-    dfs(root,sum,[],result);
+    dfs(root, sum, [], result);
     return result;
 };
 
-function dfs(root,rest,sequence,result){
-    if(!root){
+function dfs (root, rest, sequence, result) {
+    if (!root) {
         return;
     }
     rest -= root.val;
     sequence.push(root.val);
-    if(!root.left && !root.right){
-        if(rest === 0){
+    if (!root.left && !root.right) {
+        if (rest === 0) {
             result.push(sequence.slice(0));
         }
         sequence.pop();
         return;
     }
-    dfs(root.left,rest,sequence,result);
-    dfs(root.right,rest,sequence,result);
+    dfs(root.left, rest, sequence, result);
+    dfs(root.right, rest, sequence, result);
     sequence.pop();
 }

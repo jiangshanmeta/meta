@@ -9,9 +9,9 @@
  * @param {ListNode} head
  * @return {number[]}
  */
-var reversePrint = function(head) {
+var reversePrint = function (head) {
     const result = [];
-    while(head){
+    while (head) {
         result.push(head.val);
         head = head.next;
     }

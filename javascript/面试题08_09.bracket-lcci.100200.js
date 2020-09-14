@@ -2,26 +2,26 @@
  * @param {number} n
  * @return {string[]}
  */
-var generateParenthesis = function(n) {
+var generateParenthesis = function (n) {
     const result = [];
-    backTracking(n,n,[],result);
+    backTracking(n, n, [], result);
     return result;
 };
 
-function backTracking(leftCount,rightCount,sequence,result){
-    if(leftCount === 0 && rightCount === 0){
+function backTracking (leftCount, rightCount, sequence, result) {
+    if (leftCount === 0 && rightCount === 0) {
         result.push(sequence.join(''));
-        return
+        return;
     }
-    if(leftCount>0){
+    if (leftCount > 0) {
         sequence.push('(');
-        backTracking(leftCount-1,rightCount,sequence,result);
+        backTracking(leftCount - 1, rightCount, sequence, result);
         sequence.pop();
     }
-    
-    if(rightCount>leftCount){
+
+    if (rightCount > leftCount) {
         sequence.push(')');
-        backTracking(leftCount,rightCount-1,sequence,result);
+        backTracking(leftCount, rightCount - 1, sequence, result);
         sequence.pop();
     }
 }

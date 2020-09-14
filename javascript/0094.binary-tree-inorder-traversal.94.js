@@ -11,34 +11,34 @@
  * @return {number[]}
  */
 // 递归实现
-var inorderTraversal = function(root) {
-    if(!root){
+var inorderTraversal = function (root) {
+    if (!root) {
         return [];
     }
-    
-    function inorder(node,sequence){
-        node.left && inorder(node.left,sequence);
+
+    function inorder (node, sequence) {
+        node.left && inorder(node.left, sequence);
         sequence.push(node.val);
-        node.right && inorder(node.right,sequence);
+        node.right && inorder(node.right, sequence);
     }
     const sequence = [];
-    inorder(root,sequence);
+    inorder(root, sequence);
     return sequence;
 };
 
 // 非递归实现
-var inorderTraversal = function(root) {
+var inorderTraversal = function (root) {
     const result = [];
     const stack = [];
-    while(root){
+    while (root) {
         stack.push(root);
         root = root.left;
     }
-    while(stack.length){
+    while (stack.length) {
         let node = stack.pop();
         result.push(node.val);
         node = node.right;
-        while(node){
+        while (node) {
             stack.push(node);
             node = node.left;
         }

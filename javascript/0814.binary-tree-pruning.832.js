@@ -9,34 +9,31 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
-var pruneTree = function(root) {
-    if(!root){
+var pruneTree = function (root) {
+    if (!root) {
         return root;
     }
-    
-    function dfs(node){
-        if(!node){
+
+    function dfs (node) {
+        if (!node) {
             return false;
         }
-        
-        
+
         const left = dfs(node.left);
         const right = dfs(node.right);
-        
 
-        if(!left){
+        if (!left) {
             node.left = null;
         }
-        if(!right){
+        if (!right) {
             node.right = null;
         }
-        
+
         return left || right || node.val === 1;
     }
-    
-    if(dfs(root)){
+
+    if (dfs(root)) {
         return root;
     }
     return null;
-    
 };

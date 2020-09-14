@@ -10,22 +10,22 @@
  * @return {number}
  */
 // DFS
-var sumOfLeftLeaves = function(root) {
-    if(!root){
+var sumOfLeftLeaves = function (root) {
+    if (!root) {
         return 0;
     }
-    
+
     let sum = 0;
-    
-    function inner(node,flag){
-        if(!node.left && !node.right && flag){
+
+    function inner (node, flag) {
+        if (!node.left && !node.right && flag) {
             sum += node.val;
             return;
         }
-        node.left && inner(node.left,true);
-        node.right && inner(node.right,false);
+        node.left && inner(node.left, true);
+        node.right && inner(node.right, false);
     }
-    
-    inner(root,false);
+
+    inner(root, false);
     return sum;
 };

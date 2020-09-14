@@ -5,14 +5,15 @@
  * @param {number} target
  * @return {boolean}
  */
-var findWhetherExistsPath = function(n, graph, start, target) {
+var findWhetherExistsPath = function (n, graph, start, target) {
     const graphMap = {};
-    for(let i=0;i<graph.length;i++){
-        const [from,to] = graph[i];
-        if(from === to){
+    for (let i = 0; i < graph.length; i++) {
+        const [
+            from, to, ] = graph[i];
+        if (from === to) {
             continue;
         }
-        if(!graphMap[from]){
+        if (!graphMap[from]) {
             graphMap[from] = [];
         }
         graphMap[from].push(to);
@@ -20,22 +21,22 @@ var findWhetherExistsPath = function(n, graph, start, target) {
 
     const used = new Array(n).fill(false);
     used[start] = true;
-    return dfs(graphMap,start,target,used);
+    return dfs(graphMap, start, target, used);
 };
 
-function dfs(graphMap,from,target,used){
-    if(!graphMap[from]){
+function dfs (graphMap, from, target, used) {
+    if (!graphMap[from]) {
         return false;
     }
-    for(let to of graphMap[from]){
-        if(used[to]){
+    for (const to of graphMap[from]) {
+        if (used[to]) {
             continue;
         }
-        if(to === target){
+        if (to === target) {
             return true;
         }
         used[to] = true;
-        if(dfs(graphMap,to,target,used)){
+        if (dfs(graphMap, to, target, used)) {
             return true;
         }
     }

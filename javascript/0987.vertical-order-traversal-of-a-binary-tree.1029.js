@@ -17,61 +17,59 @@
 //     while(low<=high){
 //         const mid = (low+high) >> 1;
 //         if()
-        
+
 //     }
-    
-    
+
 // }
 
-
-var verticalTraversal = function(root) {
+var verticalTraversal = function (root) {
     const resultMap = {};
     let preLevel = [
-        {x:0,node:root}
-    ]
-    
-    while(preLevel.length){
+        {
+            x: 0,
+            node: root,
+        },
+    ];
+
+    while (preLevel.length) {
         const nextLevel = [];
         const map = {};
-        for(let i=0;i<preLevel.length;i++){
+        for (let i = 0; i < preLevel.length; i++) {
             const {
                 x,
-                node
+                node,
             } = preLevel[i];
-            
-            if(map[x] === undefined){
-                map[x] = [node.val];
-            }else{
+
+            if (map[x] === undefined) {
+                map[x] = [
+                    node.val, ];
+            } else {
                 // binarysearch
                 // const list = map[x];
                 map[x].push(node.val);
-                
-                
             }
-            
+
             node.left && nextLevel.push({
-                x:x-1,
-                node:node.left,
+                x: x - 1,
+                node: node.left,
             });
-            
+
             node.right && nextLevel.push({
-                x:x+1,
-                node:node.right,
+                x: x + 1,
+                node: node.right,
             });
-            
         }
-        
-        Object.keys(map).forEach((index)=>{
-            map[index].sort((a,b)=>a-b);
-            if(resultMap[index] === undefined){
+
+        Object.keys(map).forEach((index) => {
+            map[index].sort((a, b) => a - b);
+            if (resultMap[index] === undefined) {
                 return resultMap[index] = map[index];
             }
             resultMap[index].push(...map[index]);
         });
-        
-        
+
         preLevel = nextLevel;
     }
-    
-    return Object.keys(resultMap).sort((a,b)=>a-b).map(index=>resultMap[index]);
+
+    return Object.keys(resultMap).sort((a, b) => a - b).map(index => resultMap[index]);
 };

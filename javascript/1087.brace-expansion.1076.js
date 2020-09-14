@@ -7,36 +7,35 @@
  * @param {string} S
  * @return {string[]}
  */
-var permute = function(S) {
+var permute = function (S) {
     const parseS = [];
     let index = 0;
-    while(index<S.length){
-        if(S[index] === '{'){
+    while (index < S.length) {
+        if (S[index] === '{') {
             // 括号的 多个一组
-            const endIndex = S.indexOf('}',index);
-            parseS.push(S.substring(index+1,endIndex).split(",").sort());
-            index = endIndex+1;
-            
-        }else{
+            const endIndex = S.indexOf('}', index);
+            parseS.push(S.substring(index + 1, endIndex).split(',').sort());
+            index = endIndex + 1;
+        } else {
             // 一个letter一组
-            parseS.push([S[index]]);
+            parseS.push([
+                S[index], ]);
             index++;
         }
-
     }
     const result = [];
-    backTracking([],parseS,result);
+    backTracking([], parseS, result);
     return result;
 };
 
-function backTracking(list,parseS,result){
-    if(list.length === parseS.length){
-        return result.push(list.join(""));
+function backTracking (list, parseS, result) {
+    if (list.length === parseS.length) {
+        return result.push(list.join(''));
     }
-    let index = list.length;
-    for(let i=0;i<parseS[index].length;i++){
+    const index = list.length;
+    for (let i = 0; i < parseS[index].length; i++) {
         list.push(parseS[index][i]);
-        backTracking(list,parseS,result);
+        backTracking(list, parseS, result);
         list.pop();
     }
 }

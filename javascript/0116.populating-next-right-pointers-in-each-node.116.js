@@ -14,16 +14,16 @@
 // 这题最直接的方法是层序遍历 一层一层处理next指针
 // 用了dfs 因为明确直到next对应的节点可到达
 
-var connect = function(root) {
-    if(root === null){
+var connect = function (root) {
+    if (root === null) {
         return root;
     }
-    function dfs(node){
-        if(node.left === null){
+    function dfs (node) {
+        if (node.left === null) {
             return;
         }
         node.left.next = node.right;
-        if(node.next){
+        if (node.next) {
             node.right.next = node.next.left;
         }
         node.left && dfs(node.left);

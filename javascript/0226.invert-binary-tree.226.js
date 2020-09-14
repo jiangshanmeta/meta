@@ -10,17 +10,17 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
-var invertTree = function(root) {
-    if(!root){
+var invertTree = function (root) {
+    if (!root) {
         return root;
     }
-    
-    let tmp = root.left;
+
+    const tmp = root.left;
     root.left = root.right;
     root.right = tmp;
-    
+
     root.left !== null && invertTree(root.left);
     root.right !== null && invertTree(root.right);
-    
+
     return root;
 };

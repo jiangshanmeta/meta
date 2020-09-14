@@ -12,22 +12,22 @@
  * @return {TreeNode}
  */
 // 时间复杂度 O(logN)
-var lowestCommonAncestor = function(root, p, q) {
+var lowestCommonAncestor = function (root, p, q) {
     p = p.val;
     q = q.val;
     // 保证 p<=q
-    if(p>q){
-        let tmp = p;
+    if (p > q) {
+        const tmp = p;
         p = q;
         q = tmp;
     }
-    
-    while(root){
-        if(p>root.val){
+
+    while (root) {
+        if (p > root.val) {
             root = root.right;
-        }else if(q<root.val){
+        } else if (q < root.val) {
             root = root.left;
-        }else{
+        } else {
             // p<=root<=q
             return root;
         }

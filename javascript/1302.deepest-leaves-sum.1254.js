@@ -10,22 +10,22 @@
  * @return {number}
  */
 // 层序遍历找最后一层
-var deepestLeavesSum = function(root) {
-    return levelOrder([root])
+var deepestLeavesSum = function (root) {
+    return levelOrder([
+        root, ]);
 };
 
-function levelOrder(lastLevel){
+function levelOrder (lastLevel) {
     const nextLevel = [];
-    for(let i=0;i<lastLevel.length;i++){
+    for (let i = 0; i < lastLevel.length; i++) {
         lastLevel[i].left && nextLevel.push(lastLevel[i].left);
         lastLevel[i].right && nextLevel.push(lastLevel[i].right);
     }
-    if(nextLevel.length === 0){
-        return lastLevel.reduce((sum,node)=>{
-            return sum+node.val;
-        },0);
-    }else{
+    if (nextLevel.length === 0) {
+        return lastLevel.reduce((sum, node) => {
+            return sum + node.val;
+        }, 0);
+    } else {
         return levelOrder(nextLevel);
     }
-    
 }

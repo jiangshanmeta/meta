@@ -12,16 +12,16 @@
  * @return {TreeNode}
  */
 // 时间复杂度O(n)
-var lowestCommonAncestor = function(root, p, q) {
+var lowestCommonAncestor = function (root, p, q) {
     // 碰到 p或q不需要继续向下探查了
-    if(root === null || p === root || q === root){
+    if (root === null || p === root || q === root) {
         return root;
     }
-    let left = lowestCommonAncestor(root.left,p,q);
-    let right = lowestCommonAncestor(root.right,p,q);
+    const left = lowestCommonAncestor(root.left, p, q);
+    const right = lowestCommonAncestor(root.right, p, q);
     // 如果左右两子树都有节点 则当前节点为最近祖先借点
-    if(left && right){
+    if (left && right) {
         return root;
     }
-    return left?left:right;
+    return left || right;
 };

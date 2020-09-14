@@ -2,12 +2,12 @@
  * @param {number} num
  * @return {number}
  */
-var numberOfSteps  = function(num) {
+var numberOfSteps = function (num) {
     let count = 0;
-    while(num){
-        if(num&1){
+    while (num) {
+        if (num & 1) {
             num--;
-        }else{
+        } else {
             num >>= 1;
         }
         count++;

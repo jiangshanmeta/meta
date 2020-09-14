@@ -12,64 +12,62 @@
 // 7=>seven   排除5后v
 // 8=>eight   g
 // 9=>nine    1 9 e
-var originalDigits = function(s) {
+var originalDigits = function (s) {
     const hashMap = {
-        z:0,
-        o:0,
-        w:0,
-        t:0,
-        u:0,
-        f:0,
-        x:0,
-        v:0,
-        g:0,
-        e:0,
+        z: 0,
+        o: 0,
+        w: 0,
+        t: 0,
+        u: 0,
+        f: 0,
+        x: 0,
+        v: 0,
+        g: 0,
+        e: 0,
     };
-    
-    for(let i=0;i<s.length;i++){
+
+    for (let i = 0; i < s.length; i++) {
         hashMap[s[i]] !== undefined && hashMap[s[i]]++;
     }
-    
-    let arr = new Array(10);
+
+    const arr = new Array(10);
     arr[0] = hashMap.z;
     hashMap.e -= hashMap.z;
     hashMap.o -= hashMap.z;
-    
+
     arr[2] = hashMap.w;
     hashMap.t -= hashMap.w;
     hashMap.o -= hashMap.w;
-    
+
     arr[4] = hashMap.u;
     hashMap.o -= hashMap.u;
     hashMap.f -= hashMap.u;
-    
+
     arr[6] = hashMap.x;
-    
+
     arr[8] = hashMap.g;
     hashMap.e -= hashMap.g;
     hashMap.t -= hashMap.g;
-    
+
     arr[3] = hashMap.t;
-    hashMap.e -= 2*hashMap.t;
-    
+    hashMap.e -= 2 * hashMap.t;
+
     arr[5] = hashMap.f;
     hashMap.v -= hashMap.f;
     hashMap.e -= hashMap.f;
-    
+
     arr[7] = hashMap.v;
-    hashMap.e -= 2*hashMap.v;
-    
+    hashMap.e -= 2 * hashMap.v;
+
     arr[1] = hashMap.o;
     hashMap.e -= hashMap.o;
-    
+
     arr[9] = hashMap.e;
 
-    return arr.reduce((str,count,num)=>{
-        if(count>0){
-            str += (num+'').repeat(count);
+    return arr.reduce((str, count, num) => {
+        if (count > 0) {
+            str += (num + '').repeat(count);
         }
         return str;
-    },'');
-    
-    
+    }, '');
 };

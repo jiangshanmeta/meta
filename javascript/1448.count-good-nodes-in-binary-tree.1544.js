@@ -10,19 +10,19 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var goodNodes = function(root) {
-    return dfs(root,-Infinity);
+var goodNodes = function (root) {
+    return dfs(root, -Infinity);
 };
 
-function dfs(root,maxVal){
-    if(!root){
+function dfs (root, maxVal) {
+    if (!root) {
         return 0;
     }
     let result = 0;
-    if(root.val>=maxVal){
+    if (root.val >= maxVal) {
         result++;
     }
-    maxVal = Math.max(root.val,maxVal);
-    
-    return result+dfs(root.left,maxVal)+dfs(root.right,maxVal);
+    maxVal = Math.max(root.val, maxVal);
+
+    return result + dfs(root.left, maxVal) + dfs(root.right, maxVal);
 }

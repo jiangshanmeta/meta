@@ -15,12 +15,12 @@
 // 有交集，则下Y为 max(y1,y3) 上Y为min(y2,y4)
 // 必须上Y>下Y才有Y坐标交集
 // X同理
-var computeArea = function(A, B, C, D, E, F, G, H) {
-    const itersectionY1 = Math.max(B,F);
-    const itersectionY2 = Math.min(D,H);
-    const itersectionX1 = Math.max(A,E);
-    const itersectionX2 = Math.min(C,G);
-    const itersection = (itersectionY2>itersectionY1) && (itersectionX2>itersectionX1)?
-          (itersectionY2-itersectionY1)*(itersectionX2-itersectionX1):0;
-    return (D-B)*(C-A)+(H-F)*(G-E)-itersection;
+var computeArea = function (A, B, C, D, E, F, G, H) {
+    const itersectionY1 = Math.max(B, F);
+    const itersectionY2 = Math.min(D, H);
+    const itersectionX1 = Math.max(A, E);
+    const itersectionX2 = Math.min(C, G);
+    const itersection = (itersectionY2 > itersectionY1) && (itersectionX2 > itersectionX1)
+        ? (itersectionY2 - itersectionY1) * (itersectionX2 - itersectionX1) : 0;
+    return (D - B) * (C - A) + (H - F) * (G - E) - itersection;
 };

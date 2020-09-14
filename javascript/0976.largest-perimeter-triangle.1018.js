@@ -9,12 +9,12 @@
 // k 固定， 有多组 i j能构成三角形，要和最大，k == j+1
 // 即 i j k 相邻
 
-var largestPerimeter = function(A) {
+var largestPerimeter = function (A) {
     // 从小到大排好序
-    A.sort((a,b)=>a-b);
-    for(let i=A.length-3;i>-1;i--){
-        if(A[i]+A[i+1]>A[i+2]){
-            return A[i]+A[i+1]+A[i+2];
+    A.sort((a, b) => a - b);
+    for (let i = A.length - 3; i > -1; i--) {
+        if (A[i] + A[i + 1] > A[i + 2]) {
+            return A[i] + A[i + 1] + A[i + 2];
         }
     }
     return 0;

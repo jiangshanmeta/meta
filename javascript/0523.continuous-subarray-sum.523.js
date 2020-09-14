@@ -18,40 +18,39 @@
 // 对于第一种情况 如果是单独出现的0跳过 如果是连续的0 和为0 能整除（我被这个特殊情况坑了）
 // 对于第二种情况 由于限制了子序列长度最小是2 需要结合前一个元素或者后一个元素判断
 
-var checkSubarraySum = function(nums, k) {
-    if(k === 0){
-        for(let i=0;i<nums.length-1;i++){
-            if(nums[i] === 0 && nums[i+1] === 0){
+var checkSubarraySum = function (nums, k) {
+    if (k === 0) {
+        for (let i = 0; i < nums.length - 1; i++) {
+            if (nums[i] === 0 && nums[i + 1] === 0) {
                 return true;
             }
         }
         return false;
-    }else{
+    } else {
         let sum = nums[0];
         const modMap = {};
-        modMap[sum%k] = true;
-        for(let i=1;i<nums.length;i++){
-            if(nums[i] === 0){
-                if(nums[i-1] === 0){
+        modMap[sum % k] = true;
+        for (let i = 1; i < nums.length; i++) {
+            if (nums[i] === 0) {
+                if (nums[i - 1] === 0) {
                     return true;
                 }
                 continue;
             }
-            
-            if(nums[i]%k === 0){
-                if( nums[i-1]%k===0 || (i<nums.length-1 && nums[i+1]%k === 0 ) ){
+
+            if (nums[i] % k === 0) {
+                if (nums[i - 1] % k === 0 || (i < nums.length - 1 && nums[i + 1] % k === 0)) {
                     return true;
                 }
                 continue;
             }
-            
-            
+
             sum += nums[i];
-            if(sum%k === 0 || modMap[sum%k] ){
+            if (sum % k === 0 || modMap[sum % k]) {
                 return true;
             }
-            
-            modMap[sum%k] = true;
+
+            modMap[sum % k] = true;
         }
 
         return false;

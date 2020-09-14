@@ -9,8 +9,8 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
-var mirrorTree = function(root) {
-    if(!root){
+var mirrorTree = function (root) {
+    if (!root) {
         return root;
     }
     mirrorTree(root.left);

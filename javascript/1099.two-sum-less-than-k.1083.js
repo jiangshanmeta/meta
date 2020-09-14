@@ -4,17 +4,17 @@
  * @param {number} K
  * @return {number}
  */
-var twoSumLessThanK = function(A, K) {
-    A.sort((a,b)=>a-b);
+var twoSumLessThanK = function (A, K) {
+    A.sort((a, b) => a - b);
     let low = 0;
-    let high = A.length-1;
+    let high = A.length - 1;
     let result = -1;
-    while(low<high){
-        const sum = A[low]+A[high];
-        if(sum<K){
-            result = Math.max(result,sum);
+    while (low < high) {
+        const sum = A[low] + A[high];
+        if (sum < K) {
+            result = Math.max(result, sum);
             low++;
-        }else{
+        } else {
             high--;
         }
     }

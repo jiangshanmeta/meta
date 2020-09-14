@@ -3,15 +3,15 @@
  * @param {number} high
  * @return {number}
  */
-var countOdds = function(low, high) {
-    if(low%2 === 0){
+var countOdds = function (low, high) {
+    if (low % 2 === 0) {
         low++;
     }
-    if(high%2 === 0){
+    if (high % 2 === 0) {
         high--;
     }
-    if(low>high){
+    if (low > high) {
         return 0;
     }
-    return (high-low)/2+1;
+    return (high - low) / 2 + 1;
 };

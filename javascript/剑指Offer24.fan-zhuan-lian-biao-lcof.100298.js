@@ -9,9 +9,9 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var reverseList = function(head) {
+var reverseList = function (head) {
     const dummyHead = new ListNode();
-    while(head){
+    while (head) {
         const node = head;
         head = head.next;
         node.next = dummyHead.next;

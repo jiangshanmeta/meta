@@ -11,27 +11,27 @@
  * @param {number} target
  * @return {boolean}
  */
-var twoSumBSTs = function(root1, root2, target) {
-    if(!root1 || !root2){
+var twoSumBSTs = function (root1, root2, target) {
+    if (!root1 || !root2) {
         return false;
     }
     // 都转成hash
     const map1 = {};
     const map2 = {};
-    traversal(root1,map1);
-    traversal(root2,map2);
+    traversal(root1, map1);
+    traversal(root2, map2);
     const keys = Object.keys(map1);
-    for(let i=0;i<keys.length;i++){
+    for (let i = 0; i < keys.length; i++) {
         // 在另一个hash中查找
-        if(map2[target-keys[i]]){
+        if (map2[target - keys[i]]) {
             return true;
         }
     }
     return false;
 };
 
-function traversal(root,map){
-    root.left && traversal(root.left,map)
+function traversal (root, map) {
+    root.left && traversal(root.left, map);
     map[root.val] = true;
-    root.right && traversal(root.right,map);
+    root.right && traversal(root.right, map);
 }

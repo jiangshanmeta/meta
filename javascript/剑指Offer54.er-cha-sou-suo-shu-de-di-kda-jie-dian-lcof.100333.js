@@ -10,17 +10,17 @@
  * @param {number} k
  * @return {number}
  */
-var kthLargest = function(root, k) {
+var kthLargest = function (root, k) {
     const sequence = [];
-    inOrder(root,sequence);
-    return sequence[sequence.length-k];
+    inOrder(root, sequence);
+    return sequence[sequence.length - k];
 };
 
-function inOrder(root,result){
-    if(!root){
+function inOrder (root, result) {
+    if (!root) {
         return;
     }
-    inOrder(root.left,result);
+    inOrder(root.left, result);
     result.push(root.val);
-    inOrder(root.right,result);
+    inOrder(root.right, result);
 }

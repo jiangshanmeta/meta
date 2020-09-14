@@ -3,17 +3,17 @@
  * @param {number} k
  * @return {number}
  */
-var findKthPositive = function(arr, k) {
+var findKthPositive = function (arr, k) {
     let number = 1;
     let index = 0;
-    while(true){
-        if(index<arr.length && arr[index] === number){
+    while (true) {
+        if (index < arr.length && arr[index] === number) {
             index++;
             number++;
             continue;
         }
         k--;
-        if(k === 0){
+        if (k === 0) {
             return number;
         }
         number++;

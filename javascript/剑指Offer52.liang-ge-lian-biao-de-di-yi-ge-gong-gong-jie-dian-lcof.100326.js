@@ -11,27 +11,27 @@
  * @param {ListNode} headB
  * @return {ListNode}
  */
-var getIntersectionNode = function(headA, headB) {
+var getIntersectionNode = function (headA, headB) {
     let depthA = getDepth(headA);
     let depthB = getDepth(headB);
-    while(depthA>depthB){
+    while (depthA > depthB) {
         headA = headA.next;
         depthA--;
     }
-    while(depthB>depthA){
+    while (depthB > depthA) {
         headB = headB.next;
         depthB--;
     }
-    while(headA !== headB){
+    while (headA !== headB) {
         headA = headA.next;
         headB = headB.next;
     }
     return headA;
 };
 
-function getDepth(head){
+function getDepth (head) {
     let count = 0;
-    while(head){
+    while (head) {
         head = head.next;
         count++;
     }

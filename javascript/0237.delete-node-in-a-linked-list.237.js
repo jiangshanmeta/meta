@@ -9,9 +9,9 @@
  * @param {ListNode} node
  * @return {void} Do not return anything, modify node in-place instead.
  */
-var deleteNode = function(node) {
+var deleteNode = function (node) {
     node.val = node.next.val;
-    let next = node.next;
+    const next = node.next;
     node.next = next.next;
     next.next = null;
 };

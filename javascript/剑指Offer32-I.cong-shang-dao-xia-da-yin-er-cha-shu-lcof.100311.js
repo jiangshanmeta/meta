@@ -9,14 +9,15 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var levelOrder = function(root) {
-    if(!root){
+var levelOrder = function (root) {
+    if (!root) {
         return [];
     }
-    const nodeList = [root];
+    const nodeList = [
+        root, ];
     const result = [];
     let index = 0;
-    while(index<nodeList.length){
+    while (index < nodeList.length) {
         const node = nodeList[index++];
         result.push(node.val);
         node.left && nodeList.push(node.left);

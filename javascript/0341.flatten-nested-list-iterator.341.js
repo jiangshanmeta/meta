@@ -29,33 +29,31 @@
  * @param {NestedInteger[]} nestedList
  */
 
-function dfs(nestedInteger,list){
-    if(nestedInteger.isInteger()){
+function dfs (nestedInteger, list) {
+    if (nestedInteger.isInteger()) {
         list.push(nestedInteger.getInteger());
-    }else{
+    } else {
         const nestedList = nestedInteger.getList();
-        for(let i=0;i<nestedList.length;i++){
-            dfs(nestedList[i],list);
+        for (let i = 0; i < nestedList.length; i++) {
+            dfs(nestedList[i], list);
         }
     }
 }
 
 // 偷个懒 先dfs把数据搞出来 其实应该用栈的
-var NestedIterator = function(nestedList) {
+var NestedIterator = function (nestedList) {
     this.list = [];
     this.index = 0;
-    for(let i=0;i<nestedList.length;i++){
-        dfs(nestedList[i],this.list);
+    for (let i = 0; i < nestedList.length; i++) {
+        dfs(nestedList[i], this.list);
     }
-    
 };
-
 
 /**
  * @this NestedIterator
  * @returns {boolean}
  */
-NestedIterator.prototype.hasNext = function() {
+NestedIterator.prototype.hasNext = function () {
     return this.index < this.list.length;
 };
 
@@ -63,7 +61,7 @@ NestedIterator.prototype.hasNext = function() {
  * @this NestedIterator
  * @returns {integer}
  */
-NestedIterator.prototype.next = function() {
+NestedIterator.prototype.next = function () {
     return this.list[this.index++];
 };
 

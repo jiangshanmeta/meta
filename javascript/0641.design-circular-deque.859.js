@@ -4,7 +4,7 @@
  */
 
 // 和622题类似，基于两个指针指向头尾
-var MyCircularDeque = function(k) {
+var MyCircularDeque = function (k) {
     this.arr = new Array(k);
     this.start = -1;
     this.end = -1;
@@ -13,49 +13,49 @@ var MyCircularDeque = function(k) {
 };
 
 /**
- * Adds an item at the front of Deque. Return true if the operation is successful. 
+ * Adds an item at the front of Deque. Return true if the operation is successful.
  * @param {number} value
  * @return {boolean}
  */
-MyCircularDeque.prototype.insertFront = function(value) {
-    if(this.isFull()){
+MyCircularDeque.prototype.insertFront = function (value) {
+    if (this.isFull()) {
         return false;
     }
     this.size++;
-    if(this.size === 1){
+    if (this.size === 1) {
         this.start = 0;
         this.end = 0;
         this.arr[0] = value;
         return true;
     }
-    
+
     this.start--;
-    if(this.start === -1){
-        this.start = this.max-1;
+    if (this.start === -1) {
+        this.start = this.max - 1;
     }
     this.arr[this.start] = value;
     return true;
 };
 
 /**
- * Adds an item at the rear of Deque. Return true if the operation is successful. 
+ * Adds an item at the rear of Deque. Return true if the operation is successful.
  * @param {number} value
  * @return {boolean}
  */
-MyCircularDeque.prototype.insertLast = function(value) {
-    if(this.isFull()){
+MyCircularDeque.prototype.insertLast = function (value) {
+    if (this.isFull()) {
         return false;
     }
     this.size++;
-    if(this.size === 1){
+    if (this.size === 1) {
         this.start = 0;
         this.end = 0;
         this.arr[0] = value;
         return true;
     }
-    
+
     this.end++;
-    if(this.end === this.max){
+    if (this.end === this.max) {
         this.end = 0;
     }
     this.arr[this.end] = value;
@@ -66,18 +66,18 @@ MyCircularDeque.prototype.insertLast = function(value) {
  * Deletes an item from the front of Deque. Return true if the operation is successful.
  * @return {boolean}
  */
-MyCircularDeque.prototype.deleteFront = function() {
-    if(this.isEmpty()){
+MyCircularDeque.prototype.deleteFront = function () {
+    if (this.isEmpty()) {
         return false;
     }
     this.size--;
-    if(this.size === 0){
+    if (this.size === 0) {
         this.start = -1;
         this.end = -1;
         return true;
     }
     this.start++;
-    if(this.start === this.max){
+    if (this.start === this.max) {
         this.start = 0;
     }
     return true;
@@ -87,19 +87,19 @@ MyCircularDeque.prototype.deleteFront = function() {
  * Deletes an item from the rear of Deque. Return true if the operation is successful.
  * @return {boolean}
  */
-MyCircularDeque.prototype.deleteLast = function() {
-    if(this.isEmpty()){
+MyCircularDeque.prototype.deleteLast = function () {
+    if (this.isEmpty()) {
         return false;
     }
     this.size--;
-    if(this.size === 0){
+    if (this.size === 0) {
         this.start = -1;
         this.end = -1;
         return true;
     }
     this.end--;
-    if(this.end === -1){
-        this.end = this.max-1;
+    if (this.end === -1) {
+        this.end = this.max - 1;
     }
     return true;
 };
@@ -108,8 +108,8 @@ MyCircularDeque.prototype.deleteLast = function() {
  * Get the front item from the deque.
  * @return {number}
  */
-MyCircularDeque.prototype.getFront = function() {
-    if(this.isEmpty()){
+MyCircularDeque.prototype.getFront = function () {
+    if (this.isEmpty()) {
         return -1;
     }
     return this.arr[this.start];
@@ -119,8 +119,8 @@ MyCircularDeque.prototype.getFront = function() {
  * Get the last item from the deque.
  * @return {number}
  */
-MyCircularDeque.prototype.getRear = function() {
-    if(this.isEmpty()){
+MyCircularDeque.prototype.getRear = function () {
+    if (this.isEmpty()) {
         return -1;
     }
     return this.arr[this.end];
@@ -130,7 +130,7 @@ MyCircularDeque.prototype.getRear = function() {
  * Checks whether the circular deque is empty or not.
  * @return {boolean}
  */
-MyCircularDeque.prototype.isEmpty = function() {
+MyCircularDeque.prototype.isEmpty = function () {
     return this.size === 0;
 };
 
@@ -138,6 +138,6 @@ MyCircularDeque.prototype.isEmpty = function() {
  * Checks whether the circular deque is full or not.
  * @return {boolean}
  */
-MyCircularDeque.prototype.isFull = function() {
+MyCircularDeque.prototype.isFull = function () {
     return this.size === this.max;
 };

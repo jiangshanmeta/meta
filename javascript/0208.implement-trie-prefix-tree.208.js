@@ -2,19 +2,19 @@
  * Initialize your data structure here.
  */
 // 实现前缀树，要啥说明啊
-var Trie = function() {
+var Trie = function () {
     this.trie = {};
 };
 
 /**
- * Inserts a word into the trie. 
+ * Inserts a word into the trie.
  * @param {string} word
  * @return {void}
  */
-Trie.prototype.insert = function(word) {
+Trie.prototype.insert = function (word) {
     let before = this.trie;
-    for(let i=0;i<word.length;i++){
-        if(before[word[i]] === undefined){
+    for (let i = 0; i < word.length; i++) {
+        if (before[word[i]] === undefined) {
             before[word[i]] = {};
         }
         before = before[word[i]];
@@ -23,14 +23,14 @@ Trie.prototype.insert = function(word) {
 };
 
 /**
- * Returns if the word is in the trie. 
+ * Returns if the word is in the trie.
  * @param {string} word
  * @return {boolean}
  */
-Trie.prototype.search = function(word) {
+Trie.prototype.search = function (word) {
     let before = this.trie;
-    for(let i=0;i<word.length;i++){
-        if(before[word[i]] === undefined){
+    for (let i = 0; i < word.length; i++) {
+        if (before[word[i]] === undefined) {
             return false;
         }
         before = before[word[i]];
@@ -39,14 +39,14 @@ Trie.prototype.search = function(word) {
 };
 
 /**
- * Returns if there is any word in the trie that starts with the given prefix. 
+ * Returns if there is any word in the trie that starts with the given prefix.
  * @param {string} prefix
  * @return {boolean}
  */
-Trie.prototype.startsWith = function(prefix) {
+Trie.prototype.startsWith = function (prefix) {
     let before = this.trie;
-    for(let i=0;i<prefix.length;i++){
-        if(before[prefix[i]] === undefined){
+    for (let i = 0; i < prefix.length; i++) {
+        if (before[prefix[i]] === undefined) {
             return false;
         }
         before = before[prefix[i]];
@@ -54,7 +54,7 @@ Trie.prototype.startsWith = function(prefix) {
     return true;
 };
 
-/** 
+/**
  * Your Trie object will be instantiated and called as such:
  * var obj = Object.create(Trie).createNew()
  * obj.insert(word)

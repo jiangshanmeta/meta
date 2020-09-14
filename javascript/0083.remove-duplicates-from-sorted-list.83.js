@@ -9,21 +9,21 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var deleteDuplicates = function(head) {
-    if(!head){
+var deleteDuplicates = function (head) {
+    if (!head) {
         return head;
     }
     let lastVal = head.val;
     let prev = head;
     let node = prev.next;
-    
-    while(node){
+
+    while (node) {
         // 重复的只保留第一个
-        if(node.val === lastVal){
+        if (node.val === lastVal) {
             prev.next = node.next;
             node.next = null;
             node = prev.next;
-        }else{
+        } else {
             // 不是重复的 更新 lastVal
             lastVal = node.val;
             prev = node;

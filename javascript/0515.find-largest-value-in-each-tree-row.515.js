@@ -13,25 +13,25 @@
 // 层序遍历的实现很容易想到
 // 下面给出的实现是基于dfs的 更准确一点是先序遍历
 
-var largestValues = function(root) {
+var largestValues = function (root) {
     const sequence = [];
-    function dfs(node,height,sequence){
-        if(!node){
+    function dfs (node, height, sequence) {
+        if (!node) {
             return;
         }
-        
-        if(height<sequence.length){
-            if(node.val>sequence[height]){
+
+        if (height < sequence.length) {
+            if (node.val > sequence[height]) {
                 sequence[height] = node.val;
             }
-        }else{
+        } else {
             sequence.push(node.val);
         }
-        
-        dfs(node.left,height+1,sequence);
-        dfs(node.right,height+1,sequence);
+
+        dfs(node.left, height + 1, sequence);
+        dfs(node.right, height + 1, sequence);
     }
-    
-    dfs(root,0,sequence);
+
+    dfs(root, 0, sequence);
     return sequence;
 };

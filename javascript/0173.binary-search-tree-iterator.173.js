@@ -10,20 +10,19 @@
  * @constructor
  * @param {TreeNode} root - root of the binary search tree
  */
-var BSTIterator = function(root) {
+var BSTIterator = function (root) {
     this._stack = [];
-    while(root){
+    while (root) {
         this._stack.push(root);
         root = root.left;
     }
 };
 
-
 /**
  * @this BSTIterator
  * @returns {boolean} - whether we have a next smallest number
  */
-BSTIterator.prototype.hasNext = function() {
+BSTIterator.prototype.hasNext = function () {
     return this._stack.length > 0;
 };
 
@@ -31,19 +30,18 @@ BSTIterator.prototype.hasNext = function() {
  * @this BSTIterator
  * @returns {number} - the next smallest number
  */
-BSTIterator.prototype.next = function() {
+BSTIterator.prototype.next = function () {
     const stack = this._stack;
-    let rst = stack[stack.length-1].val;
-    
+    const rst = stack[stack.length - 1].val;
+
     let node = stack.pop().right;
-    if(node){
-        while(node){
+    if (node) {
+        while (node) {
             stack.push(node);
             node = node.left;
         }
     }
 
-    
     return rst;
 };
 

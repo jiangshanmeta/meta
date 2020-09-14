@@ -10,13 +10,13 @@
  * @return {number[]}
  */
 // 先序遍历的一般形式
-function preOrder(node,array){
+function preOrder (node, array) {
     array.push(node.val);
-    node.children.forEach((node)=>preOrder(node,array))
+    node.children.forEach((node) => preOrder(node, array));
 }
 
-var preorder = function(root) {
+var preorder = function (root) {
     const result = [];
-    root !== null && preOrder(root,result);
+    root !== null && preOrder(root, result);
     return result;
 };

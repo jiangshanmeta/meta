@@ -8,18 +8,18 @@
 // m 取 1-n
 // 分成的子集有开始和结尾两个变量，所以是个二位矩阵
 // 只有右上这半块有值
-var getMoneyAmount = function(n) {
-    const dp = new Array(n+1);
+var getMoneyAmount = function (n) {
+    const dp = new Array(n + 1);
     // i 是结尾值 j是开始值
-    for(let i=1;i<n+1;i++){
-        dp[i] = new Array(n+1);
+    for (let i = 1; i < n + 1; i++) {
+        dp[i] = new Array(n + 1);
         dp[i][i] = 0;
-        
-        for(let j=i-1;j>0;j--){
+
+        for (let j = i - 1; j > 0; j--) {
             const list = [];
             // 对应上面的从1-n取m值
-            for(let k=j;k<=i;k++){
-                list.push(k+Math.max(k>j?dp[j][k-1]:0,k<i?dp[k+1][i]:0))
+            for (let k = j; k <= i; k++) {
+                list.push(k + Math.max(k > j ? dp[j][k - 1] : 0, k < i ? dp[k + 1][i] : 0));
             }
             dp[j][i] = Math.min(...list);
         }

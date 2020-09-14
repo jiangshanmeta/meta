@@ -11,17 +11,17 @@
  * @return {boolean}
  */
 // 第一题two sum总该会做吧 O(n)时间复杂度的没难度吧
-var findTarget = function(root, k) {
+var findTarget = function (root, k) {
     const set = new Set();
     let flag = false;
-    function inorder(node){
+    function inorder (node) {
         node.left && inorder(node.left);
-        
-        if(set.has(k-node.val)){
+
+        if (set.has(k - node.val)) {
             return flag = true;
         }
         set.add(node.val);
-        
+
         node.right && inorder(node.right);
     }
     inorder(root);

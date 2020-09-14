@@ -12,34 +12,34 @@
  * @return {TreeNode}
  */
 
-var getTargetCopy = function(original, cloned, target) {
+var getTargetCopy = function (original, cloned, target) {
     const path = [];
-    findPath(original,target,path);
-    for(let i=1;i<path.length;i++){
-        if(path[i] === path[i-1].left){
+    findPath(original, target, path);
+    for (let i = 1; i < path.length; i++) {
+        if (path[i] === path[i - 1].left) {
             cloned = cloned.left;
-        }else{
+        } else {
             cloned = cloned.right;
         }
     }
     return cloned;
 };
 
-function findPath(root,target,path){
-    if(!root){
+function findPath (root, target, path) {
+    if (!root) {
         return false;
     }
-    
+
     path.push(root);
-    if(root === target){
+    if (root === target) {
         return true;
     }
-    const lRst = findPath(root.left,target,path);
-    if(lRst){
+    const lRst = findPath(root.left, target, path);
+    if (lRst) {
         return true;
     }
-    const rRst = findPath(root.right,target,path);
-    if(rRst){
+    const rRst = findPath(root.right, target, path);
+    if (rRst) {
         return true;
     }
     path.pop();

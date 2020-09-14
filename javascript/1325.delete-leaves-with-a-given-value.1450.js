@@ -10,18 +10,18 @@
  * @param {number} target
  * @return {TreeNode}
  */
-var removeLeafNodes = function(root, target) {
+var removeLeafNodes = function (root, target) {
     // 后序遍历
-    if(!root){
+    if (!root) {
         return root;
     }
     // 先处理左右子树
-    root.left = removeLeafNodes(root.left,target);
-    root.right = removeLeafNodes(root.right,target);
+    root.left = removeLeafNodes(root.left, target);
+    root.right = removeLeafNodes(root.right, target);
     // 当前的是叶节点 且 值为 target 干掉这个节点
-    if(!root.left && !root.right && root.val === target){
+    if (!root.left && !root.right && root.val === target) {
         return null;
     }
-    
-    return root; 
+
+    return root;
 };

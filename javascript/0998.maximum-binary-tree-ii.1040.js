@@ -10,15 +10,15 @@
  * @param {number} val
  * @return {TreeNode}
  */
-var insertIntoMaxTree = function(root, val) {
-    if(!root){
+var insertIntoMaxTree = function (root, val) {
+    if (!root) {
         return new TreeNode(val);
     }
-    if(root.val<val){
+    if (root.val < val) {
         const node = new TreeNode(val);
         node.left = root;
         return node;
     }
-    root.right = insertIntoMaxTree(root.right,val);
+    root.right = insertIntoMaxTree(root.right, val);
     return root;
 };

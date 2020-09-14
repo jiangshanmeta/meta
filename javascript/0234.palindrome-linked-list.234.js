@@ -11,18 +11,18 @@
  */
 // 基本做法,遍历一遍,扔数组里,然后双指针判断是否是回文
 // 时间复杂度O(n) 空间复杂度O(n)
-var isPalindrome = function(head) {
+var isPalindrome = function (head) {
     const values = [];
-    while(head){
+    while (head) {
         values.push(head.val);
         head = head.next;
     }
-    
+
     let index1 = 0;
-    let index2 = values.length-1;
-    
-    while(index1<index2){
-        if(values[index1] !== values[index2]){
+    let index2 = values.length - 1;
+
+    while (index1 < index2) {
+        if (values[index1] !== values[index2]) {
             return false;
         }
         index1++;
@@ -30,8 +30,6 @@ var isPalindrome = function(head) {
     }
     return true;
 };
-
-
 
 /**
  * Definition for singly-linked list.
@@ -49,21 +47,21 @@ var isPalindrome = function(head) {
 // 所以prev.next置为null正好分割两个链表
 // 然后后半段链表翻转 最后逐个比对即可
 // 时间复杂度O(n) 空间复杂度O(1)
-var isPalindrome = function(head) {
-    if(head === null || head.next === null){
+var isPalindrome = function (head) {
+    if (head === null || head.next === null) {
         return true;
     }
     let fast = head;
     let slow = head;
     let prev;
-    while(fast && fast.next){
+    while (fast && fast.next) {
         prev = slow;
         slow = slow.next;
         fast = fast.next.next;
     }
     prev.next = null;
     const dummyHead = new ListNode();
-    while(slow){
+    while (slow) {
         const tmp = slow.next;
         slow.next = dummyHead.next;
         dummyHead.next = slow;
@@ -71,13 +69,13 @@ var isPalindrome = function(head) {
     }
     let head2 = dummyHead.next;
 
-    while(head && head2){
-        if(head.val !== head2.val){
+    while (head && head2) {
+        if (head.val !== head2.val) {
             return false;
         }
         head = head.next;
         head2 = head2.next;
     }
-    
+
     return true;
 };

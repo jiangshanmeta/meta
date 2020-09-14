@@ -2,15 +2,15 @@
  * @param {string} S
  * @return {string}
  */
-var removeDuplicates = function(S) {
+var removeDuplicates = function (S) {
     const stack = [];
-    for(let i=0;i<S.length;i++){
+    for (let i = 0; i < S.length; i++) {
         // 当前元素和栈顶元素相同 出栈 否则 入栈
-        if(stack.length && stack[stack.length-1] === S[i]){
+        if (stack.length && stack[stack.length - 1] === S[i]) {
             stack.pop();
-        }else{
+        } else {
             stack.push(S[i]);
         }
     }
-    return stack.join("");
+    return stack.join('');
 };

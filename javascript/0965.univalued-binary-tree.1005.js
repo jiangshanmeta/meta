@@ -10,13 +10,13 @@
  * @return {boolean}
  */
 // DFS
-function isNodeHasValue(node,value){
-    if(node === null){
+function isNodeHasValue (node, value) {
+    if (node === null) {
         return true;
     }
-    return node.val === value && isNodeHasValue(node.left,value) && isNodeHasValue(node.right,value);
+    return node.val === value && isNodeHasValue(node.left, value) && isNodeHasValue(node.right, value);
 }
 
-var isUnivalTree = function(root) {
-    return isNodeHasValue(root.left,root.val) && isNodeHasValue(root.right,root.val);
+var isUnivalTree = function (root) {
+    return isNodeHasValue(root.left, root.val) && isNodeHasValue(root.right, root.val);
 };

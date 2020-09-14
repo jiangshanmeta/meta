@@ -2,19 +2,19 @@
  * @param {number[]} arr
  * @return {number}
  */
-var findSpecialInteger = function(arr) {
+var findSpecialInteger = function (arr) {
     // 其实可以用二分 偷懒了
-    let oneFourth = arr.length/4;
+    const oneFourth = arr.length / 4;
     let element;
     let count = 0;
-    for(let i=0;i<arr.length;i++){
-        if(arr[i] === element){
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] === element) {
             count++;
-        }else{
+        } else {
             count = 1;
             element = arr[i];
         }
-        if(count>oneFourth){
+        if (count > oneFourth) {
             return element;
         }
     }

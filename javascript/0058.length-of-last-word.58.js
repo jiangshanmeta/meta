@@ -2,15 +2,15 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLastWord = function(s) {
-    const arr = s.split(" ");
+var lengthOfLastWord = function (s) {
+    const arr = s.split(' ');
     let index = arr.length;
-    while(index--){
+    while (index--) {
         const item = arr[index];
-        if(item){
+        if (item) {
             return item.length;
         }
     }
-    
+
     return 0;
 };
