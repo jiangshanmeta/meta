@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const https = require('https');
 // level 1=>Easy 2=>Medium   3=>Hard
 
@@ -107,7 +108,7 @@ function writeLocalQuestion (json) {
 
     const fmtData = JSON.stringify(sortedList, null, 4);
 
-    fs.writeFile('../metaData/question.json', fmtData, 'utf8', (err) => {
+    fs.writeFile(path.join(__dirname, '../metaData/question.json'), fmtData, 'utf8', (err) => {
         if (err) {
             throw err;
         }

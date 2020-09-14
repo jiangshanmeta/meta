@@ -3098,7 +3098,7 @@
         "index": "0443",
         "title": "String Compression",
         "title_slug": "string-compression",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 444,
@@ -5877,7 +5877,7 @@
         "index": "0840",
         "title": "Magic Squares In Grid",
         "title_slug": "magic-squares-in-grid",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 871,
@@ -5940,7 +5940,7 @@
         "index": "0849",
         "title": "Maximize Distance to Closest Person",
         "title_slug": "maximize-distance-to-closest-person",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 880,
@@ -6640,7 +6640,7 @@
         "index": "0949",
         "title": "Largest Time for Given Digits",
         "title_slug": "largest-time-for-given-digits",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 987,
@@ -11053,6 +11053,48 @@
         "difficulty": 3
     },
     {
+        "id": 1719,
+        "index": "1580",
+        "title": "Put Boxes Into the Warehouse II",
+        "title_slug": "put-boxes-into-the-warehouse-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 1724,
+        "index": "1581",
+        "title": "Customer Who Visited but Did Not Make Any Transactions",
+        "title_slug": "customer-who-visited-but-did-not-make-any-transactions",
+        "difficulty": 1
+    },
+    {
+        "id": 1704,
+        "index": "1582",
+        "title": "Special Positions in a Binary Matrix",
+        "title_slug": "special-positions-in-a-binary-matrix",
+        "difficulty": 1
+    },
+    {
+        "id": 1705,
+        "index": "1583",
+        "title": "Count Unhappy Friends",
+        "title_slug": "count-unhappy-friends",
+        "difficulty": 2
+    },
+    {
+        "id": 1706,
+        "index": "1584",
+        "title": "Min Cost to Connect All Points",
+        "title_slug": "min-cost-to-connect-all-points",
+        "difficulty": 2
+    },
+    {
+        "id": 1707,
+        "index": "1585",
+        "title": "Check If String Is Transformable With Substring Sort Operations",
+        "title_slug": "check-if-string-is-transformable-with-substring-sort-operations",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -11162,6 +11204,41 @@
         "index": "LCP16",
         "title": "游乐园的游览计划",
         "title_slug": "you-le-yuan-de-you-lan-ji-hua",
+        "difficulty": 3
+    },
+    {
+        "id": 1000139,
+        "index": "LCP17",
+        "title": "速算机器人",
+        "title_slug": "nGK0Fy",
+        "difficulty": 1
+    },
+    {
+        "id": 1000146,
+        "index": "LCP18",
+        "title": "早餐组合",
+        "title_slug": "2vYnGI",
+        "difficulty": 1
+    },
+    {
+        "id": 1000130,
+        "index": "LCP19",
+        "title": "秋叶收藏集",
+        "title_slug": "UlBDOe",
+        "difficulty": 2
+    },
+    {
+        "id": 1000133,
+        "index": "LCP20",
+        "title": "快速公交",
+        "title_slug": "meChtZ",
+        "difficulty": 3
+    },
+    {
+        "id": 1000134,
+        "index": "LCP21",
+        "title": "追逐游戏",
+        "title_slug": "Za25hA",
         "difficulty": 3
     },
     {
@@ -11666,7 +11743,7 @@
         "index": "剑指Offer66",
         "title": "构建乘积数组 LCOF",
         "title_slug": "gou-jian-cheng-ji-shu-zu-lcof",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 100340,

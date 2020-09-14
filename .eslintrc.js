@@ -22,6 +22,7 @@ module.exports = {
             },
         ],
         'no-redeclare': 'off',
+        'no-unmodified-loop-condition': 'off',
         'array-bracket-spacing': 'off',
         'array-bracket-newline': 'off',
         'object-curly-newline': 'off',

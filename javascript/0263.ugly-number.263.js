@@ -19,7 +19,7 @@ var isUgly = function (num) {
         num /= 5;
     }
 
-    if (num == 1) {
+    if (num === 1) {
         return true;
     }
     return false;

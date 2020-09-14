@@ -1,3 +1,4 @@
+// @deprecated
 const questions = require('../metaData/question.json');
 const fs = require('fs');
 const lcofQuestions = questions.filter(item => item.title_slug.endsWith('lcof'));

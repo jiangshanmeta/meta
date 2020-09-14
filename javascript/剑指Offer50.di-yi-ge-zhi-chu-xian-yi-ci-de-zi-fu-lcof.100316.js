@@ -10,7 +10,7 @@ var firstUniqChar = function (s) {
     }
 
     for (const c of s) {
-        if (arr[c.charCodeAt() - 97] == 1) {
+        if (arr[c.charCodeAt() - 97] === 1) {
             return c;
         }
     }

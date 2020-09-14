@@ -1,10 +1,11 @@
 const fs = require('fs');
+const path = require('path');
 const languages = require('./config').languages;
 
 const syncQuestions = {};
 
 for (let i = 0; i < languages.length; i++) {
-    const fileList = fs.readdirSync(languages[i].dir);
+    const fileList = fs.readdirSync(path.join(__dirname, languages[i].dir));
 
     fileList.forEach((fileName) => {
         const id = fileName.split('.')[2];
@@ -51,7 +52,7 @@ getQuestions().then(({ stat_status_pairs, }) => {
         return false;
     }).map(item => item.stat.question__title_slug);
     if (unsyncQuestions.length) {
-        fs.writeFile('./TODO.json', JSON.stringify(unsyncQuestions, null, 4), 'utf8', (err) => {
+        fs.writeFile(path.join(__dirname, './TODO.json'), JSON.stringify(unsyncQuestions, null, 4), 'utf8', (err) => {
             if (err) {
                 throw err;
             }

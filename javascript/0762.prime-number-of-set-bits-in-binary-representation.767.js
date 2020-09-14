@@ -29,7 +29,7 @@ const prime = {
 };
 
 var countPrimeSetBits = function (L, R) {
-    const arr = new Array();
+    const arr = [];
     let count = 0;
     for (let i = L; i < R + 1; i++) {
         let oneCount = 0;

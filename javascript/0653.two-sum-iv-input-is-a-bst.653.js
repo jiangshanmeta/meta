@@ -18,7 +18,8 @@ var findTarget = function (root, k) {
         node.left && inorder(node.left);
 
         if (set.has(k - node.val)) {
-            return flag = true;
+            flag = true;
+            return;
         }
         set.add(node.val);
 

@@ -1,3 +1,4 @@
+// @deprecated
 const fs = require('fs');
 const questions = require('../metaData/question.json');
 const languages = require('./config').languages;
