@@ -1012,7 +1012,7 @@
         "index": "0145",
         "title": "Binary Tree Postorder Traversal",
         "title_slug": "binary-tree-postorder-traversal",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 146,
@@ -3642,7 +3642,7 @@
     {
         "id": 521,
         "index": "0521",
-        "title": "Longest Uncommon Subsequence I ",
+        "title": "Longest Uncommon Subsequence I",
         "title_slug": "longest-uncommon-subsequence-i",
         "difficulty": 1
     },
@@ -4799,7 +4799,7 @@
         "index": "0686",
         "title": "Repeated String Match",
         "title_slug": "repeated-string-match",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 687,
@@ -7200,7 +7200,7 @@
         "index": "1029",
         "title": "Two City Scheduling",
         "title_slug": "two-city-scheduling",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1094,
@@ -10868,6 +10868,188 @@
         "index": "1553",
         "title": "Minimum Number of Days to Eat N Oranges",
         "title_slug": "minimum-number-of-days-to-eat-n-oranges",
+        "difficulty": 3
+    },
+    {
+        "id": 1697,
+        "index": "1554",
+        "title": "Strings Differ by One Character",
+        "title_slug": "strings-differ-by-one-character",
+        "difficulty": 2
+    },
+    {
+        "id": 1702,
+        "index": "1555",
+        "title": "Bank Account Summary",
+        "title_slug": "bank-account-summary",
+        "difficulty": 2
+    },
+    {
+        "id": 1660,
+        "index": "1556",
+        "title": "Thousand Separator",
+        "title_slug": "thousand-separator",
+        "difficulty": 1
+    },
+    {
+        "id": 1661,
+        "index": "1557",
+        "title": "Minimum Number of Vertices to Reach All Nodes",
+        "title_slug": "minimum-number-of-vertices-to-reach-all-nodes",
+        "difficulty": 2
+    },
+    {
+        "id": 1662,
+        "index": "1558",
+        "title": "Minimum Numbers of Function Calls to Make Target Array",
+        "title_slug": "minimum-numbers-of-function-calls-to-make-target-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1663,
+        "index": "1559",
+        "title": "Detect Cycles in 2D Grid",
+        "title_slug": "detect-cycles-in-2d-grid",
+        "difficulty": 3
+    },
+    {
+        "id": 1682,
+        "index": "1560",
+        "title": "Most Visited Sector in  a Circular Track",
+        "title_slug": "most-visited-sector-in-a-circular-track",
+        "difficulty": 1
+    },
+    {
+        "id": 1683,
+        "index": "1561",
+        "title": "Maximum Number of Coins You Can Get",
+        "title_slug": "maximum-number-of-coins-you-can-get",
+        "difficulty": 2
+    },
+    {
+        "id": 1684,
+        "index": "1562",
+        "title": "Find Latest Group of Size M",
+        "title_slug": "find-latest-group-of-size-m",
+        "difficulty": 2
+    },
+    {
+        "id": 1685,
+        "index": "1563",
+        "title": "Stone Game V",
+        "title_slug": "stone-game-v",
+        "difficulty": 3
+    },
+    {
+        "id": 1703,
+        "index": "1564",
+        "title": "Put Boxes Into the Warehouse I",
+        "title_slug": "put-boxes-into-the-warehouse-i",
+        "difficulty": 2
+    },
+    {
+        "id": 1712,
+        "index": "1565",
+        "title": "Unique Orders and Customers Per Month",
+        "title_slug": "unique-orders-and-customers-per-month",
+        "difficulty": 1
+    },
+    {
+        "id": 1689,
+        "index": "1566",
+        "title": "Detect Pattern of Length M Repeated K or More Times",
+        "title_slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+        "difficulty": 1
+    },
+    {
+        "id": 1690,
+        "index": "1567",
+        "title": "Maximum Length of Subarray With Positive Product",
+        "title_slug": "maximum-length-of-subarray-with-positive-product",
+        "difficulty": 2
+    },
+    {
+        "id": 1691,
+        "index": "1568",
+        "title": "Minimum Number of Days to Disconnect Island",
+        "title_slug": "minimum-number-of-days-to-disconnect-island",
+        "difficulty": 3
+    },
+    {
+        "id": 1692,
+        "index": "1569",
+        "title": "Number of Ways to Reorder Array to Get Same BST",
+        "title_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+        "difficulty": 3
+    },
+    {
+        "id": 1713,
+        "index": "1570",
+        "title": "Dot Product of Two Sparse Vectors",
+        "title_slug": "dot-product-of-two-sparse-vectors",
+        "difficulty": 2
+    },
+    {
+        "id": 1718,
+        "index": "1571",
+        "title": "Warehouse Manager",
+        "title_slug": "warehouse-manager",
+        "difficulty": 1
+    },
+    {
+        "id": 1677,
+        "index": "1572",
+        "title": "Matrix Diagonal Sum",
+        "title_slug": "matrix-diagonal-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 1678,
+        "index": "1573",
+        "title": "Number of Ways to Split a String",
+        "title_slug": "number-of-ways-to-split-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1679,
+        "index": "1574",
+        "title": "Shortest Subarray to be Removed to Make Array Sorted",
+        "title_slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+        "difficulty": 2
+    },
+    {
+        "id": 1680,
+        "index": "1575",
+        "title": "Count All Possible Routes",
+        "title_slug": "count-all-possible-routes",
+        "difficulty": 3
+    },
+    {
+        "id": 1698,
+        "index": "1576",
+        "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+        "title_slug": "replace-all-s-to-avoid-consecutive-repeating-characters",
+        "difficulty": 1
+    },
+    {
+        "id": 1699,
+        "index": "1577",
+        "title": "Number of Ways Where Square of Number Is Equal to Product of Two Numbers",
+        "title_slug": "number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 1700,
+        "index": "1578",
+        "title": "Minimum Deletion Cost to Avoid Repeating Letters",
+        "title_slug": "minimum-deletion-cost-to-avoid-repeating-letters",
+        "difficulty": 2
+    },
+    {
+        "id": 1701,
+        "index": "1579",
+        "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+        "title_slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
         "difficulty": 3
     },
     {

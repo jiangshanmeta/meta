@@ -162,7 +162,7 @@
 | 0142 | Linked List Cycle II | [JavaScript](./javascript/0142.linked-list-cycle-ii.142.js) | Medium |
 | 0143 | Reorder List | [JavaScript](./javascript/0143.reorder-list.143.js) | Medium |
 | 0144 | Binary Tree Preorder Traversal | [JavaScript](./javascript/0144.binary-tree-preorder-traversal.144.js) | Medium |
-| 0145 | Binary Tree Postorder Traversal | [JavaScript](./javascript/0145.binary-tree-postorder-traversal.145.js) | Hard |
+| 0145 | Binary Tree Postorder Traversal | [JavaScript](./javascript/0145.binary-tree-postorder-traversal.145.js) | Medium |
 | 0146 | LRU Cache | [JavaScript](./javascript/0146.lru-cache.146.js) | Medium |
 | 0147 | Insertion Sort List | [JavaScript](./javascript/0147.insertion-sort-list.147.js) | Medium |
 | 0148 | Sort List | [JavaScript](./javascript/0148.sort-list.148.js) | Medium |
@@ -538,7 +538,7 @@
 | 0518 | Coin Change 2 | [JavaScript](./javascript/0518.coin-change-2.518.js) | Medium |
 | 0519 | Random Flip Matrix | [JavaScript](./javascript/0519.random-flip-matrix.913.js) | Medium |
 | 0520 | Detect Capital | [JavaScript](./javascript/0520.detect-capital.520.js) | Easy |
-| 0521 | Longest Uncommon Subsequence I  | [JavaScript](./javascript/0521.longest-uncommon-subsequence-i.521.js) | Easy |
+| 0521 | Longest Uncommon Subsequence I | [JavaScript](./javascript/0521.longest-uncommon-subsequence-i.521.js) | Easy |
 | 0522 | Longest Uncommon Subsequence II | [JavaScript](./javascript/0522.longest-uncommon-subsequence-ii.522.js) | Medium |
 | 0523 | Continuous Subarray Sum | [JavaScript](./javascript/0523.continuous-subarray-sum.523.js) | Medium |
 | 0524 | Longest Word in Dictionary through Deleting | [JavaScript](./javascript/0524.longest-word-in-dictionary-through-deleting.524.js) | Medium |
@@ -703,7 +703,7 @@
 | 0683 | K Empty Slots |  | Hard |
 | 0684 | Redundant Connection | [JavaScript](./javascript/0684.redundant-connection.684.js) | Medium |
 | 0685 | Redundant Connection II |  | Hard |
-| 0686 | Repeated String Match | [JavaScript](./javascript/0686.repeated-string-match.686.js) | Easy |
+| 0686 | Repeated String Match | [JavaScript](./javascript/0686.repeated-string-match.686.js) | Medium |
 | 0687 | Longest Univalue Path | [JavaScript](./javascript/0687.longest-univalue-path.687.js) | Easy |
 | 0688 | Knight Probability in Chessboard |  | Medium |
 | 0689 | Maximum Sum of 3 Non-Overlapping Subarrays |  | Hard |
@@ -1046,7 +1046,7 @@
 | 1026 | Maximum Difference Between Node and Ancestor | [JavaScript](./javascript/1026.maximum-difference-between-node-and-ancestor.1092.js) | Medium |
 | 1027 | Longest Arithmetic Subsequence | [JavaScript](./javascript/1027.longest-arithmetic-sequence.1087.js) | Medium |
 | 1028 | Recover a Tree From Preorder Traversal | [JavaScript](./javascript/1028.recover-a-tree-from-preorder-traversal.1093.js) | Hard |
-| 1029 | Two City Scheduling | [JavaScript](./javascript/1029.two-city-scheduling.1095.js) | Easy |
+| 1029 | Two City Scheduling | [JavaScript](./javascript/1029.two-city-scheduling.1095.js) | Medium |
 | 1030 | Matrix Cells in Distance Order | [JavaScript](./javascript/1030.matrix-cells-in-distance-order.1094.js) | Easy |
 | 1031 | Maximum Sum of Two Non-Overlapping Subarrays | [JavaScript](./javascript/1031.maximum-sum-of-two-non-overlapping-subarrays.1096.js) | Medium |
 | 1032 | Stream of Characters | [JavaScript](./javascript/1032.stream-of-characters.1097.js) | Hard |
@@ -1571,6 +1571,32 @@
 | 1551 | Minimum Operations to Make Array Equal | [JavaScript](./javascript/1551.minimum-operations-to-make-array-equal.1674.js) | Medium |
 | 1552 | Magnetic Force Between Two Balls |  | Medium |
 | 1553 | Minimum Number of Days to Eat N Oranges | [JavaScript](./javascript/1553.minimum-number-of-days-to-eat-n-oranges.1676.js) | Hard |
+| 1554 | Strings Differ by One Character |  | Medium |
+| 1555 | Bank Account Summary |  | Medium |
+| 1556 | Thousand Separator | [JavaScript](./javascript/1556.thousand-separator.1660.js) | Easy |
+| 1557 | Minimum Number of Vertices to Reach All Nodes | [JavaScript](./javascript/1557.minimum-number-of-vertices-to-reach-all-nodes.1661.js) | Medium |
+| 1558 | Minimum Numbers of Function Calls to Make Target Array |  | Medium |
+| 1559 | Detect Cycles in 2D Grid |  | Hard |
+| 1560 | Most Visited Sector in  a Circular Track | [JavaScript](./javascript/1560.most-visited-sector-in-a-circular-track.1682.js) | Easy |
+| 1561 | Maximum Number of Coins You Can Get | [JavaScript](./javascript/1561.maximum-number-of-coins-you-can-get.1683.js) | Medium |
+| 1562 | Find Latest Group of Size M |  | Medium |
+| 1563 | Stone Game V |  | Hard |
+| 1564 | Put Boxes Into the Warehouse I |  | Medium |
+| 1565 | Unique Orders and Customers Per Month |  | Easy |
+| 1566 | Detect Pattern of Length M Repeated K or More Times |  | Easy |
+| 1567 | Maximum Length of Subarray With Positive Product |  | Medium |
+| 1568 | Minimum Number of Days to Disconnect Island |  | Hard |
+| 1569 | Number of Ways to Reorder Array to Get Same BST |  | Hard |
+| 1570 | Dot Product of Two Sparse Vectors |  | Medium |
+| 1571 | Warehouse Manager |  | Easy |
+| 1572 | Matrix Diagonal Sum | [JavaScript](./javascript/1572.matrix-diagonal-sum.1677.js) | Easy |
+| 1573 | Number of Ways to Split a String |  | Medium |
+| 1574 | Shortest Subarray to be Removed to Make Array Sorted |  | Medium |
+| 1575 | Count All Possible Routes |  | Hard |
+| 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./javascript/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698.js) | Easy |
+| 1577 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | [JavaScript](./javascript/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699.js) | Medium |
+| 1578 | Minimum Deletion Cost to Avoid Repeating Letters | [JavaScript](./javascript/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700.js) | Medium |
+| 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable |  | Hard |
 | LCP01 | Guess Numbers | [JavaScript](./javascript/LCP01.guess-numbers.100107.js) | Easy |
 | LCP02 | Deep Dark Fraction |  | Easy |
 | LCP03 | Programmable Robot |  | Medium |
