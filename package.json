@@ -1,7 +1,7 @@
 {
-  "name": "leetcode-javascript",
+  "name": "leetcode",
   "version": "1.0.0",
-  "description": "",
+  "description": "leetcode",
   "scripts": {
     "lint": "eslint javascript/ .eslintrc.js scripts/ --fix",
     "generate": "node scripts/generate.js",
@@ -9,7 +9,7 @@
     "sync": "node scripts/sync.js",
     "append":"node scripts/append.js"
   },
-  "author": "",
+  "author": "jiangshanmeta",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.9.0",
