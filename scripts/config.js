@@ -14,6 +14,11 @@ exports.languages = [
         dir: '../sql',
         ext: 'sql',
     },
+    {
+        label: 'TypeScript',
+        dir: '../typescript',
+        ext: 'ts',
+    },
 ];
 
 exports.difficultyMap = {
