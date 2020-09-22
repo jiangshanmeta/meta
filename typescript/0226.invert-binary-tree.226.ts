@@ -16,7 +16,7 @@ function invertTree(root: TreeNode | null): TreeNode | null {
     const tmp:TreeNode|null = root.left;
     root.left = root.right;
     root.right = tmp;
-    invertTree(root.left);
-    invertTree(root.right);
+    root.left !== null && invertTree(root.left);
+    root.right !== null && invertTree(root.right);
     return root;
 };
