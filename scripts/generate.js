@@ -1,60 +1,48 @@
 const fs = require('fs');
 const path = require('path');
+
 const {
-    languages,
     difficultyMap,
+    languages,
 } = require('./config');
 
-const questions = require('../metaData/question.json');
+const extLabelMap = languages.reduce((obj, { label, ext, }) => {
+    obj[ext] = label;
+    return obj;
+}, {});
 
-const readdir = Promise.all(languages.map(({ dir, label, }) => {
-    const urlDir = dir.substring(dir.indexOf('/'));
-    return new Promise((resolve) => {
-        fs.readdir(path.join(__dirname, dir), (err, fileList) => {
-            if (err) {
-                console.log(err);
-                return;
-            }
+const questions = require('./question.json');
 
-            const list = fileList.map((name) => {
-                const id = +name.split('.')[2];
-                return {
-                    id,
-                    label,
-                    name,
-                    dir: urlDir,
-                };
-            });
-            resolve(list);
-        });
-    });
-}));
+const fileList = fs.readdirSync(path.join(__dirname, '../src'));
 
-readdir.then((answerDir) => {
-    const groupById = {};
-    for (let i = 0; i < languages.length; i++) {
-        const answers = answerDir[i];
-        for (let j = 0; j < answers.length; j++) {
-            const id = answers[j].id;
-            (groupById[id] || (groupById[id] = [])).push(answers[j]);
-        }
-    }
+const answersMap = fileList.reduce((obj, dirName) => {
+    const answers = fs.readdirSync(path.join(__dirname, '../src', dirName));
+    obj[dirName.split('.')[0]] = answers;
+    return obj;
+}, {});
 
-    const mergedQuestions = questions.map((question) => {
-        const id = question.id;
-        const index = question.index;
+const mergedQuestions = questions.map(({
+    index,
+    title,
+    difficulty,
+}) => {
+    const answers = (answersMap[index] || []).filter((answerFileName) => {
+        // 未来考虑添加md做题解
+        const ext = answerFileName.split('.').pop();
+        return extLabelMap[ext];
+    }).map((answerFileName) => {
+        const name = answerFileName.split('.');
+        const ext = name.pop();
+        const label = extLabelMap[ext];
+        return `[${label}](./src/${name.join('.')}/${answerFileName})`;
+    }).join(' ');
 
-        const answers = (groupById[id] || []).map((answer) => {
-            return `[${answer.label}](.${answer.dir}/${answer.name})`;
-        }).join(' ');
+    return `| ${index} | ${title} | ${answers} | ${difficultyMap[difficulty]}  |`;
+}).join('\n');
 
-        return `| ${index} | ${question.title} | ${answers} | ${difficultyMap[question.difficulty]} |`;
-    }).join('\n');
+const prefix = fs.readFileSync(path.join(__dirname, './_prefix.md'), 'utf8');
 
-    const prefix = fs.readFileSync(path.join(__dirname, './_prefix.md'), 'utf8');
-
-    fs.writeFile(path.resolve(__dirname, '../README.md'), prefix + mergedQuestions + '\n', 'utf8', (err) => {
-        if (err) throw err;
-        console.log('文件已被保存');
-    });
+fs.writeFile(path.join(__dirname, '../README.md'), prefix + mergedQuestions + '\n', 'utf8', (err) => {
+    if (err) throw err;
+    console.log('文件已被保存');
 });

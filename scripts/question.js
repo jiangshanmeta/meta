@@ -108,7 +108,7 @@ function writeLocalQuestion (json) {
 
     const fmtData = JSON.stringify(sortedList, null, 4);
 
-    fs.writeFile(path.join(__dirname, '../metaData/question.json'), fmtData, 'utf8', (err) => {
+    fs.writeFile(path.join(__dirname, './question.json'), fmtData, 'utf8', (err) => {
         if (err) {
             throw err;
         }
