@@ -417,7 +417,7 @@
         "index": "0060",
         "title": "Permutation Sequence",
         "title_slug": "permutation-sequence",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 61,
@@ -1320,7 +1320,7 @@
         "index": "0189",
         "title": "Rotate Array",
         "title_slug": "rotate-array",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 190,
@@ -1593,7 +1593,7 @@
         "index": "0228",
         "title": "Summary Ranges",
         "title_slug": "summary-ranges",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 229,
@@ -1789,7 +1789,7 @@
         "index": "0256",
         "title": "Paint House",
         "title_slug": "paint-house",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 257,
@@ -2090,7 +2090,7 @@
         "index": "0299",
         "title": "Bulls and Cows",
         "title_slug": "bulls-and-cows",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 300,
@@ -2209,7 +2209,7 @@
         "index": "0316",
         "title": "Remove Duplicate Letters",
         "title_slug": "remove-duplicate-letters",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 317,
@@ -3126,7 +3126,7 @@
         "index": "0447",
         "title": "Number of Boomerangs",
         "title_slug": "number-of-boomerangs",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 448,
@@ -3322,7 +3322,7 @@
         "index": "0475",
         "title": "Heaters",
         "title_slug": "heaters",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 476,
@@ -3721,7 +3721,7 @@
         "index": "0532",
         "title": "K-diff Pairs in an Array",
         "title_slug": "k-diff-pairs-in-an-array",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 533,
@@ -3763,7 +3763,7 @@
         "index": "0538",
         "title": "Convert BST to Greater Tree",
         "title_slug": "convert-bst-to-greater-tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 539,
@@ -4064,7 +4064,7 @@
         "index": "0581",
         "title": "Shortest Unsorted Continuous Subarray",
         "title_slug": "shortest-unsorted-continuous-subarray",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 582,
@@ -4365,7 +4365,7 @@
         "index": "0624",
         "title": "Maximum Distance in Arrays",
         "title_slug": "maximum-distance-in-arrays",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 625,
@@ -4428,7 +4428,7 @@
         "index": "0633",
         "title": "Sum of Square Numbers",
         "title_slug": "sum-of-square-numbers",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 634,
@@ -4806,7 +4806,7 @@
         "index": "0687",
         "title": "Longest Univalue Path",
         "title_slug": "longest-univalue-path",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 688,
@@ -10637,7 +10637,7 @@
         "index": "1520",
         "title": "Maximum Number of Non-Overlapping Substrings",
         "title_slug": "maximum-number-of-non-overlapping-substrings",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 1645,
@@ -11095,6 +11095,412 @@
         "difficulty": 3
     },
     {
+        "id": 1729,
+        "index": "1586",
+        "title": "Binary Search Tree Iterator II",
+        "title_slug": "binary-search-tree-iterator-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 1734,
+        "index": "1587",
+        "title": "Bank Account Summary II",
+        "title_slug": "bank-account-summary-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 1693,
+        "index": "1588",
+        "title": "Sum of All Odd Length Subarrays",
+        "title_slug": "sum-of-all-odd-length-subarrays",
+        "difficulty": 1
+    },
+    {
+        "id": 1695,
+        "index": "1589",
+        "title": "Maximum Sum Obtained of Any Permutation",
+        "title_slug": "maximum-sum-obtained-of-any-permutation",
+        "difficulty": 2
+    },
+    {
+        "id": 1694,
+        "index": "1590",
+        "title": "Make Sum Divisible by P",
+        "title_slug": "make-sum-divisible-by-p",
+        "difficulty": 2
+    },
+    {
+        "id": 1696,
+        "index": "1591",
+        "title": "Strange Printer II",
+        "title_slug": "strange-printer-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1714,
+        "index": "1592",
+        "title": "Rearrange Spaces Between Words",
+        "title_slug": "rearrange-spaces-between-words",
+        "difficulty": 1
+    },
+    {
+        "id": 1715,
+        "index": "1593",
+        "title": "Split a String Into the Max Number of Unique Substrings",
+        "title_slug": "split-a-string-into-the-max-number-of-unique-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1716,
+        "index": "1594",
+        "title": "Maximum Non Negative Product in a Matrix",
+        "title_slug": "maximum-non-negative-product-in-a-matrix",
+        "difficulty": 2
+    },
+    {
+        "id": 1717,
+        "index": "1595",
+        "title": "Minimum Cost to Connect Two Groups of Points",
+        "title_slug": "minimum-cost-to-connect-two-groups-of-points",
+        "difficulty": 3
+    },
+    {
+        "id": 1735,
+        "index": "1596",
+        "title": "The Most Frequently Ordered Products for Each Customer",
+        "title_slug": "the-most-frequently-ordered-products-for-each-customer",
+        "difficulty": 2
+    },
+    {
+        "id": 1736,
+        "index": "1597",
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "title_slug": "build-binary-expression-tree-from-infix-expression",
+        "difficulty": 3
+    },
+    {
+        "id": 1720,
+        "index": "1598",
+        "title": "Crawler Log Folder",
+        "title_slug": "crawler-log-folder",
+        "difficulty": 1
+    },
+    {
+        "id": 1721,
+        "index": "1599",
+        "title": "Maximum Profit of Operating a Centennial Wheel",
+        "title_slug": "maximum-profit-of-operating-a-centennial-wheel",
+        "difficulty": 2
+    },
+    {
+        "id": 1722,
+        "index": "1600",
+        "title": "Throne Inheritance",
+        "title_slug": "throne-inheritance",
+        "difficulty": 2
+    },
+    {
+        "id": 1723,
+        "index": "1601",
+        "title": "Maximum Number of Achievable Transfer Requests",
+        "title_slug": "maximum-number-of-achievable-transfer-requests",
+        "difficulty": 3
+    },
+    {
+        "id": 1745,
+        "index": "1602",
+        "title": "Find Nearest Right Node in Binary Tree",
+        "title_slug": "find-nearest-right-node-in-binary-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 1708,
+        "index": "1603",
+        "title": "Design Parking System",
+        "title_slug": "design-parking-system",
+        "difficulty": 1
+    },
+    {
+        "id": 1709,
+        "index": "1604",
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "title_slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "difficulty": 2
+    },
+    {
+        "id": 1711,
+        "index": "1605",
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "title_slug": "find-valid-matrix-given-row-and-column-sums",
+        "difficulty": 2
+    },
+    {
+        "id": 1710,
+        "index": "1606",
+        "title": "Find Servers That Handled Most Number of Requests",
+        "title_slug": "find-servers-that-handled-most-number-of-requests",
+        "difficulty": 3
+    },
+    {
+        "id": 1749,
+        "index": "1607",
+        "title": "Sellers With No Sales",
+        "title_slug": "sellers-with-no-sales",
+        "difficulty": 1
+    },
+    {
+        "id": 1730,
+        "index": "1608",
+        "title": "Special Array With X Elements Greater Than or Equal X",
+        "title_slug": "special-array-with-x-elements-greater-than-or-equal-x",
+        "difficulty": 1
+    },
+    {
+        "id": 1731,
+        "index": "1609",
+        "title": "Even Odd Tree",
+        "title_slug": "even-odd-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 1733,
+        "index": "1610",
+        "title": "Maximum Number of Visible Points",
+        "title_slug": "maximum-number-of-visible-points",
+        "difficulty": 3
+    },
+    {
+        "id": 1732,
+        "index": "1611",
+        "title": "Minimum One Bit Operations to Make Integers Zero",
+        "title_slug": "minimum-one-bit-operations-to-make-integers-zero",
+        "difficulty": 3
+    },
+    {
+        "id": 1750,
+        "index": "1612",
+        "title": "Check If Two Expression Trees are Equivalent",
+        "title_slug": "check-if-two-expression-trees-are-equivalent",
+        "difficulty": 2
+    },
+    {
+        "id": 1759,
+        "index": "1613",
+        "title": "Find the Missing IDs",
+        "title_slug": "find-the-missing-ids",
+        "difficulty": 2
+    },
+    {
+        "id": 1737,
+        "index": "1614",
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "title_slug": "maximum-nesting-depth-of-the-parentheses",
+        "difficulty": 1
+    },
+    {
+        "id": 1738,
+        "index": "1615",
+        "title": "Maximal Network Rank",
+        "title_slug": "maximal-network-rank",
+        "difficulty": 2
+    },
+    {
+        "id": 1739,
+        "index": "1616",
+        "title": "Split Two Strings to Make Palindrome",
+        "title_slug": "split-two-strings-to-make-palindrome",
+        "difficulty": 2
+    },
+    {
+        "id": 1740,
+        "index": "1617",
+        "title": "Count Subtrees With Max Distance Between Cities",
+        "title_slug": "count-subtrees-with-max-distance-between-cities",
+        "difficulty": 3
+    },
+    {
+        "id": 1384,
+        "index": "1618",
+        "title": "Maximum Font to Fit a Sentence in a Screen",
+        "title_slug": "maximum-font-to-fit-a-sentence-in-a-screen",
+        "difficulty": 2
+    },
+    {
+        "id": 1210,
+        "index": "1619",
+        "title": "Mean of Array After Removing Some Elements",
+        "title_slug": "mean-of-array-after-removing-some-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 1726,
+        "index": "1620",
+        "title": "Coordinate With Maximum Network Quality",
+        "title_slug": "coordinate-with-maximum-network-quality",
+        "difficulty": 2
+    },
+    {
+        "id": 1725,
+        "index": "1621",
+        "title": "Number of Sets of K Non-Overlapping Line Segments",
+        "title_slug": "number-of-sets-of-k-non-overlapping-line-segments",
+        "difficulty": 2
+    },
+    {
+        "id": 1728,
+        "index": "1622",
+        "title": "Fancy Sequence",
+        "title_slug": "fancy-sequence",
+        "difficulty": 3
+    },
+    {
+        "id": 1763,
+        "index": "1623",
+        "title": "All Valid Triplets That Can Represent a Country",
+        "title_slug": "all-valid-triplets-that-can-represent-a-country",
+        "difficulty": 1
+    },
+    {
+        "id": 1746,
+        "index": "1624",
+        "title": "Largest Substring Between Two Equal Characters",
+        "title_slug": "largest-substring-between-two-equal-characters",
+        "difficulty": 1
+    },
+    {
+        "id": 1747,
+        "index": "1625",
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "title_slug": "lexicographically-smallest-string-after-applying-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 1748,
+        "index": "1626",
+        "title": "Best Team With No Conflicts",
+        "title_slug": "best-team-with-no-conflicts",
+        "difficulty": 2
+    },
+    {
+        "id": 1223,
+        "index": "1627",
+        "title": "Graph Connectivity With Threshold",
+        "title_slug": "graph-connectivity-with-threshold",
+        "difficulty": 3
+    },
+    {
+        "id": 1768,
+        "index": "1628",
+        "title": "Design an Expression Tree With Evaluate Function",
+        "title_slug": "design-an-expression-tree-with-evaluate-function",
+        "difficulty": 2
+    },
+    {
+        "id": 1751,
+        "index": "1629",
+        "title": "Slowest Key",
+        "title_slug": "slowest-key",
+        "difficulty": 1
+    },
+    {
+        "id": 1752,
+        "index": "1630",
+        "title": "Arithmetic Subarrays",
+        "title_slug": "arithmetic-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 1753,
+        "index": "1631",
+        "title": "Path With Minimum Effort",
+        "title_slug": "path-with-minimum-effort",
+        "difficulty": 2
+    },
+    {
+        "id": 1257,
+        "index": "1632",
+        "title": "Rank Transform of a Matrix",
+        "title_slug": "rank-transform-of-a-matrix",
+        "difficulty": 3
+    },
+    {
+        "id": 1773,
+        "index": "1633",
+        "title": "Percentage of Users Attended a Contest",
+        "title_slug": "percentage-of-users-attended-a-contest",
+        "difficulty": 1
+    },
+    {
+        "id": 1774,
+        "index": "1634",
+        "title": "Add Two Polynomials Represented as Linked Lists",
+        "title_slug": "add-two-polynomials-represented-as-linked-lists",
+        "difficulty": 2
+    },
+    {
+        "id": 1779,
+        "index": "1635",
+        "title": "Hopper Company Queries I",
+        "title_slug": "hopper-company-queries-i",
+        "difficulty": 3
+    },
+    {
+        "id": 1741,
+        "index": "1636",
+        "title": "Sort Array by Increasing Frequency",
+        "title_slug": "sort-array-by-increasing-frequency",
+        "difficulty": 1
+    },
+    {
+        "id": 1742,
+        "index": "1637",
+        "title": "Widest Vertical Area Between Two Points Containing No Points",
+        "title_slug": "widest-vertical-area-between-two-points-containing-no-points",
+        "difficulty": 2
+    },
+    {
+        "id": 1743,
+        "index": "1638",
+        "title": "Count Substrings That Differ by One Character",
+        "title_slug": "count-substrings-that-differ-by-one-character",
+        "difficulty": 2
+    },
+    {
+        "id": 1744,
+        "index": "1639",
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "title_slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "difficulty": 3
+    },
+    {
+        "id": 1760,
+        "index": "1640",
+        "title": "Check Array Formation Through Concatenation",
+        "title_slug": "check-array-formation-through-concatenation",
+        "difficulty": 1
+    },
+    {
+        "id": 1761,
+        "index": "1641",
+        "title": "Count Sorted Vowel Strings",
+        "title_slug": "count-sorted-vowel-strings",
+        "difficulty": 2
+    },
+    {
+        "id": 1762,
+        "index": "1642",
+        "title": "Furthest Building You Can Reach",
+        "title_slug": "furthest-building-you-can-reach",
+        "difficulty": 2
+    },
+    {
+        "id": 489,
+        "index": "1643",
+        "title": "Kth Smallest Instructions",
+        "title_slug": "kth-smallest-instructions",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -11242,6 +11648,48 @@
         "difficulty": 3
     },
     {
+        "id": 1000140,
+        "index": "LCP22",
+        "title": "黑白方格画",
+        "title_slug": "ccw6C7",
+        "difficulty": 1
+    },
+    {
+        "id": 1000058,
+        "index": "LCP23",
+        "title": "魔术排列",
+        "title_slug": "er94lq",
+        "difficulty": 2
+    },
+    {
+        "id": 1000131,
+        "index": "LCP24",
+        "title": "数字游戏",
+        "title_slug": "5TxKeK",
+        "difficulty": 3
+    },
+    {
+        "id": 1000138,
+        "index": "LCP25",
+        "title": "古董键盘",
+        "title_slug": "Uh984O",
+        "difficulty": 3
+    },
+    {
+        "id": 1000132,
+        "index": "LCP26",
+        "title": "导航装置",
+        "title_slug": "hSRGyL",
+        "difficulty": 3
+    },
+    {
+        "id": 1000147,
+        "index": "LCP27",
+        "title": "黑盒光线反射",
+        "title_slug": "IQvJ9i",
+        "difficulty": 3
+    },
+    {
         "id": 100275,
         "index": "剑指Offer03",
         "title": "数组中重复的数字 LCOF",
@@ -11250,10 +11698,10 @@
     },
     {
         "id": 100276,
-        "index": "剑指Offer04",
+        "index": "面试题4",
         "title": "二维数组中的查找 LCOF",
         "title_slug": "er-wei-shu-zu-zhong-de-cha-zhao-lcof",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 100280,
@@ -11540,7 +11988,7 @@
         "index": "剑指Offer43",
         "title": "1～n整数中1出现的次数  LCOF",
         "title_slug": "1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 100313,
@@ -11698,10 +12146,10 @@
     },
     {
         "id": 100339,
-        "index": "剑指Offer60",
+        "index": "面试题60",
         "title": "n个骰子的点数  LCOF",
         "title_slug": "nge-tou-zi-de-dian-shu-lcof",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 100341,
@@ -12387,7 +12835,7 @@
         "index": "面试题17_06",
         "title": "Number Of 2s In Range LCCI",
         "title_slug": "number-of-2s-in-range-lcci",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 1000035,
