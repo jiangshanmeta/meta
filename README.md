@@ -1821,6 +1821,22 @@
 | 1801 | Number of Orders in the Backlog | [JavaScript](./src/1801.number-of-orders-in-the-backlog.1928/1801.number-of-orders-in-the-backlog.1928.js) [TypeScript](./src/1801.number-of-orders-in-the-backlog.1928/1801.number-of-orders-in-the-backlog.1928.ts) | Medium  |
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [JavaScript](./src/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929.js) [TypeScript](./src/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929.ts) | Medium  |
 | 1803 | Count Pairs With XOR in a Range | [JavaScript](./src/1803.count-pairs-with-xor-in-a-range.1907/1803.count-pairs-with-xor-in-a-range.1907.js) [TypeScript](./src/1803.count-pairs-with-xor-in-a-range.1907/1803.count-pairs-with-xor-in-a-range.1907.ts) | Hard  |
+| 1804 | Implement Trie II (Prefix Tree) |  | Medium  |
+| 1805 | Number of Different Integers in a String |  | Easy  |
+| 1806 | Minimum Number of Operations to Reinitialize a Permutation |  | Medium  |
+| 1807 | Evaluate the Bracket Pairs of a String |  | Medium  |
+| 1808 | Maximize Number of Nice Divisors |  | Hard  |
+| 1809 | Ad-Free Sessions |  | Easy  |
+| 1810 | Minimum Path Cost in a Hidden Grid |  | Medium  |
+| 1811 | Find Interview Candidates |  | Medium  |
+| 1812 | Determine Color of a Chessboard Square |  | Easy  |
+| 1813 | Sentence Similarity III |  | Medium  |
+| 1814 | Count Nice Pairs in an Array |  | Medium  |
+| 1815 | Maximum Number of Groups Getting Fresh Donuts |  | Hard  |
+| 1816 | Truncate Sentence |  | Easy  |
+| 1817 | Finding the Users Active Minutes |  | Medium  |
+| 1818 | Minimum Absolute Sum Difference |  | Medium  |
+| 1819 | Number of Different Subsequences GCDs |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -1848,6 +1864,11 @@
 | LCP25 | 古董键盘 |  | Hard  |
 | LCP26 | 导航装置 |  | Hard  |
 | LCP27 | 黑盒光线反射 |  | Hard  |
+| LCP28 | 采购方案 |  | Easy  |
+| LCP29 | 乐团站位 |  | Easy  |
+| LCP30 | 魔塔游戏 |  | Medium  |
+| LCP31 | 变换的迷宫 |  | Hard  |
+| LCP32 | 批量处理任务 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.ts) | Easy  |
@@ -1875,13 +1896,13 @@
 | 剑指Offer27 | 二叉树的镜像  LCOF | [JavaScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288.js) [TypeScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288.ts) | Easy  |
 | 剑指Offer28 | 对称的二叉树  LCOF | [JavaScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289.js) [TypeScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289.ts) | Easy  |
 | 剑指Offer29 | 顺时针打印矩阵  LCOF | [JavaScript](./src/剑指Offer29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/剑指Offer29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293.js) | Easy  |
-| 面试题30 | 包含min函数的栈 LCOF |  | Easy  |
+| 面试题30 | 包含min函数的栈 LCOF | [JavaScript](./src/面试题30.bao-han-minhan-shu-de-zhan-lcof.100302/面试题30.bao-han-minhan-shu-de-zhan-lcof.100302.js) [TypeScript](./src/面试题30.bao-han-minhan-shu-de-zhan-lcof.100302/面试题30.bao-han-minhan-shu-de-zhan-lcof.100302.ts) | Easy  |
 | 剑指Offer31 | 栈的压入、弹出序列 LCOF | [JavaScript](./src/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306.js) [TypeScript](./src/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306.ts) | Medium  |
 | 剑指Offer32-I | 从上到下打印二叉树 LCOF | [JavaScript](./src/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311.js) [TypeScript](./src/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311.ts) | Medium  |
 | 剑指Offer32-II | 从上到下打印二叉树 II LCOF | [JavaScript](./src/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312.js) [TypeScript](./src/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312.ts) | Easy  |
 | 剑指Offer32-III | 从上到下打印二叉树 III LCOF | [JavaScript](./src/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314.js) [TypeScript](./src/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314.ts) | Medium  |
 | 剑指Offer33 | 二叉搜索树的后序遍历序列 LCOF | [JavaScript](./src/剑指Offer33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315/剑指Offer33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315.js) | Medium  |
-| 面试题34 | 二叉树中和为某一值的路径 LCOF |  | Medium  |
+| 面试题34 | 二叉树中和为某一值的路径 LCOF | [JavaScript](./src/面试题34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317/面试题34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317.js) [TypeScript](./src/面试题34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317/面试题34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317.ts) | Medium  |
 | 剑指Offer35 | 复杂链表的复制  LCOF | [JavaScript](./src/剑指Offer35.fu-za-lian-biao-de-fu-zhi-lcof.100300/剑指Offer35.fu-za-lian-biao-de-fu-zhi-lcof.100300.js) | Medium  |
 | 剑指Offer36 | 二叉搜索树与双向链表  LCOF | [JavaScript](./src/剑指Offer36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305/剑指Offer36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305.js) | Medium  |
 | 剑指Offer37 | 序列化二叉树  LCOF | [JavaScript](./src/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307.js) | Hard  |
@@ -1911,7 +1932,7 @@
 | 剑指Offer57-II | 和为s的连续正数序列 LCOF | [JavaScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.js) [TypeScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.ts) | Easy  |
 | 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.ts) | Easy  |
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.ts) | Easy  |
-| 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.ts) | Easy  |
+| 面试题59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/面试题59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/面试题59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) [TypeScript](./src/面试题59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/面试题59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.ts) | Hard  |
 | 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.js) [TypeScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.ts) | Medium  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339.js) | Medium  |
 | 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.ts) | Easy  |
