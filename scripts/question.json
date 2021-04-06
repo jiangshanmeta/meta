@@ -12621,6 +12621,118 @@
         "difficulty": 3
     },
     {
+        "id": 1949,
+        "index": "1804",
+        "title": "Implement Trie II (Prefix Tree)",
+        "title_slug": "implement-trie-ii-prefix-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 1933,
+        "index": "1805",
+        "title": "Number of Different Integers in a String",
+        "title_slug": "number-of-different-integers-in-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 1935,
+        "index": "1806",
+        "title": "Minimum Number of Operations to Reinitialize a Permutation",
+        "title_slug": "minimum-number-of-operations-to-reinitialize-a-permutation",
+        "difficulty": 2
+    },
+    {
+        "id": 1934,
+        "index": "1807",
+        "title": "Evaluate the Bracket Pairs of a String",
+        "title_slug": "evaluate-the-bracket-pairs-of-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1936,
+        "index": "1808",
+        "title": "Maximize Number of Nice Divisors",
+        "title_slug": "maximize-number-of-nice-divisors",
+        "difficulty": 3
+    },
+    {
+        "id": 1958,
+        "index": "1809",
+        "title": "Ad-Free Sessions",
+        "title_slug": "ad-free-sessions",
+        "difficulty": 1
+    },
+    {
+        "id": 1959,
+        "index": "1810",
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "title_slug": "minimum-path-cost-in-a-hidden-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 1964,
+        "index": "1811",
+        "title": "Find Interview Candidates",
+        "title_slug": "find-interview-candidates",
+        "difficulty": 2
+    },
+    {
+        "id": 1920,
+        "index": "1812",
+        "title": "Determine Color of a Chessboard Square",
+        "title_slug": "determine-color-of-a-chessboard-square",
+        "difficulty": 1
+    },
+    {
+        "id": 1923,
+        "index": "1813",
+        "title": "Sentence Similarity III",
+        "title_slug": "sentence-similarity-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 1925,
+        "index": "1814",
+        "title": "Count Nice Pairs in an Array",
+        "title_slug": "count-nice-pairs-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1924,
+        "index": "1815",
+        "title": "Maximum Number of Groups Getting Fresh Donuts",
+        "title_slug": "maximum-number-of-groups-getting-fresh-donuts",
+        "difficulty": 3
+    },
+    {
+        "id": 1944,
+        "index": "1816",
+        "title": "Truncate Sentence",
+        "title_slug": "truncate-sentence",
+        "difficulty": 1
+    },
+    {
+        "id": 1945,
+        "index": "1817",
+        "title": "Finding the Users Active Minutes",
+        "title_slug": "finding-the-users-active-minutes",
+        "difficulty": 2
+    },
+    {
+        "id": 1946,
+        "index": "1818",
+        "title": "Minimum Absolute Sum Difference",
+        "title_slug": "minimum-absolute-sum-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 1947,
+        "index": "1819",
+        "title": "Number of Different Subsequences GCDs",
+        "title_slug": "number-of-different-subsequences-gcds",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -12807,6 +12919,41 @@
         "index": "LCP27",
         "title": "黑盒光线反射",
         "title_slug": "IQvJ9i",
+        "difficulty": 3
+    },
+    {
+        "id": 1000215,
+        "index": "LCP28",
+        "title": "采购方案",
+        "title_slug": "4xy4Wx",
+        "difficulty": 1
+    },
+    {
+        "id": 1000216,
+        "index": "LCP29",
+        "title": "乐团站位",
+        "title_slug": "SNJvJP",
+        "difficulty": 1
+    },
+    {
+        "id": 1000224,
+        "index": "LCP30",
+        "title": "魔塔游戏",
+        "title_slug": "p0NxJO",
+        "difficulty": 2
+    },
+    {
+        "id": 1000218,
+        "index": "LCP31",
+        "title": "变换的迷宫",
+        "title_slug": "Db3wC1",
+        "difficulty": 3
+    },
+    {
+        "id": 1000219,
+        "index": "LCP32",
+        "title": "批量处理任务",
+        "title_slug": "t3fKg1",
         "difficulty": 3
     },
     {
@@ -13252,10 +13399,10 @@
     },
     {
         "id": 100336,
-        "index": "剑指Offer59-I",
+        "index": "面试题59-I",
         "title": "滑动窗口的最大值 LCOF",
         "title_slug": "hua-dong-chuang-kou-de-zui-da-zhi-lcof",
-        "difficulty": 1
+        "difficulty": 3
     },
     {
         "id": 100337,
