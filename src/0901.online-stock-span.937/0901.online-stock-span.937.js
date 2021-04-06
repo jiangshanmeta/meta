@@ -1,16 +1,16 @@
 
-var StockSpanner = function() {
+var StockSpanner = function () {
     this.priceStack = [];
     this.countStack = [];
 };
 
-/** 
+/**
  * @param {number} price
  * @return {number}
  */
-StockSpanner.prototype.next = function(price) {
+StockSpanner.prototype.next = function (price) {
     let count = 1;
-    while(this.priceStack.length && this.priceStack[this.priceStack.length-1]<=price){
+    while (this.priceStack.length && this.priceStack[this.priceStack.length - 1] <= price) {
         count += this.countStack.pop();
         this.priceStack.pop();
     }

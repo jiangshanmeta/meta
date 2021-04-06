@@ -1,16 +1,16 @@
 class Solution {
-    constructor(public nums: number[]) {
-        
+    constructor (public nums: number[]) {
+
     }
 
-    reset(): number[] {
+    reset (): number[] {
         return this.nums;
     }
 
-    shuffle(): number[] {
+    shuffle (): number[] {
         const result = this.nums.slice();
-        for(let i=1;i<result.length;i++){
-            const index = Math.floor(Math.random()*(i+1));
+        for (let i = 1; i < result.length; i++) {
+            const index = Math.floor(Math.random() * (i + 1));
             const tmp = result[i];
             result[i] = result[index];
             result[index] = tmp;

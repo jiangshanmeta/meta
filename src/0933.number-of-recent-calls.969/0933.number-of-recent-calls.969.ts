@@ -1,12 +1,12 @@
 class RecentCounter {
     private queen:number[];
-    constructor() {
+    constructor () {
         this.queen = [];
     }
 
-    ping(t: number): number {
+    ping (t: number): number {
         this.queen.push(t);
-        while(this.queen[0]<t-3000){
+        while (this.queen[0] < t - 3000) {
             this.queen.shift();
         }
         return this.queen.length;

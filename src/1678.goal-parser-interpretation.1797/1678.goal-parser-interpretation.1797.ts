@@ -1,18 +1,18 @@
-function interpret(command: string): string {
-    let result:string[] = [];
+function interpret (command: string): string {
+    const result:string[] = [];
     let index = 0;
-    while(index<command.length){
-        if(command[index] === 'G'){
+    while (index < command.length) {
+        if (command[index] === 'G') {
             result.push(command[index++]);
             continue;
         }
-        if(command[index+1] === ')'){
+        if (command[index + 1] === ')') {
             result.push('o');
             index += 2;
-        }else{
+        } else {
             result.push('al');
-            index +=4;
+            index += 4;
         }
     }
     return result.join('');
-};
+}

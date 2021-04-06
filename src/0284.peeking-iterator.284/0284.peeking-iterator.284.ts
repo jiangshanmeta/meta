@@ -1,45 +1,44 @@
 
 class Iterator1 {
-    hasNext(): boolean {
+    hasNext (): boolean {
         return true;
     }
 
-    next(): number {
-        return -1
+    next (): number {
+        return -1;
     }
 }
-
 
 class PeekingIterator {
     peakValue:number;
     used:boolean;
     iterator:Iterator1;
-    constructor(iterator: Iterator1) {
+    constructor (iterator: Iterator1) {
         this.used = true;
         this.iterator = iterator;
     }
 
-    peek(): number {
-        if(this.used){
+    peek (): number {
+        if (this.used) {
             this.used = false;
             this.peakValue = this.iterator.next();
         }
         return this.peakValue;
     }
 
-    next(): number {
-        if(this.used){
-            return this.iterator.next()
+    next (): number {
+        if (this.used) {
+            return this.iterator.next();
         }
         this.used = true;
         return this.peakValue;
     }
 
-    hasNext(): boolean {
-        if(this.used){
-            return this.iterator.hasNext()
+    hasNext (): boolean {
+        if (this.used) {
+            return this.iterator.hasNext();
         }
-        return true
+        return true;
     }
 }
 

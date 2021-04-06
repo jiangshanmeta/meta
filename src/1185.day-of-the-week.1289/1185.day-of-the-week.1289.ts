@@ -5,8 +5,8 @@ const candidate:string[] = [
     'Wednesday',
     'Thursday',
     'Friday',
-    'Saturday'
+    'Saturday',
 ];
-function dayOfTheWeek(day: number, month: number, year: number): string {
-    return candidate[new Date(year,month-1,day).getDay()];
-};
+function dayOfTheWeek (day: number, month: number, year: number): string {
+    return candidate[new Date(year, month - 1, day).getDay()];
+}

@@ -1,15 +1,15 @@
-function plusOne(digits: number[]): number[] {
+function plusOne (digits: number[]): number[] {
     let addon = 1;
-    let index = digits.length-1;
-    while(addon && index>-1){
-        const sum = digits[index]+addon;
-        const digit = sum%10;
+    let index = digits.length - 1;
+    while (addon && index > -1) {
+        const sum = digits[index] + addon;
+        const digit = sum % 10;
         digits[index] = digit;
-        addon = (sum-digit)/10;
+        addon = (sum - digit) / 10;
         index--;
     }
-    if(addon){
+    if (addon) {
         digits.unshift(addon);
     }
     return digits;
-};
+}

@@ -2,26 +2,26 @@
  * @param {string} s
  * @return {number}
  */
-var minimumLength = function(s) {
+var minimumLength = function (s) {
     let left = 0;
-    let right = s.length-1;
-    while(left<right){
+    let right = s.length - 1;
+    while (left < right) {
         const cLeft = s[left];
         const cRight = s[right];
-        if(cLeft !== cRight){
+        if (cLeft !== cRight) {
             break;
         }
         left++;
         right--;
-        while(left<=right && s[left] === cLeft){
+        while (left <= right && s[left] === cLeft) {
             left++;
         }
-        while(left<=right && s[right] === cRight){
+        while (left <= right && s[right] === cRight) {
             right--;
         }
     }
-    if(left>right){
-        return 0
+    if (left > right) {
+        return 0;
     }
-    return right-left+1;
+    return right - left + 1;
 };

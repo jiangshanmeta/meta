@@ -3,68 +3,68 @@
  * @param {string[]} synonyms
  * @return {string[]}
  */
-var trulyMostPopular = function(names, synonyms) {
+var trulyMostPopular = function (names, synonyms) {
     const pIdMap = {};
-    for(let i=0;i<synonyms.length;i++){
+    for (let i = 0; i < synonyms.length; i++) {
         const dotIndex = synonyms[i].indexOf(',');
-        const nameA = synonyms[i].slice(1,dotIndex);
-        const nameB = synonyms[i].slice(dotIndex+1,-1);
-        const pIdA = find(pIdMap,nameA);
-        const pIdB = find(pIdMap,nameB);
-        if(pIdA === pIdB){
+        const nameA = synonyms[i].slice(1, dotIndex);
+        const nameB = synonyms[i].slice(dotIndex + 1, -1);
+        const pIdA = find(pIdMap, nameA);
+        const pIdB = find(pIdMap, nameB);
+        if (pIdA === pIdB) {
             continue;
         }
-        if(pIdA>pIdB){
+        if (pIdA > pIdB) {
             pIdMap[pIdA] = pIdB;
-        }else{
+        } else {
             pIdMap[pIdB] = pIdA;
         }
     }
     const keys = Object.keys(pIdMap);
     const resultMap = {};
-    for(let i=0;i<keys.length;i++){
-        if(pIdMap[keys[i]] !== keys[i]){
+    for (let i = 0; i < keys.length; i++) {
+        if (pIdMap[keys[i]] !== keys[i]) {
             let id = keys[i];
-            while(pIdMap[id] !== id){
+            while (pIdMap[id] !== id) {
                 id = pIdMap[id];
             }
-            compress(pIdMap,keys[i],id);
+            compress(pIdMap, keys[i], id);
         }
     }
 
-    for(let i=0;i<names.length;i++){
-        const leftBracketIndex  = names[i].indexOf('(');
-        const name = names[i].slice(0,leftBracketIndex);
-        const num = +names[i].slice(leftBracketIndex+1,-1);
+    for (let i = 0; i < names.length; i++) {
+        const leftBracketIndex = names[i].indexOf('(');
+        const name = names[i].slice(0, leftBracketIndex);
+        const num = +names[i].slice(leftBracketIndex + 1, -1);
         const pName = pIdMap[name] || name;
-        if(!resultMap[pName]){
+        if (!resultMap[pName]) {
             resultMap[pName] = num;
-        }else{
+        } else {
             resultMap[pName] += num;
         }
     }
-    return Object.keys(resultMap).reduce((list,name)=>{
+    return Object.keys(resultMap).reduce((list, name) => {
         list.push(`${name}(${resultMap[name]})`);
         return list;
-    },[]);
+    }, []);
 };
 
-function find(map,id){
-    if(!map[id]){
+function find (map, id) {
+    if (!map[id]) {
         map[id] = id;
         return id;
     }
     let pId = id;
-    while(map[pId] !== pId){
+    while (map[pId] !== pId) {
         pId = map[pId];
     }
-    compress(map,id,pId)
+    compress(map, id, pId);
 
     return pId;
 }
 
-function compress(map,id,pId){
-    while(id !== pId){
+function compress (map, id, pId) {
+    while (id !== pId) {
         const tmp = map[id];
         map[id] = pId;
         id = tmp;

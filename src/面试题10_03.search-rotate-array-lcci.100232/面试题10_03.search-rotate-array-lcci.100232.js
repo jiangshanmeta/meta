@@ -3,6 +3,6 @@
  * @param {number} target
  * @return {number}
  */
-var search = function(arr, target) {
-    return arr.indexOf(target)
+var search = function (arr, target) {
+    return arr.indexOf(target);
 };

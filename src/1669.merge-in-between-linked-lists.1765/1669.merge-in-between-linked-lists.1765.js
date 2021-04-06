@@ -12,27 +12,27 @@
  * @param {ListNode} list2
  * @return {ListNode}
  */
-var mergeInBetween = function(list1, a, b, list2) {
-    if(list1 === null){
+var mergeInBetween = function (list1, a, b, list2) {
+    if (list1 === null) {
         return list2;
-    }else if(list2 === null){
+    } else if (list2 === null) {
         return list1;
     }
     a--;
     let headA = list1;
     let headB = list1;
-    while(a>0){
+    while (a > 0) {
         headA = headA.next;
         headB = headB.next;
         a--;
         b--;
     }
-    while(b>0){
+    while (b > 0) {
         headB = headB.next;
         b--;
     }
     headA.next = list2;
-    while(list2.next !== null){
+    while (list2.next !== null) {
         list2 = list2.next;
     }
     list2.next = headB.next;

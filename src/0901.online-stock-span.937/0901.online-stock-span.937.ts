@@ -1,14 +1,14 @@
 class StockSpanner {
     private priceStack:number[];
     private countStack:number[];
-    constructor() {
+    constructor () {
         this.priceStack = [];
         this.countStack = [];
     }
 
-    next(price: number): number {
+    next (price: number): number {
         let count = 1;
-        while(this.priceStack.length && price>=this.priceStack[this.priceStack.length-1]){
+        while (this.priceStack.length && price >= this.priceStack[this.priceStack.length - 1]) {
             count += this.countStack.pop();
             this.priceStack.pop();
         }

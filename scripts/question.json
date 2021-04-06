@@ -312,7 +312,7 @@
         "index": "0045",
         "title": "Jump Game II",
         "title_slug": "jump-game-ii",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 46,
@@ -396,7 +396,7 @@
         "index": "0057",
         "title": "Insert Interval",
         "title_slug": "insert-interval",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 58,
@@ -676,7 +676,7 @@
         "index": "0097",
         "title": "Interleaving String",
         "title_slug": "interleaving-string",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 98,
@@ -746,7 +746,7 @@
         "index": "0107",
         "title": "Binary Tree Level Order Traversal II",
         "title_slug": "binary-tree-level-order-traversal-ii",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 108,
@@ -886,7 +886,7 @@
         "index": "0127",
         "title": "Word Ladder",
         "title_slug": "word-ladder",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 128,
@@ -1138,7 +1138,7 @@
         "index": "0163",
         "title": "Missing Ranges",
         "title_slug": "missing-ranges",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 164,
@@ -1383,7 +1383,7 @@
         "index": "0198",
         "title": "House Robber",
         "title_slug": "house-robber",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 199,
@@ -1929,7 +1929,7 @@
         "index": "0276",
         "title": "Paint Fence",
         "title_slug": "paint-fence",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 277,
@@ -2034,7 +2034,7 @@
         "index": "0291",
         "title": "Word Pattern II",
         "title_slug": "word-pattern-ii",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 292,
@@ -2377,7 +2377,7 @@
         "index": "0340",
         "title": "Longest Substring with At Most K Distinct Characters",
         "title_slug": "longest-substring-with-at-most-k-distinct-characters",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 341,
@@ -2594,7 +2594,7 @@
         "index": "0371",
         "title": "Sum of Two Integers",
         "title_slug": "sum-of-two-integers",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 372,
@@ -3824,8 +3824,8 @@
     {
         "id": 547,
         "index": "0547",
-        "title": "Friend Circles",
-        "title_slug": "friend-circles",
+        "title": "Number of Provinces",
+        "title_slug": "number-of-provinces",
         "difficulty": 2
     },
     {
@@ -4680,7 +4680,7 @@
         "index": "0669",
         "title": "Trim a Binary Search Tree",
         "title_slug": "trim-a-binary-search-tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 670,
@@ -6787,7 +6787,7 @@
         "index": "0970",
         "title": "Powerful Integers",
         "title_slug": "powerful-integers",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1011,
@@ -6906,7 +6906,7 @@
         "index": "0987",
         "title": "Vertical Order Traversal of a Binary Tree",
         "title_slug": "vertical-order-traversal-of-a-binary-tree",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 1030,
@@ -7949,7 +7949,7 @@
         "index": "1136",
         "title": "Parallel Courses",
         "title_slug": "parallel-courses",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 1236,
@@ -8187,7 +8187,7 @@
         "index": "1170",
         "title": "Compare Strings by Frequency of the Smallest Character",
         "title_slug": "compare-strings-by-frequency-of-the-smallest-character",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1267,
@@ -8656,7 +8656,7 @@
         "index": "1237",
         "title": "Find Positive Integer Solution for a Given Equation",
         "title_slug": "find-positive-integer-solution-for-a-given-equation",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1359,
@@ -9873,7 +9873,7 @@
         "id": 1527,
         "index": "1411",
         "title": "Number of Ways to Paint N × 3 Grid",
-        "title_slug": "number-of-ways-to-paint-n-x-3-grid",
+        "title_slug": "number-of-ways-to-paint-n-3-grid",
         "difficulty": 3
     },
     {
@@ -10056,7 +10056,7 @@
         "index": "1437",
         "title": "Check If All 1's Are at Least Length K Places Away",
         "title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 1549,
@@ -11732,6 +11732,895 @@
         "difficulty": 2
     },
     {
+        "id": 1821,
+        "index": "1677",
+        "title": "Product's Worth Over Invoices",
+        "title_slug": "products-worth-over-invoices",
+        "difficulty": 1
+    },
+    {
+        "id": 1797,
+        "index": "1678",
+        "title": "Goal Parser Interpretation",
+        "title_slug": "goal-parser-interpretation",
+        "difficulty": 1
+    },
+    {
+        "id": 1798,
+        "index": "1679",
+        "title": "Max Number of K-Sum Pairs",
+        "title_slug": "max-number-of-k-sum-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 1800,
+        "index": "1680",
+        "title": "Concatenation of Consecutive Binary Numbers",
+        "title_slug": "concatenation-of-consecutive-binary-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 1799,
+        "index": "1681",
+        "title": "Minimum Incompatibility",
+        "title_slug": "minimum-incompatibility",
+        "difficulty": 3
+    },
+    {
+        "id": 1822,
+        "index": "1682",
+        "title": "Longest Palindromic Subsequence II",
+        "title_slug": "longest-palindromic-subsequence-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 1827,
+        "index": "1683",
+        "title": "Invalid Tweets",
+        "title_slug": "invalid-tweets",
+        "difficulty": 1
+    },
+    {
+        "id": 1786,
+        "index": "1684",
+        "title": "Count the Number of Consistent Strings",
+        "title_slug": "count-the-number-of-consistent-strings",
+        "difficulty": 1
+    },
+    {
+        "id": 1787,
+        "index": "1685",
+        "title": "Sum of Absolute Differences in a Sorted Array",
+        "title_slug": "sum-of-absolute-differences-in-a-sorted-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1788,
+        "index": "1686",
+        "title": "Stone Game VI",
+        "title_slug": "stone-game-vi",
+        "difficulty": 2
+    },
+    {
+        "id": 1789,
+        "index": "1687",
+        "title": "Delivering Boxes from Storage to Ports",
+        "title_slug": "delivering-boxes-from-storage-to-ports",
+        "difficulty": 3
+    },
+    {
+        "id": 1806,
+        "index": "1688",
+        "title": "Count of Matches in Tournament",
+        "title_slug": "count-of-matches-in-tournament",
+        "difficulty": 1
+    },
+    {
+        "id": 1807,
+        "index": "1689",
+        "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+        "title_slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 1808,
+        "index": "1690",
+        "title": "Stone Game VII",
+        "title_slug": "stone-game-vii",
+        "difficulty": 2
+    },
+    {
+        "id": 1367,
+        "index": "1691",
+        "title": "Maximum Height by Stacking Cuboids ",
+        "title_slug": "maximum-height-by-stacking-cuboids",
+        "difficulty": 3
+    },
+    {
+        "id": 1828,
+        "index": "1692",
+        "title": "Count Ways to Distribute Candies",
+        "title_slug": "count-ways-to-distribute-candies",
+        "difficulty": 3
+    },
+    {
+        "id": 1837,
+        "index": "1693",
+        "title": "Daily Leads and Partners",
+        "title_slug": "daily-leads-and-partners",
+        "difficulty": 1
+    },
+    {
+        "id": 1812,
+        "index": "1694",
+        "title": "Reformat Phone Number",
+        "title_slug": "reformat-phone-number",
+        "difficulty": 1
+    },
+    {
+        "id": 1813,
+        "index": "1695",
+        "title": "Maximum Erasure Value",
+        "title_slug": "maximum-erasure-value",
+        "difficulty": 2
+    },
+    {
+        "id": 1814,
+        "index": "1696",
+        "title": "Jump Game VI",
+        "title_slug": "jump-game-vi",
+        "difficulty": 2
+    },
+    {
+        "id": 1815,
+        "index": "1697",
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "title_slug": "checking-existence-of-edge-length-limited-paths",
+        "difficulty": 3
+    },
+    {
+        "id": 1838,
+        "index": "1698",
+        "title": "Number of Distinct Substrings in a String",
+        "title_slug": "number-of-distinct-substrings-in-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 1842,
+        "index": "1699",
+        "title": "Number of Calls Between Two Persons",
+        "title_slug": "number-of-calls-between-two-persons",
+        "difficulty": 2
+    },
+    {
+        "id": 1802,
+        "index": "1700",
+        "title": "Number of Students Unable to Eat Lunch",
+        "title_slug": "number-of-students-unable-to-eat-lunch",
+        "difficulty": 1
+    },
+    {
+        "id": 1803,
+        "index": "1701",
+        "title": "Average Waiting Time",
+        "title_slug": "average-waiting-time",
+        "difficulty": 2
+    },
+    {
+        "id": 1804,
+        "index": "1702",
+        "title": "Maximum Binary String After Change",
+        "title_slug": "maximum-binary-string-after-change",
+        "difficulty": 2
+    },
+    {
+        "id": 1805,
+        "index": "1703",
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "title_slug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "difficulty": 3
+    },
+    {
+        "id": 1823,
+        "index": "1704",
+        "title": "Determine if String Halves Are Alike",
+        "title_slug": "determine-if-string-halves-are-alike",
+        "difficulty": 1
+    },
+    {
+        "id": 1824,
+        "index": "1705",
+        "title": "Maximum Number of Eaten Apples",
+        "title_slug": "maximum-number-of-eaten-apples",
+        "difficulty": 2
+    },
+    {
+        "id": 1324,
+        "index": "1706",
+        "title": "Where Will the Ball Fall",
+        "title_slug": "where-will-the-ball-fall",
+        "difficulty": 2
+    },
+    {
+        "id": 1826,
+        "index": "1707",
+        "title": "Maximum XOR With an Element From Array",
+        "title_slug": "maximum-xor-with-an-element-from-array",
+        "difficulty": 3
+    },
+    {
+        "id": 1847,
+        "index": "1708",
+        "title": "Largest Subarray Length K",
+        "title_slug": "largest-subarray-length-k",
+        "difficulty": 1
+    },
+    {
+        "id": 1852,
+        "index": "1709",
+        "title": "Biggest Window Between Visits",
+        "title_slug": "biggest-window-between-visits",
+        "difficulty": 2
+    },
+    {
+        "id": 1829,
+        "index": "1710",
+        "title": "Maximum Units on a Truck",
+        "title_slug": "maximum-units-on-a-truck",
+        "difficulty": 1
+    },
+    {
+        "id": 1830,
+        "index": "1711",
+        "title": "Count Good Meals",
+        "title_slug": "count-good-meals",
+        "difficulty": 2
+    },
+    {
+        "id": 1831,
+        "index": "1712",
+        "title": "Ways to Split Array Into Three Subarrays",
+        "title_slug": "ways-to-split-array-into-three-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 1832,
+        "index": "1713",
+        "title": "Minimum Operations to Make a Subsequence",
+        "title_slug": "minimum-operations-to-make-a-subsequence",
+        "difficulty": 3
+    },
+    {
+        "id": 1809,
+        "index": "1714",
+        "title": "Sum Of Special Evenly-Spaced Elements In Array",
+        "title_slug": "sum-of-special-evenly-spaced-elements-in-array",
+        "difficulty": 3
+    },
+    {
+        "id": 1862,
+        "index": "1715",
+        "title": "Count Apples and Oranges",
+        "title_slug": "count-apples-and-oranges",
+        "difficulty": 2
+    },
+    {
+        "id": 1817,
+        "index": "1716",
+        "title": "Calculate Money in Leetcode Bank",
+        "title_slug": "calculate-money-in-leetcode-bank",
+        "difficulty": 1
+    },
+    {
+        "id": 1818,
+        "index": "1717",
+        "title": "Maximum Score From Removing Substrings",
+        "title_slug": "maximum-score-from-removing-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1819,
+        "index": "1718",
+        "title": "Construct the Lexicographically Largest Valid Sequence",
+        "title_slug": "construct-the-lexicographically-largest-valid-sequence",
+        "difficulty": 2
+    },
+    {
+        "id": 1820,
+        "index": "1719",
+        "title": "Number Of Ways To Reconstruct A Tree",
+        "title_slug": "number-of-ways-to-reconstruct-a-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 1839,
+        "index": "1720",
+        "title": "Decode XORed Array",
+        "title_slug": "decode-xored-array",
+        "difficulty": 1
+    },
+    {
+        "id": 528,
+        "index": "1721",
+        "title": "Swapping Nodes in a Linked List",
+        "title_slug": "swapping-nodes-in-a-linked-list",
+        "difficulty": 2
+    },
+    {
+        "id": 1840,
+        "index": "1722",
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "title_slug": "minimize-hamming-distance-after-swap-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 1825,
+        "index": "1723",
+        "title": "Find Minimum Time to Finish All Jobs",
+        "title_slug": "find-minimum-time-to-finish-all-jobs",
+        "difficulty": 3
+    },
+    {
+        "id": 1865,
+        "index": "1724",
+        "title": "Checking Existence of Edge Length Limited Paths II",
+        "title_slug": "checking-existence-of-edge-length-limited-paths-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1843,
+        "index": "1725",
+        "title": "Number Of Rectangles That Can Form The Largest Square",
+        "title_slug": "number-of-rectangles-that-can-form-the-largest-square",
+        "difficulty": 1
+    },
+    {
+        "id": 1364,
+        "index": "1726",
+        "title": "Tuple with Same Product",
+        "title_slug": "tuple-with-same-product",
+        "difficulty": 2
+    },
+    {
+        "id": 1845,
+        "index": "1727",
+        "title": "Largest Submatrix With Rearrangements",
+        "title_slug": "largest-submatrix-with-rearrangements",
+        "difficulty": 2
+    },
+    {
+        "id": 1727,
+        "index": "1728",
+        "title": "Cat and Mouse II",
+        "title_slug": "cat-and-mouse-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1877,
+        "index": "1729",
+        "title": "Find Followers Count",
+        "title_slug": "find-followers-count",
+        "difficulty": 1
+    },
+    {
+        "id": 550,
+        "index": "1730",
+        "title": "Shortest Path to Get Food",
+        "title_slug": "shortest-path-to-get-food",
+        "difficulty": 2
+    },
+    {
+        "id": 1882,
+        "index": "1731",
+        "title": "The Number of Employees Which Report to Each Employee",
+        "title_slug": "the-number-of-employees-which-report-to-each-employee",
+        "difficulty": 1
+    },
+    {
+        "id": 1833,
+        "index": "1732",
+        "title": "Find the Highest Altitude",
+        "title_slug": "find-the-highest-altitude",
+        "difficulty": 1
+    },
+    {
+        "id": 1834,
+        "index": "1733",
+        "title": "Minimum Number of People to Teach",
+        "title_slug": "minimum-number-of-people-to-teach",
+        "difficulty": 2
+    },
+    {
+        "id": 1835,
+        "index": "1734",
+        "title": "Decode XORed Permutation",
+        "title_slug": "decode-xored-permutation",
+        "difficulty": 2
+    },
+    {
+        "id": 1836,
+        "index": "1735",
+        "title": "Count Ways to Make Array With Product",
+        "title_slug": "count-ways-to-make-array-with-product",
+        "difficulty": 3
+    },
+    {
+        "id": 1858,
+        "index": "1736",
+        "title": "Latest Time by Replacing Hidden Digits",
+        "title_slug": "latest-time-by-replacing-hidden-digits",
+        "difficulty": 1
+    },
+    {
+        "id": 1859,
+        "index": "1737",
+        "title": "Change Minimum Characters to Satisfy One of Three Conditions",
+        "title_slug": "change-minimum-characters-to-satisfy-one-of-three-conditions",
+        "difficulty": 2
+    },
+    {
+        "id": 1860,
+        "index": "1738",
+        "title": "Find Kth Largest XOR Coordinate Value",
+        "title_slug": "find-kth-largest-xor-coordinate-value",
+        "difficulty": 2
+    },
+    {
+        "id": 1861,
+        "index": "1739",
+        "title": "Building Boxes",
+        "title_slug": "building-boxes",
+        "difficulty": 3
+    },
+    {
+        "id": 1883,
+        "index": "1740",
+        "title": "Find Distance in a Binary Tree",
+        "title_slug": "find-distance-in-a-binary-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 1892,
+        "index": "1741",
+        "title": "Find Total Time Spent by Each Employee",
+        "title_slug": "find-total-time-spent-by-each-employee",
+        "difficulty": 1
+    },
+    {
+        "id": 1844,
+        "index": "1742",
+        "title": "Maximum Number of Balls in a Box",
+        "title_slug": "maximum-number-of-balls-in-a-box",
+        "difficulty": 1
+    },
+    {
+        "id": 1866,
+        "index": "1743",
+        "title": "Restore the Array From Adjacent Pairs",
+        "title_slug": "restore-the-array-from-adjacent-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 1872,
+        "index": "1744",
+        "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+        "title_slug": "can-you-eat-your-favorite-candy-on-your-favorite-day",
+        "difficulty": 2
+    },
+    {
+        "id": 1871,
+        "index": "1745",
+        "title": "Palindrome Partitioning IV",
+        "title_slug": "palindrome-partitioning-iv",
+        "difficulty": 3
+    },
+    {
+        "id": 1893,
+        "index": "1746",
+        "title": "Maximum Subarray Sum After One Operation",
+        "title_slug": "maximum-subarray-sum-after-one-operation",
+        "difficulty": 2
+    },
+    {
+        "id": 1898,
+        "index": "1747",
+        "title": "Leetflex Banned Accounts",
+        "title_slug": "leetflex-banned-accounts",
+        "difficulty": 2
+    },
+    {
+        "id": 1848,
+        "index": "1748",
+        "title": "Sum of Unique Elements",
+        "title_slug": "sum-of-unique-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 1849,
+        "index": "1749",
+        "title": "Maximum Absolute Sum of Any Subarray",
+        "title_slug": "maximum-absolute-sum-of-any-subarray",
+        "difficulty": 2
+    },
+    {
+        "id": 1850,
+        "index": "1750",
+        "title": "Minimum Length of String After Deleting Similar Ends",
+        "title_slug": "minimum-length-of-string-after-deleting-similar-ends",
+        "difficulty": 2
+    },
+    {
+        "id": 1851,
+        "index": "1751",
+        "title": "Maximum Number of Events That Can Be Attended II",
+        "title_slug": "maximum-number-of-events-that-can-be-attended-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1878,
+        "index": "1752",
+        "title": "Check if Array Is Sorted and Rotated",
+        "title_slug": "check-if-array-is-sorted-and-rotated",
+        "difficulty": 1
+    },
+    {
+        "id": 1879,
+        "index": "1753",
+        "title": "Maximum Score From Removing Stones",
+        "title_slug": "maximum-score-from-removing-stones",
+        "difficulty": 2
+    },
+    {
+        "id": 1880,
+        "index": "1754",
+        "title": "Largest Merge Of Two Strings",
+        "title_slug": "largest-merge-of-two-strings",
+        "difficulty": 2
+    },
+    {
+        "id": 1881,
+        "index": "1755",
+        "title": "Closest Subsequence Sum",
+        "title_slug": "closest-subsequence-sum",
+        "difficulty": 3
+    },
+    {
+        "id": 1903,
+        "index": "1756",
+        "title": "Design Most Recently Used Queue",
+        "title_slug": "design-most-recently-used-queue",
+        "difficulty": 2
+    },
+    {
+        "id": 1908,
+        "index": "1757",
+        "title": "Recyclable and Low Fat Products",
+        "title_slug": "recyclable-and-low-fat-products",
+        "difficulty": 1
+    },
+    {
+        "id": 1884,
+        "index": "1758",
+        "title": "Minimum Changes To Make Alternating Binary String",
+        "title_slug": "minimum-changes-to-make-alternating-binary-string",
+        "difficulty": 1
+    },
+    {
+        "id": 1885,
+        "index": "1759",
+        "title": "Count Number of Homogenous Substrings",
+        "title_slug": "count-number-of-homogenous-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1886,
+        "index": "1760",
+        "title": "Minimum Limit of Balls in a Bag",
+        "title_slug": "minimum-limit-of-balls-in-a-bag",
+        "difficulty": 2
+    },
+    {
+        "id": 1887,
+        "index": "1761",
+        "title": "Minimum Degree of a Connected Trio in a Graph",
+        "title_slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 1909,
+        "index": "1762",
+        "title": "Buildings With an Ocean View",
+        "title_slug": "buildings-with-an-ocean-view",
+        "difficulty": 2
+    },
+    {
+        "id": 1873,
+        "index": "1763",
+        "title": "Longest Nice Substring",
+        "title_slug": "longest-nice-substring",
+        "difficulty": 1
+    },
+    {
+        "id": 1874,
+        "index": "1764",
+        "title": "Form Array by Concatenating Subarrays of Another Array",
+        "title_slug": "form-array-by-concatenating-subarrays-of-another-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1876,
+        "index": "1765",
+        "title": "Map of Highest Peak",
+        "title_slug": "map-of-highest-peak",
+        "difficulty": 2
+    },
+    {
+        "id": 1875,
+        "index": "1766",
+        "title": "Tree of Coprimes",
+        "title_slug": "tree-of-coprimes",
+        "difficulty": 3
+    },
+    {
+        "id": 1914,
+        "index": "1767",
+        "title": "Find the Subtasks That Did Not Execute",
+        "title_slug": "find-the-subtasks-that-did-not-execute",
+        "difficulty": 3
+    },
+    {
+        "id": 1894,
+        "index": "1768",
+        "title": "Merge Strings Alternately",
+        "title_slug": "merge-strings-alternately",
+        "difficulty": 1
+    },
+    {
+        "id": 1895,
+        "index": "1769",
+        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+        "title_slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "difficulty": 2
+    },
+    {
+        "id": 1896,
+        "index": "1770",
+        "title": "Maximum Score from Performing Multiplication Operations",
+        "title_slug": "maximum-score-from-performing-multiplication-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 1897,
+        "index": "1771",
+        "title": "Maximize Palindrome Length From Subsequences",
+        "title_slug": "maximize-palindrome-length-from-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 1919,
+        "index": "1772",
+        "title": "Sort Features by Popularity",
+        "title_slug": "sort-features-by-popularity",
+        "difficulty": 2
+    },
+    {
+        "id": 1899,
+        "index": "1773",
+        "title": "Count Items Matching a Rule",
+        "title_slug": "count-items-matching-a-rule",
+        "difficulty": 1
+    },
+    {
+        "id": 1900,
+        "index": "1774",
+        "title": "Closest Dessert Cost",
+        "title_slug": "closest-dessert-cost",
+        "difficulty": 2
+    },
+    {
+        "id": 1901,
+        "index": "1775",
+        "title": "Equal Sum Arrays With Minimum Number of Operations",
+        "title_slug": "equal-sum-arrays-with-minimum-number-of-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 1902,
+        "index": "1776",
+        "title": "Car Fleet II",
+        "title_slug": "car-fleet-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 1926,
+        "index": "1777",
+        "title": "Product's Price for Each Store",
+        "title_slug": "products-price-for-each-store",
+        "difficulty": 1
+    },
+    {
+        "id": 1931,
+        "index": "1778",
+        "title": "Shortest Path in a Hidden Grid",
+        "title_slug": "shortest-path-in-a-hidden-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 1888,
+        "index": "1779",
+        "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+        "title_slug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+        "difficulty": 1
+    },
+    {
+        "id": 1889,
+        "index": "1780",
+        "title": "Check if Number is a Sum of Powers of Three",
+        "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
+        "difficulty": 2
+    },
+    {
+        "id": 1890,
+        "index": "1781",
+        "title": "Sum of Beauty of All Substrings",
+        "title_slug": "sum-of-beauty-of-all-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1891,
+        "index": "1782",
+        "title": "Count Pairs Of Nodes",
+        "title_slug": "count-pairs-of-nodes",
+        "difficulty": 3
+    },
+    {
+        "id": 1932,
+        "index": "1783",
+        "title": "Grand Slam Titles",
+        "title_slug": "grand-slam-titles",
+        "difficulty": 2
+    },
+    {
+        "id": 1910,
+        "index": "1784",
+        "title": "Check if Binary String Has at Most One Segment of Ones",
+        "title_slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+        "difficulty": 1
+    },
+    {
+        "id": 1911,
+        "index": "1785",
+        "title": "Minimum Elements to Add to Form a Given Sum",
+        "title_slug": "minimum-elements-to-add-to-form-a-given-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 1912,
+        "index": "1786",
+        "title": "Number of Restricted Paths From First to Last Node",
+        "title_slug": "number-of-restricted-paths-from-first-to-last-node",
+        "difficulty": 2
+    },
+    {
+        "id": 1913,
+        "index": "1787",
+        "title": "Make the XOR of All Segments Equal to Zero",
+        "title_slug": "make-the-xor-of-all-segments-equal-to-zero",
+        "difficulty": 3
+    },
+    {
+        "id": 1937,
+        "index": "1788",
+        "title": "Maximize the Beauty of the Garden",
+        "title_slug": "maximize-the-beauty-of-the-garden",
+        "difficulty": 3
+    },
+    {
+        "id": 1942,
+        "index": "1789",
+        "title": "Primary Department for Each Employee",
+        "title_slug": "primary-department-for-each-employee",
+        "difficulty": 1
+    },
+    {
+        "id": 1915,
+        "index": "1790",
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "title_slug": "check-if-one-string-swap-can-make-strings-equal",
+        "difficulty": 1
+    },
+    {
+        "id": 1916,
+        "index": "1791",
+        "title": "Find Center of Star Graph",
+        "title_slug": "find-center-of-star-graph",
+        "difficulty": 2
+    },
+    {
+        "id": 1917,
+        "index": "1792",
+        "title": "Maximum Average Pass Ratio",
+        "title_slug": "maximum-average-pass-ratio",
+        "difficulty": 2
+    },
+    {
+        "id": 1918,
+        "index": "1793",
+        "title": "Maximum Score of a Good Subarray",
+        "title_slug": "maximum-score-of-a-good-subarray",
+        "difficulty": 3
+    },
+    {
+        "id": 1943,
+        "index": "1794",
+        "title": "Count Pairs of Equal Substrings With Minimum Difference",
+        "title_slug": "count-pairs-of-equal-substrings-with-minimum-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 1948,
+        "index": "1795",
+        "title": "Rearrange Products Table",
+        "title_slug": "rearrange-products-table",
+        "difficulty": 1
+    },
+    {
+        "id": 1904,
+        "index": "1796",
+        "title": "Second Largest Digit in a String",
+        "title_slug": "second-largest-digit-in-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 1905,
+        "index": "1797",
+        "title": "Design Authentication Manager",
+        "title_slug": "design-authentication-manager",
+        "difficulty": 2
+    },
+    {
+        "id": 1930,
+        "index": "1798",
+        "title": "Maximum Number of Consecutive Values You Can Make",
+        "title_slug": "maximum-number-of-consecutive-values-you-can-make",
+        "difficulty": 2
+    },
+    {
+        "id": 1906,
+        "index": "1799",
+        "title": "Maximize Score After N Operations",
+        "title_slug": "maximize-score-after-n-operations",
+        "difficulty": 3
+    },
+    {
+        "id": 1927,
+        "index": "1800",
+        "title": "Maximum Ascending Subarray Sum",
+        "title_slug": "maximum-ascending-subarray-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 1928,
+        "index": "1801",
+        "title": "Number of Orders in the Backlog",
+        "title_slug": "number-of-orders-in-the-backlog",
+        "difficulty": 2
+    },
+    {
+        "id": 1929,
+        "index": "1802",
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "title_slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1907,
+        "index": "1803",
+        "title": "Count Pairs With XOR in a Range",
+        "title_slug": "count-pairs-with-xor-in-a-range",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -12111,7 +13000,7 @@
     },
     {
         "id": 100302,
-        "index": "剑指Offer30",
+        "index": "面试题30",
         "title": "包含min函数的栈 LCOF",
         "title_slug": "bao-han-minhan-shu-de-zhan-lcof",
         "difficulty": 1
@@ -12153,7 +13042,7 @@
     },
     {
         "id": 100317,
-        "index": "剑指Offer34",
+        "index": "面试题34",
         "title": "二叉树中和为某一值的路径 LCOF",
         "title_slug": "er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof",
         "difficulty": 2

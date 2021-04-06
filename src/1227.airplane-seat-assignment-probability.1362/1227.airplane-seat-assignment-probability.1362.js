@@ -2,10 +2,10 @@
  * @param {number} n
  * @return {number}
  */
-var nthPersonGetsNthSeat = function(n) {
-    if(n === 1){
+var nthPersonGetsNthSeat = function (n) {
+    if (n === 1) {
         return 1;
-    }else{
+    } else {
         return 0.5;
     }
 };

@@ -1,15 +1,15 @@
-function check(nums: number[]): boolean {
+function check (nums: number[]): boolean {
     let changed = false;
-    for(let i=1;i<nums.length;i++){
-        if(nums[i]<nums[i-1]){
-            if(changed){
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] < nums[i - 1]) {
+            if (changed) {
                 return false;
             }
-            if(nums[nums.length-1]>nums[0]){
+            if (nums[nums.length - 1] > nums[0]) {
                 return false;
             }
             changed = true;
         }
     }
     return true;
-};
+}

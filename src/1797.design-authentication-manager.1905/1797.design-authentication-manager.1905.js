@@ -1,40 +1,40 @@
 /**
  * @param {number} timeToLive
  */
-var AuthenticationManager = function(timeToLive) {
+var AuthenticationManager = function (timeToLive) {
     this.timeToLive = timeToLive;
     this.map = {};
 };
 
-/** 
- * @param {string} tokenId 
+/**
+ * @param {string} tokenId
  * @param {number} currentTime
  * @return {void}
  */
-AuthenticationManager.prototype.generate = function(tokenId, currentTime) {
-    this.map[tokenId] = currentTime+this.timeToLive;
+AuthenticationManager.prototype.generate = function (tokenId, currentTime) {
+    this.map[tokenId] = currentTime + this.timeToLive;
 };
 
-/** 
- * @param {string} tokenId 
+/**
+ * @param {string} tokenId
  * @param {number} currentTime
  * @return {void}
  */
-AuthenticationManager.prototype.renew = function(tokenId, currentTime) {
-    if(!this.map[tokenId] || this.map[tokenId]<=currentTime){
+AuthenticationManager.prototype.renew = function (tokenId, currentTime) {
+    if (!this.map[tokenId] || this.map[tokenId] <= currentTime) {
         return;
     }
-    this.map[tokenId] = currentTime+this.timeToLive;
+    this.map[tokenId] = currentTime + this.timeToLive;
 };
 
-/** 
+/**
  * @param {number} currentTime
  * @return {number}
  */
-AuthenticationManager.prototype.countUnexpiredTokens = function(currentTime) {
-    return Object.values(this.map).reduce((total,time)=>{
-        return total+(time>currentTime?1:0);
-    },0)
+AuthenticationManager.prototype.countUnexpiredTokens = function (currentTime) {
+    return Object.values(this.map).reduce((total, time) => {
+        return total + (time > currentTime ? 1 : 0);
+    }, 0);
 };
 
 /**

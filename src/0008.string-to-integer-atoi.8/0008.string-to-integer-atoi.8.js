@@ -5,6 +5,7 @@
 var myAtoi = function (str) {
     var num = parseInt(str);
     // 解析失败
+    // eslint-disable-next-line no-self-compare
     if (num !== num) {
         return 0;
     }

@@ -1,3 +1,3 @@
-function replaceSpace(s: string): string {
+function replaceSpace (s: string): string {
     return s.split(' ').join('%20');
-};
+}

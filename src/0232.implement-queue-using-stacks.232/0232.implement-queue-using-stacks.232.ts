@@ -1,35 +1,35 @@
 class MyQueue {
     private stack1:number[];
     private stack2:number[];
-    constructor() {
+    constructor () {
         this.stack1 = [];
         this.stack2 = [];
     }
 
-    push(x: number): void {
+    push (x: number): void {
         this.stack1.push(x);
     }
 
-    adjust():void{
-        if(this.stack2.length !== 0){
+    adjust ():void {
+        if (this.stack2.length !== 0) {
             return;
         }
-        while(this.stack1.length){
+        while (this.stack1.length) {
             this.stack2.push(this.stack1.pop()!);
         }
     }
 
-    pop(): number {
+    pop (): number {
         this.adjust();
         return this.stack2.pop()!;
     }
 
-    peek(): number {
+    peek (): number {
         this.adjust();
-        return this.stack2[this.stack2.length-1];
+        return this.stack2[this.stack2.length - 1];
     }
 
-    empty(): boolean {
+    empty (): boolean {
         return this.stack1.length === 0 && this.stack2.length === 0;
     }
 }

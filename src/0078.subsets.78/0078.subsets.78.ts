@@ -1,4 +1,4 @@
-function subsets(nums: number[]): number[][] {
+function subsets (nums: number[]): number[][] {
     const result:number[][] = [];
     backTracking(
         nums,
@@ -7,15 +7,15 @@ function subsets(nums: number[]): number[][] {
         result
     );
     return result;
-};
+}
 
-function backTracking(nums:number[],index:number,sequence:number[],result:number[][]){
-    if(index === nums.length){
+function backTracking (nums:number[], index:number, sequence:number[], result:number[][]) {
+    if (index === nums.length) {
         result.push(sequence.slice());
         return;
     }
-    backTracking(nums,index+1,sequence,result);
+    backTracking(nums, index + 1, sequence, result);
     sequence.push(nums[index++]);
-    backTracking(nums,index,sequence,result);
+    backTracking(nums, index, sequence, result);
     sequence.pop();
 }

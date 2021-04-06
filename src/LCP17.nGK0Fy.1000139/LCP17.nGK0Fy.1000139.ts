@@ -1,3 +1,3 @@
-function calculate(s: string): number {
+function calculate (s: string): number {
     return Math.pow(2, s.length);
-};
+}

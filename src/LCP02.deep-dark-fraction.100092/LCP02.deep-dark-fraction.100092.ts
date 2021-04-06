@@ -1,17 +1,17 @@
-function fraction(cont: number[]): number[] {
+function fraction (cont: number[]): number[] {
     const result = [
-        cont[cont.length-1],
-        1
+        cont[cont.length - 1],
+        1,
     ];
-    for(let i=cont.length-2;i>-1;i--){
-        swap(result,0,1);
-        result[0] += cont[i]*result[1];
-        const m = gcd(result[0],result[1]);
+    for (let i = cont.length - 2; i > -1; i--) {
+        swap(result, 0, 1);
+        result[0] += cont[i] * result[1];
+        const m = gcd(result[0], result[1]);
         result[0] /= m;
         result[1] /= m;
     }
-    return result
-};
+    return result;
+}
 
 function gcd (a:number, b:number):number {
     if (a < b) {
@@ -27,7 +27,7 @@ function gcd (a:number, b:number):number {
     return a;
 }
 
-function swap<T>(arr:T[],i,j){
+function swap<T> (arr:T[], i, j) {
     const tmp = arr[i];
     arr[i] = arr[j];
     arr[j] = tmp;

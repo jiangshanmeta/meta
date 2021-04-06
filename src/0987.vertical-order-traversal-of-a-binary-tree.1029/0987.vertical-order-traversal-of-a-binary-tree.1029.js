@@ -63,6 +63,7 @@ var verticalTraversal = function (root) {
         Object.keys(map).forEach((index) => {
             map[index].sort((a, b) => a - b);
             if (resultMap[index] === undefined) {
+                // eslint-disable-next-line no-return-assign
                 return resultMap[index] = map[index];
             }
             resultMap[index].push(...map[index]);

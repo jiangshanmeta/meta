@@ -1,25 +1,24 @@
 class ParkingSystem {
-
-    constructor(
-        public big: number, 
-        public medium: number, 
+    constructor (
+        public big: number,
+        public medium: number,
         public small: number
     ) {
     }
 
-    addCar(carType: number): boolean {
-        if(carType === 1){
-            if(this.big === 0){
+    addCar (carType: number): boolean {
+        if (carType === 1) {
+            if (this.big === 0) {
                 return false;
             }
             this.big--;
-        }else if(carType === 2){
-            if(this.medium === 0){
+        } else if (carType === 2) {
+            if (this.medium === 0) {
                 return false;
             }
             this.medium--;
-        }else{
-            if(this.small === 0){
+        } else {
+            if (this.small === 0) {
                 return false;
             }
             this.small--;

@@ -2,30 +2,31 @@ class AuthenticationManager {
     map:{
         [x:string]:number
     }
-    constructor(private timeToLive: number) {
-        this.map = {}
+
+    constructor (private timeToLive: number) {
+        this.map = {};
     }
 
-    generate(tokenId: string, currentTime: number): void {
-        this.map[tokenId] = currentTime+this.timeToLive;
+    generate (tokenId: string, currentTime: number): void {
+        this.map[tokenId] = currentTime + this.timeToLive;
     }
 
-    renew(tokenId: string, currentTime: number): void {
-        if(!this.map[tokenId] || this.map[tokenId]<=currentTime){
-            return
+    renew (tokenId: string, currentTime: number): void {
+        if (!this.map[tokenId] || this.map[tokenId] <= currentTime) {
+            return;
         }
-        this.map[tokenId] = currentTime+this.timeToLive;
+        this.map[tokenId] = currentTime + this.timeToLive;
     }
 
-    countUnexpiredTokens(currentTime: number): number {
+    countUnexpiredTokens (currentTime: number): number {
         const keys = Object.keys(this.map);
         let result = 0;
-        for(let i=0;i<keys.length;i++){
-            if(this.map[keys[i]]>currentTime){
+        for (let i = 0; i < keys.length; i++) {
+            if (this.map[keys[i]] > currentTime) {
                 result++;
             }
         }
-        return result
+        return result;
     }
 }
 

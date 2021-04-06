@@ -1,27 +1,27 @@
 class MyStack {
     private queue:number[];
-    constructor() {
+    constructor () {
         this.queue = [];
     }
 
-    push(x: number): void {
+    push (x: number): void {
         let count = this.queue.length;
         this.queue.push(x);
-        while(count){
+        while (count) {
             this.queue.push(this.queue.shift());
             count--;
         }
     }
 
-    pop(): number {
-        return this.queue.shift()
+    pop (): number {
+        return this.queue.shift();
     }
 
-    top(): number {
+    top (): number {
         return this.queue[0];
     }
 
-    empty(): boolean {
+    empty (): boolean {
         return this.queue.length === 0;
     }
 }

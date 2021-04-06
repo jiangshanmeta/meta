@@ -1,100 +1,97 @@
-var FrontMiddleBackQueue = function() {
+var FrontMiddleBackQueue = function () {
     this.head = new DoubleLinkedList();
     this.tail = new DoubleLinkedList();
     this.middle = null;
     this.size = 0;
 };
 
-function DoubleLinkedList(val){
+function DoubleLinkedList (val) {
     this.val = val;
     this.prev = null;
     this.next = null;
 }
 
-function insertAfter(prev,node){
+function insertAfter (prev, node) {
     node.next = prev.next;
     node.next.prev = node;
     prev.next = node;
     node.prev = prev;
 }
 
-FrontMiddleBackQueue.prototype.pushEmpty = function(node){
+FrontMiddleBackQueue.prototype.pushEmpty = function (node) {
     this.head.next = node;
     node.prev = this.head;
     node.next = this.tail;
     this.tail.prev = node;
     this.middle = node;
-}
+};
 
-/** 
+/**
  * @param {number} val
  * @return {void}
  */
-FrontMiddleBackQueue.prototype.pushFront = function(val) {
+FrontMiddleBackQueue.prototype.pushFront = function (val) {
     const node = new DoubleLinkedList(val);
     const size = this.size;
     this.size++;
-    if(size === 0){
+    if (size === 0) {
         this.pushEmpty(node);
         return;
     }
-    insertAfter(this.head,node);
-    if(size&1){
+    insertAfter(this.head, node);
+    if (size & 1) {
         this.middle = this.middle.prev;
     }
 };
 
-/** 
+/**
  * @param {number} val
  * @return {void}
  */
-FrontMiddleBackQueue.prototype.pushMiddle = function(val) {
+FrontMiddleBackQueue.prototype.pushMiddle = function (val) {
     const node = new DoubleLinkedList(val);
     const size = this.size;
     this.size++;
-    if(size === 0){
+    if (size === 0) {
         this.pushEmpty(node);
         return;
     }
-    if(size&1){
-        insertAfter(this.middle.prev,node)
+    if (size & 1) {
+        insertAfter(this.middle.prev, node);
         this.middle = this.middle.prev;
-    }else{
-        insertAfter(this.middle,node);
+    } else {
+        insertAfter(this.middle, node);
         this.middle = this.middle.next;
     }
 };
 
-
-
-/** 
+/**
  * @param {number} val
  * @return {void}
  */
-FrontMiddleBackQueue.prototype.pushBack = function(val) {
+FrontMiddleBackQueue.prototype.pushBack = function (val) {
     const node = new DoubleLinkedList(val);
     const size = this.size;
     this.size++;
-    if(size === 0){
+    if (size === 0) {
         this.pushEmpty(node);
         return;
     }
-    insertAfter(this.tail.prev,node);
-    if(size%2 === 0){
+    insertAfter(this.tail.prev, node);
+    if (size % 2 === 0) {
         this.middle = this.middle.next;
     }
-
 };
 
-FrontMiddleBackQueue.prototype.popEmpty = function(){
+FrontMiddleBackQueue.prototype.popEmpty = function () {
     const val = this.middle.val;
     this.middle = null;
     this.head.next = this.tail;
     this.tail.prev = this.head;
     return val;
-}
+};
 
-function removeAfter(node){
+function removeAfter (node) {
     const next = node.next;
     node.next = next.next;
     node.next.prev = node;
@@ -105,17 +102,17 @@ function removeAfter(node){
 /**
  * @return {number}
  */
-FrontMiddleBackQueue.prototype.popFront = function() {
+FrontMiddleBackQueue.prototype.popFront = function () {
     const size = this.size;
-    if(size === 0){
+    if (size === 0) {
         return -1;
     }
     this.size--;
-    if(size === 1){
+    if (size === 1) {
         return this.popEmpty();
     }
     const val = this.head.next.val;
-    if(size%2 === 0){
+    if (size % 2 === 0) {
         this.middle = this.middle.next;
     }
 
@@ -126,42 +123,42 @@ FrontMiddleBackQueue.prototype.popFront = function() {
 /**
  * @return {number}
  */
-FrontMiddleBackQueue.prototype.popMiddle = function() {
+FrontMiddleBackQueue.prototype.popMiddle = function () {
     const size = this.size;
-    if(size === 0){
+    if (size === 0) {
         return -1;
     }
     this.size--;
-    if(size === 1){
+    if (size === 1) {
         return this.popEmpty();
     }
     const val = this.middle.val;
     const prev = this.middle.prev;
-    if(size&1){
+    if (size & 1) {
         this.middle = this.middle.prev;
-    }else{
+    } else {
         this.middle = this.middle.next;
     }
     removeAfter(prev);
-    
+
     return val;
 };
 
 /**
  * @return {number}
  */
-FrontMiddleBackQueue.prototype.popBack = function() {
+FrontMiddleBackQueue.prototype.popBack = function () {
     const size = this.size;
-    if(size === 0){
+    if (size === 0) {
         return -1;
     }
     this.size--;
-    if(size === 1){
+    if (size === 1) {
         return this.popEmpty();
     }
     const val = this.tail.prev.val;
     removeAfter(this.tail.prev.prev);
-    if(size&1){
+    if (size & 1) {
         this.middle = this.middle.prev;
     }
 
