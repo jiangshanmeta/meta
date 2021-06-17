@@ -263,7 +263,7 @@
         "index": "0038",
         "title": "Count and Say",
         "title_slug": "count-and-say",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 39,
@@ -655,7 +655,7 @@
         "index": "0094",
         "title": "Binary Tree Inorder Traversal",
         "title_slug": "binary-tree-inorder-traversal",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 95,
@@ -690,7 +690,7 @@
         "index": "0099",
         "title": "Recover Binary Search Tree",
         "title_slug": "recover-binary-search-tree",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 100,
@@ -893,7 +893,7 @@
         "index": "0128",
         "title": "Longest Consecutive Sequence",
         "title_slug": "longest-consecutive-sequence",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 129,
@@ -1005,14 +1005,14 @@
         "index": "0144",
         "title": "Binary Tree Preorder Traversal",
         "title_slug": "binary-tree-preorder-traversal",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 145,
         "index": "0145",
         "title": "Binary Tree Postorder Traversal",
         "title_slug": "binary-tree-postorder-traversal",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 146,
@@ -2363,14 +2363,14 @@
         "index": "0338",
         "title": "Counting Bits",
         "title_slug": "counting-bits",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 339,
         "index": "0339",
         "title": "Nested List Weight Sum",
         "title_slug": "nested-list-weight-sum",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 340,
@@ -3462,7 +3462,7 @@
         "index": "0495",
         "title": "Teemo Attacking",
         "title_slug": "teemo-attacking",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 496,
@@ -4652,7 +4652,7 @@
         "index": "0665",
         "title": "Non-decreasing Array",
         "title_slug": "non-decreasing-array",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 666,
@@ -5254,7 +5254,7 @@
         "index": "0751",
         "title": "IP to CIDR",
         "title_slug": "ip-to-cidr",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 753,
@@ -5303,7 +5303,7 @@
         "index": "0758",
         "title": "Bold Words in String",
         "title_slug": "bold-words-in-string",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 761,
@@ -8558,7 +8558,7 @@
         "index": "1223",
         "title": "Dice Roll Simulation",
         "title_slug": "dice-roll-simulation",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 1344,
@@ -12733,6 +12733,587 @@
         "difficulty": 3
     },
     {
+        "id": 1969,
+        "index": "1820",
+        "title": "Maximum Number of Accepted Invitations",
+        "title_slug": "maximum-number-of-accepted-invitations",
+        "difficulty": 2
+    },
+    {
+        "id": 1974,
+        "index": "1821",
+        "title": "Find Customers With Positive Revenue this Year",
+        "title_slug": "find-customers-with-positive-revenue-this-year",
+        "difficulty": 1
+    },
+    {
+        "id": 1950,
+        "index": "1822",
+        "title": "Sign of the Product of an Array",
+        "title_slug": "sign-of-the-product-of-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 1951,
+        "index": "1823",
+        "title": "Find the Winner of the Circular Game",
+        "title_slug": "find-the-winner-of-the-circular-game",
+        "difficulty": 2
+    },
+    {
+        "id": 1952,
+        "index": "1824",
+        "title": "Minimum Sideway Jumps",
+        "title_slug": "minimum-sideway-jumps",
+        "difficulty": 2
+    },
+    {
+        "id": 1953,
+        "index": "1825",
+        "title": "Finding MK Average",
+        "title_slug": "finding-mk-average",
+        "difficulty": 3
+    },
+    {
+        "id": 1980,
+        "index": "1826",
+        "title": "Faulty Sensor",
+        "title_slug": "faulty-sensor",
+        "difficulty": 1
+    },
+    {
+        "id": 1938,
+        "index": "1827",
+        "title": "Minimum Operations to Make the Array Increasing",
+        "title_slug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": 1
+    },
+    {
+        "id": 1939,
+        "index": "1828",
+        "title": "Queries on Number of Points Inside a Circle",
+        "title_slug": "queries-on-number-of-points-inside-a-circle",
+        "difficulty": 2
+    },
+    {
+        "id": 1940,
+        "index": "1829",
+        "title": "Maximum XOR for Each Query",
+        "title_slug": "maximum-xor-for-each-query",
+        "difficulty": 2
+    },
+    {
+        "id": 1941,
+        "index": "1830",
+        "title": "Minimum Number of Operations to Make String Sorted",
+        "title_slug": "minimum-number-of-operations-to-make-string-sorted",
+        "difficulty": 3
+    },
+    {
+        "id": 1981,
+        "index": "1831",
+        "title": "Maximum Transaction Each Day",
+        "title_slug": "maximum-transaction-each-day",
+        "difficulty": 2
+    },
+    {
+        "id": 1960,
+        "index": "1832",
+        "title": "Check if the Sentence Is Pangram",
+        "title_slug": "check-if-the-sentence-is-pangram",
+        "difficulty": 1
+    },
+    {
+        "id": 1961,
+        "index": "1833",
+        "title": "Maximum Ice Cream Bars",
+        "title_slug": "maximum-ice-cream-bars",
+        "difficulty": 2
+    },
+    {
+        "id": 1962,
+        "index": "1834",
+        "title": "Single-Threaded CPU",
+        "title_slug": "single-threaded-cpu",
+        "difficulty": 2
+    },
+    {
+        "id": 1963,
+        "index": "1835",
+        "title": "Find XOR Sum of All Pairs Bitwise AND",
+        "title_slug": "find-xor-sum-of-all-pairs-bitwise-and",
+        "difficulty": 3
+    },
+    {
+        "id": 1982,
+        "index": "1836",
+        "title": "Remove Duplicates From an Unsorted Linked List",
+        "title_slug": "remove-duplicates-from-an-unsorted-linked-list",
+        "difficulty": 2
+    },
+    {
+        "id": 1965,
+        "index": "1837",
+        "title": "Sum of Digits in Base K",
+        "title_slug": "sum-of-digits-in-base-k",
+        "difficulty": 1
+    },
+    {
+        "id": 1966,
+        "index": "1838",
+        "title": "Frequency of the Most Frequent Element",
+        "title_slug": "frequency-of-the-most-frequent-element",
+        "difficulty": 2
+    },
+    {
+        "id": 1967,
+        "index": "1839",
+        "title": "Longest Substring Of All Vowels in Order",
+        "title_slug": "longest-substring-of-all-vowels-in-order",
+        "difficulty": 2
+    },
+    {
+        "id": 1968,
+        "index": "1840",
+        "title": "Maximum Building Height",
+        "title_slug": "maximum-building-height",
+        "difficulty": 3
+    },
+    {
+        "id": 1991,
+        "index": "1841",
+        "title": "League Statistics",
+        "title_slug": "league-statistics",
+        "difficulty": 2
+    },
+    {
+        "id": 1997,
+        "index": "1842",
+        "title": "Next Palindrome Using Same Digits",
+        "title_slug": "next-palindrome-using-same-digits",
+        "difficulty": 3
+    },
+    {
+        "id": 1998,
+        "index": "1843",
+        "title": "Suspicious Bank Accounts",
+        "title_slug": "suspicious-bank-accounts",
+        "difficulty": 2
+    },
+    {
+        "id": 1954,
+        "index": "1844",
+        "title": "Replace All Digits with Characters",
+        "title_slug": "replace-all-digits-with-characters",
+        "difficulty": 1
+    },
+    {
+        "id": 1955,
+        "index": "1845",
+        "title": "Seat Reservation Manager",
+        "title_slug": "seat-reservation-manager",
+        "difficulty": 2
+    },
+    {
+        "id": 1956,
+        "index": "1846",
+        "title": "Maximum Element After Decreasing and Rearranging",
+        "title_slug": "maximum-element-after-decreasing-and-rearranging",
+        "difficulty": 2
+    },
+    {
+        "id": 1957,
+        "index": "1847",
+        "title": "Closest Room",
+        "title_slug": "closest-room",
+        "difficulty": 3
+    },
+    {
+        "id": 1975,
+        "index": "1848",
+        "title": "Minimum Distance to the Target Element",
+        "title_slug": "minimum-distance-to-the-target-element",
+        "difficulty": 1
+    },
+    {
+        "id": 1976,
+        "index": "1849",
+        "title": "Splitting a String Into Descending Consecutive Values",
+        "title_slug": "splitting-a-string-into-descending-consecutive-values",
+        "difficulty": 2
+    },
+    {
+        "id": 1978,
+        "index": "1850",
+        "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+        "title_slug": "minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+        "difficulty": 2
+    },
+    {
+        "id": 1977,
+        "index": "1851",
+        "title": "Minimum Interval to Include Each Query",
+        "title_slug": "minimum-interval-to-include-each-query",
+        "difficulty": 3
+    },
+    {
+        "id": 2003,
+        "index": "1852",
+        "title": "Distinct Numbers in Each Subarray",
+        "title_slug": "distinct-numbers-in-each-subarray",
+        "difficulty": 2
+    },
+    {
+        "id": 2004,
+        "index": "1853",
+        "title": "Convert Date Format",
+        "title_slug": "convert-date-format",
+        "difficulty": 1
+    },
+    {
+        "id": 1983,
+        "index": "1854",
+        "title": "Maximum Population Year",
+        "title_slug": "maximum-population-year",
+        "difficulty": 1
+    },
+    {
+        "id": 1984,
+        "index": "1855",
+        "title": "Maximum Distance Between a Pair of Values",
+        "title_slug": "maximum-distance-between-a-pair-of-values",
+        "difficulty": 2
+    },
+    {
+        "id": 1985,
+        "index": "1856",
+        "title": "Maximum Subarray Min-Product",
+        "title_slug": "maximum-subarray-min-product",
+        "difficulty": 2
+    },
+    {
+        "id": 1986,
+        "index": "1857",
+        "title": "Largest Color Value in a Directed Graph",
+        "title_slug": "largest-color-value-in-a-directed-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 2009,
+        "index": "1858",
+        "title": "Longest Word With All Prefixes",
+        "title_slug": "longest-word-with-all-prefixes",
+        "difficulty": 2
+    },
+    {
+        "id": 1970,
+        "index": "1859",
+        "title": "Sorting the Sentence",
+        "title_slug": "sorting-the-sentence",
+        "difficulty": 1
+    },
+    {
+        "id": 1971,
+        "index": "1860",
+        "title": "Incremental Memory Leak",
+        "title_slug": "incremental-memory-leak",
+        "difficulty": 2
+    },
+    {
+        "id": 1972,
+        "index": "1861",
+        "title": "Rotating the Box",
+        "title_slug": "rotating-the-box",
+        "difficulty": 2
+    },
+    {
+        "id": 1326,
+        "index": "1862",
+        "title": "Sum of Floored Pairs",
+        "title_slug": "sum-of-floored-pairs",
+        "difficulty": 3
+    },
+    {
+        "id": 1993,
+        "index": "1863",
+        "title": "Sum of All Subset XOR Totals",
+        "title_slug": "sum-of-all-subset-xor-totals",
+        "difficulty": 1
+    },
+    {
+        "id": 1994,
+        "index": "1864",
+        "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+        "title_slug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+        "difficulty": 2
+    },
+    {
+        "id": 1995,
+        "index": "1865",
+        "title": "Finding Pairs With a Certain Sum",
+        "title_slug": "finding-pairs-with-a-certain-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 1996,
+        "index": "1866",
+        "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+        "title_slug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+        "difficulty": 3
+    },
+    {
+        "id": 2014,
+        "index": "1867",
+        "title": "Orders With Maximum Quantity Above Average",
+        "title_slug": "orders-with-maximum-quantity-above-average",
+        "difficulty": 2
+    },
+    {
+        "id": 2019,
+        "index": "1868",
+        "title": "Product of Two Run-Length Encoded Arrays",
+        "title_slug": "product-of-two-run-length-encoded-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 1999,
+        "index": "1869",
+        "title": "Longer Contiguous Segments of Ones than Zeros",
+        "title_slug": "longer-contiguous-segments-of-ones-than-zeros",
+        "difficulty": 1
+    },
+    {
+        "id": 2000,
+        "index": "1870",
+        "title": "Minimum Speed to Arrive on Time",
+        "title_slug": "minimum-speed-to-arrive-on-time",
+        "difficulty": 2
+    },
+    {
+        "id": 2001,
+        "index": "1871",
+        "title": "Jump Game VII",
+        "title_slug": "jump-game-vii",
+        "difficulty": 2
+    },
+    {
+        "id": 2002,
+        "index": "1872",
+        "title": "Stone Game VIII",
+        "title_slug": "stone-game-viii",
+        "difficulty": 3
+    },
+    {
+        "id": 2024,
+        "index": "1873",
+        "title": "Calculate Special Bonus",
+        "title_slug": "calculate-special-bonus",
+        "difficulty": 1
+    },
+    {
+        "id": 2029,
+        "index": "1874",
+        "title": "Minimize Product Sum of Two Arrays",
+        "title_slug": "minimize-product-sum-of-two-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2030,
+        "index": "1875",
+        "title": "Group Employees of the Same Salary",
+        "title_slug": "group-employees-of-the-same-salary",
+        "difficulty": 2
+    },
+    {
+        "id": 1987,
+        "index": "1876",
+        "title": "Substrings of Size Three with Distinct Characters",
+        "title_slug": "substrings-of-size-three-with-distinct-characters",
+        "difficulty": 1
+    },
+    {
+        "id": 1988,
+        "index": "1877",
+        "title": "Minimize Maximum Pair Sum in Array",
+        "title_slug": "minimize-maximum-pair-sum-in-array",
+        "difficulty": 2
+    },
+    {
+        "id": 1990,
+        "index": "1878",
+        "title": "Get Biggest Three Rhombus Sums in a Grid",
+        "title_slug": "get-biggest-three-rhombus-sums-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 1989,
+        "index": "1879",
+        "title": "Minimum XOR Sum of Two Arrays",
+        "title_slug": "minimum-xor-sum-of-two-arrays",
+        "difficulty": 3
+    },
+    {
+        "id": 2010,
+        "index": "1880",
+        "title": "Check if Word Equals Summation of Two Words",
+        "title_slug": "check-if-word-equals-summation-of-two-words",
+        "difficulty": 1
+    },
+    {
+        "id": 2011,
+        "index": "1881",
+        "title": "Maximum Value after Insertion",
+        "title_slug": "maximum-value-after-insertion",
+        "difficulty": 2
+    },
+    {
+        "id": 2012,
+        "index": "1882",
+        "title": "Process Tasks Using Servers",
+        "title_slug": "process-tasks-using-servers",
+        "difficulty": 2
+    },
+    {
+        "id": 2013,
+        "index": "1883",
+        "title": "Minimum Skips to Arrive at Meeting On Time",
+        "title_slug": "minimum-skips-to-arrive-at-meeting-on-time",
+        "difficulty": 3
+    },
+    {
+        "id": 2031,
+        "index": "1884",
+        "title": "Egg Drop With 2 Eggs and N Floors",
+        "title_slug": "egg-drop-with-2-eggs-and-n-floors",
+        "difficulty": 2
+    },
+    {
+        "id": 2036,
+        "index": "1885",
+        "title": "Count Pairs in Two Arrays",
+        "title_slug": "count-pairs-in-two-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2015,
+        "index": "1886",
+        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "title_slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+        "difficulty": 1
+    },
+    {
+        "id": 2016,
+        "index": "1887",
+        "title": "Reduction Operations to Make the Array Elements Equal",
+        "title_slug": "reduction-operations-to-make-the-array-elements-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 2017,
+        "index": "1888",
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "title_slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+        "difficulty": 2
+    },
+    {
+        "id": 2018,
+        "index": "1889",
+        "title": "Minimum Space Wasted From Packaging",
+        "title_slug": "minimum-space-wasted-from-packaging",
+        "difficulty": 3
+    },
+    {
+        "id": 2041,
+        "index": "1890",
+        "title": "The Latest Login in 2020",
+        "title_slug": "the-latest-login-in-2020",
+        "difficulty": 1
+    },
+    {
+        "id": 2045,
+        "index": "1891",
+        "title": "Cutting Ribbons",
+        "title_slug": "cutting-ribbons",
+        "difficulty": 2
+    },
+    {
+        "id": 2046,
+        "index": "1892",
+        "title": "Page Recommendations II",
+        "title_slug": "page-recommendations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 2005,
+        "index": "1893",
+        "title": "Check if All the Integers in a Range Are Covered",
+        "title_slug": "check-if-all-the-integers-in-a-range-are-covered",
+        "difficulty": 1
+    },
+    {
+        "id": 2006,
+        "index": "1894",
+        "title": "Find the Student that Will Replace the Chalk",
+        "title_slug": "find-the-student-that-will-replace-the-chalk",
+        "difficulty": 2
+    },
+    {
+        "id": 1311,
+        "index": "1895",
+        "title": "Largest Magic Square",
+        "title_slug": "largest-magic-square",
+        "difficulty": 2
+    },
+    {
+        "id": 2008,
+        "index": "1896",
+        "title": "Minimum Cost to Change the Final Value of Expression",
+        "title_slug": "minimum-cost-to-change-the-final-value-of-expression",
+        "difficulty": 3
+    },
+    {
+        "id": 2025,
+        "index": "1897",
+        "title": "Redistribute Characters to Make All Strings Equal",
+        "title_slug": "redistribute-characters-to-make-all-strings-equal",
+        "difficulty": 1
+    },
+    {
+        "id": 2027,
+        "index": "1898",
+        "title": "Maximum Number of Removable Characters",
+        "title_slug": "maximum-number-of-removable-characters",
+        "difficulty": 2
+    },
+    {
+        "id": 2026,
+        "index": "1899",
+        "title": "Merge Triplets to Form Target Triplet",
+        "title_slug": "merge-triplets-to-form-target-triplet",
+        "difficulty": 2
+    },
+    {
+        "id": 2028,
+        "index": "1900",
+        "title": "The Earliest and Latest Rounds Where Players Compete",
+        "title_slug": "the-earliest-and-latest-rounds-where-players-compete",
+        "difficulty": 3
+    },
+    {
+        "id": 2047,
+        "index": "1901",
+        "title": "Find a Peak Element II",
+        "title_slug": "find-a-peak-element-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2052,
+        "index": "1902",
+        "title": "Depth of BST Given Insertion Order",
+        "title_slug": "depth-of-bst-given-insertion-order",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -12957,6 +13538,48 @@
         "difficulty": 3
     },
     {
+        "id": 1000221,
+        "index": "LCP33",
+        "title": "蓄水",
+        "title_slug": "o8SXZn",
+        "difficulty": 1
+    },
+    {
+        "id": 1000089,
+        "index": "LCP34",
+        "title": "二叉树染色",
+        "title_slug": "er-cha-shu-ran-se-UGC",
+        "difficulty": 2
+    },
+    {
+        "id": 1000220,
+        "index": "LCP35",
+        "title": "电动车游城市",
+        "title_slug": "DFPeFJ",
+        "difficulty": 3
+    },
+    {
+        "id": 1000222,
+        "index": "LCP36",
+        "title": "最多牌组数",
+        "title_slug": "Up5XYM",
+        "difficulty": 3
+    },
+    {
+        "id": 1000091,
+        "index": "LCP37",
+        "title": "最小矩形面积",
+        "title_slug": "zui-xiao-ju-xing-mian-ji",
+        "difficulty": 3
+    },
+    {
+        "id": 1000223,
+        "index": "LCP38",
+        "title": "守卫城堡",
+        "title_slug": "7rLGCR",
+        "difficulty": 3
+    },
+    {
         "id": 100275,
         "index": "剑指Offer03",
         "title": "数组中重复的数字 LCOF",
@@ -13147,7 +13770,7 @@
     },
     {
         "id": 100302,
-        "index": "面试题30",
+        "index": "剑指Offer30",
         "title": "包含min函数的栈 LCOF",
         "title_slug": "bao-han-minhan-shu-de-zhan-lcof",
         "difficulty": 1
@@ -13189,7 +13812,7 @@
     },
     {
         "id": 100317,
-        "index": "面试题34",
+        "index": "剑指Offer34",
         "title": "二叉树中和为某一值的路径 LCOF",
         "title_slug": "er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof",
         "difficulty": 2
@@ -13399,7 +14022,7 @@
     },
     {
         "id": 100336,
-        "index": "面试题59-I",
+        "index": "剑指Offer59-I",
         "title": "滑动窗口的最大值 LCOF",
         "title_slug": "hua-dong-chuang-kou-de-zui-da-zhi-lcof",
         "difficulty": 3
