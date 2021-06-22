@@ -50,6 +50,7 @@ function writeLocalQuestion (json) {
     const lcof = [];
     // 程序员面试经典
     const lcci = [];
+    const lcs = [];
 
     questionList.forEach((question) => {
         const index = question.index;
@@ -62,6 +63,8 @@ function writeLocalQuestion (json) {
             lcof.push(question);
         } else if (title_slug.endsWith('lcci')) {
             lcci.push(question);
+        } else if (index.startsWith('LCS')) {
+            lcs.push(question);
         } else {
             console.log(question);
         }
@@ -93,11 +96,18 @@ function writeLocalQuestion (json) {
         }
     });
 
+    lcs.sort((a, b) => {
+        const indexA = +a.index.split(' ')[1];
+        const indexB = +b.index.split(' ')[1];
+        return indexA - indexB;
+    });
+
     const sortedList = [
         ...algorithms,
         ...lcp,
         ...lcof,
         ...lcci,
+        ...lcs,
     ];
 
     sortedList.forEach((data) => {

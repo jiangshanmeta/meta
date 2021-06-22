@@ -1871,22 +1871,22 @@
 | 1851 | Minimum Interval to Include Each Query |  | Hard  |
 | 1852 | Distinct Numbers in Each Subarray |  | Medium  |
 | 1853 | Convert Date Format |  | Easy  |
-| 1854 | Maximum Population Year |  | Easy  |
-| 1855 | Maximum Distance Between a Pair of Values |  | Medium  |
+| 1854 | Maximum Population Year | [JavaScript](./src/1854.maximum-population-year.1983/1854.maximum-population-year.1983.js) [TypeScript](./src/1854.maximum-population-year.1983/1854.maximum-population-year.1983.ts) | Easy  |
+| 1855 | Maximum Distance Between a Pair of Values | [JavaScript](./src/1855.maximum-distance-between-a-pair-of-values.1984/1855.maximum-distance-between-a-pair-of-values.1984.js) [TypeScript](./src/1855.maximum-distance-between-a-pair-of-values.1984/1855.maximum-distance-between-a-pair-of-values.1984.ts) | Medium  |
 | 1856 | Maximum Subarray Min-Product |  | Medium  |
 | 1857 | Largest Color Value in a Directed Graph |  | Hard  |
 | 1858 | Longest Word With All Prefixes |  | Medium  |
-| 1859 | Sorting the Sentence |  | Easy  |
+| 1859 | Sorting the Sentence | [JavaScript](./src/1859.sorting-the-sentence.1970/1859.sorting-the-sentence.1970.js) [TypeScript](./src/1859.sorting-the-sentence.1970/1859.sorting-the-sentence.1970.ts) | Easy  |
 | 1860 | Incremental Memory Leak |  | Medium  |
 | 1861 | Rotating the Box |  | Medium  |
 | 1862 | Sum of Floored Pairs |  | Hard  |
-| 1863 | Sum of All Subset XOR Totals |  | Easy  |
+| 1863 | Sum of All Subset XOR Totals | [JavaScript](./src/1863.sum-of-all-subset-xor-totals.1993/1863.sum-of-all-subset-xor-totals.1993.js) [TypeScript](./src/1863.sum-of-all-subset-xor-totals.1993/1863.sum-of-all-subset-xor-totals.1993.ts) | Easy  |
 | 1864 | Minimum Number of Swaps to Make the Binary String Alternating |  | Medium  |
 | 1865 | Finding Pairs With a Certain Sum |  | Medium  |
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible |  | Hard  |
 | 1867 | Orders With Maximum Quantity Above Average |  | Medium  |
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
-| 1869 | Longer Contiguous Segments of Ones than Zeros |  | Easy  |
+| 1869 | Longer Contiguous Segments of Ones than Zeros | [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.ts) | Easy  |
 | 1870 | Minimum Speed to Arrive on Time |  | Medium  |
 | 1871 | Jump Game VII |  | Medium  |
 | 1872 | Stone Game VIII |  | Hard  |
@@ -1897,7 +1897,7 @@
 | 1877 | Minimize Maximum Pair Sum in Array |  | Medium  |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid |  | Medium  |
 | 1879 | Minimum XOR Sum of Two Arrays |  | Hard  |
-| 1880 | Check if Word Equals Summation of Two Words |  | Easy  |
+| 1880 | Check if Word Equals Summation of Two Words | [JavaScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/1880.check-if-word-equals-summation-of-two-words.2010.js) [TypeScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/1880.check-if-word-equals-summation-of-two-words.2010.ts) | Easy  |
 | 1881 | Maximum Value after Insertion |  | Medium  |
 | 1882 | Process Tasks Using Servers |  | Medium  |
 | 1883 | Minimum Skips to Arrive at Meeting On Time |  | Hard  |
@@ -1910,16 +1910,20 @@
 | 1890 | The Latest Login in 2020 |  | Easy  |
 | 1891 | Cutting Ribbons |  | Medium  |
 | 1892 | Page Recommendations II |  | Hard  |
-| 1893 | Check if All the Integers in a Range Are Covered |  | Easy  |
+| 1893 | Check if All the Integers in a Range Are Covered | [JavaScript](./src/1893.check-if-all-the-integers-in-a-range-are-covered.2005/1893.check-if-all-the-integers-in-a-range-are-covered.2005.js) [TypeScript](./src/1893.check-if-all-the-integers-in-a-range-are-covered.2005/1893.check-if-all-the-integers-in-a-range-are-covered.2005.ts) | Easy  |
 | 1894 | Find the Student that Will Replace the Chalk |  | Medium  |
 | 1895 | Largest Magic Square |  | Medium  |
 | 1896 | Minimum Cost to Change the Final Value of Expression |  | Hard  |
-| 1897 | Redistribute Characters to Make All Strings Equal |  | Easy  |
+| 1897 | Redistribute Characters to Make All Strings Equal | [JavaScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/1897.redistribute-characters-to-make-all-strings-equal.2025.js) [TypeScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/1897.redistribute-characters-to-make-all-strings-equal.2025.ts) | Easy  |
 | 1898 | Maximum Number of Removable Characters |  | Medium  |
 | 1899 | Merge Triplets to Form Target Triplet |  | Medium  |
 | 1900 | The Earliest and Latest Rounds Where Players Compete |  | Hard  |
 | 1901 | Find a Peak Element II |  | Medium  |
 | 1902 | Depth of BST Given Insertion Order |  | Medium  |
+| 1903 | Largest Odd Number in String | [JavaScript](./src/1903.largest-odd-number-in-string.2032/1903.largest-odd-number-in-string.2032.js) [TypeScript](./src/1903.largest-odd-number-in-string.2032/1903.largest-odd-number-in-string.2032.ts) | Easy  |
+| 1904 | The Number of Full Rounds You Have Played | [JavaScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/1904.the-number-of-full-rounds-you-have-played.2033.js) [TypeScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/1904.the-number-of-full-rounds-you-have-played.2033.ts) | Medium  |
+| 1905 | Count Sub Islands | [JavaScript](./src/1905.count-sub-islands.2035/1905.count-sub-islands.2035.js) [TypeScript](./src/1905.count-sub-islands.2035/1905.count-sub-islands.2035.ts) | Medium  |
+| 1906 | Minimum Absolute Difference Queries | [JavaScript](./src/1906.minimum-absolute-difference-queries.2034/1906.minimum-absolute-difference-queries.2034.js) [TypeScript](./src/1906.minimum-absolute-difference-queries.2034/1906.minimum-absolute-difference-queries.2034.ts) | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2142,3 +2146,6 @@
 | 面试题17_24 | Max Submatrix LCCI |  | Hard  |
 | 面试题17_25 | Word Rectangle LCCI |  | Hard  |
 | 面试题17_26 | Sparse Similarity LCCI |  | Hard  |
+| LCS01 | 下载插件 |  | Easy  |
+| LCS02 | 完成一半题目 |  | Easy  |
+| LCS03 | 主题空间 |  | Medium  |

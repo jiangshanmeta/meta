@@ -13314,6 +13314,34 @@
         "difficulty": 2
     },
     {
+        "id": 2032,
+        "index": "1903",
+        "title": "Largest Odd Number in String",
+        "title_slug": "largest-odd-number-in-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2033,
+        "index": "1904",
+        "title": "The Number of Full Rounds You Have Played",
+        "title_slug": "the-number-of-full-rounds-you-have-played",
+        "difficulty": 2
+    },
+    {
+        "id": 2035,
+        "index": "1905",
+        "title": "Count Sub Islands",
+        "title_slug": "count-sub-islands",
+        "difficulty": 2
+    },
+    {
+        "id": 2034,
+        "index": "1906",
+        "title": "Minimum Absolute Difference Queries",
+        "title_slug": "minimum-absolute-difference-queries",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -14866,5 +14894,26 @@
         "title": "Sparse Similarity LCCI",
         "title_slug": "sparse-similarity-lcci",
         "difficulty": 3
+    },
+    {
+        "id": 1000225,
+        "index": "LCS01",
+        "title": "下载插件",
+        "title_slug": "Ju9Xwi",
+        "difficulty": 1
+    },
+    {
+        "id": 1000226,
+        "index": "LCS02",
+        "title": "完成一半题目",
+        "title_slug": "WqXACV",
+        "difficulty": 1
+    },
+    {
+        "id": 1000227,
+        "index": "LCS03",
+        "title": "主题空间",
+        "title_slug": "YesdPw",
+        "difficulty": 2
     }
 ]
