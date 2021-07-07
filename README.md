@@ -818,7 +818,7 @@
 | 0798 | Smallest Rotation with Highest Score |  | Hard  |
 | 0799 | Champagne Tower | [JavaScript](./src/0799.champagne-tower.815/0799.champagne-tower.815.js) | Medium  |
 | 0800 | Similar RGB Color | [JavaScript](./src/0800.similar-rgb-color.818/0800.similar-rgb-color.818.js) [TypeScript](./src/0800.similar-rgb-color.818/0800.similar-rgb-color.818.ts) | Easy  |
-| 0801 | Minimum Swaps To Make Sequences Increasing |  | Medium  |
+| 0801 | Minimum Swaps To Make Sequences Increasing |  | Hard  |
 | 0802 | Find Eventual Safe States | [JavaScript](./src/0802.find-eventual-safe-states.820/0802.find-eventual-safe-states.820.js) | Medium  |
 | 0803 | Bricks Falling When Hit |  | Hard  |
 | 0804 | Unique Morse Code Words | [JavaScript](./src/0804.unique-morse-code-words.822/0804.unique-morse-code-words.822.js) [TypeScript](./src/0804.unique-morse-code-words.822/0804.unique-morse-code-words.822.ts) | Easy  |
@@ -1221,7 +1221,7 @@
 | 1201 | Ugly Number III | [JavaScript](./src/1201.ugly-number-iii.1307/1201.ugly-number-iii.1307.js) | Medium  |
 | 1202 | Smallest String With Swaps | [JavaScript](./src/1202.smallest-string-with-swaps.1308/1202.smallest-string-with-swaps.1308.js) [TypeScript](./src/1202.smallest-string-with-swaps.1308/1202.smallest-string-with-swaps.1308.ts) | Medium  |
 | 1203 | Sort Items by Groups Respecting Dependencies |  | Hard  |
-| 1204 | Last Person to Fit in the Elevator |  | Medium  |
+| 1204 | Last Person to Fit in the Bus |  | Medium  |
 | 1205 | Monthly Transactions II |  | Medium  |
 | 1206 | Design Skiplist |  | Hard  |
 | 1207 | Unique Number of Occurrences | [JavaScript](./src/1207.unique-number-of-occurrences.1319/1207.unique-number-of-occurrences.1319.js) [TypeScript](./src/1207.unique-number-of-occurrences.1319/1207.unique-number-of-occurrences.1319.ts) | Easy  |
@@ -1808,7 +1808,7 @@
 | 1788 | Maximize the Beauty of the Garden |  | Hard  |
 | 1789 | Primary Department for Each Employee |  | Easy  |
 | 1790 | Check if One String Swap Can Make Strings Equal | [JavaScript](./src/1790.check-if-one-string-swap-can-make-strings-equal.1915/1790.check-if-one-string-swap-can-make-strings-equal.1915.js) [TypeScript](./src/1790.check-if-one-string-swap-can-make-strings-equal.1915/1790.check-if-one-string-swap-can-make-strings-equal.1915.ts) | Easy  |
-| 1791 | Find Center of Star Graph | [JavaScript](./src/1791.find-center-of-star-graph.1916/1791.find-center-of-star-graph.1916.js) [TypeScript](./src/1791.find-center-of-star-graph.1916/1791.find-center-of-star-graph.1916.ts) | Medium  |
+| 1791 | Find Center of Star Graph | [JavaScript](./src/1791.find-center-of-star-graph.1916/1791.find-center-of-star-graph.1916.js) [TypeScript](./src/1791.find-center-of-star-graph.1916/1791.find-center-of-star-graph.1916.ts) | Easy  |
 | 1792 | Maximum Average Pass Ratio |  | Medium  |
 | 1793 | Maximum Score of a Good Subarray |  | Hard  |
 | 1794 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
@@ -1877,12 +1877,12 @@
 | 1857 | Largest Color Value in a Directed Graph |  | Hard  |
 | 1858 | Longest Word With All Prefixes |  | Medium  |
 | 1859 | Sorting the Sentence | [JavaScript](./src/1859.sorting-the-sentence.1970/1859.sorting-the-sentence.1970.js) [TypeScript](./src/1859.sorting-the-sentence.1970/1859.sorting-the-sentence.1970.ts) | Easy  |
-| 1860 | Incremental Memory Leak |  | Medium  |
+| 1860 | Incremental Memory Leak | [JavaScript](./src/1860.incremental-memory-leak.1971/1860.incremental-memory-leak.1971.js) [TypeScript](./src/1860.incremental-memory-leak.1971/1860.incremental-memory-leak.1971.ts) | Medium  |
 | 1861 | Rotating the Box |  | Medium  |
 | 1862 | Sum of Floored Pairs |  | Hard  |
 | 1863 | Sum of All Subset XOR Totals | [JavaScript](./src/1863.sum-of-all-subset-xor-totals.1993/1863.sum-of-all-subset-xor-totals.1993.js) [TypeScript](./src/1863.sum-of-all-subset-xor-totals.1993/1863.sum-of-all-subset-xor-totals.1993.ts) | Easy  |
 | 1864 | Minimum Number of Swaps to Make the Binary String Alternating |  | Medium  |
-| 1865 | Finding Pairs With a Certain Sum |  | Medium  |
+| 1865 | Finding Pairs With a Certain Sum | [JavaScript](./src/1865.finding-pairs-with-a-certain-sum.1995/1865.finding-pairs-with-a-certain-sum.1995.js) [TypeScript](./src/1865.finding-pairs-with-a-certain-sum.1995/1865.finding-pairs-with-a-certain-sum.1995.ts) | Medium  |
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible |  | Hard  |
 | 1867 | Orders With Maximum Quantity Above Average |  | Medium  |
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
@@ -1904,7 +1904,7 @@
 | 1884 | Egg Drop With 2 Eggs and N Floors |  | Medium  |
 | 1885 | Count Pairs in Two Arrays |  | Medium  |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation |  | Easy  |
-| 1887 | Reduction Operations to Make the Array Elements Equal |  | Medium  |
+| 1887 | Reduction Operations to Make the Array Elements Equal | [JavaScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/1887.reduction-operations-to-make-the-array-elements-equal.2016.js) [TypeScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/1887.reduction-operations-to-make-the-array-elements-equal.2016.ts) | Medium  |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating |  | Medium  |
 | 1889 | Minimum Space Wasted From Packaging |  | Hard  |
 | 1890 | The Latest Login in 2020 |  | Easy  |
@@ -1924,6 +1924,27 @@
 | 1904 | The Number of Full Rounds You Have Played | [JavaScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/1904.the-number-of-full-rounds-you-have-played.2033.js) [TypeScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/1904.the-number-of-full-rounds-you-have-played.2033.ts) | Medium  |
 | 1905 | Count Sub Islands | [JavaScript](./src/1905.count-sub-islands.2035/1905.count-sub-islands.2035.js) [TypeScript](./src/1905.count-sub-islands.2035/1905.count-sub-islands.2035.ts) | Medium  |
 | 1906 | Minimum Absolute Difference Queries | [JavaScript](./src/1906.minimum-absolute-difference-queries.2034/1906.minimum-absolute-difference-queries.2034.js) [TypeScript](./src/1906.minimum-absolute-difference-queries.2034/1906.minimum-absolute-difference-queries.2034.ts) | Medium  |
+| 1907 | Count Salary Categories |  | Medium  |
+| 1908 | Game of Nim |  | Medium  |
+| 1909 | Remove One Element to Make the Array Strictly Increasing |  | Easy  |
+| 1910 | Remove All Occurrences of a Substring |  | Medium  |
+| 1911 | Maximum Alternating Subsequence Sum |  | Medium  |
+| 1912 | Design Movie Rental System |  | Hard  |
+| 1913 | Maximum Product Difference Between Two Pairs | [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/1913.maximum-product-difference-between-two-pairs.2042.js) | Easy  |
+| 1914 | Cyclically Rotating a Grid |  | Medium  |
+| 1915 | Number of Wonderful Substrings |  | Medium  |
+| 1916 | Count Ways to Build Rooms in an Ant Colony |  | Hard  |
+| 1917 | Leetcodify Friends Recommendations |  | Hard  |
+| 1918 | Kth Smallest Subarray Sum |  | Medium  |
+| 1919 | Leetcodify Similar Friends |  | Hard  |
+| 1920 | Build Array from Permutation |  | Easy  |
+| 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
+| 1922 | Count Good Numbers |  | Medium  |
+| 1923 | Longest Common Subpath |  | Hard  |
+| 5817 | Check If a String is Decomposble to Value-Equal Substrings |  | Easy  |
+| 5818 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
+| 5819 | Maximum of Minimum Values in All Subarrays |  | Medium  |
+| 5820 | Minimum Time For K Viruses to Spread |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |

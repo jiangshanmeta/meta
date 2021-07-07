@@ -5604,7 +5604,7 @@
         "index": "0801",
         "title": "Minimum Swaps To Make Sequences Increasing",
         "title_slug": "minimum-swaps-to-make-sequences-increasing",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 820,
@@ -8423,8 +8423,8 @@
     {
         "id": 1327,
         "index": "1204",
-        "title": "Last Person to Fit in the Elevator",
-        "title_slug": "last-person-to-fit-in-the-elevator",
+        "title": "Last Person to Fit in the Bus",
+        "title_slug": "last-person-to-fit-in-the-bus",
         "difficulty": 2
     },
     {
@@ -12534,7 +12534,7 @@
         "index": "1791",
         "title": "Find Center of Star Graph",
         "title_slug": "find-center-of-star-graph",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 1917,
@@ -13340,6 +13340,153 @@
         "title": "Minimum Absolute Difference Queries",
         "title_slug": "minimum-absolute-difference-queries",
         "difficulty": 2
+    },
+    {
+        "id": 2057,
+        "index": "1907",
+        "title": "Count Salary Categories",
+        "title_slug": "count-salary-categories",
+        "difficulty": 2
+    },
+    {
+        "id": 2062,
+        "index": "1908",
+        "title": "Game of Nim",
+        "title_slug": "game-of-nim",
+        "difficulty": 2
+    },
+    {
+        "id": 2020,
+        "index": "1909",
+        "title": "Remove One Element to Make the Array Strictly Increasing",
+        "title_slug": "remove-one-element-to-make-the-array-strictly-increasing",
+        "difficulty": 1
+    },
+    {
+        "id": 2021,
+        "index": "1910",
+        "title": "Remove All Occurrences of a Substring",
+        "title_slug": "remove-all-occurrences-of-a-substring",
+        "difficulty": 2
+    },
+    {
+        "id": 2022,
+        "index": "1911",
+        "title": "Maximum Alternating Subsequence Sum",
+        "title_slug": "maximum-alternating-subsequence-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2023,
+        "index": "1912",
+        "title": "Design Movie Rental System",
+        "title_slug": "design-movie-rental-system",
+        "difficulty": 3
+    },
+    {
+        "id": 2042,
+        "index": "1913",
+        "title": "Maximum Product Difference Between Two Pairs",
+        "title_slug": "maximum-product-difference-between-two-pairs",
+        "difficulty": 1
+    },
+    {
+        "id": 2043,
+        "index": "1914",
+        "title": "Cyclically Rotating a Grid",
+        "title_slug": "cyclically-rotating-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2044,
+        "index": "1915",
+        "title": "Number of Wonderful Substrings",
+        "title_slug": "number-of-wonderful-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 1313,
+        "index": "1916",
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "title_slug": "count-ways-to-build-rooms-in-an-ant-colony",
+        "difficulty": 3
+    },
+    {
+        "id": 2063,
+        "index": "1917",
+        "title": "Leetcodify Friends Recommendations",
+        "title_slug": "leetcodify-friends-recommendations",
+        "difficulty": 3
+    },
+    {
+        "id": 2069,
+        "index": "1918",
+        "title": "Kth Smallest Subarray Sum",
+        "title_slug": "kth-smallest-subarray-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2064,
+        "index": "1919",
+        "title": "Leetcodify Similar Friends",
+        "title_slug": "leetcodify-similar-friends",
+        "difficulty": 3
+    },
+    {
+        "id": 2048,
+        "index": "1920",
+        "title": "Build Array from Permutation",
+        "title_slug": "build-array-from-permutation",
+        "difficulty": 1
+    },
+    {
+        "id": 2049,
+        "index": "1921",
+        "title": "Eliminate Maximum Number of Monsters",
+        "title_slug": "eliminate-maximum-number-of-monsters",
+        "difficulty": 2
+    },
+    {
+        "id": 2050,
+        "index": "1922",
+        "title": "Count Good Numbers",
+        "title_slug": "count-good-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 2051,
+        "index": "1923",
+        "title": "Longest Common Subpath",
+        "title_slug": "longest-common-subpath",
+        "difficulty": 3
+    },
+    {
+        "id": 2070,
+        "index": "5817",
+        "title": "Check If a String is Decomposble to Value-Equal Substrings",
+        "title_slug": "check-if-a-string-is-decomposble-to-value-equal-substrings",
+        "difficulty": 1
+    },
+    {
+        "id": 2071,
+        "index": "5818",
+        "title": "Longest Common Subsequence Between Sorted Arrays",
+        "title_slug": "longest-common-subsequence-between-sorted-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2072,
+        "index": "5819",
+        "title": "Maximum of Minimum Values in All Subarrays",
+        "title_slug": "maximum-of-minimum-values-in-all-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2073,
+        "index": "5820",
+        "title": "Minimum Time For K Viruses to Spread",
+        "title_slug": "minimum-time-for-k-viruses-to-spread",
+        "difficulty": 3
     },
     {
         "id": 100107,
