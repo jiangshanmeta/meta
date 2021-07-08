@@ -1937,7 +1937,7 @@
 | 1917 | Leetcodify Friends Recommendations |  | Hard  |
 | 1918 | Kth Smallest Subarray Sum |  | Medium  |
 | 1919 | Leetcodify Similar Friends |  | Hard  |
-| 1920 | Build Array from Permutation |  | Easy  |
+| 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/1920.build-array-from-permutation.2048.js) | Easy  |
 | 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
 | 1922 | Count Good Numbers |  | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
