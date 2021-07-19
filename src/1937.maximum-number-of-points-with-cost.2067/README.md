@@ -57,3 +57,5 @@ function maxPoints (points: number[][]): number {
 }
 
 ```
+
+时间复杂度为O(MN)
