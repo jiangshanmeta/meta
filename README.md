@@ -565,7 +565,7 @@
 | 0545 | Boundary of Binary Tree |  | Medium  |
 | 0546 | Remove Boxes |  | Hard  |
 | 0547 | Number of Provinces | [JavaScript](./src/0547.number-of-provinces.547/0547.number-of-provinces.547.js) [TypeScript](./src/0547.number-of-provinces.547/0547.number-of-provinces.547.ts) | Medium  |
-| 0548 | Split Array with Equal Sum |  | Medium  |
+| 0548 | Split Array with Equal Sum |  | Hard  |
 | 0549 | Binary Tree Longest Consecutive Sequence II | [JavaScript](./src/0549.binary-tree-longest-consecutive-sequence-ii.549/0549.binary-tree-longest-consecutive-sequence-ii.549.js) | Medium  |
 | 0550 | Game Play Analysis IV |  | Medium  |
 | 0551 | Student Attendance Record I | [JavaScript](./src/0551.student-attendance-record-i.551/0551.student-attendance-record-i.551.js) [TypeScript](./src/0551.student-attendance-record-i.551/0551.student-attendance-record-i.551.ts) | Easy  |
@@ -805,7 +805,7 @@
 | 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/0785.is-graph-bipartite.801.js) | Medium  |
 | 0786 | K-th Smallest Prime Fraction |  | Hard  |
 | 0787 | Cheapest Flights Within K Stops |  | Medium  |
-| 0788 | Rotated Digits | [JavaScript](./src/0788.rotated-digits.804/0788.rotated-digits.804.js) | Easy  |
+| 0788 | Rotated Digits | [JavaScript](./src/0788.rotated-digits.804/0788.rotated-digits.804.js) | Medium  |
 | 0789 | Escape The Ghosts | [JavaScript](./src/0789.escape-the-ghosts.805/0789.escape-the-ghosts.805.js) [TypeScript](./src/0789.escape-the-ghosts.805/0789.escape-the-ghosts.805.ts) | Medium  |
 | 0790 | Domino and Tromino Tiling |  | Medium  |
 | 0791 | Custom Sort String | [JavaScript](./src/0791.custom-sort-string.807/0791.custom-sort-string.807.js) [TypeScript](./src/0791.custom-sort-string.807/0791.custom-sort-string.807.ts) | Medium  |
@@ -1941,10 +1941,22 @@
 | 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
 | 1922 | Count Good Numbers |  | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
-| 5817 | Check If a String is Decomposble to Value-Equal Substrings |  | Easy  |
-| 5818 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
-| 5819 | Maximum of Minimum Values in All Subarrays |  | Medium  |
-| 5820 | Minimum Time For K Viruses to Spread |  | Hard  |
+| 1924 | Erect the Fence II |  | Hard  |
+| 1925 | Count Square Sum Triples | [JavaScript](./src/1925.count-square-sum-triples.2037/1925.count-square-sum-triples.2037.js) [TypeScript](./src/1925.count-square-sum-triples.2037/1925.count-square-sum-triples.2037.ts) | Easy  |
+| 1926 | Nearest Exit from Entrance in Maze | [JavaScript](./src/1926.nearest-exit-from-entrance-in-maze.2038/1926.nearest-exit-from-entrance-in-maze.2038.js) [TypeScript](./src/1926.nearest-exit-from-entrance-in-maze.2038/1926.nearest-exit-from-entrance-in-maze.2038.ts) | Medium  |
+| 1927 | Sum Game |  | Medium  |
+| 1928 | Minimum Cost to Reach Destination in Time |  | Hard  |
+| 1929 | Concatenation of Array | [JavaScript](./src/1929.concatenation-of-array.2058/1929.concatenation-of-array.2058.js) [TypeScript](./src/1929.concatenation-of-array.2058/1929.concatenation-of-array.2058.ts) | Easy  |
+| 1930 | Unique Length-3 Palindromic Subsequences | [JavaScript](./src/1930.unique-length-3-palindromic-subsequences.2059/1930.unique-length-3-palindromic-subsequences.2059.js) [TypeScript](./src/1930.unique-length-3-palindromic-subsequences.2059/1930.unique-length-3-palindromic-subsequences.2059.ts) | Medium  |
+| 1931 | Painting a Grid With Three Different Colors |  | Hard  |
+| 1932 | Merge BSTs to Create Single BST |  | Hard  |
+| 1933 | Check if String Is Decomposable Into Value-Equal Substrings |  | Easy  |
+| 1934 | Confirmation Rate |  | Medium  |
+| 1935 | Maximum Number of Words You Can Type | [JavaScript](./src/1935.maximum-number-of-words-you-can-type.1264/1935.maximum-number-of-words-you-can-type.1264.js) [TypeScript](./src/1935.maximum-number-of-words-you-can-type.1264/1935.maximum-number-of-words-you-can-type.1264.ts) | Easy  |
+| 1936 | Add Minimum Number of Rungs | [JavaScript](./src/1936.add-minimum-number-of-rungs.2066/1936.add-minimum-number-of-rungs.2066.js) [TypeScript](./src/1936.add-minimum-number-of-rungs.2066/1936.add-minimum-number-of-rungs.2066.ts) | Medium  |
+| 1937 | Maximum Number of Points with Cost | [JavaScript](./src/1937.maximum-number-of-points-with-cost.2067/1937.maximum-number-of-points-with-cost.2067.js) [TypeScript](./src/1937.maximum-number-of-points-with-cost.2067/1937.maximum-number-of-points-with-cost.2067.ts) | Medium  |
+| 1938 | Maximum Genetic Difference Query |  | Hard  |
+| 1939 | Users That Actively Request Confirmation Messages |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |

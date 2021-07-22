@@ -3833,7 +3833,7 @@
         "index": "0548",
         "title": "Split Array with Equal Sum",
         "title_slug": "split-array-with-equal-sum",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 549,
@@ -5513,7 +5513,7 @@
         "index": "0788",
         "title": "Rotated Digits",
         "title_slug": "rotated-digits",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 805,
@@ -13461,32 +13461,116 @@
         "difficulty": 3
     },
     {
-        "id": 2070,
-        "index": "5817",
-        "title": "Check If a String is Decomposble to Value-Equal Substrings",
-        "title_slug": "check-if-a-string-is-decomposble-to-value-equal-substrings",
+        "id": 2074,
+        "index": "1924",
+        "title": "Erect the Fence II",
+        "title_slug": "erect-the-fence-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 2037,
+        "index": "1925",
+        "title": "Count Square Sum Triples",
+        "title_slug": "count-square-sum-triples",
         "difficulty": 1
     },
     {
-        "id": 2071,
-        "index": "5818",
-        "title": "Longest Common Subsequence Between Sorted Arrays",
-        "title_slug": "longest-common-subsequence-between-sorted-arrays",
+        "id": 2038,
+        "index": "1926",
+        "title": "Nearest Exit from Entrance in Maze",
+        "title_slug": "nearest-exit-from-entrance-in-maze",
         "difficulty": 2
     },
     {
-        "id": 2072,
-        "index": "5819",
-        "title": "Maximum of Minimum Values in All Subarrays",
-        "title_slug": "maximum-of-minimum-values-in-all-subarrays",
+        "id": 2039,
+        "index": "1927",
+        "title": "Sum Game",
+        "title_slug": "sum-game",
         "difficulty": 2
     },
     {
-        "id": 2073,
-        "index": "5820",
-        "title": "Minimum Time For K Viruses to Spread",
-        "title_slug": "minimum-time-for-k-viruses-to-spread",
+        "id": 2040,
+        "index": "1928",
+        "title": "Minimum Cost to Reach Destination in Time",
+        "title_slug": "minimum-cost-to-reach-destination-in-time",
         "difficulty": 3
+    },
+    {
+        "id": 2058,
+        "index": "1929",
+        "title": "Concatenation of Array",
+        "title_slug": "concatenation-of-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2059,
+        "index": "1930",
+        "title": "Unique Length-3 Palindromic Subsequences",
+        "title_slug": "unique-length-3-palindromic-subsequences",
+        "difficulty": 2
+    },
+    {
+        "id": 2061,
+        "index": "1931",
+        "title": "Painting a Grid With Three Different Colors",
+        "title_slug": "painting-a-grid-with-three-different-colors",
+        "difficulty": 3
+    },
+    {
+        "id": 2060,
+        "index": "1932",
+        "title": "Merge BSTs to Create Single BST",
+        "title_slug": "merge-bsts-to-create-single-bst",
+        "difficulty": 3
+    },
+    {
+        "id": 2070,
+        "index": "1933",
+        "title": "Check if String Is Decomposable Into Value-Equal Substrings",
+        "title_slug": "check-if-string-is-decomposable-into-value-equal-substrings",
+        "difficulty": 1
+    },
+    {
+        "id": 2087,
+        "index": "1934",
+        "title": "Confirmation Rate",
+        "title_slug": "confirmation-rate",
+        "difficulty": 2
+    },
+    {
+        "id": 1264,
+        "index": "1935",
+        "title": "Maximum Number of Words You Can Type",
+        "title_slug": "maximum-number-of-words-you-can-type",
+        "difficulty": 1
+    },
+    {
+        "id": 2066,
+        "index": "1936",
+        "title": "Add Minimum Number of Rungs",
+        "title_slug": "add-minimum-number-of-rungs",
+        "difficulty": 2
+    },
+    {
+        "id": 2067,
+        "index": "1937",
+        "title": "Maximum Number of Points with Cost",
+        "title_slug": "maximum-number-of-points-with-cost",
+        "difficulty": 2
+    },
+    {
+        "id": 2068,
+        "index": "1938",
+        "title": "Maximum Genetic Difference Query",
+        "title_slug": "maximum-genetic-difference-query",
+        "difficulty": 3
+    },
+    {
+        "id": 2092,
+        "index": "1939",
+        "title": "Users That Actively Request Confirmation Messages",
+        "title_slug": "users-that-actively-request-confirmation-messages",
+        "difficulty": 1
     },
     {
         "id": 100107,
