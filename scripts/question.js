@@ -37,6 +37,7 @@ function writeLocalQuestion (json) {
         if (data.index.includes('.')) {
             data.index = data.index.replace('.', '_');
         }
+        data.index.replace(/\s/g, '');
 
         data.title = stat.question__title;
         data.title_slug = stat.question__title_slug;
@@ -48,6 +49,8 @@ function writeLocalQuestion (json) {
     const lcp = [];
     // 剑指offer
     const lcof = [];
+    // 剑指offer II
+    const lcof2 = [];
     // 程序员面试经典
     const lcci = [];
     const lcs = [];
@@ -65,6 +68,8 @@ function writeLocalQuestion (json) {
             lcci.push(question);
         } else if (index.startsWith('LCS')) {
             lcs.push(question);
+        } else if (index.startsWith('剑指 Offer II')) {
+            lcof2.push(question);
         } else {
             console.log(question);
         }
@@ -84,6 +89,11 @@ function writeLocalQuestion (json) {
             return indexA - indexB;
         }
         return a.index.length - b.index.length;
+    });
+    lcof2.sort((a, b) => {
+        const indexA = +a.index.replace('剑指 Offer II', '');
+        const indexB = +b.index.replace('剑指 Offer II', '');
+        return indexA - indexB;
     });
 
     lcci.sort((a, b) => {
@@ -106,6 +116,7 @@ function writeLocalQuestion (json) {
         ...algorithms,
         ...lcp,
         ...lcof,
+        ...lcof2,
         ...lcci,
         ...lcs,
     ];

@@ -828,7 +828,7 @@
 | 0808 | Soup Servings |  | Medium  |
 | 0809 | Expressive Words | [JavaScript](./src/0809.expressive-words.827/0809.expressive-words.827.js) | Medium  |
 | 0810 | Chalkboard XOR Game |  | Hard  |
-| 0811 | Subdomain Visit Count | [JavaScript](./src/0811.subdomain-visit-count.829/0811.subdomain-visit-count.829.js) [TypeScript](./src/0811.subdomain-visit-count.829/0811.subdomain-visit-count.829.ts) | Easy  |
+| 0811 | Subdomain Visit Count | [JavaScript](./src/0811.subdomain-visit-count.829/0811.subdomain-visit-count.829.js) [TypeScript](./src/0811.subdomain-visit-count.829/0811.subdomain-visit-count.829.ts) | Medium  |
 | 0812 | Largest Triangle Area | [JavaScript](./src/0812.largest-triangle-area.830/0812.largest-triangle-area.830.js) | Easy  |
 | 0813 | Largest Sum of Averages | [JavaScript](./src/0813.largest-sum-of-averages.831/0813.largest-sum-of-averages.831.js) | Medium  |
 | 0814 | Binary Tree Pruning | [JavaScript](./src/0814.binary-tree-pruning.832/0814.binary-tree-pruning.832.js) [TypeScript](./src/0814.binary-tree-pruning.832/0814.binary-tree-pruning.832.ts) | Medium  |
@@ -910,7 +910,7 @@
 | 0890 | Find and Replace Pattern | [JavaScript](./src/0890.find-and-replace-pattern.926/0890.find-and-replace-pattern.926.js) | Medium  |
 | 0891 | Sum of Subsequence Widths |  | Hard  |
 | 0892 | Surface Area of 3D Shapes | [JavaScript](./src/0892.surface-area-of-3d-shapes.928/0892.surface-area-of-3d-shapes.928.js) | Easy  |
-| 0893 | Groups of Special-Equivalent Strings | [JavaScript](./src/0893.groups-of-special-equivalent-strings.929/0893.groups-of-special-equivalent-strings.929.js) [TypeScript](./src/0893.groups-of-special-equivalent-strings.929/0893.groups-of-special-equivalent-strings.929.ts) | Easy  |
+| 0893 | Groups of Special-Equivalent Strings | [JavaScript](./src/0893.groups-of-special-equivalent-strings.929/0893.groups-of-special-equivalent-strings.929.js) [TypeScript](./src/0893.groups-of-special-equivalent-strings.929/0893.groups-of-special-equivalent-strings.929.ts) | Medium  |
 | 0894 | All Possible Full Binary Trees | [JavaScript](./src/0894.all-possible-full-binary-trees.930/0894.all-possible-full-binary-trees.930.js) | Medium  |
 | 0895 | Maximum Frequency Stack | [JavaScript](./src/0895.maximum-frequency-stack.931/0895.maximum-frequency-stack.931.js) [TypeScript](./src/0895.maximum-frequency-stack.931/0895.maximum-frequency-stack.931.ts) | Hard  |
 | 0896 | Monotonic Array | [JavaScript](./src/0896.monotonic-array.932/0896.monotonic-array.932.js) [TypeScript](./src/0896.monotonic-array.932/0896.monotonic-array.932.ts) | Easy  |
@@ -1002,7 +1002,7 @@
 | 0982 | Triples with Bitwise AND Equal To Zero |  | Hard  |
 | 0983 | Minimum Cost For Tickets | [JavaScript](./src/0983.minimum-cost-for-tickets.1025/0983.minimum-cost-for-tickets.1025.js) | Medium  |
 | 0984 | String Without AAA or BBB | [JavaScript](./src/0984.string-without-aaa-or-bbb.1026/0984.string-without-aaa-or-bbb.1026.js) | Medium  |
-| 0985 | Sum of Even Numbers After Queries | [JavaScript](./src/0985.sum-of-even-numbers-after-queries.1027/0985.sum-of-even-numbers-after-queries.1027.js) [TypeScript](./src/0985.sum-of-even-numbers-after-queries.1027/0985.sum-of-even-numbers-after-queries.1027.ts) | Easy  |
+| 0985 | Sum of Even Numbers After Queries | [JavaScript](./src/0985.sum-of-even-numbers-after-queries.1027/0985.sum-of-even-numbers-after-queries.1027.js) [TypeScript](./src/0985.sum-of-even-numbers-after-queries.1027/0985.sum-of-even-numbers-after-queries.1027.ts) | Medium  |
 | 0986 | Interval List Intersections | [JavaScript](./src/0986.interval-list-intersections.1028/0986.interval-list-intersections.1028.js) | Medium  |
 | 0987 | Vertical Order Traversal of a Binary Tree | [JavaScript](./src/0987.vertical-order-traversal-of-a-binary-tree.1029/0987.vertical-order-traversal-of-a-binary-tree.1029.js) [TypeScript](./src/0987.vertical-order-traversal-of-a-binary-tree.1029/0987.vertical-order-traversal-of-a-binary-tree.1029.ts) | Hard  |
 | 0988 | Smallest String Starting From Leaf | [JavaScript](./src/0988.smallest-string-starting-from-leaf.1030/0988.smallest-string-starting-from-leaf.1030.js) [TypeScript](./src/0988.smallest-string-starting-from-leaf.1030/0988.smallest-string-starting-from-leaf.1030.ts) | Medium  |
@@ -1050,7 +1050,7 @@
 | 1030 | Matrix Cells in Distance Order | [JavaScript](./src/1030.matrix-cells-in-distance-order.1094/1030.matrix-cells-in-distance-order.1094.js) | Easy  |
 | 1031 | Maximum Sum of Two Non-Overlapping Subarrays | [JavaScript](./src/1031.maximum-sum-of-two-non-overlapping-subarrays.1096/1031.maximum-sum-of-two-non-overlapping-subarrays.1096.js) | Medium  |
 | 1032 | Stream of Characters | [JavaScript](./src/1032.stream-of-characters.1097/1032.stream-of-characters.1097.js) | Hard  |
-| 1033 | Moving Stones Until Consecutive | [JavaScript](./src/1033.moving-stones-until-consecutive.1103/1033.moving-stones-until-consecutive.1103.js) [TypeScript](./src/1033.moving-stones-until-consecutive.1103/1033.moving-stones-until-consecutive.1103.ts) | Easy  |
+| 1033 | Moving Stones Until Consecutive | [JavaScript](./src/1033.moving-stones-until-consecutive.1103/1033.moving-stones-until-consecutive.1103.js) [TypeScript](./src/1033.moving-stones-until-consecutive.1103/1033.moving-stones-until-consecutive.1103.ts) | Medium  |
 | 1034 | Coloring A Border | [JavaScript](./src/1034.coloring-a-border.1104/1034.coloring-a-border.1104.js) | Medium  |
 | 1035 | Uncrossed Lines |  | Medium  |
 | 1036 | Escape a Large Maze |  | Hard  |
@@ -1957,6 +1957,31 @@
 | 1937 | Maximum Number of Points with Cost | [JavaScript](./src/1937.maximum-number-of-points-with-cost.2067/1937.maximum-number-of-points-with-cost.2067.js) [TypeScript](./src/1937.maximum-number-of-points-with-cost.2067/1937.maximum-number-of-points-with-cost.2067.ts) | Medium  |
 | 1938 | Maximum Genetic Difference Query |  | Hard  |
 | 1939 | Users That Actively Request Confirmation Messages |  | Easy  |
+| 1940 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
+| 1941 | Check if All Characters Have Equal Number of Occurrences | [JavaScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/1941.check-if-all-characters-have-equal-number-of-occurrences.2053.js) [TypeScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/1941.check-if-all-characters-have-equal-number-of-occurrences.2053.ts) | Easy  |
+| 1942 | The Number of the Smallest Unoccupied Chair |  | Medium  |
+| 1943 | Describe the Painting |  | Medium  |
+| 1944 | Number of Visible People in a Queue |  | Hard  |
+| 1945 | Sum of Digits of String After Convert | [JavaScript](./src/1945.sum-of-digits-of-string-after-convert.2076/1945.sum-of-digits-of-string-after-convert.2076.js) [TypeScript](./src/1945.sum-of-digits-of-string-after-convert.2076/1945.sum-of-digits-of-string-after-convert.2076.ts) | Easy  |
+| 1946 | Largest Number After Mutating Substring | [JavaScript](./src/1946.largest-number-after-mutating-substring.2077/1946.largest-number-after-mutating-substring.2077.js) [TypeScript](./src/1946.largest-number-after-mutating-substring.2077/1946.largest-number-after-mutating-substring.2077.ts) | Medium  |
+| 1947 | Maximum Compatibility Score Sum | [JavaScript](./src/1947.maximum-compatibility-score-sum.2078/1947.maximum-compatibility-score-sum.2078.js) [TypeScript](./src/1947.maximum-compatibility-score-sum.2078/1947.maximum-compatibility-score-sum.2078.ts) | Medium  |
+| 1948 | Delete Duplicate Folders in System |  | Hard  |
+| 1949 | Strong Friendship |  | Medium  |
+| 1950 | Maximum of Minimum Values in All Subarrays |  | Medium  |
+| 1951 | All the Pairs With the Maximum Number of Common Followers |  | Medium  |
+| 1952 | Three Divisors | [JavaScript](./src/1952.three-divisors.2083/1952.three-divisors.2083.js) | Easy  |
+| 1953 | Maximum Number of Weeks for Which You Can Work | [JavaScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/1953.maximum-number-of-weeks-for-which-you-can-work.2084.js) | Medium  |
+| 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/1954.minimum-garden-perimeter-to-collect-enough-apples.1295.js) | Medium  |
+| 1955 | Count Number of Special Subsequences |  | Hard  |
+| 1956 | Minimum Time For K Virus Variants to Spread |  | Hard  |
+| 5193 | Delete Characters to Make Fancy String |  | Easy  |
+| 5220 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
+| 5827 | Check if Move is Legal |  | Medium  |
+| 5828 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
+| 5838 | Check If String Is a Prefix of Array |  | Easy  |
+| 5839 | Remove Stones to Minimize the Total |  | Medium  |
+| 5840 | Minimum Number of Swaps to Make the String Balanced |  | Medium  |
+| 5841 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2070,6 +2095,125 @@
 | 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium  |
 | 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.js) [Python3](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) [TypeScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.ts) | Easy  |
 | 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.ts) | Easy  |
+| 剑指OfferII001 | 整数除法 |  | Easy  |
+| 剑指OfferII002 | 二进制加法 |  | Easy  |
+| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 |  | Easy  |
+| 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
+| 剑指OfferII005 | 单词长度的最大乘积 |  | Medium  |
+| 剑指OfferII006 | 排序数组中两个数字之和 |  | Easy  |
+| 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
+| 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
+| 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
+| 剑指OfferII010 | 和为 k 的子数组 |  | Medium  |
+| 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
+| 剑指OfferII012 | 左右两边子数组的和相等 |  | Easy  |
+| 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
+| 剑指OfferII014 | 字符串中的变位词 |  | Medium  |
+| 剑指OfferII015 | 字符串中的所有变位词 |  | Medium  |
+| 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
+| 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
+| 剑指OfferII018 | 有效的回文 |  | Easy  |
+| 剑指OfferII019 | 最多删除一个字符得到回文 |  | Easy  |
+| 剑指OfferII020 | 回文子字符串的个数 |  | Medium  |
+| 剑指OfferII021 | 删除链表的倒数第 n 个结点 |  | Medium  |
+| 剑指OfferII022 | 链表中环的入口节点 |  | Medium  |
+| 剑指OfferII023 | 两个链表的第一个重合节点 |  | Easy  |
+| 剑指OfferII024 | 反转链表 |  | Easy  |
+| 剑指OfferII025 | 链表中的两数相加 |  | Medium  |
+| 剑指OfferII026 | 重排链表 |  | Medium  |
+| 剑指OfferII027 | 回文链表 |  | Easy  |
+| 剑指OfferII028 | 展平多级双向链表 |  | Medium  |
+| 剑指OfferII029 | 排序的循环链表 |  | Medium  |
+| 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 |  | Medium  |
+| 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
+| 剑指OfferII032 | 有效的变位词 |  | Easy  |
+| 剑指OfferII033 | 变位词组 |  | Medium  |
+| 剑指OfferII034 | 外星语言是否排序 |  | Easy  |
+| 剑指OfferII035 | 最小时间差 |  | Medium  |
+| 剑指OfferII036 | 后缀表达式 |  | Medium  |
+| 剑指OfferII037 | 小行星碰撞 |  | Medium  |
+| 剑指OfferII038 | 每日温度 |  | Medium  |
+| 剑指OfferII039 | 直方图最大矩形面积 |  | Hard  |
+| 剑指OfferII040 | 矩阵中最大的矩形 |  | Hard  |
+| 剑指OfferII041 | 滑动窗口的平均值 |  | Easy  |
+| 剑指OfferII042 | 最近请求次数 |  | Easy  |
+| 剑指OfferII043 | 往完全二叉树添加节点 |  | Medium  |
+| 剑指OfferII044 | 二叉树每层的最大值 |  | Medium  |
+| 剑指OfferII045 | 二叉树最底层最左边的值 |  | Medium  |
+| 剑指OfferII046 | 二叉树的右侧视图 |  | Medium  |
+| 剑指OfferII047 | 二叉树剪枝 |  | Medium  |
+| 剑指OfferII048 | 序列化与反序列化二叉树 |  | Hard  |
+| 剑指OfferII049 | 从根节点到叶节点的路径数字之和 |  | Medium  |
+| 剑指OfferII050 | 向下的路径节点之和 |  | Medium  |
+| 剑指OfferII051 | 节点之和最大的路径 |  | Hard  |
+| 剑指OfferII052 | 展平二叉搜索树 |  | Easy  |
+| 剑指OfferII053 | 二叉搜索树中的中序后继 |  | Medium  |
+| 剑指OfferII054 | 所有大于等于节点的值之和 |  | Medium  |
+| 剑指OfferII055 | 二叉搜索树迭代器 |  | Medium  |
+| 剑指OfferII056 | 二叉搜索树中两个节点之和 |  | Easy  |
+| 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
+| 剑指OfferII058 | 日程表 |  | Medium  |
+| 剑指OfferII059 | 数据流的第 K 大数值 |  | Easy  |
+| 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
+| 剑指OfferII061 | 和最小的 k 个数对 |  | Medium  |
+| 剑指OfferII062 | 实现前缀树 |  | Medium  |
+| 剑指OfferII063 | 替换单词 |  | Medium  |
+| 剑指OfferII064 | 神奇的字典 |  | Medium  |
+| 剑指OfferII065 | 最短的单词编码 |  | Medium  |
+| 剑指OfferII066 | 单词之和 |  | Medium  |
+| 剑指OfferII067 | 最大的异或 |  | Medium  |
+| 剑指OfferII068 | 查找插入位置 |  | Easy  |
+| 剑指OfferII069 | 山峰数组的顶部 |  | Easy  |
+| 剑指OfferII070 | 排序数组中只出现一次的数字 |  | Medium  |
+| 剑指OfferII071 | 按权重生成随机数 |  | Medium  |
+| 剑指OfferII072 | 求平方根 |  | Easy  |
+| 剑指OfferII073 | 狒狒吃香蕉 |  | Medium  |
+| 剑指OfferII074 | 合并区间 |  | Medium  |
+| 剑指OfferII075 | 数组相对排序 |  | Easy  |
+| 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
+| 剑指OfferII077 | 链表排序 |  | Medium  |
+| 剑指OfferII078 | 合并排序链表 |  | Hard  |
+| 剑指OfferII079 | 所有子集 |  | Medium  |
+| 剑指OfferII080 | 含有 k 个元素的组合 |  | Medium  |
+| 剑指OfferII081 | 允许重复选择元素的组合 |  | Medium  |
+| 剑指OfferII082 | 含有重复元素集合的组合 |  | Medium  |
+| 剑指OfferII083 | 没有重复元素集合的全排列 |  | Medium  |
+| 剑指OfferII084 | 含有重复元素集合的全排列  |  | Medium  |
+| 剑指OfferII085 | 生成匹配的括号 |  | Medium  |
+| 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
+| 剑指OfferII087 | 复原 IP  |  | Medium  |
+| 剑指OfferII088 | 爬楼梯的最少成本 |  | Easy  |
+| 剑指OfferII089 | 房屋偷盗 |  | Medium  |
+| 剑指OfferII090 | 环形房屋偷盗 |  | Medium  |
+| 剑指OfferII091 | 粉刷房子 |  | Medium  |
+| 剑指OfferII092 | 翻转字符 |  | Medium  |
+| 剑指OfferII093 | 最长斐波那契数列 |  | Medium  |
+| 剑指OfferII094 | 最少回文分割 |  | Hard  |
+| 剑指OfferII095 | 最长公共子序列 |  | Medium  |
+| 剑指OfferII096 | 字符串交织 |  | Medium  |
+| 剑指OfferII097 | 子序列的数目 |  | Hard  |
+| 剑指OfferII098 | 路径的数目 |  | Medium  |
+| 剑指OfferII099 | 最小路径之和 |  | Medium  |
+| 剑指OfferII100 | 三角形中最小路径之和 |  | Medium  |
+| 剑指OfferII101 | 分割等和子串 |  | Easy  |
+| 剑指OfferII102 | 加减的目标值 |  | Medium  |
+| 剑指OfferII103 | 最少的硬币数目 |  | Medium  |
+| 剑指OfferII104 | 排列的数目 |  | Medium  |
+| 剑指OfferII105 | 岛屿的最大面积 |  | Medium  |
+| 剑指OfferII106 | 二分图 |  | Medium  |
+| 剑指OfferII107 | 矩阵中的距离 |  | Medium  |
+| 剑指OfferII108 | 单词演变 |  | Hard  |
+| 剑指OfferII109 | 开密码锁 |  | Medium  |
+| 剑指OfferII110 | 所有路径 |  | Medium  |
+| 剑指OfferII111 | 计算除法 |  | Medium  |
+| 剑指OfferII112 | 最长递增路径 |  | Hard  |
+| 剑指OfferII113 | 课程顺序 |  | Medium  |
+| 剑指OfferII114 | 外星文字典 |  | Hard  |
+| 剑指OfferII115 | 重建序列 |  | Medium  |
+| 剑指OfferII116 | 朋友圈 |  | Medium  |
+| 剑指OfferII117 | 相似的字符串 |  | Hard  |
+| 剑指OfferII118 | 多余的边 |  | Medium  |
+| 剑指OfferII119 | 最长连续序列 |  | Medium  |
 | 面试题01_01 | Is Unique LCCI | [JavaScript](./src/面试题01_01.is-unique-lcci.100158/面试题01_01.is-unique-lcci.100158.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/面试题01_01.is-unique-lcci.100158.ts) | Easy  |
 | 面试题01_02 | Check Permutation LCCI | [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/面试题01_02.check-permutation-lcci.100159.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/面试题01_02.check-permutation-lcci.100159.ts) | Easy  |
 | 面试题01_03 | String to URL LCCI | [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/面试题01_03.string-to-url-lcci.100160.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/面试题01_03.string-to-url-lcci.100160.ts) | Easy  |
