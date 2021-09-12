@@ -24,7 +24,7 @@ function getQuestions () {
         });
     });
 }
-
+const lcof2FlagStr = '剑指 Offer II';
 function writeLocalQuestion (json) {
     const questionList = json.stat_status_pairs.map((item) => {
         const data = {};
@@ -37,7 +37,6 @@ function writeLocalQuestion (json) {
         if (data.index.includes('.')) {
             data.index = data.index.replace('.', '_');
         }
-        data.index.replace(/\s/g, '');
 
         data.title = stat.question__title;
         data.title_slug = stat.question__title_slug;
@@ -68,7 +67,7 @@ function writeLocalQuestion (json) {
             lcci.push(question);
         } else if (index.startsWith('LCS')) {
             lcs.push(question);
-        } else if (index.startsWith('剑指 Offer II')) {
+        } else if (index.startsWith(lcof2FlagStr)) {
             lcof2.push(question);
         } else {
             console.log(question);
@@ -91,14 +90,15 @@ function writeLocalQuestion (json) {
         return a.index.length - b.index.length;
     });
     lcof2.sort((a, b) => {
-        const indexA = +a.index.replace('剑指 Offer II', '');
-        const indexB = +b.index.replace('剑指 Offer II', '');
+        const indexA = +a.index.replace(lcof2FlagStr, '');
+        const indexB = +b.index.replace(lcof2FlagStr, '');
         return indexA - indexB;
     });
 
     lcci.sort((a, b) => {
         const [indexA1, indexA2, ] = a.index.split(' ')[1].split('_');
         const [indexB1, indexB2, ] = b.index.split(' ')[1].split('_');
+
         if (indexA1 !== indexB1) {
             return indexA1 - indexB1;
         } else {

@@ -1969,19 +1969,20 @@
 | 1949 | Strong Friendship |  | Medium  |
 | 1950 | Maximum of Minimum Values in All Subarrays |  | Medium  |
 | 1951 | All the Pairs With the Maximum Number of Common Followers |  | Medium  |
-| 1952 | Three Divisors | [JavaScript](./src/1952.three-divisors.2083/1952.three-divisors.2083.js) | Easy  |
-| 1953 | Maximum Number of Weeks for Which You Can Work | [JavaScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/1953.maximum-number-of-weeks-for-which-you-can-work.2084.js) | Medium  |
-| 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/1954.minimum-garden-perimeter-to-collect-enough-apples.1295.js) | Medium  |
+| 1952 | Three Divisors | [JavaScript](./src/1952.three-divisors.2083/1952.three-divisors.2083.js) [TypeScript](./src/1952.three-divisors.2083/1952.three-divisors.2083.ts) | Easy  |
+| 1953 | Maximum Number of Weeks for Which You Can Work | [JavaScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/1953.maximum-number-of-weeks-for-which-you-can-work.2084.js) [TypeScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/1953.maximum-number-of-weeks-for-which-you-can-work.2084.ts) | Medium  |
+| 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/1954.minimum-garden-perimeter-to-collect-enough-apples.1295.js) [TypeScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/1954.minimum-garden-perimeter-to-collect-enough-apples.1295.ts) | Medium  |
 | 1955 | Count Number of Special Subsequences |  | Hard  |
 | 1956 | Minimum Time For K Virus Variants to Spread |  | Hard  |
-| 5193 | Delete Characters to Make Fancy String |  | Easy  |
-| 5220 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
-| 5827 | Check if Move is Legal |  | Medium  |
-| 5828 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
-| 5838 | Check If String Is a Prefix of Array |  | Easy  |
-| 5839 | Remove Stones to Minimize the Total |  | Medium  |
-| 5840 | Minimum Number of Swaps to Make the String Balanced |  | Medium  |
-| 5841 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
+| 1957 | Delete Characters to Make Fancy String | [JavaScript](./src/1957.delete-characters-to-make-fancy-string.1302/1957.delete-characters-to-make-fancy-string.1302.js) [TypeScript](./src/1957.delete-characters-to-make-fancy-string.1302/1957.delete-characters-to-make-fancy-string.1302.ts) | Easy  |
+| 1958 | Check if Move is Legal |  | Medium  |
+| 1959 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
+| 1960 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
+| 1961 | Check If String Is a Prefix of Array | [JavaScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/1961.check-if-string-is-a-prefix-of-array.2093.js) [TypeScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/1961.check-if-string-is-a-prefix-of-array.2093.ts) | Easy  |
+| 1962 | Remove Stones to Minimize the Total | [JavaScript](./src/1962.remove-stones-to-minimize-the-total.2094/1962.remove-stones-to-minimize-the-total.2094.js) [TypeScript](./src/1962.remove-stones-to-minimize-the-total.2094/1962.remove-stones-to-minimize-the-total.2094.ts) | Medium  |
+| 1963 | Minimum Number of Swaps to Make the String Balanced |  | Medium  |
+| 1964 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
+| 1965 | Employees With Missing Information |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2096,51 +2097,51 @@
 | 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.js) [Python3](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.py) [TypeScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346.ts) | Easy  |
 | 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.ts) | Easy  |
 | 剑指OfferII001 | 整数除法 |  | Easy  |
-| 剑指OfferII002 | 二进制加法 |  | Easy  |
-| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 |  | Easy  |
+| 剑指OfferII002 | 二进制加法 | [JavaScript](./src/剑指OfferII002.JFETK5.1000231/剑指OfferII002.JFETK5.1000231.js) | Easy  |
+| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 | [JavaScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.js) | Easy  |
 | 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
 | 剑指OfferII005 | 单词长度的最大乘积 |  | Medium  |
-| 剑指OfferII006 | 排序数组中两个数字之和 |  | Easy  |
+| 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/剑指OfferII006.kLl5u1.1000237.js) | Easy  |
 | 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
 | 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
 | 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
 | 剑指OfferII010 | 和为 k 的子数组 |  | Medium  |
 | 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
-| 剑指OfferII012 | 左右两边子数组的和相等 |  | Easy  |
+| 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.js) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 |  | Medium  |
 | 剑指OfferII015 | 字符串中的所有变位词 |  | Medium  |
 | 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
 | 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
-| 剑指OfferII018 | 有效的回文 |  | Easy  |
+| 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.js) | Easy  |
 | 剑指OfferII019 | 最多删除一个字符得到回文 |  | Easy  |
 | 剑指OfferII020 | 回文子字符串的个数 |  | Medium  |
-| 剑指OfferII021 | 删除链表的倒数第 n 个结点 |  | Medium  |
+| 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/剑指OfferII021.SLwz0R.1000257.js) | Medium  |
 | 剑指OfferII022 | 链表中环的入口节点 |  | Medium  |
-| 剑指OfferII023 | 两个链表的第一个重合节点 |  | Easy  |
-| 剑指OfferII024 | 反转链表 |  | Easy  |
+| 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/剑指OfferII023.3u1WK4.1000259.js) | Easy  |
+| 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/剑指OfferII024.UHnkqh.1000260.js) | Easy  |
 | 剑指OfferII025 | 链表中的两数相加 |  | Medium  |
 | 剑指OfferII026 | 重排链表 |  | Medium  |
-| 剑指OfferII027 | 回文链表 |  | Easy  |
+| 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/剑指OfferII027.aMhZSa.1000263.js) | Easy  |
 | 剑指OfferII028 | 展平多级双向链表 |  | Medium  |
 | 剑指OfferII029 | 排序的循环链表 |  | Medium  |
 | 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 |  | Medium  |
 | 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
-| 剑指OfferII032 | 有效的变位词 |  | Easy  |
+| 剑指OfferII032 | 有效的变位词 | [JavaScript](./src/剑指OfferII032.dKk3P7.1000273/剑指OfferII032.dKk3P7.1000273.js) | Easy  |
 | 剑指OfferII033 | 变位词组 |  | Medium  |
-| 剑指OfferII034 | 外星语言是否排序 |  | Easy  |
-| 剑指OfferII035 | 最小时间差 |  | Medium  |
+| 剑指OfferII034 | 外星语言是否排序 | [JavaScript](./src/剑指OfferII034.lwyVBB.1000276/剑指OfferII034.lwyVBB.1000276.js) | Easy  |
+| 剑指OfferII035 | 最小时间差 | [JavaScript](./src/剑指OfferII035.569nqc.1000278/剑指OfferII035.569nqc.1000278.js) | Medium  |
 | 剑指OfferII036 | 后缀表达式 |  | Medium  |
-| 剑指OfferII037 | 小行星碰撞 |  | Medium  |
+| 剑指OfferII037 | 小行星碰撞 | [JavaScript](./src/剑指OfferII037.XagZNi.1000281/剑指OfferII037.XagZNi.1000281.js) | Medium  |
 | 剑指OfferII038 | 每日温度 |  | Medium  |
 | 剑指OfferII039 | 直方图最大矩形面积 |  | Hard  |
 | 剑指OfferII040 | 矩阵中最大的矩形 |  | Hard  |
 | 剑指OfferII041 | 滑动窗口的平均值 |  | Easy  |
 | 剑指OfferII042 | 最近请求次数 |  | Easy  |
 | 剑指OfferII043 | 往完全二叉树添加节点 |  | Medium  |
-| 剑指OfferII044 | 二叉树每层的最大值 |  | Medium  |
+| 剑指OfferII044 | 二叉树每层的最大值 | [JavaScript](./src/剑指OfferII044.hPov7L.1000297/剑指OfferII044.hPov7L.1000297.js) | Medium  |
 | 剑指OfferII045 | 二叉树最底层最左边的值 |  | Medium  |
-| 剑指OfferII046 | 二叉树的右侧视图 |  | Medium  |
+| 剑指OfferII046 | 二叉树的右侧视图 | [JavaScript](./src/剑指OfferII046.WNC0Lk.1000299/剑指OfferII046.WNC0Lk.1000299.js) | Medium  |
 | 剑指OfferII047 | 二叉树剪枝 |  | Medium  |
 | 剑指OfferII048 | 序列化与反序列化二叉树 |  | Hard  |
 | 剑指OfferII049 | 从根节点到叶节点的路径数字之和 |  | Medium  |
@@ -2148,9 +2149,9 @@
 | 剑指OfferII051 | 节点之和最大的路径 |  | Hard  |
 | 剑指OfferII052 | 展平二叉搜索树 |  | Easy  |
 | 剑指OfferII053 | 二叉搜索树中的中序后继 |  | Medium  |
-| 剑指OfferII054 | 所有大于等于节点的值之和 |  | Medium  |
+| 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/剑指OfferII054.w6cpku.1000315.js) | Medium  |
 | 剑指OfferII055 | 二叉搜索树迭代器 |  | Medium  |
-| 剑指OfferII056 | 二叉搜索树中两个节点之和 |  | Easy  |
+| 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/剑指OfferII056.opLdQZ.1000319.js) | Easy  |
 | 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
 | 剑指OfferII058 | 日程表 |  | Medium  |
 | 剑指OfferII059 | 数据流的第 K 大数值 |  | Easy  |
@@ -2162,14 +2163,14 @@
 | 剑指OfferII065 | 最短的单词编码 |  | Medium  |
 | 剑指OfferII066 | 单词之和 |  | Medium  |
 | 剑指OfferII067 | 最大的异或 |  | Medium  |
-| 剑指OfferII068 | 查找插入位置 |  | Easy  |
+| 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/剑指OfferII068.N6YdxV.1000332.js) | Easy  |
 | 剑指OfferII069 | 山峰数组的顶部 |  | Easy  |
 | 剑指OfferII070 | 排序数组中只出现一次的数字 |  | Medium  |
 | 剑指OfferII071 | 按权重生成随机数 |  | Medium  |
-| 剑指OfferII072 | 求平方根 |  | Easy  |
+| 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.js) | Easy  |
 | 剑指OfferII073 | 狒狒吃香蕉 |  | Medium  |
 | 剑指OfferII074 | 合并区间 |  | Medium  |
-| 剑指OfferII075 | 数组相对排序 |  | Easy  |
+| 剑指OfferII075 | 数组相对排序 | [JavaScript](./src/剑指OfferII075.0H97ZC.1000339/剑指OfferII075.0H97ZC.1000339.js) | Easy  |
 | 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
 | 剑指OfferII077 | 链表排序 |  | Medium  |
 | 剑指OfferII078 | 合并排序链表 |  | Hard  |
@@ -2179,7 +2180,7 @@
 | 剑指OfferII082 | 含有重复元素集合的组合 |  | Medium  |
 | 剑指OfferII083 | 没有重复元素集合的全排列 |  | Medium  |
 | 剑指OfferII084 | 含有重复元素集合的全排列  |  | Medium  |
-| 剑指OfferII085 | 生成匹配的括号 |  | Medium  |
+| 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.js) | Medium  |
 | 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
 | 剑指OfferII087 | 复原 IP  |  | Medium  |
 | 剑指OfferII088 | 爬楼梯的最少成本 |  | Easy  |
@@ -2199,7 +2200,7 @@
 | 剑指OfferII102 | 加减的目标值 |  | Medium  |
 | 剑指OfferII103 | 最少的硬币数目 |  | Medium  |
 | 剑指OfferII104 | 排列的数目 |  | Medium  |
-| 剑指OfferII105 | 岛屿的最大面积 |  | Medium  |
+| 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.js) | Medium  |
 | 剑指OfferII106 | 二分图 |  | Medium  |
 | 剑指OfferII107 | 矩阵中的距离 |  | Medium  |
 | 剑指OfferII108 | 单词演变 |  | Hard  |

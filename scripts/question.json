@@ -13693,59 +13693,66 @@
     },
     {
         "id": 1302,
-        "index": "5193",
+        "index": "1957",
         "title": "Delete Characters to Make Fancy String",
         "title_slug": "delete-characters-to-make-fancy-string",
         "difficulty": 1
     },
     {
-        "id": 1336,
-        "index": "5220",
-        "title": "Maximum Product of the Length of Two Palindromic Substrings",
-        "title_slug": "maximum-product-of-the-length-of-two-palindromic-substrings",
-        "difficulty": 3
-    },
-    {
         "id": 2080,
-        "index": "5827",
+        "index": "1958",
         "title": "Check if Move is Legal",
         "title_slug": "check-if-move-is-legal",
         "difficulty": 2
     },
     {
         "id": 2081,
-        "index": "5828",
+        "index": "1959",
         "title": "Minimum Total Space Wasted With K Resizing Operations",
         "title_slug": "minimum-total-space-wasted-with-k-resizing-operations",
         "difficulty": 2
     },
     {
+        "id": 1336,
+        "index": "1960",
+        "title": "Maximum Product of the Length of Two Palindromic Substrings",
+        "title_slug": "maximum-product-of-the-length-of-two-palindromic-substrings",
+        "difficulty": 3
+    },
+    {
         "id": 2093,
-        "index": "5838",
+        "index": "1961",
         "title": "Check If String Is a Prefix of Array",
         "title_slug": "check-if-string-is-a-prefix-of-array",
         "difficulty": 1
     },
     {
         "id": 2094,
-        "index": "5839",
+        "index": "1962",
         "title": "Remove Stones to Minimize the Total",
         "title_slug": "remove-stones-to-minimize-the-total",
         "difficulty": 2
     },
     {
         "id": 2095,
-        "index": "5840",
+        "index": "1963",
         "title": "Minimum Number of Swaps to Make the String Balanced",
         "title_slug": "minimum-number-of-swaps-to-make-the-string-balanced",
         "difficulty": 2
     },
     {
         "id": 2096,
-        "index": "5841",
+        "index": "1964",
         "title": "Find the Longest Valid Obstacle Course at Each Position",
         "title_slug": "find-the-longest-valid-obstacle-course-at-each-position",
         "difficulty": 3
+    },
+    {
+        "id": 2110,
+        "index": "1965",
+        "title": "Employees With Missing Information",
+        "title_slug": "employees-with-missing-information",
+        "difficulty": 1
     },
     {
         "id": 100107,
