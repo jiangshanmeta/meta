@@ -2179,8 +2179,8 @@
 | 剑指OfferII081 | 允许重复选择元素的组合 |  | Medium  |
 | 剑指OfferII082 | 含有重复元素集合的组合 |  | Medium  |
 | 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/剑指OfferII083.VvJkup.1000234.js) | Medium  |
-| 剑指OfferII084 | 含有重复元素集合的全排列  |  | Medium  |
-| 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.js) | Medium  |
+| 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/剑指OfferII084.7p8L0Z.1000235.js) | Medium  |
+| 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.ts) | Medium  |
 | 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
 | 剑指OfferII087 | 复原 IP  |  | Medium  |
 | 剑指OfferII088 | 爬楼梯的最少成本 |  | Easy  |
