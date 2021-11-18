@@ -1893,7 +1893,7 @@
 | 1873 | Calculate Special Bonus |  | Easy  |
 | 1874 | Minimize Product Sum of Two Arrays |  | Medium  |
 | 1875 | Group Employees of the Same Salary |  | Medium  |
-| 1876 | Substrings of Size Three with Distinct Characters |  | Easy  |
+| 1876 | Substrings of Size Three with Distinct Characters | [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/1876.substrings-of-size-three-with-distinct-characters.1987.js) [TypeScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/1876.substrings-of-size-three-with-distinct-characters.1987.ts) | Easy  |
 | 1877 | Minimize Maximum Pair Sum in Array |  | Medium  |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid |  | Medium  |
 | 1879 | Minimum XOR Sum of Two Arrays |  | Hard  |
@@ -2098,7 +2098,7 @@
 | 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347.ts) | Easy  |
 | 剑指OfferII001 | 整数除法 |  | Easy  |
 | 剑指OfferII002 | 二进制加法 | [JavaScript](./src/剑指OfferII002.JFETK5.1000231/剑指OfferII002.JFETK5.1000231.js) | Easy  |
-| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 | [JavaScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.js) | Easy  |
+| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 | [JavaScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.js) [TypeScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.ts) | Easy  |
 | 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
 | 剑指OfferII005 | 单词长度的最大乘积 |  | Medium  |
 | 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/剑指OfferII006.kLl5u1.1000237.js) | Easy  |
@@ -2107,54 +2107,54 @@
 | 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
 | 剑指OfferII010 | 和为 k 的子数组 |  | Medium  |
 | 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
-| 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.js) | Easy  |
+| 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.ts) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 |  | Medium  |
 | 剑指OfferII015 | 字符串中的所有变位词 |  | Medium  |
 | 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
 | 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
-| 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.js) | Easy  |
-| 剑指OfferII019 | 最多删除一个字符得到回文 |  | Easy  |
+| 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.js) [TypeScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.ts) | Easy  |
+| 剑指OfferII019 | 最多删除一个字符得到回文 | [JavaScript](./src/剑指OfferII019.RQku0D.1000255/剑指OfferII019.RQku0D.1000255.js) | Easy  |
 | 剑指OfferII020 | 回文子字符串的个数 |  | Medium  |
-| 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/剑指OfferII021.SLwz0R.1000257.js) | Medium  |
-| 剑指OfferII022 | 链表中环的入口节点 |  | Medium  |
+| 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/剑指OfferII021.SLwz0R.1000257.js) [TypeScript](./src/剑指OfferII021.SLwz0R.1000257/剑指OfferII021.SLwz0R.1000257.ts) | Medium  |
+| 剑指OfferII022 | 链表中环的入口节点 | [JavaScript](./src/剑指OfferII022.c32eOV.1000258/剑指OfferII022.c32eOV.1000258.js) | Medium  |
 | 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/剑指OfferII023.3u1WK4.1000259.js) | Easy  |
 | 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/剑指OfferII024.UHnkqh.1000260.js) | Easy  |
 | 剑指OfferII025 | 链表中的两数相加 |  | Medium  |
 | 剑指OfferII026 | 重排链表 |  | Medium  |
-| 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/剑指OfferII027.aMhZSa.1000263.js) | Easy  |
+| 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/剑指OfferII027.aMhZSa.1000263.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/剑指OfferII027.aMhZSa.1000263.ts) | Easy  |
 | 剑指OfferII028 | 展平多级双向链表 |  | Medium  |
 | 剑指OfferII029 | 排序的循环链表 |  | Medium  |
 | 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 |  | Medium  |
 | 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
 | 剑指OfferII032 | 有效的变位词 | [JavaScript](./src/剑指OfferII032.dKk3P7.1000273/剑指OfferII032.dKk3P7.1000273.js) | Easy  |
-| 剑指OfferII033 | 变位词组 |  | Medium  |
+| 剑指OfferII033 | 变位词组 | [JavaScript](./src/剑指OfferII033.sfvd7V.1000275/剑指OfferII033.sfvd7V.1000275.js) | Medium  |
 | 剑指OfferII034 | 外星语言是否排序 | [JavaScript](./src/剑指OfferII034.lwyVBB.1000276/剑指OfferII034.lwyVBB.1000276.js) | Easy  |
-| 剑指OfferII035 | 最小时间差 | [JavaScript](./src/剑指OfferII035.569nqc.1000278/剑指OfferII035.569nqc.1000278.js) | Medium  |
-| 剑指OfferII036 | 后缀表达式 |  | Medium  |
+| 剑指OfferII035 | 最小时间差 | [JavaScript](./src/剑指OfferII035.569nqc.1000278/剑指OfferII035.569nqc.1000278.js) [TypeScript](./src/剑指OfferII035.569nqc.1000278/剑指OfferII035.569nqc.1000278.ts) | Medium  |
+| 剑指OfferII036 | 后缀表达式 | [JavaScript](./src/剑指OfferII036.8Zf90G.1000279/剑指OfferII036.8Zf90G.1000279.js) | Medium  |
 | 剑指OfferII037 | 小行星碰撞 | [JavaScript](./src/剑指OfferII037.XagZNi.1000281/剑指OfferII037.XagZNi.1000281.js) | Medium  |
-| 剑指OfferII038 | 每日温度 |  | Medium  |
+| 剑指OfferII038 | 每日温度 | [JavaScript](./src/剑指OfferII038.iIQa4I.1000282/剑指OfferII038.iIQa4I.1000282.js) | Medium  |
 | 剑指OfferII039 | 直方图最大矩形面积 |  | Hard  |
 | 剑指OfferII040 | 矩阵中最大的矩形 |  | Hard  |
-| 剑指OfferII041 | 滑动窗口的平均值 |  | Easy  |
-| 剑指OfferII042 | 最近请求次数 |  | Easy  |
+| 剑指OfferII041 | 滑动窗口的平均值 | [JavaScript](./src/剑指OfferII041.qIsx9U.1000292/剑指OfferII041.qIsx9U.1000292.js) [TypeScript](./src/剑指OfferII041.qIsx9U.1000292/剑指OfferII041.qIsx9U.1000292.ts) | Easy  |
+| 剑指OfferII042 | 最近请求次数 | [JavaScript](./src/剑指OfferII042.H8086Q.1000293/剑指OfferII042.H8086Q.1000293.js) [TypeScript](./src/剑指OfferII042.H8086Q.1000293/剑指OfferII042.H8086Q.1000293.ts) | Easy  |
 | 剑指OfferII043 | 往完全二叉树添加节点 |  | Medium  |
-| 剑指OfferII044 | 二叉树每层的最大值 | [JavaScript](./src/剑指OfferII044.hPov7L.1000297/剑指OfferII044.hPov7L.1000297.js) | Medium  |
-| 剑指OfferII045 | 二叉树最底层最左边的值 |  | Medium  |
+| 剑指OfferII044 | 二叉树每层的最大值 | [JavaScript](./src/剑指OfferII044.hPov7L.1000297/剑指OfferII044.hPov7L.1000297.js) [TypeScript](./src/剑指OfferII044.hPov7L.1000297/剑指OfferII044.hPov7L.1000297.ts) | Medium  |
+| 剑指OfferII045 | 二叉树最底层最左边的值 | [JavaScript](./src/剑指OfferII045.LwUNpT.1000298/剑指OfferII045.LwUNpT.1000298.js) | Medium  |
 | 剑指OfferII046 | 二叉树的右侧视图 | [JavaScript](./src/剑指OfferII046.WNC0Lk.1000299/剑指OfferII046.WNC0Lk.1000299.js) | Medium  |
-| 剑指OfferII047 | 二叉树剪枝 |  | Medium  |
+| 剑指OfferII047 | 二叉树剪枝 | [JavaScript](./src/剑指OfferII047.pOCWxh.1000301/剑指OfferII047.pOCWxh.1000301.js) | Medium  |
 | 剑指OfferII048 | 序列化与反序列化二叉树 |  | Hard  |
-| 剑指OfferII049 | 从根节点到叶节点的路径数字之和 |  | Medium  |
+| 剑指OfferII049 | 从根节点到叶节点的路径数字之和 | [JavaScript](./src/剑指OfferII049.3Etpl5.1000306/剑指OfferII049.3Etpl5.1000306.js) | Medium  |
 | 剑指OfferII050 | 向下的路径节点之和 |  | Medium  |
 | 剑指OfferII051 | 节点之和最大的路径 |  | Hard  |
-| 剑指OfferII052 | 展平二叉搜索树 |  | Easy  |
+| 剑指OfferII052 | 展平二叉搜索树 | [JavaScript](./src/剑指OfferII052.NYBBNL.1000311/剑指OfferII052.NYBBNL.1000311.js) | Easy  |
 | 剑指OfferII053 | 二叉搜索树中的中序后继 |  | Medium  |
 | 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/剑指OfferII054.w6cpku.1000315.js) | Medium  |
 | 剑指OfferII055 | 二叉搜索树迭代器 |  | Medium  |
 | 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/剑指OfferII056.opLdQZ.1000319.js) | Easy  |
 | 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
 | 剑指OfferII058 | 日程表 |  | Medium  |
-| 剑指OfferII059 | 数据流的第 K 大数值 |  | Easy  |
+| 剑指OfferII059 | 数据流的第 K 大数值 | [JavaScript](./src/剑指OfferII059.jBjn9C.1000323/剑指OfferII059.jBjn9C.1000323.js) | Easy  |
 | 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
 | 剑指OfferII061 | 和最小的 k 个数对 |  | Medium  |
 | 剑指OfferII062 | 实现前缀树 |  | Medium  |
@@ -2164,21 +2164,21 @@
 | 剑指OfferII066 | 单词之和 |  | Medium  |
 | 剑指OfferII067 | 最大的异或 |  | Medium  |
 | 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/剑指OfferII068.N6YdxV.1000332.js) | Easy  |
-| 剑指OfferII069 | 山峰数组的顶部 |  | Easy  |
+| 剑指OfferII069 | 山峰数组的顶部 | [JavaScript](./src/剑指OfferII069.B1IidL.1000333/剑指OfferII069.B1IidL.1000333.js) | Easy  |
 | 剑指OfferII070 | 排序数组中只出现一次的数字 |  | Medium  |
 | 剑指OfferII071 | 按权重生成随机数 |  | Medium  |
-| 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.js) | Easy  |
-| 剑指OfferII073 | 狒狒吃香蕉 |  | Medium  |
+| 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.js) [TypeScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.ts) | Easy  |
+| 剑指OfferII073 | 狒狒吃香蕉 | [JavaScript](./src/剑指OfferII073.nZZqjQ.1000337/剑指OfferII073.nZZqjQ.1000337.js) | Medium  |
 | 剑指OfferII074 | 合并区间 |  | Medium  |
-| 剑指OfferII075 | 数组相对排序 | [JavaScript](./src/剑指OfferII075.0H97ZC.1000339/剑指OfferII075.0H97ZC.1000339.js) | Easy  |
+| 剑指OfferII075 | 数组相对排序 | [JavaScript](./src/剑指OfferII075.0H97ZC.1000339/剑指OfferII075.0H97ZC.1000339.js) [TypeScript](./src/剑指OfferII075.0H97ZC.1000339/剑指OfferII075.0H97ZC.1000339.ts) | Easy  |
 | 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
 | 剑指OfferII077 | 链表排序 |  | Medium  |
 | 剑指OfferII078 | 合并排序链表 |  | Hard  |
-| 剑指OfferII079 | 所有子集 |  | Medium  |
-| 剑指OfferII080 | 含有 k 个元素的组合 |  | Medium  |
+| 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/剑指OfferII079.TVdhkn.1000343.js) | Medium  |
+| 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/剑指OfferII080.uUsW3B.1000344.js) | Medium  |
 | 剑指OfferII081 | 允许重复选择元素的组合 |  | Medium  |
 | 剑指OfferII082 | 含有重复元素集合的组合 |  | Medium  |
-| 剑指OfferII083 | 没有重复元素集合的全排列 |  | Medium  |
+| 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/剑指OfferII083.VvJkup.1000234.js) | Medium  |
 | 剑指OfferII084 | 含有重复元素集合的全排列  |  | Medium  |
 | 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.js) | Medium  |
 | 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
