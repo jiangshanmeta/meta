@@ -1,0 +1,20 @@
+name: Generate README
+
+on:
+  push:
+    branches: [ master ]
+  
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install
+        run: npm install
+      - name: Generate
+        run: npm run generate
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          message: 'generete README.md'
