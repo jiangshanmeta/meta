@@ -139,7 +139,7 @@
 | 0119 | Pascal's Triangle II | [JavaScript](./src/0119.pascals-triangle-ii.119/0119.pascals-triangle-ii.119.js) [TypeScript](./src/0119.pascals-triangle-ii.119/0119.pascals-triangle-ii.119.ts) | Easy  |
 | 0120 | Triangle | [JavaScript](./src/0120.triangle.120/0120.triangle.120.js) [TypeScript](./src/0120.triangle.120/0120.triangle.120.ts) | Medium  |
 | 0121 | Best Time to Buy and Sell Stock | [JavaScript](./src/0121.best-time-to-buy-and-sell-stock.121/0121.best-time-to-buy-and-sell-stock.121.js) [TypeScript](./src/0121.best-time-to-buy-and-sell-stock.121/0121.best-time-to-buy-and-sell-stock.121.ts) | Easy  |
-| 0122 | Best Time to Buy and Sell Stock II | [JavaScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/0122.best-time-to-buy-and-sell-stock-ii.122.js) [TypeScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/0122.best-time-to-buy-and-sell-stock-ii.122.ts) | Easy  |
+| 0122 | Best Time to Buy and Sell Stock II | [JavaScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/0122.best-time-to-buy-and-sell-stock-ii.122.js) [TypeScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/0122.best-time-to-buy-and-sell-stock-ii.122.ts) | Medium  |
 | 0123 | Best Time to Buy and Sell Stock III | [JavaScript](./src/0123.best-time-to-buy-and-sell-stock-iii.123/0123.best-time-to-buy-and-sell-stock-iii.123.js) | Hard  |
 | 0124 | Binary Tree Maximum Path Sum | [JavaScript](./src/0124.binary-tree-maximum-path-sum.124/0124.binary-tree-maximum-path-sum.124.js) [TypeScript](./src/0124.binary-tree-maximum-path-sum.124/0124.binary-tree-maximum-path-sum.124.ts) | Hard  |
 | 0125 | Valid Palindrome | [JavaScript](./src/0125.valid-palindrome.125/0125.valid-palindrome.125.js) [TypeScript](./src/0125.valid-palindrome.125/0125.valid-palindrome.125.ts) | Easy  |
@@ -184,16 +184,16 @@
 | 0164 | Maximum Gap |  | Hard  |
 | 0165 | Compare Version Numbers | [JavaScript](./src/0165.compare-version-numbers.165/0165.compare-version-numbers.165.js) [TypeScript](./src/0165.compare-version-numbers.165/0165.compare-version-numbers.165.ts) | Medium  |
 | 0166 | Fraction to Recurring Decimal | [JavaScript](./src/0166.fraction-to-recurring-decimal.166/0166.fraction-to-recurring-decimal.166.js) | Medium  |
-| 0167 | Two Sum II - Input array is sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.ts) | Easy  |
+| 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.ts) | Easy  |
 | 0168 | Excel Sheet Column Title | [JavaScript](./src/0168.excel-sheet-column-title.168/0168.excel-sheet-column-title.168.js) [TypeScript](./src/0168.excel-sheet-column-title.168/0168.excel-sheet-column-title.168.ts) | Easy  |
 | 0169 | Majority Element | [JavaScript](./src/0169.majority-element.169/0169.majority-element.169.js) [TypeScript](./src/0169.majority-element.169/0169.majority-element.169.ts) | Easy  |
 | 0170 | Two Sum III - Data structure design | [JavaScript](./src/0170.two-sum-iii-data-structure-design.170/0170.two-sum-iii-data-structure-design.170.js) [TypeScript](./src/0170.two-sum-iii-data-structure-design.170/0170.two-sum-iii-data-structure-design.170.ts) | Easy  |
 | 0171 | Excel Sheet Column Number | [JavaScript](./src/0171.excel-sheet-column-number.171/0171.excel-sheet-column-number.171.js) [TypeScript](./src/0171.excel-sheet-column-number.171/0171.excel-sheet-column-number.171.ts) | Easy  |
-| 0172 | Factorial Trailing Zeroes | [JavaScript](./src/0172.factorial-trailing-zeroes.172/0172.factorial-trailing-zeroes.172.js) [TypeScript](./src/0172.factorial-trailing-zeroes.172/0172.factorial-trailing-zeroes.172.ts) | Easy  |
+| 0172 | Factorial Trailing Zeroes | [JavaScript](./src/0172.factorial-trailing-zeroes.172/0172.factorial-trailing-zeroes.172.js) [TypeScript](./src/0172.factorial-trailing-zeroes.172/0172.factorial-trailing-zeroes.172.ts) | Medium  |
 | 0173 | Binary Search Tree Iterator | [JavaScript](./src/0173.binary-search-tree-iterator.173/0173.binary-search-tree-iterator.173.js) [TypeScript](./src/0173.binary-search-tree-iterator.173/0173.binary-search-tree-iterator.173.ts) | Medium  |
 | 0174 | Dungeon Game |  | Hard  |
 | 0175 | Combine Two Tables | [Mysql](./src/0175.combine-two-tables.175/0175.combine-two-tables.175.sql) | Easy  |
-| 0176 | Second Highest Salary | [Mysql](./src/0176.second-highest-salary.176/0176.second-highest-salary.176.sql) | Easy  |
+| 0176 | Second Highest Salary | [Mysql](./src/0176.second-highest-salary.176/0176.second-highest-salary.176.sql) | Medium  |
 | 0177 | Nth Highest Salary | [Mysql](./src/0177.nth-highest-salary.177/0177.nth-highest-salary.177.sql) | Medium  |
 | 0178 | Rank Scores | [Mysql](./src/0178.rank-scores.178/0178.rank-scores.178.sql) | Medium  |
 | 0179 | Largest Number | [JavaScript](./src/0179.largest-number.179/0179.largest-number.179.js) | Medium  |
@@ -221,7 +221,7 @@
 | 0201 | Bitwise AND of Numbers Range | [JavaScript](./src/0201.bitwise-and-of-numbers-range.201/0201.bitwise-and-of-numbers-range.201.js) | Medium  |
 | 0202 | Happy Number | [JavaScript](./src/0202.happy-number.202/0202.happy-number.202.js) [TypeScript](./src/0202.happy-number.202/0202.happy-number.202.ts) | Easy  |
 | 0203 | Remove Linked List Elements | [JavaScript](./src/0203.remove-linked-list-elements.203/0203.remove-linked-list-elements.203.js) [TypeScript](./src/0203.remove-linked-list-elements.203/0203.remove-linked-list-elements.203.ts) | Easy  |
-| 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/0204.count-primes.204.js) [TypeScript](./src/0204.count-primes.204/0204.count-primes.204.ts) | Easy  |
+| 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/0204.count-primes.204.js) [TypeScript](./src/0204.count-primes.204/0204.count-primes.204.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/0205.isomorphic-strings.205.js) [TypeScript](./src/0205.isomorphic-strings.205/0205.isomorphic-strings.205.ts) | Easy  |
 | 0206 | Reverse Linked List | [JavaScript](./src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.js) [TypeScript](./src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.ts) | Easy  |
 | 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/0207.course-schedule.207.js) | Medium  |
@@ -349,7 +349,7 @@
 | 0329 | Longest Increasing Path in a Matrix | [JavaScript](./src/0329.longest-increasing-path-in-a-matrix.329/0329.longest-increasing-path-in-a-matrix.329.js) | Hard  |
 | 0330 | Patching Array |  | Hard  |
 | 0331 | Verify Preorder Serialization of a Binary Tree | [JavaScript](./src/0331.verify-preorder-serialization-of-a-binary-tree.331/0331.verify-preorder-serialization-of-a-binary-tree.331.js) | Medium  |
-| 0332 | Reconstruct Itinerary |  | Medium  |
+| 0332 | Reconstruct Itinerary |  | Hard  |
 | 0333 | Largest BST Subtree | [JavaScript](./src/0333.largest-bst-subtree.333/0333.largest-bst-subtree.333.js) [TypeScript](./src/0333.largest-bst-subtree.333/0333.largest-bst-subtree.333.ts) | Medium  |
 | 0334 | Increasing Triplet Subsequence | [JavaScript](./src/0334.increasing-triplet-subsequence.334/0334.increasing-triplet-subsequence.334.js) | Medium  |
 | 0335 | Self Crossing |  | Hard  |
@@ -707,7 +707,7 @@
 | 0687 | Longest Univalue Path | [JavaScript](./src/0687.longest-univalue-path.687/0687.longest-univalue-path.687.js) [TypeScript](./src/0687.longest-univalue-path.687/0687.longest-univalue-path.687.ts) | Medium  |
 | 0688 | Knight Probability in Chessboard |  | Medium  |
 | 0689 | Maximum Sum of 3 Non-Overlapping Subarrays |  | Hard  |
-| 0690 | Employee Importance | [JavaScript](./src/0690.employee-importance.690/0690.employee-importance.690.js) [Python3](./src/0690.employee-importance.690/0690.employee-importance.690.py) [TypeScript](./src/0690.employee-importance.690/0690.employee-importance.690.ts) | Easy  |
+| 0690 | Employee Importance | [JavaScript](./src/0690.employee-importance.690/0690.employee-importance.690.js) [Python3](./src/0690.employee-importance.690/0690.employee-importance.690.py) [TypeScript](./src/0690.employee-importance.690/0690.employee-importance.690.ts) | Medium  |
 | 0691 | Stickers to Spell Word |  | Hard  |
 | 0692 | Top K Frequent Words | [JavaScript](./src/0692.top-k-frequent-words.692/0692.top-k-frequent-words.692.js) | Medium  |
 | 0693 | Binary Number with Alternating Bits | [JavaScript](./src/0693.binary-number-with-alternating-bits.693/0693.binary-number-with-alternating-bits.693.js) [TypeScript](./src/0693.binary-number-with-alternating-bits.693/0693.binary-number-with-alternating-bits.693.ts) | Easy  |
@@ -891,7 +891,7 @@
 | 0871 | Minimum Number of Refueling Stops |  | Hard  |
 | 0872 | Leaf-Similar Trees | [JavaScript](./src/0872.leaf-similar-trees.904/0872.leaf-similar-trees.904.js) [TypeScript](./src/0872.leaf-similar-trees.904/0872.leaf-similar-trees.904.ts) | Easy  |
 | 0873 | Length of Longest Fibonacci Subsequence | [JavaScript](./src/0873.length-of-longest-fibonacci-subsequence.905/0873.length-of-longest-fibonacci-subsequence.905.js) | Medium  |
-| 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/0874.walking-robot-simulation.906.js) | Easy  |
+| 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/0874.walking-robot-simulation.906.js) | Medium  |
 | 0875 | Koko Eating Bananas | [JavaScript](./src/0875.koko-eating-bananas.907/0875.koko-eating-bananas.907.js) | Medium  |
 | 0876 | Middle of the Linked List | [JavaScript](./src/0876.middle-of-the-linked-list.908/0876.middle-of-the-linked-list.908.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/0876.middle-of-the-linked-list.908.ts) | Easy  |
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/0877.stone-game.909.js) | Medium  |
@@ -1438,7 +1438,7 @@
 | 1418 | Display Table of Food Orders in a Restaurant | [JavaScript](./src/1418.display-table-of-food-orders-in-a-restaurant.1533/1418.display-table-of-food-orders-in-a-restaurant.1533.js) | Medium  |
 | 1419 | Minimum Number of Frogs Croaking | [JavaScript](./src/1419.minimum-number-of-frogs-croaking.1534/1419.minimum-number-of-frogs-croaking.1534.js) | Medium  |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons |  | Hard  |
-| 1421 | NPV Queries |  | Medium  |
+| 1421 | NPV Queries |  | Easy  |
 | 1422 | Maximum Score After Splitting a String | [JavaScript](./src/1422.maximum-score-after-splitting-a-string.1537/1422.maximum-score-after-splitting-a-string.1537.js) | Easy  |
 | 1423 | Maximum Points You Can Obtain from Cards | [JavaScript](./src/1423.maximum-points-you-can-obtain-from-cards.1538/1423.maximum-points-you-can-obtain-from-cards.1538.js) | Medium  |
 | 1424 | Diagonal Traverse II | [JavaScript](./src/1424.diagonal-traverse-ii.1539/1424.diagonal-traverse-ii.1539.js) | Medium  |
@@ -1576,7 +1576,7 @@
 | 1556 | Thousand Separator | [JavaScript](./src/1556.thousand-separator.1660/1556.thousand-separator.1660.js) | Easy  |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [JavaScript](./src/1557.minimum-number-of-vertices-to-reach-all-nodes.1661/1557.minimum-number-of-vertices-to-reach-all-nodes.1661.js) | Medium  |
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | [JavaScript](./src/1558.minimum-numbers-of-function-calls-to-make-target-array.1662/1558.minimum-numbers-of-function-calls-to-make-target-array.1662.js) | Medium  |
-| 1559 | Detect Cycles in 2D Grid |  | Hard  |
+| 1559 | Detect Cycles in 2D Grid |  | Medium  |
 | 1560 | Most Visited Sector in  a Circular Track | [JavaScript](./src/1560.most-visited-sector-in-a-circular-track.1682/1560.most-visited-sector-in-a-circular-track.1682.js) | Easy  |
 | 1561 | Maximum Number of Coins You Can Get | [JavaScript](./src/1561.maximum-number-of-coins-you-can-get.1683/1561.maximum-number-of-coins-you-can-get.1683.js) [TypeScript](./src/1561.maximum-number-of-coins-you-can-get.1683/1561.maximum-number-of-coins-you-can-get.1683.ts) | Medium  |
 | 1562 | Find Latest Group of Size M |  | Medium  |
@@ -1983,6 +1983,122 @@
 | 1963 | Minimum Number of Swaps to Make the String Balanced |  | Medium  |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
 | 1965 | Employees With Missing Information |  | Easy  |
+| 1966 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
+| 1967 | Number of Strings That Appear as Substrings in Word |  | Easy  |
+| 1968 | Array With Elements Not Equal to Average of Neighbors |  | Medium  |
+| 1969 | Minimum Non-Zero Product of the Array Elements |  | Medium  |
+| 1970 | Last Day Where You Can Still Cross |  | Hard  |
+| 1971 | Find if Path Exists in Graph | [JavaScript](./src/1971.find-if-path-exists-in-graph.2121/1971.find-if-path-exists-in-graph.2121.js) [TypeScript](./src/1971.find-if-path-exists-in-graph.2121/1971.find-if-path-exists-in-graph.2121.ts) | Easy  |
+| 1972 | First and Last Call On the Same Day |  | Hard  |
+| 1973 | Count Nodes Equal to Sum of Descendants |  | Medium  |
+| 1974 | Minimum Time to Type Word Using Special Typewriter | [JavaScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/1974.minimum-time-to-type-word-using-special-typewriter.2088.js) [TypeScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/1974.minimum-time-to-type-word-using-special-typewriter.2088.ts) | Easy  |
+| 1975 | Maximum Matrix Sum |  | Medium  |
+| 1976 | Number of Ways to Arrive at Destination |  | Medium  |
+| 1977 | Number of Ways to Separate Numbers |  | Hard  |
+| 1978 | Employees Whose Manager Left the Company |  | Easy  |
+| 1979 | Find Greatest Common Divisor of Array | [JavaScript](./src/1979.find-greatest-common-divisor-of-array.2106/1979.find-greatest-common-divisor-of-array.2106.js) [TypeScript](./src/1979.find-greatest-common-divisor-of-array.2106/1979.find-greatest-common-divisor-of-array.2106.ts) | Easy  |
+| 1980 | Find Unique Binary String |  | Medium  |
+| 1981 | Minimize the Difference Between Target and Chosen Elements |  | Medium  |
+| 1982 | Find Array Given Subset Sums |  | Hard  |
+| 1983 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
+| 1984 | Minimum Difference Between Highest and Lowest of K Scores | [JavaScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112.js) [TypeScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112.ts) | Easy  |
+| 1985 | Find the Kth Largest Integer in the Array |  | Medium  |
+| 1986 | Minimum Number of Work Sessions to Finish the Tasks |  | Medium  |
+| 1987 | Number of Unique Good Subsequences |  | Hard  |
+| 1988 | Find Cutoff Score for Each School |  | Medium  |
+| 1989 | Maximum Number of People That Can Be Caught in Tag |  | Medium  |
+| 1990 | Count the Number of Experiments |  | Easy  |
+| 1991 | Find the Middle Index in Array | [JavaScript](./src/1991.find-the-middle-index-in-array.2102/1991.find-the-middle-index-in-array.2102.js) [TypeScript](./src/1991.find-the-middle-index-in-array.2102/1991.find-the-middle-index-in-array.2102.ts) | Easy  |
+| 1992 | Find All Groups of Farmland |  | Medium  |
+| 1993 | Operations on Tree |  | Medium  |
+| 1994 | The Number of Good Subsets |  | Hard  |
+| 1995 | Count Special Quadruplets | [JavaScript](./src/1995.count-special-quadruplets.2122/1995.count-special-quadruplets.2122.js) [TypeScript](./src/1995.count-special-quadruplets.2122/1995.count-special-quadruplets.2122.ts) | Easy  |
+| 1996 | The Number of Weak Characters in the Game |  | Medium  |
+| 1997 | First Day Where You Have Been in All the Rooms |  | Medium  |
+| 1998 | GCD Sort of an Array |  | Hard  |
+| 1999 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
+| 2000 | Reverse Prefix of Word | [JavaScript](./src/2000.reverse-prefix-of-word.2128/2000.reverse-prefix-of-word.2128.js) [TypeScript](./src/2000.reverse-prefix-of-word.2128/2000.reverse-prefix-of-word.2128.ts) | Easy  |
+| 2001 | Number of Pairs of Interchangeable Rectangles |  | Medium  |
+| 2002 | Maximum Product of the Length of Two Palindromic Subsequences |  | Medium  |
+| 2003 | Smallest Missing Genetic Value in Each Subtree |  | Hard  |
+| 2004 | The Number of Seniors and Juniors to Join the Company |  | Hard  |
+| 2005 | Subtree Removal Game with Fibonacci Tree |  | Hard  |
+| 2006 | Count Number of Pairs With Absolute Difference K | [JavaScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/2006.count-number-of-pairs-with-absolute-difference-k.2116.js) [TypeScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/2006.count-number-of-pairs-with-absolute-difference-k.2116.ts) | Easy  |
+| 2007 | Find Original Array From Doubled Array |  | Medium  |
+| 2008 | Maximum Earnings From Taxi |  | Medium  |
+| 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
+| 2010 | The Number of Seniors and Juniors to Join the Company II |  | Hard  |
+| 2011 | Final Value of Variable After Performing Operations | [JavaScript](./src/2011.final-value-of-variable-after-performing-operations.2137/2011.final-value-of-variable-after-performing-operations.2137.js) [TypeScript](./src/2011.final-value-of-variable-after-performing-operations.2137/2011.final-value-of-variable-after-performing-operations.2137.ts) | Easy  |
+| 2012 | Sum of Beauty in the Array |  | Medium  |
+| 2013 | Detect Squares |  | Medium  |
+| 2014 | Longest Subsequence Repeated k Times |  | Hard  |
+| 2015 | Average Height of Buildings in Each Segment |  | Medium  |
+| 2016 | Maximum Difference Between Increasing Elements | [JavaScript](./src/2016.maximum-difference-between-increasing-elements.2144/2016.maximum-difference-between-increasing-elements.2144.js) [TypeScript](./src/2016.maximum-difference-between-increasing-elements.2144/2016.maximum-difference-between-increasing-elements.2144.ts) | Easy  |
+| 2017 | Grid Game |  | Medium  |
+| 2018 | Check if Word Can Be Placed In Crossword |  | Medium  |
+| 2019 | The Score of Students Solving Math Expression |  | Hard  |
+| 2020 | Number of Accounts That Did Not Stream |  | Medium  |
+| 2021 | Brightest Position on Street |  | Medium  |
+| 2022 | Convert 1D Array Into 2D Array | [JavaScript](./src/2022.convert-1d-array-into-2d-array.2132/2022.convert-1d-array-into-2d-array.2132.js) [TypeScript](./src/2022.convert-1d-array-into-2d-array.2132/2022.convert-1d-array-into-2d-array.2132.ts) | Easy  |
+| 2023 | Number of Pairs of Strings With Concatenation Equal to Target | [JavaScript](./src/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.2133/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.2133.js) | Medium  |
+| 2024 | Maximize the Confusion of an Exam |  | Medium  |
+| 2025 | Maximum Number of Ways to Partition an Array |  | Hard  |
+| 2026 | Low-Quality Problems |  | Easy  |
+| 2027 | Minimum Moves to Convert String | [JavaScript](./src/2027.minimum-moves-to-convert-string.2154/2027.minimum-moves-to-convert-string.2154.js) [TypeScript](./src/2027.minimum-moves-to-convert-string.2154/2027.minimum-moves-to-convert-string.2154.ts) | Easy  |
+| 2028 | Find Missing Observations |  | Medium  |
+| 2029 | Stone Game IX |  | Medium  |
+| 2030 | Smallest K-Length Subsequence With Occurrences of a Letter |  | Hard  |
+| 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
+| 2032 | Two Out of Three | [JavaScript](./src/2032.two-out-of-three.2159/2032.two-out-of-three.2159.js) [TypeScript](./src/2032.two-out-of-three.2159/2032.two-out-of-three.2159.ts) | Easy  |
+| 2033 | Minimum Operations to Make a Uni-Value Grid |  | Medium  |
+| 2034 | Stock Price Fluctuation  |  | Medium  |
+| 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
+| 2036 | Maximum Alternating Subarray Sum |  | Medium  |
+| 2037 | Minimum Number of Moves to Seat Everyone | [JavaScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/2037.minimum-number-of-moves-to-seat-everyone.2148.js) [TypeScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/2037.minimum-number-of-moves-to-seat-everyone.2148.ts) | Easy  |
+| 2038 | Remove Colored Pieces if Both Neighbors are the Same Color |  | Medium  |
+| 2039 | The Time When the Network Becomes Idle |  | Medium  |
+| 2040 | Kth Smallest Product of Two Sorted Arrays |  | Hard  |
+| 2041 | Accepted Candidates From the Interviews |  | Medium  |
+| 2042 | Check if Numbers Are Ascending in a Sentence | [JavaScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/2042.check-if-numbers-are-ascending-in-a-sentence.2168.js) [TypeScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/2042.check-if-numbers-are-ascending-in-a-sentence.2168.ts) | Easy  |
+| 2043 | Simple Bank System | [JavaScript](./src/2043.simple-bank-system.2169/2043.simple-bank-system.2169.js) | Medium  |
+| 2044 | Count Number of Maximum Bitwise-OR Subsets |  | Medium  |
+| 2045 | Second Minimum Time to Reach Destination |  | Hard  |
+| 2046 | Sort Linked List Already Sorted Using Absolute Values |  | Medium  |
+| 2047 | Number of Valid Words in a Sentence | [JavaScript](./src/2047.number-of-valid-words-in-a-sentence.2173/2047.number-of-valid-words-in-a-sentence.2173.js) [TypeScript](./src/2047.number-of-valid-words-in-a-sentence.2173/2047.number-of-valid-words-in-a-sentence.2173.ts) | Easy  |
+| 2048 | Next Greater Numerically Balanced Number |  | Medium  |
+| 2049 | Count Nodes With the Highest Score |  | Medium  |
+| 2050 | Parallel Courses III |  | Hard  |
+| 2051 | The Category of Each Member in the Store |  | Medium  |
+| 2052 | Minimum Cost to Separate Sentence Into Rows |  | Medium  |
+| 2053 | Kth Distinct String in an Array | [JavaScript](./src/2053.kth-distinct-string-in-an-array.2163/2053.kth-distinct-string-in-an-array.2163.js) [TypeScript](./src/2053.kth-distinct-string-in-an-array.2163/2053.kth-distinct-string-in-an-array.2163.ts) | Easy  |
+| 2054 | Two Best Non-Overlapping Events |  | Medium  |
+| 2055 | Plates Between Candles |  | Medium  |
+| 2056 | Number of Valid Move Combinations On Chessboard |  | Hard  |
+| 2057 | Smallest Index With Equal Value | [JavaScript](./src/2057.smallest-index-with-equal-value.2181/2057.smallest-index-with-equal-value.2181.js) [TypeScript](./src/2057.smallest-index-with-equal-value.2181/2057.smallest-index-with-equal-value.2181.ts) | Easy  |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points |  | Medium  |
+| 2059 | Minimum Operations to Convert Number |  | Medium  |
+| 2060 | Check if an Original String Exists Given Two Encoded Strings |  | Hard  |
+| 2061 | Number of Spaces Cleaning Robot Cleaned |  | Medium  |
+| 2062 | Count Vowel Substrings of a String |  | Easy  |
+| 2063 | Vowels of All Substrings |  | Medium  |
+| 2064 | Minimized Maximum of Products Distributed to Any Store |  | Medium  |
+| 2065 | Maximum Path Quality of a Graph |  | Hard  |
+| 2066 | Account Balance |  | Medium  |
+| 2067 | Number of Equal Count Substrings |  | Medium  |
+| 2068 | Check Whether Two Strings are Almost Equivalent | [JavaScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/2068.check-whether-two-strings-are-almost-equivalent.2177.js) [TypeScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/2068.check-whether-two-strings-are-almost-equivalent.2177.ts) | Easy  |
+| 2069 | Walking Robot Simulation II |  | Medium  |
+| 2070 | Most Beautiful Item for Each Query |  | Medium  |
+| 2071 | Maximum Number of Tasks You Can Assign |  | Hard  |
+| 2072 | The Winner University |  | Easy  |
+| 2073 | Time Needed to Buy Tickets | [JavaScript](./src/2073.time-needed-to-buy-tickets.2195/2073.time-needed-to-buy-tickets.2195.js) [TypeScript](./src/2073.time-needed-to-buy-tickets.2195/2073.time-needed-to-buy-tickets.2195.ts) | Easy  |
+| 2074 | Reverse Nodes in Even Length Groups |  | Medium  |
+| 2075 | Decode the Slanted Ciphertext |  | Medium  |
+| 2076 | Process Restricted Friend Requests |  | Hard  |
+| 2078 | Two Furthest Houses With Different Colors | [JavaScript](./src/2078.two-furthest-houses-with-different-colors.2199/2078.two-furthest-houses-with-different-colors.2199.js) [TypeScript](./src/2078.two-furthest-houses-with-different-colors.2199/2078.two-furthest-houses-with-different-colors.2199.ts) | Easy  |
+| 2079 | Watering Plants |  | Medium  |
+| 2080 | Range Frequency Queries |  | Medium  |
+| 2081 | Sum of k-Mirror Numbers |  | Hard  |
+| 5945 | Paths in Maze That Lead to Same Room |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2021,6 +2137,17 @@
 | LCP36 | 最多牌组数 |  | Hard  |
 | LCP37 | 最小矩形面积 |  | Hard  |
 | LCP38 | 守卫城堡 |  | Hard  |
+| LCP39 | 无人机方阵 |  | Easy  |
+| LCP40 | 心算挑战 |  | Easy  |
+| LCP41 | 黑白翻转棋 |  | Medium  |
+| LCP42 | 玩具套圈 |  | Hard  |
+| LCP43 | 十字路口的交通 |  | Hard  |
+| LCP44 | 开幕式焰火 |  | Easy  |
+| LCP45 | 自行车炫技赛场 |  | Medium  |
+| LCP46 | 志愿者调配 |  | Medium  |
+| LCP47 | 入场安检 |  | Hard  |
+| LCP48 | 无限棋局 |  | Hard  |
+| LCP49 | 环形闯关游戏 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.ts) | Easy  |
@@ -2183,8 +2310,8 @@
 | 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/剑指OfferII085.IDBivT.1000238.ts) | Medium  |
 | 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
 | 剑指OfferII087 | 复原 IP  |  | Medium  |
-| 剑指OfferII088 | 爬楼梯的最少成本 |  | Easy  |
-| 剑指OfferII089 | 房屋偷盗 |  | Medium  |
+| 剑指OfferII088 | 爬楼梯的最少成本 | [JavaScript](./src/剑指OfferII088.GzCJIP.1000243/剑指OfferII088.GzCJIP.1000243.js) [TypeScript](./src/剑指OfferII088.GzCJIP.1000243/剑指OfferII088.GzCJIP.1000243.ts) | Easy  |
+| 剑指OfferII089 | 房屋偷盗 | [JavaScript](./src/剑指OfferII089.Gu0c2T.1000245/剑指OfferII089.Gu0c2T.1000245.js) | Medium  |
 | 剑指OfferII090 | 环形房屋偷盗 |  | Medium  |
 | 剑指OfferII091 | 粉刷房子 |  | Medium  |
 | 剑指OfferII092 | 翻转字符 |  | Medium  |
@@ -2193,14 +2320,14 @@
 | 剑指OfferII095 | 最长公共子序列 |  | Medium  |
 | 剑指OfferII096 | 字符串交织 |  | Medium  |
 | 剑指OfferII097 | 子序列的数目 |  | Hard  |
-| 剑指OfferII098 | 路径的数目 |  | Medium  |
-| 剑指OfferII099 | 最小路径之和 |  | Medium  |
+| 剑指OfferII098 | 路径的数目 | [JavaScript](./src/剑指OfferII098.2AoeFn.1000345/剑指OfferII098.2AoeFn.1000345.js) [TypeScript](./src/剑指OfferII098.2AoeFn.1000345/剑指OfferII098.2AoeFn.1000345.ts) | Medium  |
+| 剑指OfferII099 | 最小路径之和 | [JavaScript](./src/剑指OfferII099.0i0mDW.1000285/剑指OfferII099.0i0mDW.1000285.js) [TypeScript](./src/剑指OfferII099.0i0mDW.1000285/剑指OfferII099.0i0mDW.1000285.ts) | Medium  |
 | 剑指OfferII100 | 三角形中最小路径之和 |  | Medium  |
-| 剑指OfferII101 | 分割等和子串 |  | Easy  |
+| 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/剑指OfferII101.NUPfPr.1000287.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/剑指OfferII101.NUPfPr.1000287.ts) | Easy  |
 | 剑指OfferII102 | 加减的目标值 |  | Medium  |
 | 剑指OfferII103 | 最少的硬币数目 |  | Medium  |
 | 剑指OfferII104 | 排列的数目 |  | Medium  |
-| 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.js) | Medium  |
+| 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.ts) | Medium  |
 | 剑指OfferII106 | 二分图 |  | Medium  |
 | 剑指OfferII107 | 矩阵中的距离 |  | Medium  |
 | 剑指OfferII108 | 单词演变 |  | Hard  |
@@ -2211,7 +2338,7 @@
 | 剑指OfferII113 | 课程顺序 |  | Medium  |
 | 剑指OfferII114 | 外星文字典 |  | Hard  |
 | 剑指OfferII115 | 重建序列 |  | Medium  |
-| 剑指OfferII116 | 朋友圈 |  | Medium  |
+| 剑指OfferII116 | 省份数量 | [JavaScript](./src/剑指OfferII116.bLyHh0.1000346/剑指OfferII116.bLyHh0.1000346.js) | Medium  |
 | 剑指OfferII117 | 相似的字符串 |  | Hard  |
 | 剑指OfferII118 | 多余的边 |  | Medium  |
 | 剑指OfferII119 | 最长连续序列 |  | Medium  |
