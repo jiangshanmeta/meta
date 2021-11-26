@@ -851,7 +851,7 @@
         "index": "0122",
         "title": "Best Time to Buy and Sell Stock II",
         "title_slug": "best-time-to-buy-and-sell-stock-ii",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 123,
@@ -1164,7 +1164,7 @@
     {
         "id": 167,
         "index": "0167",
-        "title": "Two Sum II - Input array is sorted",
+        "title": "Two Sum II - Input Array Is Sorted",
         "title_slug": "two-sum-ii-input-array-is-sorted",
         "difficulty": 1
     },
@@ -1201,7 +1201,7 @@
         "index": "0172",
         "title": "Factorial Trailing Zeroes",
         "title_slug": "factorial-trailing-zeroes",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 173,
@@ -1229,7 +1229,7 @@
         "index": "0176",
         "title": "Second Highest Salary",
         "title_slug": "second-highest-salary",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 177,
@@ -1425,7 +1425,7 @@
         "index": "0204",
         "title": "Count Primes",
         "title_slug": "count-primes",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 205,
@@ -2321,7 +2321,7 @@
         "index": "0332",
         "title": "Reconstruct Itinerary",
         "title_slug": "reconstruct-itinerary",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 333,
@@ -4827,7 +4827,7 @@
         "index": "0690",
         "title": "Employee Importance",
         "title_slug": "employee-importance",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 691,
@@ -6115,7 +6115,7 @@
         "index": "0874",
         "title": "Walking Robot Simulation",
         "title_slug": "walking-robot-simulation",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 907,
@@ -9944,7 +9944,7 @@
         "index": "1421",
         "title": "NPV Queries",
         "title_slug": "npv-queries",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 1537,
@@ -10910,7 +10910,7 @@
         "index": "1559",
         "title": "Detect Cycles in 2D Grid",
         "title_slug": "detect-cycles-in-2d-grid",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 1682,
@@ -13755,6 +13755,818 @@
         "difficulty": 1
     },
     {
+        "id": 2111,
+        "index": "1966",
+        "title": "Binary Searchable Numbers in an Unsorted Array",
+        "title_slug": "binary-searchable-numbers-in-an-unsorted-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2099,
+        "index": "1967",
+        "title": "Number of Strings That Appear as Substrings in Word",
+        "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+        "difficulty": 1
+    },
+    {
+        "id": 2085,
+        "index": "1968",
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "title_slug": "array-with-elements-not-equal-to-average-of-neighbors",
+        "difficulty": 2
+    },
+    {
+        "id": 2100,
+        "index": "1969",
+        "title": "Minimum Non-Zero Product of the Array Elements",
+        "title_slug": "minimum-non-zero-product-of-the-array-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2101,
+        "index": "1970",
+        "title": "Last Day Where You Can Still Cross",
+        "title_slug": "last-day-where-you-can-still-cross",
+        "difficulty": 3
+    },
+    {
+        "id": 2121,
+        "index": "1971",
+        "title": "Find if Path Exists in Graph",
+        "title_slug": "find-if-path-exists-in-graph",
+        "difficulty": 1
+    },
+    {
+        "id": 2120,
+        "index": "1972",
+        "title": "First and Last Call On the Same Day",
+        "title_slug": "first-and-last-call-on-the-same-day",
+        "difficulty": 3
+    },
+    {
+        "id": 2126,
+        "index": "1973",
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "title_slug": "count-nodes-equal-to-sum-of-descendants",
+        "difficulty": 2
+    },
+    {
+        "id": 2088,
+        "index": "1974",
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "title_slug": "minimum-time-to-type-word-using-special-typewriter",
+        "difficulty": 1
+    },
+    {
+        "id": 2089,
+        "index": "1975",
+        "title": "Maximum Matrix Sum",
+        "title_slug": "maximum-matrix-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2090,
+        "index": "1976",
+        "title": "Number of Ways to Arrive at Destination",
+        "title_slug": "number-of-ways-to-arrive-at-destination",
+        "difficulty": 2
+    },
+    {
+        "id": 2091,
+        "index": "1977",
+        "title": "Number of Ways to Separate Numbers",
+        "title_slug": "number-of-ways-to-separate-numbers",
+        "difficulty": 3
+    },
+    {
+        "id": 2127,
+        "index": "1978",
+        "title": "Employees Whose Manager Left the Company",
+        "title_slug": "employees-whose-manager-left-the-company",
+        "difficulty": 1
+    },
+    {
+        "id": 2106,
+        "index": "1979",
+        "title": "Find Greatest Common Divisor of Array",
+        "title_slug": "find-greatest-common-divisor-of-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2107,
+        "index": "1980",
+        "title": "Find Unique Binary String",
+        "title_slug": "find-unique-binary-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2108,
+        "index": "1981",
+        "title": "Minimize the Difference Between Target and Chosen Elements",
+        "title_slug": "minimize-the-difference-between-target-and-chosen-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2109,
+        "index": "1982",
+        "title": "Find Array Given Subset Sums",
+        "title_slug": "find-array-given-subset-sums",
+        "difficulty": 3
+    },
+    {
+        "id": 519,
+        "index": "1983",
+        "title": "Widest Pair of Indices With Equal Range Sum",
+        "title_slug": "widest-pair-of-indices-with-equal-range-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2112,
+        "index": "1984",
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": 1
+    },
+    {
+        "id": 2113,
+        "index": "1985",
+        "title": "Find the Kth Largest Integer in the Array",
+        "title_slug": "find-the-kth-largest-integer-in-the-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2114,
+        "index": "1986",
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "title_slug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+        "difficulty": 2
+    },
+    {
+        "id": 2115,
+        "index": "1987",
+        "title": "Number of Unique Good Subsequences",
+        "title_slug": "number-of-unique-good-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 2136,
+        "index": "1988",
+        "title": "Find Cutoff Score for Each School",
+        "title_slug": "find-cutoff-score-for-each-school",
+        "difficulty": 2
+    },
+    {
+        "id": 1979,
+        "index": "1989",
+        "title": "Maximum Number of People That Can Be Caught in Tag",
+        "title_slug": "maximum-number-of-people-that-can-be-caught-in-tag",
+        "difficulty": 2
+    },
+    {
+        "id": 2143,
+        "index": "1990",
+        "title": "Count the Number of Experiments",
+        "title_slug": "count-the-number-of-experiments",
+        "difficulty": 1
+    },
+    {
+        "id": 2102,
+        "index": "1991",
+        "title": "Find the Middle Index in Array",
+        "title_slug": "find-the-middle-index-in-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2103,
+        "index": "1992",
+        "title": "Find All Groups of Farmland",
+        "title_slug": "find-all-groups-of-farmland",
+        "difficulty": 2
+    },
+    {
+        "id": 2104,
+        "index": "1993",
+        "title": "Operations on Tree",
+        "title_slug": "operations-on-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 2105,
+        "index": "1994",
+        "title": "The Number of Good Subsets",
+        "title_slug": "the-number-of-good-subsets",
+        "difficulty": 3
+    },
+    {
+        "id": 2122,
+        "index": "1995",
+        "title": "Count Special Quadruplets",
+        "title_slug": "count-special-quadruplets",
+        "difficulty": 1
+    },
+    {
+        "id": 2123,
+        "index": "1996",
+        "title": "The Number of Weak Characters in the Game",
+        "title_slug": "the-number-of-weak-characters-in-the-game",
+        "difficulty": 2
+    },
+    {
+        "id": 2124,
+        "index": "1997",
+        "title": "First Day Where You Have Been in All the Rooms",
+        "title_slug": "first-day-where-you-have-been-in-all-the-rooms",
+        "difficulty": 2
+    },
+    {
+        "id": 2125,
+        "index": "1998",
+        "title": "GCD Sort of an Array",
+        "title_slug": "gcd-sort-of-an-array",
+        "difficulty": 3
+    },
+    {
+        "id": 2141,
+        "index": "1999",
+        "title": "Smallest Greater Multiple Made of Two Digits",
+        "title_slug": "smallest-greater-multiple-made-of-two-digits",
+        "difficulty": 2
+    },
+    {
+        "id": 2128,
+        "index": "2000",
+        "title": "Reverse Prefix of Word",
+        "title_slug": "reverse-prefix-of-word",
+        "difficulty": 1
+    },
+    {
+        "id": 2129,
+        "index": "2001",
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "title_slug": "number-of-pairs-of-interchangeable-rectangles",
+        "difficulty": 2
+    },
+    {
+        "id": 2130,
+        "index": "2002",
+        "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+        "title_slug": "maximum-product-of-the-length-of-two-palindromic-subsequences",
+        "difficulty": 2
+    },
+    {
+        "id": 2131,
+        "index": "2003",
+        "title": "Smallest Missing Genetic Value in Each Subtree",
+        "title_slug": "smallest-missing-genetic-value-in-each-subtree",
+        "difficulty": 3
+    },
+    {
+        "id": 2152,
+        "index": "2004",
+        "title": "The Number of Seniors and Juniors to Join the Company",
+        "title_slug": "the-number-of-seniors-and-juniors-to-join-the-company",
+        "difficulty": 3
+    },
+    {
+        "id": 2153,
+        "index": "2005",
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "title_slug": "subtree-removal-game-with-fibonacci-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 2116,
+        "index": "2006",
+        "title": "Count Number of Pairs With Absolute Difference K",
+        "title_slug": "count-number-of-pairs-with-absolute-difference-k",
+        "difficulty": 1
+    },
+    {
+        "id": 2117,
+        "index": "2007",
+        "title": "Find Original Array From Doubled Array",
+        "title_slug": "find-original-array-from-doubled-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2118,
+        "index": "2008",
+        "title": "Maximum Earnings From Taxi",
+        "title_slug": "maximum-earnings-from-taxi",
+        "difficulty": 2
+    },
+    {
+        "id": 2119,
+        "index": "2009",
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "title_slug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": 3
+    },
+    {
+        "id": 2158,
+        "index": "2010",
+        "title": "The Number of Seniors and Juniors to Join the Company II",
+        "title_slug": "the-number-of-seniors-and-juniors-to-join-the-company-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 2137,
+        "index": "2011",
+        "title": "Final Value of Variable After Performing Operations",
+        "title_slug": "final-value-of-variable-after-performing-operations",
+        "difficulty": 1
+    },
+    {
+        "id": 2138,
+        "index": "2012",
+        "title": "Sum of Beauty in the Array",
+        "title_slug": "sum-of-beauty-in-the-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2139,
+        "index": "2013",
+        "title": "Detect Squares",
+        "title_slug": "detect-squares",
+        "difficulty": 2
+    },
+    {
+        "id": 2140,
+        "index": "2014",
+        "title": "Longest Subsequence Repeated k Times",
+        "title_slug": "longest-subsequence-repeated-k-times",
+        "difficulty": 3
+    },
+    {
+        "id": 2142,
+        "index": "2015",
+        "title": "Average Height of Buildings in Each Segment",
+        "title_slug": "average-height-of-buildings-in-each-segment",
+        "difficulty": 2
+    },
+    {
+        "id": 2144,
+        "index": "2016",
+        "title": "Maximum Difference Between Increasing Elements",
+        "title_slug": "maximum-difference-between-increasing-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 2145,
+        "index": "2017",
+        "title": "Grid Game",
+        "title_slug": "grid-game",
+        "difficulty": 2
+    },
+    {
+        "id": 2146,
+        "index": "2018",
+        "title": "Check if Word Can Be Placed In Crossword",
+        "title_slug": "check-if-word-can-be-placed-in-crossword",
+        "difficulty": 2
+    },
+    {
+        "id": 2147,
+        "index": "2019",
+        "title": "The Score of Students Solving Math Expression",
+        "title_slug": "the-score-of-students-solving-math-expression",
+        "difficulty": 3
+    },
+    {
+        "id": 2167,
+        "index": "2020",
+        "title": "Number of Accounts That Did Not Stream",
+        "title_slug": "number-of-accounts-that-did-not-stream",
+        "difficulty": 2
+    },
+    {
+        "id": 2075,
+        "index": "2021",
+        "title": "Brightest Position on Street",
+        "title_slug": "brightest-position-on-street",
+        "difficulty": 2
+    },
+    {
+        "id": 2132,
+        "index": "2022",
+        "title": "Convert 1D Array Into 2D Array",
+        "title_slug": "convert-1d-array-into-2d-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2133,
+        "index": "2023",
+        "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+        "title_slug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+        "difficulty": 2
+    },
+    {
+        "id": 2134,
+        "index": "2024",
+        "title": "Maximize the Confusion of an Exam",
+        "title_slug": "maximize-the-confusion-of-an-exam",
+        "difficulty": 2
+    },
+    {
+        "id": 2135,
+        "index": "2025",
+        "title": "Maximum Number of Ways to Partition an Array",
+        "title_slug": "maximum-number-of-ways-to-partition-an-array",
+        "difficulty": 3
+    },
+    {
+        "id": 2172,
+        "index": "2026",
+        "title": "Low-Quality Problems",
+        "title_slug": "low-quality-problems",
+        "difficulty": 1
+    },
+    {
+        "id": 2154,
+        "index": "2027",
+        "title": "Minimum Moves to Convert String",
+        "title_slug": "minimum-moves-to-convert-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2155,
+        "index": "2028",
+        "title": "Find Missing Observations",
+        "title_slug": "find-missing-observations",
+        "difficulty": 2
+    },
+    {
+        "id": 2156,
+        "index": "2029",
+        "title": "Stone Game IX",
+        "title_slug": "stone-game-ix",
+        "difficulty": 2
+    },
+    {
+        "id": 2157,
+        "index": "2030",
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "title_slug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+        "difficulty": 3
+    },
+    {
+        "id": 510,
+        "index": "2031",
+        "title": "Count Subarrays With More Ones Than Zeros",
+        "title_slug": "count-subarrays-with-more-ones-than-zeros",
+        "difficulty": 2
+    },
+    {
+        "id": 2159,
+        "index": "2032",
+        "title": "Two Out of Three",
+        "title_slug": "two-out-of-three",
+        "difficulty": 1
+    },
+    {
+        "id": 2160,
+        "index": "2033",
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "title_slug": "minimum-operations-to-make-a-uni-value-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2161,
+        "index": "2034",
+        "title": "Stock Price Fluctuation ",
+        "title_slug": "stock-price-fluctuation",
+        "difficulty": 2
+    },
+    {
+        "id": 2162,
+        "index": "2035",
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "title_slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+        "difficulty": 3
+    },
+    {
+        "id": 512,
+        "index": "2036",
+        "title": "Maximum Alternating Subarray Sum",
+        "title_slug": "maximum-alternating-subarray-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2148,
+        "index": "2037",
+        "title": "Minimum Number of Moves to Seat Everyone",
+        "title_slug": "minimum-number-of-moves-to-seat-everyone",
+        "difficulty": 1
+    },
+    {
+        "id": 2149,
+        "index": "2038",
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "title_slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": 2
+    },
+    {
+        "id": 2151,
+        "index": "2039",
+        "title": "The Time When the Network Becomes Idle",
+        "title_slug": "the-time-when-the-network-becomes-idle",
+        "difficulty": 2
+    },
+    {
+        "id": 2150,
+        "index": "2040",
+        "title": "Kth Smallest Product of Two Sorted Arrays",
+        "title_slug": "kth-smallest-product-of-two-sorted-arrays",
+        "difficulty": 3
+    },
+    {
+        "id": 2185,
+        "index": "2041",
+        "title": "Accepted Candidates From the Interviews",
+        "title_slug": "accepted-candidates-from-the-interviews",
+        "difficulty": 2
+    },
+    {
+        "id": 2168,
+        "index": "2042",
+        "title": "Check if Numbers Are Ascending in a Sentence",
+        "title_slug": "check-if-numbers-are-ascending-in-a-sentence",
+        "difficulty": 1
+    },
+    {
+        "id": 2169,
+        "index": "2043",
+        "title": "Simple Bank System",
+        "title_slug": "simple-bank-system",
+        "difficulty": 2
+    },
+    {
+        "id": 2170,
+        "index": "2044",
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "title_slug": "count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": 2
+    },
+    {
+        "id": 2171,
+        "index": "2045",
+        "title": "Second Minimum Time to Reach Destination",
+        "title_slug": "second-minimum-time-to-reach-destination",
+        "difficulty": 3
+    },
+    {
+        "id": 1992,
+        "index": "2046",
+        "title": "Sort Linked List Already Sorted Using Absolute Values",
+        "title_slug": "sort-linked-list-already-sorted-using-absolute-values",
+        "difficulty": 2
+    },
+    {
+        "id": 2173,
+        "index": "2047",
+        "title": "Number of Valid Words in a Sentence",
+        "title_slug": "number-of-valid-words-in-a-sentence",
+        "difficulty": 1
+    },
+    {
+        "id": 2174,
+        "index": "2048",
+        "title": "Next Greater Numerically Balanced Number",
+        "title_slug": "next-greater-numerically-balanced-number",
+        "difficulty": 2
+    },
+    {
+        "id": 2175,
+        "index": "2049",
+        "title": "Count Nodes With the Highest Score",
+        "title_slug": "count-nodes-with-the-highest-score",
+        "difficulty": 2
+    },
+    {
+        "id": 2176,
+        "index": "2050",
+        "title": "Parallel Courses III",
+        "title_slug": "parallel-courses-iii",
+        "difficulty": 3
+    },
+    {
+        "id": 2194,
+        "index": "2051",
+        "title": "The Category of Each Member in the Store",
+        "title_slug": "the-category-of-each-member-in-the-store",
+        "difficulty": 2
+    },
+    {
+        "id": 2082,
+        "index": "2052",
+        "title": "Minimum Cost to Separate Sentence Into Rows",
+        "title_slug": "minimum-cost-to-separate-sentence-into-rows",
+        "difficulty": 2
+    },
+    {
+        "id": 2163,
+        "index": "2053",
+        "title": "Kth Distinct String in an Array",
+        "title_slug": "kth-distinct-string-in-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2164,
+        "index": "2054",
+        "title": "Two Best Non-Overlapping Events",
+        "title_slug": "two-best-non-overlapping-events",
+        "difficulty": 2
+    },
+    {
+        "id": 2165,
+        "index": "2055",
+        "title": "Plates Between Candles",
+        "title_slug": "plates-between-candles",
+        "difficulty": 2
+    },
+    {
+        "id": 2166,
+        "index": "2056",
+        "title": "Number of Valid Move Combinations On Chessboard",
+        "title_slug": "number-of-valid-move-combinations-on-chessboard",
+        "difficulty": 3
+    },
+    {
+        "id": 2181,
+        "index": "2057",
+        "title": "Smallest Index With Equal Value",
+        "title_slug": "smallest-index-with-equal-value",
+        "difficulty": 1
+    },
+    {
+        "id": 2182,
+        "index": "2058",
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "title_slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "difficulty": 2
+    },
+    {
+        "id": 2183,
+        "index": "2059",
+        "title": "Minimum Operations to Convert Number",
+        "title_slug": "minimum-operations-to-convert-number",
+        "difficulty": 2
+    },
+    {
+        "id": 2184,
+        "index": "2060",
+        "title": "Check if an Original String Exists Given Two Encoded Strings",
+        "title_slug": "check-if-an-original-string-exists-given-two-encoded-strings",
+        "difficulty": 3
+    },
+    {
+        "id": 2203,
+        "index": "2061",
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "title_slug": "number-of-spaces-cleaning-robot-cleaned",
+        "difficulty": 2
+    },
+    {
+        "id": 2186,
+        "index": "2062",
+        "title": "Count Vowel Substrings of a String",
+        "title_slug": "count-vowel-substrings-of-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2187,
+        "index": "2063",
+        "title": "Vowels of All Substrings",
+        "title_slug": "vowels-of-all-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 2188,
+        "index": "2064",
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "title_slug": "minimized-maximum-of-products-distributed-to-any-store",
+        "difficulty": 2
+    },
+    {
+        "id": 2189,
+        "index": "2065",
+        "title": "Maximum Path Quality of a Graph",
+        "title_slug": "maximum-path-quality-of-a-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 2208,
+        "index": "2066",
+        "title": "Account Balance",
+        "title_slug": "account-balance",
+        "difficulty": 2
+    },
+    {
+        "id": 2209,
+        "index": "2067",
+        "title": "Number of Equal Count Substrings",
+        "title_slug": "number-of-equal-count-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 2177,
+        "index": "2068",
+        "title": "Check Whether Two Strings are Almost Equivalent",
+        "title_slug": "check-whether-two-strings-are-almost-equivalent",
+        "difficulty": 1
+    },
+    {
+        "id": 2178,
+        "index": "2069",
+        "title": "Walking Robot Simulation II",
+        "title_slug": "walking-robot-simulation-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2179,
+        "index": "2070",
+        "title": "Most Beautiful Item for Each Query",
+        "title_slug": "most-beautiful-item-for-each-query",
+        "difficulty": 2
+    },
+    {
+        "id": 2180,
+        "index": "2071",
+        "title": "Maximum Number of Tasks You Can Assign",
+        "title_slug": "maximum-number-of-tasks-you-can-assign",
+        "difficulty": 3
+    },
+    {
+        "id": 2214,
+        "index": "2072",
+        "title": "The Winner University",
+        "title_slug": "the-winner-university",
+        "difficulty": 1
+    },
+    {
+        "id": 2195,
+        "index": "2073",
+        "title": "Time Needed to Buy Tickets",
+        "title_slug": "time-needed-to-buy-tickets",
+        "difficulty": 1
+    },
+    {
+        "id": 2196,
+        "index": "2074",
+        "title": "Reverse Nodes in Even Length Groups",
+        "title_slug": "reverse-nodes-in-even-length-groups",
+        "difficulty": 2
+    },
+    {
+        "id": 2197,
+        "index": "2075",
+        "title": "Decode the Slanted Ciphertext",
+        "title_slug": "decode-the-slanted-ciphertext",
+        "difficulty": 2
+    },
+    {
+        "id": 2198,
+        "index": "2076",
+        "title": "Process Restricted Friend Requests",
+        "title_slug": "process-restricted-friend-requests",
+        "difficulty": 3
+    },
+    {
+        "id": 2199,
+        "index": "2078",
+        "title": "Two Furthest Houses With Different Colors",
+        "title_slug": "two-furthest-houses-with-different-colors",
+        "difficulty": 1
+    },
+    {
+        "id": 1310,
+        "index": "2079",
+        "title": "Watering Plants",
+        "title_slug": "watering-plants",
+        "difficulty": 2
+    },
+    {
+        "id": 1294,
+        "index": "2080",
+        "title": "Range Frequency Queries",
+        "title_slug": "range-frequency-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 2202,
+        "index": "2081",
+        "title": "Sum of k-Mirror Numbers",
+        "title_slug": "sum-of-k-mirror-numbers",
+        "difficulty": 3
+    },
+    {
+        "id": 2218,
+        "index": "5945",
+        "title": "Paths in Maze That Lead to Same Room",
+        "title_slug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -14018,6 +14830,83 @@
         "index": "LCP38",
         "title": "守卫城堡",
         "title_slug": "7rLGCR",
+        "difficulty": 3
+    },
+    {
+        "id": 1000369,
+        "index": "LCP39",
+        "title": "无人机方阵",
+        "title_slug": "0jQkd0",
+        "difficulty": 1
+    },
+    {
+        "id": 1000368,
+        "index": "LCP40",
+        "title": "心算挑战",
+        "title_slug": "uOAnQW",
+        "difficulty": 1
+    },
+    {
+        "id": 1000370,
+        "index": "LCP41",
+        "title": "黑白翻转棋",
+        "title_slug": "fHi6rV",
+        "difficulty": 2
+    },
+    {
+        "id": 1000371,
+        "index": "LCP42",
+        "title": "玩具套圈",
+        "title_slug": "vFjcfV",
+        "difficulty": 3
+    },
+    {
+        "id": 1000367,
+        "index": "LCP43",
+        "title": "十字路口的交通",
+        "title_slug": "Y1VbOX",
+        "difficulty": 3
+    },
+    {
+        "id": 1000362,
+        "index": "LCP44",
+        "title": "开幕式焰火",
+        "title_slug": "sZ59z6",
+        "difficulty": 1
+    },
+    {
+        "id": 1000375,
+        "index": "LCP45",
+        "title": "自行车炫技赛场",
+        "title_slug": "kplEvH",
+        "difficulty": 2
+    },
+    {
+        "id": 1000373,
+        "index": "LCP46",
+        "title": "志愿者调配",
+        "title_slug": "05ZEDJ",
+        "difficulty": 2
+    },
+    {
+        "id": 1000361,
+        "index": "LCP47",
+        "title": "入场安检",
+        "title_slug": "oPs9Bm",
+        "difficulty": 3
+    },
+    {
+        "id": 1000374,
+        "index": "LCP48",
+        "title": "无限棋局",
+        "title_slug": "fsa7oZ",
+        "difficulty": 3
+    },
+    {
+        "id": 1000359,
+        "index": "LCP49",
+        "title": "环形闯关游戏",
+        "title_slug": "K8GULz",
         "difficulty": 3
     },
     {
@@ -15248,7 +16137,7 @@
     {
         "id": 1000287,
         "index": "剑指OfferII101",
-        "title": "分割等和子串",
+        "title": "分割等和子集",
         "title_slug": "NUPfPr",
         "difficulty": 1
     },
@@ -15353,7 +16242,7 @@
     {
         "id": 1000346,
         "index": "剑指OfferII116",
-        "title": "朋友圈",
+        "title": "省份数量",
         "title_slug": "bLyHh0",
         "difficulty": 2
     },
