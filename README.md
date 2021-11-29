@@ -2094,11 +2094,22 @@
 | 2074 | Reverse Nodes in Even Length Groups |  | Medium  |
 | 2075 | Decode the Slanted Ciphertext |  | Medium  |
 | 2076 | Process Restricted Friend Requests |  | Hard  |
+| 2077 | Paths in Maze That Lead to Same Room |  | Medium  |
 | 2078 | Two Furthest Houses With Different Colors | [JavaScript](./src/2078.two-furthest-houses-with-different-colors.2199/2078.two-furthest-houses-with-different-colors.2199.js) [TypeScript](./src/2078.two-furthest-houses-with-different-colors.2199/2078.two-furthest-houses-with-different-colors.2199.ts) | Easy  |
 | 2079 | Watering Plants |  | Medium  |
 | 2080 | Range Frequency Queries |  | Medium  |
 | 2081 | Sum of k-Mirror Numbers |  | Hard  |
-| 5945 | Paths in Maze That Lead to Same Room |  | Medium  |
+| 2082 | The Number of Rich Customers |  | Easy  |
+| 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
+| 2085 | Count Common Words With One Occurrence | [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.ts) | Easy  |
+| 2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses |  | Medium  |
+| 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
+| 2088 | Count Fertile Pyramids in a Land |  | Hard  |
+| 2089 | Find Target Indices After Sorting Array | [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.ts) | Easy  |
+| 2090 | K Radius Subarray Averages |  | Medium  |
+| 2091 | Removing Minimum and Maximum From Array | [JavaScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.js) [TypeScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.ts) | Medium  |
+| 2092 | Find All People With Secret |  | Hard  |
+| 5951 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
