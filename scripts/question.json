@@ -14532,6 +14532,13 @@
         "difficulty": 3
     },
     {
+        "id": 2218,
+        "index": "2077",
+        "title": "Paths in Maze That Lead to Same Room",
+        "title_slug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": 2
+    },
+    {
         "id": 2199,
         "index": "2078",
         "title": "Two Furthest Houses With Different Colors",
@@ -14560,10 +14567,80 @@
         "difficulty": 3
     },
     {
-        "id": 2218,
-        "index": "5945",
-        "title": "Paths in Maze That Lead to Same Room",
-        "title_slug": "paths-in-maze-that-lead-to-same-room",
+        "id": 2223,
+        "index": "2082",
+        "title": "The Number of Rich Customers",
+        "title_slug": "the-number-of-rich-customers",
+        "difficulty": 1
+    },
+    {
+        "id": 2224,
+        "index": "2084",
+        "title": "Drop Type 1 Orders for Customers With Type 0 Orders",
+        "title_slug": "drop-type-1-orders-for-customers-with-type-0-orders",
+        "difficulty": 2
+    },
+    {
+        "id": 2190,
+        "index": "2085",
+        "title": "Count Common Words With One Occurrence",
+        "title_slug": "count-common-words-with-one-occurrence",
+        "difficulty": 1
+    },
+    {
+        "id": 2191,
+        "index": "2086",
+        "title": "Minimum Number of Buckets Required to Collect Rainwater from Houses",
+        "title_slug": "minimum-number-of-buckets-required-to-collect-rainwater-from-houses",
+        "difficulty": 2
+    },
+    {
+        "id": 2192,
+        "index": "2087",
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "title_slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2193,
+        "index": "2088",
+        "title": "Count Fertile Pyramids in a Land",
+        "title_slug": "count-fertile-pyramids-in-a-land",
+        "difficulty": 3
+    },
+    {
+        "id": 2210,
+        "index": "2089",
+        "title": "Find Target Indices After Sorting Array",
+        "title_slug": "find-target-indices-after-sorting-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2211,
+        "index": "2090",
+        "title": "K Radius Subarray Averages",
+        "title_slug": "k-radius-subarray-averages",
+        "difficulty": 2
+    },
+    {
+        "id": 2212,
+        "index": "2091",
+        "title": "Removing Minimum and Maximum From Array",
+        "title_slug": "removing-minimum-and-maximum-from-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2213,
+        "index": "2092",
+        "title": "Find All People With Secret",
+        "title_slug": "find-all-people-with-secret",
+        "difficulty": 3
+    },
+    {
+        "id": 2225,
+        "index": "5951",
+        "title": "Substrings That Begin and End With the Same Letter",
+        "title_slug": "substrings-that-begin-and-end-with-the-same-letter",
         "difficulty": 2
     },
     {
