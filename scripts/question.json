@@ -14574,6 +14574,13 @@
         "difficulty": 1
     },
     {
+        "id": 2225,
+        "index": "2083",
+        "title": "Substrings That Begin and End With the Same Letter",
+        "title_slug": "substrings-that-begin-and-end-with-the-same-letter",
+        "difficulty": 2
+    },
+    {
         "id": 2224,
         "index": "2084",
         "title": "Drop Type 1 Orders for Customers With Type 0 Orders",
@@ -14637,11 +14644,39 @@
         "difficulty": 3
     },
     {
-        "id": 2225,
-        "index": "5951",
-        "title": "Substrings That Begin and End With the Same Letter",
-        "title_slug": "substrings-that-begin-and-end-with-the-same-letter",
+        "id": 2230,
+        "index": "2093",
+        "title": "Minimum Cost to Reach City With Discounts",
+        "title_slug": "minimum-cost-to-reach-city-with-discounts",
         "difficulty": 2
+    },
+    {
+        "id": 2215,
+        "index": "2094",
+        "title": "Finding 3-Digit Even Numbers",
+        "title_slug": "finding-3-digit-even-numbers",
+        "difficulty": 1
+    },
+    {
+        "id": 2216,
+        "index": "2095",
+        "title": "Delete the Middle Node of a Linked List",
+        "title_slug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": 2
+    },
+    {
+        "id": 2217,
+        "index": "2096",
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "title_slug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "difficulty": 2
+    },
+    {
+        "id": 2201,
+        "index": "2097",
+        "title": "Valid Arrangement of Pairs",
+        "title_slug": "valid-arrangement-of-pairs",
+        "difficulty": 3
     },
     {
         "id": 100107,
