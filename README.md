@@ -2100,6 +2100,7 @@
 | 2080 | Range Frequency Queries |  | Medium  |
 | 2081 | Sum of k-Mirror Numbers |  | Hard  |
 | 2082 | The Number of Rich Customers |  | Easy  |
+| 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
 | 2085 | Count Common Words With One Occurrence | [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.ts) | Easy  |
 | 2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses |  | Medium  |
@@ -2109,7 +2110,11 @@
 | 2090 | K Radius Subarray Averages |  | Medium  |
 | 2091 | Removing Minimum and Maximum From Array | [JavaScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.js) [TypeScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.ts) | Medium  |
 | 2092 | Find All People With Secret |  | Hard  |
-| 5951 | Substrings That Begin and End With the Same Letter |  | Medium  |
+| 2093 | Minimum Cost to Reach City With Discounts |  | Medium  |
+| 2094 | Finding 3-Digit Even Numbers | [JavaScript](./src/2094.finding-3-digit-even-numbers.2215/2094.finding-3-digit-even-numbers.2215.js) [TypeScript](./src/2094.finding-3-digit-even-numbers.2215/2094.finding-3-digit-even-numbers.2215.ts) | Easy  |
+| 2095 | Delete the Middle Node of a Linked List | [JavaScript](./src/2095.delete-the-middle-node-of-a-linked-list.2216/2095.delete-the-middle-node-of-a-linked-list.2216.js) [TypeScript](./src/2095.delete-the-middle-node-of-a-linked-list.2216/2095.delete-the-middle-node-of-a-linked-list.2216.ts) | Medium  |
+| 2096 | Step-By-Step Directions From a Binary Tree Node to Another | [JavaScript](./src/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217.js) [TypeScript](./src/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217.ts) | Medium  |
+| 2097 | Valid Arrangement of Pairs |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
