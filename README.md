@@ -335,7 +335,7 @@
 | 0315 | Count of Smaller Numbers After Self | [JavaScript](./src/0315.count-of-smaller-numbers-after-self.315/0315.count-of-smaller-numbers-after-self.315.js) | Hard  |
 | 0316 | Remove Duplicate Letters | [JavaScript](./src/0316.remove-duplicate-letters.316/0316.remove-duplicate-letters.316.js) [TypeScript](./src/0316.remove-duplicate-letters.316/0316.remove-duplicate-letters.316.ts) | Medium  |
 | 0317 | Shortest Distance from All Buildings |  | Hard  |
-| 0318 | Maximum Product of Word Lengths | [JavaScript](./src/0318.maximum-product-of-word-lengths.318/0318.maximum-product-of-word-lengths.318.js) | Medium  |
+| 0318 | Maximum Product of Word Lengths | [JavaScript](./src/0318.maximum-product-of-word-lengths.318/0318.maximum-product-of-word-lengths.318.js) [TypeScript](./src/0318.maximum-product-of-word-lengths.318/0318.maximum-product-of-word-lengths.318.ts) | Medium  |
 | 0319 | Bulb Switcher | [JavaScript](./src/0319.bulb-switcher.319/0319.bulb-switcher.319.js) [TypeScript](./src/0319.bulb-switcher.319/0319.bulb-switcher.319.ts) | Medium  |
 | 0320 | Generalized Abbreviation | [JavaScript](./src/0320.generalized-abbreviation.320/0320.generalized-abbreviation.320.js) [TypeScript](./src/0320.generalized-abbreviation.320/0320.generalized-abbreviation.320.ts) | Medium  |
 | 0321 | Create Maximum Number |  | Hard  |
@@ -2243,7 +2243,7 @@
 | 剑指OfferII002 | 二进制加法 | [JavaScript](./src/剑指OfferII002.JFETK5.1000231/剑指OfferII002.JFETK5.1000231.js) | Easy  |
 | 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 | [JavaScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.js) [TypeScript](./src/剑指OfferII003.w3tCBm.1000230/剑指OfferII003.w3tCBm.1000230.ts) | Easy  |
 | 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
-| 剑指OfferII005 | 单词长度的最大乘积 |  | Medium  |
+| 剑指OfferII005 | 单词长度的最大乘积 | [JavaScript](./src/剑指OfferII005.aseY1I.1000236/剑指OfferII005.aseY1I.1000236.js) [TypeScript](./src/剑指OfferII005.aseY1I.1000236/剑指OfferII005.aseY1I.1000236.ts) | Medium  |
 | 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/剑指OfferII006.kLl5u1.1000237.js) | Easy  |
 | 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
 | 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
@@ -2291,7 +2291,7 @@
 | 剑指OfferII050 | 向下的路径节点之和 |  | Medium  |
 | 剑指OfferII051 | 节点之和最大的路径 |  | Hard  |
 | 剑指OfferII052 | 展平二叉搜索树 | [JavaScript](./src/剑指OfferII052.NYBBNL.1000311/剑指OfferII052.NYBBNL.1000311.js) | Easy  |
-| 剑指OfferII053 | 二叉搜索树中的中序后继 |  | Medium  |
+| 剑指OfferII053 | 二叉搜索树中的中序后继 | [JavaScript](./src/剑指OfferII053.P5rCT8.1000313/剑指OfferII053.P5rCT8.1000313.js) [TypeScript](./src/剑指OfferII053.P5rCT8.1000313/剑指OfferII053.P5rCT8.1000313.ts) | Medium  |
 | 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/剑指OfferII054.w6cpku.1000315.js) | Medium  |
 | 剑指OfferII055 | 二叉搜索树迭代器 |  | Medium  |
 | 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/剑指OfferII056.opLdQZ.1000319.js) | Easy  |
