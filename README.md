@@ -2079,7 +2079,7 @@
 | 2059 | Minimum Operations to Convert Number |  | Medium  |
 | 2060 | Check if an Original String Exists Given Two Encoded Strings |  | Hard  |
 | 2061 | Number of Spaces Cleaning Robot Cleaned |  | Medium  |
-| 2062 | Count Vowel Substrings of a String |  | Easy  |
+| 2062 | Count Vowel Substrings of a String | [JavaScript](./src/2062.count-vowel-substrings-of-a-string.2186/2062.count-vowel-substrings-of-a-string.2186.js) [TypeScript](./src/2062.count-vowel-substrings-of-a-string.2186/2062.count-vowel-substrings-of-a-string.2186.ts) | Easy  |
 | 2063 | Vowels of All Substrings |  | Medium  |
 | 2064 | Minimized Maximum of Products Distributed to Any Store |  | Medium  |
 | 2065 | Maximum Path Quality of a Graph |  | Hard  |
@@ -2248,7 +2248,7 @@
 | 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
 | 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
 | 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
-| 剑指OfferII010 | 和为 k 的子数组 |  | Medium  |
+| 剑指OfferII010 | 和为 k 的子数组 | [JavaScript](./src/剑指OfferII010.QTMn0o.1000246/剑指OfferII010.QTMn0o.1000246.js) [TypeScript](./src/剑指OfferII010.QTMn0o.1000246/剑指OfferII010.QTMn0o.1000246.ts) | Medium  |
 | 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
 | 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.ts) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
