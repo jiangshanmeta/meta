@@ -2293,7 +2293,7 @@
 | 剑指OfferII052 | 展平二叉搜索树 | [JavaScript](./src/剑指OfferII052.NYBBNL.1000311/剑指OfferII052.NYBBNL.1000311.js) | Easy  |
 | 剑指OfferII053 | 二叉搜索树中的中序后继 | [JavaScript](./src/剑指OfferII053.P5rCT8.1000313/剑指OfferII053.P5rCT8.1000313.js) [TypeScript](./src/剑指OfferII053.P5rCT8.1000313/剑指OfferII053.P5rCT8.1000313.ts) | Medium  |
 | 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/剑指OfferII054.w6cpku.1000315.js) | Medium  |
-| 剑指OfferII055 | 二叉搜索树迭代器 |  | Medium  |
+| 剑指OfferII055 | 二叉搜索树迭代器 | [JavaScript](./src/剑指OfferII055.kTOapQ.1000316/剑指OfferII055.kTOapQ.1000316.js) [TypeScript](./src/剑指OfferII055.kTOapQ.1000316/剑指OfferII055.kTOapQ.1000316.ts) | Medium  |
 | 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/剑指OfferII056.opLdQZ.1000319.js) | Easy  |
 | 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
 | 剑指OfferII058 | 日程表 |  | Medium  |
@@ -2330,7 +2330,7 @@
 | 剑指OfferII089 | 房屋偷盗 | [JavaScript](./src/剑指OfferII089.Gu0c2T.1000245/剑指OfferII089.Gu0c2T.1000245.js) | Medium  |
 | 剑指OfferII090 | 环形房屋偷盗 |  | Medium  |
 | 剑指OfferII091 | 粉刷房子 |  | Medium  |
-| 剑指OfferII092 | 翻转字符 |  | Medium  |
+| 剑指OfferII092 | 翻转字符 | [JavaScript](./src/剑指OfferII092.cyJERH.1000269/剑指OfferII092.cyJERH.1000269.js) [TypeScript](./src/剑指OfferII092.cyJERH.1000269/剑指OfferII092.cyJERH.1000269.ts) | Medium  |
 | 剑指OfferII093 | 最长斐波那契数列 |  | Medium  |
 | 剑指OfferII094 | 最少回文分割 |  | Hard  |
 | 剑指OfferII095 | 最长公共子序列 |  | Medium  |
