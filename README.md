@@ -1392,7 +1392,6 @@
 | 1372 | Longest ZigZag Path in a Binary Tree | [JavaScript](./src/1372.longest-zigzag-path-in-a-binary-tree.1474/1372.longest-zigzag-path-in-a-binary-tree.1474.js) | Medium  |
 | 1373 | Maximum Sum BST in Binary Tree | [JavaScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.js) [TypeScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.ts) | Hard  |
 | 1374 | Generate a String With Characters That Have Odd Counts | [JavaScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.js) [TypeScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.ts) | Easy  |
-| 1375 | Bulb Switcher III | [JavaScript](./src/1375.bulb-switcher-iii.1491/1375.bulb-switcher-iii.1491.js) | Medium  |
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/1376.time-needed-to-inform-all-employees.1492.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/1377.frog-position-after-t-seconds.1493.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
@@ -1422,7 +1421,6 @@
 | 1402 | Reducing Dishes | [JavaScript](./src/1402.reducing-dishes.1503/1402.reducing-dishes.1503.js) | Hard  |
 | 1403 | Minimum Subsequence in Non-Increasing Order | [JavaScript](./src/1403.minimum-subsequence-in-non-increasing-order.1519/1403.minimum-subsequence-in-non-increasing-order.1519.js) | Easy  |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | [JavaScript](./src/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.1520/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.1520.js) | Medium  |
-| 1405 | Longest Happy String |  | Medium  |
 | 1406 | Stone Game III | [JavaScript](./src/1406.stone-game-iii.1522/1406.stone-game-iii.1522.js) | Hard  |
 | 1407 | Top Travellers |  | Easy  |
 | 1408 | String Matching in an Array | [JavaScript](./src/1408.string-matching-in-an-array.1524/1408.string-matching-in-an-array.1524.js) [TypeScript](./src/1408.string-matching-in-an-array.1524/1408.string-matching-in-an-array.1524.ts) | Easy  |
@@ -1595,7 +1593,6 @@
 | 1575 | Count All Possible Routes |  | Hard  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698.js) | Easy  |
 | 1577 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | [JavaScript](./src/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699.js) | Medium  |
-| 1578 | Minimum Deletion Cost to Avoid Repeating Letters | [JavaScript](./src/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700.js) | Medium  |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable |  | Hard  |
 | 1580 | Put Boxes Into the Warehouse II |  | Medium  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions |  | Easy  |
@@ -2115,6 +2112,15 @@
 | 2095 | Delete the Middle Node of a Linked List | [JavaScript](./src/2095.delete-the-middle-node-of-a-linked-list.2216/2095.delete-the-middle-node-of-a-linked-list.2216.js) [TypeScript](./src/2095.delete-the-middle-node-of-a-linked-list.2216/2095.delete-the-middle-node-of-a-linked-list.2216.ts) | Medium  |
 | 2096 | Step-By-Step Directions From a Binary Tree Node to Another | [JavaScript](./src/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217.js) [TypeScript](./src/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217/2096.step-by-step-directions-from-a-binary-tree-node-to-another.2217.ts) | Medium  |
 | 2097 | Valid Arrangement of Pairs |  | Hard  |
+| 2098 | Subsequence of Size K With the Largest Even Sum |  | Medium  |
+| 2099 | Find Subsequence of Length K With the Largest Sum | [JavaScript](./src/2099.find-subsequence-of-length-k-with-the-largest-sum.2204/2099.find-subsequence-of-length-k-with-the-largest-sum.2204.js) [TypeScript](./src/2099.find-subsequence-of-length-k-with-the-largest-sum.2204/2099.find-subsequence-of-length-k-with-the-largest-sum.2204.ts) | Easy  |
+| 2100 | Find Good Days to Rob the Bank |  | Medium  |
+| 2101 | Detonate the Maximum Bombs |  | Medium  |
+| 2102 | Sequentially Ordinal Rank Tracker |  | Hard  |
+| 2103 | Rings and Rods | [JavaScript](./src/2103.rings-and-rods.2226/2103.rings-and-rods.2226.js) [TypeScript](./src/2103.rings-and-rods.2226/2103.rings-and-rods.2226.ts) | Easy  |
+| 2104 | Sum of Subarray Ranges |  | Medium  |
+| 2105 | Watering Plants II |  | Medium  |
+| 2106 | Maximum Fruits Harvested After at Most K Steps |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
