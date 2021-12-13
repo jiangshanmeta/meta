@@ -9618,13 +9618,6 @@
         "difficulty": 1
     },
     {
-        "id": 1491,
-        "index": "1375",
-        "title": "Bulb Switcher III",
-        "title_slug": "bulb-switcher-iii",
-        "difficulty": 2
-    },
-    {
         "id": 1492,
         "index": "1376",
         "title": "Time Needed to Inform All Employees",
@@ -9825,13 +9818,6 @@
         "index": "1404",
         "title": "Number of Steps to Reduce a Number in Binary Representation to One",
         "title_slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
-        "difficulty": 2
-    },
-    {
-        "id": 1304,
-        "index": "1405",
-        "title": "Longest Happy String",
-        "title_slug": "longest-happy-string",
         "difficulty": 2
     },
     {
@@ -11036,13 +11022,6 @@
         "index": "1577",
         "title": "Number of Ways Where Square of Number Is Equal to Product of Two Numbers",
         "title_slug": "number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers",
-        "difficulty": 2
-    },
-    {
-        "id": 1700,
-        "index": "1578",
-        "title": "Minimum Deletion Cost to Avoid Repeating Letters",
-        "title_slug": "minimum-deletion-cost-to-avoid-repeating-letters",
         "difficulty": 2
     },
     {
@@ -14676,6 +14655,69 @@
         "index": "2097",
         "title": "Valid Arrangement of Pairs",
         "title_slug": "valid-arrangement-of-pairs",
+        "difficulty": 3
+    },
+    {
+        "id": 2242,
+        "index": "2098",
+        "title": "Subsequence of Size K With the Largest Even Sum",
+        "title_slug": "subsequence-of-size-k-with-the-largest-even-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2204,
+        "index": "2099",
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 2205,
+        "index": "2100",
+        "title": "Find Good Days to Rob the Bank",
+        "title_slug": "find-good-days-to-rob-the-bank",
+        "difficulty": 2
+    },
+    {
+        "id": 2206,
+        "index": "2101",
+        "title": "Detonate the Maximum Bombs",
+        "title_slug": "detonate-the-maximum-bombs",
+        "difficulty": 2
+    },
+    {
+        "id": 2207,
+        "index": "2102",
+        "title": "Sequentially Ordinal Rank Tracker",
+        "title_slug": "sequentially-ordinal-rank-tracker",
+        "difficulty": 3
+    },
+    {
+        "id": 2226,
+        "index": "2103",
+        "title": "Rings and Rods",
+        "title_slug": "rings-and-rods",
+        "difficulty": 1
+    },
+    {
+        "id": 2227,
+        "index": "2104",
+        "title": "Sum of Subarray Ranges",
+        "title_slug": "sum-of-subarray-ranges",
+        "difficulty": 2
+    },
+    {
+        "id": 2228,
+        "index": "2105",
+        "title": "Watering Plants II",
+        "title_slug": "watering-plants-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2229,
+        "index": "2106",
+        "title": "Maximum Fruits Harvested After at Most K Steps",
+        "title_slug": "maximum-fruits-harvested-after-at-most-k-steps",
         "difficulty": 3
     },
     {
