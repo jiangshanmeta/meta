@@ -2104,7 +2104,7 @@
 | 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
 | 2088 | Count Fertile Pyramids in a Land |  | Hard  |
 | 2089 | Find Target Indices After Sorting Array | [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.ts) | Easy  |
-| 2090 | K Radius Subarray Averages |  | Medium  |
+| 2090 | K Radius Subarray Averages | [JavaScript](./src/2090.k-radius-subarray-averages.2211/2090.k-radius-subarray-averages.2211.js) [TypeScript](./src/2090.k-radius-subarray-averages.2211/2090.k-radius-subarray-averages.2211.ts) | Medium  |
 | 2091 | Removing Minimum and Maximum From Array | [JavaScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.js) [TypeScript](./src/2091.removing-minimum-and-maximum-from-array.2212/2091.removing-minimum-and-maximum-from-array.2212.ts) | Medium  |
 | 2092 | Find All People With Secret |  | Hard  |
 | 2093 | Minimum Cost to Reach City With Discounts |  | Medium  |
@@ -2314,7 +2314,7 @@
 | 剑指OfferII067 | 最大的异或 |  | Medium  |
 | 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/剑指OfferII068.N6YdxV.1000332.js) | Easy  |
 | 剑指OfferII069 | 山峰数组的顶部 | [JavaScript](./src/剑指OfferII069.B1IidL.1000333/剑指OfferII069.B1IidL.1000333.js) | Easy  |
-| 剑指OfferII070 | 排序数组中只出现一次的数字 |  | Medium  |
+| 剑指OfferII070 | 排序数组中只出现一次的数字 | [JavaScript](./src/剑指OfferII070.skFtm2.1000334/剑指OfferII070.skFtm2.1000334.js) [TypeScript](./src/剑指OfferII070.skFtm2.1000334/剑指OfferII070.skFtm2.1000334.ts) | Medium  |
 | 剑指OfferII071 | 按权重生成随机数 |  | Medium  |
 | 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.js) [TypeScript](./src/剑指OfferII072.jJ0w9p.1000336/剑指OfferII072.jJ0w9p.1000336.ts) | Easy  |
 | 剑指OfferII073 | 狒狒吃香蕉 | [JavaScript](./src/剑指OfferII073.nZZqjQ.1000337/剑指OfferII073.nZZqjQ.1000337.js) | Medium  |
