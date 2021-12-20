@@ -455,7 +455,7 @@
 | 0435 | Non-overlapping Intervals | [JavaScript](./src/0435.non-overlapping-intervals.435/0435.non-overlapping-intervals.435.js) | Medium  |
 | 0436 | Find Right Interval | [JavaScript](./src/0436.find-right-interval.436/0436.find-right-interval.436.js) | Medium  |
 | 0437 | Path Sum III | [JavaScript](./src/0437.path-sum-iii.437/0437.path-sum-iii.437.js) [TypeScript](./src/0437.path-sum-iii.437/0437.path-sum-iii.437.ts) | Medium  |
-| 0438 | Find All Anagrams in a String | [JavaScript](./src/0438.find-all-anagrams-in-a-string.438/0438.find-all-anagrams-in-a-string.438.js) | Medium  |
+| 0438 | Find All Anagrams in a String | [JavaScript](./src/0438.find-all-anagrams-in-a-string.438/0438.find-all-anagrams-in-a-string.438.js) [TypeScript](./src/0438.find-all-anagrams-in-a-string.438/0438.find-all-anagrams-in-a-string.438.ts) | Medium  |
 | 0439 | Ternary Expression Parser |  | Medium  |
 | 0440 | K-th Smallest in Lexicographical Order |  | Hard  |
 | 0441 | Arranging Coins | [JavaScript](./src/0441.arranging-coins.441/0441.arranging-coins.441.js) [TypeScript](./src/0441.arranging-coins.441/0441.arranging-coins.441.ts) | Easy  |
@@ -1884,7 +1884,7 @@
 | 1867 | Orders With Maximum Quantity Above Average |  | Medium  |
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
 | 1869 | Longer Contiguous Segments of Ones than Zeros | [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.ts) | Easy  |
-| 1870 | Minimum Speed to Arrive on Time |  | Medium  |
+| 1870 | Minimum Speed to Arrive on Time | [JavaScript](./src/1870.minimum-speed-to-arrive-on-time.2000/1870.minimum-speed-to-arrive-on-time.2000.js) | Medium  |
 | 1871 | Jump Game VII |  | Medium  |
 | 1872 | Stone Game VIII |  | Hard  |
 | 1873 | Calculate Special Bonus |  | Easy  |
