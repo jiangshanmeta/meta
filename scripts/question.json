@@ -46,7 +46,7 @@
         "index": "0007",
         "title": "Reverse Integer",
         "title_slug": "reverse-integer",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 8,
@@ -9618,6 +9618,13 @@
         "difficulty": 1
     },
     {
+        "id": 1491,
+        "index": "1375",
+        "title": "Number of Times Binary String Is Prefix-Aligned",
+        "title_slug": "number-of-times-binary-string-is-prefix-aligned",
+        "difficulty": 2
+    },
+    {
         "id": 1492,
         "index": "1376",
         "title": "Time Needed to Inform All Employees",
@@ -9818,6 +9825,13 @@
         "index": "1404",
         "title": "Number of Steps to Reduce a Number in Binary Representation to One",
         "title_slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": 2
+    },
+    {
+        "id": 1304,
+        "index": "1405",
+        "title": "Longest Happy String",
+        "title_slug": "longest-happy-string",
         "difficulty": 2
     },
     {
@@ -10684,8 +10698,8 @@
     {
         "id": 1652,
         "index": "1529",
-        "title": "Bulb Switcher IV",
-        "title_slug": "bulb-switcher-iv",
+        "title": "Minimum Suffix Flips",
+        "title_slug": "minimum-suffix-flips",
         "difficulty": 2
     },
     {
@@ -11022,6 +11036,13 @@
         "index": "1577",
         "title": "Number of Ways Where Square of Number Is Equal to Product of Two Numbers",
         "title_slug": "number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 1700,
+        "index": "1578",
+        "title": "Minimum Time to Make Rope Colorful",
+        "title_slug": "minimum-time-to-make-rope-colorful",
         "difficulty": 2
     },
     {
@@ -14721,6 +14742,48 @@
         "difficulty": 3
     },
     {
+        "id": 2247,
+        "index": "2107",
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "title_slug": "number-of-unique-flavors-after-sharing-k-candies",
+        "difficulty": 2
+    },
+    {
+        "id": 2231,
+        "index": "2108",
+        "title": "Find First Palindromic String in the Array",
+        "title_slug": "find-first-palindromic-string-in-the-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2232,
+        "index": "2109",
+        "title": "Adding Spaces to a String",
+        "title_slug": "adding-spaces-to-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2233,
+        "index": "2110",
+        "title": "Number of Smooth Descent Periods of a Stock",
+        "title_slug": "number-of-smooth-descent-periods-of-a-stock",
+        "difficulty": 2
+    },
+    {
+        "id": 2234,
+        "index": "2111",
+        "title": "Minimum Operations to Make the Array K-Increasing",
+        "title_slug": "minimum-operations-to-make-the-array-k-increasing",
+        "difficulty": 3
+    },
+    {
+        "id": 2252,
+        "index": "2112",
+        "title": "The Airport With the Most Traffic",
+        "title_slug": "the-airport-with-the-most-traffic",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -16662,7 +16725,7 @@
     {
         "id": 100203,
         "index": "面试题05_02",
-        "title": "Bianry Number to String LCCI",
+        "title": "Binary Number to String LCCI",
         "title_slug": "bianry-number-to-string-lcci",
         "difficulty": 2
     },
