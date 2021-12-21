@@ -24,7 +24,7 @@
 | 0004 | Median of Two Sorted Arrays | [JavaScript](./src/0004.median-of-two-sorted-arrays.4/0004.median-of-two-sorted-arrays.4.js) | Hard  |
 | 0005 | Longest Palindromic Substring | [JavaScript](./src/0005.longest-palindromic-substring.5/0005.longest-palindromic-substring.5.js) | Medium  |
 | 0006 | ZigZag Conversion | [JavaScript](./src/0006.zigzag-conversion.6/0006.zigzag-conversion.6.js) | Medium  |
-| 0007 | Reverse Integer | [JavaScript](./src/0007.reverse-integer.7/0007.reverse-integer.7.js) | Easy  |
+| 0007 | Reverse Integer | [JavaScript](./src/0007.reverse-integer.7/0007.reverse-integer.7.js) | Medium  |
 | 0008 | String to Integer (atoi) | [JavaScript](./src/0008.string-to-integer-atoi.8/0008.string-to-integer-atoi.8.js) | Medium  |
 | 0009 | Palindrome Number | [JavaScript](./src/0009.palindrome-number.9/0009.palindrome-number.9.js) [TypeScript](./src/0009.palindrome-number.9/0009.palindrome-number.9.ts) | Easy  |
 | 0010 | Regular Expression Matching | [JavaScript](./src/0010.regular-expression-matching.10/0010.regular-expression-matching.10.js) [TypeScript](./src/0010.regular-expression-matching.10/0010.regular-expression-matching.10.ts) | Hard  |
@@ -1392,6 +1392,7 @@
 | 1372 | Longest ZigZag Path in a Binary Tree | [JavaScript](./src/1372.longest-zigzag-path-in-a-binary-tree.1474/1372.longest-zigzag-path-in-a-binary-tree.1474.js) | Medium  |
 | 1373 | Maximum Sum BST in Binary Tree | [JavaScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.js) [TypeScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.ts) | Hard  |
 | 1374 | Generate a String With Characters That Have Odd Counts | [JavaScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.js) [TypeScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.ts) | Easy  |
+| 1375 | Number of Times Binary String Is Prefix-Aligned | [JavaScript](./src/1375.bulb-switcher-iii.1491/1375.bulb-switcher-iii.1491.js) | Medium  |
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/1376.time-needed-to-inform-all-employees.1492.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/1377.frog-position-after-t-seconds.1493.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
@@ -1421,6 +1422,7 @@
 | 1402 | Reducing Dishes | [JavaScript](./src/1402.reducing-dishes.1503/1402.reducing-dishes.1503.js) | Hard  |
 | 1403 | Minimum Subsequence in Non-Increasing Order | [JavaScript](./src/1403.minimum-subsequence-in-non-increasing-order.1519/1403.minimum-subsequence-in-non-increasing-order.1519.js) | Easy  |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | [JavaScript](./src/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.1520/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.1520.js) | Medium  |
+| 1405 | Longest Happy String |  | Medium  |
 | 1406 | Stone Game III | [JavaScript](./src/1406.stone-game-iii.1522/1406.stone-game-iii.1522.js) | Hard  |
 | 1407 | Top Travellers |  | Easy  |
 | 1408 | String Matching in an Array | [JavaScript](./src/1408.string-matching-in-an-array.1524/1408.string-matching-in-an-array.1524.js) [TypeScript](./src/1408.string-matching-in-an-array.1524/1408.string-matching-in-an-array.1524.ts) | Easy  |
@@ -1544,7 +1546,7 @@
 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [JavaScript](./src/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633.js) | Hard  |
 | 1527 | Patients With a Condition |  | Easy  |
 | 1528 | Shuffle String | [JavaScript](./src/1528.shuffle-string.1651/1528.shuffle-string.1651.js) [TypeScript](./src/1528.shuffle-string.1651/1528.shuffle-string.1651.ts) | Easy  |
-| 1529 | Bulb Switcher IV | [JavaScript](./src/1529.bulb-switcher-iv.1652/1529.bulb-switcher-iv.1652.js) | Medium  |
+| 1529 | Minimum Suffix Flips | [JavaScript](./src/1529.bulb-switcher-iv.1652/1529.bulb-switcher-iv.1652.js) | Medium  |
 | 1530 | Number of Good Leaf Nodes Pairs | [JavaScript](./src/1530.number-of-good-leaf-nodes-pairs.1653/1530.number-of-good-leaf-nodes-pairs.1653.js) | Medium  |
 | 1531 | String Compression II |  | Hard  |
 | 1532 | The Most Recent Three Orders |  | Medium  |
@@ -1593,6 +1595,7 @@
 | 1575 | Count All Possible Routes |  | Hard  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698.js) | Easy  |
 | 1577 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | [JavaScript](./src/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699.js) | Medium  |
+| 1578 | Minimum Time to Make Rope Colorful | [JavaScript](./src/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700.js) | Medium  |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable |  | Hard  |
 | 1580 | Put Boxes Into the Warehouse II |  | Medium  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions |  | Easy  |
@@ -1884,7 +1887,7 @@
 | 1867 | Orders With Maximum Quantity Above Average |  | Medium  |
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
 | 1869 | Longer Contiguous Segments of Ones than Zeros | [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/1869.longer-contiguous-segments-of-ones-than-zeros.1999.ts) | Easy  |
-| 1870 | Minimum Speed to Arrive on Time | [JavaScript](./src/1870.minimum-speed-to-arrive-on-time.2000/1870.minimum-speed-to-arrive-on-time.2000.js) | Medium  |
+| 1870 | Minimum Speed to Arrive on Time | [JavaScript](./src/1870.minimum-speed-to-arrive-on-time.2000/1870.minimum-speed-to-arrive-on-time.2000.js) [TypeScript](./src/1870.minimum-speed-to-arrive-on-time.2000/1870.minimum-speed-to-arrive-on-time.2000.ts) | Medium  |
 | 1871 | Jump Game VII |  | Medium  |
 | 1872 | Stone Game VIII |  | Hard  |
 | 1873 | Calculate Special Bonus |  | Easy  |
@@ -1994,7 +1997,7 @@
 | 1977 | Number of Ways to Separate Numbers |  | Hard  |
 | 1978 | Employees Whose Manager Left the Company |  | Easy  |
 | 1979 | Find Greatest Common Divisor of Array | [JavaScript](./src/1979.find-greatest-common-divisor-of-array.2106/1979.find-greatest-common-divisor-of-array.2106.js) [TypeScript](./src/1979.find-greatest-common-divisor-of-array.2106/1979.find-greatest-common-divisor-of-array.2106.ts) | Easy  |
-| 1980 | Find Unique Binary String |  | Medium  |
+| 1980 | Find Unique Binary String | [JavaScript](./src/1980.find-unique-binary-string.2107/1980.find-unique-binary-string.2107.js) [TypeScript](./src/1980.find-unique-binary-string.2107/1980.find-unique-binary-string.2107.ts) | Medium  |
 | 1981 | Minimize the Difference Between Target and Chosen Elements |  | Medium  |
 | 1982 | Find Array Given Subset Sums |  | Hard  |
 | 1983 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
@@ -2121,6 +2124,12 @@
 | 2104 | Sum of Subarray Ranges |  | Medium  |
 | 2105 | Watering Plants II |  | Medium  |
 | 2106 | Maximum Fruits Harvested After at Most K Steps |  | Hard  |
+| 2107 | Number of Unique Flavors After Sharing K Candies |  | Medium  |
+| 2108 | Find First Palindromic String in the Array |  | Easy  |
+| 2109 | Adding Spaces to a String |  | Medium  |
+| 2110 | Number of Smooth Descent Periods of a Stock |  | Medium  |
+| 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
+| 2112 | The Airport With the Most Traffic |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2398,7 +2407,7 @@
 | 面试题04_10 | Check SubTree LCCI | [JavaScript](./src/面试题04_10.check-subtree-lcci.100229/面试题04_10.check-subtree-lcci.100229.js) [TypeScript](./src/面试题04_10.check-subtree-lcci.100229/面试题04_10.check-subtree-lcci.100229.ts) | Medium  |
 | 面试题04_12 | Paths with Sum LCCI | [JavaScript](./src/面试题04_12.paths-with-sum-lcci.1000009/面试题04_12.paths-with-sum-lcci.1000009.js) [TypeScript](./src/面试题04_12.paths-with-sum-lcci.1000009/面试题04_12.paths-with-sum-lcci.1000009.ts) | Medium  |
 | 面试题05_01 | Insert Into Bits LCCI | [JavaScript](./src/面试题05_01.insert-into-bits-lcci.100180/面试题05_01.insert-into-bits-lcci.100180.js) [TypeScript](./src/面试题05_01.insert-into-bits-lcci.100180/面试题05_01.insert-into-bits-lcci.100180.ts) | Easy  |
-| 面试题05_02 | Bianry Number to String LCCI | [JavaScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/面试题05_02.bianry-number-to-string-lcci.100203.js) [TypeScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/面试题05_02.bianry-number-to-string-lcci.100203.ts) | Medium  |
+| 面试题05_02 | Binary Number to String LCCI | [JavaScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/面试题05_02.bianry-number-to-string-lcci.100203.js) [TypeScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/面试题05_02.bianry-number-to-string-lcci.100203.ts) | Medium  |
 | 面试题05_03 | Reverse Bits LCCI | [JavaScript](./src/面试题05_03.reverse-bits-lcci.100230/面试题05_03.reverse-bits-lcci.100230.js) | Easy  |
 | 面试题05_04 | Closed Number LCCI |  | Medium  |
 | 面试题05_06 | Convert Integer LCCI | [JavaScript](./src/面试题05_06.convert-integer-lcci.100181/面试题05_06.convert-integer-lcci.100181.js) [TypeScript](./src/面试题05_06.convert-integer-lcci.100181/面试题05_06.convert-integer-lcci.100181.ts) | Easy  |
