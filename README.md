@@ -2018,7 +2018,7 @@
 | 1998 | GCD Sort of an Array |  | Hard  |
 | 1999 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
 | 2000 | Reverse Prefix of Word | [JavaScript](./src/2000.reverse-prefix-of-word.2128/2000.reverse-prefix-of-word.2128.js) [TypeScript](./src/2000.reverse-prefix-of-word.2128/2000.reverse-prefix-of-word.2128.ts) | Easy  |
-| 2001 | Number of Pairs of Interchangeable Rectangles |  | Medium  |
+| 2001 | Number of Pairs of Interchangeable Rectangles | [JavaScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/2001.number-of-pairs-of-interchangeable-rectangles.2129.js) [TypeScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/2001.number-of-pairs-of-interchangeable-rectangles.2129.ts) | Medium  |
 | 2002 | Maximum Product of the Length of Two Palindromic Subsequences |  | Medium  |
 | 2003 | Smallest Missing Genetic Value in Each Subtree |  | Hard  |
 | 2004 | The Number of Seniors and Juniors to Join the Company |  | Hard  |
