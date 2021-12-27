@@ -2024,7 +2024,7 @@
 | 2004 | The Number of Seniors and Juniors to Join the Company |  | Hard  |
 | 2005 | Subtree Removal Game with Fibonacci Tree |  | Hard  |
 | 2006 | Count Number of Pairs With Absolute Difference K | [JavaScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/2006.count-number-of-pairs-with-absolute-difference-k.2116.js) [TypeScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/2006.count-number-of-pairs-with-absolute-difference-k.2116.ts) | Easy  |
-| 2007 | Find Original Array From Doubled Array |  | Medium  |
+| 2007 | Find Original Array From Doubled Array | [JavaScript](./src/2007.find-original-array-from-doubled-array.2117/2007.find-original-array-from-doubled-array.2117.js) [TypeScript](./src/2007.find-original-array-from-doubled-array.2117/2007.find-original-array-from-doubled-array.2117.ts) | Medium  |
 | 2008 | Maximum Earnings From Taxi |  | Medium  |
 | 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
 | 2010 | The Number of Seniors and Juniors to Join the Company II |  | Hard  |
