@@ -2055,7 +2055,7 @@
 | 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
 | 2036 | Maximum Alternating Subarray Sum |  | Medium  |
 | 2037 | Minimum Number of Moves to Seat Everyone | [JavaScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/2037.minimum-number-of-moves-to-seat-everyone.2148.js) [TypeScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/2037.minimum-number-of-moves-to-seat-everyone.2148.ts) | Easy  |
-| 2038 | Remove Colored Pieces if Both Neighbors are the Same Color |  | Medium  |
+| 2038 | Remove Colored Pieces if Both Neighbors are the Same Color | [JavaScript](./src/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149.js) [TypeScript](./src/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149.ts) | Medium  |
 | 2039 | The Time When the Network Becomes Idle |  | Medium  |
 | 2040 | Kth Smallest Product of Two Sorted Arrays |  | Hard  |
 | 2041 | Accepted Candidates From the Interviews |  | Medium  |
@@ -2130,6 +2130,16 @@
 | 2110 | Number of Smooth Descent Periods of a Stock |  | Medium  |
 | 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
 | 2112 | The Airport With the Most Traffic |  | Medium  |
+| 2113 | Elements in Array After Removing and Replacing Elements |  | Medium  |
+| 2114 | Maximum Number of Words Found in Sentences |  | Easy  |
+| 2116 | Check if a Parentheses String Can Be Valid |  | Medium  |
+| 2117 | Abbreviating the Product of a Range |  | Hard  |
+| 2118 | Build the Equation |  | Hard  |
+| 2119 | A Number After a Double Reversal |  | Easy  |
+| 2120 | Execution of All Suffix Instructions Staying in a Grid |  | Medium  |
+| 2121 | Intervals Between Identical Elements |  | Medium  |
+| 2122 | Recover the Original Array |  | Hard  |
+| 5947 | Find All Possible Recipes from Given Supplies |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
