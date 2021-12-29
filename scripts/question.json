@@ -14784,6 +14784,76 @@
         "difficulty": 2
     },
     {
+        "id": 2258,
+        "index": "2113",
+        "title": "Elements in Array After Removing and Replacing Elements",
+        "title_slug": "elements-in-array-after-removing-and-replacing-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2219,
+        "index": "2114",
+        "title": "Maximum Number of Words Found in Sentences",
+        "title_slug": "maximum-number-of-words-found-in-sentences",
+        "difficulty": 1
+    },
+    {
+        "id": 2221,
+        "index": "2116",
+        "title": "Check if a Parentheses String Can Be Valid",
+        "title_slug": "check-if-a-parentheses-string-can-be-valid",
+        "difficulty": 2
+    },
+    {
+        "id": 2222,
+        "index": "2117",
+        "title": "Abbreviating the Product of a Range",
+        "title_slug": "abbreviating-the-product-of-a-range",
+        "difficulty": 3
+    },
+    {
+        "id": 2253,
+        "index": "2118",
+        "title": "Build the Equation",
+        "title_slug": "build-the-equation",
+        "difficulty": 3
+    },
+    {
+        "id": 2238,
+        "index": "2119",
+        "title": "A Number After a Double Reversal",
+        "title_slug": "a-number-after-a-double-reversal",
+        "difficulty": 1
+    },
+    {
+        "id": 2239,
+        "index": "2120",
+        "title": "Execution of All Suffix Instructions Staying in a Grid",
+        "title_slug": "execution-of-all-suffix-instructions-staying-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2240,
+        "index": "2121",
+        "title": "Intervals Between Identical Elements",
+        "title_slug": "intervals-between-identical-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2241,
+        "index": "2122",
+        "title": "Recover the Original Array",
+        "title_slug": "recover-the-original-array",
+        "difficulty": 3
+    },
+    {
+        "id": 2220,
+        "index": "5947",
+        "title": "Find All Possible Recipes from Given Supplies",
+        "title_slug": "find-all-possible-recipes-from-given-supplies",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
