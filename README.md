@@ -2080,7 +2080,7 @@
 | 2060 | Check if an Original String Exists Given Two Encoded Strings |  | Hard  |
 | 2061 | Number of Spaces Cleaning Robot Cleaned |  | Medium  |
 | 2062 | Count Vowel Substrings of a String | [JavaScript](./src/2062.count-vowel-substrings-of-a-string.2186/2062.count-vowel-substrings-of-a-string.2186.js) [TypeScript](./src/2062.count-vowel-substrings-of-a-string.2186/2062.count-vowel-substrings-of-a-string.2186.ts) | Easy  |
-| 2063 | Vowels of All Substrings |  | Medium  |
+| 2063 | Vowels of All Substrings | [JavaScript](./src/2063.vowels-of-all-substrings.2187/2063.vowels-of-all-substrings.2187.js) [TypeScript](./src/2063.vowels-of-all-substrings.2187/2063.vowels-of-all-substrings.2187.ts) | Medium  |
 | 2064 | Minimized Maximum of Products Distributed to Any Store |  | Medium  |
 | 2065 | Maximum Path Quality of a Graph |  | Hard  |
 | 2066 | Account Balance |  | Medium  |
@@ -2103,7 +2103,7 @@
 | 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
 | 2085 | Count Common Words With One Occurrence | [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/2085.count-common-words-with-one-occurrence.2190.ts) | Easy  |
-| 2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses |  | Medium  |
+| 2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses | [JavaScript](./src/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191.js) [TypeScript](./src/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191.ts) | Medium  |
 | 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
 | 2088 | Count Fertile Pyramids in a Land |  | Hard  |
 | 2089 | Find Target Indices After Sorting Array | [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/2089.find-target-indices-after-sorting-array.2210.ts) | Easy  |
