@@ -2125,8 +2125,8 @@
 | 2105 | Watering Plants II |  | Medium  |
 | 2106 | Maximum Fruits Harvested After at Most K Steps |  | Hard  |
 | 2107 | Number of Unique Flavors After Sharing K Candies |  | Medium  |
-| 2108 | Find First Palindromic String in the Array |  | Easy  |
-| 2109 | Adding Spaces to a String |  | Medium  |
+| 2108 | Find First Palindromic String in the Array | [JavaScript](./src/2108.find-first-palindromic-string-in-the-array.2231/2108.find-first-palindromic-string-in-the-array.2231.js) [TypeScript](./src/2108.find-first-palindromic-string-in-the-array.2231/2108.find-first-palindromic-string-in-the-array.2231.ts) | Easy  |
+| 2109 | Adding Spaces to a String | [JavaScript](./src/2109.adding-spaces-to-a-string.2232/2109.adding-spaces-to-a-string.2232.js) [TypeScript](./src/2109.adding-spaces-to-a-string.2232/2109.adding-spaces-to-a-string.2232.ts) | Medium  |
 | 2110 | Number of Smooth Descent Periods of a Stock |  | Medium  |
 | 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
 | 2112 | The Airport With the Most Traffic |  | Medium  |
