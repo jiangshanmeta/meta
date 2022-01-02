@@ -2131,11 +2131,11 @@
 | 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
 | 2112 | The Airport With the Most Traffic |  | Medium  |
 | 2113 | Elements in Array After Removing and Replacing Elements |  | Medium  |
-| 2114 | Maximum Number of Words Found in Sentences |  | Easy  |
+| 2114 | Maximum Number of Words Found in Sentences | [JavaScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/2114.maximum-number-of-words-found-in-sentences.2219.js) [TypeScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/2114.maximum-number-of-words-found-in-sentences.2219.ts) | Easy  |
 | 2116 | Check if a Parentheses String Can Be Valid |  | Medium  |
 | 2117 | Abbreviating the Product of a Range |  | Hard  |
 | 2118 | Build the Equation |  | Hard  |
-| 2119 | A Number After a Double Reversal |  | Easy  |
+| 2119 | A Number After a Double Reversal | [JavaScript](./src/2119.a-number-after-a-double-reversal.2238/2119.a-number-after-a-double-reversal.2238.js) [TypeScript](./src/2119.a-number-after-a-double-reversal.2238/2119.a-number-after-a-double-reversal.2238.ts) | Easy  |
 | 2120 | Execution of All Suffix Instructions Staying in a Grid |  | Medium  |
 | 2121 | Intervals Between Identical Elements |  | Medium  |
 | 2122 | Recover the Original Array |  | Hard  |
