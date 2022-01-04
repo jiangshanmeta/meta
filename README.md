@@ -2277,8 +2277,8 @@
 | 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
 | 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/剑指OfferII012.tvdfij.1000248.ts) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
-| 剑指OfferII014 | 字符串中的变位词 |  | Medium  |
-| 剑指OfferII015 | 字符串中的所有变位词 |  | Medium  |
+| 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/剑指OfferII014.MPnaiL.1000250.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/剑指OfferII014.MPnaiL.1000250.ts) | Medium  |
+| 剑指OfferII015 | 字符串中的所有变位词 | [JavaScript](./src/剑指OfferII015.VabMRr.1000251/剑指OfferII015.VabMRr.1000251.js) [TypeScript](./src/剑指OfferII015.VabMRr.1000251/剑指OfferII015.VabMRr.1000251.ts) | Medium  |
 | 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
 | 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
 | 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.js) [TypeScript](./src/剑指OfferII018.XltzEq.1000254/剑指OfferII018.XltzEq.1000254.ts) | Easy  |
