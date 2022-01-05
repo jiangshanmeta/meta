@@ -2132,6 +2132,7 @@
 | 2112 | The Airport With the Most Traffic |  | Medium  |
 | 2113 | Elements in Array After Removing and Replacing Elements |  | Medium  |
 | 2114 | Maximum Number of Words Found in Sentences | [JavaScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/2114.maximum-number-of-words-found-in-sentences.2219.js) [TypeScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/2114.maximum-number-of-words-found-in-sentences.2219.ts) | Easy  |
+| 2115 | Find All Possible Recipes from Given Supplies |  | Medium  |
 | 2116 | Check if a Parentheses String Can Be Valid |  | Medium  |
 | 2117 | Abbreviating the Product of a Range |  | Hard  |
 | 2118 | Build the Equation |  | Hard  |
@@ -2139,7 +2140,11 @@
 | 2120 | Execution of All Suffix Instructions Staying in a Grid |  | Medium  |
 | 2121 | Intervals Between Identical Elements |  | Medium  |
 | 2122 | Recover the Original Array |  | Hard  |
-| 5947 | Find All Possible Recipes from Given Supplies |  | Medium  |
+| 2123 | Minimum Operations to Remove Adjacent Ones in Matrix |  | Hard  |
+| 2124 | Check if All A's Appears Before All B's | [JavaScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/2124.check-if-all-as-appears-before-all-bs.2243.js) [TypeScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/2124.check-if-all-as-appears-before-all-bs.2243.ts) | Easy  |
+| 2125 | Number of Laser Beams in a Bank | [JavaScript](./src/2125.number-of-laser-beams-in-a-bank.2244/2125.number-of-laser-beams-in-a-bank.2244.js) [TypeScript](./src/2125.number-of-laser-beams-in-a-bank.2244/2125.number-of-laser-beams-in-a-bank.2244.ts) | Medium  |
+| 2126 | Destroying Asteroids | [JavaScript](./src/2126.destroying-asteroids.2245/2126.destroying-asteroids.2245.js) [TypeScript](./src/2126.destroying-asteroids.2245/2126.destroying-asteroids.2245.ts) | Medium  |
+| 2127 | Maximum Employees to Be Invited to a Meeting |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
