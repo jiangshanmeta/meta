@@ -14798,6 +14798,13 @@
         "difficulty": 1
     },
     {
+        "id": 2220,
+        "index": "2115",
+        "title": "Find All Possible Recipes from Given Supplies",
+        "title_slug": "find-all-possible-recipes-from-given-supplies",
+        "difficulty": 2
+    },
+    {
         "id": 2221,
         "index": "2116",
         "title": "Check if a Parentheses String Can Be Valid",
@@ -14847,11 +14854,39 @@
         "difficulty": 3
     },
     {
-        "id": 2220,
-        "index": "5947",
-        "title": "Find All Possible Recipes from Given Supplies",
-        "title_slug": "find-all-possible-recipes-from-given-supplies",
+        "id": 2259,
+        "index": "2123",
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "title_slug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": 3
+    },
+    {
+        "id": 2243,
+        "index": "2124",
+        "title": "Check if All A's Appears Before All B's",
+        "title_slug": "check-if-all-as-appears-before-all-bs",
+        "difficulty": 1
+    },
+    {
+        "id": 2244,
+        "index": "2125",
+        "title": "Number of Laser Beams in a Bank",
+        "title_slug": "number-of-laser-beams-in-a-bank",
         "difficulty": 2
+    },
+    {
+        "id": 2245,
+        "index": "2126",
+        "title": "Destroying Asteroids",
+        "title_slug": "destroying-asteroids",
+        "difficulty": 2
+    },
+    {
+        "id": 2246,
+        "index": "2127",
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
+        "difficulty": 3
     },
     {
         "id": 100107,
