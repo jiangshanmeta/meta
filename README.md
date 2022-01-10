@@ -1501,8 +1501,8 @@
 | 1481 | Least Number of Unique Integers after K Removals | [JavaScript](./src/1481.least-number-of-unique-integers-after-k-removals.1604/1481.least-number-of-unique-integers-after-k-removals.1604.js) | Medium  |
 | 1482 | Minimum Number of Days to Make m Bouquets |  | Medium  |
 | 1483 | Kth Ancestor of a Tree Node |  | Hard  |
-| 1484 | Clone Binary Tree With Random Pointer | [JavaScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.js) [TypeScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.ts) | Medium  |
-| 1485 | Group Sold Products By The Date |  | Easy  |
+| 1484 | Group Sold Products By The Date | [JavaScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.js) [TypeScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.ts) | Easy  |
+| 1485 | Clone Binary Tree With Random Pointer |  | Medium  |
 | 1486 | XOR Operation in an Array | [JavaScript](./src/1486.xor-operation-in-an-array.1610/1486.xor-operation-in-an-array.1610.js) [TypeScript](./src/1486.xor-operation-in-an-array.1610/1486.xor-operation-in-an-array.1610.ts) | Easy  |
 | 1487 | Making File Names Unique | [JavaScript](./src/1487.making-file-names-unique.1611/1487.making-file-names-unique.1611.js) | Medium  |
 | 1488 | Avoid Flood in The City |  | Medium  |
@@ -2145,6 +2145,15 @@
 | 2125 | Number of Laser Beams in a Bank | [JavaScript](./src/2125.number-of-laser-beams-in-a-bank.2244/2125.number-of-laser-beams-in-a-bank.2244.js) [TypeScript](./src/2125.number-of-laser-beams-in-a-bank.2244/2125.number-of-laser-beams-in-a-bank.2244.ts) | Medium  |
 | 2126 | Destroying Asteroids | [JavaScript](./src/2126.destroying-asteroids.2245/2126.destroying-asteroids.2245.js) [TypeScript](./src/2126.destroying-asteroids.2245/2126.destroying-asteroids.2245.ts) | Medium  |
 | 2127 | Maximum Employees to Be Invited to a Meeting |  | Hard  |
+| 2128 | Remove All Ones With Row and Column Flips |  | Medium  |
+| 2129 | Capitalize the Title | [JavaScript](./src/2129.capitalize-the-title.2235/2129.capitalize-the-title.2235.js) [TypeScript](./src/2129.capitalize-the-title.2235/2129.capitalize-the-title.2235.ts) | Easy  |
+| 2130 | Maximum Twin Sum of a Linked List | [JavaScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/2130.maximum-twin-sum-of-a-linked-list.2236.js) [TypeScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/2130.maximum-twin-sum-of-a-linked-list.2236.ts) | Medium  |
+| 2131 | Longest Palindrome by Concatenating Two Letter Words |  | Medium  |
+| 2132 | Stamping the Grid |  | Hard  |
+| 2133 | Check if Every Row and Column Contains All Numbers | [JavaScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/2133.check-if-every-row-and-column-contains-all-numbers.2254.js) [TypeScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/2133.check-if-every-row-and-column-contains-all-numbers.2254.ts) | Easy  |
+| 2134 | Minimum Swaps to Group All 1's Together II |  | Medium  |
+| 2135 | Count Words Obtained After Adding a Letter |  | Medium  |
+| 2136 | Earliest Possible Day of Full Bloom |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
