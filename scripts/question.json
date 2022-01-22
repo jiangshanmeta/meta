@@ -14952,6 +14952,55 @@
         "difficulty": 3
     },
     {
+        "id": 2273,
+        "index": "2137",
+        "title": "Pour Water Between Buckets to Make Water Levels Equal",
+        "title_slug": "pour-water-between-buckets-to-make-water-levels-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 2260,
+        "index": "2138",
+        "title": "Divide a String Into Groups of Size k",
+        "title_slug": "divide-a-string-into-groups-of-size-k",
+        "difficulty": 1
+    },
+    {
+        "id": 1303,
+        "index": "2139",
+        "title": "Minimum Moves to Reach Target Score",
+        "title_slug": "minimum-moves-to-reach-target-score",
+        "difficulty": 2
+    },
+    {
+        "id": 2262,
+        "index": "2140",
+        "title": "Solving Questions With Brainpower",
+        "title_slug": "solving-questions-with-brainpower",
+        "difficulty": 2
+    },
+    {
+        "id": 2263,
+        "index": "2141",
+        "title": "Maximum Running Time of N Computers",
+        "title_slug": "maximum-running-time-of-n-computers",
+        "difficulty": 3
+    },
+    {
+        "id": 2281,
+        "index": "2142",
+        "title": "The Number of Passengers in Each Bus I",
+        "title_slug": "the-number-of-passengers-in-each-bus-i",
+        "difficulty": 2
+    },
+    {
+        "id": 2282,
+        "index": "2143",
+        "title": "Choose Numbers From Two Arrays in Range",
+        "title_slug": "choose-numbers-from-two-arrays-in-range",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -15415,7 +15464,7 @@
     },
     {
         "id": 100297,
-        "index": "剑指Offer19",
+        "index": "面试题19",
         "title": "正则表达式匹配 LCOF",
         "title_slug": "zheng-ze-biao-da-shi-pi-pei-lcof",
         "difficulty": 3
@@ -15499,7 +15548,7 @@
     },
     {
         "id": 100311,
-        "index": "剑指Offer32-I",
+        "index": "面试题32-I",
         "title": "从上到下打印二叉树 LCOF",
         "title_slug": "cong-shang-dao-xia-da-yin-er-cha-shu-lcof",
         "difficulty": 2
