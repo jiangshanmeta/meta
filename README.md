@@ -2181,8 +2181,8 @@
 | 2161 | Partition Array According to Given Pivot |  | Medium  |
 | 2162 | Minimum Cost to Set Cooking Time |  | Medium  |
 | 2163 | Minimum Difference in Sums After Removal of Elements |  | Hard  |
-| 2164 | Sort Even and Odd Indices Independently |  | Easy  |
-| 2165 | Smallest Value of the Rearranged Number |  | Medium  |
+| 2164 | Sort Even and Odd Indices Independently | [JavaScript](./src/2164.sort-even-and-odd-indices-independently.2283/2164.sort-even-and-odd-indices-independently.2283.js) [TypeScript](./src/2164.sort-even-and-odd-indices-independently.2283/2164.sort-even-and-odd-indices-independently.2283.ts) | Easy  |
+| 2165 | Smallest Value of the Rearranged Number | [JavaScript](./src/2165.smallest-value-of-the-rearranged-number.2284/2165.smallest-value-of-the-rearranged-number.2284.js) [TypeScript](./src/2165.smallest-value-of-the-rearranged-number.2284/2165.smallest-value-of-the-rearranged-number.2284.ts) | Medium  |
 | 2166 | Design Bitset |  | Medium  |
 | 2167 | Minimum Time to Remove All Cars Containing Illegal Goods |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
