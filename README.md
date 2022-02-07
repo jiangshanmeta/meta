@@ -184,7 +184,7 @@
 | 0164 | Maximum Gap |  | Hard  |
 | 0165 | Compare Version Numbers | [JavaScript](./src/0165.compare-version-numbers.165/0165.compare-version-numbers.165.js) [TypeScript](./src/0165.compare-version-numbers.165/0165.compare-version-numbers.165.ts) | Medium  |
 | 0166 | Fraction to Recurring Decimal | [JavaScript](./src/0166.fraction-to-recurring-decimal.166/0166.fraction-to-recurring-decimal.166.js) | Medium  |
-| 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.ts) | Easy  |
+| 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/0167.two-sum-ii-input-array-is-sorted.167.ts) | Medium  |
 | 0168 | Excel Sheet Column Title | [JavaScript](./src/0168.excel-sheet-column-title.168/0168.excel-sheet-column-title.168.js) [TypeScript](./src/0168.excel-sheet-column-title.168/0168.excel-sheet-column-title.168.ts) | Easy  |
 | 0169 | Majority Element | [JavaScript](./src/0169.majority-element.169/0169.majority-element.169.js) [TypeScript](./src/0169.majority-element.169/0169.majority-element.169.ts) | Easy  |
 | 0170 | Two Sum III - Data structure design | [JavaScript](./src/0170.two-sum-iii-data-structure-design.170/0170.two-sum-iii-data-structure-design.170.js) [TypeScript](./src/0170.two-sum-iii-data-structure-design.170/0170.two-sum-iii-data-structure-design.170.ts) | Easy  |
@@ -2161,6 +2161,30 @@
 | 2141 | Maximum Running Time of N Computers |  | Hard  |
 | 2142 | The Number of Passengers in Each Bus I |  | Medium  |
 | 2143 | Choose Numbers From Two Arrays in Range |  | Hard  |
+| 2144 | Minimum Cost of Buying Candies With Discount |  | Easy  |
+| 2145 | Count the Hidden Sequences |  | Medium  |
+| 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
+| 2147 | Number of Ways to Divide a Long Corridor |  | Hard  |
+| 2148 | Count Elements With Strictly Smaller and Greater Elements  |  | Easy  |
+| 2149 | Rearrange Array Elements by Sign |  | Medium  |
+| 2150 | Find All Lonely Numbers in the Array |  | Medium  |
+| 2151 | Maximum Good People Based on Statements |  | Hard  |
+| 2152 | Minimum Number of Lines to Cover Points |  | Medium  |
+| 2153 | The Number of Passengers in Each Bus II |  | Hard  |
+| 2154 | Keep Multiplying Found Values by Two | [JavaScript](./src/2154.keep-multiplying-found-values-by-two.2274/2154.keep-multiplying-found-values-by-two.2274.js) [TypeScript](./src/2154.keep-multiplying-found-values-by-two.2274/2154.keep-multiplying-found-values-by-two.2274.ts) | Easy  |
+| 2155 | All Divisions With the Highest Score of a Binary Array | [JavaScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261.js) [TypeScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261.ts) | Medium  |
+| 2156 | Find Substring With Given Hash Value |  | Medium  |
+| 2157 | Groups of Strings |  | Hard  |
+| 2158 | Amount of New Area Painted Each Day |  | Hard  |
+| 2159 | Order Two Columns Independently |  | Easy  |
+| 2160 | Minimum Sum of Four Digit Number After Splitting Digits |  | Easy  |
+| 2161 | Partition Array According to Given Pivot |  | Medium  |
+| 2162 | Minimum Cost to Set Cooking Time |  | Medium  |
+| 2163 | Minimum Difference in Sums After Removal of Elements |  | Hard  |
+| 2164 | Sort Even and Odd Indices Independently |  | Easy  |
+| 2165 | Smallest Value of the Rearranged Number |  | Medium  |
+| 2166 | Design Bitset |  | Medium  |
+| 2167 | Minimum Time to Remove All Cars Containing Illegal Goods |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
