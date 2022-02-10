@@ -2161,11 +2161,11 @@
 | 2141 | Maximum Running Time of N Computers |  | Hard  |
 | 2142 | The Number of Passengers in Each Bus I |  | Medium  |
 | 2143 | Choose Numbers From Two Arrays in Range |  | Hard  |
-| 2144 | Minimum Cost of Buying Candies With Discount |  | Easy  |
+| 2144 | Minimum Cost of Buying Candies With Discount | [JavaScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/2144.minimum-cost-of-buying-candies-with-discount.2248.js) [TypeScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/2144.minimum-cost-of-buying-candies-with-discount.2248.ts) | Easy  |
 | 2145 | Count the Hidden Sequences |  | Medium  |
 | 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
 | 2147 | Number of Ways to Divide a Long Corridor |  | Hard  |
-| 2148 | Count Elements With Strictly Smaller and Greater Elements  |  | Easy  |
+| 2148 | Count Elements With Strictly Smaller and Greater Elements  | [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/2148.count-elements-with-strictly-smaller-and-greater-elements.2269.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/2148.count-elements-with-strictly-smaller-and-greater-elements.2269.ts) | Easy  |
 | 2149 | Rearrange Array Elements by Sign |  | Medium  |
 | 2150 | Find All Lonely Numbers in the Array |  | Medium  |
 | 2151 | Maximum Good People Based on Statements |  | Hard  |
