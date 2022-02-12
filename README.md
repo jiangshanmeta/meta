@@ -2166,8 +2166,8 @@
 | 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
 | 2147 | Number of Ways to Divide a Long Corridor |  | Hard  |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements  | [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/2148.count-elements-with-strictly-smaller-and-greater-elements.2269.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/2148.count-elements-with-strictly-smaller-and-greater-elements.2269.ts) | Easy  |
-| 2149 | Rearrange Array Elements by Sign |  | Medium  |
-| 2150 | Find All Lonely Numbers in the Array |  | Medium  |
+| 2149 | Rearrange Array Elements by Sign | [JavaScript](./src/2149.rearrange-array-elements-by-sign.2271/2149.rearrange-array-elements-by-sign.2271.js) [TypeScript](./src/2149.rearrange-array-elements-by-sign.2271/2149.rearrange-array-elements-by-sign.2271.ts) | Medium  |
+| 2150 | Find All Lonely Numbers in the Array | [JavaScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/2150.find-all-lonely-numbers-in-the-array.2270.js) [TypeScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/2150.find-all-lonely-numbers-in-the-array.2270.ts) | Medium  |
 | 2151 | Maximum Good People Based on Statements |  | Hard  |
 | 2152 | Minimum Number of Lines to Cover Points |  | Medium  |
 | 2153 | The Number of Passengers in Each Bus II |  | Hard  |
