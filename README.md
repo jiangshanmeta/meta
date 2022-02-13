@@ -2177,8 +2177,8 @@
 | 2157 | Groups of Strings |  | Hard  |
 | 2158 | Amount of New Area Painted Each Day |  | Hard  |
 | 2159 | Order Two Columns Independently |  | Easy  |
-| 2160 | Minimum Sum of Four Digit Number After Splitting Digits |  | Easy  |
-| 2161 | Partition Array According to Given Pivot |  | Medium  |
+| 2160 | Minimum Sum of Four Digit Number After Splitting Digits | [JavaScript](./src/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264.js) [TypeScript](./src/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264.ts) | Easy  |
+| 2161 | Partition Array According to Given Pivot | [JavaScript](./src/2161.partition-array-according-to-given-pivot.2265/2161.partition-array-according-to-given-pivot.2265.js) [TypeScript](./src/2161.partition-array-according-to-given-pivot.2265/2161.partition-array-according-to-given-pivot.2265.ts) | Medium  |
 | 2162 | Minimum Cost to Set Cooking Time |  | Medium  |
 | 2163 | Minimum Difference in Sums After Removal of Elements |  | Hard  |
 | 2164 | Sort Even and Odd Indices Independently | [JavaScript](./src/2164.sort-even-and-odd-indices-independently.2283/2164.sort-even-and-odd-indices-independently.2283.js) [TypeScript](./src/2164.sort-even-and-odd-indices-independently.2283/2164.sort-even-and-odd-indices-independently.2283.ts) | Easy  |
