@@ -2176,7 +2176,7 @@
 | 2156 | Find Substring With Given Hash Value |  | Medium  |
 | 2157 | Groups of Strings |  | Hard  |
 | 2158 | Amount of New Area Painted Each Day |  | Hard  |
-| 2159 | Order Two Columns Independently |  | Easy  |
+| 2159 | Order Two Columns Independently |  | Medium  |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | [JavaScript](./src/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264.js) [TypeScript](./src/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264/2160.minimum-sum-of-four-digit-number-after-splitting-digits.2264.ts) | Easy  |
 | 2161 | Partition Array According to Given Pivot | [JavaScript](./src/2161.partition-array-according-to-given-pivot.2265/2161.partition-array-according-to-given-pivot.2265.js) [TypeScript](./src/2161.partition-array-according-to-given-pivot.2265/2161.partition-array-according-to-given-pivot.2265.ts) | Medium  |
 | 2162 | Minimum Cost to Set Cooking Time |  | Medium  |
@@ -2185,6 +2185,11 @@
 | 2165 | Smallest Value of the Rearranged Number | [JavaScript](./src/2165.smallest-value-of-the-rearranged-number.2284/2165.smallest-value-of-the-rearranged-number.2284.js) [TypeScript](./src/2165.smallest-value-of-the-rearranged-number.2284/2165.smallest-value-of-the-rearranged-number.2284.ts) | Medium  |
 | 2166 | Design Bitset |  | Medium  |
 | 2167 | Minimum Time to Remove All Cars Containing Illegal Goods |  | Hard  |
+| 2168 | Unique Substrings With Equal Digit Frequency |  | Medium  |
+| 2169 | Count Operations to Obtain Zero | [JavaScript](./src/2169.count-operations-to-obtain-zero.2288/2169.count-operations-to-obtain-zero.2288.js) [TypeScript](./src/2169.count-operations-to-obtain-zero.2288/2169.count-operations-to-obtain-zero.2288.ts) | Easy  |
+| 2170 | Minimum Operations to Make the Array Alternating |  | Medium  |
+| 2171 | Removing Minimum Number of Magic Beans |  | Medium  |
+| 2172 | Maximum AND Sum of Array |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
