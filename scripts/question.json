@@ -15110,7 +15110,7 @@
         "index": "2159",
         "title": "Order Two Columns Independently",
         "title_slug": "order-two-columns-independently",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 2264,
@@ -15166,6 +15166,41 @@
         "index": "2167",
         "title": "Minimum Time to Remove All Cars Containing Illegal Goods",
         "title_slug": "minimum-time-to-remove-all-cars-containing-illegal-goods",
+        "difficulty": 3
+    },
+    {
+        "id": 2303,
+        "index": "2168",
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "title_slug": "unique-substrings-with-equal-digit-frequency",
+        "difficulty": 2
+    },
+    {
+        "id": 2288,
+        "index": "2169",
+        "title": "Count Operations to Obtain Zero",
+        "title_slug": "count-operations-to-obtain-zero",
+        "difficulty": 1
+    },
+    {
+        "id": 2289,
+        "index": "2170",
+        "title": "Minimum Operations to Make the Array Alternating",
+        "title_slug": "minimum-operations-to-make-the-array-alternating",
+        "difficulty": 2
+    },
+    {
+        "id": 2290,
+        "index": "2171",
+        "title": "Removing Minimum Number of Magic Beans",
+        "title_slug": "removing-minimum-number-of-magic-beans",
+        "difficulty": 2
+    },
+    {
+        "id": 2291,
+        "index": "2172",
+        "title": "Maximum AND Sum of Array",
+        "title_slug": "maximum-and-sum-of-array",
         "difficulty": 3
     },
     {
