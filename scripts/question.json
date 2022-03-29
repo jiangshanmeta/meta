@@ -15316,6 +15316,216 @@
         "difficulty": 3
     },
     {
+        "id": 1385,
+        "index": "2189",
+        "title": "Number of Ways to Build House of Cards",
+        "title_slug": "number-of-ways-to-build-house-of-cards",
+        "difficulty": 2
+    },
+    {
+        "id": 2312,
+        "index": "2190",
+        "title": "Most Frequent Number Following Key In an Array",
+        "title_slug": "most-frequent-number-following-key-in-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 1333,
+        "index": "2191",
+        "title": "Sort the Jumbled Numbers",
+        "title_slug": "sort-the-jumbled-numbers",
+        "difficulty": 2
+    },
+    {
+        "id": 1431,
+        "index": "2192",
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "title_slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+        "difficulty": 2
+    },
+    {
+        "id": 1356,
+        "index": "2193",
+        "title": "Minimum Number of Moves to Make Palindrome",
+        "title_slug": "minimum-number-of-moves-to-make-palindrome",
+        "difficulty": 3
+    },
+    {
+        "id": 2304,
+        "index": "2194",
+        "title": "Cells in a Range on an Excel Sheet",
+        "title_slug": "cells-in-a-range-on-an-excel-sheet",
+        "difficulty": 1
+    },
+    {
+        "id": 2305,
+        "index": "2195",
+        "title": "Append K Integers With Minimal Sum",
+        "title_slug": "append-k-integers-with-minimal-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2306,
+        "index": "2196",
+        "title": "Create Binary Tree From Descriptions",
+        "title_slug": "create-binary-tree-from-descriptions",
+        "difficulty": 2
+    },
+    {
+        "id": 2307,
+        "index": "2197",
+        "title": "Replace Non-Coprime Numbers in Array",
+        "title_slug": "replace-non-coprime-numbers-in-array",
+        "difficulty": 3
+    },
+    {
+        "id": 1383,
+        "index": "2198",
+        "title": "Number of Single Divisor Triplets",
+        "title_slug": "number-of-single-divisor-triplets",
+        "difficulty": 2
+    },
+    {
+        "id": 2335,
+        "index": "2199",
+        "title": "Finding the Topic of Each Post",
+        "title_slug": "finding-the-topic-of-each-post",
+        "difficulty": 3
+    },
+    {
+        "id": 2320,
+        "index": "2200",
+        "title": "Find All K-Distant Indices in an Array",
+        "title_slug": "find-all-k-distant-indices-in-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 1312,
+        "index": "2201",
+        "title": "Count Artifacts That Can Be Extracted",
+        "title_slug": "count-artifacts-that-can-be-extracted",
+        "difficulty": 2
+    },
+    {
+        "id": 1346,
+        "index": "2202",
+        "title": "Maximize the Topmost Element After K Moves",
+        "title_slug": "maximize-the-topmost-element-after-k-moves",
+        "difficulty": 2
+    },
+    {
+        "id": 2321,
+        "index": "2203",
+        "title": "Minimum Weighted Subgraph With the Required Paths",
+        "title_slug": "minimum-weighted-subgraph-with-the-required-paths",
+        "difficulty": 3
+    },
+    {
+        "id": 1347,
+        "index": "2204",
+        "title": "Distance to a Cycle in Undirected Graph",
+        "title_slug": "distance-to-a-cycle-in-undirected-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 2336,
+        "index": "2205",
+        "title": "The Number of Users That Are Eligible for Discount",
+        "title_slug": "the-number-of-users-that-are-eligible-for-discount",
+        "difficulty": 1
+    },
+    {
+        "id": 2308,
+        "index": "2206",
+        "title": "Divide Array Into Equal Pairs",
+        "title_slug": "divide-array-into-equal-pairs",
+        "difficulty": 1
+    },
+    {
+        "id": 2309,
+        "index": "2207",
+        "title": "Maximize Number of Subsequences in a String",
+        "title_slug": "maximize-number-of-subsequences-in-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2310,
+        "index": "2208",
+        "title": "Minimum Operations to Halve Array Sum",
+        "title_slug": "minimum-operations-to-halve-array-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2311,
+        "index": "2209",
+        "title": "Minimum White Tiles After Covering With Carpets",
+        "title_slug": "minimum-white-tiles-after-covering-with-carpets",
+        "difficulty": 3
+    },
+    {
+        "id": 2316,
+        "index": "2210",
+        "title": "Count Hills and Valleys in an Array",
+        "title_slug": "count-hills-and-valleys-in-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2317,
+        "index": "2211",
+        "title": "Count Collisions on a Road",
+        "title_slug": "count-collisions-on-a-road",
+        "difficulty": 2
+    },
+    {
+        "id": 2318,
+        "index": "2212",
+        "title": "Maximum Points in an Archery Competition",
+        "title_slug": "maximum-points-in-an-archery-competition",
+        "difficulty": 2
+    },
+    {
+        "id": 2319,
+        "index": "2213",
+        "title": "Longest Substring of One Repeating Character",
+        "title_slug": "longest-substring-of-one-repeating-character",
+        "difficulty": 3
+    },
+    {
+        "id": 2354,
+        "index": "2214",
+        "title": "Minimum Health to Beat Game",
+        "title_slug": "minimum-health-to-beat-game",
+        "difficulty": 2
+    },
+    {
+        "id": 1392,
+        "index": "2215",
+        "title": "Find the Difference of Two Arrays",
+        "title_slug": "find-the-difference-of-two-arrays",
+        "difficulty": 1
+    },
+    {
+        "id": 1355,
+        "index": "2216",
+        "title": "Minimum Deletions to Make Array Beautiful",
+        "title_slug": "minimum-deletions-to-make-array-beautiful",
+        "difficulty": 2
+    },
+    {
+        "id": 1375,
+        "index": "2217",
+        "title": "Find Palindrome With Fixed Length",
+        "title_slug": "find-palindrome-with-fixed-length",
+        "difficulty": 2
+    },
+    {
+        "id": 1393,
+        "index": "2218",
+        "title": "Maximum Value of K Coins From Piles",
+        "title_slug": "maximum-value-of-k-coins-from-piles",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -15516,7 +15726,7 @@
         "index": "LCP29",
         "title": "乐团站位",
         "title_slug": "SNJvJP",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1000224,
@@ -15779,7 +15989,7 @@
     },
     {
         "id": 100297,
-        "index": "面试题19",
+        "index": "剑指Offer19",
         "title": "正则表达式匹配 LCOF",
         "title_slug": "zheng-ze-biao-da-shi-pi-pei-lcof",
         "difficulty": 3
@@ -15863,7 +16073,7 @@
     },
     {
         "id": 100311,
-        "index": "面试题32-I",
+        "index": "剑指Offer32-I",
         "title": "从上到下打印二叉树 LCOF",
         "title_slug": "cong-shang-dao-xia-da-yin-er-cha-shu-lcof",
         "difficulty": 2
@@ -16003,7 +16213,7 @@
     },
     {
         "id": 100316,
-        "index": "面试题50",
+        "index": "剑指Offer50",
         "title": "第一个只出现一次的字符  LCOF",
         "title_slug": "di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof",
         "difficulty": 1
