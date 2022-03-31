@@ -2211,7 +2211,7 @@
 | 2191 | Sort the Jumbled Numbers | [JavaScript](./src/2191.sort-the-jumbled-numbers.1333/2191.sort-the-jumbled-numbers.1333.js) [TypeScript](./src/2191.sort-the-jumbled-numbers.1333/2191.sort-the-jumbled-numbers.1333.ts) | Medium  |
 | 2192 | All Ancestors of a Node in a Directed Acyclic Graph |  | Medium  |
 | 2193 | Minimum Number of Moves to Make Palindrome |  | Hard  |
-| 2194 | Cells in a Range on an Excel Sheet |  | Easy  |
+| 2194 | Cells in a Range on an Excel Sheet | [JavaScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/2194.cells-in-a-range-on-an-excel-sheet.2304.js) [TypeScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/2194.cells-in-a-range-on-an-excel-sheet.2304.ts) | Easy  |
 | 2195 | Append K Integers With Minimal Sum |  | Medium  |
 | 2196 | Create Binary Tree From Descriptions |  | Medium  |
 | 2197 | Replace Non-Coprime Numbers in Array |  | Hard  |
@@ -2223,7 +2223,7 @@
 | 2203 | Minimum Weighted Subgraph With the Required Paths |  | Hard  |
 | 2204 | Distance to a Cycle in Undirected Graph |  | Hard  |
 | 2205 | The Number of Users That Are Eligible for Discount |  | Easy  |
-| 2206 | Divide Array Into Equal Pairs |  | Easy  |
+| 2206 | Divide Array Into Equal Pairs | [JavaScript](./src/2206.divide-array-into-equal-pairs.2308/2206.divide-array-into-equal-pairs.2308.js) [TypeScript](./src/2206.divide-array-into-equal-pairs.2308/2206.divide-array-into-equal-pairs.2308.ts) | Easy  |
 | 2207 | Maximize Number of Subsequences in a String |  | Medium  |
 | 2208 | Minimum Operations to Halve Array Sum |  | Medium  |
 | 2209 | Minimum White Tiles After Covering With Carpets |  | Hard  |
