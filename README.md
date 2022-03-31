@@ -2232,7 +2232,7 @@
 | 2212 | Maximum Points in an Archery Competition |  | Medium  |
 | 2213 | Longest Substring of One Repeating Character |  | Hard  |
 | 2214 | Minimum Health to Beat Game |  | Medium  |
-| 2215 | Find the Difference of Two Arrays |  | Easy  |
+| 2215 | Find the Difference of Two Arrays | [JavaScript](./src/2215.find-the-difference-of-two-arrays.1392/2215.find-the-difference-of-two-arrays.1392.js) [TypeScript](./src/2215.find-the-difference-of-two-arrays.1392/2215.find-the-difference-of-two-arrays.1392.ts) | Easy  |
 | 2216 | Minimum Deletions to Make Array Beautiful |  | Medium  |
 | 2217 | Find Palindrome With Fixed Length |  | Medium  |
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
