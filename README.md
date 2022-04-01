@@ -2213,11 +2213,11 @@
 | 2193 | Minimum Number of Moves to Make Palindrome |  | Hard  |
 | 2194 | Cells in a Range on an Excel Sheet | [JavaScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/2194.cells-in-a-range-on-an-excel-sheet.2304.js) [TypeScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/2194.cells-in-a-range-on-an-excel-sheet.2304.ts) | Easy  |
 | 2195 | Append K Integers With Minimal Sum |  | Medium  |
-| 2196 | Create Binary Tree From Descriptions |  | Medium  |
+| 2196 | Create Binary Tree From Descriptions | [JavaScript](./src/2196.create-binary-tree-from-descriptions.2306/2196.create-binary-tree-from-descriptions.2306.js) [TypeScript](./src/2196.create-binary-tree-from-descriptions.2306/2196.create-binary-tree-from-descriptions.2306.ts) | Medium  |
 | 2197 | Replace Non-Coprime Numbers in Array |  | Hard  |
 | 2198 | Number of Single Divisor Triplets |  | Medium  |
 | 2199 | Finding the Topic of Each Post |  | Hard  |
-| 2200 | Find All K-Distant Indices in an Array |  | Easy  |
+| 2200 | Find All K-Distant Indices in an Array | [JavaScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/2200.find-all-k-distant-indices-in-an-array.2320.js) [TypeScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/2200.find-all-k-distant-indices-in-an-array.2320.ts) | Easy  |
 | 2201 | Count Artifacts That Can Be Extracted |  | Medium  |
 | 2202 | Maximize the Topmost Element After K Moves |  | Medium  |
 | 2203 | Minimum Weighted Subgraph With the Required Paths |  | Hard  |
