@@ -2193,7 +2193,7 @@
 | 2173 | Longest Winning Streak |  | Hard  |
 | 2174 | Remove All Ones With Row and Column Flips II |  | Medium  |
 | 2175 | The Change in Global Rankings |  | Medium  |
-| 2176 | Count Equal and Divisible Pairs in an Array |  | Easy  |
+| 2176 | Count Equal and Divisible Pairs in an Array | [JavaScript](./src/2176.count-equal-and-divisible-pairs-in-an-array.2277/2176.count-equal-and-divisible-pairs-in-an-array.2277.js) [TypeScript](./src/2176.count-equal-and-divisible-pairs-in-an-array.2277/2176.count-equal-and-divisible-pairs-in-an-array.2277.ts) | Easy  |
 | 2177 | Find Three Consecutive Integers That Sum to a Given Number |  | Medium  |
 | 2178 | Maximum Split of Positive Even Integers |  | Medium  |
 | 2179 | Count Good Triplets in an Array |  | Hard  |
