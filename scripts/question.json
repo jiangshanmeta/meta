@@ -15526,6 +15526,76 @@
         "difficulty": 3
     },
     {
+        "id": 2369,
+        "index": "2219",
+        "title": "Maximum Sum Score of Array",
+        "title_slug": "maximum-sum-score-of-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2323,
+        "index": "2220",
+        "title": "Minimum Bit Flips to Convert Number",
+        "title_slug": "minimum-bit-flips-to-convert-number",
+        "difficulty": 1
+    },
+    {
+        "id": 2326,
+        "index": "2223",
+        "title": "Sum of Scores of Built Strings",
+        "title_slug": "sum-of-scores-of-built-strings",
+        "difficulty": 3
+    },
+    {
+        "id": 1335,
+        "index": "2226",
+        "title": "Maximum Candies Allocated to K Children",
+        "title_slug": "maximum-candies-allocated-to-k-children",
+        "difficulty": 2
+    },
+    {
+        "id": 1433,
+        "index": "2227",
+        "title": "Encrypt and Decrypt Strings",
+        "title_slug": "encrypt-and-decrypt-strings",
+        "difficulty": 3
+    },
+    {
+        "id": 2370,
+        "index": "2228",
+        "title": "Users With Two Purchases Within Seven Days",
+        "title_slug": "users-with-two-purchases-within-seven-days",
+        "difficulty": 2
+    },
+    {
+        "id": 1354,
+        "index": "5235",
+        "title": "Find Players With Zero or One Losses",
+        "title_slug": "find-players-with-zero-or-one-losses",
+        "difficulty": 2
+    },
+    {
+        "id": 2324,
+        "index": "6034",
+        "title": "Find Triangular Sum of an Array",
+        "title_slug": "find-triangular-sum-of-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2325,
+        "index": "6035",
+        "title": "Number of Ways to Select Buildings",
+        "title_slug": "number-of-ways-to-select-buildings",
+        "difficulty": 2
+    },
+    {
+        "id": 2345,
+        "index": "6055",
+        "title": "Minimum Number of Operations to Convert Time",
+        "title_slug": "minimum-number-of-operations-to-convert-time",
+        "difficulty": 1
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
