@@ -2236,6 +2236,16 @@
 | 2216 | Minimum Deletions to Make Array Beautiful |  | Medium  |
 | 2217 | Find Palindrome With Fixed Length |  | Medium  |
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
+| 2219 | Maximum Sum Score of Array |  | Medium  |
+| 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.ts) | Easy  |
+| 2223 | Sum of Scores of Built Strings |  | Hard  |
+| 2226 | Maximum Candies Allocated to K Children |  | Medium  |
+| 2227 | Encrypt and Decrypt Strings |  | Hard  |
+| 2228 | Users With Two Purchases Within Seven Days |  | Medium  |
+| 5235 | Find Players With Zero or One Losses |  | Medium  |
+| 6034 | Find Triangular Sum of an Array |  | Medium  |
+| 6035 | Number of Ways to Select Buildings |  | Medium  |
+| 6055 | Minimum Number of Operations to Convert Time |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
