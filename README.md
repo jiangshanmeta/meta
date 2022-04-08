@@ -2241,7 +2241,7 @@
 | 2221 | Find Triangular Sum of an Array |  | Medium  |
 | 2223 | Sum of Scores of Built Strings |  | Hard  |
 | 2224 | Minimum Number of Operations to Convert Time | [JavaScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.js) [TypeScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.ts) | Easy  |
-| 2225 | Find Players With Zero or One Losses |  | Medium  |
+| 2225 | Find Players With Zero or One Losses | [JavaScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.js) [TypeScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.ts) | Medium  |
 | 2226 | Maximum Candies Allocated to K Children |  | Medium  |
 | 2227 | Encrypt and Decrypt Strings |  | Hard  |
 | 2228 | Users With Two Purchases Within Seven Days |  | Medium  |
