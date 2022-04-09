@@ -2238,7 +2238,7 @@
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
 | 2219 | Maximum Sum Score of Array |  | Medium  |
 | 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.ts) | Easy  |
-| 2221 | Find Triangular Sum of an Array |  | Medium  |
+| 2221 | Find Triangular Sum of an Array | [JavaScript](./src/2221.find-triangular-sum-of-an-array.2324/2221.find-triangular-sum-of-an-array.2324.js) [TypeScript](./src/2221.find-triangular-sum-of-an-array.2324/2221.find-triangular-sum-of-an-array.2324.ts) | Medium  |
 | 2223 | Sum of Scores of Built Strings |  | Hard  |
 | 2224 | Minimum Number of Operations to Convert Time | [JavaScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.js) [TypeScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.ts) | Easy  |
 | 2225 | Find Players With Zero or One Losses | [JavaScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.js) [TypeScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.ts) | Medium  |
