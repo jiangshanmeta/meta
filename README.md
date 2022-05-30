@@ -1392,7 +1392,7 @@
 | 1372 | Longest ZigZag Path in a Binary Tree | [JavaScript](./src/1372.longest-zigzag-path-in-a-binary-tree.1474/1372.longest-zigzag-path-in-a-binary-tree.1474.js) | Medium  |
 | 1373 | Maximum Sum BST in Binary Tree | [JavaScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.js) [TypeScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/1373.maximum-sum-bst-in-binary-tree.1475.ts) | Hard  |
 | 1374 | Generate a String With Characters That Have Odd Counts | [JavaScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.js) [TypeScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/1374.generate-a-string-with-characters-that-have-odd-counts.1490.ts) | Easy  |
-| 1375 | Number of Times Binary String Is Prefix-Aligned | [JavaScript](./src/1375.bulb-switcher-iii.1491/1375.bulb-switcher-iii.1491.js) | Medium  |
+| 1375 | Number of Times Binary String Is Prefix-Aligned | [JavaScript](./src/1375.number-of-times-binary-string-is-prefix-aligned.1491/1375.number-of-times-binary-string-is-prefix-aligned.1491.js) | Medium  |
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/1376.time-needed-to-inform-all-employees.1492.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/1377.frog-position-after-t-seconds.1493.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
@@ -1501,8 +1501,8 @@
 | 1481 | Least Number of Unique Integers after K Removals | [JavaScript](./src/1481.least-number-of-unique-integers-after-k-removals.1604/1481.least-number-of-unique-integers-after-k-removals.1604.js) | Medium  |
 | 1482 | Minimum Number of Days to Make m Bouquets |  | Medium  |
 | 1483 | Kth Ancestor of a Tree Node |  | Hard  |
-| 1484 | Group Sold Products By The Date | [JavaScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.js) [TypeScript](./src/1484.clone-binary-tree-with-random-pointer.1624/1484.clone-binary-tree-with-random-pointer.1624.ts) | Easy  |
-| 1485 | Clone Binary Tree With Random Pointer |  | Medium  |
+| 1484 | Group Sold Products By The Date |  | Easy  |
+| 1485 | Clone Binary Tree With Random Pointer | [JavaScript](./src/1485.clone-binary-tree-with-random-pointer.1624/1485.clone-binary-tree-with-random-pointer.1624.js) [TypeScript](./src/1485.clone-binary-tree-with-random-pointer.1624/1485.clone-binary-tree-with-random-pointer.1624.ts) | Medium  |
 | 1486 | XOR Operation in an Array | [JavaScript](./src/1486.xor-operation-in-an-array.1610/1486.xor-operation-in-an-array.1610.js) [TypeScript](./src/1486.xor-operation-in-an-array.1610/1486.xor-operation-in-an-array.1610.ts) | Easy  |
 | 1487 | Making File Names Unique | [JavaScript](./src/1487.making-file-names-unique.1611/1487.making-file-names-unique.1611.js) | Medium  |
 | 1488 | Avoid Flood in The City |  | Medium  |
@@ -1546,7 +1546,7 @@
 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [JavaScript](./src/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633.js) | Hard  |
 | 1527 | Patients With a Condition |  | Easy  |
 | 1528 | Shuffle String | [JavaScript](./src/1528.shuffle-string.1651/1528.shuffle-string.1651.js) [TypeScript](./src/1528.shuffle-string.1651/1528.shuffle-string.1651.ts) | Easy  |
-| 1529 | Minimum Suffix Flips | [JavaScript](./src/1529.bulb-switcher-iv.1652/1529.bulb-switcher-iv.1652.js) | Medium  |
+| 1529 | Minimum Suffix Flips | [JavaScript](./src/1529.minimum-suffix-flips.1652/1529.minimum-suffix-flips.1652.js) | Medium  |
 | 1530 | Number of Good Leaf Nodes Pairs | [JavaScript](./src/1530.number-of-good-leaf-nodes-pairs.1653/1530.number-of-good-leaf-nodes-pairs.1653.js) | Medium  |
 | 1531 | String Compression II |  | Hard  |
 | 1532 | The Most Recent Three Orders |  | Medium  |
@@ -1595,7 +1595,7 @@
 | 1575 | Count All Possible Routes |  | Hard  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698.js) | Easy  |
 | 1577 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | [JavaScript](./src/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699.js) | Medium  |
-| 1578 | Minimum Time to Make Rope Colorful | [JavaScript](./src/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700/1578.minimum-deletion-cost-to-avoid-repeating-letters.1700.js) | Medium  |
+| 1578 | Minimum Time to Make Rope Colorful | [JavaScript](./src/1578.minimum-time-to-make-rope-colorful.1700/1578.minimum-time-to-make-rope-colorful.1700.js) | Medium  |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable |  | Hard  |
 | 1580 | Put Boxes Into the Warehouse II |  | Medium  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions |  | Easy  |
@@ -2239,6 +2239,7 @@
 | 2219 | Maximum Sum Score of Array |  | Medium  |
 | 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/2220.minimum-bit-flips-to-convert-number.2323.ts) | Easy  |
 | 2221 | Find Triangular Sum of an Array | [JavaScript](./src/2221.find-triangular-sum-of-an-array.2324/2221.find-triangular-sum-of-an-array.2324.js) [TypeScript](./src/2221.find-triangular-sum-of-an-array.2324/2221.find-triangular-sum-of-an-array.2324.ts) | Medium  |
+| 2222 | Number of Ways to Select Buildings |  | Medium  |
 | 2223 | Sum of Scores of Built Strings |  | Hard  |
 | 2224 | Minimum Number of Operations to Convert Time | [JavaScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.js) [TypeScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/2224.minimum-number-of-operations-to-convert-time.2345.ts) | Easy  |
 | 2225 | Find Players With Zero or One Losses | [JavaScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.js) [TypeScript](./src/2225.find-players-with-zero-or-one-losses.1354/2225.find-players-with-zero-or-one-losses.1354.ts) | Medium  |
@@ -2246,7 +2247,67 @@
 | 2227 | Encrypt and Decrypt Strings |  | Hard  |
 | 2228 | Users With Two Purchases Within Seven Days |  | Medium  |
 | 2229 | Check if an Array Is Consecutive |  | Easy  |
-| 6035 | Number of Ways to Select Buildings |  | Medium  |
+| 2230 | The Users That Are Eligible for Discount |  | Easy  |
+| 2231 | Largest Number After Digit Swaps by Parity |  | Easy  |
+| 2232 | Minimize Result by Adding Parentheses to Expression |  | Medium  |
+| 2233 | Maximum Product After K Increments |  | Medium  |
+| 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
+| 2235 | Add Two Integers |  | Easy  |
+| 2236 | Root Equals Sum of Children |  | Easy  |
+| 2237 | Count Positions on Street With Required Brightness |  | Medium  |
+| 2238 | Number of Times a Driver Was a Passenger |  | Medium  |
+| 2239 | Find Closest Number to Zero |  | Easy  |
+| 2240 | Number of Ways to Buy Pens and Pencils |  | Medium  |
+| 2241 | Design an ATM Machine |  | Medium  |
+| 2242 | Maximum Score of a Node Sequence |  | Hard  |
+| 2243 | Calculate Digit Sum of a String |  | Easy  |
+| 2244 | Minimum Rounds to Complete All Tasks |  | Medium  |
+| 2245 | Maximum Trailing Zeros in a Cornered Path |  | Medium  |
+| 2246 | Longest Path With Different Adjacent Characters |  | Hard  |
+| 2247 | Maximum Cost of Trip With K Highways |  | Hard  |
+| 2248 | Intersection of Multiple Arrays |  | Easy  |
+| 2249 | Count Lattice Points Inside a Circle |  | Medium  |
+| 2251 | Number of Flowers in Full Bloom |  | Hard  |
+| 2252 | Dynamic Pivoting of a Table |  | Hard  |
+| 2253 | Dynamic Unpivoting of a Table |  | Hard  |
+| 2254 | Design Video Sharing Platform |  | Hard  |
+| 2255 | Count Prefixes of a Given String |  | Easy  |
+| 2256 | Minimum Average Difference |  | Medium  |
+| 2257 | Count Unguarded Cells in the Grid |  | Medium  |
+| 2258 | Escape the Spreading Fire |  | Hard  |
+| 2259 | Remove Digit From Number to Maximize Result |  | Easy  |
+| 2260 | Minimum Consecutive Cards to Pick Up |  | Medium  |
+| 2261 | K Divisible Elements Subarrays |  | Medium  |
+| 2262 | Total Appeal of A String |  | Hard  |
+| 2263 | Make Array Non-decreasing or Non-increasing |  | Hard  |
+| 2264 | Largest 3-Same-Digit Number in String |  | Easy  |
+| 2265 | Count Nodes Equal to Average of Subtree |  | Medium  |
+| 2266 | Count Number of Texts |  | Medium  |
+| 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
+| 2268 | Minimum Number of Keypresses |  | Medium  |
+| 2269 | Find the K-Beauty of a Number |  | Easy  |
+| 2270 | Number of Ways to Split Array |  | Medium  |
+| 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
+| 2272 | Substring With Largest Variance |  | Hard  |
+| 2273 | Find Resultant Array After Removing Anagrams |  | Easy  |
+| 2274 | Maximum Consecutive Floors Without Special Floors |  | Medium  |
+| 2275 | Largest Combination With Bitwise AND Greater Than Zero |  | Medium  |
+| 2276 | Count Integers in Intervals |  | Hard  |
+| 2277 | Closest Node to Path in Tree |  | Hard  |
+| 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/2278.percentage-of-letter-in-string.2365.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/2278.percentage-of-letter-in-string.2365.ts) | Easy  |
+| 2279 | Maximum Bags With Full Capacity of Rocks |  | Medium  |
+| 2280 | Minimum Lines to Represent a Line Chart |  | Medium  |
+| 2281 | Sum of Total Strength of Wizards |  | Hard  |
+| 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
+| 2283 | Check if Number Has Equal Digit Count and Digit Value |  | Easy  |
+| 2284 | Sender With Largest Word Count |  | Medium  |
+| 2285 | Maximum Total Importance of Roads |  | Medium  |
+| 2286 | Booking Concert Tickets in Groups |  | Hard  |
+| 2287 | Rearrange Characters to Make Target String |  | Easy  |
+| 2288 | Apply Discount to Prices |  | Medium  |
+| 2289 | Steps to Make Array Non-decreasing |  | Medium  |
+| 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
+| 6043 | Count Number of Rectangles Containing Each Point |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2296,6 +2357,17 @@
 | LCP47 | 入场安检 |  | Hard  |
 | LCP48 | 无限棋局 |  | Hard  |
 | LCP49 | 环形闯关游戏 |  | Hard  |
+| LCP50 | 宝石补给 |  | Easy  |
+| LCP51 | 烹饪料理 |  | Easy  |
+| LCP52 | 二叉搜索树染色 |  | Medium  |
+| LCP53 | 守护太空城 |  | Hard  |
+| LCP54 | 夺回据点 |  | Hard  |
+| LCP55 | 采集果实 |  | Easy  |
+| LCP56 | 信物传送 |  | Medium  |
+| LCP57 | 打地鼠 |  | Hard  |
+| LCP58 | 积木拼接 |  | Hard  |
+| LCP59 | 搭桥过河 |  | Hard  |
+| LCP60 | 力扣泡泡龙 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.ts) | Easy  |
