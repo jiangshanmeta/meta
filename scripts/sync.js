@@ -10,7 +10,7 @@ const https = require('https');
 
 function getQuestions () {
     return new Promise((resolve) => {
-        https.get('https://leetcode-cn.com/api/problems/all/', {
+        https.get('https://leetcode.cn/api/problems/all/', {
             headers: {
                 Cookie: require('./cookie'),
             },

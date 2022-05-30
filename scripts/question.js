@@ -5,7 +5,7 @@ const https = require('https');
 
 function getQuestions () {
     return new Promise((resolve) => {
-        https.get('https://leetcode-cn.com/api/problems/all/', (res) => {
+        https.get('https://leetcode.cn/api/problems/all/', (res) => {
             res.setEncoding('utf8');
             let rawData = '';
             res.on('data', (chunk) => {

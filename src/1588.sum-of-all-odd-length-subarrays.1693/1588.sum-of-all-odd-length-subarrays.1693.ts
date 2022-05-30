@@ -13,7 +13,7 @@ function sumOddLengthSubarrays (arr: number[]): number {
     }
     return result;
 }
-// 参考 https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/cong-on3-dao-on-de-jie-fa-by-liuyubobobo/
+// 参考 https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/solution/cong-on3-dao-on-de-jie-fa-by-liuyubobobo/
 // 对于数组元素i，要使得它在奇数长的字数组中，需要 左边偶数个元素且右边偶数个元素 或者 左边奇数个元素且右边奇数个元素
 // 考虑左边有left个元素，那么其可构成的偶数个元素的数组的个数为 (left>>1)+1
 // 右边有right个元素，其可构成偶数个元素的数组的个数为 (right>>1)+1

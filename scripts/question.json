@@ -15547,6 +15547,13 @@
         "difficulty": 2
     },
     {
+        "id": 2325,
+        "index": "2222",
+        "title": "Number of Ways to Select Buildings",
+        "title_slug": "number-of-ways-to-select-buildings",
+        "difficulty": 2
+    },
+    {
         "id": 2326,
         "index": "2223",
         "title": "Sum of Scores of Built Strings",
@@ -15596,10 +15603,430 @@
         "difficulty": 1
     },
     {
-        "id": 2325,
-        "index": "6035",
-        "title": "Number of Ways to Select Buildings",
-        "title_slug": "number-of-ways-to-select-buildings",
+        "id": 2371,
+        "index": "2230",
+        "title": "The Users That Are Eligible for Discount",
+        "title_slug": "the-users-that-are-eligible-for-discount",
+        "difficulty": 1
+    },
+    {
+        "id": 2327,
+        "index": "2231",
+        "title": "Largest Number After Digit Swaps by Parity",
+        "title_slug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": 1
+    },
+    {
+        "id": 2328,
+        "index": "2232",
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "title_slug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": 2
+    },
+    {
+        "id": 2329,
+        "index": "2233",
+        "title": "Maximum Product After K Increments",
+        "title_slug": "maximum-product-after-k-increments",
+        "difficulty": 2
+    },
+    {
+        "id": 2330,
+        "index": "2234",
+        "title": "Maximum Total Beauty of the Gardens",
+        "title_slug": "maximum-total-beauty-of-the-gardens",
+        "difficulty": 3
+    },
+    {
+        "id": 2383,
+        "index": "2235",
+        "title": "Add Two Integers",
+        "title_slug": "add-two-integers",
+        "difficulty": 1
+    },
+    {
+        "id": 2384,
+        "index": "2236",
+        "title": "Root Equals Sum of Children",
+        "title_slug": "root-equals-sum-of-children",
+        "difficulty": 1
+    },
+    {
+        "id": 2385,
+        "index": "2237",
+        "title": "Count Positions on Street With Required Brightness",
+        "title_slug": "count-positions-on-street-with-required-brightness",
+        "difficulty": 2
+    },
+    {
+        "id": 2376,
+        "index": "2238",
+        "title": "Number of Times a Driver Was a Passenger",
+        "title_slug": "number-of-times-a-driver-was-a-passenger",
+        "difficulty": 2
+    },
+    {
+        "id": 2350,
+        "index": "2239",
+        "title": "Find Closest Number to Zero",
+        "title_slug": "find-closest-number-to-zero",
+        "difficulty": 1
+    },
+    {
+        "id": 2351,
+        "index": "2240",
+        "title": "Number of Ways to Buy Pens and Pencils",
+        "title_slug": "number-of-ways-to-buy-pens-and-pencils",
+        "difficulty": 2
+    },
+    {
+        "id": 2352,
+        "index": "2241",
+        "title": "Design an ATM Machine",
+        "title_slug": "design-an-atm-machine",
+        "difficulty": 2
+    },
+    {
+        "id": 2353,
+        "index": "2242",
+        "title": "Maximum Score of a Node Sequence",
+        "title_slug": "maximum-score-of-a-node-sequence",
+        "difficulty": 3
+    },
+    {
+        "id": 2361,
+        "index": "2243",
+        "title": "Calculate Digit Sum of a String",
+        "title_slug": "calculate-digit-sum-of-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2362,
+        "index": "2244",
+        "title": "Minimum Rounds to Complete All Tasks",
+        "title_slug": "minimum-rounds-to-complete-all-tasks",
+        "difficulty": 2
+    },
+    {
+        "id": 2363,
+        "index": "2245",
+        "title": "Maximum Trailing Zeros in a Cornered Path",
+        "title_slug": "maximum-trailing-zeros-in-a-cornered-path",
+        "difficulty": 2
+    },
+    {
+        "id": 2364,
+        "index": "2246",
+        "title": "Longest Path With Different Adjacent Characters",
+        "title_slug": "longest-path-with-different-adjacent-characters",
+        "difficulty": 3
+    },
+    {
+        "id": 2007,
+        "index": "2247",
+        "title": "Maximum Cost of Trip With K Highways",
+        "title_slug": "maximum-cost-of-trip-with-k-highways",
+        "difficulty": 3
+    },
+    {
+        "id": 2331,
+        "index": "2248",
+        "title": "Intersection of Multiple Arrays",
+        "title_slug": "intersection-of-multiple-arrays",
+        "difficulty": 1
+    },
+    {
+        "id": 2332,
+        "index": "2249",
+        "title": "Count Lattice Points Inside a Circle",
+        "title_slug": "count-lattice-points-inside-a-circle",
+        "difficulty": 2
+    },
+    {
+        "id": 2334,
+        "index": "2251",
+        "title": "Number of Flowers in Full Bloom",
+        "title_slug": "number-of-flowers-in-full-bloom",
+        "difficulty": 3
+    },
+    {
+        "id": 2381,
+        "index": "2252",
+        "title": "Dynamic Pivoting of a Table",
+        "title_slug": "dynamic-pivoting-of-a-table",
+        "difficulty": 3
+    },
+    {
+        "id": 2382,
+        "index": "2253",
+        "title": "Dynamic Unpivoting of a Table",
+        "title_slug": "dynamic-unpivoting-of-a-table",
+        "difficulty": 3
+    },
+    {
+        "id": 2396,
+        "index": "2254",
+        "title": "Design Video Sharing Platform",
+        "title_slug": "design-video-sharing-platform",
+        "difficulty": 3
+    },
+    {
+        "id": 2341,
+        "index": "2255",
+        "title": "Count Prefixes of a Given String",
+        "title_slug": "count-prefixes-of-a-given-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2342,
+        "index": "2256",
+        "title": "Minimum Average Difference",
+        "title_slug": "minimum-average-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 2343,
+        "index": "2257",
+        "title": "Count Unguarded Cells in the Grid",
+        "title_slug": "count-unguarded-cells-in-the-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2344,
+        "index": "2258",
+        "title": "Escape the Spreading Fire",
+        "title_slug": "escape-the-spreading-fire",
+        "difficulty": 3
+    },
+    {
+        "id": 2337,
+        "index": "2259",
+        "title": "Remove Digit From Number to Maximize Result",
+        "title_slug": "remove-digit-from-number-to-maximize-result",
+        "difficulty": 1
+    },
+    {
+        "id": 2338,
+        "index": "2260",
+        "title": "Minimum Consecutive Cards to Pick Up",
+        "title_slug": "minimum-consecutive-cards-to-pick-up",
+        "difficulty": 2
+    },
+    {
+        "id": 2339,
+        "index": "2261",
+        "title": "K Divisible Elements Subarrays",
+        "title_slug": "k-divisible-elements-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2340,
+        "index": "2262",
+        "title": "Total Appeal of A String",
+        "title_slug": "total-appeal-of-a-string",
+        "difficulty": 3
+    },
+    {
+        "id": 1419,
+        "index": "2263",
+        "title": "Make Array Non-decreasing or Non-increasing",
+        "title_slug": "make-array-non-decreasing-or-non-increasing",
+        "difficulty": 3
+    },
+    {
+        "id": 2346,
+        "index": "2264",
+        "title": "Largest 3-Same-Digit Number in String",
+        "title_slug": "largest-3-same-digit-number-in-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2347,
+        "index": "2265",
+        "title": "Count Nodes Equal to Average of Subtree",
+        "title_slug": "count-nodes-equal-to-average-of-subtree",
+        "difficulty": 2
+    },
+    {
+        "id": 2348,
+        "index": "2266",
+        "title": "Count Number of Texts",
+        "title_slug": "count-number-of-texts",
+        "difficulty": 2
+    },
+    {
+        "id": 2349,
+        "index": "2267",
+        "title": " Check if There Is a Valid Parentheses String Path",
+        "title_slug": "check-if-there-is-a-valid-parentheses-string-path",
+        "difficulty": 3
+    },
+    {
+        "id": 2405,
+        "index": "2268",
+        "title": "Minimum Number of Keypresses",
+        "title_slug": "minimum-number-of-keypresses",
+        "difficulty": 2
+    },
+    {
+        "id": 1430,
+        "index": "2269",
+        "title": "Find the K-Beauty of a Number",
+        "title_slug": "find-the-k-beauty-of-a-number",
+        "difficulty": 1
+    },
+    {
+        "id": 2358,
+        "index": "2270",
+        "title": "Number of Ways to Split Array",
+        "title_slug": "number-of-ways-to-split-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2359,
+        "index": "2271",
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "title_slug": "maximum-white-tiles-covered-by-a-carpet",
+        "difficulty": 2
+    },
+    {
+        "id": 2360,
+        "index": "2272",
+        "title": "Substring With Largest Variance",
+        "title_slug": "substring-with-largest-variance",
+        "difficulty": 3
+    },
+    {
+        "id": 1353,
+        "index": "2273",
+        "title": "Find Resultant Array After Removing Anagrams",
+        "title_slug": "find-resultant-array-after-removing-anagrams",
+        "difficulty": 1
+    },
+    {
+        "id": 2355,
+        "index": "2274",
+        "title": "Maximum Consecutive Floors Without Special Floors",
+        "title_slug": "maximum-consecutive-floors-without-special-floors",
+        "difficulty": 2
+    },
+    {
+        "id": 2356,
+        "index": "2275",
+        "title": "Largest Combination With Bitwise AND Greater Than Zero",
+        "title_slug": "largest-combination-with-bitwise-and-greater-than-zero",
+        "difficulty": 2
+    },
+    {
+        "id": 2357,
+        "index": "2276",
+        "title": "Count Integers in Intervals",
+        "title_slug": "count-integers-in-intervals",
+        "difficulty": 3
+    },
+    {
+        "id": 2420,
+        "index": "2277",
+        "title": "Closest Node to Path in Tree",
+        "title_slug": "closest-node-to-path-in-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 2365,
+        "index": "2278",
+        "title": "Percentage of Letter in String",
+        "title_slug": "percentage-of-letter-in-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2366,
+        "index": "2279",
+        "title": "Maximum Bags With Full Capacity of Rocks",
+        "title_slug": "maximum-bags-with-full-capacity-of-rocks",
+        "difficulty": 2
+    },
+    {
+        "id": 2367,
+        "index": "2280",
+        "title": "Minimum Lines to Represent a Line Chart",
+        "title_slug": "minimum-lines-to-represent-a-line-chart",
+        "difficulty": 2
+    },
+    {
+        "id": 2368,
+        "index": "2281",
+        "title": "Sum of Total Strength of Wizards",
+        "title_slug": "sum-of-total-strength-of-wizards",
+        "difficulty": 3
+    },
+    {
+        "id": 2425,
+        "index": "2282",
+        "title": "Number of People That Can Be Seen in a Grid",
+        "title_slug": "number-of-people-that-can-be-seen-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2377,
+        "index": "2283",
+        "title": "Check if Number Has Equal Digit Count and Digit Value",
+        "title_slug": "check-if-number-has-equal-digit-count-and-digit-value",
+        "difficulty": 1
+    },
+    {
+        "id": 2378,
+        "index": "2284",
+        "title": "Sender With Largest Word Count",
+        "title_slug": "sender-with-largest-word-count",
+        "difficulty": 2
+    },
+    {
+        "id": 2379,
+        "index": "2285",
+        "title": "Maximum Total Importance of Roads",
+        "title_slug": "maximum-total-importance-of-roads",
+        "difficulty": 2
+    },
+    {
+        "id": 2380,
+        "index": "2286",
+        "title": "Booking Concert Tickets in Groups",
+        "title_slug": "booking-concert-tickets-in-groups",
+        "difficulty": 3
+    },
+    {
+        "id": 2372,
+        "index": "2287",
+        "title": "Rearrange Characters to Make Target String",
+        "title_slug": "rearrange-characters-to-make-target-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2373,
+        "index": "2288",
+        "title": "Apply Discount to Prices",
+        "title_slug": "apply-discount-to-prices",
+        "difficulty": 2
+    },
+    {
+        "id": 2374,
+        "index": "2289",
+        "title": "Steps to Make Array Non-decreasing",
+        "title_slug": "steps-to-make-array-non-decreasing",
+        "difficulty": 2
+    },
+    {
+        "id": 2375,
+        "index": "2290",
+        "title": "Minimum Obstacle Removal to Reach Corner",
+        "title_slug": "minimum-obstacle-removal-to-reach-corner",
+        "difficulty": 3
+    },
+    {
+        "id": 2333,
+        "index": "6043",
+        "title": "Count Number of Rectangles Containing Each Point",
+        "title_slug": "count-number-of-rectangles-containing-each-point",
         "difficulty": 2
     },
     {
@@ -15943,6 +16370,83 @@
         "index": "LCP49",
         "title": "环形闯关游戏",
         "title_slug": "K8GULz",
+        "difficulty": 3
+    },
+    {
+        "id": 1000433,
+        "index": "LCP50",
+        "title": "宝石补给",
+        "title_slug": "WHnhjV",
+        "difficulty": 1
+    },
+    {
+        "id": 1000434,
+        "index": "LCP51",
+        "title": "烹饪料理",
+        "title_slug": "UEcfPD",
+        "difficulty": 1
+    },
+    {
+        "id": 1000435,
+        "index": "LCP52",
+        "title": "二叉搜索树染色",
+        "title_slug": "QO5KpG",
+        "difficulty": 2
+    },
+    {
+        "id": 1000436,
+        "index": "LCP53",
+        "title": "守护太空城",
+        "title_slug": "EJvmW4",
+        "difficulty": 3
+    },
+    {
+        "id": 1000437,
+        "index": "LCP54",
+        "title": "夺回据点",
+        "title_slug": "s5kipK",
+        "difficulty": 3
+    },
+    {
+        "id": 1000438,
+        "index": "LCP55",
+        "title": "采集果实",
+        "title_slug": "PTXy4P",
+        "difficulty": 1
+    },
+    {
+        "id": 1000439,
+        "index": "LCP56",
+        "title": "信物传送",
+        "title_slug": "6UEx57",
+        "difficulty": 2
+    },
+    {
+        "id": 1000440,
+        "index": "LCP57",
+        "title": "打地鼠",
+        "title_slug": "ZbAuEH",
+        "difficulty": 3
+    },
+    {
+        "id": 1000448,
+        "index": "LCP58",
+        "title": "积木拼接",
+        "title_slug": "De4qBB",
+        "difficulty": 3
+    },
+    {
+        "id": 1000441,
+        "index": "LCP59",
+        "title": "搭桥过河",
+        "title_slug": "NfY1m5",
+        "difficulty": 3
+    },
+    {
+        "id": 1000442,
+        "index": "LCP60",
+        "title": "力扣泡泡龙",
+        "title_slug": "WInSav",
         "difficulty": 3
     },
     {
