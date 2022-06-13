@@ -15743,6 +15743,13 @@
         "difficulty": 2
     },
     {
+        "id": 2333,
+        "index": "2250",
+        "title": "Count Number of Rectangles Containing Each Point",
+        "title_slug": "count-number-of-rectangles-containing-each-point",
+        "difficulty": 2
+    },
+    {
         "id": 2334,
         "index": "2251",
         "title": "Number of Flowers in Full Bloom",
@@ -16023,11 +16030,116 @@
         "difficulty": 3
     },
     {
-        "id": 2333,
-        "index": "6043",
-        "title": "Count Number of Rectangles Containing Each Point",
-        "title_slug": "count-number-of-rectangles-containing-each-point",
+        "id": 2426,
+        "index": "2291",
+        "title": "Maximum Profit From Trading Stocks",
+        "title_slug": "maximum-profit-from-trading-stocks",
         "difficulty": 2
+    },
+    {
+        "id": 2431,
+        "index": "2292",
+        "title": "Products With Three or More Orders in Two Consecutive Years",
+        "title_slug": "products-with-three-or-more-orders-in-two-consecutive-years",
+        "difficulty": 2
+    },
+    {
+        "id": 2386,
+        "index": "2293",
+        "title": "Min Max Game",
+        "title_slug": "min-max-game",
+        "difficulty": 1
+    },
+    {
+        "id": 2387,
+        "index": "2294",
+        "title": "Partition Array Such That Maximum Difference Is K",
+        "title_slug": "partition-array-such-that-maximum-difference-is-k",
+        "difficulty": 2
+    },
+    {
+        "id": 2388,
+        "index": "2295",
+        "title": "Replace Elements in an Array",
+        "title_slug": "replace-elements-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2389,
+        "index": "2296",
+        "title": "Design a Text Editor",
+        "title_slug": "design-a-text-editor",
+        "difficulty": 3
+    },
+    {
+        "id": 2056,
+        "index": "2297",
+        "title": "Jump Game IX",
+        "title_slug": "jump-game-ix",
+        "difficulty": 2
+    },
+    {
+        "id": 2440,
+        "index": "2298",
+        "title": "Tasks Count in the Weekend",
+        "title_slug": "tasks-count-in-the-weekend",
+        "difficulty": 2
+    },
+    {
+        "id": 2391,
+        "index": "2299",
+        "title": "Strong Password Checker II",
+        "title_slug": "strong-password-checker-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 2392,
+        "index": "2300",
+        "title": "Successful Pairs of Spells and Potions",
+        "title_slug": "successful-pairs-of-spells-and-potions",
+        "difficulty": 2
+    },
+    {
+        "id": 2393,
+        "index": "2301",
+        "title": "Match Substring After Replacement",
+        "title_slug": "match-substring-after-replacement",
+        "difficulty": 3
+    },
+    {
+        "id": 2394,
+        "index": "2302",
+        "title": "Count Subarrays With Score Less Than K",
+        "title_slug": "count-subarrays-with-score-less-than-k",
+        "difficulty": 3
+    },
+    {
+        "id": 1382,
+        "index": "2303",
+        "title": "Calculate Amount Paid in Taxes",
+        "title_slug": "calculate-amount-paid-in-taxes",
+        "difficulty": 1
+    },
+    {
+        "id": 1394,
+        "index": "2304",
+        "title": "Minimum Path Cost in a Grid",
+        "title_slug": "minimum-path-cost-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 1418,
+        "index": "2305",
+        "title": "Fair Distribution of Cookies",
+        "title_slug": "fair-distribution-of-cookies",
+        "difficulty": 2
+    },
+    {
+        "id": 2390,
+        "index": "2306",
+        "title": "Naming a Company",
+        "title_slug": "naming-a-company",
+        "difficulty": 3
     },
     {
         "id": 100107,
