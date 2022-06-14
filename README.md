@@ -2267,11 +2267,12 @@
 | 2247 | Maximum Cost of Trip With K Highways |  | Hard  |
 | 2248 | Intersection of Multiple Arrays |  | Easy  |
 | 2249 | Count Lattice Points Inside a Circle |  | Medium  |
+| 2250 | Count Number of Rectangles Containing Each Point |  | Medium  |
 | 2251 | Number of Flowers in Full Bloom |  | Hard  |
 | 2252 | Dynamic Pivoting of a Table |  | Hard  |
 | 2253 | Dynamic Unpivoting of a Table |  | Hard  |
 | 2254 | Design Video Sharing Platform |  | Hard  |
-| 2255 | Count Prefixes of a Given String |  | Easy  |
+| 2255 | Count Prefixes of a Given String | [JavaScript](./src/2255.count-prefixes-of-a-given-string.2341/2255.count-prefixes-of-a-given-string.2341.js) [TypeScript](./src/2255.count-prefixes-of-a-given-string.2341/2255.count-prefixes-of-a-given-string.2341.ts) | Easy  |
 | 2256 | Minimum Average Difference |  | Medium  |
 | 2257 | Count Unguarded Cells in the Grid |  | Medium  |
 | 2258 | Escape the Spreading Fire |  | Hard  |
@@ -2299,7 +2300,7 @@
 | 2280 | Minimum Lines to Represent a Line Chart |  | Medium  |
 | 2281 | Sum of Total Strength of Wizards |  | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
-| 2283 | Check if Number Has Equal Digit Count and Digit Value |  | Easy  |
+| 2283 | Check if Number Has Equal Digit Count and Digit Value | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/2283.check-if-number-has-equal-digit-count-and-digit-value.2377.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/2283.check-if-number-has-equal-digit-count-and-digit-value.2377.ts) | Easy  |
 | 2284 | Sender With Largest Word Count |  | Medium  |
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
@@ -2307,7 +2308,22 @@
 | 2288 | Apply Discount to Prices |  | Medium  |
 | 2289 | Steps to Make Array Non-decreasing |  | Medium  |
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
-| 6043 | Count Number of Rectangles Containing Each Point |  | Medium  |
+| 2291 | Maximum Profit From Trading Stocks |  | Medium  |
+| 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
+| 2293 | Min Max Game |  | Easy  |
+| 2294 | Partition Array Such That Maximum Difference Is K |  | Medium  |
+| 2295 | Replace Elements in an Array |  | Medium  |
+| 2296 | Design a Text Editor |  | Hard  |
+| 2297 | Jump Game IX |  | Medium  |
+| 2298 | Tasks Count in the Weekend |  | Medium  |
+| 2299 | Strong Password Checker II |  | Easy  |
+| 2300 | Successful Pairs of Spells and Potions |  | Medium  |
+| 2301 | Match Substring After Replacement |  | Hard  |
+| 2302 | Count Subarrays With Score Less Than K |  | Hard  |
+| 2303 | Calculate Amount Paid in Taxes |  | Easy  |
+| 2304 | Minimum Path Cost in a Grid |  | Medium  |
+| 2305 | Fair Distribution of Cookies |  | Medium  |
+| 2306 | Naming a Company |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
