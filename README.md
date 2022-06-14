@@ -2304,13 +2304,13 @@
 | 2284 | Sender With Largest Word Count |  | Medium  |
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
-| 2287 | Rearrange Characters to Make Target String |  | Easy  |
+| 2287 | Rearrange Characters to Make Target String | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/2287.rearrange-characters-to-make-target-string.2372.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/2287.rearrange-characters-to-make-target-string.2372.ts) | Easy  |
 | 2288 | Apply Discount to Prices |  | Medium  |
 | 2289 | Steps to Make Array Non-decreasing |  | Medium  |
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
 | 2291 | Maximum Profit From Trading Stocks |  | Medium  |
 | 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
-| 2293 | Min Max Game |  | Easy  |
+| 2293 | Min Max Game | [JavaScript](./src/2293.min-max-game.2386/2293.min-max-game.2386.js) [TypeScript](./src/2293.min-max-game.2386/2293.min-max-game.2386.ts) | Easy  |
 | 2294 | Partition Array Such That Maximum Difference Is K |  | Medium  |
 | 2295 | Replace Elements in an Array |  | Medium  |
 | 2296 | Design a Text Editor |  | Hard  |
