@@ -2252,11 +2252,11 @@
 | 2232 | Minimize Result by Adding Parentheses to Expression |  | Medium  |
 | 2233 | Maximum Product After K Increments |  | Medium  |
 | 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
-| 2235 | Add Two Integers |  | Easy  |
+| 2235 | Add Two Integers | [JavaScript](./src/2235.add-two-integers.2383/2235.add-two-integers.2383.js) [TypeScript](./src/2235.add-two-integers.2383/2235.add-two-integers.2383.ts) | Easy  |
 | 2236 | Root Equals Sum of Children |  | Easy  |
 | 2237 | Count Positions on Street With Required Brightness |  | Medium  |
 | 2238 | Number of Times a Driver Was a Passenger |  | Medium  |
-| 2239 | Find Closest Number to Zero |  | Easy  |
+| 2239 | Find Closest Number to Zero | [JavaScript](./src/2239.find-closest-number-to-zero.2350/2239.find-closest-number-to-zero.2350.js) [TypeScript](./src/2239.find-closest-number-to-zero.2350/2239.find-closest-number-to-zero.2350.ts) | Easy  |
 | 2240 | Number of Ways to Buy Pens and Pencils |  | Medium  |
 | 2241 | Design an ATM Machine |  | Medium  |
 | 2242 | Maximum Score of a Node Sequence |  | Hard  |
