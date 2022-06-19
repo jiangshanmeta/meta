@@ -2260,12 +2260,12 @@
 | 2240 | Number of Ways to Buy Pens and Pencils |  | Medium  |
 | 2241 | Design an ATM Machine |  | Medium  |
 | 2242 | Maximum Score of a Node Sequence |  | Hard  |
-| 2243 | Calculate Digit Sum of a String |  | Easy  |
+| 2243 | Calculate Digit Sum of a String | [JavaScript](./src/2243.calculate-digit-sum-of-a-string.2361/2243.calculate-digit-sum-of-a-string.2361.js) [TypeScript](./src/2243.calculate-digit-sum-of-a-string.2361/2243.calculate-digit-sum-of-a-string.2361.ts) | Easy  |
 | 2244 | Minimum Rounds to Complete All Tasks |  | Medium  |
 | 2245 | Maximum Trailing Zeros in a Cornered Path |  | Medium  |
 | 2246 | Longest Path With Different Adjacent Characters |  | Hard  |
 | 2247 | Maximum Cost of Trip With K Highways |  | Hard  |
-| 2248 | Intersection of Multiple Arrays |  | Easy  |
+| 2248 | Intersection of Multiple Arrays | [JavaScript](./src/2248.intersection-of-multiple-arrays.2331/2248.intersection-of-multiple-arrays.2331.js) [TypeScript](./src/2248.intersection-of-multiple-arrays.2331/2248.intersection-of-multiple-arrays.2331.ts) | Easy  |
 | 2249 | Count Lattice Points Inside a Circle |  | Medium  |
 | 2250 | Count Number of Rectangles Containing Each Point |  | Medium  |
 | 2251 | Number of Flowers in Full Bloom |  | Hard  |
