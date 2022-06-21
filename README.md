@@ -2320,7 +2320,7 @@
 | 2300 | Successful Pairs of Spells and Potions |  | Medium  |
 | 2301 | Match Substring After Replacement |  | Hard  |
 | 2302 | Count Subarrays With Score Less Than K |  | Hard  |
-| 2303 | Calculate Amount Paid in Taxes |  | Easy  |
+| 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/2303.calculate-amount-paid-in-taxes.1382.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/2303.calculate-amount-paid-in-taxes.1382.ts) | Easy  |
 | 2304 | Minimum Path Cost in a Grid |  | Medium  |
 | 2305 | Fair Distribution of Cookies |  | Medium  |
 | 2306 | Naming a Company |  | Hard  |
