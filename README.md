@@ -2276,7 +2276,7 @@
 | 2256 | Minimum Average Difference |  | Medium  |
 | 2257 | Count Unguarded Cells in the Grid |  | Medium  |
 | 2258 | Escape the Spreading Fire |  | Hard  |
-| 2259 | Remove Digit From Number to Maximize Result |  | Easy  |
+| 2259 | Remove Digit From Number to Maximize Result | [JavaScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/2259.remove-digit-from-number-to-maximize-result.2337.js) [TypeScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/2259.remove-digit-from-number-to-maximize-result.2337.ts) | Easy  |
 | 2260 | Minimum Consecutive Cards to Pick Up |  | Medium  |
 | 2261 | K Divisible Elements Subarrays |  | Medium  |
 | 2262 | Total Appeal of A String |  | Hard  |
@@ -2316,7 +2316,7 @@
 | 2296 | Design a Text Editor |  | Hard  |
 | 2297 | Jump Game IX |  | Medium  |
 | 2298 | Tasks Count in the Weekend |  | Medium  |
-| 2299 | Strong Password Checker II |  | Easy  |
+| 2299 | Strong Password Checker II | [JavaScript](./src/2299.strong-password-checker-ii.2391/2299.strong-password-checker-ii.2391.js) [TypeScript](./src/2299.strong-password-checker-ii.2391/2299.strong-password-checker-ii.2391.ts) | Easy  |
 | 2300 | Successful Pairs of Spells and Potions |  | Medium  |
 | 2301 | Match Substring After Replacement |  | Hard  |
 | 2302 | Count Subarrays With Score Less Than K |  | Hard  |
