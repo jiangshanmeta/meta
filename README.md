@@ -172,7 +172,7 @@
 | 0152 | Maximum Product Subarray | [JavaScript](./src/0152.maximum-product-subarray.152/0152.maximum-product-subarray.152.js) [TypeScript](./src/0152.maximum-product-subarray.152/0152.maximum-product-subarray.152.ts) | Medium  |
 | 0153 | Find Minimum in Rotated Sorted Array | [JavaScript](./src/0153.find-minimum-in-rotated-sorted-array.153/0153.find-minimum-in-rotated-sorted-array.153.js) | Medium  |
 | 0154 | Find Minimum in Rotated Sorted Array II | [JavaScript](./src/0154.find-minimum-in-rotated-sorted-array-ii.154/0154.find-minimum-in-rotated-sorted-array-ii.154.js) | Hard  |
-| 0155 | Min Stack | [JavaScript](./src/0155.min-stack.155/0155.min-stack.155.js) [TypeScript](./src/0155.min-stack.155/0155.min-stack.155.ts) | Easy  |
+| 0155 | Min Stack | [JavaScript](./src/0155.min-stack.155/0155.min-stack.155.js) [TypeScript](./src/0155.min-stack.155/0155.min-stack.155.ts) | Medium  |
 | 0156 | Binary Tree Upside Down | [JavaScript](./src/0156.binary-tree-upside-down.156/0156.binary-tree-upside-down.156.js) [TypeScript](./src/0156.binary-tree-upside-down.156/0156.binary-tree-upside-down.156.ts) | Medium  |
 | 0157 | Read N Characters Given Read4 | [JavaScript](./src/0157.read-n-characters-given-read4.157/0157.read-n-characters-given-read4.157.js) | Easy  |
 | 0158 | Read N Characters Given Read4 II - Call multiple times |  | Hard  |
@@ -733,7 +733,7 @@
 | 0713 | Subarray Product Less Than K | [JavaScript](./src/0713.subarray-product-less-than-k.713/0713.subarray-product-less-than-k.713.js) | Medium  |
 | 0714 | Best Time to Buy and Sell Stock with Transaction Fee | [JavaScript](./src/0714.best-time-to-buy-and-sell-stock-with-transaction-fee.714/0714.best-time-to-buy-and-sell-stock-with-transaction-fee.714.js) | Medium  |
 | 0715 | Range Module | [JavaScript](./src/0715.range-module.715/0715.range-module.715.js) | Hard  |
-| 0716 | Max Stack | [JavaScript](./src/0716.max-stack.716/0716.max-stack.716.js) [TypeScript](./src/0716.max-stack.716/0716.max-stack.716.ts) | Easy  |
+| 0716 | Max Stack | [JavaScript](./src/0716.max-stack.716/0716.max-stack.716.js) [TypeScript](./src/0716.max-stack.716/0716.max-stack.716.ts) | Hard  |
 | 0717 | 1-bit and 2-bit Characters | [JavaScript](./src/0717.1-bit-and-2-bit-characters.717/0717.1-bit-and-2-bit-characters.717.js) [TypeScript](./src/0717.1-bit-and-2-bit-characters.717/0717.1-bit-and-2-bit-characters.717.ts) | Easy  |
 | 0718 | Maximum Length of Repeated Subarray | [JavaScript](./src/0718.maximum-length-of-repeated-subarray.718/0718.maximum-length-of-repeated-subarray.718.js) | Medium  |
 | 0719 | Find K-th Smallest Pair Distance |  | Hard  |
@@ -803,7 +803,7 @@
 | 0783 | Minimum Distance Between BST Nodes | [JavaScript](./src/0783.minimum-distance-between-bst-nodes.799/0783.minimum-distance-between-bst-nodes.799.js) [TypeScript](./src/0783.minimum-distance-between-bst-nodes.799/0783.minimum-distance-between-bst-nodes.799.ts) | Easy  |
 | 0784 | Letter Case Permutation | [JavaScript](./src/0784.letter-case-permutation.800/0784.letter-case-permutation.800.js) [TypeScript](./src/0784.letter-case-permutation.800/0784.letter-case-permutation.800.ts) | Medium  |
 | 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/0785.is-graph-bipartite.801.js) | Medium  |
-| 0786 | K-th Smallest Prime Fraction |  | Hard  |
+| 0786 | K-th Smallest Prime Fraction |  | Medium  |
 | 0787 | Cheapest Flights Within K Stops |  | Medium  |
 | 0788 | Rotated Digits | [JavaScript](./src/0788.rotated-digits.804/0788.rotated-digits.804.js) | Medium  |
 | 0789 | Escape The Ghosts | [JavaScript](./src/0789.escape-the-ghosts.805/0789.escape-the-ghosts.805.js) [TypeScript](./src/0789.escape-the-ghosts.805/0789.escape-the-ghosts.805.ts) | Medium  |
@@ -2248,12 +2248,12 @@
 | 2228 | Users With Two Purchases Within Seven Days |  | Medium  |
 | 2229 | Check if an Array Is Consecutive |  | Easy  |
 | 2230 | The Users That Are Eligible for Discount |  | Easy  |
-| 2231 | Largest Number After Digit Swaps by Parity |  | Easy  |
+| 2231 | Largest Number After Digit Swaps by Parity | [JavaScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/2231.largest-number-after-digit-swaps-by-parity.2327.js) [TypeScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/2231.largest-number-after-digit-swaps-by-parity.2327.ts) | Easy  |
 | 2232 | Minimize Result by Adding Parentheses to Expression |  | Medium  |
 | 2233 | Maximum Product After K Increments |  | Medium  |
 | 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
 | 2235 | Add Two Integers | [JavaScript](./src/2235.add-two-integers.2383/2235.add-two-integers.2383.js) [TypeScript](./src/2235.add-two-integers.2383/2235.add-two-integers.2383.ts) | Easy  |
-| 2236 | Root Equals Sum of Children |  | Easy  |
+| 2236 | Root Equals Sum of Children | [JavaScript](./src/2236.root-equals-sum-of-children.2384/2236.root-equals-sum-of-children.2384.js) [TypeScript](./src/2236.root-equals-sum-of-children.2384/2236.root-equals-sum-of-children.2384.ts) | Easy  |
 | 2237 | Count Positions on Street With Required Brightness |  | Medium  |
 | 2238 | Number of Times a Driver Was a Passenger |  | Medium  |
 | 2239 | Find Closest Number to Zero | [JavaScript](./src/2239.find-closest-number-to-zero.2350/2239.find-closest-number-to-zero.2350.js) [TypeScript](./src/2239.find-closest-number-to-zero.2350/2239.find-closest-number-to-zero.2350.ts) | Easy  |
@@ -2281,12 +2281,12 @@
 | 2261 | K Divisible Elements Subarrays |  | Medium  |
 | 2262 | Total Appeal of A String |  | Hard  |
 | 2263 | Make Array Non-decreasing or Non-increasing |  | Hard  |
-| 2264 | Largest 3-Same-Digit Number in String |  | Easy  |
+| 2264 | Largest 3-Same-Digit Number in String | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.2346/2264.largest-3-same-digit-number-in-string.2346.js) [TypeScript](./src/2264.largest-3-same-digit-number-in-string.2346/2264.largest-3-same-digit-number-in-string.2346.ts) | Easy  |
 | 2265 | Count Nodes Equal to Average of Subtree |  | Medium  |
 | 2266 | Count Number of Texts |  | Medium  |
 | 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
 | 2268 | Minimum Number of Keypresses |  | Medium  |
-| 2269 | Find the K-Beauty of a Number |  | Easy  |
+| 2269 | Find the K-Beauty of a Number | [JavaScript](./src/2269.find-the-k-beauty-of-a-number.1430/2269.find-the-k-beauty-of-a-number.1430.js) [TypeScript](./src/2269.find-the-k-beauty-of-a-number.1430/2269.find-the-k-beauty-of-a-number.1430.ts) | Easy  |
 | 2270 | Number of Ways to Split Array |  | Medium  |
 | 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
 | 2272 | Substring With Largest Variance |  | Hard  |
@@ -2314,7 +2314,7 @@
 | 2294 | Partition Array Such That Maximum Difference Is K |  | Medium  |
 | 2295 | Replace Elements in an Array |  | Medium  |
 | 2296 | Design a Text Editor |  | Hard  |
-| 2297 | Jump Game IX |  | Medium  |
+| 2297 | Jump Game VIII |  | Medium  |
 | 2298 | Tasks Count in the Weekend |  | Medium  |
 | 2299 | Strong Password Checker II | [JavaScript](./src/2299.strong-password-checker-ii.2391/2299.strong-password-checker-ii.2391.js) [TypeScript](./src/2299.strong-password-checker-ii.2391/2299.strong-password-checker-ii.2391.ts) | Easy  |
 | 2300 | Successful Pairs of Spells and Potions |  | Medium  |
@@ -2324,6 +2324,27 @@
 | 2304 | Minimum Path Cost in a Grid |  | Medium  |
 | 2305 | Fair Distribution of Cookies |  | Medium  |
 | 2306 | Naming a Company |  | Hard  |
+| 2307 | Check for Contradictions in Equations |  | Hard  |
+| 2308 | Arrange Table by Gender |  | Medium  |
+| 2309 | Greatest English Letter in Upper and Lower Case |  | Easy  |
+| 2310 | Sum of Numbers With Units Digit K |  | Medium  |
+| 2311 | Longest Binary Subsequence Less Than or Equal to K |  | Medium  |
+| 2312 | Selling Pieces of Wood |  | Hard  |
+| 2313 | Minimum Flips in Binary Tree to Get Result |  | Hard  |
+| 2314 | The First Day of the Maximum Recorded Degree in Each City |  | Medium  |
+| 2315 | Count Asterisks |  | Easy  |
+| 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph |  | Medium  |
+| 2317 | Maximum XOR After Operations  |  | Medium  |
+| 2318 | Number of Distinct Roll Sequences |  | Hard  |
+| 2319 | Check if Matrix Is X-Matrix |  | Easy  |
+| 2320 | Count Number of Ways to Place Houses |  | Medium  |
+| 2321 | Maximum Score Of Spliced Array |  | Hard  |
+| 2322 | Minimum Score After Removals on a Tree |  | Hard  |
+| 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
+| 6108 | Decode the Message |  | Easy  |
+| 6109 | Number of People Aware of a Secret |  | Medium  |
+| 6110 | Number of Increasing Paths in a Grid |  | Hard  |
+| 6111 | Spiral Matrix IV |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2423,7 +2444,7 @@
 | 剑指Offer37 | 序列化二叉树  LCOF | [JavaScript](./src/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307.js) | Hard  |
 | 剑指Offer38 | 字符串的排列  LCOF | [JavaScript](./src/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308.js) [TypeScript](./src/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308.ts) | Medium  |
 | 剑指Offer39 | 数组中出现次数超过一半的数字  LCOF | [JavaScript](./src/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310.js) [TypeScript](./src/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310.ts) | Easy  |
-| 剑指Offer40 | 最小的k个数  LCOF | [JavaScript](./src/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301.js) [TypeScript](./src/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301.ts) | Easy  |
+| 面试题40 | 最小的k个数  LCOF |  | Easy  |
 | 剑指Offer41 | 数据流中的中位数  LCOF | [JavaScript](./src/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303.js) [TypeScript](./src/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303.ts) | Hard  |
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304.ts) | Easy  |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309.js) | Hard  |
@@ -2601,7 +2622,7 @@
 | 面试题03_04 | Implement Queue using Stacks LCCI | [JavaScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/面试题03_04.implement-queue-using-stacks-lcci.100170.js) [TypeScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/面试题03_04.implement-queue-using-stacks-lcci.100170.ts) | Easy  |
 | 面试题03_05 | Sort of Stacks LCCI | [JavaScript](./src/面试题03_05.sort-of-stacks-lcci.100173/面试题03_05.sort-of-stacks-lcci.100173.js) [TypeScript](./src/面试题03_05.sort-of-stacks-lcci.100173/面试题03_05.sort-of-stacks-lcci.100173.ts) | Medium  |
 | 面试题03_06 | Animal Shelter LCCI | [JavaScript](./src/面试题03_06.animal-shelter-lcci.100228/面试题03_06.animal-shelter-lcci.100228.js) [TypeScript](./src/面试题03_06.animal-shelter-lcci.100228/面试题03_06.animal-shelter-lcci.100228.ts) | Easy  |
-| 面试题04_01 | Route Between Nodes LCCI | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.ts) | Medium  |
+| 面试题04_01 | Route Between Nodes LCCI  | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.ts) | Medium  |
 | 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./src/面试题04_02.minimum-height-tree-lcci.100174/面试题04_02.minimum-height-tree-lcci.100174.js) [TypeScript](./src/面试题04_02.minimum-height-tree-lcci.100174/面试题04_02.minimum-height-tree-lcci.100174.ts) | Easy  |
 | 面试题04_03 | List of Depth LCCI | [JavaScript](./src/面试题04_03.list-of-depth-lcci.100175/面试题04_03.list-of-depth-lcci.100175.js) [TypeScript](./src/面试题04_03.list-of-depth-lcci.100175/面试题04_03.list-of-depth-lcci.100175.ts) | Medium  |
 | 面试题04_04 | Check Balance LCCI | [JavaScript](./src/面试题04_04.check-balance-lcci.100176/面试题04_04.check-balance-lcci.100176.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/面试题04_04.check-balance-lcci.100176.ts) | Easy  |
