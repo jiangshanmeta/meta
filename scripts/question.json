@@ -1082,7 +1082,7 @@
         "index": "0155",
         "title": "Min Stack",
         "title_slug": "min-stack",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 156,
@@ -5009,7 +5009,7 @@
         "index": "0716",
         "title": "Max Stack",
         "title_slug": "max-stack",
-        "difficulty": 1
+        "difficulty": 3
     },
     {
         "id": 717,
@@ -5499,7 +5499,7 @@
         "index": "0786",
         "title": "K-th Smallest Prime Fraction",
         "title_slug": "k-th-smallest-prime-fraction",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 803,
@@ -16074,8 +16074,8 @@
     {
         "id": 2056,
         "index": "2297",
-        "title": "Jump Game IX",
-        "title_slug": "jump-game-ix",
+        "title": "Jump Game VIII",
+        "title_slug": "jump-game-viii",
         "difficulty": 2
     },
     {
@@ -16140,6 +16140,153 @@
         "title": "Naming a Company",
         "title_slug": "naming-a-company",
         "difficulty": 3
+    },
+    {
+        "id": 2065,
+        "index": "2307",
+        "title": "Check for Contradictions in Equations",
+        "title_slug": "check-for-contradictions-in-equations",
+        "difficulty": 3
+    },
+    {
+        "id": 2441,
+        "index": "2308",
+        "title": "Arrange Table by Gender",
+        "title_slug": "arrange-table-by-gender",
+        "difficulty": 2
+    },
+    {
+        "id": 1363,
+        "index": "2309",
+        "title": "Greatest English Letter in Upper and Lower Case",
+        "title_slug": "greatest-english-letter-in-upper-and-lower-case",
+        "difficulty": 1
+    },
+    {
+        "id": 1334,
+        "index": "2310",
+        "title": "Sum of Numbers With Units Digit K",
+        "title_slug": "sum-of-numbers-with-units-digit-k",
+        "difficulty": 2
+    },
+    {
+        "id": 2395,
+        "index": "2311",
+        "title": "Longest Binary Subsequence Less Than or Equal to K",
+        "title_slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 1376,
+        "index": "2312",
+        "title": "Selling Pieces of Wood",
+        "title_slug": "selling-pieces-of-wood",
+        "difficulty": 3
+    },
+    {
+        "id": 2399,
+        "index": "2313",
+        "title": "Minimum Flips in Binary Tree to Get Result",
+        "title_slug": "minimum-flips-in-binary-tree-to-get-result",
+        "difficulty": 3
+    },
+    {
+        "id": 2446,
+        "index": "2314",
+        "title": "The First Day of the Maximum Recorded Degree in Each City",
+        "title_slug": "the-first-day-of-the-maximum-recorded-degree-in-each-city",
+        "difficulty": 2
+    },
+    {
+        "id": 2401,
+        "index": "2315",
+        "title": "Count Asterisks",
+        "title_slug": "count-asterisks",
+        "difficulty": 1
+    },
+    {
+        "id": 2403,
+        "index": "2316",
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "title_slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "difficulty": 2
+    },
+    {
+        "id": 2402,
+        "index": "2317",
+        "title": "Maximum XOR After Operations ",
+        "title_slug": "maximum-xor-after-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 2404,
+        "index": "2318",
+        "title": "Number of Distinct Roll Sequences",
+        "title_slug": "number-of-distinct-roll-sequences",
+        "difficulty": 3
+    },
+    {
+        "id": 2398,
+        "index": "2319",
+        "title": "Check if Matrix Is X-Matrix",
+        "title_slug": "check-if-matrix-is-x-matrix",
+        "difficulty": 1
+    },
+    {
+        "id": 2397,
+        "index": "2320",
+        "title": "Count Number of Ways to Place Houses",
+        "title_slug": "count-number-of-ways-to-place-houses",
+        "difficulty": 2
+    },
+    {
+        "id": 1348,
+        "index": "2321",
+        "title": "Maximum Score Of Spliced Array",
+        "title_slug": "maximum-score-of-spliced-array",
+        "difficulty": 3
+    },
+    {
+        "id": 2400,
+        "index": "2322",
+        "title": "Minimum Score After Removals on a Tree",
+        "title_slug": "minimum-score-after-removals-on-a-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 2458,
+        "index": "2323",
+        "title": "Find Minimum Time to Finish All Jobs II",
+        "title_slug": "find-minimum-time-to-finish-all-jobs-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2406,
+        "index": "6108",
+        "title": "Decode the Message",
+        "title_slug": "decode-the-message",
+        "difficulty": 1
+    },
+    {
+        "id": 2408,
+        "index": "6109",
+        "title": "Number of People Aware of a Secret",
+        "title_slug": "number-of-people-aware-of-a-secret",
+        "difficulty": 2
+    },
+    {
+        "id": 2409,
+        "index": "6110",
+        "title": "Number of Increasing Paths in a Grid",
+        "title_slug": "number-of-increasing-paths-in-a-grid",
+        "difficulty": 3
+    },
+    {
+        "id": 2411,
+        "index": "6111",
+        "title": "Spiral Matrix IV",
+        "title_slug": "spiral-matrix-iv",
+        "difficulty": 2
     },
     {
         "id": 100107,
@@ -16836,7 +16983,7 @@
     },
     {
         "id": 100301,
-        "index": "剑指Offer40",
+        "index": "面试题40",
         "title": "最小的k个数  LCOF",
         "title_slug": "zui-xiao-de-kge-shu-lcof",
         "difficulty": 1
@@ -18083,7 +18230,7 @@
     {
         "id": 100171,
         "index": "面试题04_01",
-        "title": "Route Between Nodes LCCI",
+        "title": "Route Between Nodes LCCI ",
         "title_slug": "route-between-nodes-lcci",
         "difficulty": 2
     },
