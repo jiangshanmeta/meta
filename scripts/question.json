@@ -16262,30 +16262,37 @@
     },
     {
         "id": 2406,
-        "index": "6108",
+        "index": "2325",
         "title": "Decode the Message",
         "title_slug": "decode-the-message",
         "difficulty": 1
     },
     {
+        "id": 2411,
+        "index": "2326",
+        "title": "Spiral Matrix IV",
+        "title_slug": "spiral-matrix-iv",
+        "difficulty": 2
+    },
+    {
         "id": 2408,
-        "index": "6109",
+        "index": "2327",
         "title": "Number of People Aware of a Secret",
         "title_slug": "number-of-people-aware-of-a-secret",
         "difficulty": 2
     },
     {
         "id": 2409,
-        "index": "6110",
+        "index": "2328",
         "title": "Number of Increasing Paths in a Grid",
         "title_slug": "number-of-increasing-paths-in-a-grid",
         "difficulty": 3
     },
     {
-        "id": 2411,
-        "index": "6111",
-        "title": "Spiral Matrix IV",
-        "title_slug": "spiral-matrix-iv",
+        "id": 2452,
+        "index": "2329",
+        "title": "Product Sales Analysis V",
+        "title_slug": "product-sales-analysis-v",
         "difficulty": 2
     },
     {
