@@ -2227,7 +2227,7 @@
 | 2207 | Maximize Number of Subsequences in a String |  | Medium  |
 | 2208 | Minimum Operations to Halve Array Sum |  | Medium  |
 | 2209 | Minimum White Tiles After Covering With Carpets |  | Hard  |
-| 2210 | Count Hills and Valleys in an Array |  | Easy  |
+| 2210 | Count Hills and Valleys in an Array | [JavaScript](./src/2210.count-hills-and-valleys-in-an-array.2316/2210.count-hills-and-valleys-in-an-array.2316.js) [TypeScript](./src/2210.count-hills-and-valleys-in-an-array.2316/2210.count-hills-and-valleys-in-an-array.2316.ts) | Easy  |
 | 2211 | Count Collisions on a Road |  | Medium  |
 | 2212 | Maximum Points in an Archery Competition |  | Medium  |
 | 2213 | Longest Substring of One Repeating Character |  | Hard  |
@@ -2290,7 +2290,7 @@
 | 2270 | Number of Ways to Split Array |  | Medium  |
 | 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
 | 2272 | Substring With Largest Variance |  | Hard  |
-| 2273 | Find Resultant Array After Removing Anagrams |  | Easy  |
+| 2273 | Find Resultant Array After Removing Anagrams | [JavaScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/2273.find-resultant-array-after-removing-anagrams.1353.js) [TypeScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/2273.find-resultant-array-after-removing-anagrams.1353.ts) | Easy  |
 | 2274 | Maximum Consecutive Floors Without Special Floors |  | Medium  |
 | 2275 | Largest Combination With Bitwise AND Greater Than Zero |  | Medium  |
 | 2276 | Count Integers in Intervals |  | Hard  |
