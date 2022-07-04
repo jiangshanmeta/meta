@@ -2194,7 +2194,7 @@
 | 2174 | Remove All Ones With Row and Column Flips II |  | Medium  |
 | 2175 | The Change in Global Rankings |  | Medium  |
 | 2176 | Count Equal and Divisible Pairs in an Array | [JavaScript](./src/2176.count-equal-and-divisible-pairs-in-an-array.2277/2176.count-equal-and-divisible-pairs-in-an-array.2277.js) [TypeScript](./src/2176.count-equal-and-divisible-pairs-in-an-array.2277/2176.count-equal-and-divisible-pairs-in-an-array.2277.ts) | Easy  |
-| 2177 | Find Three Consecutive Integers That Sum to a Given Number |  | Medium  |
+| 2177 | Find Three Consecutive Integers That Sum to a Given Number | [JavaScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278.js) [TypeScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278.ts) | Medium  |
 | 2178 | Maximum Split of Positive Even Integers |  | Medium  |
 | 2179 | Count Good Triplets in an Array |  | Hard  |
 | 2180 | Count Integers With Even Digit Sum |  | Easy  |
@@ -2326,7 +2326,7 @@
 | 2306 | Naming a Company |  | Hard  |
 | 2307 | Check for Contradictions in Equations |  | Hard  |
 | 2308 | Arrange Table by Gender |  | Medium  |
-| 2309 | Greatest English Letter in Upper and Lower Case |  | Easy  |
+| 2309 | Greatest English Letter in Upper and Lower Case | [JavaScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/2309.greatest-english-letter-in-upper-and-lower-case.1363.js) [TypeScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/2309.greatest-english-letter-in-upper-and-lower-case.1363.ts) | Easy  |
 | 2310 | Sum of Numbers With Units Digit K |  | Medium  |
 | 2311 | Longest Binary Subsequence Less Than or Equal to K |  | Medium  |
 | 2312 | Selling Pieces of Wood |  | Hard  |
@@ -2341,10 +2341,11 @@
 | 2321 | Maximum Score Of Spliced Array |  | Hard  |
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
-| 6108 | Decode the Message |  | Easy  |
-| 6109 | Number of People Aware of a Secret |  | Medium  |
-| 6110 | Number of Increasing Paths in a Grid |  | Hard  |
-| 6111 | Spiral Matrix IV |  | Medium  |
+| 2325 | Decode the Message |  | Easy  |
+| 2326 | Spiral Matrix IV |  | Medium  |
+| 2327 | Number of People Aware of a Secret |  | Medium  |
+| 2328 | Number of Increasing Paths in a Grid |  | Hard  |
+| 2329 | Product Sales Analysis V |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
