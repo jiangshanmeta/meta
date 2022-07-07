@@ -2336,12 +2336,12 @@
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [JavaScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403.js) [TypeScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403.ts) | Medium  |
 | 2317 | Maximum XOR After Operations  |  | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
-| 2319 | Check if Matrix Is X-Matrix |  | Easy  |
+| 2319 | Check if Matrix Is X-Matrix | [JavaScript](./src/2319.check-if-matrix-is-x-matrix.2398/2319.check-if-matrix-is-x-matrix.2398.js) [TypeScript](./src/2319.check-if-matrix-is-x-matrix.2398/2319.check-if-matrix-is-x-matrix.2398.ts) | Easy  |
 | 2320 | Count Number of Ways to Place Houses |  | Medium  |
 | 2321 | Maximum Score Of Spliced Array |  | Hard  |
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
-| 2325 | Decode the Message |  | Easy  |
+| 2325 | Decode the Message | [JavaScript](./src/2325.decode-the-message.2406/2325.decode-the-message.2406.js) [TypeScript](./src/2325.decode-the-message.2406/2325.decode-the-message.2406.ts) | Easy  |
 | 2326 | Spiral Matrix IV |  | Medium  |
 | 2327 | Number of People Aware of a Secret |  | Medium  |
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
