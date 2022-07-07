@@ -2332,8 +2332,8 @@
 | 2312 | Selling Pieces of Wood |  | Hard  |
 | 2313 | Minimum Flips in Binary Tree to Get Result |  | Hard  |
 | 2314 | The First Day of the Maximum Recorded Degree in Each City |  | Medium  |
-| 2315 | Count Asterisks |  | Easy  |
-| 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph |  | Medium  |
+| 2315 | Count Asterisks | [JavaScript](./src/2315.count-asterisks.2401/2315.count-asterisks.2401.js) [TypeScript](./src/2315.count-asterisks.2401/2315.count-asterisks.2401.ts) | Easy  |
+| 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [JavaScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403.js) [TypeScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403.ts) | Medium  |
 | 2317 | Maximum XOR After Operations  |  | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
 | 2319 | Check if Matrix Is X-Matrix |  | Easy  |
