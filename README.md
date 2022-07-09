@@ -2389,13 +2389,13 @@
 | LCP41 | 黑白翻转棋 |  | Medium  |
 | LCP42 | 玩具套圈 |  | Hard  |
 | LCP43 | 十字路口的交通 |  | Hard  |
-| LCP44 | 开幕式焰火 |  | Easy  |
+| LCP44 | 开幕式焰火 | [JavaScript](./src/LCP44.sZ59z6.1000362/LCP44.sZ59z6.1000362.js) [TypeScript](./src/LCP44.sZ59z6.1000362/LCP44.sZ59z6.1000362.ts) | Easy  |
 | LCP45 | 自行车炫技赛场 |  | Medium  |
 | LCP46 | 志愿者调配 |  | Medium  |
 | LCP47 | 入场安检 |  | Hard  |
 | LCP48 | 无限棋局 |  | Hard  |
 | LCP49 | 环形闯关游戏 |  | Hard  |
-| LCP50 | 宝石补给 |  | Easy  |
+| LCP50 | 宝石补给 | [JavaScript](./src/LCP50.WHnhjV.1000433/LCP50.WHnhjV.1000433.js) [TypeScript](./src/LCP50.WHnhjV.1000433/LCP50.WHnhjV.1000433.ts) | Easy  |
 | LCP51 | 烹饪料理 |  | Easy  |
 | LCP52 | 二叉搜索树染色 |  | Medium  |
 | LCP53 | 守护太空城 |  | Hard  |
