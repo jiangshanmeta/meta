@@ -3922,8 +3922,8 @@
     {
         "id": 561,
         "index": "0561",
-        "title": "Array Partition I",
-        "title_slug": "array-partition-i",
+        "title": "Array Partition",
+        "title_slug": "array-partition",
         "difficulty": 1
     },
     {
@@ -5961,7 +5961,7 @@
         "index": "0852",
         "title": "Peak Index in a Mountain Array",
         "title_slug": "peak-index-in-a-mountain-array",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 883,
@@ -16261,6 +16261,13 @@
         "difficulty": 2
     },
     {
+        "id": 2451,
+        "index": "2324",
+        "title": "Product Sales Analysis IV",
+        "title_slug": "product-sales-analysis-iv",
+        "difficulty": 2
+    },
+    {
         "id": 2406,
         "index": "2325",
         "title": "Decode the Message",
@@ -16294,6 +16301,69 @@
         "title": "Product Sales Analysis V",
         "title_slug": "product-sales-analysis-v",
         "difficulty": 2
+    },
+    {
+        "id": 2468,
+        "index": "2330",
+        "title": "Valid Palindrome IV",
+        "title_slug": "valid-palindrome-iv",
+        "difficulty": 2
+    },
+    {
+        "id": 2416,
+        "index": "2331",
+        "title": "Evaluate Boolean Binary Tree",
+        "title_slug": "evaluate-boolean-binary-tree",
+        "difficulty": 1
+    },
+    {
+        "id": 2417,
+        "index": "2332",
+        "title": "The Latest Time to Catch a Bus",
+        "title_slug": "the-latest-time-to-catch-a-bus",
+        "difficulty": 2
+    },
+    {
+        "id": 2418,
+        "index": "2333",
+        "title": "Minimum Sum of Squared Difference",
+        "title_slug": "minimum-sum-of-squared-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 2419,
+        "index": "2334",
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "title_slug": "subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": 3
+    },
+    {
+        "id": 2412,
+        "index": "2335",
+        "title": "Minimum Amount of Time to Fill Cups",
+        "title_slug": "minimum-amount-of-time-to-fill-cups",
+        "difficulty": 1
+    },
+    {
+        "id": 2413,
+        "index": "2336",
+        "title": "Smallest Number in Infinite Set",
+        "title_slug": "smallest-number-in-infinite-set",
+        "difficulty": 2
+    },
+    {
+        "id": 2414,
+        "index": "2337",
+        "title": "Move Pieces to Obtain a String",
+        "title_slug": "move-pieces-to-obtain-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2415,
+        "index": "2338",
+        "title": "Count the Number of Ideal Arrays",
+        "title_slug": "count-the-number-of-ideal-arrays",
+        "difficulty": 3
     },
     {
         "id": 100107,
