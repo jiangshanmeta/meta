@@ -2400,7 +2400,7 @@
 | LCP52 | 二叉搜索树染色 |  | Medium  |
 | LCP53 | 守护太空城 |  | Hard  |
 | LCP54 | 夺回据点 |  | Hard  |
-| LCP55 | 采集果实 |  | Easy  |
+| LCP55 | 采集果实 | [JavaScript](./src/LCP55.PTXy4P.1000438/LCP55.PTXy4P.1000438.js) [TypeScript](./src/LCP55.PTXy4P.1000438/LCP55.PTXy4P.1000438.ts) | Easy  |
 | LCP56 | 信物传送 |  | Medium  |
 | LCP57 | 打地鼠 |  | Hard  |
 | LCP58 | 积木拼接 |  | Hard  |
@@ -2580,7 +2580,7 @@
 | 剑指OfferII097 | 子序列的数目 |  | Hard  |
 | 剑指OfferII098 | 路径的数目 | [JavaScript](./src/剑指OfferII098.2AoeFn.1000345/剑指OfferII098.2AoeFn.1000345.js) [TypeScript](./src/剑指OfferII098.2AoeFn.1000345/剑指OfferII098.2AoeFn.1000345.ts) | Medium  |
 | 剑指OfferII099 | 最小路径之和 | [JavaScript](./src/剑指OfferII099.0i0mDW.1000285/剑指OfferII099.0i0mDW.1000285.js) [TypeScript](./src/剑指OfferII099.0i0mDW.1000285/剑指OfferII099.0i0mDW.1000285.ts) | Medium  |
-| 剑指OfferII100 | 三角形中最小路径之和 |  | Medium  |
+| 剑指OfferII100 | 三角形中最小路径之和 | [JavaScript](./src/剑指OfferII100.IlPe0q.1000286/剑指OfferII100.IlPe0q.1000286.js) [TypeScript](./src/剑指OfferII100.IlPe0q.1000286/剑指OfferII100.IlPe0q.1000286.ts) | Medium  |
 | 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/剑指OfferII101.NUPfPr.1000287.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/剑指OfferII101.NUPfPr.1000287.ts) | Easy  |
 | 剑指OfferII102 | 加减的目标值 |  | Medium  |
 | 剑指OfferII103 | 最少的硬币数目 |  | Medium  |
