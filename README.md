@@ -578,7 +578,7 @@
 | 0558 | Logical OR of Two Binary Grids Represented as Quad-Trees | [JavaScript](./src/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773.js) | Medium  |
 | 0559 | Maximum Depth of N-ary Tree | [JavaScript](./src/0559.maximum-depth-of-n-ary-tree.774/0559.maximum-depth-of-n-ary-tree.774.js) [TypeScript](./src/0559.maximum-depth-of-n-ary-tree.774/0559.maximum-depth-of-n-ary-tree.774.ts) | Easy  |
 | 0560 | Subarray Sum Equals K | [JavaScript](./src/0560.subarray-sum-equals-k.560/0560.subarray-sum-equals-k.560.js) [TypeScript](./src/0560.subarray-sum-equals-k.560/0560.subarray-sum-equals-k.560.ts) | Medium  |
-| 0561 | Array Partition I | [JavaScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.js) [TypeScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.ts) | Easy  |
+| 0561 | Array Partition | [JavaScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.js) [TypeScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.ts) | Easy  |
 | 0562 | Longest Line of Consecutive One in Matrix |  | Medium  |
 | 0563 | Binary Tree Tilt | [JavaScript](./src/0563.binary-tree-tilt.563/0563.binary-tree-tilt.563.js) [TypeScript](./src/0563.binary-tree-tilt.563/0563.binary-tree-tilt.563.ts) | Easy  |
 | 0564 | Find the Closest Palindrome |  | Hard  |
@@ -869,7 +869,7 @@
 | 0849 | Maximize Distance to Closest Person | [JavaScript](./src/0849.maximize-distance-to-closest-person.879/0849.maximize-distance-to-closest-person.879.js) [TypeScript](./src/0849.maximize-distance-to-closest-person.879/0849.maximize-distance-to-closest-person.879.ts) | Medium  |
 | 0850 | Rectangle Area II |  | Hard  |
 | 0851 | Loud and Rich | [JavaScript](./src/0851.loud-and-rich.881/0851.loud-and-rich.881.js) | Medium  |
-| 0852 | Peak Index in a Mountain Array | [JavaScript](./src/0852.peak-index-in-a-mountain-array.882/0852.peak-index-in-a-mountain-array.882.js) [TypeScript](./src/0852.peak-index-in-a-mountain-array.882/0852.peak-index-in-a-mountain-array.882.ts) | Easy  |
+| 0852 | Peak Index in a Mountain Array | [JavaScript](./src/0852.peak-index-in-a-mountain-array.882/0852.peak-index-in-a-mountain-array.882.js) [TypeScript](./src/0852.peak-index-in-a-mountain-array.882/0852.peak-index-in-a-mountain-array.882.ts) | Medium  |
 | 0853 | Car Fleet | [JavaScript](./src/0853.car-fleet.883/0853.car-fleet.883.js) | Medium  |
 | 0854 | K-Similar Strings |  | Hard  |
 | 0855 | Exam Room |  | Medium  |
@@ -2341,11 +2341,21 @@
 | 2321 | Maximum Score Of Spliced Array |  | Hard  |
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
+| 2324 | Product Sales Analysis IV |  | Medium  |
 | 2325 | Decode the Message | [JavaScript](./src/2325.decode-the-message.2406/2325.decode-the-message.2406.js) [TypeScript](./src/2325.decode-the-message.2406/2325.decode-the-message.2406.ts) | Easy  |
 | 2326 | Spiral Matrix IV |  | Medium  |
 | 2327 | Number of People Aware of a Secret |  | Medium  |
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
 | 2329 | Product Sales Analysis V |  | Medium  |
+| 2330 | Valid Palindrome IV |  | Medium  |
+| 2331 | Evaluate Boolean Binary Tree | [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/2331.evaluate-boolean-binary-tree.2416.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/2331.evaluate-boolean-binary-tree.2416.ts) | Easy  |
+| 2332 | The Latest Time to Catch a Bus |  | Medium  |
+| 2333 | Minimum Sum of Squared Difference |  | Medium  |
+| 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
+| 2335 | Minimum Amount of Time to Fill Cups |  | Easy  |
+| 2336 | Smallest Number in Infinite Set |  | Medium  |
+| 2337 | Move Pieces to Obtain a String |  | Medium  |
+| 2338 | Count the Number of Ideal Arrays |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2587,7 +2597,7 @@
 | 剑指OfferII104 | 排列的数目 |  | Medium  |
 | 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/剑指OfferII105.ZL6zAn.1000291.ts) | Medium  |
 | 剑指OfferII106 | 二分图 |  | Medium  |
-| 剑指OfferII107 | 矩阵中的距离 |  | Medium  |
+| 剑指OfferII107 | 矩阵中的距离 | [JavaScript](./src/剑指OfferII107.2bCMpM.1000296/剑指OfferII107.2bCMpM.1000296.js) [TypeScript](./src/剑指OfferII107.2bCMpM.1000296/剑指OfferII107.2bCMpM.1000296.ts) | Medium  |
 | 剑指OfferII108 | 单词演变 |  | Hard  |
 | 剑指OfferII109 | 开密码锁 |  | Medium  |
 | 剑指OfferII110 | 所有路径 |  | Medium  |
