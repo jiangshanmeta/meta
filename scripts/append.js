@@ -18,26 +18,28 @@ function append () {
         return;
     }
 
-    const ext = process.argv[3];
-    if (!extSet.has(ext)) {
-        console.log('扩展名无效');
-        return;
-    }
+    const exts = process.argv.slice(3);
+    for (const ext of exts) {
+        if (!extSet.has(ext)) {
+            console.log('扩展名无效');
+            continue;
+        }
 
-    const folderName = `${question.index}.${question.title_slug}.${question.id}`;
-    const folderDir = path.join(__dirname, '../src', folderName);
-    if (!fs.existsSync(folderDir)) {
-        fs.mkdirSync(folderDir);
-    }
+        const folderName = `${question.index}.${question.title_slug}.${question.id}`;
+        const folderDir = path.join(__dirname, '../src', folderName);
+        if (!fs.existsSync(folderDir)) {
+            fs.mkdirSync(folderDir);
+        }
 
-    const fileName = `${folderName}.${ext}`;
-    const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
-    if (fs.existsSync(file)) {
-        console.log('文件已存在');
-        return;
-    }
+        const fileName = `${folderName}.${ext}`;
+        const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
+        if (fs.existsSync(file)) {
+            console.log('文件已存在');
+            continue;
+        }
 
-    fs.writeFileSync(file, '');
+        fs.writeFileSync(file, '');
+    }
 }
 
 append();
