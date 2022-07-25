@@ -2364,14 +2364,14 @@
 | 2344 | Minimum Deletions to Make Array Divisible |  | Hard  |
 | 2345 | Finding the Number of Visible Mountains |  | Medium  |
 | 2346 | Compute the Rank as a Percentage |  | Medium  |
-| 6124 | First Letter to Appear Twice |  | Easy  |
-| 6125 | Equal Row and Column Pairs |  | Medium  |
-| 6126 | Design a Food Rating System |  | Medium  |
-| 6127 | Number of Excellent Pairs |  | Hard  |
-| 6128 | Best Poker Hand |  | Easy  |
-| 6129 | Number of Zero-Filled Subarrays |  | Medium  |
-| 6130 | Design a Number Container System |  | Medium  |
-| 6131 | Shortest Impossible Sequence of Rolls |  | Hard  |
+| 2347 | Best Poker Hand | [JavaScript](./src/2347.best-poker-hand.2433/2347.best-poker-hand.2433.js) [TypeScript](./src/2347.best-poker-hand.2433/2347.best-poker-hand.2433.ts) | Easy  |
+| 2348 | Number of Zero-Filled Subarrays | [JavaScript](./src/2348.number-of-zero-filled-subarrays.2432/2348.number-of-zero-filled-subarrays.2432.js) [TypeScript](./src/2348.number-of-zero-filled-subarrays.2432/2348.number-of-zero-filled-subarrays.2432.ts) | Medium  |
+| 2349 | Design a Number Container System |  | Medium  |
+| 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
+| 2351 | First Letter to Appear Twice |  | Easy  |
+| 2352 | Equal Row and Column Pairs |  | Medium  |
+| 2353 | Design a Food Rating System |  | Medium  |
+| 2354 | Number of Excellent Pairs |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
