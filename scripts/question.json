@@ -37,7 +37,7 @@
     {
         "id": 6,
         "index": "0006",
-        "title": "ZigZag Conversion",
+        "title": "Zigzag Conversion",
         "title_slug": "zigzag-conversion",
         "difficulty": 2
     },
@@ -368,7 +368,7 @@
         "index": "0053",
         "title": "Maximum Subarray",
         "title_slug": "maximum-subarray",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 54,
@@ -3168,7 +3168,7 @@
         "index": "0453",
         "title": "Minimum Moves to Equal Array Elements",
         "title_slug": "minimum-moves-to-equal-array-elements",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 454,
@@ -6556,7 +6556,7 @@
         "index": "0937",
         "title": "Reorder Data in Log Files",
         "title_slug": "reorder-data-in-log-files",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 975,
@@ -10084,7 +10084,7 @@
         "index": "1441",
         "title": "Build an Array With Stack Operations",
         "title_slug": "build-an-array-with-stack-operations",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 1553,
@@ -16478,6 +16478,230 @@
         "difficulty": 3
     },
     {
+        "id": 2490,
+        "index": "2355",
+        "title": "Maximum Number of Books You Can Take",
+        "title_slug": "maximum-number-of-books-you-can-take",
+        "difficulty": 3
+    },
+    {
+        "id": 2495,
+        "index": "2356",
+        "title": "Number of Unique Subjects Taught by Each Teacher",
+        "title_slug": "number-of-unique-subjects-taught-by-each-teacher",
+        "difficulty": 1
+    },
+    {
+        "id": 2436,
+        "index": "2357",
+        "title": "Make Array Zero by Subtracting Equal Amounts",
+        "title_slug": "make-array-zero-by-subtracting-equal-amounts",
+        "difficulty": 1
+    },
+    {
+        "id": 2437,
+        "index": "2358",
+        "title": "Maximum Number of Groups Entering a Competition",
+        "title_slug": "maximum-number-of-groups-entering-a-competition",
+        "difficulty": 2
+    },
+    {
+        "id": 2438,
+        "index": "2359",
+        "title": "Find Closest Node to Given Two Nodes",
+        "title_slug": "find-closest-node-to-given-two-nodes",
+        "difficulty": 2
+    },
+    {
+        "id": 2439,
+        "index": "2360",
+        "title": "Longest Cycle in a Graph",
+        "title_slug": "longest-cycle-in-a-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 2500,
+        "index": "2361",
+        "title": "Minimum Costs Using the Train Line",
+        "title_slug": "minimum-costs-using-the-train-line",
+        "difficulty": 3
+    },
+    {
+        "id": 2501,
+        "index": "2362",
+        "title": "Generate the Invoice",
+        "title_slug": "generate-the-invoice",
+        "difficulty": 3
+    },
+    {
+        "id": 2447,
+        "index": "2363",
+        "title": "Merge Similar Items",
+        "title_slug": "merge-similar-items",
+        "difficulty": 1
+    },
+    {
+        "id": 2448,
+        "index": "2364",
+        "title": "Count Number of Bad Pairs",
+        "title_slug": "count-number-of-bad-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 2483,
+        "index": "2365",
+        "title": "Task Scheduler II",
+        "title_slug": "task-scheduler-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2450,
+        "index": "2366",
+        "title": "Minimum Replacements to Sort the Array",
+        "title_slug": "minimum-replacements-to-sort-the-array",
+        "difficulty": 3
+    },
+    {
+        "id": 2442,
+        "index": "2367",
+        "title": "Number of Arithmetic Triplets",
+        "title_slug": "number-of-arithmetic-triplets",
+        "difficulty": 1
+    },
+    {
+        "id": 2445,
+        "index": "2368",
+        "title": "Reachable Nodes With Restrictions",
+        "title_slug": "reachable-nodes-with-restrictions",
+        "difficulty": 2
+    },
+    {
+        "id": 2443,
+        "index": "2369",
+        "title": "Check if There is a Valid Partition For The Array",
+        "title_slug": "check-if-there-is-a-valid-partition-for-the-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2444,
+        "index": "2370",
+        "title": "Longest Ideal Subsequence",
+        "title_slug": "longest-ideal-subsequence",
+        "difficulty": 2
+    },
+    {
+        "id": 2506,
+        "index": "2371",
+        "title": "Minimize Maximum Value in a Grid",
+        "title_slug": "minimize-maximum-value-in-a-grid",
+        "difficulty": 3
+    },
+    {
+        "id": 2515,
+        "index": "2372",
+        "title": "Calculate the Influence of Each Salesperson",
+        "title_slug": "calculate-the-influence-of-each-salesperson",
+        "difficulty": 2
+    },
+    {
+        "id": 2454,
+        "index": "2373",
+        "title": "Largest Local Values in a Matrix",
+        "title_slug": "largest-local-values-in-a-matrix",
+        "difficulty": 1
+    },
+    {
+        "id": 2455,
+        "index": "2374",
+        "title": "Node With Highest Edge Score",
+        "title_slug": "node-with-highest-edge-score",
+        "difficulty": 2
+    },
+    {
+        "id": 2456,
+        "index": "2375",
+        "title": "Construct Smallest Number From DI String",
+        "title_slug": "construct-smallest-number-from-di-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2457,
+        "index": "2376",
+        "title": "Count Special Integers",
+        "title_slug": "count-special-integers",
+        "difficulty": 3
+    },
+    {
+        "id": 2516,
+        "index": "2377",
+        "title": "Sort the Olympic Table",
+        "title_slug": "sort-the-olympic-table",
+        "difficulty": 1
+    },
+    {
+        "id": 2517,
+        "index": "2378",
+        "title": "Choose Edges to Maximize Score in a Tree",
+        "title_slug": "choose-edges-to-maximize-score-in-a-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 2463,
+        "index": "2379",
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "difficulty": 1
+    },
+    {
+        "id": 2464,
+        "index": "2380",
+        "title": "Time Needed to Rearrange a Binary String",
+        "title_slug": "time-needed-to-rearrange-a-binary-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2465,
+        "index": "2381",
+        "title": "Shifting Letters II",
+        "title_slug": "shifting-letters-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 2466,
+        "index": "2382",
+        "title": "Maximum Segment Sum After Removals",
+        "title_slug": "maximum-segment-sum-after-removals",
+        "difficulty": 3
+    },
+    {
+        "id": 2459,
+        "index": "2383",
+        "title": "Minimum Hours of Training to Win a Competition",
+        "title_slug": "minimum-hours-of-training-to-win-a-competition",
+        "difficulty": 1
+    },
+    {
+        "id": 2475,
+        "index": "2384",
+        "title": "Largest Palindromic Number",
+        "title_slug": "largest-palindromic-number",
+        "difficulty": 2
+    },
+    {
+        "id": 2461,
+        "index": "2385",
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "title_slug": "amount-of-time-for-binary-tree-to-be-infected",
+        "difficulty": 2
+    },
+    {
+        "id": 2462,
+        "index": "2386",
+        "title": "Find the K-Sum of an Array",
+        "title_slug": "find-the-k-sum-of-an-array",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -16962,14 +17186,14 @@
     },
     {
         "id": 100279,
-        "index": "面试题12",
+        "index": "剑指Offer12",
         "title": "矩阵中的路径  LCOF",
         "title_slug": "ju-zhen-zhong-de-lu-jing-lcof",
         "difficulty": 2
     },
     {
         "id": 100281,
-        "index": "剑指Offer13",
+        "index": "面试题13",
         "title": "机器人的运动范围  LCOF",
         "title_slug": "ji-qi-ren-de-yun-dong-fan-wei-lcof",
         "difficulty": 2
@@ -17172,7 +17396,7 @@
     },
     {
         "id": 100301,
-        "index": "面试题40",
+        "index": "剑指Offer40",
         "title": "最小的k个数  LCOF",
         "title_slug": "zui-xiao-de-kge-shu-lcof",
         "difficulty": 1
@@ -17256,7 +17480,7 @@
     },
     {
         "id": 100326,
-        "index": "面试题52",
+        "index": "剑指Offer52",
         "title": "两个链表的第一个公共节点  LCOF",
         "title_slug": "liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof",
         "difficulty": 1
