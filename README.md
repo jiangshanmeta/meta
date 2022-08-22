@@ -578,7 +578,7 @@
 | 0558 | Logical OR of Two Binary Grids Represented as Quad-Trees | [JavaScript](./src/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773.js) | Medium  |
 | 0559 | Maximum Depth of N-ary Tree | [JavaScript](./src/0559.maximum-depth-of-n-ary-tree.774/0559.maximum-depth-of-n-ary-tree.774.js) [TypeScript](./src/0559.maximum-depth-of-n-ary-tree.774/0559.maximum-depth-of-n-ary-tree.774.ts) | Easy  |
 | 0560 | Subarray Sum Equals K | [JavaScript](./src/0560.subarray-sum-equals-k.560/0560.subarray-sum-equals-k.560.js) [TypeScript](./src/0560.subarray-sum-equals-k.560/0560.subarray-sum-equals-k.560.ts) | Medium  |
-| 0561 | Array Partition | [JavaScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.js) [TypeScript](./src/0561.array-partition-i.561/0561.array-partition-i.561.ts) | Easy  |
+| 0561 | Array Partition | [JavaScript](./src/0561.array-partition.561/0561.array-partition.561.js) [TypeScript](./src/0561.array-partition.561/0561.array-partition.561.ts) | Easy  |
 | 0562 | Longest Line of Consecutive One in Matrix |  | Medium  |
 | 0563 | Binary Tree Tilt | [JavaScript](./src/0563.binary-tree-tilt.563/0563.binary-tree-tilt.563.js) [TypeScript](./src/0563.binary-tree-tilt.563/0563.binary-tree-tilt.563.ts) | Easy  |
 | 0564 | Find the Closest Palindrome |  | Hard  |
@@ -2474,7 +2474,7 @@
 | 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277.js) [TypeScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277.ts) | Easy  |
 | 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./src/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278.js) | Easy  |
 | 剑指Offer12 | 矩阵中的路径  LCOF | [JavaScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279.js) [TypeScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279.ts) | Medium  |
-| 面试题13 | 机器人的运动范围  LCOF |  | Medium  |
+| 面试题13 | 机器人的运动范围  LCOF | [JavaScript](./src/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281.js) [TypeScript](./src/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281.ts) | Medium  |
 | 剑指Offer14-I | 剪绳子  LCOF | [JavaScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/剑指Offer14-I.jian-sheng-zi-lcof.100284.js) [TypeScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/剑指Offer14-I.jian-sheng-zi-lcof.100284.ts) | Medium  |
 | 剑指Offer14-II | 剪绳子 II LCOF | [JavaScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285.js) [TypeScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285.ts) | Medium  |
 | 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./src/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292.js) | Easy  |
