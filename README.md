@@ -2352,7 +2352,7 @@
 | 2332 | The Latest Time to Catch a Bus |  | Medium  |
 | 2333 | Minimum Sum of Squared Difference |  | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
-| 2335 | Minimum Amount of Time to Fill Cups |  | Easy  |
+| 2335 | Minimum Amount of Time to Fill Cups | [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/2335.minimum-amount-of-time-to-fill-cups.2412.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/2335.minimum-amount-of-time-to-fill-cups.2412.ts) | Easy  |
 | 2336 | Smallest Number in Infinite Set |  | Medium  |
 | 2337 | Move Pieces to Obtain a String |  | Medium  |
 | 2338 | Count the Number of Ideal Arrays |  | Hard  |
@@ -2368,13 +2368,13 @@
 | 2348 | Number of Zero-Filled Subarrays | [JavaScript](./src/2348.number-of-zero-filled-subarrays.2432/2348.number-of-zero-filled-subarrays.2432.js) [TypeScript](./src/2348.number-of-zero-filled-subarrays.2432/2348.number-of-zero-filled-subarrays.2432.ts) | Medium  |
 | 2349 | Design a Number Container System |  | Medium  |
 | 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
-| 2351 | First Letter to Appear Twice |  | Easy  |
+| 2351 | First Letter to Appear Twice | [JavaScript](./src/2351.first-letter-to-appear-twice.2427/2351.first-letter-to-appear-twice.2427.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/2351.first-letter-to-appear-twice.2427.ts) | Easy  |
 | 2352 | Equal Row and Column Pairs |  | Medium  |
 | 2353 | Design a Food Rating System |  | Medium  |
 | 2354 | Number of Excellent Pairs |  | Hard  |
 | 2355 | Maximum Number of Books You Can Take |  | Hard  |
 | 2356 | Number of Unique Subjects Taught by Each Teacher |  | Easy  |
-| 2357 | Make Array Zero by Subtracting Equal Amounts |  | Easy  |
+| 2357 | Make Array Zero by Subtracting Equal Amounts | [JavaScript](./src/2357.make-array-zero-by-subtracting-equal-amounts.2436/2357.make-array-zero-by-subtracting-equal-amounts.2436.js) [TypeScript](./src/2357.make-array-zero-by-subtracting-equal-amounts.2436/2357.make-array-zero-by-subtracting-equal-amounts.2436.ts) | Easy  |
 | 2358 | Maximum Number of Groups Entering a Competition |  | Medium  |
 | 2359 | Find Closest Node to Given Two Nodes |  | Medium  |
 | 2360 | Longest Cycle in a Graph |  | Hard  |
@@ -2396,7 +2396,7 @@
 | 2376 | Count Special Integers |  | Hard  |
 | 2377 | Sort the Olympic Table |  | Easy  |
 | 2378 | Choose Edges to Maximize Score in a Tree |  | Medium  |
-| 2379 | Minimum Recolors to Get K Consecutive Black Blocks |  | Easy  |
+| 2379 | Minimum Recolors to Get K Consecutive Black Blocks | [JavaScript](./src/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463.js) [TypeScript](./src/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463.ts) | Easy  |
 | 2380 | Time Needed to Rearrange a Binary String |  | Medium  |
 | 2381 | Shifting Letters II |  | Medium  |
 | 2382 | Maximum Segment Sum After Removals |  | Hard  |
