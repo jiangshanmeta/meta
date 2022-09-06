@@ -191,9 +191,9 @@
     {
         "id": 28,
         "index": "0028",
-        "title": "Implement strStr()",
-        "title_slug": "implement-strstr",
-        "difficulty": 1
+        "title": "Find the Index of the First Occurrence in a String",
+        "title_slug": "find-the-index-of-the-first-occurrence-in-a-string",
+        "difficulty": 2
     },
     {
         "id": 29,
@@ -1656,7 +1656,7 @@
         "index": "0237",
         "title": "Delete Node in a Linked List",
         "title_slug": "delete-node-in-a-linked-list",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 238,
@@ -16702,6 +16702,118 @@
         "difficulty": 3
     },
     {
+        "id": 2522,
+        "index": "2387",
+        "title": "Median of a Row Wise Sorted Matrix",
+        "title_slug": "median-of-a-row-wise-sorted-matrix",
+        "difficulty": 2
+    },
+    {
+        "id": 2523,
+        "index": "2388",
+        "title": "Change Null Values in a Table to the Previous Value",
+        "title_slug": "change-null-values-in-a-table-to-the-previous-value",
+        "difficulty": 2
+    },
+    {
+        "id": 2469,
+        "index": "2389",
+        "title": "Longest Subsequence With Limited Sum",
+        "title_slug": "longest-subsequence-with-limited-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 2470,
+        "index": "2390",
+        "title": "Removing Stars From a String",
+        "title_slug": "removing-stars-from-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2471,
+        "index": "2391",
+        "title": "Minimum Amount of Time to Collect Garbage",
+        "title_slug": "minimum-amount-of-time-to-collect-garbage",
+        "difficulty": 2
+    },
+    {
+        "id": 2472,
+        "index": "2392",
+        "title": "Build a Matrix With Conditions",
+        "title_slug": "build-a-matrix-with-conditions",
+        "difficulty": 3
+    },
+    {
+        "id": 2535,
+        "index": "2393",
+        "title": "Count Strictly Increasing Subarrays",
+        "title_slug": "count-strictly-increasing-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2534,
+        "index": "2394",
+        "title": "Employees With Deductions",
+        "title_slug": "employees-with-deductions",
+        "difficulty": 2
+    },
+    {
+        "id": 2480,
+        "index": "2395",
+        "title": "Find Subarrays With Equal Sum",
+        "title_slug": "find-subarrays-with-equal-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 2481,
+        "index": "2396",
+        "title": "Strictly Palindromic Number",
+        "title_slug": "strictly-palindromic-number",
+        "difficulty": 2
+    },
+    {
+        "id": 2482,
+        "index": "2397",
+        "title": "Maximum Rows Covered by Columns",
+        "title_slug": "maximum-rows-covered-by-columns",
+        "difficulty": 2
+    },
+    {
+        "id": 2449,
+        "index": "2398",
+        "title": "Maximum Number of Robots Within Budget",
+        "title_slug": "maximum-number-of-robots-within-budget",
+        "difficulty": 3
+    },
+    {
+        "id": 2476,
+        "index": "2399",
+        "title": "Check Distances Between Same Letters",
+        "title_slug": "check-distances-between-same-letters",
+        "difficulty": 1
+    },
+    {
+        "id": 2477,
+        "index": "2400",
+        "title": "Number of Ways to Reach a Position After Exactly k Steps",
+        "title_slug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+        "difficulty": 2
+    },
+    {
+        "id": 2478,
+        "index": "2401",
+        "title": "Longest Nice Subarray",
+        "title_slug": "longest-nice-subarray",
+        "difficulty": 2
+    },
+    {
+        "id": 2479,
+        "index": "2402",
+        "title": "Meeting Rooms III",
+        "title_slug": "meeting-rooms-iii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -17563,18 +17675,18 @@
         "difficulty": 1
     },
     {
+        "id": 100337,
+        "index": "面试题59-II",
+        "title": "队列的最大值 LCOF",
+        "title_slug": "dui-lie-de-zui-da-zhi-lcof",
+        "difficulty": 2
+    },
+    {
         "id": 100336,
         "index": "剑指Offer59-I",
         "title": "滑动窗口的最大值 LCOF",
         "title_slug": "hua-dong-chuang-kou-de-zui-da-zhi-lcof",
         "difficulty": 3
-    },
-    {
-        "id": 100337,
-        "index": "剑指Offer59-II",
-        "title": "队列的最大值 LCOF",
-        "title_slug": "dui-lie-de-zui-da-zhi-lcof",
-        "difficulty": 2
     },
     {
         "id": 100339,
