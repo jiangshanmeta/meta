@@ -45,7 +45,7 @@
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/0025.reverse-nodes-in-k-group.25.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/0025.reverse-nodes-in-k-group.25.ts) | Hard  |
 | 0026 | Remove Duplicates from Sorted Array | [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.ts) | Easy  |
 | 0027 | Remove Element | [JavaScript](./src/0027.remove-element.27/0027.remove-element.27.js) [TypeScript](./src/0027.remove-element.27/0027.remove-element.27.ts) | Easy  |
-| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.implement-strstr.28/0028.implement-strstr.28.js) | Medium  |
+| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/0028.find-the-index-of-the-first-occurrence-in-a-string.28.js) | Medium  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/0029.divide-two-integers.29.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
 | 0031 | Next Permutation | [JavaScript](./src/0031.next-permutation.31/0031.next-permutation.31.js) | Medium  |
@@ -2543,7 +2543,7 @@
 | 剑指Offer57-II | 和为s的连续正数序列 LCOF | [JavaScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.js) [TypeScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.ts) | Easy  |
 | 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.ts) | Easy  |
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.ts) | Easy  |
-| 面试题59-II | 队列的最大值 LCOF |  | Medium  |
+| 面试题59-II | 队列的最大值 LCOF | [JavaScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337.js) [TypeScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337.ts) | Medium  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.ts) | Hard  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339.js) | Medium  |
 | 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.ts) | Easy  |
