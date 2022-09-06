@@ -2197,7 +2197,7 @@
 | 2177 | Find Three Consecutive Integers That Sum to a Given Number | [JavaScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278.js) [TypeScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278.ts) | Medium  |
 | 2178 | Maximum Split of Positive Even Integers |  | Medium  |
 | 2179 | Count Good Triplets in an Array |  | Hard  |
-| 2180 | Count Integers With Even Digit Sum |  | Easy  |
+| 2180 | Count Integers With Even Digit Sum | [JavaScript](./src/2180.count-integers-with-even-digit-sum.2298/2180.count-integers-with-even-digit-sum.2298.js) [TypeScript](./src/2180.count-integers-with-even-digit-sum.2298/2180.count-integers-with-even-digit-sum.2298.ts) | Easy  |
 | 2181 | Merge Nodes in Between Zeros | [JavaScript](./src/2181.merge-nodes-in-between-zeros.2299/2181.merge-nodes-in-between-zeros.2299.js) [TypeScript](./src/2181.merge-nodes-in-between-zeros.2299/2181.merge-nodes-in-between-zeros.2299.ts) | Medium  |
 | 2182 | Construct String With Repeat Limit |  | Medium  |
 | 2183 | Count Array Pairs Divisible by K |  | Hard  |
@@ -2390,7 +2390,7 @@
 | 2370 | Longest Ideal Subsequence |  | Medium  |
 | 2371 | Minimize Maximum Value in a Grid |  | Hard  |
 | 2372 | Calculate the Influence of Each Salesperson |  | Medium  |
-| 2373 | Largest Local Values in a Matrix |  | Easy  |
+| 2373 | Largest Local Values in a Matrix | [JavaScript](./src/2373.largest-local-values-in-a-matrix.2454/2373.largest-local-values-in-a-matrix.2454.js) [TypeScript](./src/2373.largest-local-values-in-a-matrix.2454/2373.largest-local-values-in-a-matrix.2454.ts) | Easy  |
 | 2374 | Node With Highest Edge Score |  | Medium  |
 | 2375 | Construct Smallest Number From DI String |  | Medium  |
 | 2376 | Count Special Integers |  | Hard  |
