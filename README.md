@@ -45,7 +45,7 @@
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/0025.reverse-nodes-in-k-group.25.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/0025.reverse-nodes-in-k-group.25.ts) | Hard  |
 | 0026 | Remove Duplicates from Sorted Array | [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.ts) | Easy  |
 | 0027 | Remove Element | [JavaScript](./src/0027.remove-element.27/0027.remove-element.27.js) [TypeScript](./src/0027.remove-element.27/0027.remove-element.27.ts) | Easy  |
-| 0028 | Implement strStr() | [JavaScript](./src/0028.implement-strstr.28/0028.implement-strstr.28.js) | Easy  |
+| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.implement-strstr.28/0028.implement-strstr.28.js) | Medium  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/0029.divide-two-integers.29.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
 | 0031 | Next Permutation | [JavaScript](./src/0031.next-permutation.31/0031.next-permutation.31.js) | Medium  |
@@ -254,7 +254,7 @@
 | 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/0234.palindrome-linked-list.234.js) [TypeScript](./src/0234.palindrome-linked-list.234/0234.palindrome-linked-list.234.ts) | Easy  |
 | 0235 | Lowest Common Ancestor of a Binary Search Tree | [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.ts) | Easy  |
 | 0236 | Lowest Common Ancestor of a Binary Tree | [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/0236.lowest-common-ancestor-of-a-binary-tree.236.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/0236.lowest-common-ancestor-of-a-binary-tree.236.ts) | Medium  |
-| 0237 | Delete Node in a Linked List | [JavaScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.ts) | Easy  |
+| 0237 | Delete Node in a Linked List | [JavaScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.ts) | Medium  |
 | 0238 | Product of Array Except Self | [JavaScript](./src/0238.product-of-array-except-self.238/0238.product-of-array-except-self.238.js) [TypeScript](./src/0238.product-of-array-except-self.238/0238.product-of-array-except-self.238.ts) | Medium  |
 | 0239 | Sliding Window Maximum | [JavaScript](./src/0239.sliding-window-maximum.239/0239.sliding-window-maximum.239.js) [TypeScript](./src/0239.sliding-window-maximum.239/0239.sliding-window-maximum.239.ts) | Hard  |
 | 0240 | Search a 2D Matrix II | [JavaScript](./src/0240.search-a-2d-matrix-ii.240/0240.search-a-2d-matrix-ii.240.js) [TypeScript](./src/0240.search-a-2d-matrix-ii.240/0240.search-a-2d-matrix-ii.240.ts) | Medium  |
@@ -1434,7 +1434,7 @@
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [JavaScript](./src/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.1515/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.1515.js) | Medium  |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | [JavaScript](./src/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.1516/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.1516.js) | Medium  |
 | 1416 | Restore The Array | [JavaScript](./src/1416.restore-the-array.1517/1416.restore-the-array.1517.js) | Hard  |
-| 1417 | Reformat The String | [JavaScript](./src/1417.reformat-the-string.1532/1417.reformat-the-string.1532.js) | Easy  |
+| 1417 | Reformat The String | [JavaScript](./src/1417.reformat-the-string.1532/1417.reformat-the-string.1532.js) [TypeScript](./src/1417.reformat-the-string.1532/1417.reformat-the-string.1532.ts) | Easy  |
 | 1418 | Display Table of Food Orders in a Restaurant | [JavaScript](./src/1418.display-table-of-food-orders-in-a-restaurant.1533/1418.display-table-of-food-orders-in-a-restaurant.1533.js) | Medium  |
 | 1419 | Minimum Number of Frogs Croaking | [JavaScript](./src/1419.minimum-number-of-frogs-croaking.1534/1419.minimum-number-of-frogs-croaking.1534.js) | Medium  |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons |  | Hard  |
@@ -2404,6 +2404,22 @@
 | 2384 | Largest Palindromic Number |  | Medium  |
 | 2385 | Amount of Time for Binary Tree to Be Infected |  | Medium  |
 | 2386 | Find the K-Sum of an Array |  | Hard  |
+| 2387 | Median of a Row Wise Sorted Matrix |  | Medium  |
+| 2388 | Change Null Values in a Table to the Previous Value |  | Medium  |
+| 2389 | Longest Subsequence With Limited Sum | [JavaScript](./src/2389.longest-subsequence-with-limited-sum.2469/2389.longest-subsequence-with-limited-sum.2469.js) [TypeScript](./src/2389.longest-subsequence-with-limited-sum.2469/2389.longest-subsequence-with-limited-sum.2469.ts) | Easy  |
+| 2390 | Removing Stars From a String |  | Medium  |
+| 2391 | Minimum Amount of Time to Collect Garbage |  | Medium  |
+| 2392 | Build a Matrix With Conditions |  | Hard  |
+| 2393 | Count Strictly Increasing Subarrays |  | Medium  |
+| 2394 | Employees With Deductions |  | Medium  |
+| 2395 | Find Subarrays With Equal Sum | [JavaScript](./src/2395.find-subarrays-with-equal-sum.2480/2395.find-subarrays-with-equal-sum.2480.js) [TypeScript](./src/2395.find-subarrays-with-equal-sum.2480/2395.find-subarrays-with-equal-sum.2480.ts) | Easy  |
+| 2396 | Strictly Palindromic Number |  | Medium  |
+| 2397 | Maximum Rows Covered by Columns |  | Medium  |
+| 2398 | Maximum Number of Robots Within Budget |  | Hard  |
+| 2399 | Check Distances Between Same Letters | [JavaScript](./src/2399.check-distances-between-same-letters.2476/2399.check-distances-between-same-letters.2476.js) [TypeScript](./src/2399.check-distances-between-same-letters.2476/2399.check-distances-between-same-letters.2476.ts) | Easy  |
+| 2400 | Number of Ways to Reach a Position After Exactly k Steps |  | Medium  |
+| 2401 | Longest Nice Subarray |  | Medium  |
+| 2402 | Meeting Rooms III |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2527,8 +2543,8 @@
 | 剑指Offer57-II | 和为s的连续正数序列 LCOF | [JavaScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.js) [TypeScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324.ts) | Easy  |
 | 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328.ts) | Easy  |
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330.ts) | Easy  |
+| 面试题59-II | 队列的最大值 LCOF |  | Medium  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336.ts) | Hard  |
-| 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.js) [TypeScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337.ts) | Medium  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339.js) | Medium  |
 | 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341.ts) | Easy  |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
