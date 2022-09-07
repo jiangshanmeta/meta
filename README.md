@@ -391,7 +391,7 @@
 | 0371 | Sum of Two Integers | [JavaScript](./src/0371.sum-of-two-integers.371/0371.sum-of-two-integers.371.js) [TypeScript](./src/0371.sum-of-two-integers.371/0371.sum-of-two-integers.371.ts) | Medium  |
 | 0372 | Super Pow | [JavaScript](./src/0372.super-pow.372/0372.super-pow.372.js) | Medium  |
 | 0373 | Find K Pairs with Smallest Sums | [JavaScript](./src/0373.find-k-pairs-with-smallest-sums.373/0373.find-k-pairs-with-smallest-sums.373.js) | Medium  |
-| 0374 | Guess Number Higher or Lower | [JavaScript](./src/0374.guess-number-higher-or-lower.374/0374.guess-number-higher-or-lower.374.js) [Python3](./src/0374.guess-number-higher-or-lower.374/0374.guess-number-higher-or-lower.374.py) | Easy  |
+| 0374 | Guess Number Higher or Lower | [JavaScript](./src/0374.guess-number-higher-or-lower.374/0374.guess-number-higher-or-lower.374.js) [Python3](./src/0374.guess-number-higher-or-lower.374/0374.guess-number-higher-or-lower.374.py) [TypeScript](./src/0374.guess-number-higher-or-lower.374/0374.guess-number-higher-or-lower.374.ts) | Easy  |
 | 0375 | Guess Number Higher or Lower II | [JavaScript](./src/0375.guess-number-higher-or-lower-ii.375/0375.guess-number-higher-or-lower-ii.375.js) | Medium  |
 | 0376 | Wiggle Subsequence | [JavaScript](./src/0376.wiggle-subsequence.376/0376.wiggle-subsequence.376.js) | Medium  |
 | 0377 | Combination Sum IV | [JavaScript](./src/0377.combination-sum-iv.377/0377.combination-sum-iv.377.js) [TypeScript](./src/0377.combination-sum-iv.377/0377.combination-sum-iv.377.ts) | Medium  |
@@ -1439,7 +1439,7 @@
 | 1419 | Minimum Number of Frogs Croaking | [JavaScript](./src/1419.minimum-number-of-frogs-croaking.1534/1419.minimum-number-of-frogs-croaking.1534.js) | Medium  |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons |  | Hard  |
 | 1421 | NPV Queries |  | Easy  |
-| 1422 | Maximum Score After Splitting a String | [JavaScript](./src/1422.maximum-score-after-splitting-a-string.1537/1422.maximum-score-after-splitting-a-string.1537.js) | Easy  |
+| 1422 | Maximum Score After Splitting a String | [JavaScript](./src/1422.maximum-score-after-splitting-a-string.1537/1422.maximum-score-after-splitting-a-string.1537.js) [TypeScript](./src/1422.maximum-score-after-splitting-a-string.1537/1422.maximum-score-after-splitting-a-string.1537.ts) | Easy  |
 | 1423 | Maximum Points You Can Obtain from Cards | [JavaScript](./src/1423.maximum-points-you-can-obtain-from-cards.1538/1423.maximum-points-you-can-obtain-from-cards.1538.js) | Medium  |
 | 1424 | Diagonal Traverse II | [JavaScript](./src/1424.diagonal-traverse-ii.1539/1424.diagonal-traverse-ii.1539.js) | Medium  |
 | 1425 | Constrained Subsequence Sum | [JavaScript](./src/1425.constrained-subsequence-sum.1286/1425.constrained-subsequence-sum.1286.js) | Hard  |
