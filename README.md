@@ -512,7 +512,7 @@
 | 0492 | Construct the Rectangle | [JavaScript](./src/0492.construct-the-rectangle.492/0492.construct-the-rectangle.492.js) [TypeScript](./src/0492.construct-the-rectangle.492/0492.construct-the-rectangle.492.ts) | Easy  |
 | 0493 | Reverse Pairs | [JavaScript](./src/0493.reverse-pairs.493/0493.reverse-pairs.493.js) | Hard  |
 | 0494 | Target Sum | [JavaScript](./src/0494.target-sum.494/0494.target-sum.494.js) | Medium  |
-| 0495 | Teemo Attacking | [JavaScript](./src/0495.teemo-attacking.495/0495.teemo-attacking.495.js) | Easy  |
+| 0495 | Teemo Attacking | [JavaScript](./src/0495.teemo-attacking.495/0495.teemo-attacking.495.js) [TypeScript](./src/0495.teemo-attacking.495/0495.teemo-attacking.495.ts) | Easy  |
 | 0496 | Next Greater Element I | [JavaScript](./src/0496.next-greater-element-i.496/0496.next-greater-element-i.496.js) [TypeScript](./src/0496.next-greater-element-i.496/0496.next-greater-element-i.496.ts) | Easy  |
 | 0497 | Random Point in Non-overlapping Rectangles | [JavaScript](./src/0497.random-point-in-non-overlapping-rectangles.914/0497.random-point-in-non-overlapping-rectangles.914.js) | Medium  |
 | 0498 | Diagonal Traverse | [JavaScript](./src/0498.diagonal-traverse.498/0498.diagonal-traverse.498.js) | Medium  |
