@@ -1861,7 +1861,7 @@
 | 1841 | League Statistics |  | Medium  |
 | 1842 | Next Palindrome Using Same Digits |  | Hard  |
 | 1843 | Suspicious Bank Accounts |  | Medium  |
-| 1844 | Replace All Digits with Characters | [JavaScript](./src/1844.replace-all-digits-with-characters.1954/1844.replace-all-digits-with-characters.1954.js) | Easy  |
+| 1844 | Replace All Digits with Characters | [JavaScript](./src/1844.replace-all-digits-with-characters.1954/1844.replace-all-digits-with-characters.1954.js) [TypeScript](./src/1844.replace-all-digits-with-characters.1954/1844.replace-all-digits-with-characters.1954.ts) | Easy  |
 | 1845 | Seat Reservation Manager | [JavaScript](./src/1845.seat-reservation-manager.1955/1845.seat-reservation-manager.1955.js) | Medium  |
 | 1846 | Maximum Element After Decreasing and Rearranging | [JavaScript](./src/1846.maximum-element-after-decreasing-and-rearranging.1956/1846.maximum-element-after-decreasing-and-rearranging.1956.js) | Medium  |
 | 1847 | Closest Room |  | Hard  |
