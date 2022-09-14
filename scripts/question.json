@@ -1537,7 +1537,7 @@
         "index": "0220",
         "title": "Contains Duplicate III",
         "title_slug": "contains-duplicate-iii",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 221,
@@ -1642,7 +1642,7 @@
         "index": "0235",
         "title": "Lowest Common Ancestor of a Binary Search Tree",
         "title_slug": "lowest-common-ancestor-of-a-binary-search-tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 236,
@@ -16814,6 +16814,41 @@
         "difficulty": 3
     },
     {
+        "id": 2537,
+        "index": "2403",
+        "title": "Minimum Time to Kill All Monsters",
+        "title_slug": "minimum-time-to-kill-all-monsters",
+        "difficulty": 3
+    },
+    {
+        "id": 2486,
+        "index": "2404",
+        "title": "Most Frequent Even Element",
+        "title_slug": "most-frequent-even-element",
+        "difficulty": 1
+    },
+    {
+        "id": 2487,
+        "index": "2405",
+        "title": "Optimal Partition of String",
+        "title_slug": "optimal-partition-of-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2488,
+        "index": "2406",
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "title_slug": "divide-intervals-into-minimum-number-of-groups",
+        "difficulty": 2
+    },
+    {
+        "id": 2526,
+        "index": "2407",
+        "title": "Longest Increasing Subsequence II",
+        "title_slug": "longest-increasing-subsequence-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -18755,7 +18790,7 @@
     {
         "id": 100171,
         "index": "面试题04_01",
-        "title": "Route Between Nodes LCCI ",
+        "title": "Route Between Nodes LCCI",
         "title_slug": "route-between-nodes-lcci",
         "difficulty": 2
     },
