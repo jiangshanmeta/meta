@@ -237,7 +237,7 @@
 | 0217 | Contains Duplicate | [JavaScript](./src/0217.contains-duplicate.217/0217.contains-duplicate.217.js) [TypeScript](./src/0217.contains-duplicate.217/0217.contains-duplicate.217.ts) | Easy  |
 | 0218 | The Skyline Problem |  | Hard  |
 | 0219 | Contains Duplicate II | [JavaScript](./src/0219.contains-duplicate-ii.219/0219.contains-duplicate-ii.219.js) [TypeScript](./src/0219.contains-duplicate-ii.219/0219.contains-duplicate-ii.219.ts) | Easy  |
-| 0220 | Contains Duplicate III | [JavaScript](./src/0220.contains-duplicate-iii.220/0220.contains-duplicate-iii.220.js) | Medium  |
+| 0220 | Contains Duplicate III | [JavaScript](./src/0220.contains-duplicate-iii.220/0220.contains-duplicate-iii.220.js) | Hard  |
 | 0221 | Maximal Square | [JavaScript](./src/0221.maximal-square.221/0221.maximal-square.221.js) [TypeScript](./src/0221.maximal-square.221/0221.maximal-square.221.ts) | Medium  |
 | 0222 | Count Complete Tree Nodes | [JavaScript](./src/0222.count-complete-tree-nodes.222/0222.count-complete-tree-nodes.222.js) [TypeScript](./src/0222.count-complete-tree-nodes.222/0222.count-complete-tree-nodes.222.ts) | Medium  |
 | 0223 | Rectangle Area | [JavaScript](./src/0223.rectangle-area.223/0223.rectangle-area.223.js) | Medium  |
@@ -252,7 +252,7 @@
 | 0232 | Implement Queue using Stacks | [JavaScript](./src/0232.implement-queue-using-stacks.232/0232.implement-queue-using-stacks.232.js) [TypeScript](./src/0232.implement-queue-using-stacks.232/0232.implement-queue-using-stacks.232.ts) | Easy  |
 | 0233 | Number of Digit One | [JavaScript](./src/0233.number-of-digit-one.233/0233.number-of-digit-one.233.js) | Hard  |
 | 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/0234.palindrome-linked-list.234.js) [TypeScript](./src/0234.palindrome-linked-list.234/0234.palindrome-linked-list.234.ts) | Easy  |
-| 0235 | Lowest Common Ancestor of a Binary Search Tree | [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.ts) | Easy  |
+| 0235 | Lowest Common Ancestor of a Binary Search Tree | [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/0235.lowest-common-ancestor-of-a-binary-search-tree.235.ts) | Medium  |
 | 0236 | Lowest Common Ancestor of a Binary Tree | [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/0236.lowest-common-ancestor-of-a-binary-tree.236.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/0236.lowest-common-ancestor-of-a-binary-tree.236.ts) | Medium  |
 | 0237 | Delete Node in a Linked List | [JavaScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.ts) | Medium  |
 | 0238 | Product of Array Except Self | [JavaScript](./src/0238.product-of-array-except-self.238/0238.product-of-array-except-self.238.js) [TypeScript](./src/0238.product-of-array-except-self.238/0238.product-of-array-except-self.238.ts) | Medium  |
@@ -2420,6 +2420,11 @@
 | 2400 | Number of Ways to Reach a Position After Exactly k Steps |  | Medium  |
 | 2401 | Longest Nice Subarray |  | Medium  |
 | 2402 | Meeting Rooms III |  | Hard  |
+| 2403 | Minimum Time to Kill All Monsters |  | Hard  |
+| 2404 | Most Frequent Even Element | [JavaScript](./src/2404.most-frequent-even-element.2486/2404.most-frequent-even-element.2486.js) [TypeScript](./src/2404.most-frequent-even-element.2486/2404.most-frequent-even-element.2486.ts) | Easy  |
+| 2405 | Optimal Partition of String |  | Medium  |
+| 2406 | Divide Intervals Into Minimum Number of Groups |  | Medium  |
+| 2407 | Longest Increasing Subsequence II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2697,7 +2702,7 @@
 | 面试题03_04 | Implement Queue using Stacks LCCI | [JavaScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/面试题03_04.implement-queue-using-stacks-lcci.100170.js) [TypeScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/面试题03_04.implement-queue-using-stacks-lcci.100170.ts) | Easy  |
 | 面试题03_05 | Sort of Stacks LCCI | [JavaScript](./src/面试题03_05.sort-of-stacks-lcci.100173/面试题03_05.sort-of-stacks-lcci.100173.js) [TypeScript](./src/面试题03_05.sort-of-stacks-lcci.100173/面试题03_05.sort-of-stacks-lcci.100173.ts) | Medium  |
 | 面试题03_06 | Animal Shelter LCCI | [JavaScript](./src/面试题03_06.animal-shelter-lcci.100228/面试题03_06.animal-shelter-lcci.100228.js) [TypeScript](./src/面试题03_06.animal-shelter-lcci.100228/面试题03_06.animal-shelter-lcci.100228.ts) | Easy  |
-| 面试题04_01 | Route Between Nodes LCCI  | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.ts) | Medium  |
+| 面试题04_01 | Route Between Nodes LCCI | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/面试题04_01.route-between-nodes-lcci.100171.ts) | Medium  |
 | 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./src/面试题04_02.minimum-height-tree-lcci.100174/面试题04_02.minimum-height-tree-lcci.100174.js) [TypeScript](./src/面试题04_02.minimum-height-tree-lcci.100174/面试题04_02.minimum-height-tree-lcci.100174.ts) | Easy  |
 | 面试题04_03 | List of Depth LCCI | [JavaScript](./src/面试题04_03.list-of-depth-lcci.100175/面试题04_03.list-of-depth-lcci.100175.js) [TypeScript](./src/面试题04_03.list-of-depth-lcci.100175/面试题04_03.list-of-depth-lcci.100175.ts) | Medium  |
 | 面试题04_04 | Check Balance LCCI | [JavaScript](./src/面试题04_04.check-balance-lcci.100176/面试题04_04.check-balance-lcci.100176.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/面试题04_04.check-balance-lcci.100176.ts) | Easy  |
