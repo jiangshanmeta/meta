@@ -10215,8 +10215,8 @@
     {
         "id": 1556,
         "index": "1460",
-        "title": "Make Two Arrays Equal by Reversing Sub-arrays",
-        "title_slug": "make-two-arrays-equal-by-reversing-sub-arrays",
+        "title": "Make Two Arrays Equal by Reversing Subarrays",
+        "title_slug": "make-two-arrays-equal-by-reversing-subarrays",
         "difficulty": 1
     },
     {
@@ -16846,6 +16846,69 @@
         "index": "2407",
         "title": "Longest Increasing Subsequence II",
         "title_slug": "longest-increasing-subsequence-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 2555,
+        "index": "2408",
+        "title": "Design SQL",
+        "title_slug": "design-sql",
+        "difficulty": 2
+    },
+    {
+        "id": 2496,
+        "index": "2409",
+        "title": "Count Days Spent Together",
+        "title_slug": "count-days-spent-together",
+        "difficulty": 1
+    },
+    {
+        "id": 2497,
+        "index": "2410",
+        "title": "Maximum Matching of Players With Trainers",
+        "title_slug": "maximum-matching-of-players-with-trainers",
+        "difficulty": 2
+    },
+    {
+        "id": 2498,
+        "index": "2411",
+        "title": "Smallest Subarrays With Maximum Bitwise OR",
+        "title_slug": "smallest-subarrays-with-maximum-bitwise-or",
+        "difficulty": 2
+    },
+    {
+        "id": 2499,
+        "index": "2412",
+        "title": "Minimum Money Required Before Transactions",
+        "title_slug": "minimum-money-required-before-transactions",
+        "difficulty": 3
+    },
+    {
+        "id": 2491,
+        "index": "2413",
+        "title": "Smallest Even Multiple",
+        "title_slug": "smallest-even-multiple",
+        "difficulty": 1
+    },
+    {
+        "id": 2492,
+        "index": "2414",
+        "title": "Length of the Longest Alphabetical Continuous Substring",
+        "title_slug": "length-of-the-longest-alphabetical-continuous-substring",
+        "difficulty": 2
+    },
+    {
+        "id": 2493,
+        "index": "2415",
+        "title": "Reverse Odd Levels of Binary Tree",
+        "title_slug": "reverse-odd-levels-of-binary-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 2494,
+        "index": "2416",
+        "title": "Sum of Prefix Scores of Strings",
+        "title_slug": "sum-of-prefix-scores-of-strings",
         "difficulty": 3
     },
     {
