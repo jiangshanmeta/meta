@@ -1477,7 +1477,7 @@
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | [JavaScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.js) [Python3](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.py) [TypeScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.ts) | Medium  |
 | 1458 | Max Dot Product of Two Subsequences | [JavaScript](./src/1458.max-dot-product-of-two-subsequences.1569/1458.max-dot-product-of-two-subsequences.1569.js) | Hard  |
 | 1459 | Rectangles Area |  | Medium  |
-| 1460 | Make Two Arrays Equal by Reversing Sub-arrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556.js) | Easy  |
+| 1460 | Make Two Arrays Equal by Reversing Subarrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556.js) | Easy  |
 | 1461 | Check If a String Contains All Binary Codes of Size K | [JavaScript](./src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557.js) | Medium  |
 | 1462 | Course Schedule IV |  | Medium  |
 | 1463 | Cherry Pickup II |  | Hard  |
@@ -2425,6 +2425,15 @@
 | 2405 | Optimal Partition of String |  | Medium  |
 | 2406 | Divide Intervals Into Minimum Number of Groups |  | Medium  |
 | 2407 | Longest Increasing Subsequence II |  | Hard  |
+| 2408 | Design SQL |  | Medium  |
+| 2409 | Count Days Spent Together |  | Easy  |
+| 2410 | Maximum Matching of Players With Trainers |  | Medium  |
+| 2411 | Smallest Subarrays With Maximum Bitwise OR |  | Medium  |
+| 2412 | Minimum Money Required Before Transactions |  | Hard  |
+| 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/2413.smallest-even-multiple.2491.js) [TypeScript](./src/2413.smallest-even-multiple.2491/2413.smallest-even-multiple.2491.ts) | Easy  |
+| 2414 | Length of the Longest Alphabetical Continuous Substring |  | Medium  |
+| 2415 | Reverse Odd Levels of Binary Tree |  | Medium  |
+| 2416 | Sum of Prefix Scores of Strings |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
