@@ -12387,7 +12387,7 @@
         "index": "1770",
         "title": "Maximum Score from Performing Multiplication Operations",
         "title_slug": "maximum-score-from-performing-multiplication-operations",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 1897,
@@ -16912,6 +16912,41 @@
         "difficulty": 3
     },
     {
+        "id": 2560,
+        "index": "2417",
+        "title": "Closest Fair Integer",
+        "title_slug": "closest-fair-integer",
+        "difficulty": 2
+    },
+    {
+        "id": 2502,
+        "index": "2418",
+        "title": "Sort the People",
+        "title_slug": "sort-the-people",
+        "difficulty": 1
+    },
+    {
+        "id": 2503,
+        "index": "2419",
+        "title": "Longest Subarray With Maximum Bitwise AND",
+        "title_slug": "longest-subarray-with-maximum-bitwise-and",
+        "difficulty": 2
+    },
+    {
+        "id": 2504,
+        "index": "2420",
+        "title": "Find All Good Indices",
+        "title_slug": "find-all-good-indices",
+        "difficulty": 2
+    },
+    {
+        "id": 2505,
+        "index": "2421",
+        "title": "Number of Good Paths",
+        "title_slug": "number-of-good-paths",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -17329,6 +17364,41 @@
         "index": "LCP60",
         "title": "力扣泡泡龙",
         "title_slug": "WInSav",
+        "difficulty": 3
+    },
+    {
+        "id": 1000476,
+        "index": "LCP61",
+        "title": "气温变化趋势",
+        "title_slug": "6CE719",
+        "difficulty": 1
+    },
+    {
+        "id": 1000477,
+        "index": "LCP62",
+        "title": "交通枢纽",
+        "title_slug": "D9PW8w",
+        "difficulty": 2
+    },
+    {
+        "id": 1000480,
+        "index": "LCP63",
+        "title": "弹珠游戏",
+        "title_slug": "EXvqDp",
+        "difficulty": 2
+    },
+    {
+        "id": 1000479,
+        "index": "LCP64",
+        "title": "二叉树灯饰",
+        "title_slug": "U7WvvU",
+        "difficulty": 2
+    },
+    {
+        "id": 1000478,
+        "index": "LCP65",
+        "title": "舒适的湿度",
+        "title_slug": "3aqs1c",
         "difficulty": 3
     },
     {
