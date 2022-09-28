@@ -1477,7 +1477,7 @@
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | [JavaScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.js) [Python3](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.py) [TypeScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/1457.pseudo-palindromic-paths-in-a-binary-tree.1568.ts) | Medium  |
 | 1458 | Max Dot Product of Two Subsequences | [JavaScript](./src/1458.max-dot-product-of-two-subsequences.1569/1458.max-dot-product-of-two-subsequences.1569.js) | Hard  |
 | 1459 | Rectangles Area |  | Medium  |
-| 1460 | Make Two Arrays Equal by Reversing Subarrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556/1460.make-two-arrays-equal-by-reversing-sub-arrays.1556.js) | Easy  |
+| 1460 | Make Two Arrays Equal by Reversing Subarrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-subarrays.1556/1460.make-two-arrays-equal-by-reversing-subarrays.1556.js) | Easy  |
 | 1461 | Check If a String Contains All Binary Codes of Size K | [JavaScript](./src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557.js) | Medium  |
 | 1462 | Course Schedule IV |  | Medium  |
 | 1463 | Cherry Pickup II |  | Hard  |
@@ -1573,7 +1573,7 @@
 | 1553 | Minimum Number of Days to Eat N Oranges | [JavaScript](./src/1553.minimum-number-of-days-to-eat-n-oranges.1676/1553.minimum-number-of-days-to-eat-n-oranges.1676.js) | Hard  |
 | 1554 | Strings Differ by One Character | [JavaScript](./src/1554.strings-differ-by-one-character.1697/1554.strings-differ-by-one-character.1697.js) | Medium  |
 | 1555 | Bank Account Summary |  | Medium  |
-| 1556 | Thousand Separator | [JavaScript](./src/1556.thousand-separator.1660/1556.thousand-separator.1660.js) | Easy  |
+| 1556 | Thousand Separator | [JavaScript](./src/1556.thousand-separator.1660/1556.thousand-separator.1660.js) [TypeScript](./src/1556.thousand-separator.1660/1556.thousand-separator.1660.ts) | Easy  |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [JavaScript](./src/1557.minimum-number-of-vertices-to-reach-all-nodes.1661/1557.minimum-number-of-vertices-to-reach-all-nodes.1661.js) | Medium  |
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | [JavaScript](./src/1558.minimum-numbers-of-function-calls-to-make-target-array.1662/1558.minimum-numbers-of-function-calls-to-make-target-array.1662.js) | Medium  |
 | 1559 | Detect Cycles in 2D Grid |  | Medium  |
