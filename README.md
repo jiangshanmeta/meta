@@ -1787,7 +1787,7 @@
 | 1767 | Find the Subtasks That Did Not Execute |  | Hard  |
 | 1768 | Merge Strings Alternately | [JavaScript](./src/1768.merge-strings-alternately.1894/1768.merge-strings-alternately.1894.js) [TypeScript](./src/1768.merge-strings-alternately.1894/1768.merge-strings-alternately.1894.ts) | Easy  |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | [JavaScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895.js) [TypeScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895.ts) | Medium  |
-| 1770 | Maximum Score from Performing Multiplication Operations |  | Medium  |
+| 1770 | Maximum Score from Performing Multiplication Operations |  | Hard  |
 | 1771 | Maximize Palindrome Length From Subsequences |  | Hard  |
 | 1772 | Sort Features by Popularity | [JavaScript](./src/1772.sort-features-by-popularity.1919/1772.sort-features-by-popularity.1919.js) | Medium  |
 | 1773 | Count Items Matching a Rule | [JavaScript](./src/1773.count-items-matching-a-rule.1899/1773.count-items-matching-a-rule.1899.js) [TypeScript](./src/1773.count-items-matching-a-rule.1899/1773.count-items-matching-a-rule.1899.ts) | Easy  |
@@ -2434,6 +2434,11 @@
 | 2414 | Length of the Longest Alphabetical Continuous Substring |  | Medium  |
 | 2415 | Reverse Odd Levels of Binary Tree |  | Medium  |
 | 2416 | Sum of Prefix Scores of Strings |  | Hard  |
+| 2417 | Closest Fair Integer |  | Medium  |
+| 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/2418.sort-the-people.2502.js) [TypeScript](./src/2418.sort-the-people.2502/2418.sort-the-people.2502.ts) | Easy  |
+| 2419 | Longest Subarray With Maximum Bitwise AND |  | Medium  |
+| 2420 | Find All Good Indices |  | Medium  |
+| 2421 | Number of Good Paths |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.js) [TypeScript](./src/LCP01.guess-numbers.100107/LCP01.guess-numbers.100107.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/LCP02.deep-dark-fraction.100092.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2494,6 +2499,11 @@
 | LCP58 | 积木拼接 |  | Hard  |
 | LCP59 | 搭桥过河 |  | Hard  |
 | LCP60 | 力扣泡泡龙 |  | Hard  |
+| LCP61 | 气温变化趋势 |  | Easy  |
+| LCP62 | 交通枢纽 |  | Medium  |
+| LCP63 | 弹珠游戏 |  | Medium  |
+| LCP64 | 二叉树灯饰 |  | Medium  |
+| LCP65 | 舒适的湿度 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/剑指Offer05.ti-huan-kong-ge-lcof.100280.ts) | Easy  |
