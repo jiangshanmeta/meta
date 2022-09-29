@@ -2413,7 +2413,7 @@
 | 2393 | Count Strictly Increasing Subarrays |  | Medium  |
 | 2394 | Employees With Deductions |  | Medium  |
 | 2395 | Find Subarrays With Equal Sum | [JavaScript](./src/2395.find-subarrays-with-equal-sum.2480/solution.js) [TypeScript](./src/2395.find-subarrays-with-equal-sum.2480/solution.ts) | Easy  |
-| 2396 | Strictly Palindromic Number |  | Medium  |
+| 2396 | Strictly Palindromic Number | [JavaScript](./src/2396.strictly-palindromic-number.2481/solution.js) [TypeScript](./src/2396.strictly-palindromic-number.2481/solution.ts) | Medium  |
 | 2397 | Maximum Rows Covered by Columns |  | Medium  |
 | 2398 | Maximum Number of Robots Within Budget |  | Hard  |
 | 2399 | Check Distances Between Same Letters | [JavaScript](./src/2399.check-distances-between-same-letters.2476/solution.js) [TypeScript](./src/2399.check-distances-between-same-letters.2476/solution.ts) | Easy  |
@@ -2422,23 +2422,24 @@
 | 2402 | Meeting Rooms III |  | Hard  |
 | 2403 | Minimum Time to Kill All Monsters |  | Hard  |
 | 2404 | Most Frequent Even Element | [JavaScript](./src/2404.most-frequent-even-element.2486/solution.js) [TypeScript](./src/2404.most-frequent-even-element.2486/solution.ts) | Easy  |
-| 2405 | Optimal Partition of String |  | Medium  |
+| 2405 | Optimal Partition of String | [JavaScript](./src/2405.optimal-partition-of-string.2487/solution.js) [TypeScript](./src/2405.optimal-partition-of-string.2487/solution.ts) | Medium  |
 | 2406 | Divide Intervals Into Minimum Number of Groups |  | Medium  |
 | 2407 | Longest Increasing Subsequence II |  | Hard  |
 | 2408 | Design SQL |  | Medium  |
 | 2409 | Count Days Spent Together |  | Easy  |
-| 2410 | Maximum Matching of Players With Trainers |  | Medium  |
+| 2410 | Maximum Matching of Players With Trainers | [JavaScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.js) [TypeScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.ts) | Medium  |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR |  | Medium  |
 | 2412 | Minimum Money Required Before Transactions |  | Hard  |
 | 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
-| 2414 | Length of the Longest Alphabetical Continuous Substring |  | Medium  |
+| 2414 | Length of the Longest Alphabetical Continuous Substring | [JavaScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.js) [TypeScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.ts) | Medium  |
 | 2415 | Reverse Odd Levels of Binary Tree |  | Medium  |
 | 2416 | Sum of Prefix Scores of Strings |  | Hard  |
 | 2417 | Closest Fair Integer |  | Medium  |
 | 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
-| 2419 | Longest Subarray With Maximum Bitwise AND |  | Medium  |
+| 2419 | Longest Subarray With Maximum Bitwise AND | [JavaScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.js) [TypeScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.ts) | Medium  |
 | 2420 | Find All Good Indices |  | Medium  |
 | 2421 | Number of Good Paths |  | Hard  |
+| 2422 | Merge Operations to Turn Array Into a Palindrome |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
