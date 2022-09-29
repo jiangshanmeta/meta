@@ -16947,6 +16947,13 @@
         "difficulty": 3
     },
     {
+        "id": 2565,
+        "index": "2422",
+        "title": "Merge Operations to Turn Array Into a Palindrome",
+        "title_slug": "merge-operations-to-turn-array-into-a-palindrome",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
