@@ -2311,7 +2311,7 @@
 | 2291 | Maximum Profit From Trading Stocks |  | Medium  |
 | 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
 | 2293 | Min Max Game | [JavaScript](./src/2293.min-max-game.2386/solution.js) [TypeScript](./src/2293.min-max-game.2386/solution.ts) | Easy  |
-| 2294 | Partition Array Such That Maximum Difference Is K |  | Medium  |
+| 2294 | Partition Array Such That Maximum Difference Is K | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.js) [TypeScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.ts) | Medium  |
 | 2295 | Replace Elements in an Array |  | Medium  |
 | 2296 | Design a Text Editor |  | Hard  |
 | 2297 | Jump Game VIII |  | Medium  |
@@ -2381,7 +2381,7 @@
 | 2361 | Minimum Costs Using the Train Line |  | Hard  |
 | 2362 | Generate the Invoice |  | Hard  |
 | 2363 | Merge Similar Items | [JavaScript](./src/2363.merge-similar-items.2447/solution.js) [TypeScript](./src/2363.merge-similar-items.2447/solution.ts) | Easy  |
-| 2364 | Count Number of Bad Pairs |  | Medium  |
+| 2364 | Count Number of Bad Pairs | [JavaScript](./src/2364.count-number-of-bad-pairs.2448/solution.js) [TypeScript](./src/2364.count-number-of-bad-pairs.2448/solution.ts) | Medium  |
 | 2365 | Task Scheduler II |  | Medium  |
 | 2366 | Minimum Replacements to Sort the Array |  | Hard  |
 | 2367 | Number of Arithmetic Triplets | [JavaScript](./src/2367.number-of-arithmetic-triplets.2442/solution.js) [TypeScript](./src/2367.number-of-arithmetic-triplets.2442/solution.ts) | Easy  |
@@ -2407,7 +2407,7 @@
 | 2387 | Median of a Row Wise Sorted Matrix |  | Medium  |
 | 2388 | Change Null Values in a Table to the Previous Value |  | Medium  |
 | 2389 | Longest Subsequence With Limited Sum | [JavaScript](./src/2389.longest-subsequence-with-limited-sum.2469/solution.js) [TypeScript](./src/2389.longest-subsequence-with-limited-sum.2469/solution.ts) | Easy  |
-| 2390 | Removing Stars From a String |  | Medium  |
+| 2390 | Removing Stars From a String | [JavaScript](./src/2390.removing-stars-from-a-string.2470/solution.js) [TypeScript](./src/2390.removing-stars-from-a-string.2470/solution.ts) | Medium  |
 | 2391 | Minimum Amount of Time to Collect Garbage |  | Medium  |
 | 2392 | Build a Matrix With Conditions |  | Hard  |
 | 2393 | Count Strictly Increasing Subarrays |  | Medium  |
@@ -2426,13 +2426,13 @@
 | 2406 | Divide Intervals Into Minimum Number of Groups |  | Medium  |
 | 2407 | Longest Increasing Subsequence II |  | Hard  |
 | 2408 | Design SQL |  | Medium  |
-| 2409 | Count Days Spent Together |  | Easy  |
+| 2409 | Count Days Spent Together | [JavaScript](./src/2409.count-days-spent-together.2496/solution.js) [TypeScript](./src/2409.count-days-spent-together.2496/solution.ts) | Easy  |
 | 2410 | Maximum Matching of Players With Trainers | [JavaScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.js) [TypeScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.ts) | Medium  |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR |  | Medium  |
 | 2412 | Minimum Money Required Before Transactions |  | Hard  |
 | 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
 | 2414 | Length of the Longest Alphabetical Continuous Substring | [JavaScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.js) [TypeScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.ts) | Medium  |
-| 2415 | Reverse Odd Levels of Binary Tree |  | Medium  |
+| 2415 | Reverse Odd Levels of Binary Tree | [JavaScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.js) [TypeScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.ts) | Medium  |
 | 2416 | Sum of Prefix Scores of Strings |  | Hard  |
 | 2417 | Closest Fair Integer |  | Medium  |
 | 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
