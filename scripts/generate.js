@@ -25,8 +25,6 @@ const answersMap = fileList.reduce((obj, dirName) => {
     return obj;
 }, {});
 
-console.log(answersMap);
-
 const mergedQuestions = questions.map((question) => {
     const {
         index,
