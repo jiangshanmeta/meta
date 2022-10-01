@@ -2312,7 +2312,7 @@
 | 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
 | 2293 | Min Max Game | [JavaScript](./src/2293.min-max-game.2386/solution.js) [TypeScript](./src/2293.min-max-game.2386/solution.ts) | Easy  |
 | 2294 | Partition Array Such That Maximum Difference Is K | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.js) [TypeScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.ts) | Medium  |
-| 2295 | Replace Elements in an Array |  | Medium  |
+| 2295 | Replace Elements in an Array | [JavaScript](./src/2295.replace-elements-in-an-array.2388/solution.js) [TypeScript](./src/2295.replace-elements-in-an-array.2388/solution.ts) | Medium  |
 | 2296 | Design a Text Editor |  | Hard  |
 | 2297 | Jump Game VIII |  | Medium  |
 | 2298 | Tasks Count in the Weekend |  | Medium  |
@@ -2369,7 +2369,7 @@
 | 2349 | Design a Number Container System |  | Medium  |
 | 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
 | 2351 | First Letter to Appear Twice | [JavaScript](./src/2351.first-letter-to-appear-twice.2427/solution.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/solution.ts) | Easy  |
-| 2352 | Equal Row and Column Pairs |  | Medium  |
+| 2352 | Equal Row and Column Pairs | [JavaScript](./src/2352.equal-row-and-column-pairs.2428/solution.js) [TypeScript](./src/2352.equal-row-and-column-pairs.2428/solution.ts) | Medium  |
 | 2353 | Design a Food Rating System |  | Medium  |
 | 2354 | Number of Excellent Pairs |  | Hard  |
 | 2355 | Maximum Number of Books You Can Take |  | Hard  |
@@ -2401,14 +2401,14 @@
 | 2381 | Shifting Letters II |  | Medium  |
 | 2382 | Maximum Segment Sum After Removals |  | Hard  |
 | 2383 | Minimum Hours of Training to Win a Competition | [JavaScript](./src/2383.minimum-hours-of-training-to-win-a-competition.2459/solution.js) [TypeScript](./src/2383.minimum-hours-of-training-to-win-a-competition.2459/solution.ts) | Easy  |
-| 2384 | Largest Palindromic Number |  | Medium  |
-| 2385 | Amount of Time for Binary Tree to Be Infected |  | Medium  |
+| 2384 | Largest Palindromic Number | [JavaScript](./src/2384.largest-palindromic-number.2475/solution.js) [TypeScript](./src/2384.largest-palindromic-number.2475/solution.ts) | Medium  |
+| 2385 | Amount of Time for Binary Tree to Be Infected | [JavaScript](./src/2385.amount-of-time-for-binary-tree-to-be-infected.2461/solution.js) [TypeScript](./src/2385.amount-of-time-for-binary-tree-to-be-infected.2461/solution.ts) | Medium  |
 | 2386 | Find the K-Sum of an Array |  | Hard  |
 | 2387 | Median of a Row Wise Sorted Matrix |  | Medium  |
 | 2388 | Change Null Values in a Table to the Previous Value |  | Medium  |
 | 2389 | Longest Subsequence With Limited Sum | [JavaScript](./src/2389.longest-subsequence-with-limited-sum.2469/solution.js) [TypeScript](./src/2389.longest-subsequence-with-limited-sum.2469/solution.ts) | Easy  |
 | 2390 | Removing Stars From a String | [JavaScript](./src/2390.removing-stars-from-a-string.2470/solution.js) [TypeScript](./src/2390.removing-stars-from-a-string.2470/solution.ts) | Medium  |
-| 2391 | Minimum Amount of Time to Collect Garbage |  | Medium  |
+| 2391 | Minimum Amount of Time to Collect Garbage | [JavaScript](./src/2391.minimum-amount-of-time-to-collect-garbage.2471/solution.js) [TypeScript](./src/2391.minimum-amount-of-time-to-collect-garbage.2471/solution.ts) | Medium  |
 | 2392 | Build a Matrix With Conditions |  | Hard  |
 | 2393 | Count Strictly Increasing Subarrays |  | Medium  |
 | 2394 | Employees With Deductions |  | Medium  |
