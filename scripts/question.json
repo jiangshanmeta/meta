@@ -17010,6 +17010,13 @@
         "difficulty": 3
     },
     {
+        "id": 2570,
+        "index": "2431",
+        "title": "Maximize Total Tastiness of Purchased Fruits",
+        "title_slug": "maximize-total-tastiness-of-purchased-fruits",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -17462,6 +17469,48 @@
         "index": "LCP65",
         "title": "舒适的湿度",
         "title_slug": "3aqs1c",
+        "difficulty": 3
+    },
+    {
+        "id": 1000481,
+        "index": "LCP66",
+        "title": "最小展台数量",
+        "title_slug": "600YaG",
+        "difficulty": 1
+    },
+    {
+        "id": 1000482,
+        "index": "LCP67",
+        "title": "装饰树",
+        "title_slug": "KnLfVT",
+        "difficulty": 2
+    },
+    {
+        "id": 1000483,
+        "index": "LCP68",
+        "title": "美观的花束",
+        "title_slug": "1GxJYY",
+        "difficulty": 2
+    },
+    {
+        "id": 1000484,
+        "index": "LCP69",
+        "title": "Hello LeetCode!",
+        "title_slug": "rMeRt2",
+        "difficulty": 3
+    },
+    {
+        "id": 1000485,
+        "index": "LCP70",
+        "title": "沙地治理",
+        "title_slug": "XxZZjK",
+        "difficulty": 3
+    },
+    {
+        "id": 1000486,
+        "index": "LCP71",
+        "title": "集水器",
+        "title_slug": "kskhHQ",
         "difficulty": 3
     },
     {
