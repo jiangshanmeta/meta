@@ -1068,7 +1068,7 @@
 | 1048 | Longest String Chain | [JavaScript](./src/1048.longest-string-chain.1129/solution.js) | Medium  |
 | 1049 | Last Stone Weight II | [JavaScript](./src/1049.last-stone-weight-ii.1130/solution.js) | Medium  |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times |  | Easy  |
-| 1051 | Height Checker | [JavaScript](./src/1051.height-checker.1137/solution.js) | Easy  |
+| 1051 | Height Checker | [JavaScript](./src/1051.height-checker.1137/solution.js) [TypeScript](./src/1051.height-checker.1137/solution.ts) | Easy  |
 | 1052 | Grumpy Bookstore Owner | [JavaScript](./src/1052.grumpy-bookstore-owner.1138/solution.js) | Medium  |
 | 1053 | Previous Permutation With One Swap | [JavaScript](./src/1053.previous-permutation-with-one-swap.1139/solution.js) | Medium  |
 | 1054 | Distant Barcodes | [JavaScript](./src/1054.distant-barcodes.1140/solution.js) | Medium  |
@@ -1201,7 +1201,7 @@
 | 1181 | Before and After Puzzle | [JavaScript](./src/1181.before-and-after-puzzle.1132/solution.js) | Medium  |
 | 1182 | Shortest Distance to Target Color | [JavaScript](./src/1182.shortest-distance-to-target-color.1134/solution.js) | Medium  |
 | 1183 | Maximum Number of Ones |  | Hard  |
-| 1184 | Distance Between Bus Stops | [JavaScript](./src/1184.distance-between-bus-stops.1287/solution.js) | Easy  |
+| 1184 | Distance Between Bus Stops | [JavaScript](./src/1184.distance-between-bus-stops.1287/solution.js) [TypeScript](./src/1184.distance-between-bus-stops.1287/solution.ts) | Easy  |
 | 1185 | Day of the Week | [JavaScript](./src/1185.day-of-the-week.1289/solution.js) [TypeScript](./src/1185.day-of-the-week.1289/solution.ts) | Easy  |
 | 1186 | Maximum Subarray Sum with One Deletion | [JavaScript](./src/1186.maximum-subarray-sum-with-one-deletion.1288/solution.js) | Medium  |
 | 1187 | Make Array Strictly Increasing |  | Hard  |
@@ -1551,7 +1551,7 @@
 | 1531 | String Compression II |  | Hard  |
 | 1532 | The Most Recent Three Orders |  | Medium  |
 | 1533 | Find the Index of the Large Integer |  | Medium  |
-| 1534 | Count Good Triplets | [JavaScript](./src/1534.count-good-triplets.1656/solution.js) | Easy  |
+| 1534 | Count Good Triplets | [JavaScript](./src/1534.count-good-triplets.1656/solution.js) [TypeScript](./src/1534.count-good-triplets.1656/solution.ts) | Easy  |
 | 1535 | Find the Winner of an Array Game | [JavaScript](./src/1535.find-the-winner-of-an-array-game.1657/solution.js) | Medium  |
 | 1536 | Minimum Swaps to Arrange a Binary Grid |  | Medium  |
 | 1537 | Get the Maximum Score | [JavaScript](./src/1537.get-the-maximum-score.1659/solution.js) | Hard  |
@@ -2444,10 +2444,11 @@
 | 2424 | Longest Uploaded Prefix |  | Medium  |
 | 2425 | Bitwise XOR of All Pairings |  | Medium  |
 | 2426 | Number of Pairs Satisfying Inequality |  | Hard  |
-| 2427 | Number of Common Factors |  | Easy  |
+| 2427 | Number of Common Factors | [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
 | 2428 | Maximum Sum of an Hourglass |  | Medium  |
-| 2429 | Minimize XOR |  | Medium  |
+| 2429 | Minimize XOR | [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
+| 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2513,6 +2514,12 @@
 | LCP63 | 弹珠游戏 |  | Medium  |
 | LCP64 | 二叉树灯饰 |  | Medium  |
 | LCP65 | 舒适的湿度 |  | Hard  |
+| LCP66 | 最小展台数量 |  | Easy  |
+| LCP67 | 装饰树 |  | Medium  |
+| LCP68 | 美观的花束 |  | Medium  |
+| LCP69 | Hello LeetCode! |  | Hard  |
+| LCP70 | 沙地治理 |  | Hard  |
+| LCP71 | 集水器 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.ts) | Easy  |
