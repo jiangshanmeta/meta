@@ -19,7 +19,7 @@ function equalFrequency (word: string): boolean {
         return false;
     }
     if (entries.length === 2) {
-        return (entries[0][1] === 1 && entries[0][0] - entries[1][0] === 1) || entries[1][1] === 1;
+        return (entries[0][1] === 1 && entries[0][0] - entries[1][0] === 1) || (entries[1][1] === 1 && entries[1][0] === 1);
     }
 
     return entries[0][0] === 1 || entries[0][1] === 1;
