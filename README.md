@@ -359,7 +359,7 @@
 | 0339 | Nested List Weight Sum | [JavaScript](./src/0339.nested-list-weight-sum.339/solution.js) [TypeScript](./src/0339.nested-list-weight-sum.339/solution.ts) | Medium  |
 | 0340 | Longest Substring with At Most K Distinct Characters |  | Medium  |
 | 0341 | Flatten Nested List Iterator | [JavaScript](./src/0341.flatten-nested-list-iterator.341/solution.js) | Medium  |
-| 0342 | Power of Four | [JavaScript](./src/0342.power-of-four.342/solution.js) | Easy  |
+| 0342 | Power of Four | [JavaScript](./src/0342.power-of-four.342/solution.js) [TypeScript](./src/0342.power-of-four.342/solution.ts) | Easy  |
 | 0343 | Integer Break | [JavaScript](./src/0343.integer-break.343/solution.js) [TypeScript](./src/0343.integer-break.343/solution.ts) | Medium  |
 | 0344 | Reverse String | [JavaScript](./src/0344.reverse-string.344/solution.js) [TypeScript](./src/0344.reverse-string.344/solution.ts) | Easy  |
 | 0345 | Reverse Vowels of a String | [JavaScript](./src/0345.reverse-vowels-of-a-string.345/solution.js) [TypeScript](./src/0345.reverse-vowels-of-a-string.345/solution.ts) | Easy  |
@@ -480,7 +480,7 @@
 | 0460 | LFU Cache | [JavaScript](./src/0460.lfu-cache.460/solution.js) | Hard  |
 | 0461 | Hamming Distance | [JavaScript](./src/0461.hamming-distance.461/solution.js) [TypeScript](./src/0461.hamming-distance.461/solution.ts) | Easy  |
 | 0462 | Minimum Moves to Equal Array Elements II |  | Medium  |
-| 0463 | Island Perimeter | [JavaScript](./src/0463.island-perimeter.463/solution.js) | Easy  |
+| 0463 | Island Perimeter | [JavaScript](./src/0463.island-perimeter.463/solution.js) [TypeScript](./src/0463.island-perimeter.463/solution.ts) | Easy  |
 | 0464 | Can I Win |  | Medium  |
 | 0465 | Optimal Account Balancing |  | Hard  |
 | 0466 | Count The Repetitions |  | Hard  |
@@ -523,7 +523,7 @@
 | 0503 | Next Greater Element II | [JavaScript](./src/0503.next-greater-element-ii.503/solution.js) [TypeScript](./src/0503.next-greater-element-ii.503/solution.ts) | Medium  |
 | 0504 | Base 7 | [JavaScript](./src/0504.base-7.504/solution.js) [TypeScript](./src/0504.base-7.504/solution.ts) | Easy  |
 | 0505 | The Maze II |  | Medium  |
-| 0506 | Relative Ranks | [JavaScript](./src/0506.relative-ranks.506/solution.js) | Easy  |
+| 0506 | Relative Ranks | [JavaScript](./src/0506.relative-ranks.506/solution.js) [TypeScript](./src/0506.relative-ranks.506/solution.ts) | Easy  |
 | 0507 | Perfect Number | [JavaScript](./src/0507.perfect-number.507/solution.js) [TypeScript](./src/0507.perfect-number.507/solution.ts) | Easy  |
 | 0508 | Most Frequent Subtree Sum | [JavaScript](./src/0508.most-frequent-subtree-sum.508/solution.js) [TypeScript](./src/0508.most-frequent-subtree-sum.508/solution.ts) | Medium  |
 | 0509 | Fibonacci Number | [JavaScript](./src/0509.fibonacci-number.1013/solution.js) [TypeScript](./src/0509.fibonacci-number.1013/solution.ts) | Easy  |
@@ -2440,13 +2440,13 @@
 | 2420 | Find All Good Indices |  | Medium  |
 | 2421 | Number of Good Paths |  | Hard  |
 | 2422 | Merge Operations to Turn Array Into a Palindrome |  | Medium  |
-| 2423 | Remove Letter To Equalize Frequency | [TypeScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.ts) | Easy  |
+| 2423 | Remove Letter To Equalize Frequency | [JavaScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.js) [TypeScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.ts) | Easy  |
 | 2424 | Longest Uploaded Prefix |  | Medium  |
-| 2425 | Bitwise XOR of All Pairings |  | Medium  |
+| 2425 | Bitwise XOR of All Pairings | [JavaScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.js) [TypeScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.ts) | Medium  |
 | 2426 | Number of Pairs Satisfying Inequality |  | Hard  |
-| 2427 | Number of Common Factors | [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
-| 2428 | Maximum Sum of an Hourglass |  | Medium  |
-| 2429 | Minimize XOR | [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
+| 2427 | Number of Common Factors | [JavaScript](./src/2427.number-of-common-factors.2507/solution.js) [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
+| 2428 | Maximum Sum of an Hourglass | [JavaScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.js) [TypeScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.ts) | Medium  |
+| 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
 | 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
