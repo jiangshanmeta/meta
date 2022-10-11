@@ -418,7 +418,7 @@
 | 0398 | Random Pick Index | [JavaScript](./src/0398.random-pick-index.398/solution.js) | Medium  |
 | 0399 | Evaluate Division |  | Medium  |
 | 0400 | Nth Digit | [JavaScript](./src/0400.nth-digit.400/solution.js) | Medium  |
-| 0401 | Binary Watch | [JavaScript](./src/0401.binary-watch.401/solution.js) | Easy  |
+| 0401 | Binary Watch | [JavaScript](./src/0401.binary-watch.401/solution.js) [TypeScript](./src/0401.binary-watch.401/solution.ts) | Easy  |
 | 0402 | Remove K Digits |  | Medium  |
 | 0403 | Frog Jump | [JavaScript](./src/0403.frog-jump.403/solution.js) | Hard  |
 | 0404 | Sum of Left Leaves | [JavaScript](./src/0404.sum-of-left-leaves.404/solution.js) [TypeScript](./src/0404.sum-of-left-leaves.404/solution.ts) | Easy  |
@@ -611,7 +611,7 @@
 | 0591 | Tag Validator |  | Hard  |
 | 0592 | Fraction Addition and Subtraction | [JavaScript](./src/0592.fraction-addition-and-subtraction.592/solution.js) | Medium  |
 | 0593 | Valid Square | [JavaScript](./src/0593.valid-square.593/solution.js) [TypeScript](./src/0593.valid-square.593/solution.ts) | Medium  |
-| 0594 | Longest Harmonious Subsequence | [JavaScript](./src/0594.longest-harmonious-subsequence.594/solution.js) | Easy  |
+| 0594 | Longest Harmonious Subsequence | [JavaScript](./src/0594.longest-harmonious-subsequence.594/solution.js) [TypeScript](./src/0594.longest-harmonious-subsequence.594/solution.ts) | Easy  |
 | 0595 | Big Countries | [Mysql](./src/0595.big-countries.595/solution.sql) | Easy  |
 | 0596 | Classes More Than 5 Students | [Mysql](./src/0596.classes-more-than-5-students.596/solution.sql) | Easy  |
 | 0597 | Friend Requests I: Overall Acceptance Rate |  | Easy  |
@@ -674,7 +674,7 @@
 | 0654 | Maximum Binary Tree | [JavaScript](./src/0654.maximum-binary-tree.654/solution.js) [TypeScript](./src/0654.maximum-binary-tree.654/solution.ts) | Medium  |
 | 0655 | Print Binary Tree | [JavaScript](./src/0655.print-binary-tree.655/solution.js) [TypeScript](./src/0655.print-binary-tree.655/solution.ts) | Medium  |
 | 0656 | Coin Path |  | Hard  |
-| 0657 | Robot Return to Origin | [JavaScript](./src/0657.robot-return-to-origin.657/solution.js) | Easy  |
+| 0657 | Robot Return to Origin | [JavaScript](./src/0657.robot-return-to-origin.657/solution.js) [TypeScript](./src/0657.robot-return-to-origin.657/solution.ts) | Easy  |
 | 0658 | Find K Closest Elements | [JavaScript](./src/0658.find-k-closest-elements.658/solution.js) [TypeScript](./src/0658.find-k-closest-elements.658/solution.ts) | Medium  |
 | 0659 | Split Array into Consecutive Subsequences |  | Medium  |
 | 0660 | Remove 9 |  | Hard  |
@@ -765,7 +765,7 @@
 | 0745 | Prefix and Suffix Search |  | Hard  |
 | 0746 | Min Cost Climbing Stairs | [JavaScript](./src/0746.min-cost-climbing-stairs.747/solution.js) [TypeScript](./src/0746.min-cost-climbing-stairs.747/solution.ts) | Easy  |
 | 0747 | Largest Number At Least Twice of Others | [JavaScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.js) [TypeScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.ts) | Easy  |
-| 0748 | Shortest Completing Word | [JavaScript](./src/0748.shortest-completing-word.749/solution.js) | Easy  |
+| 0748 | Shortest Completing Word | [JavaScript](./src/0748.shortest-completing-word.749/solution.js) [TypeScript](./src/0748.shortest-completing-word.749/solution.ts) | Easy  |
 | 0749 | Contain Virus |  | Hard  |
 | 0750 | Number Of Corner Rectangles |  | Medium  |
 | 0751 | IP to CIDR |  | Medium  |
@@ -779,7 +779,7 @@
 | 0759 | Employee Free Time |  | Hard  |
 | 0760 | Find Anagram Mappings | [JavaScript](./src/0760.find-anagram-mappings.762/solution.js) [TypeScript](./src/0760.find-anagram-mappings.762/solution.ts) | Easy  |
 | 0761 | Special Binary String |  | Hard  |
-| 0762 | Prime Number of Set Bits in Binary Representation | [JavaScript](./src/0762.prime-number-of-set-bits-in-binary-representation.767/solution.js) | Easy  |
+| 0762 | Prime Number of Set Bits in Binary Representation | [JavaScript](./src/0762.prime-number-of-set-bits-in-binary-representation.767/solution.js) [TypeScript](./src/0762.prime-number-of-set-bits-in-binary-representation.767/solution.ts) | Easy  |
 | 0763 | Partition Labels | [JavaScript](./src/0763.partition-labels.768/solution.js) [TypeScript](./src/0763.partition-labels.768/solution.ts) | Medium  |
 | 0764 | Largest Plus Sign |  | Medium  |
 | 0765 | Couples Holding Hands |  | Hard  |
@@ -2449,6 +2449,10 @@
 | 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
 | 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
+| 2432 | The Employee That Worked on the Longest Task |  | Easy  |
+| 2433 | Find The Original Array of Prefix Xor |  | Medium  |
+| 2434 | Using a Robot to Print the Lexicographically Smallest String |  | Medium  |
+| 2435 | Paths in Matrix Whose Sum Is Divisible by K |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
