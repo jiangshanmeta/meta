@@ -291,8 +291,8 @@
 | 0271 | Encode and Decode Strings | [JavaScript](./src/0271.encode-and-decode-strings.271/solution.js) | Medium  |
 | 0272 | Closest Binary Search Tree Value II | [JavaScript](./src/0272.closest-binary-search-tree-value-ii.272/solution.js) [TypeScript](./src/0272.closest-binary-search-tree-value-ii.272/solution.ts) | Hard  |
 | 0273 | Integer to English Words | [JavaScript](./src/0273.integer-to-english-words.273/solution.js) | Hard  |
-| 0274 | H-Index | [JavaScript](./src/0274.h-index.274/solution.js) | Medium  |
-| 0275 | H-Index II | [JavaScript](./src/0275.h-index-ii.275/solution.js) | Medium  |
+| 0274 | H-Index | [JavaScript](./src/0274.h-index.274/solution.js) [TypeScript](./src/0274.h-index.274/solution.ts) | Medium  |
+| 0275 | H-Index II | [JavaScript](./src/0275.h-index-ii.275/solution.js) [TypeScript](./src/0275.h-index-ii.275/solution.ts) | Medium  |
 | 0276 | Paint Fence |  | Medium  |
 | 0277 | Find the Celebrity |  | Medium  |
 | 0278 | First Bad Version | [JavaScript](./src/0278.first-bad-version.278/solution.js) [TypeScript](./src/0278.first-bad-version.278/solution.ts) | Easy  |
@@ -713,7 +713,7 @@
 | 0693 | Binary Number with Alternating Bits | [JavaScript](./src/0693.binary-number-with-alternating-bits.693/solution.js) [TypeScript](./src/0693.binary-number-with-alternating-bits.693/solution.ts) | Easy  |
 | 0694 | Number of Distinct Islands |  | Medium  |
 | 0695 | Max Area of Island | [JavaScript](./src/0695.max-area-of-island.695/solution.js) [TypeScript](./src/0695.max-area-of-island.695/solution.ts) | Medium  |
-| 0696 | Count Binary Substrings | [JavaScript](./src/0696.count-binary-substrings.696/solution.js) | Easy  |
+| 0696 | Count Binary Substrings | [JavaScript](./src/0696.count-binary-substrings.696/solution.js) [TypeScript](./src/0696.count-binary-substrings.696/solution.ts) | Easy  |
 | 0697 | Degree of an Array | [JavaScript](./src/0697.degree-of-an-array.697/solution.js) [TypeScript](./src/0697.degree-of-an-array.697/solution.ts) | Easy  |
 | 0698 | Partition to K Equal Sum Subsets |  | Medium  |
 | 0699 | Falling Squares |  | Hard  |
@@ -836,7 +836,7 @@
 | 0816 | Ambiguous Coordinates | [JavaScript](./src/0816.ambiguous-coordinates.834/solution.js) | Medium  |
 | 0817 | Linked List Components | [JavaScript](./src/0817.linked-list-components.835/solution.js) | Medium  |
 | 0818 | Race Car |  | Hard  |
-| 0819 | Most Common Word | [JavaScript](./src/0819.most-common-word.837/solution.js) | Easy  |
+| 0819 | Most Common Word | [JavaScript](./src/0819.most-common-word.837/solution.js) [TypeScript](./src/0819.most-common-word.837/solution.ts) | Easy  |
 | 0820 | Short Encoding of Words | [JavaScript](./src/0820.short-encoding-of-words.839/solution.js) | Medium  |
 | 0821 | Shortest Distance to a Character | [JavaScript](./src/0821.shortest-distance-to-a-character.841/solution.js) [TypeScript](./src/0821.shortest-distance-to-a-character.841/solution.ts) | Easy  |
 | 0822 | Card Flipping Game | [JavaScript](./src/0822.card-flipping-game.842/solution.js) | Medium  |
@@ -873,7 +873,7 @@
 | 0853 | Car Fleet | [JavaScript](./src/0853.car-fleet.883/solution.js) | Medium  |
 | 0854 | K-Similar Strings |  | Hard  |
 | 0855 | Exam Room |  | Medium  |
-| 0856 | Score of Parentheses | [JavaScript](./src/0856.score-of-parentheses.886/solution.js) | Medium  |
+| 0856 | Score of Parentheses | [JavaScript](./src/0856.score-of-parentheses.886/solution.js) [TypeScript](./src/0856.score-of-parentheses.886/solution.ts) | Medium  |
 | 0857 | Minimum Cost to Hire K Workers |  | Hard  |
 | 0858 | Mirror Reflection |  | Medium  |
 | 0859 | Buddy Strings | [JavaScript](./src/0859.buddy-strings.889/solution.js) [TypeScript](./src/0859.buddy-strings.889/solution.ts) | Easy  |
