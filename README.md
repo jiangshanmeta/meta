@@ -931,7 +931,7 @@
 | 0911 | Online Election |  | Medium  |
 | 0912 | Sort an Array | [JavaScript](./src/0912.sort-an-array.948/solution.js) [TypeScript](./src/0912.sort-an-array.948/solution.ts) | Medium  |
 | 0913 | Cat and Mouse |  | Hard  |
-| 0914 | X of a Kind in a Deck of Cards | [JavaScript](./src/0914.x-of-a-kind-in-a-deck-of-cards.950/solution.js) | Easy  |
+| 0914 | X of a Kind in a Deck of Cards | [JavaScript](./src/0914.x-of-a-kind-in-a-deck-of-cards.950/solution.js) [TypeScript](./src/0914.x-of-a-kind-in-a-deck-of-cards.950/solution.ts) | Easy  |
 | 0915 | Partition Array into Disjoint Intervals | [JavaScript](./src/0915.partition-array-into-disjoint-intervals.951/solution.js) | Medium  |
 | 0916 | Word Subsets | [JavaScript](./src/0916.word-subsets.952/solution.js) | Medium  |
 | 0917 | Reverse Only Letters | [JavaScript](./src/0917.reverse-only-letters.953/solution.js) [TypeScript](./src/0917.reverse-only-letters.953/solution.ts) | Easy  |
@@ -946,7 +946,7 @@
 | 0926 | Flip String to Monotone Increasing | [JavaScript](./src/0926.flip-string-to-monotone-increasing.962/solution.js) | Medium  |
 | 0927 | Three Equal Parts |  | Hard  |
 | 0928 | Minimize Malware Spread II |  | Hard  |
-| 0929 | Unique Email Addresses | [JavaScript](./src/0929.unique-email-addresses.965/solution.js) | Easy  |
+| 0929 | Unique Email Addresses | [JavaScript](./src/0929.unique-email-addresses.965/solution.js) [TypeScript](./src/0929.unique-email-addresses.965/solution.ts) | Easy  |
 | 0930 | Binary Subarrays With Sum | [JavaScript](./src/0930.binary-subarrays-with-sum.966/solution.js) | Medium  |
 | 0931 | Minimum Falling Path Sum | [JavaScript](./src/0931.minimum-falling-path-sum.967/solution.js) [TypeScript](./src/0931.minimum-falling-path-sum.967/solution.ts) | Medium  |
 | 0932 | Beautiful Array |  | Medium  |
@@ -1030,7 +1030,7 @@
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | [JavaScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.js) | Medium  |
 | 1011 | Capacity To Ship Packages Within D Days | [JavaScript](./src/1011.capacity-to-ship-packages-within-d-days.1056/solution.js) | Medium  |
 | 1012 | Numbers With Repeated Digits |  | Hard  |
-| 1013 | Partition Array Into Three Parts With Equal Sum | [JavaScript](./src/1013.partition-array-into-three-parts-with-equal-sum.1062/solution.js) | Easy  |
+| 1013 | Partition Array Into Three Parts With Equal Sum | [JavaScript](./src/1013.partition-array-into-three-parts-with-equal-sum.1062/solution.js) [TypeScript](./src/1013.partition-array-into-three-parts-with-equal-sum.1062/solution.ts) | Easy  |
 | 1014 | Best Sightseeing Pair | [JavaScript](./src/1014.best-sightseeing-pair.1063/solution.js) | Medium  |
 | 1015 | Smallest Integer Divisible by K | [JavaScript](./src/1015.smallest-integer-divisible-by-k.1064/solution.js) [TypeScript](./src/1015.smallest-integer-divisible-by-k.1064/solution.ts) | Medium  |
 | 1016 | Binary String With Substrings Representing 1 To N | [JavaScript](./src/1016.binary-string-with-substrings-representing-1-to-n.1065/solution.js) [TypeScript](./src/1016.binary-string-with-substrings-representing-1-to-n.1065/solution.ts) | Medium  |
@@ -1042,12 +1042,12 @@
 | 1022 | Sum of Root To Leaf Binary Numbers | [JavaScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.js) [TypeScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.ts) | Easy  |
 | 1023 | Camelcase Matching | [JavaScript](./src/1023.camelcase-matching.1080/solution.js) | Medium  |
 | 1024 | Video Stitching | [JavaScript](./src/1024.video-stitching.1081/solution.js) | Medium  |
-| 1025 | Divisor Game | [JavaScript](./src/1025.divisor-game.1086/solution.js) | Easy  |
+| 1025 | Divisor Game | [JavaScript](./src/1025.divisor-game.1086/solution.js) [TypeScript](./src/1025.divisor-game.1086/solution.ts) | Easy  |
 | 1026 | Maximum Difference Between Node and Ancestor | [JavaScript](./src/1026.maximum-difference-between-node-and-ancestor.1092/solution.js) [TypeScript](./src/1026.maximum-difference-between-node-and-ancestor.1092/solution.ts) | Medium  |
 | 1027 | Longest Arithmetic Subsequence | [JavaScript](./src/1027.longest-arithmetic-subsequence.1087/solution.js) | Medium  |
 | 1028 | Recover a Tree From Preorder Traversal | [JavaScript](./src/1028.recover-a-tree-from-preorder-traversal.1093/solution.js) | Hard  |
 | 1029 | Two City Scheduling | [JavaScript](./src/1029.two-city-scheduling.1095/solution.js) [TypeScript](./src/1029.two-city-scheduling.1095/solution.ts) | Medium  |
-| 1030 | Matrix Cells in Distance Order | [JavaScript](./src/1030.matrix-cells-in-distance-order.1094/solution.js) | Easy  |
+| 1030 | Matrix Cells in Distance Order | [JavaScript](./src/1030.matrix-cells-in-distance-order.1094/solution.js) [TypeScript](./src/1030.matrix-cells-in-distance-order.1094/solution.ts) | Easy  |
 | 1031 | Maximum Sum of Two Non-Overlapping Subarrays | [JavaScript](./src/1031.maximum-sum-of-two-non-overlapping-subarrays.1096/solution.js) | Medium  |
 | 1032 | Stream of Characters | [JavaScript](./src/1032.stream-of-characters.1097/solution.js) | Hard  |
 | 1033 | Moving Stones Until Consecutive | [JavaScript](./src/1033.moving-stones-until-consecutive.1103/solution.js) [TypeScript](./src/1033.moving-stones-until-consecutive.1103/solution.ts) | Medium  |
