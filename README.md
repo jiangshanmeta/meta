@@ -1192,7 +1192,7 @@
 | 1172 | Dinner Plate Stacks | [JavaScript](./src/1172.dinner-plate-stacks.1270/solution.js) | Hard  |
 | 1173 | Immediate Food Delivery I |  | Easy  |
 | 1174 | Immediate Food Delivery II |  | Medium  |
-| 1175 | Prime Arrangements | [JavaScript](./src/1175.prime-arrangements.1279/solution.js) | Easy  |
+| 1175 | Prime Arrangements | [JavaScript](./src/1175.prime-arrangements.1279/solution.js) [TypeScript](./src/1175.prime-arrangements.1279/solution.ts) | Easy  |
 | 1176 | Diet Plan Performance | [JavaScript](./src/1176.diet-plan-performance.1280/solution.js) [TypeScript](./src/1176.diet-plan-performance.1280/solution.ts) | Easy  |
 | 1177 | Can Make Palindrome from Substring | [JavaScript](./src/1177.can-make-palindrome-from-substring.1281/solution.js) | Medium  |
 | 1178 | Number of Valid Words for Each Puzzle |  | Hard  |
@@ -1269,7 +1269,7 @@
 | 1249 | Minimum Remove to Make Valid Parentheses | [JavaScript](./src/1249.minimum-remove-to-make-valid-parentheses.1371/solution.js) | Medium  |
 | 1250 | Check If It Is a Good Array |  | Hard  |
 | 1251 | Average Selling Price |  | Easy  |
-| 1252 | Cells with Odd Values in a Matrix | [JavaScript](./src/1252.cells-with-odd-values-in-a-matrix.1378/solution.js) | Easy  |
+| 1252 | Cells with Odd Values in a Matrix | [JavaScript](./src/1252.cells-with-odd-values-in-a-matrix.1378/solution.js) [TypeScript](./src/1252.cells-with-odd-values-in-a-matrix.1378/solution.ts) | Easy  |
 | 1253 | Reconstruct a 2-Row Binary Matrix | [JavaScript](./src/1253.reconstruct-a-2-row-binary-matrix.1379/solution.js) | Medium  |
 | 1254 | Number of Closed Islands | [JavaScript](./src/1254.number-of-closed-islands.1380/solution.js) | Medium  |
 | 1255 | Maximum Score Words Formed by Letters | [JavaScript](./src/1255.maximum-score-words-formed-by-letters.1381/solution.js) | Hard  |
@@ -1453,7 +1453,7 @@
 | 1433 | Check If a String Can Break Another String | [JavaScript](./src/1433.check-if-a-string-can-break-another-string.1530/solution.js) | Medium  |
 | 1434 | Number of Ways to Wear Different Hats to Each Other |  | Hard  |
 | 1435 | Create a Session Bar Chart |  | Easy  |
-| 1436 | Destination City | [JavaScript](./src/1436.destination-city.1547/solution.js) | Easy  |
+| 1436 | Destination City | [JavaScript](./src/1436.destination-city.1547/solution.js) [TypeScript](./src/1436.destination-city.1547/solution.ts) | Easy  |
 | 1437 | Check If All 1's Are at Least Length K Places Away | [JavaScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.js) [TypeScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.ts) | Easy  |
 | 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [JavaScript](./src/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.1549/solution.js) | Medium  |
 | 1439 | Find the Kth Smallest Sum of a Matrix With Sorted Rows |  | Hard  |
@@ -1854,7 +1854,7 @@
 | 1834 | Single-Threaded CPU | [JavaScript](./src/1834.single-threaded-cpu.1962/solution.js) [TypeScript](./src/1834.single-threaded-cpu.1962/solution.ts) | Medium  |
 | 1835 | Find XOR Sum of All Pairs Bitwise AND | [JavaScript](./src/1835.find-xor-sum-of-all-pairs-bitwise-and.1963/solution.js) [TypeScript](./src/1835.find-xor-sum-of-all-pairs-bitwise-and.1963/solution.ts) | Hard  |
 | 1836 | Remove Duplicates From an Unsorted Linked List |  | Medium  |
-| 1837 | Sum of Digits in Base K | [JavaScript](./src/1837.sum-of-digits-in-base-k.1965/solution.js) | Easy  |
+| 1837 | Sum of Digits in Base K | [JavaScript](./src/1837.sum-of-digits-in-base-k.1965/solution.js) [TypeScript](./src/1837.sum-of-digits-in-base-k.1965/solution.ts) | Easy  |
 | 1838 | Frequency of the Most Frequent Element | [JavaScript](./src/1838.frequency-of-the-most-frequent-element.1966/solution.js) | Medium  |
 | 1839 | Longest Substring Of All Vowels in Order | [JavaScript](./src/1839.longest-substring-of-all-vowels-in-order.1967/solution.js) | Medium  |
 | 1840 | Maximum Building Height |  | Hard  |
@@ -1865,7 +1865,7 @@
 | 1845 | Seat Reservation Manager | [JavaScript](./src/1845.seat-reservation-manager.1955/solution.js) | Medium  |
 | 1846 | Maximum Element After Decreasing and Rearranging | [JavaScript](./src/1846.maximum-element-after-decreasing-and-rearranging.1956/solution.js) | Medium  |
 | 1847 | Closest Room |  | Hard  |
-| 1848 | Minimum Distance to the Target Element | [JavaScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.js) | Easy  |
+| 1848 | Minimum Distance to the Target Element | [JavaScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.js) [TypeScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.ts) | Easy  |
 | 1849 | Splitting a String Into Descending Consecutive Values | [JavaScript](./src/1849.splitting-a-string-into-descending-consecutive-values.1976/solution.js) | Medium  |
 | 1850 | Minimum Adjacent Swaps to Reach the Kth Smallest Number |  | Medium  |
 | 1851 | Minimum Interval to Include Each Query |  | Hard  |
