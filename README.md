@@ -1930,14 +1930,14 @@
 | 1910 | Remove All Occurrences of a Substring |  | Medium  |
 | 1911 | Maximum Alternating Subsequence Sum |  | Medium  |
 | 1912 | Design Movie Rental System |  | Hard  |
-| 1913 | Maximum Product Difference Between Two Pairs | [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.js) | Easy  |
+| 1913 | Maximum Product Difference Between Two Pairs | [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.js) [TypeScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.ts) | Easy  |
 | 1914 | Cyclically Rotating a Grid |  | Medium  |
 | 1915 | Number of Wonderful Substrings |  | Medium  |
 | 1916 | Count Ways to Build Rooms in an Ant Colony |  | Hard  |
 | 1917 | Leetcodify Friends Recommendations |  | Hard  |
 | 1918 | Kth Smallest Subarray Sum |  | Medium  |
 | 1919 | Leetcodify Similar Friends |  | Hard  |
-| 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) | Easy  |
+| 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) [TypeScript](./src/1920.build-array-from-permutation.2048/solution.ts) | Easy  |
 | 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
 | 1922 | Count Good Numbers |  | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
@@ -1984,7 +1984,7 @@
 | 1964 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
 | 1965 | Employees With Missing Information |  | Easy  |
 | 1966 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
-| 1967 | Number of Strings That Appear as Substrings in Word |  | Easy  |
+| 1967 | Number of Strings That Appear as Substrings in Word | [JavaScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.js) [TypeScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.ts) | Easy  |
 | 1968 | Array With Elements Not Equal to Average of Neighbors |  | Medium  |
 | 1969 | Minimum Non-Zero Product of the Array Elements |  | Medium  |
 | 1970 | Last Day Where You Can Still Cross |  | Hard  |
@@ -2449,8 +2449,8 @@
 | 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
 | 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
-| 2432 | The Employee That Worked on the Longest Task |  | Easy  |
-| 2433 | Find The Original Array of Prefix Xor |  | Medium  |
+| 2432 | The Employee That Worked on the Longest Task | [JavaScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.js) [TypeScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.ts) | Easy  |
+| 2433 | Find The Original Array of Prefix Xor | [JavaScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.js) [TypeScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.ts) | Medium  |
 | 2434 | Using a Robot to Print the Lexicographically Smallest String |  | Medium  |
 | 2435 | Paths in Matrix Whose Sum Is Divisible by K |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
