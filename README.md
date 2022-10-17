@@ -175,7 +175,7 @@
 | 0155 | Min Stack | [JavaScript](./src/0155.min-stack.155/solution.js) [TypeScript](./src/0155.min-stack.155/solution.ts) | Medium  |
 | 0156 | Binary Tree Upside Down | [JavaScript](./src/0156.binary-tree-upside-down.156/solution.js) [TypeScript](./src/0156.binary-tree-upside-down.156/solution.ts) | Medium  |
 | 0157 | Read N Characters Given Read4 | [JavaScript](./src/0157.read-n-characters-given-read4.157/solution.js) | Easy  |
-| 0158 | Read N Characters Given Read4 II - Call multiple times |  | Hard  |
+| 0158 | Read N Characters Given read4 II - Call Multiple Times |  | Hard  |
 | 0159 | Longest Substring with At Most Two Distinct Characters | [JavaScript](./src/0159.longest-substring-with-at-most-two-distinct-characters.159/solution.js) | Medium  |
 | 0160 | Intersection of Two Linked Lists | [JavaScript](./src/0160.intersection-of-two-linked-lists.160/solution.js) [TypeScript](./src/0160.intersection-of-two-linked-lists.160/solution.ts) | Easy  |
 | 0161 | One Edit Distance | [JavaScript](./src/0161.one-edit-distance.161/solution.js) [TypeScript](./src/0161.one-edit-distance.161/solution.ts) | Medium  |
@@ -535,7 +535,7 @@
 | 0515 | Find Largest Value in Each Tree Row | [JavaScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.js) [TypeScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.ts) | Medium  |
 | 0516 | Longest Palindromic Subsequence |  | Medium  |
 | 0517 | Super Washing Machines |  | Hard  |
-| 0518 | Coin Change 2 | [JavaScript](./src/0518.coin-change-2.518/solution.js) [TypeScript](./src/0518.coin-change-2.518/solution.ts) | Medium  |
+| 0518 | Coin Change II | [JavaScript](./src/0518.coin-change-ii.518/solution.js) [TypeScript](./src/0518.coin-change-ii.518/solution.ts) | Medium  |
 | 0519 | Random Flip Matrix | [JavaScript](./src/0519.random-flip-matrix.913/solution.js) | Medium  |
 | 0520 | Detect Capital | [JavaScript](./src/0520.detect-capital.520/solution.js) [TypeScript](./src/0520.detect-capital.520/solution.ts) | Easy  |
 | 0521 | Longest Uncommon Subsequence I | [JavaScript](./src/0521.longest-uncommon-subsequence-i.521/solution.js) [TypeScript](./src/0521.longest-uncommon-subsequence-i.521/solution.ts) | Easy  |
@@ -921,7 +921,7 @@
 | 0901 | Online Stock Span | [JavaScript](./src/0901.online-stock-span.937/solution.js) [TypeScript](./src/0901.online-stock-span.937/solution.ts) | Medium  |
 | 0902 | Numbers At Most N Given Digit Set |  | Hard  |
 | 0903 | Valid Permutations for DI Sequence |  | Hard  |
-| 0904 | Fruit Into Baskets |  | Medium  |
+| 0904 | Fruit Into Baskets | [JavaScript](./src/0904.fruit-into-baskets.940/solution.js) [TypeScript](./src/0904.fruit-into-baskets.940/solution.ts) | Medium  |
 | 0905 | Sort Array By Parity | [JavaScript](./src/0905.sort-array-by-parity.941/solution.js) [TypeScript](./src/0905.sort-array-by-parity.941/solution.ts) | Easy  |
 | 0906 | Super Palindromes |  | Hard  |
 | 0907 | Sum of Subarray Minimums | [JavaScript](./src/0907.sum-of-subarray-minimums.943/solution.js) | Medium  |
@@ -1396,7 +1396,7 @@
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/solution.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/solution.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
-| 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [JavaScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.js) [TypeScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.ts) | Medium  |
+| 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [JavaScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.js) [TypeScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.ts) | Easy  |
 | 1380 | Lucky Numbers in a Matrix | [JavaScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.js) [TypeScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.ts) | Easy  |
 | 1381 | Design a Stack With Increment Operation | [JavaScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.js) [TypeScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.ts) | Medium  |
 | 1382 | Balance a Binary Search Tree | [JavaScript](./src/1382.balance-a-binary-search-tree.1285/solution.js) [TypeScript](./src/1382.balance-a-binary-search-tree.1285/solution.ts) | Medium  |
@@ -1561,7 +1561,7 @@
 | 1541 | Minimum Insertions to Balance a Parentheses String | [JavaScript](./src/1541.minimum-insertions-to-balance-a-parentheses-string.1648/solution.js) | Medium  |
 | 1542 | Find Longest Awesome Substring | [JavaScript](./src/1542.find-longest-awesome-substring.1668/solution.js) | Hard  |
 | 1543 | Fix Product Name Format |  | Easy  |
-| 1544 | Make The String Great | [JavaScript](./src/1544.make-the-string-great.1666/solution.js) | Easy  |
+| 1544 | Make The String Great | [JavaScript](./src/1544.make-the-string-great.1666/solution.js) [TypeScript](./src/1544.make-the-string-great.1666/solution.ts) | Easy  |
 | 1545 | Find Kth Bit in Nth Binary String | [JavaScript](./src/1545.find-kth-bit-in-nth-binary-string.1667/solution.js) | Medium  |
 | 1546 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target |  | Medium  |
 | 1547 | Minimum Cost to Cut a Stick |  | Hard  |
@@ -2007,7 +2007,7 @@
 | 1987 | Number of Unique Good Subsequences |  | Hard  |
 | 1988 | Find Cutoff Score for Each School |  | Medium  |
 | 1989 | Maximum Number of People That Can Be Caught in Tag |  | Medium  |
-| 1990 | Count the Number of Experiments |  | Easy  |
+| 1990 | Count the Number of Experiments |  | Medium  |
 | 1991 | Find the Middle Index in Array | [JavaScript](./src/1991.find-the-middle-index-in-array.2102/solution.js) [TypeScript](./src/1991.find-the-middle-index-in-array.2102/solution.ts) | Easy  |
 | 1992 | Find All Groups of Farmland |  | Medium  |
 | 1993 | Operations on Tree |  | Medium  |
@@ -2173,7 +2173,7 @@
 | 2153 | The Number of Passengers in Each Bus II |  | Hard  |
 | 2154 | Keep Multiplying Found Values by Two | [JavaScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.js) [TypeScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.ts) | Easy  |
 | 2155 | All Divisions With the Highest Score of a Binary Array | [JavaScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/solution.js) [TypeScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/solution.ts) | Medium  |
-| 2156 | Find Substring With Given Hash Value |  | Medium  |
+| 2156 | Find Substring With Given Hash Value |  | Hard  |
 | 2157 | Groups of Strings |  | Hard  |
 | 2158 | Amount of New Area Painted Each Day |  | Hard  |
 | 2159 | Order Two Columns Independently |  | Medium  |
@@ -2453,6 +2453,15 @@
 | 2433 | Find The Original Array of Prefix Xor | [JavaScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.js) [TypeScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.ts) | Medium  |
 | 2434 | Using a Robot to Print the Lexicographically Smallest String |  | Medium  |
 | 2435 | Paths in Matrix Whose Sum Is Divisible by K |  | Hard  |
+| 2436 | Minimum Split Into Subarrays With GCD Greater Than One |  | Medium  |
+| 2437 | Number of Valid Clock Times |  | Easy  |
+| 2438 | Range Product Queries of Powers |  | Medium  |
+| 2439 | Minimize Maximum of Array |  | Medium  |
+| 2440 | Create Components With Same Value |  | Hard  |
+| 2441 | Largest Positive Integer That Exists With Its Negative |  | Easy  |
+| 2442 | Count Number of Distinct Integers After Reverse Operations |  | Medium  |
+| 2443 | Sum of Number and Its Reverse |  | Medium  |
+| 2444 | Count Subarrays With Fixed Bounds |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
