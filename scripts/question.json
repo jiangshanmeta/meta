@@ -1101,7 +1101,7 @@
     {
         "id": 158,
         "index": "0158",
-        "title": "Read N Characters Given Read4 II - Call multiple times",
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
         "title_slug": "read-n-characters-given-read4-ii-call-multiple-times",
         "difficulty": 3
     },
@@ -3621,8 +3621,8 @@
     {
         "id": 518,
         "index": "0518",
-        "title": "Coin Change 2",
-        "title_slug": "coin-change-2",
+        "title": "Coin Change II",
+        "title_slug": "coin-change-ii",
         "difficulty": 2
     },
     {
@@ -9650,7 +9650,7 @@
         "index": "1379",
         "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
         "title_slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 1496,
@@ -13927,7 +13927,7 @@
         "index": "1990",
         "title": "Count the Number of Experiments",
         "title_slug": "count-the-number-of-experiments",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 2102,
@@ -15089,7 +15089,7 @@
         "index": "2156",
         "title": "Find Substring With Given Hash Value",
         "title_slug": "find-substring-with-given-hash-value",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 2276,
@@ -17042,6 +17042,69 @@
         "index": "2435",
         "title": "Paths in Matrix Whose Sum Is Divisible by K",
         "title_slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": 3
+    },
+    {
+        "id": 2579,
+        "index": "2436",
+        "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "title_slug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+        "difficulty": 2
+    },
+    {
+        "id": 2528,
+        "index": "2437",
+        "title": "Number of Valid Clock Times",
+        "title_slug": "number-of-valid-clock-times",
+        "difficulty": 1
+    },
+    {
+        "id": 2529,
+        "index": "2438",
+        "title": "Range Product Queries of Powers",
+        "title_slug": "range-product-queries-of-powers",
+        "difficulty": 2
+    },
+    {
+        "id": 2530,
+        "index": "2439",
+        "title": "Minimize Maximum of Array",
+        "title_slug": "minimize-maximum-of-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2531,
+        "index": "2440",
+        "title": "Create Components With Same Value",
+        "title_slug": "create-components-with-same-value",
+        "difficulty": 3
+    },
+    {
+        "id": 2524,
+        "index": "2441",
+        "title": "Largest Positive Integer That Exists With Its Negative",
+        "title_slug": "largest-positive-integer-that-exists-with-its-negative",
+        "difficulty": 1
+    },
+    {
+        "id": 2525,
+        "index": "2442",
+        "title": "Count Number of Distinct Integers After Reverse Operations",
+        "title_slug": "count-number-of-distinct-integers-after-reverse-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 2541,
+        "index": "2443",
+        "title": "Sum of Number and Its Reverse",
+        "title_slug": "sum-of-number-and-its-reverse",
+        "difficulty": 2
+    },
+    {
+        "id": 2527,
+        "index": "2444",
+        "title": "Count Subarrays With Fixed Bounds",
+        "title_slug": "count-subarrays-with-fixed-bounds",
         "difficulty": 3
     },
     {
