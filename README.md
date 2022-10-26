@@ -2459,11 +2459,11 @@
 | 2439 | Minimize Maximum of Array |  | Medium  |
 | 2440 | Create Components With Same Value |  | Hard  |
 | 2441 | Largest Positive Integer That Exists With Its Negative | [JavaScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.js) [TypeScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.ts) | Easy  |
-| 2442 | Count Number of Distinct Integers After Reverse Operations |  | Medium  |
-| 2443 | Sum of Number and Its Reverse |  | Medium  |
+| 2442 | Count Number of Distinct Integers After Reverse Operations | [JavaScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.js) [TypeScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.ts) | Medium  |
+| 2443 | Sum of Number and Its Reverse | [JavaScript](./src/2443.sum-of-number-and-its-reverse.2541/solution.js) [TypeScript](./src/2443.sum-of-number-and-its-reverse.2541/solution.ts) | Medium  |
 | 2444 | Count Subarrays With Fixed Bounds |  | Hard  |
 | 2445 | Number of Nodes With Value One |  | Medium  |
-| 2446 | Determine if Two Events Have Conflict |  | Easy  |
+| 2446 | Determine if Two Events Have Conflict | [JavaScript](./src/2446.determine-if-two-events-have-conflict.2536/solution.js) [TypeScript](./src/2446.determine-if-two-events-have-conflict.2536/solution.ts) | Easy  |
 | 2447 | Number of Subarrays With GCD Equal to K |  | Medium  |
 | 2448 | Minimum Cost to Make Array Equal |  | Hard  |
 | 2449 | Minimum Number of Operations to Make Arrays Similar |  | Hard  |
