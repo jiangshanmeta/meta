@@ -2527,12 +2527,12 @@
 | LCP58 | 积木拼接 |  | Hard  |
 | LCP59 | 搭桥过河 |  | Hard  |
 | LCP60 | 力扣泡泡龙 |  | Hard  |
-| LCP61 | 气温变化趋势 |  | Easy  |
+| LCP61 | 气温变化趋势 | [JavaScript](./src/LCP61.6CE719.1000476/solution.js) [TypeScript](./src/LCP61.6CE719.1000476/solution.ts) | Easy  |
 | LCP62 | 交通枢纽 |  | Medium  |
 | LCP63 | 弹珠游戏 |  | Medium  |
 | LCP64 | 二叉树灯饰 |  | Medium  |
 | LCP65 | 舒适的湿度 |  | Hard  |
-| LCP66 | 最小展台数量 |  | Easy  |
+| LCP66 | 最小展台数量 | [JavaScript](./src/LCP66.600YaG.1000481/solution.js) [TypeScript](./src/LCP66.600YaG.1000481/solution.ts) | Easy  |
 | LCP67 | 装饰树 |  | Medium  |
 | LCP68 | 美观的花束 |  | Medium  |
 | LCP69 | Hello LeetCode! |  | Hard  |
@@ -2625,7 +2625,7 @@
 | 剑指OfferII010 | 和为 k 的子数组 | [JavaScript](./src/剑指OfferII010.QTMn0o.1000246/solution.js) [TypeScript](./src/剑指OfferII010.QTMn0o.1000246/solution.ts) | Medium  |
 | 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
 | 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/solution.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/solution.ts) | Easy  |
-| 剑指OfferII013 | 二维子矩阵的和 |  | Medium  |
+| 剑指OfferII013 | 二维子矩阵的和 | [JavaScript](./src/剑指OfferII013.O4NDxx.1000249/solution.js) [TypeScript](./src/剑指OfferII013.O4NDxx.1000249/solution.ts) | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/solution.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/solution.ts) | Medium  |
 | 剑指OfferII015 | 字符串中的所有变位词 | [JavaScript](./src/剑指OfferII015.VabMRr.1000251/solution.js) [TypeScript](./src/剑指OfferII015.VabMRr.1000251/solution.ts) | Medium  |
 | 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
@@ -2715,7 +2715,7 @@
 | 剑指OfferII100 | 三角形中最小路径之和 | [JavaScript](./src/剑指OfferII100.IlPe0q.1000286/solution.js) [TypeScript](./src/剑指OfferII100.IlPe0q.1000286/solution.ts) | Medium  |
 | 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/solution.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/solution.ts) | Easy  |
 | 剑指OfferII102 | 加减的目标值 |  | Medium  |
-| 剑指OfferII103 | 最少的硬币数目 |  | Medium  |
+| 剑指OfferII103 | 最少的硬币数目 | [JavaScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.js) [TypeScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.ts) | Medium  |
 | 剑指OfferII104 | 排列的数目 |  | Medium  |
 | 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.ts) | Medium  |
 | 剑指OfferII106 | 二分图 |  | Medium  |
