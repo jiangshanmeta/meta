@@ -224,7 +224,7 @@
 | 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/solution.js) [TypeScript](./src/0204.count-primes.204/solution.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/solution.js) [TypeScript](./src/0205.isomorphic-strings.205/solution.ts) | Easy  |
 | 0206 | Reverse Linked List | [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
-| 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) | Medium  |
+| 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) [TypeScript](./src/0207.course-schedule.207/solution.ts) | Medium  |
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./src/0208.implement-trie-prefix-tree.208/solution.js) | Medium  |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./src/0209.minimum-size-subarray-sum.209/solution.js) [TypeScript](./src/0209.minimum-size-subarray-sum.209/solution.ts) | Medium  |
 | 0210 | Course Schedule II |  | Medium  |
@@ -802,7 +802,7 @@
 | 0782 | Transform to Chessboard |  | Hard  |
 | 0783 | Minimum Distance Between BST Nodes | [JavaScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.js) [TypeScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.ts) | Easy  |
 | 0784 | Letter Case Permutation | [JavaScript](./src/0784.letter-case-permutation.800/solution.js) [TypeScript](./src/0784.letter-case-permutation.800/solution.ts) | Medium  |
-| 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/solution.js) | Medium  |
+| 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/solution.js) [TypeScript](./src/0785.is-graph-bipartite.801/solution.ts) | Medium  |
 | 0786 | K-th Smallest Prime Fraction |  | Medium  |
 | 0787 | Cheapest Flights Within K Stops |  | Medium  |
 | 0788 | Rotated Digits | [JavaScript](./src/0788.rotated-digits.804/solution.js) | Medium  |
@@ -814,7 +814,7 @@
 | 0794 | Valid Tic-Tac-Toe State | [JavaScript](./src/0794.valid-tic-tac-toe-state.810/solution.js) | Medium  |
 | 0795 | Number of Subarrays with Bounded Maximum | [JavaScript](./src/0795.number-of-subarrays-with-bounded-maximum.811/solution.js) | Medium  |
 | 0796 | Rotate String | [JavaScript](./src/0796.rotate-string.812/solution.js) [TypeScript](./src/0796.rotate-string.812/solution.ts) | Easy  |
-| 0797 | All Paths From Source to Target | [JavaScript](./src/0797.all-paths-from-source-to-target.813/solution.js) | Medium  |
+| 0797 | All Paths From Source to Target | [JavaScript](./src/0797.all-paths-from-source-to-target.813/solution.js) [TypeScript](./src/0797.all-paths-from-source-to-target.813/solution.ts) | Medium  |
 | 0798 | Smallest Rotation with Highest Score |  | Hard  |
 | 0799 | Champagne Tower | [JavaScript](./src/0799.champagne-tower.815/solution.js) | Medium  |
 | 0800 | Similar RGB Color | [JavaScript](./src/0800.similar-rgb-color.818/solution.js) [TypeScript](./src/0800.similar-rgb-color.818/solution.ts) | Easy  |
@@ -2209,7 +2209,7 @@
 | 2189 | Number of Ways to Build House of Cards |  | Medium  |
 | 2190 | Most Frequent Number Following Key In an Array | [JavaScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.js) [TypeScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.ts) | Easy  |
 | 2191 | Sort the Jumbled Numbers | [JavaScript](./src/2191.sort-the-jumbled-numbers.1333/solution.js) [TypeScript](./src/2191.sort-the-jumbled-numbers.1333/solution.ts) | Medium  |
-| 2192 | All Ancestors of a Node in a Directed Acyclic Graph |  | Medium  |
+| 2192 | All Ancestors of a Node in a Directed Acyclic Graph | [JavaScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.js) [TypeScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.ts) | Medium  |
 | 2193 | Minimum Number of Moves to Make Palindrome |  | Hard  |
 | 2194 | Cells in a Range on an Excel Sheet | [JavaScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.js) [TypeScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.ts) | Easy  |
 | 2195 | Append K Integers With Minimal Sum |  | Medium  |
@@ -2727,7 +2727,7 @@
 | 剑指OfferII103 | 最少的硬币数目 | [JavaScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.js) [TypeScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.ts) | Medium  |
 | 剑指OfferII104 | 排列的数目 |  | Medium  |
 | 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.ts) | Medium  |
-| 剑指OfferII106 | 二分图 |  | Medium  |
+| 剑指OfferII106 | 二分图 | [JavaScript](./src/剑指OfferII106.vEAB3K.1000294/solution.js) [TypeScript](./src/剑指OfferII106.vEAB3K.1000294/solution.ts) | Medium  |
 | 剑指OfferII107 | 矩阵中的距离 | [JavaScript](./src/剑指OfferII107.2bCMpM.1000296/solution.js) [TypeScript](./src/剑指OfferII107.2bCMpM.1000296/solution.ts) | Medium  |
 | 剑指OfferII108 | 单词演变 |  | Hard  |
 | 剑指OfferII109 | 开密码锁 |  | Medium  |
