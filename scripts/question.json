@@ -14597,8 +14597,8 @@
     {
         "id": 2191,
         "index": "2086",
-        "title": "Minimum Number of Buckets Required to Collect Rainwater from Houses",
-        "title_slug": "minimum-number-of-buckets-required-to-collect-rainwater-from-houses",
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "title_slug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
         "difficulty": 2
     },
     {
@@ -17203,6 +17203,41 @@
         "index": "2458",
         "title": "Height of Binary Tree After Subtree Removal Queries",
         "title_slug": "height-of-binary-tree-after-subtree-removal-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 2489,
+        "index": "2459",
+        "title": "Sort Array by Moving Items to Empty Space",
+        "title_slug": "sort-array-by-moving-items-to-empty-space",
+        "difficulty": 3
+    },
+    {
+        "id": 2551,
+        "index": "2460",
+        "title": "Apply Operations to an Array",
+        "title_slug": "apply-operations-to-an-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2552,
+        "index": "2461",
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "title_slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": 2
+    },
+    {
+        "id": 2553,
+        "index": "2462",
+        "title": "Total Cost to Hire K Workers",
+        "title_slug": "total-cost-to-hire-k-workers",
+        "difficulty": 2
+    },
+    {
+        "id": 2554,
+        "index": "2463",
+        "title": "Minimum Total Distance Traveled",
+        "title_slug": "minimum-total-distance-traveled",
         "difficulty": 3
     },
     {
