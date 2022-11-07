@@ -49,6 +49,7 @@ module.exports = {
         'no-useless-constructor': 'off',
         'no-prototype-builtins': 'off',
         '@typescript-eslint/no-empty-function': 'off',
+        'no-array-constructor': 'off',
     },
     parserOptions: {
         parser: 'babel-eslint',
