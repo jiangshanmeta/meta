@@ -2103,7 +2103,7 @@
 | 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
 | 2085 | Count Common Words With One Occurrence | [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.ts) | Easy  |
-| 2086 | Minimum Number of Buckets Required to Collect Rainwater from Houses | [JavaScript](./src/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191/solution.js) [TypeScript](./src/2086.minimum-number-of-buckets-required-to-collect-rainwater-from-houses.2191/solution.ts) | Medium  |
+| 2086 | Minimum Number of Food Buckets to Feed the Hamsters | [JavaScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.js) [TypeScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.ts) | Medium  |
 | 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
 | 2088 | Count Fertile Pyramids in a Land |  | Hard  |
 | 2089 | Find Target Indices After Sorting Array | [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.ts) | Easy  |
@@ -2476,6 +2476,11 @@
 | 2456 | Most Popular Video Creator | [JavaScript](./src/2456.most-popular-video-creator.2543/solution.js) [TypeScript](./src/2456.most-popular-video-creator.2543/solution.ts) | Medium  |
 | 2457 | Minimum Addition to Make Integer Beautiful | [JavaScript](./src/2457.minimum-addition-to-make-integer-beautiful.2544/solution.js) [TypeScript](./src/2457.minimum-addition-to-make-integer-beautiful.2544/solution.ts) | Medium  |
 | 2458 | Height of Binary Tree After Subtree Removal Queries | [JavaScript](./src/2458.height-of-binary-tree-after-subtree-removal-queries.2545/solution.js) [TypeScript](./src/2458.height-of-binary-tree-after-subtree-removal-queries.2545/solution.ts) | Hard  |
+| 2459 | Sort Array by Moving Items to Empty Space |  | Hard  |
+| 2460 | Apply Operations to an Array | [JavaScript](./src/2460.apply-operations-to-an-array.2551/solution.js) [TypeScript](./src/2460.apply-operations-to-an-array.2551/solution.ts) | Easy  |
+| 2461 | Maximum Sum of Distinct Subarrays With Length K | [JavaScript](./src/2461.maximum-sum-of-distinct-subarrays-with-length-k.2552/solution.js) [TypeScript](./src/2461.maximum-sum-of-distinct-subarrays-with-length-k.2552/solution.ts) | Medium  |
+| 2462 | Total Cost to Hire K Workers | [JavaScript](./src/2462.total-cost-to-hire-k-workers.2553/solution.js) [TypeScript](./src/2462.total-cost-to-hire-k-workers.2553/solution.ts) | Medium  |
+| 2463 | Minimum Total Distance Traveled |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2731,7 +2736,7 @@
 | 剑指OfferII107 | 矩阵中的距离 | [JavaScript](./src/剑指OfferII107.2bCMpM.1000296/solution.js) [TypeScript](./src/剑指OfferII107.2bCMpM.1000296/solution.ts) | Medium  |
 | 剑指OfferII108 | 单词演变 |  | Hard  |
 | 剑指OfferII109 | 开密码锁 |  | Medium  |
-| 剑指OfferII110 | 所有路径 |  | Medium  |
+| 剑指OfferII110 | 所有路径 | [JavaScript](./src/剑指OfferII110.bP4bmD.1000303/solution.js) [TypeScript](./src/剑指OfferII110.bP4bmD.1000303/solution.ts) | Medium  |
 | 剑指OfferII111 | 计算除法 |  | Medium  |
 | 剑指OfferII112 | 最长递增路径 |  | Hard  |
 | 剑指OfferII113 | 课程顺序 |  | Medium  |
