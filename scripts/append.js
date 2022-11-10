@@ -23,6 +23,7 @@ const rl = readline.createInterface({
 function getTitleSlug () {
     return new Promise((resolve) => {
         rl.question('title_slug? ', (title_slug) => {
+            title_slug = title_slug.trim();
             const question = questionMap[title_slug];
             console.log(question);
             if (!question) {
