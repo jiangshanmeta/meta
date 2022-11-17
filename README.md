@@ -227,7 +227,7 @@
 | 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) [TypeScript](./src/0207.course-schedule.207/solution.ts) | Medium  |
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./src/0208.implement-trie-prefix-tree.208/solution.js) | Medium  |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./src/0209.minimum-size-subarray-sum.209/solution.js) [TypeScript](./src/0209.minimum-size-subarray-sum.209/solution.ts) | Medium  |
-| 0210 | Course Schedule II |  | Medium  |
+| 0210 | Course Schedule II | [TypeScript](./src/0210.course-schedule-ii.210/solution.ts) | Medium  |
 | 0211 | Design Add and Search Words Data Structure | [JavaScript](./src/0211.design-add-and-search-words-data-structure.211/solution.js) | Medium  |
 | 0212 | Word Search II |  | Hard  |
 | 0213 | House Robber II | [JavaScript](./src/0213.house-robber-ii.213/solution.js) [TypeScript](./src/0213.house-robber-ii.213/solution.ts) | Medium  |
@@ -416,7 +416,7 @@
 | 0396 | Rotate Function | [JavaScript](./src/0396.rotate-function.396/solution.js) | Medium  |
 | 0397 | Integer Replacement | [JavaScript](./src/0397.integer-replacement.397/solution.js) | Medium  |
 | 0398 | Random Pick Index | [JavaScript](./src/0398.random-pick-index.398/solution.js) | Medium  |
-| 0399 | Evaluate Division |  | Medium  |
+| 0399 | Evaluate Division | [JavaScript](./src/0399.evaluate-division.399/solution.js) [TypeScript](./src/0399.evaluate-division.399/solution.ts) | Medium  |
 | 0400 | Nth Digit | [JavaScript](./src/0400.nth-digit.400/solution.js) | Medium  |
 | 0401 | Binary Watch | [JavaScript](./src/0401.binary-watch.401/solution.js) [TypeScript](./src/0401.binary-watch.401/solution.ts) | Easy  |
 | 0402 | Remove K Digits |  | Medium  |
@@ -1479,7 +1479,7 @@
 | 1459 | Rectangles Area |  | Medium  |
 | 1460 | Make Two Arrays Equal by Reversing Subarrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-subarrays.1556/solution.js) | Easy  |
 | 1461 | Check If a String Contains All Binary Codes of Size K | [JavaScript](./src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557/solution.js) | Medium  |
-| 1462 | Course Schedule IV |  | Medium  |
+| 1462 | Course Schedule IV | [TypeScript](./src/1462.course-schedule-iv.1558/solution.ts) | Medium  |
 | 1463 | Cherry Pickup II |  | Hard  |
 | 1464 | Maximum Product of Two Elements in an Array | [JavaScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.js) [TypeScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.ts) | Easy  |
 | 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | [JavaScript](./src/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.1575/solution.js) | Medium  |
@@ -2650,7 +2650,7 @@
 | 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/solution.js) [TypeScript](./src/剑指OfferII021.SLwz0R.1000257/solution.ts) | Medium  |
 | 剑指OfferII022 | 链表中环的入口节点 | [JavaScript](./src/剑指OfferII022.c32eOV.1000258/solution.js) | Medium  |
 | 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/solution.js) | Easy  |
-| 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) | Easy  |
+| 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) [TypeScript](./src/剑指OfferII024.UHnkqh.1000260/solution.ts) | Easy  |
 | 剑指OfferII025 | 链表中的两数相加 |  | Medium  |
 | 剑指OfferII026 | 重排链表 |  | Medium  |
 | 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
@@ -2737,10 +2737,10 @@
 | 剑指OfferII108 | 单词演变 |  | Hard  |
 | 剑指OfferII109 | 开密码锁 |  | Medium  |
 | 剑指OfferII110 | 所有路径 | [JavaScript](./src/剑指OfferII110.bP4bmD.1000303/solution.js) [TypeScript](./src/剑指OfferII110.bP4bmD.1000303/solution.ts) | Medium  |
-| 剑指OfferII111 | 计算除法 |  | Medium  |
+| 剑指OfferII111 | 计算除法 | [JavaScript](./src/剑指OfferII111.vlzXQL.1000305/solution.js) [TypeScript](./src/剑指OfferII111.vlzXQL.1000305/solution.ts) | Medium  |
 | 剑指OfferII112 | 最长递增路径 |  | Hard  |
-| 剑指OfferII113 | 课程顺序 |  | Medium  |
-| 剑指OfferII114 | 外星文字典 |  | Hard  |
+| 剑指OfferII113 | 课程顺序 | [TypeScript](./src/剑指OfferII113.QA2IGt.1000310/solution.ts) | Medium  |
+| 剑指OfferII114 | 外星文字典 | [JavaScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.js) [TypeScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.ts) | Hard  |
 | 剑指OfferII115 | 重建序列 |  | Medium  |
 | 剑指OfferII116 | 省份数量 | [JavaScript](./src/剑指OfferII116.bLyHh0.1000346/solution.js) | Medium  |
 | 剑指OfferII117 | 相似的字符串 |  | Hard  |
