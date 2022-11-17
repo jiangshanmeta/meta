@@ -227,7 +227,7 @@
 | 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) [TypeScript](./src/0207.course-schedule.207/solution.ts) | Medium  |
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./src/0208.implement-trie-prefix-tree.208/solution.js) | Medium  |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./src/0209.minimum-size-subarray-sum.209/solution.js) [TypeScript](./src/0209.minimum-size-subarray-sum.209/solution.ts) | Medium  |
-| 0210 | Course Schedule II | [TypeScript](./src/0210.course-schedule-ii.210/solution.ts) | Medium  |
+| 0210 | Course Schedule II | [JavaScript](./src/0210.course-schedule-ii.210/solution.js) [TypeScript](./src/0210.course-schedule-ii.210/solution.ts) | Medium  |
 | 0211 | Design Add and Search Words Data Structure | [JavaScript](./src/0211.design-add-and-search-words-data-structure.211/solution.js) | Medium  |
 | 0212 | Word Search II |  | Hard  |
 | 0213 | House Robber II | [JavaScript](./src/0213.house-robber-ii.213/solution.js) [TypeScript](./src/0213.house-robber-ii.213/solution.ts) | Medium  |
@@ -2376,7 +2376,7 @@
 | 2356 | Number of Unique Subjects Taught by Each Teacher |  | Easy  |
 | 2357 | Make Array Zero by Subtracting Equal Amounts | [JavaScript](./src/2357.make-array-zero-by-subtracting-equal-amounts.2436/solution.js) [TypeScript](./src/2357.make-array-zero-by-subtracting-equal-amounts.2436/solution.ts) | Easy  |
 | 2358 | Maximum Number of Groups Entering a Competition |  | Medium  |
-| 2359 | Find Closest Node to Given Two Nodes |  | Medium  |
+| 2359 | Find Closest Node to Given Two Nodes | [JavaScript](./src/2359.find-closest-node-to-given-two-nodes.2438/solution.js) [TypeScript](./src/2359.find-closest-node-to-given-two-nodes.2438/solution.ts) | Medium  |
 | 2360 | Longest Cycle in a Graph |  | Hard  |
 | 2361 | Minimum Costs Using the Train Line |  | Hard  |
 | 2362 | Generate the Invoice |  | Hard  |
@@ -2385,13 +2385,13 @@
 | 2365 | Task Scheduler II |  | Medium  |
 | 2366 | Minimum Replacements to Sort the Array |  | Hard  |
 | 2367 | Number of Arithmetic Triplets | [JavaScript](./src/2367.number-of-arithmetic-triplets.2442/solution.js) [TypeScript](./src/2367.number-of-arithmetic-triplets.2442/solution.ts) | Easy  |
-| 2368 | Reachable Nodes With Restrictions |  | Medium  |
+| 2368 | Reachable Nodes With Restrictions | [JavaScript](./src/2368.reachable-nodes-with-restrictions.2445/solution.js) [TypeScript](./src/2368.reachable-nodes-with-restrictions.2445/solution.ts) | Medium  |
 | 2369 | Check if There is a Valid Partition For The Array |  | Medium  |
 | 2370 | Longest Ideal Subsequence |  | Medium  |
 | 2371 | Minimize Maximum Value in a Grid |  | Hard  |
 | 2372 | Calculate the Influence of Each Salesperson |  | Medium  |
 | 2373 | Largest Local Values in a Matrix | [JavaScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.js) [TypeScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.ts) | Easy  |
-| 2374 | Node With Highest Edge Score |  | Medium  |
+| 2374 | Node With Highest Edge Score | [JavaScript](./src/2374.node-with-highest-edge-score.2455/solution.js) [TypeScript](./src/2374.node-with-highest-edge-score.2455/solution.ts) | Medium  |
 | 2375 | Construct Smallest Number From DI String |  | Medium  |
 | 2376 | Count Special Integers |  | Hard  |
 | 2377 | Sort the Olympic Table |  | Easy  |
@@ -2739,7 +2739,7 @@
 | 剑指OfferII110 | 所有路径 | [JavaScript](./src/剑指OfferII110.bP4bmD.1000303/solution.js) [TypeScript](./src/剑指OfferII110.bP4bmD.1000303/solution.ts) | Medium  |
 | 剑指OfferII111 | 计算除法 | [JavaScript](./src/剑指OfferII111.vlzXQL.1000305/solution.js) [TypeScript](./src/剑指OfferII111.vlzXQL.1000305/solution.ts) | Medium  |
 | 剑指OfferII112 | 最长递增路径 |  | Hard  |
-| 剑指OfferII113 | 课程顺序 | [TypeScript](./src/剑指OfferII113.QA2IGt.1000310/solution.ts) | Medium  |
+| 剑指OfferII113 | 课程顺序 | [JavaScript](./src/剑指OfferII113.QA2IGt.1000310/solution.js) [TypeScript](./src/剑指OfferII113.QA2IGt.1000310/solution.ts) | Medium  |
 | 剑指OfferII114 | 外星文字典 | [JavaScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.js) [TypeScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.ts) | Hard  |
 | 剑指OfferII115 | 重建序列 |  | Medium  |
 | 剑指OfferII116 | 省份数量 | [JavaScript](./src/剑指OfferII116.bLyHh0.1000346/solution.js) | Medium  |
