@@ -2398,7 +2398,7 @@
 | 2378 | Choose Edges to Maximize Score in a Tree |  | Medium  |
 | 2379 | Minimum Recolors to Get K Consecutive Black Blocks | [JavaScript](./src/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463/solution.js) [TypeScript](./src/2379.minimum-recolors-to-get-k-consecutive-black-blocks.2463/solution.ts) | Easy  |
 | 2380 | Time Needed to Rearrange a Binary String |  | Medium  |
-| 2381 | Shifting Letters II |  | Medium  |
+| 2381 | Shifting Letters II | [TypeScript](./src/2381.shifting-letters-ii.2465/solution.ts) | Medium  |
 | 2382 | Maximum Segment Sum After Removals |  | Hard  |
 | 2383 | Minimum Hours of Training to Win a Competition | [JavaScript](./src/2383.minimum-hours-of-training-to-win-a-competition.2459/solution.js) [TypeScript](./src/2383.minimum-hours-of-training-to-win-a-competition.2459/solution.ts) | Easy  |
 | 2384 | Largest Palindromic Number | [JavaScript](./src/2384.largest-palindromic-number.2475/solution.js) [TypeScript](./src/2384.largest-palindromic-number.2475/solution.ts) | Medium  |
@@ -2464,7 +2464,7 @@
 | 2444 | Count Subarrays With Fixed Bounds |  | Hard  |
 | 2445 | Number of Nodes With Value One |  | Medium  |
 | 2446 | Determine if Two Events Have Conflict | [JavaScript](./src/2446.determine-if-two-events-have-conflict.2536/solution.js) [TypeScript](./src/2446.determine-if-two-events-have-conflict.2536/solution.ts) | Easy  |
-| 2447 | Number of Subarrays With GCD Equal to K |  | Medium  |
+| 2447 | Number of Subarrays With GCD Equal to K | [TypeScript](./src/2447.number-of-subarrays-with-gcd-equal-to-k.2546/solution.ts) | Medium  |
 | 2448 | Minimum Cost to Make Array Equal |  | Hard  |
 | 2449 | Minimum Number of Operations to Make Arrays Similar |  | Hard  |
 | 2450 | Number of Distinct Binary Strings After Applying Operations |  | Medium  |
@@ -2642,7 +2642,7 @@
 | 剑指OfferII013 | 二维子矩阵的和 | [JavaScript](./src/剑指OfferII013.O4NDxx.1000249/solution.js) [TypeScript](./src/剑指OfferII013.O4NDxx.1000249/solution.ts) | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/solution.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/solution.ts) | Medium  |
 | 剑指OfferII015 | 字符串中的所有变位词 | [JavaScript](./src/剑指OfferII015.VabMRr.1000251/solution.js) [TypeScript](./src/剑指OfferII015.VabMRr.1000251/solution.ts) | Medium  |
-| 剑指OfferII016 | 不含重复字符的最长子字符串 |  | Medium  |
+| 剑指OfferII016 | 不含重复字符的最长子字符串 | [TypeScript](./src/剑指OfferII016.wtcaE1.1000252/solution.ts) | Medium  |
 | 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
 | 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/solution.js) [TypeScript](./src/剑指OfferII018.XltzEq.1000254/solution.ts) | Easy  |
 | 剑指OfferII019 | 最多删除一个字符得到回文 | [JavaScript](./src/剑指OfferII019.RQku0D.1000255/solution.js) | Easy  |
@@ -2730,7 +2730,7 @@
 | 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/solution.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/solution.ts) | Easy  |
 | 剑指OfferII102 | 加减的目标值 |  | Medium  |
 | 剑指OfferII103 | 最少的硬币数目 | [JavaScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.js) [TypeScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.ts) | Medium  |
-| 剑指OfferII104 | 排列的数目 |  | Medium  |
+| 剑指OfferII104 | 排列的数目 | [TypeScript](./src/剑指OfferII104.D0F0SV.1000290/solution.ts) | Medium  |
 | 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.ts) | Medium  |
 | 剑指OfferII106 | 二分图 | [JavaScript](./src/剑指OfferII106.vEAB3K.1000294/solution.js) [TypeScript](./src/剑指OfferII106.vEAB3K.1000294/solution.ts) | Medium  |
 | 剑指OfferII107 | 矩阵中的距离 | [JavaScript](./src/剑指OfferII107.2bCMpM.1000296/solution.js) [TypeScript](./src/剑指OfferII107.2bCMpM.1000296/solution.ts) | Medium  |
@@ -2855,6 +2855,6 @@
 | 面试题17_24 | Max Submatrix LCCI |  | Hard  |
 | 面试题17_25 | Word Rectangle LCCI |  | Hard  |
 | 面试题17_26 | Sparse Similarity LCCI |  | Hard  |
-| LCS01 | 下载插件 |  | Easy  |
-| LCS02 | 完成一半题目 |  | Easy  |
-| LCS03 | 主题空间 |  | Medium  |
+| LCS01 | 下载插件 | [TypeScript](./src/LCS01.Ju9Xwi.1000225/solution.ts) | Easy  |
+| LCS02 | 完成一半题目 | [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
+| LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
