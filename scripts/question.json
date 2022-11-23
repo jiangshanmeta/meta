@@ -17241,6 +17241,111 @@
         "difficulty": 3
     },
     {
+        "id": 2607,
+        "index": "2464",
+        "title": "Minimum Subarrays in a Valid Split",
+        "title_slug": "minimum-subarrays-in-a-valid-split",
+        "difficulty": 2
+    },
+    {
+        "id": 2561,
+        "index": "2465",
+        "title": "Number of Distinct Averages",
+        "title_slug": "number-of-distinct-averages",
+        "difficulty": 1
+    },
+    {
+        "id": 2562,
+        "index": "2466",
+        "title": "Count Ways To Build Good Strings",
+        "title_slug": "count-ways-to-build-good-strings",
+        "difficulty": 2
+    },
+    {
+        "id": 2564,
+        "index": "2467",
+        "title": "Most Profitable Path in a Tree",
+        "title_slug": "most-profitable-path-in-a-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 2563,
+        "index": "2468",
+        "title": "Split Message Based on Limit",
+        "title_slug": "split-message-based-on-limit",
+        "difficulty": 3
+    },
+    {
+        "id": 2556,
+        "index": "2469",
+        "title": "Convert the Temperature",
+        "title_slug": "convert-the-temperature",
+        "difficulty": 1
+    },
+    {
+        "id": 2557,
+        "index": "2470",
+        "title": "Number of Subarrays With LCM Equal to K",
+        "title_slug": "number-of-subarrays-with-lcm-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 2558,
+        "index": "2471",
+        "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+        "title_slug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+        "difficulty": 2
+    },
+    {
+        "id": 2559,
+        "index": "2472",
+        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "title_slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+        "difficulty": 3
+    },
+    {
+        "id": 2612,
+        "index": "2473",
+        "title": "Minimum Cost to Buy Apples",
+        "title_slug": "minimum-cost-to-buy-apples",
+        "difficulty": 2
+    },
+    {
+        "id": 2613,
+        "index": "2474",
+        "title": "Customers With Strictly Increasing Purchases",
+        "title_slug": "customers-with-strictly-increasing-purchases",
+        "difficulty": 3
+    },
+    {
+        "id": 2566,
+        "index": "2475",
+        "title": "Number of Unequal Triplets in Array",
+        "title_slug": "number-of-unequal-triplets-in-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2567,
+        "index": "2476",
+        "title": "Closest Nodes Queries in a Binary Search Tree",
+        "title_slug": "closest-nodes-queries-in-a-binary-search-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 2568,
+        "index": "2477",
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "title_slug": "minimum-fuel-cost-to-report-to-the-capital",
+        "difficulty": 2
+    },
+    {
+        "id": 2569,
+        "index": "2478",
+        "title": "Number of Beautiful Partitions",
+        "title_slug": "number-of-beautiful-partitions",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -18047,7 +18152,7 @@
     },
     {
         "id": 100323,
-        "index": "剑指Offer45",
+        "index": "面试题45",
         "title": "把数组排成最小的数 LCOF",
         "title_slug": "ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof",
         "difficulty": 2
@@ -18201,7 +18306,7 @@
     },
     {
         "id": 100341,
-        "index": "剑指Offer61",
+        "index": "面试题61",
         "title": "扑克牌中的顺子  LCOF",
         "title_slug": "bu-ke-pai-zhong-de-shun-zi-lcof",
         "difficulty": 1
@@ -19259,7 +19364,7 @@
     {
         "id": 100171,
         "index": "面试题04_01",
-        "title": "Route Between Nodes LCCI",
+        "title": "Route Between Nodes LCCI ",
         "title_slug": "route-between-nodes-lcci",
         "difficulty": 2
     },
