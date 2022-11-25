@@ -2486,15 +2486,15 @@
 | 2466 | Count Ways To Build Good Strings | [JavaScript](./src/2466.count-ways-to-build-good-strings.2562/solution.js) [TypeScript](./src/2466.count-ways-to-build-good-strings.2562/solution.ts) | Medium  |
 | 2467 | Most Profitable Path in a Tree | [JavaScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.js) [TypeScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.ts) | Medium  |
 | 2468 | Split Message Based on Limit | [JavaScript](./src/2468.split-message-based-on-limit.2563/solution.js) [TypeScript](./src/2468.split-message-based-on-limit.2563/solution.ts) | Hard  |
-| 2469 | Convert the Temperature |  | Easy  |
-| 2470 | Number of Subarrays With LCM Equal to K |  | Medium  |
-| 2471 | Minimum Number of Operations to Sort a Binary Tree by Level |  | Medium  |
+| 2469 | Convert the Temperature | [JavaScript](./src/2469.convert-the-temperature.2556/solution.js) [TypeScript](./src/2469.convert-the-temperature.2556/solution.ts) | Easy  |
+| 2470 | Number of Subarrays With LCM Equal to K | [JavaScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.js) [TypeScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.ts) | Medium  |
+| 2471 | Minimum Number of Operations to Sort a Binary Tree by Level | [JavaScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.js) [TypeScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.ts) | Medium  |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings |  | Hard  |
 | 2473 | Minimum Cost to Buy Apples |  | Medium  |
 | 2474 | Customers With Strictly Increasing Purchases |  | Hard  |
-| 2475 | Number of Unequal Triplets in Array |  | Easy  |
-| 2476 | Closest Nodes Queries in a Binary Search Tree |  | Medium  |
-| 2477 | Minimum Fuel Cost to Report to the Capital |  | Medium  |
+| 2475 | Number of Unequal Triplets in Array | [JavaScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.js) [TypeScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.ts) | Easy  |
+| 2476 | Closest Nodes Queries in a Binary Search Tree | [JavaScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.js) [TypeScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.ts) | Medium  |
+| 2477 | Minimum Fuel Cost to Report to the Capital | [JavaScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.js) [TypeScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.ts) | Medium  |
 | 2478 | Number of Beautiful Partitions |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
