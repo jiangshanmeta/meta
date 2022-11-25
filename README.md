@@ -809,7 +809,7 @@
 | 0789 | Escape The Ghosts | [JavaScript](./src/0789.escape-the-ghosts.805/solution.js) [TypeScript](./src/0789.escape-the-ghosts.805/solution.ts) | Medium  |
 | 0790 | Domino and Tromino Tiling |  | Medium  |
 | 0791 | Custom Sort String | [JavaScript](./src/0791.custom-sort-string.807/solution.js) [TypeScript](./src/0791.custom-sort-string.807/solution.ts) | Medium  |
-| 0792 | Number of Matching Subsequences | [JavaScript](./src/0792.number-of-matching-subsequences.808/solution.js) | Medium  |
+| 0792 | Number of Matching Subsequences | [JavaScript](./src/0792.number-of-matching-subsequences.808/solution.js) [TypeScript](./src/0792.number-of-matching-subsequences.808/solution.ts) | Medium  |
 | 0793 | Preimage Size of Factorial Zeroes Function |  | Hard  |
 | 0794 | Valid Tic-Tac-Toe State | [JavaScript](./src/0794.valid-tic-tac-toe-state.810/solution.js) | Medium  |
 | 0795 | Number of Subarrays with Bounded Maximum | [JavaScript](./src/0795.number-of-subarrays-with-bounded-maximum.811/solution.js) | Medium  |
@@ -2481,6 +2481,21 @@
 | 2461 | Maximum Sum of Distinct Subarrays With Length K | [JavaScript](./src/2461.maximum-sum-of-distinct-subarrays-with-length-k.2552/solution.js) [TypeScript](./src/2461.maximum-sum-of-distinct-subarrays-with-length-k.2552/solution.ts) | Medium  |
 | 2462 | Total Cost to Hire K Workers | [JavaScript](./src/2462.total-cost-to-hire-k-workers.2553/solution.js) [TypeScript](./src/2462.total-cost-to-hire-k-workers.2553/solution.ts) | Medium  |
 | 2463 | Minimum Total Distance Traveled |  | Hard  |
+| 2464 | Minimum Subarrays in a Valid Split |  | Medium  |
+| 2465 | Number of Distinct Averages | [JavaScript](./src/2465.number-of-distinct-averages.2561/solution.js) [TypeScript](./src/2465.number-of-distinct-averages.2561/solution.ts) | Easy  |
+| 2466 | Count Ways To Build Good Strings | [JavaScript](./src/2466.count-ways-to-build-good-strings.2562/solution.js) [TypeScript](./src/2466.count-ways-to-build-good-strings.2562/solution.ts) | Medium  |
+| 2467 | Most Profitable Path in a Tree | [JavaScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.js) [TypeScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.ts) | Medium  |
+| 2468 | Split Message Based on Limit | [JavaScript](./src/2468.split-message-based-on-limit.2563/solution.js) [TypeScript](./src/2468.split-message-based-on-limit.2563/solution.ts) | Hard  |
+| 2469 | Convert the Temperature |  | Easy  |
+| 2470 | Number of Subarrays With LCM Equal to K |  | Medium  |
+| 2471 | Minimum Number of Operations to Sort a Binary Tree by Level |  | Medium  |
+| 2472 | Maximum Number of Non-overlapping Palindrome Substrings |  | Hard  |
+| 2473 | Minimum Cost to Buy Apples |  | Medium  |
+| 2474 | Customers With Strictly Increasing Purchases |  | Hard  |
+| 2475 | Number of Unequal Triplets in Array |  | Easy  |
+| 2476 | Closest Nodes Queries in a Binary Search Tree |  | Medium  |
+| 2477 | Minimum Fuel Cost to Report to the Capital |  | Medium  |
+| 2478 | Number of Beautiful Partitions |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2596,7 +2611,7 @@
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
 | 剑指Offer44 | 数字序列中某一位的数字  LCOF | [JavaScript](./src/剑指Offer44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
-| 剑指Offer45 | 把数组排成最小的数 LCOF | [JavaScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
+| 面试题45 | 把数组排成最小的数 LCOF |  | Medium  |
 | 剑指Offer46 | 把数字翻译成字符串 LCOF | [JavaScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
 | 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./src/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
@@ -2618,7 +2633,7 @@
 | 面试题59-II | 队列的最大值 LCOF | [JavaScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
-| 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
+| 面试题61 | 扑克牌中的顺子  LCOF |  | Easy  |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
 | 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
 | 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
@@ -2769,7 +2784,7 @@
 | 面试题03_04 | Implement Queue using Stacks LCCI | [JavaScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/solution.js) [TypeScript](./src/面试题03_04.implement-queue-using-stacks-lcci.100170/solution.ts) | Easy  |
 | 面试题03_05 | Sort of Stacks LCCI | [JavaScript](./src/面试题03_05.sort-of-stacks-lcci.100173/solution.js) [TypeScript](./src/面试题03_05.sort-of-stacks-lcci.100173/solution.ts) | Medium  |
 | 面试题03_06 | Animal Shelter LCCI | [JavaScript](./src/面试题03_06.animal-shelter-lcci.100228/solution.js) [TypeScript](./src/面试题03_06.animal-shelter-lcci.100228/solution.ts) | Easy  |
-| 面试题04_01 | Route Between Nodes LCCI | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.ts) | Medium  |
+| 面试题04_01 | Route Between Nodes LCCI  | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.ts) | Medium  |
 | 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./src/面试题04_02.minimum-height-tree-lcci.100174/solution.js) [TypeScript](./src/面试题04_02.minimum-height-tree-lcci.100174/solution.ts) | Easy  |
 | 面试题04_03 | List of Depth LCCI | [JavaScript](./src/面试题04_03.list-of-depth-lcci.100175/solution.js) [TypeScript](./src/面试题04_03.list-of-depth-lcci.100175/solution.ts) | Medium  |
 | 面试题04_04 | Check Balance LCCI | [JavaScript](./src/面试题04_04.check-balance-lcci.100176/solution.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/solution.ts) | Easy  |
