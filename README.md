@@ -2648,11 +2648,11 @@
 | 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
 | 剑指OfferII005 | 单词长度的最大乘积 | [JavaScript](./src/剑指OfferII005.aseY1I.1000236/solution.js) [TypeScript](./src/剑指OfferII005.aseY1I.1000236/solution.ts) | Medium  |
 | 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/solution.js) | Easy  |
-| 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
-| 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
-| 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
+| 剑指OfferII007 | 数组中和为 0 的三个数 | [TypeScript](./src/剑指OfferII007.1fGaJU.1000239/solution.ts) | Medium  |
+| 剑指OfferII008 | 和大于等于 target 的最短子数组 | [TypeScript](./src/剑指OfferII008.2VG8Kg.1000242/solution.ts) | Medium  |
+| 剑指OfferII009 | 乘积小于 K 的子数组 | [TypeScript](./src/剑指OfferII009.ZVAVXX.1000244/solution.ts) | Medium  |
 | 剑指OfferII010 | 和为 k 的子数组 | [JavaScript](./src/剑指OfferII010.QTMn0o.1000246/solution.js) [TypeScript](./src/剑指OfferII010.QTMn0o.1000246/solution.ts) | Medium  |
-| 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
+| 剑指OfferII011 | 0 和 1 个数相同的子数组 | [TypeScript](./src/剑指OfferII011.A1NYOS.1000247/solution.ts) | Medium  |
 | 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/solution.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/solution.ts) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 | [JavaScript](./src/剑指OfferII013.O4NDxx.1000249/solution.js) [TypeScript](./src/剑指OfferII013.O4NDxx.1000249/solution.ts) | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/solution.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/solution.ts) | Medium  |
