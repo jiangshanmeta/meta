@@ -2486,15 +2486,15 @@
 | 2466 | Count Ways To Build Good Strings | [JavaScript](./src/2466.count-ways-to-build-good-strings.2562/solution.js) [TypeScript](./src/2466.count-ways-to-build-good-strings.2562/solution.ts) | Medium  |
 | 2467 | Most Profitable Path in a Tree | [JavaScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.js) [TypeScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.ts) | Medium  |
 | 2468 | Split Message Based on Limit | [JavaScript](./src/2468.split-message-based-on-limit.2563/solution.js) [TypeScript](./src/2468.split-message-based-on-limit.2563/solution.ts) | Hard  |
-| 2469 | Convert the Temperature |  | Easy  |
-| 2470 | Number of Subarrays With LCM Equal to K |  | Medium  |
-| 2471 | Minimum Number of Operations to Sort a Binary Tree by Level |  | Medium  |
+| 2469 | Convert the Temperature | [JavaScript](./src/2469.convert-the-temperature.2556/solution.js) [TypeScript](./src/2469.convert-the-temperature.2556/solution.ts) | Easy  |
+| 2470 | Number of Subarrays With LCM Equal to K | [JavaScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.js) [TypeScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.ts) | Medium  |
+| 2471 | Minimum Number of Operations to Sort a Binary Tree by Level | [JavaScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.js) [TypeScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.ts) | Medium  |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings |  | Hard  |
 | 2473 | Minimum Cost to Buy Apples |  | Medium  |
 | 2474 | Customers With Strictly Increasing Purchases |  | Hard  |
-| 2475 | Number of Unequal Triplets in Array |  | Easy  |
-| 2476 | Closest Nodes Queries in a Binary Search Tree |  | Medium  |
-| 2477 | Minimum Fuel Cost to Report to the Capital |  | Medium  |
+| 2475 | Number of Unequal Triplets in Array | [JavaScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.js) [TypeScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.ts) | Easy  |
+| 2476 | Closest Nodes Queries in a Binary Search Tree | [JavaScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.js) [TypeScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.ts) | Medium  |
+| 2477 | Minimum Fuel Cost to Report to the Capital | [JavaScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.js) [TypeScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.ts) | Medium  |
 | 2478 | Number of Beautiful Partitions |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
@@ -2648,11 +2648,11 @@
 | 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
 | 剑指OfferII005 | 单词长度的最大乘积 | [JavaScript](./src/剑指OfferII005.aseY1I.1000236/solution.js) [TypeScript](./src/剑指OfferII005.aseY1I.1000236/solution.ts) | Medium  |
 | 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/solution.js) | Easy  |
-| 剑指OfferII007 | 数组中和为 0 的三个数 |  | Medium  |
-| 剑指OfferII008 | 和大于等于 target 的最短子数组 |  | Medium  |
-| 剑指OfferII009 | 乘积小于 K 的子数组 |  | Medium  |
+| 剑指OfferII007 | 数组中和为 0 的三个数 | [TypeScript](./src/剑指OfferII007.1fGaJU.1000239/solution.ts) | Medium  |
+| 剑指OfferII008 | 和大于等于 target 的最短子数组 | [TypeScript](./src/剑指OfferII008.2VG8Kg.1000242/solution.ts) | Medium  |
+| 剑指OfferII009 | 乘积小于 K 的子数组 | [TypeScript](./src/剑指OfferII009.ZVAVXX.1000244/solution.ts) | Medium  |
 | 剑指OfferII010 | 和为 k 的子数组 | [JavaScript](./src/剑指OfferII010.QTMn0o.1000246/solution.js) [TypeScript](./src/剑指OfferII010.QTMn0o.1000246/solution.ts) | Medium  |
-| 剑指OfferII011 | 0 和 1 个数相同的子数组 |  | Medium  |
+| 剑指OfferII011 | 0 和 1 个数相同的子数组 | [TypeScript](./src/剑指OfferII011.A1NYOS.1000247/solution.ts) | Medium  |
 | 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/solution.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/solution.ts) | Easy  |
 | 剑指OfferII013 | 二维子矩阵的和 | [JavaScript](./src/剑指OfferII013.O4NDxx.1000249/solution.js) [TypeScript](./src/剑指OfferII013.O4NDxx.1000249/solution.ts) | Medium  |
 | 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/solution.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/solution.ts) | Medium  |
