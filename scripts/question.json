@@ -17346,6 +17346,76 @@
         "difficulty": 3
     },
     {
+        "id": 2623,
+        "index": "2479",
+        "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "title_slug": "maximum-xor-of-two-non-overlapping-subtrees",
+        "difficulty": 3
+    },
+    {
+        "id": 2622,
+        "index": "2480",
+        "title": "Form a Chemical Bond",
+        "title_slug": "form-a-chemical-bond",
+        "difficulty": 1
+    },
+    {
+        "id": 2575,
+        "index": "2481",
+        "title": "Minimum Cuts to Divide a Circle",
+        "title_slug": "minimum-cuts-to-divide-a-circle",
+        "difficulty": 1
+    },
+    {
+        "id": 2606,
+        "index": "2482",
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "title_slug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": 2
+    },
+    {
+        "id": 2576,
+        "index": "2483",
+        "title": "Minimum Penalty for a Shop",
+        "title_slug": "minimum-penalty-for-a-shop",
+        "difficulty": 2
+    },
+    {
+        "id": 2577,
+        "index": "2484",
+        "title": "Count Palindromic Subsequences",
+        "title_slug": "count-palindromic-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 2571,
+        "index": "2485",
+        "title": "Find the Pivot Integer",
+        "title_slug": "find-the-pivot-integer",
+        "difficulty": 1
+    },
+    {
+        "id": 2572,
+        "index": "2486",
+        "title": "Append Characters to String to Make Subsequence",
+        "title_slug": "append-characters-to-string-to-make-subsequence",
+        "difficulty": 2
+    },
+    {
+        "id": 2573,
+        "index": "2487",
+        "title": "Remove Nodes From Linked List",
+        "title_slug": "remove-nodes-from-linked-list",
+        "difficulty": 2
+    },
+    {
+        "id": 2574,
+        "index": "2488",
+        "title": "Count Subarrays With Median K",
+        "title_slug": "count-subarrays-with-median-k",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
