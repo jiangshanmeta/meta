@@ -2500,10 +2500,10 @@
 | 2480 | Form a Chemical Bond |  | Easy  |
 | 2481 | Minimum Cuts to Divide a Circle | [JavaScript](./src/2481.minimum-cuts-to-divide-a-circle.2575/solution.js) [TypeScript](./src/2481.minimum-cuts-to-divide-a-circle.2575/solution.ts) | Easy  |
 | 2482 | Difference Between Ones and Zeros in Row and Column | [JavaScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.js) [TypeScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.ts) | Medium  |
-| 2483 | Minimum Penalty for a Shop |  | Medium  |
+| 2483 | Minimum Penalty for a Shop | [JavaScript](./src/2483.minimum-penalty-for-a-shop.2576/solution.js) [TypeScript](./src/2483.minimum-penalty-for-a-shop.2576/solution.ts) | Medium  |
 | 2484 | Count Palindromic Subsequences |  | Hard  |
-| 2485 | Find the Pivot Integer |  | Easy  |
-| 2486 | Append Characters to String to Make Subsequence |  | Medium  |
+| 2485 | Find the Pivot Integer | [JavaScript](./src/2485.find-the-pivot-integer.2571/solution.js) [TypeScript](./src/2485.find-the-pivot-integer.2571/solution.ts) | Easy  |
+| 2486 | Append Characters to String to Make Subsequence | [JavaScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.js) [TypeScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.ts) | Medium  |
 | 2487 | Remove Nodes From Linked List |  | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
