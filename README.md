@@ -2495,7 +2495,17 @@
 | 2475 | Number of Unequal Triplets in Array | [JavaScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.js) [TypeScript](./src/2475.number-of-unequal-triplets-in-array.2566/solution.ts) | Easy  |
 | 2476 | Closest Nodes Queries in a Binary Search Tree | [JavaScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.js) [TypeScript](./src/2476.closest-nodes-queries-in-a-binary-search-tree.2567/solution.ts) | Medium  |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [JavaScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.js) [TypeScript](./src/2477.minimum-fuel-cost-to-report-to-the-capital.2568/solution.ts) | Medium  |
-| 2478 | Number of Beautiful Partitions |  | Hard  |
+| 2478 | Number of Beautiful Partitions | [JavaScript](./src/2478.number-of-beautiful-partitions.2569/solution.js) [TypeScript](./src/2478.number-of-beautiful-partitions.2569/solution.ts) | Hard  |
+| 2479 | Maximum XOR of Two Non-Overlapping Subtrees |  | Hard  |
+| 2480 | Form a Chemical Bond |  | Easy  |
+| 2481 | Minimum Cuts to Divide a Circle | [JavaScript](./src/2481.minimum-cuts-to-divide-a-circle.2575/solution.js) [TypeScript](./src/2481.minimum-cuts-to-divide-a-circle.2575/solution.ts) | Easy  |
+| 2482 | Difference Between Ones and Zeros in Row and Column | [JavaScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.js) [TypeScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.ts) | Medium  |
+| 2483 | Minimum Penalty for a Shop |  | Medium  |
+| 2484 | Count Palindromic Subsequences |  | Hard  |
+| 2485 | Find the Pivot Integer |  | Easy  |
+| 2486 | Append Characters to String to Make Subsequence |  | Medium  |
+| 2487 | Remove Nodes From Linked List |  | Medium  |
+| 2488 | Count Subarrays With Median K |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
