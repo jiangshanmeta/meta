@@ -2504,7 +2504,7 @@
 | 2484 | Count Palindromic Subsequences |  | Hard  |
 | 2485 | Find the Pivot Integer | [JavaScript](./src/2485.find-the-pivot-integer.2571/solution.js) [TypeScript](./src/2485.find-the-pivot-integer.2571/solution.ts) | Easy  |
 | 2486 | Append Characters to String to Make Subsequence | [JavaScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.js) [TypeScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.ts) | Medium  |
-| 2487 | Remove Nodes From Linked List |  | Medium  |
+| 2487 | Remove Nodes From Linked List | [JavaScript](./src/2487.remove-nodes-from-linked-list.2573/solution.js) [TypeScript](./src/2487.remove-nodes-from-linked-list.2573/solution.ts) | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
@@ -2732,8 +2732,8 @@
 | 剑指OfferII078 | 合并排序链表 |  | Hard  |
 | 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/solution.js) | Medium  |
 | 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) | Medium  |
-| 剑指OfferII081 | 允许重复选择元素的组合 |  | Medium  |
-| 剑指OfferII082 | 含有重复元素集合的组合 |  | Medium  |
+| 剑指OfferII081 | 允许重复选择元素的组合 | [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
+| 剑指OfferII082 | 含有重复元素集合的组合 | [TypeScript](./src/剑指OfferII082.4sjJUc.1000232/solution.ts) | Medium  |
 | 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/solution.js) | Medium  |
 | 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.js) | Medium  |
 | 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/solution.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/solution.ts) | Medium  |
