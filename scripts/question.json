@@ -17416,6 +17416,41 @@
         "difficulty": 3
     },
     {
+        "id": 2629,
+        "index": "2489",
+        "title": "Number of Substrings With Fixed Ratio",
+        "title_slug": "number-of-substrings-with-fixed-ratio",
+        "difficulty": 2
+    },
+    {
+        "id": 2580,
+        "index": "6253",
+        "title": "Circular Sentence",
+        "title_slug": "circular-sentence",
+        "difficulty": 1
+    },
+    {
+        "id": 2581,
+        "index": "6254",
+        "title": "Divide Players Into Teams of Equal Skill",
+        "title_slug": "divide-players-into-teams-of-equal-skill",
+        "difficulty": 2
+    },
+    {
+        "id": 2582,
+        "index": "6255",
+        "title": "Minimum Score of a Path Between Two Cities",
+        "title_slug": "minimum-score-of-a-path-between-two-cities",
+        "difficulty": 2
+    },
+    {
+        "id": 2583,
+        "index": "6256",
+        "title": "Divide Nodes Into the Maximum Number of Groups",
+        "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
