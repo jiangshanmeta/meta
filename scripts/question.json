@@ -17424,30 +17424,37 @@
     },
     {
         "id": 2580,
-        "index": "6253",
+        "index": "2490",
         "title": "Circular Sentence",
         "title_slug": "circular-sentence",
         "difficulty": 1
     },
     {
         "id": 2581,
-        "index": "6254",
+        "index": "2491",
         "title": "Divide Players Into Teams of Equal Skill",
         "title_slug": "divide-players-into-teams-of-equal-skill",
         "difficulty": 2
     },
     {
         "id": 2582,
-        "index": "6255",
+        "index": "2492",
         "title": "Minimum Score of a Path Between Two Cities",
         "title_slug": "minimum-score-of-a-path-between-two-cities",
         "difficulty": 2
     },
     {
         "id": 2583,
-        "index": "6256",
+        "index": "2493",
         "title": "Divide Nodes Into the Maximum Number of Groups",
         "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
+        "difficulty": 3
+    },
+    {
+        "id": 2637,
+        "index": "2494",
+        "title": "Merge Overlapping Events in the Same Hall",
+        "title_slug": "merge-overlapping-events-in-the-same-hall",
         "difficulty": 3
     },
     {
@@ -18453,7 +18460,7 @@
     },
     {
         "id": 100340,
-        "index": "剑指Offer67",
+        "index": "面试题67",
         "title": "把字符串转换成整数 LCOF",
         "title_slug": "ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof",
         "difficulty": 2
