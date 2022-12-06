@@ -1985,7 +1985,7 @@
 | 1965 | Employees With Missing Information |  | Easy  |
 | 1966 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
 | 1967 | Number of Strings That Appear as Substrings in Word | [JavaScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.js) [TypeScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.ts) | Easy  |
-| 1968 | Array With Elements Not Equal to Average of Neighbors |  | Medium  |
+| 1968 | Array With Elements Not Equal to Average of Neighbors | [JavaScript](./src/1968.array-with-elements-not-equal-to-average-of-neighbors.2085/solution.js) | Medium  |
 | 1969 | Minimum Non-Zero Product of the Array Elements |  | Medium  |
 | 1970 | Last Day Where You Can Still Cross |  | Hard  |
 | 1971 | Find if Path Exists in Graph | [JavaScript](./src/1971.find-if-path-exists-in-graph.2121/solution.js) [TypeScript](./src/1971.find-if-path-exists-in-graph.2121/solution.ts) | Easy  |
@@ -2507,10 +2507,11 @@
 | 2487 | Remove Nodes From Linked List | [JavaScript](./src/2487.remove-nodes-from-linked-list.2573/solution.js) [TypeScript](./src/2487.remove-nodes-from-linked-list.2573/solution.ts) | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
 | 2489 | Number of Substrings With Fixed Ratio |  | Medium  |
-| 6253 | Circular Sentence |  | Easy  |
-| 6254 | Divide Players Into Teams of Equal Skill |  | Medium  |
-| 6255 | Minimum Score of a Path Between Two Cities |  | Medium  |
-| 6256 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
+| 2490 | Circular Sentence | [JavaScript](./src/2490.circular-sentence.2580/solution.js) [TypeScript](./src/2490.circular-sentence.2580/solution.ts) | Easy  |
+| 2491 | Divide Players Into Teams of Equal Skill | [JavaScript](./src/2491.divide-players-into-teams-of-equal-skill.2581/solution.js) [TypeScript](./src/2491.divide-players-into-teams-of-equal-skill.2581/solution.ts) | Medium  |
+| 2492 | Minimum Score of a Path Between Two Cities | [JavaScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.js) [TypeScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.ts) | Medium  |
+| 2493 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
+| 2494 | Merge Overlapping Events in the Same Hall |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2654,7 +2655,7 @@
 | 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
 | 剑指Offer65 | 不用加减乘除做加法 LCOF | [JavaScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.js) [TypeScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.ts) | Easy  |
 | 剑指Offer66 | 构建乘积数组 LCOF | [JavaScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.js) [TypeScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.ts) | Medium  |
-| 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium  |
+| 面试题67 | 把字符串转换成整数 LCOF |  | Medium  |
 | 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.js) [Python3](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.py) [TypeScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.ts) | Easy  |
 | 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.ts) | Easy  |
 | 剑指OfferII001 | 整数除法 |  | Easy  |
