@@ -1791,7 +1791,7 @@
 | 1771 | Maximize Palindrome Length From Subsequences |  | Hard  |
 | 1772 | Sort Features by Popularity | [JavaScript](./src/1772.sort-features-by-popularity.1919/solution.js) | Medium  |
 | 1773 | Count Items Matching a Rule | [JavaScript](./src/1773.count-items-matching-a-rule.1899/solution.js) [TypeScript](./src/1773.count-items-matching-a-rule.1899/solution.ts) | Easy  |
-| 1774 | Closest Dessert Cost |  | Medium  |
+| 1774 | Closest Dessert Cost | [JavaScript](./src/1774.closest-dessert-cost.1900/solution.js) [TypeScript](./src/1774.closest-dessert-cost.1900/solution.ts) | Medium  |
 | 1775 | Equal Sum Arrays With Minimum Number of Operations |  | Medium  |
 | 1776 | Car Fleet II |  | Hard  |
 | 1777 | Product's Price for Each Store |  | Easy  |
@@ -2506,6 +2506,11 @@
 | 2486 | Append Characters to String to Make Subsequence | [JavaScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.js) [TypeScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.ts) | Medium  |
 | 2487 | Remove Nodes From Linked List | [JavaScript](./src/2487.remove-nodes-from-linked-list.2573/solution.js) [TypeScript](./src/2487.remove-nodes-from-linked-list.2573/solution.ts) | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
+| 2489 | Number of Substrings With Fixed Ratio |  | Medium  |
+| 6253 | Circular Sentence |  | Easy  |
+| 6254 | Divide Players Into Teams of Equal Skill |  | Medium  |
+| 6255 | Minimum Score of a Path Between Two Cities |  | Medium  |
+| 6256 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2621,7 +2626,7 @@
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
 | 剑指Offer44 | 数字序列中某一位的数字  LCOF | [JavaScript](./src/剑指Offer44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
-| 面试题45 | 把数组排成最小的数 LCOF |  | Medium  |
+| 面试题45 | 把数组排成最小的数 LCOF | [JavaScript](./src/面试题45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/面试题45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
 | 剑指Offer46 | 把数字翻译成字符串 LCOF | [JavaScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
 | 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./src/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
@@ -2643,7 +2648,7 @@
 | 面试题59-II | 队列的最大值 LCOF | [JavaScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
-| 面试题61 | 扑克牌中的顺子  LCOF |  | Easy  |
+| 面试题61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/面试题61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/面试题61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
 | 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
 | 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
@@ -2730,10 +2735,10 @@
 | 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
 | 剑指OfferII077 | 链表排序 |  | Medium  |
 | 剑指OfferII078 | 合并排序链表 |  | Hard  |
-| 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/solution.js) | Medium  |
-| 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) | Medium  |
-| 剑指OfferII081 | 允许重复选择元素的组合 | [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
-| 剑指OfferII082 | 含有重复元素集合的组合 | [TypeScript](./src/剑指OfferII082.4sjJUc.1000232/solution.ts) | Medium  |
+| 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/solution.js) [TypeScript](./src/剑指OfferII079.TVdhkn.1000343/solution.ts) | Medium  |
+| 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) [TypeScript](./src/剑指OfferII080.uUsW3B.1000344/solution.ts) | Medium  |
+| 剑指OfferII081 | 允许重复选择元素的组合 | [JavaScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.js) [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
+| 剑指OfferII082 | 含有重复元素集合的组合 | [JavaScript](./src/剑指OfferII082.4sjJUc.1000232/solution.js) [TypeScript](./src/剑指OfferII082.4sjJUc.1000232/solution.ts) | Medium  |
 | 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/solution.js) | Medium  |
 | 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.js) | Medium  |
 | 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/solution.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/solution.ts) | Medium  |
