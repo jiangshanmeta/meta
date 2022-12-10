@@ -2740,8 +2740,8 @@
 | 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) [TypeScript](./src/剑指OfferII080.uUsW3B.1000344/solution.ts) | Medium  |
 | 剑指OfferII081 | 允许重复选择元素的组合 | [JavaScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.js) [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
 | 剑指OfferII082 | 含有重复元素集合的组合 | [JavaScript](./src/剑指OfferII082.4sjJUc.1000232/solution.js) [TypeScript](./src/剑指OfferII082.4sjJUc.1000232/solution.ts) | Medium  |
-| 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/solution.js) | Medium  |
-| 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.js) | Medium  |
+| 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/solution.js) [TypeScript](./src/剑指OfferII083.VvJkup.1000234/solution.ts) | Medium  |
+| 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.js) [TypeScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.ts) | Medium  |
 | 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/solution.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/solution.ts) | Medium  |
 | 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
 | 剑指OfferII087 | 复原 IP  |  | Medium  |
