@@ -7,7 +7,6 @@ export const genFolderName = (question:Question) => {
 };
 
 export function getQuestions (withCookie = false) {
-    console.log('cookie--->', cookie);
     return new Promise<ProblemResponse>((resolve) => {
         https.get('https://leetcode.cn/api/problems/all/', withCookie ? {
             headers: {

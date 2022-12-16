@@ -15,6 +15,6 @@ jobs:
       - name: Generate
         run: npm run generate
 
-      - uses: EndBug/add-and-commit@v7
+      - uses: EndBug/add-and-commit@v9
         with:
           message: 'generete README.md'
