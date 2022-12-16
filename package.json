@@ -4,10 +4,10 @@
   "description": "leetcode",
   "scripts": {
     "lint": "eslint src/ .eslintrc.js scripts/ --fix",
-    "generate": "node scripts/generate.js",
-    "question": "node scripts/question.js",
-    "sync": "node scripts/sync.js",
-    "append": "node scripts/append.js"
+    "generate": "tsx scripts/generate.ts",
+    "question": "tsx scripts/question.ts",
+    "sync": "tsx scripts/sync.ts",
+    "append": "tsx scripts/append.ts"
   },
   "author": "jiangshanmeta",
   "license": "MIT",
@@ -22,6 +22,8 @@
     "eslint-plugin-standard": "^4.0.1"
   },
   "dependencies": {
+    "@types/node": "^18.11.15",
+    "tsx": "^3.12.1",
     "typescript": "^4.2.3"
   }
 }

@@ -1,36 +1,21 @@
-const fs = require('fs');
-const path = require('path');
-const https = require('https');
-// level 1=>Easy 2=>Medium   3=>Hard
+import fs from 'fs';
+import path from 'path';
+import { getQuestions, } from './common';
+import { ProblemResponse, Question, } from './typing';
 
-function getQuestions () {
-    return new Promise((resolve) => {
-        https.get('https://leetcode.cn/api/problems/all/', (res) => {
-            res.setEncoding('utf8');
-            let rawData = '';
-            res.on('data', (chunk) => {
-                rawData += chunk;
-            });
-            res.on('end', () => {
-                try {
-                    const parsedData = JSON.parse(rawData);
-                    resolve(parsedData);
-                } catch (e) {
-                    console.error(e.message);
-                }
-            });
-        }).on('error', (e) => {
-            console.error(`出现错误: ${e.message}`);
-        });
-    });
-}
 const lcof2FlagStr = '剑指 Offer II';
-function writeLocalQuestion (json) {
+function writeLocalQuestion (json:ProblemResponse) {
     const questionList = json.stat_status_pairs.map((item) => {
-        const data = {};
         const stat = item.stat;
-        data.id = stat.question_id;
-        data.index = stat.frontend_question_id;
+
+        const data = {
+            id: stat.question_id,
+            index: stat.frontend_question_id,
+            title: stat.question__title,
+            title_slug: stat.question__title_slug,
+            difficulty: item.difficulty.level,
+        };
+
         if (!Number.isNaN(+data.index)) {
             data.index = data.index.padStart(4, '0');
         }
@@ -38,21 +23,18 @@ function writeLocalQuestion (json) {
             data.index = data.index.replace('.', '_');
         }
 
-        data.title = stat.question__title;
-        data.title_slug = stat.question__title_slug;
-        data.difficulty = item.difficulty.level;
         return data;
     });
 
-    const algorithms = [];
-    const lcp = [];
+    const algorithms:Question[] = [];
+    const lcp:Question[] = [];
     // 剑指offer
-    const lcof = [];
+    const lcof:Question[] = [];
     // 剑指offer II
-    const lcof2 = [];
+    const lcof2:Question[] = [];
     // 程序员面试经典
-    const lcci = [];
-    const lcs = [];
+    const lcci:Question[] = [];
+    const lcs:Question[] = [];
 
     questionList.forEach((question) => {
         const index = question.index;
@@ -74,16 +56,16 @@ function writeLocalQuestion (json) {
         }
     });
 
-    algorithms.sort((a, b) => a.index - b.index);
+    algorithms.sort((a, b) => (+a.index) - (+b.index));
     lcp.sort((a, b) => {
-        const indexA = a.index.split(' ')[1];
-        const indexB = b.index.split(' ')[1];
+        const indexA = +a.index.split(' ')[1];
+        const indexB = +b.index.split(' ')[1];
         return indexA - indexB;
     });
     const regex = /(\d+)/;
     lcof.sort((a, b) => {
-        const indexA = a.index.match(regex)[0];
-        const indexB = b.index.match(regex)[0];
+        const indexA = +a.index.match(regex)![0];
+        const indexB = +b.index.match(regex)![0];
         if (indexA !== indexB) {
             return indexA - indexB;
         }
@@ -100,9 +82,9 @@ function writeLocalQuestion (json) {
         const [indexB1, indexB2, ] = b.index.split(' ')[1].split('_');
 
         if (indexA1 !== indexB1) {
-            return indexA1 - indexB1;
+            return (+indexA1) - (+indexB1);
         } else {
-            return indexA2 - indexB2;
+            return (+indexA2) - (+indexB2);
         }
     });
 

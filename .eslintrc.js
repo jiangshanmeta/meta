@@ -50,6 +50,7 @@ module.exports = {
         'no-prototype-builtins': 'off',
         '@typescript-eslint/no-empty-function': 'off',
         'no-array-constructor': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 'off',
     },
     parserOptions: {
         parser: 'babel-eslint',

@@ -1,9 +1,16 @@
 {
     "compilerOptions": {
-      "target": "ES2015",      
-      "lib": [
-            "es2017",
-            "scripthost"
-        ]
+        "target": "ES2015",      
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "module": "esnext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "strict": true
     }
 }
