@@ -2512,6 +2512,17 @@
 | 2492 | Minimum Score of a Path Between Two Cities | [JavaScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.js) [TypeScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.ts) | Medium  |
 | 2493 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
 | 2494 | Merge Overlapping Events in the Same Hall |  | Hard  |
+| 2495 | Number of Subarrays Having Even Product |  | Medium  |
+| 2496 | Maximum Value of a String in an Array |  | Easy  |
+| 2497 | Maximum Star Sum of a Graph |  | Medium  |
+| 2498 | Frog Jump II |  | Medium  |
+| 2499 | Minimum Total Cost to Make Arrays Unequal |  | Hard  |
+| 2500 | Delete Greatest Value in Each Row |  | Easy  |
+| 2501 | Longest Square Streak in an Array |  | Medium  |
+| 2502 | Design Memory Allocator |  | Medium  |
+| 2503 | Maximum Number of Points From Grid Queries |  | Hard  |
+| 2504 | Concatenate the Name and the Profession |  | Easy  |
+| 2505 | Bitwise OR of All Subsequence Sums |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
