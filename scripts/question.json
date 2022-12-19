@@ -17535,6 +17535,34 @@
         "difficulty": 2
     },
     {
+        "id": 2594,
+        "index": "2506",
+        "title": "Count Pairs Of Similar Strings",
+        "title_slug": "count-pairs-of-similar-strings",
+        "difficulty": 1
+    },
+    {
+        "id": 2595,
+        "index": "2507",
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "title_slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": 2
+    },
+    {
+        "id": 2596,
+        "index": "2508",
+        "title": "Add Edges to Make Degrees of All Nodes Even",
+        "title_slug": "add-edges-to-make-degrees-of-all-nodes-even",
+        "difficulty": 3
+    },
+    {
+        "id": 2597,
+        "index": "2509",
+        "title": "Cycle Length Queries in a Tree",
+        "title_slug": "cycle-length-queries-in-a-tree",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
