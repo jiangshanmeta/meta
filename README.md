@@ -2513,16 +2513,20 @@
 | 2493 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
 | 2494 | Merge Overlapping Events in the Same Hall |  | Hard  |
 | 2495 | Number of Subarrays Having Even Product |  | Medium  |
-| 2496 | Maximum Value of a String in an Array |  | Easy  |
-| 2497 | Maximum Star Sum of a Graph |  | Medium  |
-| 2498 | Frog Jump II |  | Medium  |
+| 2496 | Maximum Value of a String in an Array | [JavaScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.js) [TypeScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.ts) | Easy  |
+| 2497 | Maximum Star Sum of a Graph | [JavaScript](./src/2497.maximum-star-sum-of-a-graph.2590/solution.js) [TypeScript](./src/2497.maximum-star-sum-of-a-graph.2590/solution.ts) | Medium  |
+| 2498 | Frog Jump II | [JavaScript](./src/2498.frog-jump-ii.2591/solution.js) [TypeScript](./src/2498.frog-jump-ii.2591/solution.ts) | Medium  |
 | 2499 | Minimum Total Cost to Make Arrays Unequal |  | Hard  |
-| 2500 | Delete Greatest Value in Each Row |  | Easy  |
-| 2501 | Longest Square Streak in an Array |  | Medium  |
-| 2502 | Design Memory Allocator |  | Medium  |
+| 2500 | Delete Greatest Value in Each Row | [JavaScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.js) [TypeScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.ts) | Easy  |
+| 2501 | Longest Square Streak in an Array | [JavaScript](./src/2501.longest-square-streak-in-an-array.2586/solution.js) [TypeScript](./src/2501.longest-square-streak-in-an-array.2586/solution.ts) | Medium  |
+| 2502 | Design Memory Allocator | [JavaScript](./src/2502.design-memory-allocator.2587/solution.js) [TypeScript](./src/2502.design-memory-allocator.2587/solution.ts) | Medium  |
 | 2503 | Maximum Number of Points From Grid Queries |  | Hard  |
 | 2504 | Concatenate the Name and the Profession |  | Easy  |
 | 2505 | Bitwise OR of All Subsequence Sums |  | Medium  |
+| 2506 | Count Pairs Of Similar Strings | [JavaScript](./src/2506.count-pairs-of-similar-strings.2594/solution.js) [TypeScript](./src/2506.count-pairs-of-similar-strings.2594/solution.ts) | Easy  |
+| 2507 | Smallest Value After Replacing With Sum of Prime Factors | [JavaScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.js) [TypeScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.ts) | Medium  |
+| 2508 | Add Edges to Make Degrees of All Nodes Even |  | Hard  |
+| 2509 | Cycle Length Queries in a Tree |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
