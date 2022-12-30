@@ -3432,8 +3432,8 @@
     {
         "id": 491,
         "index": "0491",
-        "title": "Increasing Subsequences",
-        "title_slug": "increasing-subsequences",
+        "title": "Non-decreasing Subsequences",
+        "title_slug": "non-decreasing-subsequences",
         "difficulty": 2
     },
     {
@@ -17560,6 +17560,76 @@
         "index": "2509",
         "title": "Cycle Length Queries in a Tree",
         "title_slug": "cycle-length-queries-in-a-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 2653,
+        "index": "2510",
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "title_slug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": 2
+    },
+    {
+        "id": 2602,
+        "index": "2511",
+        "title": "Maximum Enemy Forts That Can Be Captured",
+        "title_slug": "maximum-enemy-forts-that-can-be-captured",
+        "difficulty": 1
+    },
+    {
+        "id": 2603,
+        "index": "2512",
+        "title": "Reward Top K Students",
+        "title_slug": "reward-top-k-students",
+        "difficulty": 2
+    },
+    {
+        "id": 2628,
+        "index": "2513",
+        "title": "Minimize the Maximum of Two Arrays",
+        "title_slug": "minimize-the-maximum-of-two-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2605,
+        "index": "2514",
+        "title": "Count Anagrams",
+        "title_slug": "count-anagrams",
+        "difficulty": 3
+    },
+    {
+        "id": 2598,
+        "index": "2515",
+        "title": "Shortest Distance to Target String in a Circular Array",
+        "title_slug": "shortest-distance-to-target-string-in-a-circular-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2599,
+        "index": "2516",
+        "title": "Take K of Each Character From Left and Right",
+        "title_slug": "take-k-of-each-character-from-left-and-right",
+        "difficulty": 2
+    },
+    {
+        "id": 2600,
+        "index": "2517",
+        "title": "Maximum Tastiness of Candy Basket",
+        "title_slug": "maximum-tastiness-of-candy-basket",
+        "difficulty": 2
+    },
+    {
+        "id": 2601,
+        "index": "2518",
+        "title": "Number of Great Partitions",
+        "title_slug": "number-of-great-partitions",
+        "difficulty": 3
+    },
+    {
+        "id": 2658,
+        "index": "2519",
+        "title": "Count the Number of K-Big Indices",
+        "title_slug": "count-the-number-of-k-big-indices",
         "difficulty": 3
     },
     {
