@@ -508,7 +508,7 @@
 | 0488 | Zuma Game |  | Hard  |
 | 0489 | Robot Room Cleaner |  | Hard  |
 | 0490 | The Maze |  | Medium  |
-| 0491 | Increasing Subsequences | [JavaScript](./src/0491.increasing-subsequences.491/solution.js) | Medium  |
+| 0491 | Non-decreasing Subsequences | [JavaScript](./src/0491.non-decreasing-subsequences.491/solution.js) | Medium  |
 | 0492 | Construct the Rectangle | [JavaScript](./src/0492.construct-the-rectangle.492/solution.js) [TypeScript](./src/0492.construct-the-rectangle.492/solution.ts) | Easy  |
 | 0493 | Reverse Pairs | [JavaScript](./src/0493.reverse-pairs.493/solution.js) | Hard  |
 | 0494 | Target Sum | [JavaScript](./src/0494.target-sum.494/solution.js) | Medium  |
@@ -2527,6 +2527,16 @@
 | 2507 | Smallest Value After Replacing With Sum of Prime Factors | [JavaScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.js) [TypeScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.ts) | Medium  |
 | 2508 | Add Edges to Make Degrees of All Nodes Even |  | Hard  |
 | 2509 | Cycle Length Queries in a Tree |  | Hard  |
+| 2510 | Check if There is a Path With Equal Number of 0's And 1's |  | Medium  |
+| 2511 | Maximum Enemy Forts That Can Be Captured | [TypeScript](./src/2511.maximum-enemy-forts-that-can-be-captured.2602/solution.ts) | Easy  |
+| 2512 | Reward Top K Students | [TypeScript](./src/2512.reward-top-k-students.2603/solution.ts) | Medium  |
+| 2513 | Minimize the Maximum of Two Arrays |  | Medium  |
+| 2514 | Count Anagrams |  | Hard  |
+| 2515 | Shortest Distance to Target String in a Circular Array | [TypeScript](./src/2515.shortest-distance-to-target-string-in-a-circular-array.2598/solution.ts) | Easy  |
+| 2516 | Take K of Each Character From Left and Right | [TypeScript](./src/2516.take-k-of-each-character-from-left-and-right.2599/solution.ts) | Medium  |
+| 2517 | Maximum Tastiness of Candy Basket | [TypeScript](./src/2517.maximum-tastiness-of-candy-basket.2600/solution.ts) | Medium  |
+| 2518 | Number of Great Partitions |  | Hard  |
+| 2519 | Count the Number of K-Big Indices |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
