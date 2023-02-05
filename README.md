@@ -2537,6 +2537,39 @@
 | 2517 | Maximum Tastiness of Candy Basket | [TypeScript](./src/2517.maximum-tastiness-of-candy-basket.2600/solution.ts) | Medium  |
 | 2518 | Number of Great Partitions |  | Hard  |
 | 2519 | Count the Number of K-Big Indices |  | Hard  |
+| 2520 | Count the Digits That Divide a Number | [JavaScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.js) [TypeScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.ts) | Easy  |
+| 2521 | Distinct Prime Factors of Product of Array |  | Medium  |
+| 2522 | Partition String Into Substrings With Values at Most K |  | Medium  |
+| 2523 | Closest Prime Numbers in Range |  | Medium  |
+| 2524 | Maximum Frequency Score of a Subarray |  | Hard  |
+| 2525 | Categorize Box According to Criteria | [JavaScript](./src/2525.categorize-box-according-to-criteria.2619/solution.js) [TypeScript](./src/2525.categorize-box-according-to-criteria.2619/solution.ts) | Easy  |
+| 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
+| 2527 | Find Xor-Beauty of Array |  | Medium  |
+| 2528 | Maximize the Minimum Powered City |  | Hard  |
+| 2529 | Maximum Count of Positive Integer and Negative Integer |  | Easy  |
+| 2530 | Maximal Score After Applying K Operations |  | Medium  |
+| 2531 | Make Number of Distinct Characters Equal |  | Medium  |
+| 2532 | Time to Cross a Bridge |  | Hard  |
+| 2533 | Number of Good Binary Strings |  | Medium  |
+| 2534 | Time Taken to Cross the Door |  | Hard  |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array |  | Easy  |
+| 2536 | Increment Submatrices by One |  | Medium  |
+| 2537 | Count the Number of Good Subarrays |  | Medium  |
+| 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
+| 2539 | Count the Number of Good Subsequences |  | Medium  |
+| 2540 | Minimum Common Value |  | Easy  |
+| 2541 | Minimum Operations to Make Array Equal II |  | Medium  |
+| 2542 | Maximum Subsequence Score |  | Medium  |
+| 2543 | Check if Point Is Reachable |  | Hard  |
+| 2544 | Alternating Digit Sum |  | Easy  |
+| 2545 | Sort the Students by Their Kth Score |  | Medium  |
+| 2546 | Apply Bitwise Operations to Make Strings Equal |  | Medium  |
+| 2547 | Minimum Cost to Split an Array |  | Hard  |
+| 2548 | Maximum Price to Fill a Bag |  | Medium  |
+| 2549 | Count Distinct Numbers on Board |  | Easy  |
+| 2550 | Count Collisions of Monkeys on a Polygon |  | Medium  |
+| 2551 | Put Marbles in Bags |  | Hard  |
+| 2552 | Count Increasing Quadruplets |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
