@@ -2546,13 +2546,13 @@
 | 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
 | 2527 | Find Xor-Beauty of Array |  | Medium  |
 | 2528 | Maximize the Minimum Powered City |  | Hard  |
-| 2529 | Maximum Count of Positive Integer and Negative Integer |  | Easy  |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | [JavaScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.js) [TypeScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.ts) | Easy  |
 | 2530 | Maximal Score After Applying K Operations |  | Medium  |
 | 2531 | Make Number of Distinct Characters Equal |  | Medium  |
 | 2532 | Time to Cross a Bridge |  | Hard  |
 | 2533 | Number of Good Binary Strings |  | Medium  |
 | 2534 | Time Taken to Cross the Door |  | Hard  |
-| 2535 | Difference Between Element Sum and Digit Sum of an Array |  | Easy  |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | [JavaScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.js) [TypeScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.ts) | Easy  |
 | 2536 | Increment Submatrices by One |  | Medium  |
 | 2537 | Count the Number of Good Subarrays |  | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
