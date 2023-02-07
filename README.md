@@ -2557,11 +2557,11 @@
 | 2537 | Count the Number of Good Subarrays |  | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
 | 2539 | Count the Number of Good Subsequences |  | Medium  |
-| 2540 | Minimum Common Value |  | Easy  |
+| 2540 | Minimum Common Value | [JavaScript](./src/2540.minimum-common-value.2634/solution.js) [TypeScript](./src/2540.minimum-common-value.2634/solution.ts) | Easy  |
 | 2541 | Minimum Operations to Make Array Equal II |  | Medium  |
 | 2542 | Maximum Subsequence Score |  | Medium  |
 | 2543 | Check if Point Is Reachable |  | Hard  |
-| 2544 | Alternating Digit Sum |  | Easy  |
+| 2544 | Alternating Digit Sum | [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
 | 2545 | Sort the Students by Their Kth Score |  | Medium  |
 | 2546 | Apply Bitwise Operations to Make Strings Equal |  | Medium  |
 | 2547 | Minimum Cost to Split an Array |  | Hard  |
