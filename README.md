@@ -2562,11 +2562,11 @@
 | 2542 | Maximum Subsequence Score |  | Medium  |
 | 2543 | Check if Point Is Reachable |  | Hard  |
 | 2544 | Alternating Digit Sum | [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
-| 2545 | Sort the Students by Their Kth Score |  | Medium  |
-| 2546 | Apply Bitwise Operations to Make Strings Equal |  | Medium  |
+| 2545 | Sort the Students by Their Kth Score | [JavaScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.js) [TypeScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.ts) | Medium  |
+| 2546 | Apply Bitwise Operations to Make Strings Equal | [JavaScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.js) [TypeScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.ts) | Medium  |
 | 2547 | Minimum Cost to Split an Array |  | Hard  |
 | 2548 | Maximum Price to Fill a Bag |  | Medium  |
-| 2549 | Count Distinct Numbers on Board |  | Easy  |
+| 2549 | Count Distinct Numbers on Board | [JavaScript](./src/2549.count-distinct-numbers-on-board.2679/solution.js) [TypeScript](./src/2549.count-distinct-numbers-on-board.2679/solution.ts) | Easy  |
 | 2550 | Count Collisions of Monkeys on a Polygon |  | Medium  |
 | 2551 | Put Marbles in Bags |  | Hard  |
 | 2552 | Count Increasing Quadruplets |  | Hard  |
