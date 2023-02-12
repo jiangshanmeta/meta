@@ -2553,7 +2553,7 @@
 | 2533 | Number of Good Binary Strings |  | Medium  |
 | 2534 | Time Taken to Cross the Door |  | Hard  |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | [JavaScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.js) [TypeScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.ts) | Easy  |
-| 2536 | Increment Submatrices by One |  | Medium  |
+| 2536 | Increment Submatrices by One | [TypeScript](./src/2536.increment-submatrices-by-one.2625/solution.ts) | Medium  |
 | 2537 | Count the Number of Good Subarrays |  | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
 | 2539 | Count the Number of Good Subsequences |  | Medium  |
@@ -2570,6 +2570,15 @@
 | 2550 | Count Collisions of Monkeys on a Polygon |  | Medium  |
 | 2551 | Put Marbles in Bags |  | Hard  |
 | 2552 | Count Increasing Quadruplets |  | Hard  |
+| 2553 | Separate the Digits in an Array | [TypeScript](./src/2553.separate-the-digits-in-an-array.2639/solution.ts) | Easy  |
+| 2554 | Maximum Number of Integers to Choose From a Range I |  | Medium  |
+| 2555 | Maximize Win From Two Segments |  | Medium  |
+| 2556 | Disconnect Path in a Binary Matrix by at Most One Flip |  | Medium  |
+| 2557 | Maximum Number of Integers to Choose From a Range II |  | Medium  |
+| 2558 | Take Gifts From the Richest Pile | [TypeScript](./src/2558.take-gifts-from-the-richest-pile.2692/solution.ts) | Easy  |
+| 2559 | Count Vowel Strings in Ranges | [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
+| 2560 | House Robber IV |  | Medium  |
+| 2561 | Rearranging Fruits |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2636,7 +2645,7 @@
 | LCP64 | 二叉树灯饰 |  | Medium  |
 | LCP65 | 舒适的湿度 |  | Hard  |
 | LCP66 | 最小展台数量 | [JavaScript](./src/LCP66.600YaG.1000481/solution.js) [TypeScript](./src/LCP66.600YaG.1000481/solution.ts) | Easy  |
-| LCP67 | 装饰树 |  | Medium  |
+| LCP67 | 装饰树 | [JavaScript](./src/LCP67.KnLfVT.1000482/solution.js) [TypeScript](./src/LCP67.KnLfVT.1000482/solution.ts) | Medium  |
 | LCP68 | 美观的花束 |  | Medium  |
 | LCP69 | Hello LeetCode! |  | Hard  |
 | LCP70 | 沙地治理 |  | Hard  |
