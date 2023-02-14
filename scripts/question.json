@@ -17927,6 +17927,34 @@
         "difficulty": 3
     },
     {
+        "id": 2698,
+        "index": "2562",
+        "title": "Find the Array Concatenation Value",
+        "title_slug": "find-the-array-concatenation-value",
+        "difficulty": 1
+    },
+    {
+        "id": 2699,
+        "index": "2563",
+        "title": "Count the Number of Fair Pairs",
+        "title_slug": "count-the-number-of-fair-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 2700,
+        "index": "2564",
+        "title": "Substring XOR Queries",
+        "title_slug": "substring-xor-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 2701,
+        "index": "2565",
+        "title": "Subsequence With the Minimum Score",
+        "title_slug": "subsequence-with-the-minimum-score",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
