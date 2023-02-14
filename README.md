@@ -2544,7 +2544,7 @@
 | 2524 | Maximum Frequency Score of a Subarray |  | Hard  |
 | 2525 | Categorize Box According to Criteria | [JavaScript](./src/2525.categorize-box-according-to-criteria.2619/solution.js) [TypeScript](./src/2525.categorize-box-according-to-criteria.2619/solution.ts) | Easy  |
 | 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
-| 2527 | Find Xor-Beauty of Array |  | Medium  |
+| 2527 | Find Xor-Beauty of Array | [TypeScript](./src/2527.find-xor-beauty-of-array.2621/solution.ts) | Medium  |
 | 2528 | Maximize the Minimum Powered City |  | Hard  |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [JavaScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.js) [TypeScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.ts) | Easy  |
 | 2530 | Maximal Score After Applying K Operations |  | Medium  |
@@ -2571,7 +2571,7 @@
 | 2551 | Put Marbles in Bags |  | Hard  |
 | 2552 | Count Increasing Quadruplets |  | Hard  |
 | 2553 | Separate the Digits in an Array | [TypeScript](./src/2553.separate-the-digits-in-an-array.2639/solution.ts) | Easy  |
-| 2554 | Maximum Number of Integers to Choose From a Range I |  | Medium  |
+| 2554 | Maximum Number of Integers to Choose From a Range I | [JavaScript](./src/2554.maximum-number-of-integers-to-choose-from-a-range-i.2640/solution.js) [TypeScript](./src/2554.maximum-number-of-integers-to-choose-from-a-range-i.2640/solution.ts) | Medium  |
 | 2555 | Maximize Win From Two Segments |  | Medium  |
 | 2556 | Disconnect Path in a Binary Matrix by at Most One Flip |  | Medium  |
 | 2557 | Maximum Number of Integers to Choose From a Range II |  | Medium  |
@@ -2579,6 +2579,10 @@
 | 2559 | Count Vowel Strings in Ranges | [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
 | 2560 | House Robber IV |  | Medium  |
 | 2561 | Rearranging Fruits |  | Hard  |
+| 2562 | Find the Array Concatenation Value | [TypeScript](./src/2562.find-the-array-concatenation-value.2698/solution.ts) | Easy  |
+| 2563 | Count the Number of Fair Pairs | [TypeScript](./src/2563.count-the-number-of-fair-pairs.2699/solution.ts) | Medium  |
+| 2564 | Substring XOR Queries | [TypeScript](./src/2564.substring-xor-queries.2700/solution.ts) | Medium  |
+| 2565 | Subsequence With the Minimum Score |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
