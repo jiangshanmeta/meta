@@ -2771,15 +2771,15 @@
 | 剑指OfferII040 | 矩阵中最大的矩形 |  | Hard  |
 | 剑指OfferII041 | 滑动窗口的平均值 | [JavaScript](./src/剑指OfferII041.qIsx9U.1000292/solution.js) [TypeScript](./src/剑指OfferII041.qIsx9U.1000292/solution.ts) | Easy  |
 | 剑指OfferII042 | 最近请求次数 | [JavaScript](./src/剑指OfferII042.H8086Q.1000293/solution.js) [TypeScript](./src/剑指OfferII042.H8086Q.1000293/solution.ts) | Easy  |
-| 剑指OfferII043 | 往完全二叉树添加节点 |  | Medium  |
+| 剑指OfferII043 | 往完全二叉树添加节点 | [TypeScript](./src/剑指OfferII043.NaqhDT.1000295/solution.ts) | Medium  |
 | 剑指OfferII044 | 二叉树每层的最大值 | [JavaScript](./src/剑指OfferII044.hPov7L.1000297/solution.js) [TypeScript](./src/剑指OfferII044.hPov7L.1000297/solution.ts) | Medium  |
 | 剑指OfferII045 | 二叉树最底层最左边的值 | [JavaScript](./src/剑指OfferII045.LwUNpT.1000298/solution.js) | Medium  |
 | 剑指OfferII046 | 二叉树的右侧视图 | [JavaScript](./src/剑指OfferII046.WNC0Lk.1000299/solution.js) | Medium  |
 | 剑指OfferII047 | 二叉树剪枝 | [JavaScript](./src/剑指OfferII047.pOCWxh.1000301/solution.js) | Medium  |
 | 剑指OfferII048 | 序列化与反序列化二叉树 |  | Hard  |
 | 剑指OfferII049 | 从根节点到叶节点的路径数字之和 | [JavaScript](./src/剑指OfferII049.3Etpl5.1000306/solution.js) | Medium  |
-| 剑指OfferII050 | 向下的路径节点之和 |  | Medium  |
-| 剑指OfferII051 | 节点之和最大的路径 |  | Hard  |
+| 剑指OfferII050 | 向下的路径节点之和 | [TypeScript](./src/剑指OfferII050.6eUYwP.1000307/solution.ts) | Medium  |
+| 剑指OfferII051 | 节点之和最大的路径 | [TypeScript](./src/剑指OfferII051.jC7MId.1000309/solution.ts) | Hard  |
 | 剑指OfferII052 | 展平二叉搜索树 | [JavaScript](./src/剑指OfferII052.NYBBNL.1000311/solution.js) | Easy  |
 | 剑指OfferII053 | 二叉搜索树中的中序后继 | [JavaScript](./src/剑指OfferII053.P5rCT8.1000313/solution.js) [TypeScript](./src/剑指OfferII053.P5rCT8.1000313/solution.ts) | Medium  |
 | 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/solution.js) | Medium  |
@@ -2790,7 +2790,7 @@
 | 剑指OfferII059 | 数据流的第 K 大数值 | [JavaScript](./src/剑指OfferII059.jBjn9C.1000323/solution.js) | Easy  |
 | 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
 | 剑指OfferII061 | 和最小的 k 个数对 |  | Medium  |
-| 剑指OfferII062 | 实现前缀树 |  | Medium  |
+| 剑指OfferII062 | 实现前缀树 | [TypeScript](./src/剑指OfferII062.QC3q1f.1000325/solution.ts) | Medium  |
 | 剑指OfferII063 | 替换单词 |  | Medium  |
 | 剑指OfferII064 | 神奇的字典 |  | Medium  |
 | 剑指OfferII065 | 最短的单词编码 |  | Medium  |
@@ -2799,7 +2799,7 @@
 | 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/solution.js) | Easy  |
 | 剑指OfferII069 | 山峰数组的顶部 | [JavaScript](./src/剑指OfferII069.B1IidL.1000333/solution.js) | Easy  |
 | 剑指OfferII070 | 排序数组中只出现一次的数字 | [JavaScript](./src/剑指OfferII070.skFtm2.1000334/solution.js) [TypeScript](./src/剑指OfferII070.skFtm2.1000334/solution.ts) | Medium  |
-| 剑指OfferII071 | 按权重生成随机数 |  | Medium  |
+| 剑指OfferII071 | 按权重生成随机数 | [TypeScript](./src/剑指OfferII071.cuyjEf.1000335/solution.ts) | Medium  |
 | 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.js) [TypeScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.ts) | Easy  |
 | 剑指OfferII073 | 狒狒吃香蕉 | [JavaScript](./src/剑指OfferII073.nZZqjQ.1000337/solution.js) | Medium  |
 | 剑指OfferII074 | 合并区间 |  | Medium  |
