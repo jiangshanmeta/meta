@@ -2538,7 +2538,7 @@
 | 2518 | Number of Great Partitions |  | Hard  |
 | 2519 | Count the Number of K-Big Indices |  | Hard  |
 | 2520 | Count the Digits That Divide a Number | [JavaScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.js) [TypeScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.ts) | Easy  |
-| 2521 | Distinct Prime Factors of Product of Array |  | Medium  |
+| 2521 | Distinct Prime Factors of Product of Array | [TypeScript](./src/2521.distinct-prime-factors-of-product-of-array.2609/solution.ts) | Medium  |
 | 2522 | Partition String Into Substrings With Values at Most K |  | Medium  |
 | 2523 | Closest Prime Numbers in Range |  | Medium  |
 | 2524 | Maximum Frequency Score of a Subarray |  | Hard  |
@@ -2547,7 +2547,7 @@
 | 2527 | Find Xor-Beauty of Array | [TypeScript](./src/2527.find-xor-beauty-of-array.2621/solution.ts) | Medium  |
 | 2528 | Maximize the Minimum Powered City |  | Hard  |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [JavaScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.js) [TypeScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.ts) | Easy  |
-| 2530 | Maximal Score After Applying K Operations |  | Medium  |
+| 2530 | Maximal Score After Applying K Operations | [TypeScript](./src/2530.maximal-score-after-applying-k-operations.2616/solution.ts) | Medium  |
 | 2531 | Make Number of Distinct Characters Equal |  | Medium  |
 | 2532 | Time to Cross a Bridge |  | Hard  |
 | 2533 | Number of Good Binary Strings |  | Medium  |
@@ -2753,8 +2753,8 @@
 | 剑指OfferII022 | 链表中环的入口节点 | [JavaScript](./src/剑指OfferII022.c32eOV.1000258/solution.js) | Medium  |
 | 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/solution.js) | Easy  |
 | 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) [TypeScript](./src/剑指OfferII024.UHnkqh.1000260/solution.ts) | Easy  |
-| 剑指OfferII025 | 链表中的两数相加 |  | Medium  |
-| 剑指OfferII026 | 重排链表 |  | Medium  |
+| 剑指OfferII025 | 链表中的两数相加 | [TypeScript](./src/剑指OfferII025.lMSNwu.1000261/solution.ts) | Medium  |
+| 剑指OfferII026 | 重排链表 | [TypeScript](./src/剑指OfferII026.LGjMqU.1000262/solution.ts) | Medium  |
 | 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
 | 剑指OfferII028 | 展平多级双向链表 |  | Medium  |
 | 剑指OfferII029 | 排序的循环链表 |  | Medium  |
@@ -2789,7 +2789,7 @@
 | 剑指OfferII058 | 日程表 |  | Medium  |
 | 剑指OfferII059 | 数据流的第 K 大数值 | [JavaScript](./src/剑指OfferII059.jBjn9C.1000323/solution.js) | Easy  |
 | 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
-| 剑指OfferII061 | 和最小的 k 个数对 |  | Medium  |
+| 剑指OfferII061 | 和最小的 k 个数对 | [TypeScript](./src/剑指OfferII061.qn8gGX.1000326/solution.ts) | Medium  |
 | 剑指OfferII062 | 实现前缀树 | [TypeScript](./src/剑指OfferII062.QC3q1f.1000325/solution.ts) | Medium  |
 | 剑指OfferII063 | 替换单词 |  | Medium  |
 | 剑指OfferII064 | 神奇的字典 |  | Medium  |
