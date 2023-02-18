@@ -2791,7 +2791,7 @@
 | 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
 | 剑指OfferII061 | 和最小的 k 个数对 | [TypeScript](./src/剑指OfferII061.qn8gGX.1000326/solution.ts) | Medium  |
 | 剑指OfferII062 | 实现前缀树 | [TypeScript](./src/剑指OfferII062.QC3q1f.1000325/solution.ts) | Medium  |
-| 剑指OfferII063 | 替换单词 |  | Medium  |
+| 剑指OfferII063 | 替换单词 | [TypeScript](./src/剑指OfferII063.UhWRSj.1000327/solution.ts) | Medium  |
 | 剑指OfferII064 | 神奇的字典 |  | Medium  |
 | 剑指OfferII065 | 最短的单词编码 |  | Medium  |
 | 剑指OfferII066 | 单词之和 |  | Medium  |
@@ -2802,11 +2802,11 @@
 | 剑指OfferII071 | 按权重生成随机数 | [TypeScript](./src/剑指OfferII071.cuyjEf.1000335/solution.ts) | Medium  |
 | 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.js) [TypeScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.ts) | Easy  |
 | 剑指OfferII073 | 狒狒吃香蕉 | [JavaScript](./src/剑指OfferII073.nZZqjQ.1000337/solution.js) | Medium  |
-| 剑指OfferII074 | 合并区间 |  | Medium  |
+| 剑指OfferII074 | 合并区间 | [TypeScript](./src/剑指OfferII074.SsGoHC.1000338/solution.ts) | Medium  |
 | 剑指OfferII075 | 数组相对排序 | [JavaScript](./src/剑指OfferII075.0H97ZC.1000339/solution.js) [TypeScript](./src/剑指OfferII075.0H97ZC.1000339/solution.ts) | Easy  |
 | 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
-| 剑指OfferII077 | 链表排序 |  | Medium  |
-| 剑指OfferII078 | 合并排序链表 |  | Hard  |
+| 剑指OfferII077 | 链表排序 | [TypeScript](./src/剑指OfferII077.7WHec2.1000341/solution.ts) | Medium  |
+| 剑指OfferII078 | 合并排序链表 | [TypeScript](./src/剑指OfferII078.vvXgSW.1000342/solution.ts) | Hard  |
 | 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/solution.js) [TypeScript](./src/剑指OfferII079.TVdhkn.1000343/solution.ts) | Medium  |
 | 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) [TypeScript](./src/剑指OfferII080.uUsW3B.1000344/solution.ts) | Medium  |
 | 剑指OfferII081 | 允许重复选择元素的组合 | [JavaScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.js) [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
@@ -2818,7 +2818,7 @@
 | 剑指OfferII087 | 复原 IP  |  | Medium  |
 | 剑指OfferII088 | 爬楼梯的最少成本 | [JavaScript](./src/剑指OfferII088.GzCJIP.1000243/solution.js) [TypeScript](./src/剑指OfferII088.GzCJIP.1000243/solution.ts) | Easy  |
 | 剑指OfferII089 | 房屋偷盗 | [JavaScript](./src/剑指OfferII089.Gu0c2T.1000245/solution.js) | Medium  |
-| 剑指OfferII090 | 环形房屋偷盗 |  | Medium  |
+| 剑指OfferII090 | 环形房屋偷盗 | [TypeScript](./src/剑指OfferII090.PzWKhm.1000266/solution.ts) | Medium  |
 | 剑指OfferII091 | 粉刷房子 |  | Medium  |
 | 剑指OfferII092 | 翻转字符 | [JavaScript](./src/剑指OfferII092.cyJERH.1000269/solution.js) [TypeScript](./src/剑指OfferII092.cyJERH.1000269/solution.ts) | Medium  |
 | 剑指OfferII093 | 最长斐波那契数列 |  | Medium  |
