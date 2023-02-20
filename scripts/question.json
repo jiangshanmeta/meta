@@ -17955,6 +17955,62 @@
         "difficulty": 3
     },
     {
+        "id": 2704,
+        "index": "2566",
+        "title": "Maximum Difference by Remapping a Digit",
+        "title_slug": "maximum-difference-by-remapping-a-digit",
+        "difficulty": 1
+    },
+    {
+        "id": 2706,
+        "index": "2567",
+        "title": "Minimum Score by Changing Two Elements",
+        "title_slug": "minimum-score-by-changing-two-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2705,
+        "index": "2568",
+        "title": "Minimum Impossible OR",
+        "title_slug": "minimum-impossible-or",
+        "difficulty": 2
+    },
+    {
+        "id": 2703,
+        "index": "2569",
+        "title": "Handling Sum Queries After Update",
+        "title_slug": "handling-sum-queries-after-update",
+        "difficulty": 3
+    },
+    {
+        "id": 2707,
+        "index": "2570",
+        "title": "Merge Two 2D Arrays by Summing Values",
+        "title_slug": "merge-two-2d-arrays-by-summing-values",
+        "difficulty": 1
+    },
+    {
+        "id": 2710,
+        "index": "2571",
+        "title": "Minimum Operations to Reduce an Integer to 0",
+        "title_slug": "minimum-operations-to-reduce-an-integer-to-0",
+        "difficulty": 2
+    },
+    {
+        "id": 2709,
+        "index": "2572",
+        "title": "Count the Number of Square-Free Subsets",
+        "title_slug": "count-the-number-of-square-free-subsets",
+        "difficulty": 2
+    },
+    {
+        "id": 2708,
+        "index": "2573",
+        "title": "Find the String with LCP",
+        "title_slug": "find-the-string-with-lcp",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
