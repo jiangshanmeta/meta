@@ -2441,7 +2441,7 @@
 | 2421 | Number of Good Paths |  | Hard  |
 | 2422 | Merge Operations to Turn Array Into a Palindrome |  | Medium  |
 | 2423 | Remove Letter To Equalize Frequency | [JavaScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.js) [TypeScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.ts) | Easy  |
-| 2424 | Longest Uploaded Prefix |  | Medium  |
+| 2424 | Longest Uploaded Prefix | [TypeScript](./src/2424.longest-uploaded-prefix.2512/solution.ts) | Medium  |
 | 2425 | Bitwise XOR of All Pairings | [JavaScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.js) [TypeScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.ts) | Medium  |
 | 2426 | Number of Pairs Satisfying Inequality |  | Hard  |
 | 2427 | Number of Common Factors | [JavaScript](./src/2427.number-of-common-factors.2507/solution.js) [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
@@ -2583,6 +2583,14 @@
 | 2563 | Count the Number of Fair Pairs | [TypeScript](./src/2563.count-the-number-of-fair-pairs.2699/solution.ts) | Medium  |
 | 2564 | Substring XOR Queries | [TypeScript](./src/2564.substring-xor-queries.2700/solution.ts) | Medium  |
 | 2565 | Subsequence With the Minimum Score |  | Hard  |
+| 2566 | Maximum Difference by Remapping a Digit | [TypeScript](./src/2566.maximum-difference-by-remapping-a-digit.2704/solution.ts) | Easy  |
+| 2567 | Minimum Score by Changing Two Elements | [TypeScript](./src/2567.minimum-score-by-changing-two-elements.2706/solution.ts) | Medium  |
+| 2568 | Minimum Impossible OR | [TypeScript](./src/2568.minimum-impossible-or.2705/solution.ts) | Medium  |
+| 2569 | Handling Sum Queries After Update |  | Hard  |
+| 2570 | Merge Two 2D Arrays by Summing Values | [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
+| 2571 | Minimum Operations to Reduce an Integer to 0 |  | Medium  |
+| 2572 | Count the Number of Square-Free Subsets |  | Medium  |
+| 2573 | Find the String with LCP |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
