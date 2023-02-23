@@ -1888,7 +1888,7 @@
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
 | 1869 | Longer Contiguous Segments of Ones than Zeros | [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.ts) | Easy  |
 | 1870 | Minimum Speed to Arrive on Time | [JavaScript](./src/1870.minimum-speed-to-arrive-on-time.2000/solution.js) [TypeScript](./src/1870.minimum-speed-to-arrive-on-time.2000/solution.ts) | Medium  |
-| 1871 | Jump Game VII |  | Medium  |
+| 1871 | Jump Game VII | [TypeScript](./src/1871.jump-game-vii.2001/solution.ts) | Medium  |
 | 1872 | Stone Game VIII |  | Hard  |
 | 1873 | Calculate Special Bonus |  | Easy  |
 | 1874 | Minimize Product Sum of Two Arrays |  | Medium  |
@@ -1927,7 +1927,7 @@
 | 1907 | Count Salary Categories |  | Medium  |
 | 1908 | Game of Nim |  | Medium  |
 | 1909 | Remove One Element to Make the Array Strictly Increasing |  | Easy  |
-| 1910 | Remove All Occurrences of a Substring |  | Medium  |
+| 1910 | Remove All Occurrences of a Substring | [TypeScript](./src/1910.remove-all-occurrences-of-a-substring.2021/solution.ts) | Medium  |
 | 1911 | Maximum Alternating Subsequence Sum |  | Medium  |
 | 1912 | Design Movie Rental System |  | Hard  |
 | 1913 | Maximum Product Difference Between Two Pairs | [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.js) [TypeScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.ts) | Easy  |
@@ -2428,7 +2428,7 @@
 | 2408 | Design SQL |  | Medium  |
 | 2409 | Count Days Spent Together | [JavaScript](./src/2409.count-days-spent-together.2496/solution.js) [TypeScript](./src/2409.count-days-spent-together.2496/solution.ts) | Easy  |
 | 2410 | Maximum Matching of Players With Trainers | [JavaScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.js) [TypeScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.ts) | Medium  |
-| 2411 | Smallest Subarrays With Maximum Bitwise OR |  | Medium  |
+| 2411 | Smallest Subarrays With Maximum Bitwise OR | [TypeScript](./src/2411.smallest-subarrays-with-maximum-bitwise-or.2498/solution.ts) | Medium  |
 | 2412 | Minimum Money Required Before Transactions |  | Hard  |
 | 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
 | 2414 | Length of the Longest Alphabetical Continuous Substring | [JavaScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.js) [TypeScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.ts) | Medium  |
@@ -2437,7 +2437,7 @@
 | 2417 | Closest Fair Integer |  | Medium  |
 | 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
 | 2419 | Longest Subarray With Maximum Bitwise AND | [JavaScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.js) [TypeScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.ts) | Medium  |
-| 2420 | Find All Good Indices |  | Medium  |
+| 2420 | Find All Good Indices | [TypeScript](./src/2420.find-all-good-indices.2504/solution.ts) | Medium  |
 | 2421 | Number of Good Paths |  | Hard  |
 | 2422 | Merge Operations to Turn Array Into a Palindrome |  | Medium  |
 | 2423 | Remove Letter To Equalize Frequency | [JavaScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.js) [TypeScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.ts) | Easy  |
@@ -2539,8 +2539,8 @@
 | 2519 | Count the Number of K-Big Indices |  | Hard  |
 | 2520 | Count the Digits That Divide a Number | [JavaScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.js) [TypeScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.ts) | Easy  |
 | 2521 | Distinct Prime Factors of Product of Array | [TypeScript](./src/2521.distinct-prime-factors-of-product-of-array.2609/solution.ts) | Medium  |
-| 2522 | Partition String Into Substrings With Values at Most K |  | Medium  |
-| 2523 | Closest Prime Numbers in Range |  | Medium  |
+| 2522 | Partition String Into Substrings With Values at Most K | [TypeScript](./src/2522.partition-string-into-substrings-with-values-at-most-k.2511/solution.ts) | Medium  |
+| 2523 | Closest Prime Numbers in Range | [TypeScript](./src/2523.closest-prime-numbers-in-range.2610/solution.ts) | Medium  |
 | 2524 | Maximum Frequency Score of a Subarray |  | Hard  |
 | 2525 | Categorize Box According to Criteria | [JavaScript](./src/2525.categorize-box-according-to-criteria.2619/solution.js) [TypeScript](./src/2525.categorize-box-according-to-criteria.2619/solution.ts) | Easy  |
 | 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
@@ -2554,7 +2554,7 @@
 | 2534 | Time Taken to Cross the Door |  | Hard  |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | [JavaScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.js) [TypeScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.ts) | Easy  |
 | 2536 | Increment Submatrices by One | [TypeScript](./src/2536.increment-submatrices-by-one.2625/solution.ts) | Medium  |
-| 2537 | Count the Number of Good Subarrays |  | Medium  |
+| 2537 | Count the Number of Good Subarrays | [TypeScript](./src/2537.count-the-number-of-good-subarrays.2626/solution.ts) | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
 | 2539 | Count the Number of Good Subsequences |  | Medium  |
 | 2540 | Minimum Common Value | [JavaScript](./src/2540.minimum-common-value.2634/solution.js) [TypeScript](./src/2540.minimum-common-value.2634/solution.ts) | Easy  |
@@ -2588,7 +2588,7 @@
 | 2568 | Minimum Impossible OR | [TypeScript](./src/2568.minimum-impossible-or.2705/solution.ts) | Medium  |
 | 2569 | Handling Sum Queries After Update |  | Hard  |
 | 2570 | Merge Two 2D Arrays by Summing Values | [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
-| 2571 | Minimum Operations to Reduce an Integer to 0 |  | Medium  |
+| 2571 | Minimum Operations to Reduce an Integer to 0 | [TypeScript](./src/2571.minimum-operations-to-reduce-an-integer-to-0.2710/solution.ts) | Medium  |
 | 2572 | Count the Number of Square-Free Subsets |  | Medium  |
 | 2573 | Find the String with LCP |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
