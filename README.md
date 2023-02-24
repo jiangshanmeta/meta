@@ -2353,7 +2353,7 @@
 | 2333 | Minimum Sum of Squared Difference |  | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
 | 2335 | Minimum Amount of Time to Fill Cups | [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.ts) | Easy  |
-| 2336 | Smallest Number in Infinite Set |  | Medium  |
+| 2336 | Smallest Number in Infinite Set | [TypeScript](./src/2336.smallest-number-in-infinite-set.2413/solution.ts) | Medium  |
 | 2337 | Move Pieces to Obtain a String |  | Medium  |
 | 2338 | Count the Number of Ideal Arrays |  | Hard  |
 | 2339 | All the Matches of the League |  | Easy  |
@@ -2418,7 +2418,7 @@
 | 2398 | Maximum Number of Robots Within Budget |  | Hard  |
 | 2399 | Check Distances Between Same Letters | [JavaScript](./src/2399.check-distances-between-same-letters.2476/solution.js) [TypeScript](./src/2399.check-distances-between-same-letters.2476/solution.ts) | Easy  |
 | 2400 | Number of Ways to Reach a Position After Exactly k Steps |  | Medium  |
-| 2401 | Longest Nice Subarray |  | Medium  |
+| 2401 | Longest Nice Subarray | [TypeScript](./src/2401.longest-nice-subarray.2478/solution.ts) | Medium  |
 | 2402 | Meeting Rooms III |  | Hard  |
 | 2403 | Minimum Time to Kill All Monsters |  | Hard  |
 | 2404 | Most Frequent Even Element | [JavaScript](./src/2404.most-frequent-even-element.2486/solution.js) [TypeScript](./src/2404.most-frequent-even-element.2486/solution.ts) | Easy  |
@@ -2451,7 +2451,7 @@
 | 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
 | 2432 | The Employee That Worked on the Longest Task | [JavaScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.js) [TypeScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.ts) | Easy  |
 | 2433 | Find The Original Array of Prefix Xor | [JavaScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.js) [TypeScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.ts) | Medium  |
-| 2434 | Using a Robot to Print the Lexicographically Smallest String |  | Medium  |
+| 2434 | Using a Robot to Print the Lexicographically Smallest String | [TypeScript](./src/2434.using-a-robot-to-print-the-lexicographically-smallest-string.2520/solution.ts) | Medium  |
 | 2435 | Paths in Matrix Whose Sum Is Divisible by K |  | Hard  |
 | 2436 | Minimum Split Into Subarrays With GCD Greater Than One |  | Medium  |
 | 2437 | Number of Valid Clock Times | [JavaScript](./src/2437.number-of-valid-clock-times.2528/solution.js) [TypeScript](./src/2437.number-of-valid-clock-times.2528/solution.ts) | Easy  |
@@ -2589,8 +2589,8 @@
 | 2569 | Handling Sum Queries After Update |  | Hard  |
 | 2570 | Merge Two 2D Arrays by Summing Values | [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
 | 2571 | Minimum Operations to Reduce an Integer to 0 | [TypeScript](./src/2571.minimum-operations-to-reduce-an-integer-to-0.2710/solution.ts) | Medium  |
-| 2572 | Count the Number of Square-Free Subsets |  | Medium  |
-| 2573 | Find the String with LCP |  | Hard  |
+| 2572 | Count the Number of Square-Free Subsets | [TypeScript](./src/2572.count-the-number-of-square-free-subsets.2709/solution.ts) | Medium  |
+| 2573 | Find the String with LCP | [TypeScript](./src/2573.find-the-string-with-lcp.2708/solution.ts) | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2764,7 +2764,7 @@
 | 剑指OfferII025 | 链表中的两数相加 | [TypeScript](./src/剑指OfferII025.lMSNwu.1000261/solution.ts) | Medium  |
 | 剑指OfferII026 | 重排链表 | [TypeScript](./src/剑指OfferII026.LGjMqU.1000262/solution.ts) | Medium  |
 | 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
-| 剑指OfferII028 | 展平多级双向链表 |  | Medium  |
+| 剑指OfferII028 | 展平多级双向链表 | [TypeScript](./src/剑指OfferII028.Qv1Da2.1000264/solution.ts) | Medium  |
 | 剑指OfferII029 | 排序的循环链表 |  | Medium  |
 | 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 |  | Medium  |
 | 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
@@ -2784,7 +2784,7 @@
 | 剑指OfferII045 | 二叉树最底层最左边的值 | [JavaScript](./src/剑指OfferII045.LwUNpT.1000298/solution.js) | Medium  |
 | 剑指OfferII046 | 二叉树的右侧视图 | [JavaScript](./src/剑指OfferII046.WNC0Lk.1000299/solution.js) | Medium  |
 | 剑指OfferII047 | 二叉树剪枝 | [JavaScript](./src/剑指OfferII047.pOCWxh.1000301/solution.js) | Medium  |
-| 剑指OfferII048 | 序列化与反序列化二叉树 |  | Hard  |
+| 剑指OfferII048 | 序列化与反序列化二叉树 | [TypeScript](./src/剑指OfferII048.h54YBf.1000304/solution.ts) | Hard  |
 | 剑指OfferII049 | 从根节点到叶节点的路径数字之和 | [JavaScript](./src/剑指OfferII049.3Etpl5.1000306/solution.js) | Medium  |
 | 剑指OfferII050 | 向下的路径节点之和 | [TypeScript](./src/剑指OfferII050.6eUYwP.1000307/solution.ts) | Medium  |
 | 剑指OfferII051 | 节点之和最大的路径 | [TypeScript](./src/剑指OfferII051.jC7MId.1000309/solution.ts) | Hard  |
@@ -2802,7 +2802,7 @@
 | 剑指OfferII063 | 替换单词 | [TypeScript](./src/剑指OfferII063.UhWRSj.1000327/solution.ts) | Medium  |
 | 剑指OfferII064 | 神奇的字典 |  | Medium  |
 | 剑指OfferII065 | 最短的单词编码 |  | Medium  |
-| 剑指OfferII066 | 单词之和 |  | Medium  |
+| 剑指OfferII066 | 单词之和 | [TypeScript](./src/剑指OfferII066.z1R5dt.1000330/solution.ts) | Medium  |
 | 剑指OfferII067 | 最大的异或 |  | Medium  |
 | 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/solution.js) | Easy  |
 | 剑指OfferII069 | 山峰数组的顶部 | [JavaScript](./src/剑指OfferII069.B1IidL.1000333/solution.js) | Easy  |
