@@ -2292,7 +2292,7 @@
 | 2272 | Substring With Largest Variance |  | Hard  |
 | 2273 | Find Resultant Array After Removing Anagrams | [JavaScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.js) [TypeScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.ts) | Easy  |
 | 2274 | Maximum Consecutive Floors Without Special Floors |  | Medium  |
-| 2275 | Largest Combination With Bitwise AND Greater Than Zero |  | Medium  |
+| 2275 | Largest Combination With Bitwise AND Greater Than Zero | [TypeScript](./src/2275.largest-combination-with-bitwise-and-greater-than-zero.2356/solution.ts) | Medium  |
 | 2276 | Count Integers in Intervals |  | Hard  |
 | 2277 | Closest Node to Path in Tree |  | Hard  |
 | 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
@@ -2301,7 +2301,7 @@
 | 2281 | Sum of Total Strength of Wizards |  | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.ts) | Easy  |
-| 2284 | Sender With Largest Word Count |  | Medium  |
+| 2284 | Sender With Largest Word Count | [TypeScript](./src/2284.sender-with-largest-word-count.2378/solution.ts) | Medium  |
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
 | 2287 | Rearrange Characters to Make Target String | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.ts) | Easy  |
@@ -2350,7 +2350,7 @@
 | 2330 | Valid Palindrome IV |  | Medium  |
 | 2331 | Evaluate Boolean Binary Tree | [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.ts) | Easy  |
 | 2332 | The Latest Time to Catch a Bus |  | Medium  |
-| 2333 | Minimum Sum of Squared Difference |  | Medium  |
+| 2333 | Minimum Sum of Squared Difference | [TypeScript](./src/2333.minimum-sum-of-squared-difference.2418/solution.ts) | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
 | 2335 | Minimum Amount of Time to Fill Cups | [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.ts) | Easy  |
 | 2336 | Smallest Number in Infinite Set | [TypeScript](./src/2336.smallest-number-in-infinite-set.2413/solution.ts) | Medium  |
@@ -2366,7 +2366,7 @@
 | 2346 | Compute the Rank as a Percentage |  | Medium  |
 | 2347 | Best Poker Hand | [JavaScript](./src/2347.best-poker-hand.2433/solution.js) [TypeScript](./src/2347.best-poker-hand.2433/solution.ts) | Easy  |
 | 2348 | Number of Zero-Filled Subarrays | [JavaScript](./src/2348.number-of-zero-filled-subarrays.2432/solution.js) [TypeScript](./src/2348.number-of-zero-filled-subarrays.2432/solution.ts) | Medium  |
-| 2349 | Design a Number Container System |  | Medium  |
+| 2349 | Design a Number Container System | [TypeScript](./src/2349.design-a-number-container-system.2434/solution.ts) | Medium  |
 | 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
 | 2351 | First Letter to Appear Twice | [JavaScript](./src/2351.first-letter-to-appear-twice.2427/solution.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/solution.ts) | Easy  |
 | 2352 | Equal Row and Column Pairs | [JavaScript](./src/2352.equal-row-and-column-pairs.2428/solution.js) [TypeScript](./src/2352.equal-row-and-column-pairs.2428/solution.ts) | Medium  |
@@ -2831,14 +2831,14 @@
 | 剑指OfferII092 | 翻转字符 | [JavaScript](./src/剑指OfferII092.cyJERH.1000269/solution.js) [TypeScript](./src/剑指OfferII092.cyJERH.1000269/solution.ts) | Medium  |
 | 剑指OfferII093 | 最长斐波那契数列 |  | Medium  |
 | 剑指OfferII094 | 最少回文分割 |  | Hard  |
-| 剑指OfferII095 | 最长公共子序列 |  | Medium  |
+| 剑指OfferII095 | 最长公共子序列 | [TypeScript](./src/剑指OfferII095.qJnOS7.1000274/solution.ts) | Medium  |
 | 剑指OfferII096 | 字符串交织 |  | Medium  |
 | 剑指OfferII097 | 子序列的数目 |  | Hard  |
 | 剑指OfferII098 | 路径的数目 | [JavaScript](./src/剑指OfferII098.2AoeFn.1000345/solution.js) [TypeScript](./src/剑指OfferII098.2AoeFn.1000345/solution.ts) | Medium  |
 | 剑指OfferII099 | 最小路径之和 | [JavaScript](./src/剑指OfferII099.0i0mDW.1000285/solution.js) [TypeScript](./src/剑指OfferII099.0i0mDW.1000285/solution.ts) | Medium  |
 | 剑指OfferII100 | 三角形中最小路径之和 | [JavaScript](./src/剑指OfferII100.IlPe0q.1000286/solution.js) [TypeScript](./src/剑指OfferII100.IlPe0q.1000286/solution.ts) | Medium  |
 | 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/solution.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/solution.ts) | Easy  |
-| 剑指OfferII102 | 加减的目标值 |  | Medium  |
+| 剑指OfferII102 | 加减的目标值 | [TypeScript](./src/剑指OfferII102.YaVDxD.1000288/solution.ts) | Medium  |
 | 剑指OfferII103 | 最少的硬币数目 | [JavaScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.js) [TypeScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.ts) | Medium  |
 | 剑指OfferII104 | 排列的数目 | [TypeScript](./src/剑指OfferII104.D0F0SV.1000290/solution.ts) | Medium  |
 | 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.ts) | Medium  |
@@ -2892,7 +2892,7 @@
 | 面试题05_01 | Insert Into Bits LCCI | [JavaScript](./src/面试题05_01.insert-into-bits-lcci.100180/solution.js) [TypeScript](./src/面试题05_01.insert-into-bits-lcci.100180/solution.ts) | Easy  |
 | 面试题05_02 | Binary Number to String LCCI | [JavaScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/solution.js) [TypeScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/solution.ts) | Medium  |
 | 面试题05_03 | Reverse Bits LCCI | [JavaScript](./src/面试题05_03.reverse-bits-lcci.100230/solution.js) | Easy  |
-| 面试题05_04 | Closed Number LCCI |  | Medium  |
+| 面试题05_04 | Closed Number LCCI | [TypeScript](./src/面试题05_04.closed-number-lcci.100183/solution.ts) | Medium  |
 | 面试题05_06 | Convert Integer LCCI | [JavaScript](./src/面试题05_06.convert-integer-lcci.100181/solution.js) [TypeScript](./src/面试题05_06.convert-integer-lcci.100181/solution.ts) | Easy  |
 | 面试题05_07 | Exchange LCCI | [JavaScript](./src/面试题05_07.exchange-lcci.100182/solution.js) [TypeScript](./src/面试题05_07.exchange-lcci.100182/solution.ts) | Easy  |
 | 面试题05_08 | Draw Line LCCI |  | Medium  |
