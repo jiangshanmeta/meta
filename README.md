@@ -2257,11 +2257,11 @@
 | 2237 | Count Positions on Street With Required Brightness |  | Medium  |
 | 2238 | Number of Times a Driver Was a Passenger |  | Medium  |
 | 2239 | Find Closest Number to Zero | [JavaScript](./src/2239.find-closest-number-to-zero.2350/solution.js) [TypeScript](./src/2239.find-closest-number-to-zero.2350/solution.ts) | Easy  |
-| 2240 | Number of Ways to Buy Pens and Pencils |  | Medium  |
-| 2241 | Design an ATM Machine |  | Medium  |
+| 2240 | Number of Ways to Buy Pens and Pencils | [TypeScript](./src/2240.number-of-ways-to-buy-pens-and-pencils.2351/solution.ts) | Medium  |
+| 2241 | Design an ATM Machine | [TypeScript](./src/2241.design-an-atm-machine.2352/solution.ts) | Medium  |
 | 2242 | Maximum Score of a Node Sequence |  | Hard  |
 | 2243 | Calculate Digit Sum of a String | [JavaScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.js) [TypeScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.ts) | Easy  |
-| 2244 | Minimum Rounds to Complete All Tasks |  | Medium  |
+| 2244 | Minimum Rounds to Complete All Tasks | [TypeScript](./src/2244.minimum-rounds-to-complete-all-tasks.2362/solution.ts) | Medium  |
 | 2245 | Maximum Trailing Zeros in a Cornered Path |  | Medium  |
 | 2246 | Longest Path With Different Adjacent Characters |  | Hard  |
 | 2247 | Maximum Cost of Trip With K Highways |  | Hard  |
@@ -2273,7 +2273,7 @@
 | 2253 | Dynamic Unpivoting of a Table |  | Hard  |
 | 2254 | Design Video Sharing Platform |  | Hard  |
 | 2255 | Count Prefixes of a Given String | [JavaScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.js) [TypeScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.ts) | Easy  |
-| 2256 | Minimum Average Difference |  | Medium  |
+| 2256 | Minimum Average Difference | [TypeScript](./src/2256.minimum-average-difference.2342/solution.ts) | Medium  |
 | 2257 | Count Unguarded Cells in the Grid |  | Medium  |
 | 2258 | Escape the Spreading Fire |  | Hard  |
 | 2259 | Remove Digit From Number to Maximize Result | [JavaScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/solution.js) [TypeScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/solution.ts) | Easy  |
