@@ -2013,7 +2013,7 @@
 | 1993 | Operations on Tree |  | Medium  |
 | 1994 | The Number of Good Subsets |  | Hard  |
 | 1995 | Count Special Quadruplets | [JavaScript](./src/1995.count-special-quadruplets.2122/solution.js) [TypeScript](./src/1995.count-special-quadruplets.2122/solution.ts) | Easy  |
-| 1996 | The Number of Weak Characters in the Game |  | Medium  |
+| 1996 | The Number of Weak Characters in the Game | [TypeScript](./src/1996.the-number-of-weak-characters-in-the-game.2123/solution.ts) | Medium  |
 | 1997 | First Day Where You Have Been in All the Rooms |  | Medium  |
 | 1998 | GCD Sort of an Array |  | Hard  |
 | 1999 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
@@ -2029,7 +2029,7 @@
 | 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
 | 2010 | The Number of Seniors and Juniors to Join the Company II |  | Hard  |
 | 2011 | Final Value of Variable After Performing Operations | [JavaScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.js) [TypeScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.ts) | Easy  |
-| 2012 | Sum of Beauty in the Array |  | Medium  |
+| 2012 | Sum of Beauty in the Array | [TypeScript](./src/2012.sum-of-beauty-in-the-array.2138/solution.ts) | Medium  |
 | 2013 | Detect Squares |  | Medium  |
 | 2014 | Longest Subsequence Repeated k Times |  | Hard  |
 | 2015 | Average Height of Buildings in Each Segment |  | Medium  |
@@ -2277,17 +2277,17 @@
 | 2257 | Count Unguarded Cells in the Grid |  | Medium  |
 | 2258 | Escape the Spreading Fire |  | Hard  |
 | 2259 | Remove Digit From Number to Maximize Result | [JavaScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/solution.js) [TypeScript](./src/2259.remove-digit-from-number-to-maximize-result.2337/solution.ts) | Easy  |
-| 2260 | Minimum Consecutive Cards to Pick Up |  | Medium  |
+| 2260 | Minimum Consecutive Cards to Pick Up | [TypeScript](./src/2260.minimum-consecutive-cards-to-pick-up.2338/solution.ts) | Medium  |
 | 2261 | K Divisible Elements Subarrays |  | Medium  |
 | 2262 | Total Appeal of A String |  | Hard  |
 | 2263 | Make Array Non-decreasing or Non-increasing |  | Hard  |
 | 2264 | Largest 3-Same-Digit Number in String | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.js) [TypeScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.ts) | Easy  |
-| 2265 | Count Nodes Equal to Average of Subtree |  | Medium  |
+| 2265 | Count Nodes Equal to Average of Subtree | [TypeScript](./src/2265.count-nodes-equal-to-average-of-subtree.2347/solution.ts) | Medium  |
 | 2266 | Count Number of Texts |  | Medium  |
 | 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
 | 2268 | Minimum Number of Keypresses |  | Medium  |
 | 2269 | Find the K-Beauty of a Number | [JavaScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.js) [TypeScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.ts) | Easy  |
-| 2270 | Number of Ways to Split Array |  | Medium  |
+| 2270 | Number of Ways to Split Array | [TypeScript](./src/2270.number-of-ways-to-split-array.2358/solution.ts) | Medium  |
 | 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
 | 2272 | Substring With Largest Variance |  | Hard  |
 | 2273 | Find Resultant Array After Removing Anagrams | [JavaScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.js) [TypeScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.ts) | Easy  |
@@ -2296,7 +2296,7 @@
 | 2276 | Count Integers in Intervals |  | Hard  |
 | 2277 | Closest Node to Path in Tree |  | Hard  |
 | 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
-| 2279 | Maximum Bags With Full Capacity of Rocks |  | Medium  |
+| 2279 | Maximum Bags With Full Capacity of Rocks | [TypeScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.2366/solution.ts) | Medium  |
 | 2280 | Minimum Lines to Represent a Line Chart |  | Medium  |
 | 2281 | Sum of Total Strength of Wizards |  | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
@@ -2305,7 +2305,7 @@
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
 | 2287 | Rearrange Characters to Make Target String | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.ts) | Easy  |
-| 2288 | Apply Discount to Prices |  | Medium  |
+| 2288 | Apply Discount to Prices | [TypeScript](./src/2288.apply-discount-to-prices.2373/solution.ts) | Medium  |
 | 2289 | Steps to Make Array Non-decreasing |  | Medium  |
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
 | 2291 | Maximum Profit From Trading Stocks |  | Medium  |
