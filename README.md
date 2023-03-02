@@ -2045,7 +2045,7 @@
 | 2025 | Maximum Number of Ways to Partition an Array |  | Hard  |
 | 2026 | Low-Quality Problems |  | Easy  |
 | 2027 | Minimum Moves to Convert String | [JavaScript](./src/2027.minimum-moves-to-convert-string.2154/solution.js) [TypeScript](./src/2027.minimum-moves-to-convert-string.2154/solution.ts) | Easy  |
-| 2028 | Find Missing Observations |  | Medium  |
+| 2028 | Find Missing Observations | [TypeScript](./src/2028.find-missing-observations.2155/solution.ts) | Medium  |
 | 2029 | Stone Game IX |  | Medium  |
 | 2030 | Smallest K-Length Subsequence With Occurrences of a Letter |  | Hard  |
 | 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
@@ -2065,7 +2065,7 @@
 | 2045 | Second Minimum Time to Reach Destination |  | Hard  |
 | 2046 | Sort Linked List Already Sorted Using Absolute Values |  | Medium  |
 | 2047 | Number of Valid Words in a Sentence | [JavaScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.js) [TypeScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.ts) | Easy  |
-| 2048 | Next Greater Numerically Balanced Number |  | Medium  |
+| 2048 | Next Greater Numerically Balanced Number | [TypeScript](./src/2048.next-greater-numerically-balanced-number.2174/solution.ts) | Medium  |
 | 2049 | Count Nodes With the Highest Score |  | Medium  |
 | 2050 | Parallel Courses III |  | Hard  |
 | 2051 | The Category of Each Member in the Store |  | Medium  |
