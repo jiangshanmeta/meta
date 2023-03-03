@@ -2034,7 +2034,7 @@
 | 2014 | Longest Subsequence Repeated k Times |  | Hard  |
 | 2015 | Average Height of Buildings in Each Segment |  | Medium  |
 | 2016 | Maximum Difference Between Increasing Elements | [JavaScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.js) [TypeScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.ts) | Easy  |
-| 2017 | Grid Game |  | Medium  |
+| 2017 | Grid Game | [TypeScript](./src/2017.grid-game.2145/solution.ts) | Medium  |
 | 2018 | Check if Word Can Be Placed In Crossword |  | Medium  |
 | 2019 | The Score of Students Solving Math Expression |  | Hard  |
 | 2020 | Number of Accounts That Did Not Stream |  | Medium  |
