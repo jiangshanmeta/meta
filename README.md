@@ -18,7 +18,7 @@
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
-| 0001 | Two Sum | [JavaScript](./src/0001.two-sum.1/solution.js) [TypeScript](./src/0001.two-sum.1/solution.ts) | Easy  |
+| 0001 | Two Sum | [Go](./src/0001.two-sum.1/solution.go) [JavaScript](./src/0001.two-sum.1/solution.js) [TypeScript](./src/0001.two-sum.1/solution.ts) | Easy  |
 | 0002 | Add Two Numbers | [JavaScript](./src/0002.add-two-numbers.2/solution.js) [TypeScript](./src/0002.add-two-numbers.2/solution.ts) | Medium  |
 | 0003 | Longest Substring Without Repeating Characters | [JavaScript](./src/0003.longest-substring-without-repeating-characters.3/solution.js) [TypeScript](./src/0003.longest-substring-without-repeating-characters.3/solution.ts) | Medium  |
 | 0004 | Median of Two Sorted Arrays | [JavaScript](./src/0004.median-of-two-sorted-arrays.4/solution.js) | Hard  |
@@ -1898,7 +1898,7 @@
 | 1878 | Get Biggest Three Rhombus Sums in a Grid |  | Medium  |
 | 1879 | Minimum XOR Sum of Two Arrays |  | Hard  |
 | 1880 | Check if Word Equals Summation of Two Words | [JavaScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/solution.js) [TypeScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/solution.ts) | Easy  |
-| 1881 | Maximum Value after Insertion |  | Medium  |
+| 1881 | Maximum Value after Insertion | [TypeScript](./src/1881.maximum-value-after-insertion.2011/solution.ts) | Medium  |
 | 1882 | Process Tasks Using Servers |  | Medium  |
 | 1883 | Minimum Skips to Arrive at Meeting On Time |  | Hard  |
 | 1884 | Egg Drop With 2 Eggs and N Floors |  | Medium  |
@@ -1911,7 +1911,7 @@
 | 1891 | Cutting Ribbons |  | Medium  |
 | 1892 | Page Recommendations II |  | Hard  |
 | 1893 | Check if All the Integers in a Range Are Covered | [JavaScript](./src/1893.check-if-all-the-integers-in-a-range-are-covered.2005/solution.js) [TypeScript](./src/1893.check-if-all-the-integers-in-a-range-are-covered.2005/solution.ts) | Easy  |
-| 1894 | Find the Student that Will Replace the Chalk |  | Medium  |
+| 1894 | Find the Student that Will Replace the Chalk | [TypeScript](./src/1894.find-the-student-that-will-replace-the-chalk.2006/solution.ts) | Medium  |
 | 1895 | Largest Magic Square |  | Medium  |
 | 1896 | Minimum Cost to Change the Final Value of Expression |  | Hard  |
 | 1897 | Redistribute Characters to Make All Strings Equal | [JavaScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.js) [TypeScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.ts) | Easy  |
@@ -2009,7 +2009,7 @@
 | 1989 | Maximum Number of People That Can Be Caught in Tag |  | Medium  |
 | 1990 | Count the Number of Experiments |  | Medium  |
 | 1991 | Find the Middle Index in Array | [JavaScript](./src/1991.find-the-middle-index-in-array.2102/solution.js) [TypeScript](./src/1991.find-the-middle-index-in-array.2102/solution.ts) | Easy  |
-| 1992 | Find All Groups of Farmland |  | Medium  |
+| 1992 | Find All Groups of Farmland | [TypeScript](./src/1992.find-all-groups-of-farmland.2103/solution.ts) | Medium  |
 | 1993 | Operations on Tree |  | Medium  |
 | 1994 | The Number of Good Subsets |  | Hard  |
 | 1995 | Count Special Quadruplets | [JavaScript](./src/1995.count-special-quadruplets.2122/solution.js) [TypeScript](./src/1995.count-special-quadruplets.2122/solution.ts) | Easy  |
@@ -2591,9 +2591,9 @@
 | 2571 | Minimum Operations to Reduce an Integer to 0 | [TypeScript](./src/2571.minimum-operations-to-reduce-an-integer-to-0.2710/solution.ts) | Medium  |
 | 2572 | Count the Number of Square-Free Subsets | [TypeScript](./src/2572.count-the-number-of-square-free-subsets.2709/solution.ts) | Medium  |
 | 2573 | Find the String with LCP | [TypeScript](./src/2573.find-the-string-with-lcp.2708/solution.ts) | Hard  |
-| 2574 | Left and Right Sum Differences |  | Easy  |
-| 2575 | Find the Divisibility Array of a String |  | Medium  |
-| 2576 | Find the Maximum Number of Marked Indices |  | Medium  |
+| 2574 | Left and Right Sum Differences | [TypeScript](./src/2574.left-and-right-sum-differences.2714/solution.ts) | Easy  |
+| 2575 | Find the Divisibility Array of a String | [TypeScript](./src/2575.find-the-divisibility-array-of-a-string.2713/solution.ts) | Medium  |
+| 2576 | Find the Maximum Number of Marked Indices | [TypeScript](./src/2576.find-the-maximum-number-of-marked-indices.2712/solution.ts) | Medium  |
 | 2577 | Minimum Time to Visit a Cell In a Grid |  | Hard  |
 | 2578 | Split With Minimum Sum | [TypeScript](./src/2578.split-with-minimum-sum.2650/solution.ts) | Easy  |
 | 2579 | Count Total Number of Colored Cells | [TypeScript](./src/2579.count-total-number-of-colored-cells.2649/solution.ts) | Medium  |
