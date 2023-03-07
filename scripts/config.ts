@@ -15,6 +15,10 @@ export const languages = [
         label: 'TypeScript',
         ext: 'ts',
     },
+    {
+        label: 'Go',
+        ext: 'go',
+    },
 ];
 
 export const difficultyMap: Record<number, string> = {
