@@ -1926,7 +1926,7 @@
 | 1906 | Minimum Absolute Difference Queries | [JavaScript](./src/1906.minimum-absolute-difference-queries.2034/solution.js) [TypeScript](./src/1906.minimum-absolute-difference-queries.2034/solution.ts) | Medium  |
 | 1907 | Count Salary Categories |  | Medium  |
 | 1908 | Game of Nim |  | Medium  |
-| 1909 | Remove One Element to Make the Array Strictly Increasing |  | Easy  |
+| 1909 | Remove One Element to Make the Array Strictly Increasing | [TypeScript](./src/1909.remove-one-element-to-make-the-array-strictly-increasing.2020/solution.ts) | Easy  |
 | 1910 | Remove All Occurrences of a Substring | [TypeScript](./src/1910.remove-all-occurrences-of-a-substring.2021/solution.ts) | Medium  |
 | 1911 | Maximum Alternating Subsequence Sum |  | Medium  |
 | 1912 | Design Movie Rental System |  | Hard  |
@@ -2218,14 +2218,14 @@
 | 2198 | Number of Single Divisor Triplets |  | Medium  |
 | 2199 | Finding the Topic of Each Post |  | Hard  |
 | 2200 | Find All K-Distant Indices in an Array | [JavaScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/solution.js) [TypeScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/solution.ts) | Easy  |
-| 2201 | Count Artifacts That Can Be Extracted |  | Medium  |
+| 2201 | Count Artifacts That Can Be Extracted | [TypeScript](./src/2201.count-artifacts-that-can-be-extracted.1312/solution.ts) | Medium  |
 | 2202 | Maximize the Topmost Element After K Moves |  | Medium  |
 | 2203 | Minimum Weighted Subgraph With the Required Paths |  | Hard  |
 | 2204 | Distance to a Cycle in Undirected Graph |  | Hard  |
 | 2205 | The Number of Users That Are Eligible for Discount |  | Easy  |
 | 2206 | Divide Array Into Equal Pairs | [JavaScript](./src/2206.divide-array-into-equal-pairs.2308/solution.js) [TypeScript](./src/2206.divide-array-into-equal-pairs.2308/solution.ts) | Easy  |
-| 2207 | Maximize Number of Subsequences in a String |  | Medium  |
-| 2208 | Minimum Operations to Halve Array Sum |  | Medium  |
+| 2207 | Maximize Number of Subsequences in a String | [TypeScript](./src/2207.maximize-number-of-subsequences-in-a-string.2309/solution.ts) | Medium  |
+| 2208 | Minimum Operations to Halve Array Sum | [TypeScript](./src/2208.minimum-operations-to-halve-array-sum.2310/solution.ts) | Medium  |
 | 2209 | Minimum White Tiles After Covering With Carpets |  | Hard  |
 | 2210 | Count Hills and Valleys in an Array | [JavaScript](./src/2210.count-hills-and-valleys-in-an-array.2316/solution.js) [TypeScript](./src/2210.count-hills-and-valleys-in-an-array.2316/solution.ts) | Easy  |
 | 2211 | Count Collisions on a Road |  | Medium  |
@@ -2600,7 +2600,7 @@
 | 2580 | Count Ways to Group Overlapping Ranges | [TypeScript](./src/2580.count-ways-to-group-overlapping-ranges.2651/solution.ts) | Medium  |
 | 2581 | Count Number of Possible Root Nodes |  | Hard  |
 | 2582 | Pass the Pillow | [TypeScript](./src/2582.pass-the-pillow.2645/solution.ts) | Easy  |
-| 2583 | Kth Largest Sum in a Binary Tree |  | Medium  |
+| 2583 | Kth Largest Sum in a Binary Tree | [TypeScript](./src/2583.kth-largest-sum-in-a-binary-tree.2646/solution.ts) | Medium  |
 | 2584 | Split the Array to Make Coprime Products |  | Medium  |
 | 2585 | Number of Ways to Earn Points |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
