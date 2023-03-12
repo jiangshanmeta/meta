@@ -2228,12 +2228,12 @@
 | 2208 | Minimum Operations to Halve Array Sum | [TypeScript](./src/2208.minimum-operations-to-halve-array-sum.2310/solution.ts) | Medium  |
 | 2209 | Minimum White Tiles After Covering With Carpets |  | Hard  |
 | 2210 | Count Hills and Valleys in an Array | [JavaScript](./src/2210.count-hills-and-valleys-in-an-array.2316/solution.js) [TypeScript](./src/2210.count-hills-and-valleys-in-an-array.2316/solution.ts) | Easy  |
-| 2211 | Count Collisions on a Road |  | Medium  |
+| 2211 | Count Collisions on a Road | [TypeScript](./src/2211.count-collisions-on-a-road.2317/solution.ts) | Medium  |
 | 2212 | Maximum Points in an Archery Competition |  | Medium  |
 | 2213 | Longest Substring of One Repeating Character |  | Hard  |
 | 2214 | Minimum Health to Beat Game |  | Medium  |
 | 2215 | Find the Difference of Two Arrays | [JavaScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.js) [TypeScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.ts) | Easy  |
-| 2216 | Minimum Deletions to Make Array Beautiful |  | Medium  |
+| 2216 | Minimum Deletions to Make Array Beautiful | [TypeScript](./src/2216.minimum-deletions-to-make-array-beautiful.1355/solution.ts) | Medium  |
 | 2217 | Find Palindrome With Fixed Length |  | Medium  |
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
 | 2219 | Maximum Sum Score of Array |  | Medium  |
@@ -2249,7 +2249,7 @@
 | 2229 | Check if an Array Is Consecutive |  | Easy  |
 | 2230 | The Users That Are Eligible for Discount |  | Easy  |
 | 2231 | Largest Number After Digit Swaps by Parity | [JavaScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/solution.js) [TypeScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/solution.ts) | Easy  |
-| 2232 | Minimize Result by Adding Parentheses to Expression |  | Medium  |
+| 2232 | Minimize Result by Adding Parentheses to Expression | [TypeScript](./src/2232.minimize-result-by-adding-parentheses-to-expression.2328/solution.ts) | Medium  |
 | 2233 | Maximum Product After K Increments |  | Medium  |
 | 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
 | 2235 | Add Two Integers | [JavaScript](./src/2235.add-two-integers.2383/solution.js) [TypeScript](./src/2235.add-two-integers.2383/solution.ts) | Easy  |
@@ -2601,8 +2601,8 @@
 | 2581 | Count Number of Possible Root Nodes |  | Hard  |
 | 2582 | Pass the Pillow | [TypeScript](./src/2582.pass-the-pillow.2645/solution.ts) | Easy  |
 | 2583 | Kth Largest Sum in a Binary Tree | [TypeScript](./src/2583.kth-largest-sum-in-a-binary-tree.2646/solution.ts) | Medium  |
-| 2584 | Split the Array to Make Coprime Products |  | Medium  |
-| 2585 | Number of Ways to Earn Points |  | Hard  |
+| 2584 | Split the Array to Make Coprime Products | [TypeScript](./src/2584.split-the-array-to-make-coprime-products.2647/solution.ts) | Medium  |
+| 2585 | Number of Ways to Earn Points | [TypeScript](./src/2585.number-of-ways-to-earn-points.2648/solution.ts) | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
