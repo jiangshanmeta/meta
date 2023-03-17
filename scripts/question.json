@@ -18085,13 +18085,41 @@
         "index": "2584",
         "title": "Split the Array to Make Coprime Products",
         "title_slug": "split-the-array-to-make-coprime-products",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 2648,
         "index": "2585",
         "title": "Number of Ways to Earn Points",
         "title_slug": "number-of-ways-to-earn-points",
+        "difficulty": 3
+    },
+    {
+        "id": 2654,
+        "index": "2586",
+        "title": "Count the Number of Vowel Strings in Range",
+        "title_slug": "count-the-number-of-vowel-strings-in-range",
+        "difficulty": 1
+    },
+    {
+        "id": 2655,
+        "index": "2587",
+        "title": "Rearrange Array to Maximize Prefix Score",
+        "title_slug": "rearrange-array-to-maximize-prefix-score",
+        "difficulty": 2
+    },
+    {
+        "id": 2656,
+        "index": "2588",
+        "title": "Count the Number of Beautiful Subarrays",
+        "title_slug": "count-the-number-of-beautiful-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2657,
+        "index": "2589",
+        "title": "Minimum Time to Complete All Tasks",
+        "title_slug": "minimum-time-to-complete-all-tasks",
         "difficulty": 3
     },
     {
