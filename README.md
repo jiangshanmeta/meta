@@ -1675,7 +1675,7 @@
 | 1655 | Distribute Repeating Integers |  | Hard  |
 | 1656 | Design an Ordered Stream | [JavaScript](./src/1656.design-an-ordered-stream.1775/solution.js) [TypeScript](./src/1656.design-an-ordered-stream.1775/solution.ts) | Easy  |
 | 1657 | Determine if Two Strings Are Close | [JavaScript](./src/1657.determine-if-two-strings-are-close.1777/solution.js) [TypeScript](./src/1657.determine-if-two-strings-are-close.1777/solution.ts) | Medium  |
-| 1658 | Minimum Operations to Reduce X to Zero |  | Medium  |
+| 1658 | Minimum Operations to Reduce X to Zero | [TypeScript](./src/1658.minimum-operations-to-reduce-x-to-zero.1776/solution.ts) | Medium  |
 | 1659 | Maximize Grid Happiness |  | Hard  |
 | 1660 | Correct a Binary Tree | [JavaScript](./src/1660.correct-a-binary-tree.1796/solution.js) | Medium  |
 | 1661 | Average Time of Process per Machine |  | Easy  |
@@ -2601,8 +2601,12 @@
 | 2581 | Count Number of Possible Root Nodes |  | Hard  |
 | 2582 | Pass the Pillow | [TypeScript](./src/2582.pass-the-pillow.2645/solution.ts) | Easy  |
 | 2583 | Kth Largest Sum in a Binary Tree | [TypeScript](./src/2583.kth-largest-sum-in-a-binary-tree.2646/solution.ts) | Medium  |
-| 2584 | Split the Array to Make Coprime Products | [TypeScript](./src/2584.split-the-array-to-make-coprime-products.2647/solution.ts) | Medium  |
+| 2584 | Split the Array to Make Coprime Products | [TypeScript](./src/2584.split-the-array-to-make-coprime-products.2647/solution.ts) | Hard  |
 | 2585 | Number of Ways to Earn Points | [TypeScript](./src/2585.number-of-ways-to-earn-points.2648/solution.ts) | Hard  |
+| 2586 | Count the Number of Vowel Strings in Range | [TypeScript](./src/2586.count-the-number-of-vowel-strings-in-range.2654/solution.ts) | Easy  |
+| 2587 | Rearrange Array to Maximize Prefix Score | [TypeScript](./src/2587.rearrange-array-to-maximize-prefix-score.2655/solution.ts) | Medium  |
+| 2588 | Count the Number of Beautiful Subarrays | [TypeScript](./src/2588.count-the-number-of-beautiful-subarrays.2656/solution.ts) | Medium  |
+| 2589 | Minimum Time to Complete All Tasks |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
