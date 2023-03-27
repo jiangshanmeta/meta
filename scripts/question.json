@@ -18123,6 +18123,104 @@
         "difficulty": 3
     },
     {
+        "id": 2688,
+        "index": "2590",
+        "title": "Design a Todo List",
+        "title_slug": "design-a-todo-list",
+        "difficulty": 2
+    },
+    {
+        "id": 2663,
+        "index": "2591",
+        "title": "Distribute Money to Maximum Children",
+        "title_slug": "distribute-money-to-maximum-children",
+        "difficulty": 1
+    },
+    {
+        "id": 2664,
+        "index": "2592",
+        "title": "Maximize Greatness of an Array",
+        "title_slug": "maximize-greatness-of-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 2695,
+        "index": "2593",
+        "title": "Find Score of an Array After Marking All Elements",
+        "title_slug": "find-score-of-an-array-after-marking-all-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 2665,
+        "index": "2594",
+        "title": "Minimum Time to Repair Cars",
+        "title_slug": "minimum-time-to-repair-cars",
+        "difficulty": 2
+    },
+    {
+        "id": 2659,
+        "index": "2595",
+        "title": "Number of Even and Odd Bits",
+        "title_slug": "number-of-even-and-odd-bits",
+        "difficulty": 1
+    },
+    {
+        "id": 2662,
+        "index": "2596",
+        "title": "Check Knight Tour Configuration",
+        "title_slug": "check-knight-tour-configuration",
+        "difficulty": 2
+    },
+    {
+        "id": 2696,
+        "index": "2597",
+        "title": "The Number of Beautiful Subsets",
+        "title_slug": "the-number-of-beautiful-subsets",
+        "difficulty": 2
+    },
+    {
+        "id": 2661,
+        "index": "2598",
+        "title": "Smallest Missing Non-negative Integer After Operations",
+        "title_slug": "smallest-missing-non-negative-integer-after-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 2674,
+        "index": "2599",
+        "title": "Make the Prefix Sum Non-negative",
+        "title_slug": "make-the-prefix-sum-non-negative",
+        "difficulty": 2
+    },
+    {
+        "id": 2715,
+        "index": "2600",
+        "title": "K Items With the Maximum Sum",
+        "title_slug": "k-items-with-the-maximum-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 2716,
+        "index": "2601",
+        "title": "Prime Subtraction Operation",
+        "title_slug": "prime-subtraction-operation",
+        "difficulty": 2
+    },
+    {
+        "id": 2718,
+        "index": "2602",
+        "title": "Minimum Operations to Make All Array Elements Equal",
+        "title_slug": "minimum-operations-to-make-all-array-elements-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 2717,
+        "index": "2603",
+        "title": "Collect Coins in a Tree",
+        "title_slug": "collect-coins-in-a-tree",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
