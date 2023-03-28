@@ -2607,6 +2607,20 @@
 | 2587 | Rearrange Array to Maximize Prefix Score | [TypeScript](./src/2587.rearrange-array-to-maximize-prefix-score.2655/solution.ts) | Medium  |
 | 2588 | Count the Number of Beautiful Subarrays | [TypeScript](./src/2588.count-the-number-of-beautiful-subarrays.2656/solution.ts) | Medium  |
 | 2589 | Minimum Time to Complete All Tasks |  | Hard  |
+| 2590 | Design a Todo List |  | Medium  |
+| 2591 | Distribute Money to Maximum Children | [TypeScript](./src/2591.distribute-money-to-maximum-children.2663/solution.ts) | Easy  |
+| 2592 | Maximize Greatness of an Array | [TypeScript](./src/2592.maximize-greatness-of-an-array.2664/solution.ts) | Medium  |
+| 2593 | Find Score of an Array After Marking All Elements | [TypeScript](./src/2593.find-score-of-an-array-after-marking-all-elements.2695/solution.ts) | Medium  |
+| 2594 | Minimum Time to Repair Cars | [TypeScript](./src/2594.minimum-time-to-repair-cars.2665/solution.ts) | Medium  |
+| 2595 | Number of Even and Odd Bits | [TypeScript](./src/2595.number-of-even-and-odd-bits.2659/solution.ts) | Easy  |
+| 2596 | Check Knight Tour Configuration | [TypeScript](./src/2596.check-knight-tour-configuration.2662/solution.ts) | Medium  |
+| 2597 | The Number of Beautiful Subsets | [TypeScript](./src/2597.the-number-of-beautiful-subsets.2696/solution.ts) | Medium  |
+| 2598 | Smallest Missing Non-negative Integer After Operations | [TypeScript](./src/2598.smallest-missing-non-negative-integer-after-operations.2661/solution.ts) | Medium  |
+| 2599 | Make the Prefix Sum Non-negative |  | Medium  |
+| 2600 | K Items With the Maximum Sum |  | Easy  |
+| 2601 | Prime Subtraction Operation |  | Medium  |
+| 2602 | Minimum Operations to Make All Array Elements Equal |  | Medium  |
+| 2603 | Collect Coins in a Tree |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
