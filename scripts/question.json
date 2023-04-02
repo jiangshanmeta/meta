@@ -18221,6 +18221,69 @@
         "difficulty": 3
     },
     {
+        "id": 2666,
+        "index": "2604",
+        "title": "Minimum Time to Eat All Grains",
+        "title_slug": "minimum-time-to-eat-all-grains",
+        "difficulty": 3
+    },
+    {
+        "id": 2668,
+        "index": "6327",
+        "title": "Form Smallest Number From Two Digit Arrays",
+        "title_slug": "form-smallest-number-from-two-digit-arrays",
+        "difficulty": 1
+    },
+    {
+        "id": 2669,
+        "index": "6328",
+        "title": "Find the Substring With Maximum Cost",
+        "title_slug": "find-the-substring-with-maximum-cost",
+        "difficulty": 2
+    },
+    {
+        "id": 2670,
+        "index": "6329",
+        "title": "Make K-Subarray Sums Equal",
+        "title_slug": "make-k-subarray-sums-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 2671,
+        "index": "6330",
+        "title": "Shortest Cycle in a Graph",
+        "title_slug": "shortest-cycle-in-a-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 2723,
+        "index": "6362",
+        "title": "Find the Longest Balanced Substring of a Binary String",
+        "title_slug": "find-the-longest-balanced-substring-of-a-binary-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2724,
+        "index": "6363",
+        "title": "Convert an Array Into a 2D Array With Conditions",
+        "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
+        "difficulty": 2
+    },
+    {
+        "id": 2725,
+        "index": "6364",
+        "title": "Mice and Cheese",
+        "title_slug": "mice-and-cheese",
+        "difficulty": 2
+    },
+    {
+        "id": 2726,
+        "index": "6365",
+        "title": "Minimum Reverse Operations",
+        "title_slug": "minimum-reverse-operations",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
