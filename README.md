@@ -479,7 +479,7 @@
 | 0459 | Repeated Substring Pattern | [JavaScript](./src/0459.repeated-substring-pattern.459/solution.js) [TypeScript](./src/0459.repeated-substring-pattern.459/solution.ts) | Easy  |
 | 0460 | LFU Cache | [JavaScript](./src/0460.lfu-cache.460/solution.js) | Hard  |
 | 0461 | Hamming Distance | [JavaScript](./src/0461.hamming-distance.461/solution.js) [TypeScript](./src/0461.hamming-distance.461/solution.ts) | Easy  |
-| 0462 | Minimum Moves to Equal Array Elements II |  | Medium  |
+| 0462 | Minimum Moves to Equal Array Elements II | [TypeScript](./src/0462.minimum-moves-to-equal-array-elements-ii.462/solution.ts) | Medium  |
 | 0463 | Island Perimeter | [JavaScript](./src/0463.island-perimeter.463/solution.js) [TypeScript](./src/0463.island-perimeter.463/solution.ts) | Easy  |
 | 0464 | Can I Win |  | Medium  |
 | 0465 | Optimal Account Balancing |  | Hard  |
@@ -2617,10 +2617,19 @@
 | 2597 | The Number of Beautiful Subsets | [TypeScript](./src/2597.the-number-of-beautiful-subsets.2696/solution.ts) | Medium  |
 | 2598 | Smallest Missing Non-negative Integer After Operations | [TypeScript](./src/2598.smallest-missing-non-negative-integer-after-operations.2661/solution.ts) | Medium  |
 | 2599 | Make the Prefix Sum Non-negative |  | Medium  |
-| 2600 | K Items With the Maximum Sum |  | Easy  |
-| 2601 | Prime Subtraction Operation |  | Medium  |
-| 2602 | Minimum Operations to Make All Array Elements Equal |  | Medium  |
+| 2600 | K Items With the Maximum Sum | [TypeScript](./src/2600.k-items-with-the-maximum-sum.2715/solution.ts) | Easy  |
+| 2601 | Prime Subtraction Operation | [TypeScript](./src/2601.prime-subtraction-operation.2716/solution.ts) | Medium  |
+| 2602 | Minimum Operations to Make All Array Elements Equal | [TypeScript](./src/2602.minimum-operations-to-make-all-array-elements-equal.2718/solution.ts) | Medium  |
 | 2603 | Collect Coins in a Tree |  | Hard  |
+| 2604 | Minimum Time to Eat All Grains |  | Hard  |
+| 6327 | Form Smallest Number From Two Digit Arrays |  | Easy  |
+| 6328 | Find the Substring With Maximum Cost |  | Medium  |
+| 6329 | Make K-Subarray Sums Equal |  | Medium  |
+| 6330 | Shortest Cycle in a Graph |  | Hard  |
+| 6362 | Find the Longest Balanced Substring of a Binary String |  | Easy  |
+| 6363 | Convert an Array Into a 2D Array With Conditions |  | Medium  |
+| 6364 | Mice and Cheese |  | Medium  |
+| 6365 | Minimum Reverse Operations |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
