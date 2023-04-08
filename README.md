@@ -2622,14 +2622,15 @@
 | 2602 | Minimum Operations to Make All Array Elements Equal | [TypeScript](./src/2602.minimum-operations-to-make-all-array-elements-equal.2718/solution.ts) | Medium  |
 | 2603 | Collect Coins in a Tree |  | Hard  |
 | 2604 | Minimum Time to Eat All Grains |  | Hard  |
-| 6327 | Form Smallest Number From Two Digit Arrays |  | Easy  |
-| 6328 | Find the Substring With Maximum Cost |  | Medium  |
-| 6329 | Make K-Subarray Sums Equal |  | Medium  |
-| 6330 | Shortest Cycle in a Graph |  | Hard  |
-| 6362 | Find the Longest Balanced Substring of a Binary String |  | Easy  |
-| 6363 | Convert an Array Into a 2D Array With Conditions |  | Medium  |
-| 6364 | Mice and Cheese |  | Medium  |
-| 6365 | Minimum Reverse Operations |  | Hard  |
+| 2605 | Form Smallest Number From Two Digit Arrays | [TypeScript](./src/2605.form-smallest-number-from-two-digit-arrays.2668/solution.ts) | Easy  |
+| 2606 | Find the Substring With Maximum Cost | [TypeScript](./src/2606.find-the-substring-with-maximum-cost.2669/solution.ts) | Medium  |
+| 2607 | Make K-Subarray Sums Equal | [TypeScript](./src/2607.make-k-subarray-sums-equal.2670/solution.ts) | Medium  |
+| 2608 | Shortest Cycle in a Graph |  | Hard  |
+| 2609 | Find the Longest Balanced Substring of a Binary String | [TypeScript](./src/2609.find-the-longest-balanced-substring-of-a-binary-string.2723/solution.ts) | Easy  |
+| 2610 | Convert an Array Into a 2D Array With Conditions | [TypeScript](./src/2610.convert-an-array-into-a-2d-array-with-conditions.2724/solution.ts) | Medium  |
+| 2611 | Mice and Cheese | [TypeScript](./src/2611.mice-and-cheese.2725/solution.ts) | Medium  |
+| 2612 | Minimum Reverse Operations |  | Hard  |
+| 2613 | Beautiful Pairs |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
