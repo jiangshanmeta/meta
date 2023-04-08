@@ -18229,58 +18229,65 @@
     },
     {
         "id": 2668,
-        "index": "6327",
+        "index": "2605",
         "title": "Form Smallest Number From Two Digit Arrays",
         "title_slug": "form-smallest-number-from-two-digit-arrays",
         "difficulty": 1
     },
     {
         "id": 2669,
-        "index": "6328",
+        "index": "2606",
         "title": "Find the Substring With Maximum Cost",
         "title_slug": "find-the-substring-with-maximum-cost",
         "difficulty": 2
     },
     {
         "id": 2670,
-        "index": "6329",
+        "index": "2607",
         "title": "Make K-Subarray Sums Equal",
         "title_slug": "make-k-subarray-sums-equal",
         "difficulty": 2
     },
     {
         "id": 2671,
-        "index": "6330",
+        "index": "2608",
         "title": "Shortest Cycle in a Graph",
         "title_slug": "shortest-cycle-in-a-graph",
         "difficulty": 3
     },
     {
         "id": 2723,
-        "index": "6362",
+        "index": "2609",
         "title": "Find the Longest Balanced Substring of a Binary String",
         "title_slug": "find-the-longest-balanced-substring-of-a-binary-string",
         "difficulty": 1
     },
     {
         "id": 2724,
-        "index": "6363",
+        "index": "2610",
         "title": "Convert an Array Into a 2D Array With Conditions",
         "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
         "difficulty": 2
     },
     {
         "id": 2725,
-        "index": "6364",
+        "index": "2611",
         "title": "Mice and Cheese",
         "title_slug": "mice-and-cheese",
         "difficulty": 2
     },
     {
         "id": 2726,
-        "index": "6365",
+        "index": "2612",
         "title": "Minimum Reverse Operations",
         "title_slug": "minimum-reverse-operations",
+        "difficulty": 3
+    },
+    {
+        "id": 2719,
+        "index": "2613",
+        "title": "Beautiful Pairs",
+        "title_slug": "beautiful-pairs",
         "difficulty": 3
     },
     {
