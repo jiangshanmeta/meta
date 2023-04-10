@@ -1078,7 +1078,7 @@
 | 1058 | Minimize Rounding Error to Meet Target |  | Medium  |
 | 1059 | All Paths from Source Lead to Destination |  | Medium  |
 | 1060 | Missing Element in Sorted Array | [JavaScript](./src/1060.missing-element-in-sorted-array.1059/solution.js) [TypeScript](./src/1060.missing-element-in-sorted-array.1059/solution.ts) | Medium  |
-| 1061 | Lexicographically Smallest Equivalent String |  | Medium  |
+| 1061 | Lexicographically Smallest Equivalent String | [TypeScript](./src/1061.lexicographically-smallest-equivalent-string.1058/solution.ts) | Medium  |
 | 1062 | Longest Repeating Substring |  | Medium  |
 | 1063 | Number of Valid Subarrays |  | Hard  |
 | 1064 | Fixed Point | [JavaScript](./src/1064.fixed-point.1066/solution.js) [TypeScript](./src/1064.fixed-point.1066/solution.ts) | Easy  |
@@ -1569,7 +1569,7 @@
 | 1549 | The Most Recent Orders for Each Product |  | Medium  |
 | 1550 | Three Consecutive Odds | [JavaScript](./src/1550.three-consecutive-odds.1293/solution.js) [TypeScript](./src/1550.three-consecutive-odds.1293/solution.ts) | Easy  |
 | 1551 | Minimum Operations to Make Array Equal | [JavaScript](./src/1551.minimum-operations-to-make-array-equal.1674/solution.js) | Medium  |
-| 1552 | Magnetic Force Between Two Balls |  | Medium  |
+| 1552 | Magnetic Force Between Two Balls | [TypeScript](./src/1552.magnetic-force-between-two-balls.1675/solution.ts) | Medium  |
 | 1553 | Minimum Number of Days to Eat N Oranges | [JavaScript](./src/1553.minimum-number-of-days-to-eat-n-oranges.1676/solution.js) | Hard  |
 | 1554 | Strings Differ by One Character | [JavaScript](./src/1554.strings-differ-by-one-character.1697/solution.js) | Medium  |
 | 1555 | Bank Account Summary |  | Medium  |
@@ -2025,7 +2025,7 @@
 | 2005 | Subtree Removal Game with Fibonacci Tree |  | Hard  |
 | 2006 | Count Number of Pairs With Absolute Difference K | [JavaScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.js) [TypeScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.ts) | Easy  |
 | 2007 | Find Original Array From Doubled Array | [JavaScript](./src/2007.find-original-array-from-doubled-array.2117/solution.js) [TypeScript](./src/2007.find-original-array-from-doubled-array.2117/solution.ts) | Medium  |
-| 2008 | Maximum Earnings From Taxi |  | Medium  |
+| 2008 | Maximum Earnings From Taxi | [TypeScript](./src/2008.maximum-earnings-from-taxi.2118/solution.ts) | Medium  |
 | 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
 | 2010 | The Number of Seniors and Juniors to Join the Company II |  | Hard  |
 | 2011 | Final Value of Variable After Performing Operations | [JavaScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.js) [TypeScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.ts) | Easy  |
@@ -2204,7 +2204,7 @@
 | 2184 | Number of Ways to Build Sturdy Brick Wall |  | Medium  |
 | 2185 | Counting Words With a Given Prefix | [JavaScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.js) [TypeScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.ts) | Easy  |
 | 2186 | Minimum Number of Steps to Make Two Strings Anagram II | [JavaScript](./src/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.2293/solution.js) [TypeScript](./src/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.2293/solution.ts) | Medium  |
-| 2187 | Minimum Time to Complete Trips |  | Medium  |
+| 2187 | Minimum Time to Complete Trips | [TypeScript](./src/2187.minimum-time-to-complete-trips.2294/solution.ts) | Medium  |
 | 2188 | Minimum Time to Finish the Race |  | Hard  |
 | 2189 | Number of Ways to Build House of Cards |  | Medium  |
 | 2190 | Most Frequent Number Following Key In an Array | [JavaScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.js) [TypeScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.ts) | Easy  |
@@ -2456,7 +2456,7 @@
 | 2436 | Minimum Split Into Subarrays With GCD Greater Than One |  | Medium  |
 | 2437 | Number of Valid Clock Times | [JavaScript](./src/2437.number-of-valid-clock-times.2528/solution.js) [TypeScript](./src/2437.number-of-valid-clock-times.2528/solution.ts) | Easy  |
 | 2438 | Range Product Queries of Powers | [JavaScript](./src/2438.range-product-queries-of-powers.2529/solution.js) [TypeScript](./src/2438.range-product-queries-of-powers.2529/solution.ts) | Medium  |
-| 2439 | Minimize Maximum of Array |  | Medium  |
+| 2439 | Minimize Maximum of Array | [TypeScript](./src/2439.minimize-maximum-of-array.2530/solution.ts) | Medium  |
 | 2440 | Create Components With Same Value |  | Hard  |
 | 2441 | Largest Positive Integer That Exists With Its Negative | [JavaScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.js) [TypeScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.ts) | Easy  |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | [JavaScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.js) [TypeScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.ts) | Medium  |
