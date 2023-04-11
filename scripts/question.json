@@ -18291,6 +18291,34 @@
         "difficulty": 3
     },
     {
+        "id": 2722,
+        "index": "2614",
+        "title": "Prime In Diagonal",
+        "title_slug": "prime-in-diagonal",
+        "difficulty": 1
+    },
+    {
+        "id": 2721,
+        "index": "2615",
+        "title": "Sum of Distances",
+        "title_slug": "sum-of-distances",
+        "difficulty": 2
+    },
+    {
+        "id": 2720,
+        "index": "2616",
+        "title": "Minimize the Maximum Difference of Pairs",
+        "title_slug": "minimize-the-maximum-difference-of-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 2697,
+        "index": "2617",
+        "title": "Minimum Number of Visited Cells in a Grid",
+        "title_slug": "minimum-number-of-visited-cells-in-a-grid",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
