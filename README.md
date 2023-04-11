@@ -2577,7 +2577,7 @@
 | 2557 | Maximum Number of Integers to Choose From a Range II |  | Medium  |
 | 2558 | Take Gifts From the Richest Pile | [TypeScript](./src/2558.take-gifts-from-the-richest-pile.2692/solution.ts) | Easy  |
 | 2559 | Count Vowel Strings in Ranges | [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
-| 2560 | House Robber IV |  | Medium  |
+| 2560 | House Robber IV | [TypeScript](./src/2560.house-robber-iv.2690/solution.ts) | Medium  |
 | 2561 | Rearranging Fruits |  | Hard  |
 | 2562 | Find the Array Concatenation Value | [TypeScript](./src/2562.find-the-array-concatenation-value.2698/solution.ts) | Easy  |
 | 2563 | Count the Number of Fair Pairs | [TypeScript](./src/2563.count-the-number-of-fair-pairs.2699/solution.ts) | Medium  |
@@ -2631,6 +2631,10 @@
 | 2611 | Mice and Cheese | [TypeScript](./src/2611.mice-and-cheese.2725/solution.ts) | Medium  |
 | 2612 | Minimum Reverse Operations |  | Hard  |
 | 2613 | Beautiful Pairs |  | Hard  |
+| 2614 | Prime In Diagonal | [TypeScript](./src/2614.prime-in-diagonal.2722/solution.ts) | Easy  |
+| 2615 | Sum of Distances | [TypeScript](./src/2615.sum-of-distances.2721/solution.ts) | Medium  |
+| 2616 | Minimize the Maximum Difference of Pairs | [TypeScript](./src/2616.minimize-the-maximum-difference-of-pairs.2720/solution.ts) | Medium  |
+| 2617 | Minimum Number of Visited Cells in a Grid |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2642,7 +2646,7 @@
 | LCP09 | 最小跳跃次数 |  | Hard  |
 | LCP10 | 二叉树任务调度 |  | Hard  |
 | LCP11 | 期望个数统计 |  | Easy  |
-| LCP12 | 小张刷题计划 |  | Medium  |
+| LCP12 | 小张刷题计划 | [TypeScript](./src/LCP12.xiao-zhang-shua-ti-ji-hua.1000087/solution.ts) | Medium  |
 | LCP13 | 寻宝 |  | Hard  |
 | LCP14 | 切分数组 |  | Hard  |
 | LCP15 | 游乐园的迷宫 |  | Hard  |
