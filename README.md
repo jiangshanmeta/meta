@@ -105,23 +105,23 @@
 | 0085 | Maximal Rectangle |  | Hard  |
 | 0086 | Partition List | [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
 | 0087 | Scramble String |  | Hard  |
-| 0088 | Merge Sorted Array | [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
+| 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
 | 0089 | Gray Code | [JavaScript](./src/0089.gray-code.89/solution.js) | Medium  |
 | 0090 | Subsets II | [JavaScript](./src/0090.subsets-ii.90/solution.js) [TypeScript](./src/0090.subsets-ii.90/solution.ts) | Medium  |
 | 0091 | Decode Ways | [JavaScript](./src/0091.decode-ways.91/solution.js) [TypeScript](./src/0091.decode-ways.91/solution.ts) | Medium  |
 | 0092 | Reverse Linked List II | [JavaScript](./src/0092.reverse-linked-list-ii.92/solution.js) [TypeScript](./src/0092.reverse-linked-list-ii.92/solution.ts) | Medium  |
 | 0093 | Restore IP Addresses | [JavaScript](./src/0093.restore-ip-addresses.93/solution.js) | Medium  |
-| 0094 | Binary Tree Inorder Traversal | [JavaScript](./src/0094.binary-tree-inorder-traversal.94/solution.js) [TypeScript](./src/0094.binary-tree-inorder-traversal.94/solution.ts) | Easy  |
+| 0094 | Binary Tree Inorder Traversal | [Go](./src/0094.binary-tree-inorder-traversal.94/solution.go) [JavaScript](./src/0094.binary-tree-inorder-traversal.94/solution.js) [TypeScript](./src/0094.binary-tree-inorder-traversal.94/solution.ts) | Easy  |
 | 0095 | Unique Binary Search Trees II | [JavaScript](./src/0095.unique-binary-search-trees-ii.95/solution.js) [TypeScript](./src/0095.unique-binary-search-trees-ii.95/solution.ts) | Medium  |
 | 0096 | Unique Binary Search Trees | [JavaScript](./src/0096.unique-binary-search-trees.96/solution.js) [TypeScript](./src/0096.unique-binary-search-trees.96/solution.ts) | Medium  |
 | 0097 | Interleaving String | [JavaScript](./src/0097.interleaving-string.97/solution.js) | Medium  |
 | 0098 | Validate Binary Search Tree | [JavaScript](./src/0098.validate-binary-search-tree.98/solution.js) [TypeScript](./src/0098.validate-binary-search-tree.98/solution.ts) | Medium  |
 | 0099 | Recover Binary Search Tree | [JavaScript](./src/0099.recover-binary-search-tree.99/solution.js) [TypeScript](./src/0099.recover-binary-search-tree.99/solution.ts) | Medium  |
-| 0100 | Same Tree | [JavaScript](./src/0100.same-tree.100/solution.js) [TypeScript](./src/0100.same-tree.100/solution.ts) | Easy  |
-| 0101 | Symmetric Tree | [JavaScript](./src/0101.symmetric-tree.101/solution.js) [TypeScript](./src/0101.symmetric-tree.101/solution.ts) | Easy  |
+| 0100 | Same Tree | [Go](./src/0100.same-tree.100/solution.go) [JavaScript](./src/0100.same-tree.100/solution.js) [TypeScript](./src/0100.same-tree.100/solution.ts) | Easy  |
+| 0101 | Symmetric Tree | [Go](./src/0101.symmetric-tree.101/solution.go) [JavaScript](./src/0101.symmetric-tree.101/solution.js) [TypeScript](./src/0101.symmetric-tree.101/solution.ts) | Easy  |
 | 0102 | Binary Tree Level Order Traversal | [JavaScript](./src/0102.binary-tree-level-order-traversal.102/solution.js) [TypeScript](./src/0102.binary-tree-level-order-traversal.102/solution.ts) | Medium  |
 | 0103 | Binary Tree Zigzag Level Order Traversal | [JavaScript](./src/0103.binary-tree-zigzag-level-order-traversal.103/solution.js) [TypeScript](./src/0103.binary-tree-zigzag-level-order-traversal.103/solution.ts) | Medium  |
-| 0104 | Maximum Depth of Binary Tree | [JavaScript](./src/0104.maximum-depth-of-binary-tree.104/solution.js) [TypeScript](./src/0104.maximum-depth-of-binary-tree.104/solution.ts) | Easy  |
+| 0104 | Maximum Depth of Binary Tree | [Go](./src/0104.maximum-depth-of-binary-tree.104/solution.go) [JavaScript](./src/0104.maximum-depth-of-binary-tree.104/solution.js) [TypeScript](./src/0104.maximum-depth-of-binary-tree.104/solution.ts) | Easy  |
 | 0105 | Construct Binary Tree from Preorder and Inorder Traversal | [JavaScript](./src/0105.construct-binary-tree-from-preorder-and-inorder-traversal.105/solution.js) [TypeScript](./src/0105.construct-binary-tree-from-preorder-and-inorder-traversal.105/solution.ts) | Medium  |
 | 0106 | Construct Binary Tree from Inorder and Postorder Traversal | [JavaScript](./src/0106.construct-binary-tree-from-inorder-and-postorder-traversal.106/solution.js) [TypeScript](./src/0106.construct-binary-tree-from-inorder-and-postorder-traversal.106/solution.ts) | Medium  |
 | 0107 | Binary Tree Level Order Traversal II | [JavaScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.js) [TypeScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.ts) | Medium  |
@@ -161,8 +161,8 @@
 | 0141 | Linked List Cycle | [JavaScript](./src/0141.linked-list-cycle.141/solution.js) [TypeScript](./src/0141.linked-list-cycle.141/solution.ts) | Easy  |
 | 0142 | Linked List Cycle II | [JavaScript](./src/0142.linked-list-cycle-ii.142/solution.js) [TypeScript](./src/0142.linked-list-cycle-ii.142/solution.ts) | Medium  |
 | 0143 | Reorder List | [JavaScript](./src/0143.reorder-list.143/solution.js) [TypeScript](./src/0143.reorder-list.143/solution.ts) | Medium  |
-| 0144 | Binary Tree Preorder Traversal | [JavaScript](./src/0144.binary-tree-preorder-traversal.144/solution.js) [TypeScript](./src/0144.binary-tree-preorder-traversal.144/solution.ts) | Easy  |
-| 0145 | Binary Tree Postorder Traversal | [JavaScript](./src/0145.binary-tree-postorder-traversal.145/solution.js) [TypeScript](./src/0145.binary-tree-postorder-traversal.145/solution.ts) | Easy  |
+| 0144 | Binary Tree Preorder Traversal | [Go](./src/0144.binary-tree-preorder-traversal.144/solution.go) [JavaScript](./src/0144.binary-tree-preorder-traversal.144/solution.js) [TypeScript](./src/0144.binary-tree-preorder-traversal.144/solution.ts) | Easy  |
+| 0145 | Binary Tree Postorder Traversal | [Go](./src/0145.binary-tree-postorder-traversal.145/solution.go) [JavaScript](./src/0145.binary-tree-postorder-traversal.145/solution.js) [TypeScript](./src/0145.binary-tree-postorder-traversal.145/solution.ts) | Easy  |
 | 0146 | LRU Cache | [JavaScript](./src/0146.lru-cache.146/solution.js) | Medium  |
 | 0147 | Insertion Sort List | [JavaScript](./src/0147.insertion-sort-list.147/solution.js) | Medium  |
 | 0148 | Sort List | [JavaScript](./src/0148.sort-list.148/solution.js) | Medium  |
