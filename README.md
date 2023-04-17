@@ -125,11 +125,11 @@
 | 0105 | Construct Binary Tree from Preorder and Inorder Traversal | [JavaScript](./src/0105.construct-binary-tree-from-preorder-and-inorder-traversal.105/solution.js) [TypeScript](./src/0105.construct-binary-tree-from-preorder-and-inorder-traversal.105/solution.ts) | Medium  |
 | 0106 | Construct Binary Tree from Inorder and Postorder Traversal | [JavaScript](./src/0106.construct-binary-tree-from-inorder-and-postorder-traversal.106/solution.js) [TypeScript](./src/0106.construct-binary-tree-from-inorder-and-postorder-traversal.106/solution.ts) | Medium  |
 | 0107 | Binary Tree Level Order Traversal II | [JavaScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.js) [TypeScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.ts) | Medium  |
-| 0108 | Convert Sorted Array to Binary Search Tree | [JavaScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.js) [TypeScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.ts) | Easy  |
+| 0108 | Convert Sorted Array to Binary Search Tree | [Go](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.go) [JavaScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.js) [TypeScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.ts) | Easy  |
 | 0109 | Convert Sorted List to Binary Search Tree | [JavaScript](./src/0109.convert-sorted-list-to-binary-search-tree.109/solution.js) [TypeScript](./src/0109.convert-sorted-list-to-binary-search-tree.109/solution.ts) | Medium  |
 | 0110 | Balanced Binary Tree | [JavaScript](./src/0110.balanced-binary-tree.110/solution.js) [TypeScript](./src/0110.balanced-binary-tree.110/solution.ts) | Easy  |
 | 0111 | Minimum Depth of Binary Tree | [JavaScript](./src/0111.minimum-depth-of-binary-tree.111/solution.js) [TypeScript](./src/0111.minimum-depth-of-binary-tree.111/solution.ts) | Easy  |
-| 0112 | Path Sum | [JavaScript](./src/0112.path-sum.112/solution.js) [TypeScript](./src/0112.path-sum.112/solution.ts) | Easy  |
+| 0112 | Path Sum | [Go](./src/0112.path-sum.112/solution.go) [JavaScript](./src/0112.path-sum.112/solution.js) [TypeScript](./src/0112.path-sum.112/solution.ts) | Easy  |
 | 0113 | Path Sum II | [JavaScript](./src/0113.path-sum-ii.113/solution.js) [TypeScript](./src/0113.path-sum-ii.113/solution.ts) | Medium  |
 | 0114 | Flatten Binary Tree to Linked List | [JavaScript](./src/0114.flatten-binary-tree-to-linked-list.114/solution.js) [TypeScript](./src/0114.flatten-binary-tree-to-linked-list.114/solution.ts) | Medium  |
 | 0115 | Distinct Subsequences | [JavaScript](./src/0115.distinct-subsequences.115/solution.js) | Hard  |
@@ -243,7 +243,7 @@
 | 0223 | Rectangle Area | [JavaScript](./src/0223.rectangle-area.223/solution.js) | Medium  |
 | 0224 | Basic Calculator |  | Hard  |
 | 0225 | Implement Stack using Queues | [JavaScript](./src/0225.implement-stack-using-queues.225/solution.js) [TypeScript](./src/0225.implement-stack-using-queues.225/solution.ts) | Easy  |
-| 0226 | Invert Binary Tree | [JavaScript](./src/0226.invert-binary-tree.226/solution.js) [TypeScript](./src/0226.invert-binary-tree.226/solution.ts) | Easy  |
+| 0226 | Invert Binary Tree | [Go](./src/0226.invert-binary-tree.226/solution.go) [JavaScript](./src/0226.invert-binary-tree.226/solution.js) [TypeScript](./src/0226.invert-binary-tree.226/solution.ts) | Easy  |
 | 0227 | Basic Calculator II |  | Medium  |
 | 0228 | Summary Ranges | [JavaScript](./src/0228.summary-ranges.228/solution.js) [TypeScript](./src/0228.summary-ranges.228/solution.ts) | Easy  |
 | 0229 | Majority Element II | [JavaScript](./src/0229.majority-element-ii.229/solution.js) | Medium  |
@@ -982,7 +982,7 @@
 | 0962 | Maximum Width Ramp | [JavaScript](./src/0962.maximum-width-ramp.1002/solution.js) [TypeScript](./src/0962.maximum-width-ramp.1002/solution.ts) | Medium  |
 | 0963 | Minimum Area Rectangle II |  | Medium  |
 | 0964 | Least Operators to Express Number |  | Hard  |
-| 0965 | Univalued Binary Tree | [JavaScript](./src/0965.univalued-binary-tree.1005/solution.js) [TypeScript](./src/0965.univalued-binary-tree.1005/solution.ts) | Easy  |
+| 0965 | Univalued Binary Tree | [Go](./src/0965.univalued-binary-tree.1005/solution.go) [JavaScript](./src/0965.univalued-binary-tree.1005/solution.js) [TypeScript](./src/0965.univalued-binary-tree.1005/solution.ts) | Easy  |
 | 0966 | Vowel Spellchecker | [JavaScript](./src/0966.vowel-spellchecker.1006/solution.js) | Medium  |
 | 0967 | Numbers With Same Consecutive Differences | [JavaScript](./src/0967.numbers-with-same-consecutive-differences.1007/solution.js) | Medium  |
 | 0968 | Binary Tree Cameras | [JavaScript](./src/0968.binary-tree-cameras.1008/solution.js) | Hard  |
@@ -1039,7 +1039,7 @@
 | 1019 | Next Greater Node In Linked List | [JavaScript](./src/1019.next-greater-node-in-linked-list.1072/solution.js) [TypeScript](./src/1019.next-greater-node-in-linked-list.1072/solution.ts) | Medium  |
 | 1020 | Number of Enclaves | [JavaScript](./src/1020.number-of-enclaves.1073/solution.js) [TypeScript](./src/1020.number-of-enclaves.1073/solution.ts) | Medium  |
 | 1021 | Remove Outermost Parentheses | [JavaScript](./src/1021.remove-outermost-parentheses.1078/solution.js) [TypeScript](./src/1021.remove-outermost-parentheses.1078/solution.ts) | Easy  |
-| 1022 | Sum of Root To Leaf Binary Numbers | [JavaScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.js) [TypeScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.ts) | Easy  |
+| 1022 | Sum of Root To Leaf Binary Numbers | [Go](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.go) [JavaScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.js) [TypeScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.ts) | Easy  |
 | 1023 | Camelcase Matching | [JavaScript](./src/1023.camelcase-matching.1080/solution.js) | Medium  |
 | 1024 | Video Stitching | [JavaScript](./src/1024.video-stitching.1081/solution.js) | Medium  |
 | 1025 | Divisor Game | [JavaScript](./src/1025.divisor-game.1086/solution.js) [TypeScript](./src/1025.divisor-game.1086/solution.ts) | Easy  |
@@ -2348,7 +2348,7 @@
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
 | 2329 | Product Sales Analysis V |  | Easy  |
 | 2330 | Valid Palindrome IV |  | Medium  |
-| 2331 | Evaluate Boolean Binary Tree | [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.ts) | Easy  |
+| 2331 | Evaluate Boolean Binary Tree | [Go](./src/2331.evaluate-boolean-binary-tree.2416/solution.go) [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.ts) | Easy  |
 | 2332 | The Latest Time to Catch a Bus |  | Medium  |
 | 2333 | Minimum Sum of Squared Difference | [TypeScript](./src/2333.minimum-sum-of-squared-difference.2418/solution.ts) | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
