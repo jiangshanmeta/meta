@@ -2635,6 +2635,36 @@
 | 2615 | Sum of Distances | [TypeScript](./src/2615.sum-of-distances.2721/solution.ts) | Medium  |
 | 2616 | Minimize the Maximum Difference of Pairs | [TypeScript](./src/2616.minimize-the-maximum-difference-of-pairs.2720/solution.ts) | Medium  |
 | 2617 | Minimum Number of Visited Cells in a Grid |  | Hard  |
+| 2618 | Check if Object Instance of Class |  | Medium  |
+| 2619 | Array Prototype Last | [TypeScript](./src/2619.array-prototype-last.2734/solution.ts) | Easy  |
+| 2620 | Counter |  | Easy  |
+| 2621 | Sleep |  | Easy  |
+| 2622 | Cache With Time Limit |  | Medium  |
+| 2623 | Memoize |  | Medium  |
+| 2624 | Snail Traversal |  | Medium  |
+| 2625 | Flatten Deeply Nested Array |  | Medium  |
+| 2626 | Array Reduce Transformation |  | Easy  |
+| 2627 | Debounce |  | Medium  |
+| 2628 | JSON Deep Equal |  | Medium  |
+| 2629 | Function Composition |  | Easy  |
+| 2630 | Memoize II |  | Hard  |
+| 2631 | Group By |  | Medium  |
+| 2632 | Curry |  | Medium  |
+| 2633 | Convert Object to JSON String |  | Medium  |
+| 2634 | Filter Elements from Array |  | Easy  |
+| 2635 | Apply Transform Over Each Element in Array |  | Easy  |
+| 2636 | Promise Pool |  | Medium  |
+| 2637 | Promise Time Limit |  | Easy  |
+| 2638 | Count the Number of K-Free Subsets |  | Medium  |
+| 2639 | Find the Width of Columns of a Grid | [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
+| 2640 | Find the Score of All Prefixes of an Array | [TypeScript](./src/2640.find-the-score-of-all-prefixes-of-an-array.2676/solution.ts) | Medium  |
+| 2641 | Cousins in Binary Tree II | [TypeScript](./src/2641.cousins-in-binary-tree-ii.2677/solution.ts) | Medium  |
+| 2642 | Design Graph With Shortest Path Calculator |  | Hard  |
+| 2643 | Row With Maximum Ones | [TypeScript](./src/2643.row-with-maximum-ones.2737/solution.ts) | Easy  |
+| 2644 | Find the Maximum Divisibility Score | [TypeScript](./src/2644.find-the-maximum-divisibility-score.2694/solution.ts) | Easy  |
+| 2645 | Minimum Additions to Make Valid String | [TypeScript](./src/2645.minimum-additions-to-make-valid-string.2736/solution.ts) | Medium  |
+| 2646 | Minimize the Total Price of the Trips |  | Hard  |
+| 2647 | Color the Triangle Red |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2716,7 +2746,7 @@
 | 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.js) [TypeScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.ts) | Easy  |
 | 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./src/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278/solution.js) | Easy  |
 | 剑指Offer12 | 矩阵中的路径  LCOF | [JavaScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.js) [TypeScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.ts) | Medium  |
-| 面试题13 | 机器人的运动范围  LCOF | [JavaScript](./src/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.js) [TypeScript](./src/面试题13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.ts) | Medium  |
+| 剑指Offer13 | 机器人的运动范围  LCOF |  | Medium  |
 | 剑指Offer14-I | 剪绳子  LCOF | [JavaScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.js) [TypeScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.ts) | Medium  |
 | 剑指Offer14-II | 剪绳子 II LCOF | [JavaScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.js) [TypeScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.ts) | Medium  |
 | 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./src/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.js) | Easy  |
@@ -2750,7 +2780,7 @@
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
 | 剑指Offer44 | 数字序列中某一位的数字  LCOF | [JavaScript](./src/剑指Offer44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
-| 面试题45 | 把数组排成最小的数 LCOF | [JavaScript](./src/面试题45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/面试题45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
+| 剑指Offer45 | 把数组排成最小的数 LCOF |  | Medium  |
 | 剑指Offer46 | 把数字翻译成字符串 LCOF | [JavaScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
 | 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./src/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
@@ -2769,16 +2799,16 @@
 | 剑指Offer57-II | 和为s的连续正数序列 LCOF | [JavaScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/solution.js) [TypeScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/solution.ts) | Easy  |
 | 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.ts) | Easy  |
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.ts) | Easy  |
-| 面试题59-II | 队列的最大值 LCOF | [JavaScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/面试题59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
+| 剑指Offer59-II | 队列的最大值 LCOF |  | Medium  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
-| 面试题61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/面试题61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/面试题61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
+| 剑指Offer61 | 扑克牌中的顺子  LCOF |  | Easy  |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
 | 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
 | 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
 | 剑指Offer65 | 不用加减乘除做加法 LCOF | [JavaScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.js) [TypeScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.ts) | Easy  |
 | 剑指Offer66 | 构建乘积数组 LCOF | [JavaScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.js) [TypeScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.ts) | Medium  |
-| 面试题67 | 把字符串转换成整数 LCOF |  | Medium  |
+| 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium  |
 | 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.js) [Python3](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.py) [TypeScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.ts) | Easy  |
 | 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.ts) | Easy  |
 | 剑指OfferII001 | 整数除法 |  | Easy  |
