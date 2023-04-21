@@ -2635,23 +2635,23 @@
 | 2615 | Sum of Distances | [TypeScript](./src/2615.sum-of-distances.2721/solution.ts) | Medium  |
 | 2616 | Minimize the Maximum Difference of Pairs | [TypeScript](./src/2616.minimize-the-maximum-difference-of-pairs.2720/solution.ts) | Medium  |
 | 2617 | Minimum Number of Visited Cells in a Grid |  | Hard  |
-| 2618 | Check if Object Instance of Class |  | Medium  |
+| 2618 | Check if Object Instance of Class | [TypeScript](./src/2618.check-if-object-instance-of-class.2758/solution.ts) | Medium  |
 | 2619 | Array Prototype Last | [TypeScript](./src/2619.array-prototype-last.2734/solution.ts) | Easy  |
-| 2620 | Counter |  | Easy  |
-| 2621 | Sleep |  | Easy  |
+| 2620 | Counter | [TypeScript](./src/2620.counter.2732/solution.ts) | Easy  |
+| 2621 | Sleep | [TypeScript](./src/2621.sleep.2733/solution.ts) | Easy  |
 | 2622 | Cache With Time Limit |  | Medium  |
 | 2623 | Memoize |  | Medium  |
 | 2624 | Snail Traversal |  | Medium  |
 | 2625 | Flatten Deeply Nested Array |  | Medium  |
-| 2626 | Array Reduce Transformation |  | Easy  |
+| 2626 | Array Reduce Transformation | [TypeScript](./src/2626.array-reduce-transformation.2761/solution.ts) | Easy  |
 | 2627 | Debounce |  | Medium  |
 | 2628 | JSON Deep Equal |  | Medium  |
-| 2629 | Function Composition |  | Easy  |
+| 2629 | Function Composition | [TypeScript](./src/2629.function-composition.2741/solution.ts) | Easy  |
 | 2630 | Memoize II |  | Hard  |
 | 2631 | Group By |  | Medium  |
 | 2632 | Curry |  | Medium  |
 | 2633 | Convert Object to JSON String |  | Medium  |
-| 2634 | Filter Elements from Array |  | Easy  |
+| 2634 | Filter Elements from Array | [TypeScript](./src/2634.filter-elements-from-array.2746/solution.ts) | Easy  |
 | 2635 | Apply Transform Over Each Element in Array |  | Easy  |
 | 2636 | Promise Pool |  | Medium  |
 | 2637 | Promise Time Limit |  | Easy  |
@@ -2665,6 +2665,9 @@
 | 2645 | Minimum Additions to Make Valid String | [TypeScript](./src/2645.minimum-additions-to-make-valid-string.2736/solution.ts) | Medium  |
 | 2646 | Minimize the Total Price of the Trips |  | Hard  |
 | 2647 | Color the Triangle Red |  | Hard  |
+| 2648 | Generate Fibonacci Sequence |  | Easy  |
+| 2649 | Nested Array Generator |  | Medium  |
+| 2650 | Design Cancellable Function |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
