@@ -2653,7 +2653,7 @@
 | 2633 | Convert Object to JSON String | [TypeScript](./src/2633.convert-object-to-json-string.2745/solution.ts) | Medium  |
 | 2634 | Filter Elements from Array | [TypeScript](./src/2634.filter-elements-from-array.2746/solution.ts) | Easy  |
 | 2635 | Apply Transform Over Each Element in Array | [TypeScript](./src/2635.apply-transform-over-each-element-in-array.2747/solution.ts) | Easy  |
-| 2636 | Promise Pool |  | Medium  |
+| 2636 | Promise Pool | [TypeScript](./src/2636.promise-pool.2750/solution.ts) | Medium  |
 | 2637 | Promise Time Limit | [TypeScript](./src/2637.promise-time-limit.2749/solution.ts) | Easy  |
 | 2638 | Count the Number of K-Free Subsets |  | Medium  |
 | 2639 | Find the Width of Columns of a Grid | [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
@@ -2666,8 +2666,12 @@
 | 2646 | Minimize the Total Price of the Trips |  | Hard  |
 | 2647 | Color the Triangle Red |  | Hard  |
 | 2648 | Generate Fibonacci Sequence | [TypeScript](./src/2648.generate-fibonacci-sequence.2775/solution.ts) | Easy  |
-| 2649 | Nested Array Generator |  | Medium  |
+| 2649 | Nested Array Generator | [TypeScript](./src/2649.nested-array-generator.2783/solution.ts) | Medium  |
 | 2650 | Design Cancellable Function |  | Hard  |
+| 2651 | Calculate Delayed Arrival Time | [TypeScript](./src/2651.calculate-delayed-arrival-time.2748/solution.ts) | Easy  |
+| 2652 | Sum Multiples | [TypeScript](./src/2652.sum-multiples.2752/solution.ts) | Easy  |
+| 2653 | Sliding Subarray Beauty | [TypeScript](./src/2653.sliding-subarray-beauty.2751/solution.ts) | Medium  |
+| 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | [TypeScript](./src/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.2753/solution.ts) | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2739,6 +2743,11 @@
 | LCP69 | Hello LeetCode! |  | Hard  |
 | LCP70 | 沙地治理 |  | Hard  |
 | LCP71 | 集水器 |  | Hard  |
+| LCP72 | 补给马车 |  | Easy  |
+| LCP73 | 探险营地 |  | Medium  |
+| LCP74 | 最强祝福力场 |  | Medium  |
+| LCP75 | 传送卷轴 |  | Hard  |
+| LCP76 | 魔法棋盘 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.ts) | Easy  |
