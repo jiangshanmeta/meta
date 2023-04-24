@@ -18550,6 +18550,34 @@
         "difficulty": 3
     },
     {
+        "id": 2748,
+        "index": "2651",
+        "title": "Calculate Delayed Arrival Time",
+        "title_slug": "calculate-delayed-arrival-time",
+        "difficulty": 1
+    },
+    {
+        "id": 2752,
+        "index": "2652",
+        "title": "Sum Multiples",
+        "title_slug": "sum-multiples",
+        "difficulty": 1
+    },
+    {
+        "id": 2751,
+        "index": "2653",
+        "title": "Sliding Subarray Beauty",
+        "title_slug": "sliding-subarray-beauty",
+        "difficulty": 2
+    },
+    {
+        "id": 2753,
+        "index": "2654",
+        "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+        "title_slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -19044,6 +19072,41 @@
         "index": "LCP71",
         "title": "集水器",
         "title_slug": "kskhHQ",
+        "difficulty": 3
+    },
+    {
+        "id": 1000560,
+        "index": "LCP72",
+        "title": "补给马车",
+        "title_slug": "hqCnmP",
+        "difficulty": 1
+    },
+    {
+        "id": 1000561,
+        "index": "LCP73",
+        "title": "探险营地",
+        "title_slug": "0Zeoeg",
+        "difficulty": 2
+    },
+    {
+        "id": 1000562,
+        "index": "LCP74",
+        "title": "最强祝福力场",
+        "title_slug": "xepqZ5",
+        "difficulty": 2
+    },
+    {
+        "id": 1000563,
+        "index": "LCP75",
+        "title": "传送卷轴",
+        "title_slug": "rdmXM7",
+        "difficulty": 3
+    },
+    {
+        "id": 1000564,
+        "index": "LCP76",
+        "title": "魔法棋盘",
+        "title_slug": "1ybDKD",
         "difficulty": 3
     },
     {
