@@ -38,7 +38,7 @@
 | 0018 | 4Sum | [JavaScript](./src/0018.4sum.18/solution.js) | Medium  |
 | 0019 | Remove Nth Node From End of List | [JavaScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.js) [TypeScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.ts) | Medium  |
 | 0020 | Valid Parentheses | [JavaScript](./src/0020.valid-parentheses.20/solution.js) [TypeScript](./src/0020.valid-parentheses.20/solution.ts) | Easy  |
-| 0021 | Merge Two Sorted Lists | [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
+| 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
 | 0022 | Generate Parentheses | [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
 | 0023 | Merge k Sorted Lists | [JavaScript](./src/0023.merge-k-sorted-lists.23/solution.js) [TypeScript](./src/0023.merge-k-sorted-lists.23/solution.ts) | Hard  |
 | 0024 | Swap Nodes in Pairs | [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
@@ -100,7 +100,7 @@
 | 0080 | Remove Duplicates from Sorted Array II | [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
 | 0081 | Search in Rotated Sorted Array II | [JavaScript](./src/0081.search-in-rotated-sorted-array-ii.81/solution.js) | Medium  |
 | 0082 | Remove Duplicates from Sorted List II | [JavaScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.js) [TypeScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.ts) | Medium  |
-| 0083 | Remove Duplicates from Sorted List | [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
+| 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
 | 0084 | Largest Rectangle in Histogram |  | Hard  |
 | 0085 | Maximal Rectangle |  | Hard  |
 | 0086 | Partition List | [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
@@ -220,10 +220,10 @@
 | 0200 | Number of Islands | [JavaScript](./src/0200.number-of-islands.200/solution.js) [TypeScript](./src/0200.number-of-islands.200/solution.ts) | Medium  |
 | 0201 | Bitwise AND of Numbers Range | [JavaScript](./src/0201.bitwise-and-of-numbers-range.201/solution.js) | Medium  |
 | 0202 | Happy Number | [JavaScript](./src/0202.happy-number.202/solution.js) [TypeScript](./src/0202.happy-number.202/solution.ts) | Easy  |
-| 0203 | Remove Linked List Elements | [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
+| 0203 | Remove Linked List Elements | [Go](./src/0203.remove-linked-list-elements.203/solution.go) [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
 | 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/solution.js) [TypeScript](./src/0204.count-primes.204/solution.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/solution.js) [TypeScript](./src/0205.isomorphic-strings.205/solution.ts) | Easy  |
-| 0206 | Reverse Linked List | [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
+| 0206 | Reverse Linked List | [Go](./src/0206.reverse-linked-list.206/solution.go) [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
 | 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) [TypeScript](./src/0207.course-schedule.207/solution.ts) | Medium  |
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./src/0208.implement-trie-prefix-tree.208/solution.js) | Medium  |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./src/0209.minimum-size-subarray-sum.209/solution.js) [TypeScript](./src/0209.minimum-size-subarray-sum.209/solution.ts) | Medium  |
@@ -893,7 +893,7 @@
 | 0873 | Length of Longest Fibonacci Subsequence | [JavaScript](./src/0873.length-of-longest-fibonacci-subsequence.905/solution.js) | Medium  |
 | 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/solution.js) | Medium  |
 | 0875 | Koko Eating Bananas | [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
-| 0876 | Middle of the Linked List | [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
+| 0876 | Middle of the Linked List | [Go](./src/0876.middle-of-the-linked-list.908/solution.go) [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/solution.js) | Medium  |
 | 0878 | Nth Magical Number |  | Hard  |
 | 0879 | Profitable Schemes |  | Hard  |
@@ -1307,7 +1307,7 @@
 | 1287 | Element Appearing More Than 25% In Sorted Array | [JavaScript](./src/1287.element-appearing-more-than-25-in-sorted-array.1221/solution.js) | Easy  |
 | 1288 | Remove Covered Intervals | [JavaScript](./src/1288.remove-covered-intervals.1222/solution.js) | Medium  |
 | 1289 | Minimum Falling Path Sum II | [JavaScript](./src/1289.minimum-falling-path-sum-ii.1224/solution.js) | Hard  |
-| 1290 | Convert Binary Number in a Linked List to Integer | [JavaScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.js) [TypeScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.ts) | Easy  |
+| 1290 | Convert Binary Number in a Linked List to Integer | [Go](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.go) [JavaScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.js) [TypeScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.ts) | Easy  |
 | 1291 | Sequential Digits | [JavaScript](./src/1291.sequential-digits.1212/solution.js) | Medium  |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |  | Medium  |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination |  | Hard  |
