@@ -2647,7 +2647,7 @@
 | 2627 | Debounce | [TypeScript](./src/2627.debounce.2743/solution.ts) | Medium  |
 | 2628 | JSON Deep Equal | [TypeScript](./src/2628.json-deep-equal.2735/solution.ts) | Medium  |
 | 2629 | Function Composition | [TypeScript](./src/2629.function-composition.2741/solution.ts) | Easy  |
-| 2630 | Memoize II |  | Hard  |
+| 2630 | Memoize II | [TypeScript](./src/2630.memoize-ii.2744/solution.ts) | Hard  |
 | 2631 | Group By | [TypeScript](./src/2631.group-by.2742/solution.ts) | Medium  |
 | 2632 | Curry | [TypeScript](./src/2632.curry.2740/solution.ts) | Medium  |
 | 2633 | Convert Object to JSON String | [TypeScript](./src/2633.convert-object-to-json-string.2745/solution.ts) | Medium  |
@@ -2751,7 +2751,7 @@
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.ts) | Easy  |
-| 剑指Offer06 | 从尾到头打印链表 LCOF | [JavaScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.js) [TypeScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.ts) | Easy  |
+| 剑指Offer06 | 从尾到头打印链表 LCOF | [Go](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.go) [JavaScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.js) [TypeScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.ts) | Easy  |
 | 剑指Offer07 | 重建二叉树 LCOF | [JavaScript](./src/剑指Offer07.zhong-jian-er-cha-shu-lcof.100283/solution.js) [TypeScript](./src/剑指Offer07.zhong-jian-er-cha-shu-lcof.100283/solution.ts) | Medium  |
 | 剑指Offer09 | 用两个栈实现队列 LCOF | [JavaScript](./src/剑指Offer09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.js) [TypeScript](./src/剑指Offer09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.ts) | Easy  |
 | 剑指Offer10-I | 斐波那契数列  LCOF | [JavaScript](./src/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274/solution.js) [TypeScript](./src/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274/solution.ts) | Easy  |
@@ -2764,13 +2764,13 @@
 | 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./src/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.js) | Easy  |
 | 剑指Offer16 | 数值的整数次方 LCOF | [JavaScript](./src/剑指Offer16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.js) [TypeScript](./src/剑指Offer16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.ts) | Medium  |
 | 剑指Offer17 | 打印从1到最大的n位数 LCOF | [JavaScript](./src/剑指Offer17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.js) [TypeScript](./src/剑指Offer17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.ts) | Easy  |
-| 剑指Offer18 | 删除链表的节点 LCOF | [JavaScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.js) [TypeScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.ts) | Easy  |
+| 剑指Offer18 | 删除链表的节点 LCOF | [Go](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.go) [JavaScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.js) [TypeScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.ts) | Easy  |
 | 剑指Offer19 | 正则表达式匹配 LCOF | [JavaScript](./src/剑指Offer19.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.js) [TypeScript](./src/剑指Offer19.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.ts) | Hard  |
 | 剑指Offer20 | 表示数值的字符串 LCOF |  | Medium  |
 | 剑指Offer21 | 调整数组顺序使奇数位于偶数前面 LCOF | [JavaScript](./src/剑指Offer21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.js) [TypeScript](./src/剑指Offer21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.ts) | Easy  |
-| 剑指Offer22 | 链表中倒数第k个节点 LCOF | [JavaScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.js) [TypeScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.ts) | Easy  |
-| 剑指Offer24 | 反转链表 LCOF | [JavaScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.js) [TypeScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.ts) | Easy  |
-| 剑指Offer25 | 合并两个排序的链表  LCOF | [JavaScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.js) [TypeScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.ts) | Easy  |
+| 剑指Offer22 | 链表中倒数第k个节点 LCOF | [Go](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.go) [JavaScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.js) [TypeScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.ts) | Easy  |
+| 剑指Offer24 | 反转链表 LCOF | [Go](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.go) [JavaScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.js) [TypeScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.ts) | Easy  |
+| 剑指Offer25 | 合并两个排序的链表  LCOF | [Go](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.go) [JavaScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.js) [TypeScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.ts) | Easy  |
 | 剑指Offer26 | 树的子结构  LCOF | [JavaScript](./src/剑指Offer26.shu-de-zi-jie-gou-lcof.100287/solution.js) [TypeScript](./src/剑指Offer26.shu-de-zi-jie-gou-lcof.100287/solution.ts) | Medium  |
 | 剑指Offer27 | 二叉树的镜像  LCOF | [JavaScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/solution.js) [TypeScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/solution.ts) | Easy  |
 | 剑指Offer28 | 对称的二叉树  LCOF | [JavaScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/solution.js) [TypeScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/solution.ts) | Easy  |
@@ -2846,7 +2846,7 @@
 | 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/solution.js) [TypeScript](./src/剑指OfferII021.SLwz0R.1000257/solution.ts) | Medium  |
 | 剑指OfferII022 | 链表中环的入口节点 | [JavaScript](./src/剑指OfferII022.c32eOV.1000258/solution.js) | Medium  |
 | 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/solution.js) | Easy  |
-| 剑指OfferII024 | 反转链表 | [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) [TypeScript](./src/剑指OfferII024.UHnkqh.1000260/solution.ts) | Easy  |
+| 剑指OfferII024 | 反转链表 | [Go](./src/剑指OfferII024.UHnkqh.1000260/solution.go) [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) [TypeScript](./src/剑指OfferII024.UHnkqh.1000260/solution.ts) | Easy  |
 | 剑指OfferII025 | 链表中的两数相加 | [TypeScript](./src/剑指OfferII025.lMSNwu.1000261/solution.ts) | Medium  |
 | 剑指OfferII026 | 重排链表 | [TypeScript](./src/剑指OfferII026.LGjMqU.1000262/solution.ts) | Medium  |
 | 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
