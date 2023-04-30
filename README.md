@@ -1903,7 +1903,7 @@
 | 1883 | Minimum Skips to Arrive at Meeting On Time |  | Hard  |
 | 1884 | Egg Drop With 2 Eggs and N Floors |  | Medium  |
 | 1885 | Count Pairs in Two Arrays |  | Medium  |
-| 1886 | Determine Whether Matrix Can Be Obtained By Rotation |  | Easy  |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | [TypeScript](./src/1886.determine-whether-matrix-can-be-obtained-by-rotation.2015/solution.ts) | Easy  |
 | 1887 | Reduction Operations to Make the Array Elements Equal | [JavaScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/solution.js) [TypeScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/solution.ts) | Medium  |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating |  | Medium  |
 | 1889 | Minimum Space Wasted From Packaging |  | Hard  |
@@ -2138,7 +2138,7 @@
 | 2118 | Build the Equation |  | Hard  |
 | 2119 | A Number After a Double Reversal | [JavaScript](./src/2119.a-number-after-a-double-reversal.2238/solution.js) [TypeScript](./src/2119.a-number-after-a-double-reversal.2238/solution.ts) | Easy  |
 | 2120 | Execution of All Suffix Instructions Staying in a Grid | [TypeScript](./src/2120.execution-of-all-suffix-instructions-staying-in-a-grid.2239/solution.ts) | Medium  |
-| 2121 | Intervals Between Identical Elements |  | Medium  |
+| 2121 | Intervals Between Identical Elements | [TypeScript](./src/2121.intervals-between-identical-elements.2240/solution.ts) | Medium  |
 | 2122 | Recover the Original Array |  | Hard  |
 | 2123 | Minimum Operations to Remove Adjacent Ones in Matrix |  | Hard  |
 | 2124 | Check if All A's Appears Before All B's | [JavaScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.js) [TypeScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.ts) | Easy  |
@@ -2157,7 +2157,7 @@
 | 2137 | Pour Water Between Buckets to Make Water Levels Equal |  | Medium  |
 | 2138 | Divide a String Into Groups of Size k | [JavaScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.js) [TypeScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.ts) | Easy  |
 | 2139 | Minimum Moves to Reach Target Score | [JavaScript](./src/2139.minimum-moves-to-reach-target-score.1303/solution.js) [TypeScript](./src/2139.minimum-moves-to-reach-target-score.1303/solution.ts) | Medium  |
-| 2140 | Solving Questions With Brainpower |  | Medium  |
+| 2140 | Solving Questions With Brainpower | [TypeScript](./src/2140.solving-questions-with-brainpower.2262/solution.ts) | Medium  |
 | 2141 | Maximum Running Time of N Computers |  | Hard  |
 | 2142 | The Number of Passengers in Each Bus I |  | Medium  |
 | 2143 | Choose Numbers From Two Arrays in Range |  | Hard  |
@@ -2283,7 +2283,7 @@
 | 2263 | Make Array Non-decreasing or Non-increasing |  | Hard  |
 | 2264 | Largest 3-Same-Digit Number in String | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.js) [TypeScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.ts) | Easy  |
 | 2265 | Count Nodes Equal to Average of Subtree | [TypeScript](./src/2265.count-nodes-equal-to-average-of-subtree.2347/solution.ts) | Medium  |
-| 2266 | Count Number of Texts |  | Medium  |
+| 2266 | Count Number of Texts | [TypeScript](./src/2266.count-number-of-texts.2348/solution.ts) | Medium  |
 | 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
 | 2268 | Minimum Number of Keypresses |  | Medium  |
 | 2269 | Find the K-Beauty of a Number | [JavaScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.js) [TypeScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.ts) | Easy  |
@@ -2659,7 +2659,7 @@
 | 2639 | Find the Width of Columns of a Grid | [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
 | 2640 | Find the Score of All Prefixes of an Array | [TypeScript](./src/2640.find-the-score-of-all-prefixes-of-an-array.2676/solution.ts) | Medium  |
 | 2641 | Cousins in Binary Tree II | [TypeScript](./src/2641.cousins-in-binary-tree-ii.2677/solution.ts) | Medium  |
-| 2642 | Design Graph With Shortest Path Calculator |  | Hard  |
+| 2642 | Design Graph With Shortest Path Calculator | [TypeScript](./src/2642.design-graph-with-shortest-path-calculator.2678/solution.ts) | Hard  |
 | 2643 | Row With Maximum Ones | [TypeScript](./src/2643.row-with-maximum-ones.2737/solution.ts) | Easy  |
 | 2644 | Find the Maximum Divisibility Score | [TypeScript](./src/2644.find-the-maximum-divisibility-score.2694/solution.ts) | Easy  |
 | 2645 | Minimum Additions to Make Valid String | [TypeScript](./src/2645.minimum-additions-to-make-valid-string.2736/solution.ts) | Medium  |
@@ -2743,7 +2743,7 @@
 | LCP69 | Hello LeetCode! |  | Hard  |
 | LCP70 | 沙地治理 |  | Hard  |
 | LCP71 | 集水器 |  | Hard  |
-| LCP72 | 补给马车 |  | Easy  |
+| LCP72 | 补给马车 | [TypeScript](./src/LCP72.hqCnmP.1000560/solution.ts) | Easy  |
 | LCP73 | 探险营地 |  | Medium  |
 | LCP74 | 最强祝福力场 |  | Medium  |
 | LCP75 | 传送卷轴 |  | Hard  |
