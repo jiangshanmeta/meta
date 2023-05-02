@@ -716,7 +716,7 @@
 | 0696 | Count Binary Substrings | [JavaScript](./src/0696.count-binary-substrings.696/solution.js) [TypeScript](./src/0696.count-binary-substrings.696/solution.ts) | Easy  |
 | 0697 | Degree of an Array | [JavaScript](./src/0697.degree-of-an-array.697/solution.js) [TypeScript](./src/0697.degree-of-an-array.697/solution.ts) | Easy  |
 | 0698 | Partition to K Equal Sum Subsets |  | Medium  |
-| 0699 | Falling Squares |  | Hard  |
+| 0699 | Falling Squares | [TypeScript](./src/0699.falling-squares.699/solution.ts) | Hard  |
 | 0700 | Search in a Binary Search Tree | [Go](./src/0700.search-in-a-binary-search-tree.783/solution.go) [JavaScript](./src/0700.search-in-a-binary-search-tree.783/solution.js) [TypeScript](./src/0700.search-in-a-binary-search-tree.783/solution.ts) | Easy  |
 | 0701 | Insert into a Binary Search Tree | [JavaScript](./src/0701.insert-into-a-binary-search-tree.784/solution.js) [TypeScript](./src/0701.insert-into-a-binary-search-tree.784/solution.ts) | Medium  |
 | 0702 | Search in a Sorted Array of Unknown Size | [JavaScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.js) [TypeScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.ts) | Medium  |
@@ -748,8 +748,8 @@
 | 0728 | Self Dividing Numbers | [JavaScript](./src/0728.self-dividing-numbers.728/solution.js) [TypeScript](./src/0728.self-dividing-numbers.728/solution.ts) | Easy  |
 | 0729 | My Calendar I | [JavaScript](./src/0729.my-calendar-i.729/solution.js) | Medium  |
 | 0730 | Count Different Palindromic Subsequences |  | Hard  |
-| 0731 | My Calendar II |  | Medium  |
-| 0732 | My Calendar III |  | Hard  |
+| 0731 | My Calendar II | [TypeScript](./src/0731.my-calendar-ii.731/solution.ts) | Medium  |
+| 0732 | My Calendar III | [TypeScript](./src/0732.my-calendar-iii.732/solution.ts) | Hard  |
 | 0733 | Flood Fill | [JavaScript](./src/0733.flood-fill.733/solution.js) [TypeScript](./src/0733.flood-fill.733/solution.ts) | Easy  |
 | 0734 | Sentence Similarity | [JavaScript](./src/0734.sentence-similarity.734/solution.js) [TypeScript](./src/0734.sentence-similarity.734/solution.ts) | Easy  |
 | 0735 | Asteroid Collision | [JavaScript](./src/0735.asteroid-collision.735/solution.js) [TypeScript](./src/0735.asteroid-collision.735/solution.ts) | Medium  |
@@ -923,7 +923,7 @@
 | 0903 | Valid Permutations for DI Sequence |  | Hard  |
 | 0904 | Fruit Into Baskets | [JavaScript](./src/0904.fruit-into-baskets.940/solution.js) [TypeScript](./src/0904.fruit-into-baskets.940/solution.ts) | Medium  |
 | 0905 | Sort Array By Parity | [JavaScript](./src/0905.sort-array-by-parity.941/solution.js) [TypeScript](./src/0905.sort-array-by-parity.941/solution.ts) | Easy  |
-| 0906 | Super Palindromes |  | Hard  |
+| 0906 | Super Palindromes | [TypeScript](./src/0906.super-palindromes.942/solution.ts) | Hard  |
 | 0907 | Sum of Subarray Minimums | [JavaScript](./src/0907.sum-of-subarray-minimums.943/solution.js) | Medium  |
 | 0908 | Smallest Range I | [JavaScript](./src/0908.smallest-range-i.944/solution.js) [TypeScript](./src/0908.smallest-range-i.944/solution.ts) | Easy  |
 | 0909 | Snakes and Ladders |  | Medium  |
@@ -987,7 +987,7 @@
 | 0967 | Numbers With Same Consecutive Differences | [JavaScript](./src/0967.numbers-with-same-consecutive-differences.1007/solution.js) | Medium  |
 | 0968 | Binary Tree Cameras | [JavaScript](./src/0968.binary-tree-cameras.1008/solution.js) | Hard  |
 | 0969 | Pancake Sorting | [JavaScript](./src/0969.pancake-sorting.1009/solution.js) | Medium  |
-| 0970 | Powerful Integers | [JavaScript](./src/0970.powerful-integers.1010/solution.js) | Medium  |
+| 0970 | Powerful Integers | [JavaScript](./src/0970.powerful-integers.1010/solution.js) [TypeScript](./src/0970.powerful-integers.1010/solution.ts) | Medium  |
 | 0971 | Flip Binary Tree To Match Preorder Traversal | [JavaScript](./src/0971.flip-binary-tree-to-match-preorder-traversal.1011/solution.js) | Medium  |
 | 0972 | Equal Rational Numbers | [JavaScript](./src/0972.equal-rational-numbers.1012/solution.js) | Hard  |
 | 0973 | K Closest Points to Origin | [JavaScript](./src/0973.k-closest-points-to-origin.1014/solution.js) | Medium  |
@@ -1520,7 +1520,7 @@
 | 1500 | Design a File Sharing System |  | Medium  |
 | 1501 | Countries You Can Safely Invest In |  | Medium  |
 | 1502 | Can Make Arithmetic Progression From Sequence | [JavaScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.js) [TypeScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.ts) | Easy  |
-| 1503 | Last Moment Before All Ants Fall Out of a Plank |  | Medium  |
+| 1503 | Last Moment Before All Ants Fall Out of a Plank | [TypeScript](./src/1503.last-moment-before-all-ants-fall-out-of-a-plank.1627/solution.ts) | Medium  |
 | 1504 | Count Submatrices With All Ones |  | Medium  |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard  |
 | 1506 | Find Root of N-Ary Tree | [JavaScript](./src/1506.find-root-of-n-ary-tree.1650/solution.js) | Medium  |
@@ -2293,7 +2293,7 @@
 | 2273 | Find Resultant Array After Removing Anagrams | [JavaScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.js) [TypeScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.ts) | Easy  |
 | 2274 | Maximum Consecutive Floors Without Special Floors |  | Medium  |
 | 2275 | Largest Combination With Bitwise AND Greater Than Zero | [TypeScript](./src/2275.largest-combination-with-bitwise-and-greater-than-zero.2356/solution.ts) | Medium  |
-| 2276 | Count Integers in Intervals |  | Hard  |
+| 2276 | Count Integers in Intervals | [TypeScript](./src/2276.count-integers-in-intervals.2357/solution.ts) | Hard  |
 | 2277 | Closest Node to Path in Tree |  | Hard  |
 | 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [TypeScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.2366/solution.ts) | Medium  |
