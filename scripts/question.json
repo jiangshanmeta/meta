@@ -18578,6 +18578,69 @@
         "difficulty": 2
     },
     {
+        "id": 2815,
+        "index": "2655",
+        "title": "Find Maximal Uncovered Ranges",
+        "title_slug": "find-maximal-uncovered-ranges",
+        "difficulty": 2
+    },
+    {
+        "id": 2767,
+        "index": "2656",
+        "title": "Maximum Sum With Exactly K Elements ",
+        "title_slug": "maximum-sum-with-exactly-k-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 2766,
+        "index": "2657",
+        "title": "Find the Prefix Common Array of Two Arrays",
+        "title_slug": "find-the-prefix-common-array-of-two-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2764,
+        "index": "2658",
+        "title": "Maximum Number of Fish in a Grid",
+        "title_slug": "maximum-number-of-fish-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2765,
+        "index": "2659",
+        "title": "Make Array Empty",
+        "title_slug": "make-array-empty",
+        "difficulty": 3
+    },
+    {
+        "id": 2684,
+        "index": "2660",
+        "title": "Determine the Winner of a Bowling Game",
+        "title_slug": "determine-the-winner-of-a-bowling-game",
+        "difficulty": 1
+    },
+    {
+        "id": 2685,
+        "index": "2661",
+        "title": "First Completely Painted Row or Column",
+        "title_slug": "first-completely-painted-row-or-column",
+        "difficulty": 2
+    },
+    {
+        "id": 2686,
+        "index": "2662",
+        "title": "Minimum Cost of a Path With Special Roads",
+        "title_slug": "minimum-cost-of-a-path-with-special-roads",
+        "difficulty": 2
+    },
+    {
+        "id": 2687,
+        "index": "2663",
+        "title": "Lexicographically Smallest Beautiful String",
+        "title_slug": "lexicographically-smallest-beautiful-string",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
