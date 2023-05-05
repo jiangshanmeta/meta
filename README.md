@@ -1020,7 +1020,7 @@
 | 1000 | Minimum Cost to Merge Stones |  | Hard  |
 | 1001 | Grid Illumination | [JavaScript](./src/1001.grid-illumination.1043/solution.js) | Hard  |
 | 1002 | Find Common Characters | [JavaScript](./src/1002.find-common-characters.1044/solution.js) [TypeScript](./src/1002.find-common-characters.1044/solution.ts) | Easy  |
-| 1003 | Check If Word Is Valid After Substitutions | [JavaScript](./src/1003.check-if-word-is-valid-after-substitutions.1045/solution.js) | Medium  |
+| 1003 | Check If Word Is Valid After Substitutions | [JavaScript](./src/1003.check-if-word-is-valid-after-substitutions.1045/solution.js) [TypeScript](./src/1003.check-if-word-is-valid-after-substitutions.1045/solution.ts) | Medium  |
 | 1004 | Max Consecutive Ones III | [JavaScript](./src/1004.max-consecutive-ones-iii.1046/solution.js) | Medium  |
 | 1005 | Maximize Sum Of Array After K Negations | [JavaScript](./src/1005.maximize-sum-of-array-after-k-negations.1047/solution.js) [TypeScript](./src/1005.maximize-sum-of-array-after-k-negations.1047/solution.ts) | Easy  |
 | 1006 | Clumsy Factorial | [JavaScript](./src/1006.clumsy-factorial.1048/solution.js) [TypeScript](./src/1006.clumsy-factorial.1048/solution.ts) | Medium  |
@@ -2075,7 +2075,7 @@
 | 2055 | Plates Between Candles |  | Medium  |
 | 2056 | Number of Valid Move Combinations On Chessboard |  | Hard  |
 | 2057 | Smallest Index With Equal Value | [JavaScript](./src/2057.smallest-index-with-equal-value.2181/solution.js) [TypeScript](./src/2057.smallest-index-with-equal-value.2181/solution.ts) | Easy  |
-| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points |  | Medium  |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [TypeScript](./src/2058.find-the-minimum-and-maximum-number-of-nodes-between-critical-points.2182/solution.ts) | Medium  |
 | 2059 | Minimum Operations to Convert Number |  | Medium  |
 | 2060 | Check if an Original String Exists Given Two Encoded Strings |  | Hard  |
 | 2061 | Number of Spaces Cleaning Robot Cleaned |  | Medium  |
@@ -2091,7 +2091,7 @@
 | 2071 | Maximum Number of Tasks You Can Assign |  | Hard  |
 | 2072 | The Winner University |  | Easy  |
 | 2073 | Time Needed to Buy Tickets | [JavaScript](./src/2073.time-needed-to-buy-tickets.2195/solution.js) [TypeScript](./src/2073.time-needed-to-buy-tickets.2195/solution.ts) | Easy  |
-| 2074 | Reverse Nodes in Even Length Groups |  | Medium  |
+| 2074 | Reverse Nodes in Even Length Groups | [TypeScript](./src/2074.reverse-nodes-in-even-length-groups.2196/solution.ts) | Medium  |
 | 2075 | Decode the Slanted Ciphertext |  | Medium  |
 | 2076 | Process Restricted Friend Requests |  | Hard  |
 | 2077 | Paths in Maze That Lead to Same Room |  | Medium  |
@@ -2123,7 +2123,7 @@
 | 2103 | Rings and Rods | [JavaScript](./src/2103.rings-and-rods.2226/solution.js) [TypeScript](./src/2103.rings-and-rods.2226/solution.ts) | Easy  |
 | 2104 | Sum of Subarray Ranges |  | Medium  |
 | 2105 | Watering Plants II |  | Medium  |
-| 2106 | Maximum Fruits Harvested After at Most K Steps |  | Hard  |
+| 2106 | Maximum Fruits Harvested After at Most K Steps | [TypeScript](./src/2106.maximum-fruits-harvested-after-at-most-k-steps.2229/solution.ts) | Hard  |
 | 2107 | Number of Unique Flavors After Sharing K Candies |  | Medium  |
 | 2108 | Find First Palindromic String in the Array | [JavaScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.js) [TypeScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.ts) | Easy  |
 | 2109 | Adding Spaces to a String | [JavaScript](./src/2109.adding-spaces-to-a-string.2232/solution.js) [TypeScript](./src/2109.adding-spaces-to-a-string.2232/solution.ts) | Medium  |
@@ -2672,6 +2672,15 @@
 | 2652 | Sum Multiples | [TypeScript](./src/2652.sum-multiples.2752/solution.ts) | Easy  |
 | 2653 | Sliding Subarray Beauty | [TypeScript](./src/2653.sliding-subarray-beauty.2751/solution.ts) | Medium  |
 | 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | [TypeScript](./src/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.2753/solution.ts) | Medium  |
+| 2655 | Find Maximal Uncovered Ranges |  | Medium  |
+| 2656 | Maximum Sum With Exactly K Elements  |  | Easy  |
+| 2657 | Find the Prefix Common Array of Two Arrays |  | Medium  |
+| 2658 | Maximum Number of Fish in a Grid |  | Medium  |
+| 2659 | Make Array Empty |  | Hard  |
+| 2660 | Determine the Winner of a Bowling Game |  | Easy  |
+| 2661 | First Completely Painted Row or Column |  | Medium  |
+| 2662 | Minimum Cost of a Path With Special Roads |  | Medium  |
+| 2663 | Lexicographically Smallest Beautiful String |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2880,7 +2889,7 @@
 | 剑指OfferII055 | 二叉搜索树迭代器 | [JavaScript](./src/剑指OfferII055.kTOapQ.1000316/solution.js) [TypeScript](./src/剑指OfferII055.kTOapQ.1000316/solution.ts) | Medium  |
 | 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/solution.js) | Easy  |
 | 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
-| 剑指OfferII058 | 日程表 |  | Medium  |
+| 剑指OfferII058 | 日程表 | [TypeScript](./src/剑指OfferII058.fi9suh.1000322/solution.ts) | Medium  |
 | 剑指OfferII059 | 数据流的第 K 大数值 | [JavaScript](./src/剑指OfferII059.jBjn9C.1000323/solution.js) | Easy  |
 | 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
 | 剑指OfferII061 | 和最小的 k 个数对 | [TypeScript](./src/剑指OfferII061.qn8gGX.1000326/solution.ts) | Medium  |
