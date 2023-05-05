@@ -2676,7 +2676,7 @@
 | 2656 | Maximum Sum With Exactly K Elements  |  | Easy  |
 | 2657 | Find the Prefix Common Array of Two Arrays |  | Medium  |
 | 2658 | Maximum Number of Fish in a Grid |  | Medium  |
-| 2659 | Make Array Empty |  | Hard  |
+| 2659 | Make Array Empty | [TypeScript](./src/2659.make-array-empty.2765/solution.ts) | Hard  |
 | 2660 | Determine the Winner of a Bowling Game |  | Easy  |
 | 2661 | First Completely Painted Row or Column |  | Medium  |
 | 2662 | Minimum Cost of a Path With Special Roads |  | Medium  |
