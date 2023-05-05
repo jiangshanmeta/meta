@@ -2443,7 +2443,7 @@
 | 2423 | Remove Letter To Equalize Frequency | [JavaScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.js) [TypeScript](./src/2423.remove-letter-to-equalize-frequency.2532/solution.ts) | Easy  |
 | 2424 | Longest Uploaded Prefix | [TypeScript](./src/2424.longest-uploaded-prefix.2512/solution.ts) | Medium  |
 | 2425 | Bitwise XOR of All Pairings | [JavaScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.js) [TypeScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.ts) | Medium  |
-| 2426 | Number of Pairs Satisfying Inequality |  | Hard  |
+| 2426 | Number of Pairs Satisfying Inequality | [TypeScript](./src/2426.number-of-pairs-satisfying-inequality.2513/solution.ts) | Hard  |
 | 2427 | Number of Common Factors | [JavaScript](./src/2427.number-of-common-factors.2507/solution.js) [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
 | 2428 | Maximum Sum of an Hourglass | [JavaScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.js) [TypeScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.ts) | Medium  |
 | 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
@@ -2586,7 +2586,7 @@
 | 2566 | Maximum Difference by Remapping a Digit | [TypeScript](./src/2566.maximum-difference-by-remapping-a-digit.2704/solution.ts) | Easy  |
 | 2567 | Minimum Score by Changing Two Elements | [TypeScript](./src/2567.minimum-score-by-changing-two-elements.2706/solution.ts) | Medium  |
 | 2568 | Minimum Impossible OR | [TypeScript](./src/2568.minimum-impossible-or.2705/solution.ts) | Medium  |
-| 2569 | Handling Sum Queries After Update |  | Hard  |
+| 2569 | Handling Sum Queries After Update | [TypeScript](./src/2569.handling-sum-queries-after-update.2703/solution.ts) | Hard  |
 | 2570 | Merge Two 2D Arrays by Summing Values | [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
 | 2571 | Minimum Operations to Reduce an Integer to 0 | [TypeScript](./src/2571.minimum-operations-to-reduce-an-integer-to-0.2710/solution.ts) | Medium  |
 | 2572 | Count the Number of Square-Free Subsets | [TypeScript](./src/2572.count-the-number-of-square-free-subsets.2709/solution.ts) | Medium  |
@@ -2673,8 +2673,8 @@
 | 2653 | Sliding Subarray Beauty | [TypeScript](./src/2653.sliding-subarray-beauty.2751/solution.ts) | Medium  |
 | 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | [TypeScript](./src/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.2753/solution.ts) | Medium  |
 | 2655 | Find Maximal Uncovered Ranges |  | Medium  |
-| 2656 | Maximum Sum With Exactly K Elements  |  | Easy  |
-| 2657 | Find the Prefix Common Array of Two Arrays |  | Medium  |
+| 2656 | Maximum Sum With Exactly K Elements  | [TypeScript](./src/2656.maximum-sum-with-exactly-k-elements.2767/solution.ts) | Easy  |
+| 2657 | Find the Prefix Common Array of Two Arrays | [TypeScript](./src/2657.find-the-prefix-common-array-of-two-arrays.2766/solution.ts) | Medium  |
 | 2658 | Maximum Number of Fish in a Grid |  | Medium  |
 | 2659 | Make Array Empty | [TypeScript](./src/2659.make-array-empty.2765/solution.ts) | Hard  |
 | 2660 | Determine the Winner of a Bowling Game |  | Easy  |
