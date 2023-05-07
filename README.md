@@ -1027,7 +1027,7 @@
 | 1007 | Minimum Domino Rotations For Equal Row | [JavaScript](./src/1007.minimum-domino-rotations-for-equal-row.1049/solution.js) | Medium  |
 | 1008 | Construct Binary Search Tree from Preorder Traversal | [JavaScript](./src/1008.construct-binary-search-tree-from-preorder-traversal.1050/solution.js) [TypeScript](./src/1008.construct-binary-search-tree-from-preorder-traversal.1050/solution.ts) | Medium  |
 | 1009 | Complement of Base 10 Integer | [JavaScript](./src/1009.complement-of-base-10-integer.1054/solution.js) [TypeScript](./src/1009.complement-of-base-10-integer.1054/solution.ts) | Easy  |
-| 1010 | Pairs of Songs With Total Durations Divisible by 60 | [JavaScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.js) | Medium  |
+| 1010 | Pairs of Songs With Total Durations Divisible by 60 | [JavaScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.js) [TypeScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.ts) | Medium  |
 | 1011 | Capacity To Ship Packages Within D Days | [JavaScript](./src/1011.capacity-to-ship-packages-within-d-days.1056/solution.js) | Medium  |
 | 1012 | Numbers With Repeated Digits |  | Hard  |
 | 1013 | Partition Array Into Three Parts With Equal Sum | [JavaScript](./src/1013.partition-array-into-three-parts-with-equal-sum.1062/solution.js) [TypeScript](./src/1013.partition-array-into-three-parts-with-equal-sum.1062/solution.ts) | Easy  |
@@ -2675,11 +2675,11 @@
 | 2655 | Find Maximal Uncovered Ranges |  | Medium  |
 | 2656 | Maximum Sum With Exactly K Elements  | [TypeScript](./src/2656.maximum-sum-with-exactly-k-elements.2767/solution.ts) | Easy  |
 | 2657 | Find the Prefix Common Array of Two Arrays | [TypeScript](./src/2657.find-the-prefix-common-array-of-two-arrays.2766/solution.ts) | Medium  |
-| 2658 | Maximum Number of Fish in a Grid |  | Medium  |
+| 2658 | Maximum Number of Fish in a Grid | [TypeScript](./src/2658.maximum-number-of-fish-in-a-grid.2764/solution.ts) | Medium  |
 | 2659 | Make Array Empty | [TypeScript](./src/2659.make-array-empty.2765/solution.ts) | Hard  |
-| 2660 | Determine the Winner of a Bowling Game |  | Easy  |
-| 2661 | First Completely Painted Row or Column |  | Medium  |
-| 2662 | Minimum Cost of a Path With Special Roads |  | Medium  |
+| 2660 | Determine the Winner of a Bowling Game | [TypeScript](./src/2660.determine-the-winner-of-a-bowling-game.2684/solution.ts) | Easy  |
+| 2661 | First Completely Painted Row or Column | [TypeScript](./src/2661.first-completely-painted-row-or-column.2685/solution.ts) | Medium  |
+| 2662 | Minimum Cost of a Path With Special Roads | [TypeScript](./src/2662.minimum-cost-of-a-path-with-special-roads.2686/solution.ts) | Medium  |
 | 2663 | Lexicographically Smallest Beautiful String |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
