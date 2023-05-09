@@ -2681,6 +2681,16 @@
 | 2661 | First Completely Painted Row or Column | [TypeScript](./src/2661.first-completely-painted-row-or-column.2685/solution.ts) | Medium  |
 | 2662 | Minimum Cost of a Path With Special Roads | [TypeScript](./src/2662.minimum-cost-of-a-path-with-special-roads.2686/solution.ts) | Medium  |
 | 2663 | Lexicographically Smallest Beautiful String |  | Hard  |
+| 2664 | The Knight’s Tour |  | Medium  |
+| 2665 | Counter II | [TypeScript](./src/2665.counter-ii.2789/solution.ts) | Easy  |
+| 2666 | Allow One Function Call |  | Easy  |
+| 2667 | Create Hello World Function |  | Easy  |
+| 2668 | Find Latest Salaries |  | Easy  |
+| 2669 | Count Artist Occurrences On Spotify Ranking List |  | Easy  |
+| 2670 | Find the Distinct Difference Array | [TypeScript](./src/2670.find-the-distinct-difference-array.2777/solution.ts) | Easy  |
+| 2671 | Frequency Tracker | [TypeScript](./src/2671.frequency-tracker.2778/solution.ts) | Medium  |
+| 2672 | Number of Adjacent Elements With the Same Color | [TypeScript](./src/2672.number-of-adjacent-elements-with-the-same-color.2779/solution.ts) | Medium  |
+| 2673 | Make Costs of Paths Equal in a Binary Tree | [TypeScript](./src/2673.make-costs-of-paths-equal-in-a-binary-tree.2780/solution.ts) | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2757,6 +2767,12 @@
 | LCP74 | 最强祝福力场 |  | Medium  |
 | LCP75 | 传送卷轴 |  | Hard  |
 | LCP76 | 魔法棋盘 |  | Hard  |
+| LCP77 | 符文储备 |  | Easy  |
+| LCP78 | 城墙防线 |  | Medium  |
+| LCP79 | 提取咒文 |  | Medium  |
+| LCP80 | 生物进化录 |  | Hard  |
+| LCP81 | 与非的谜题 |  | Hard  |
+| LCP82 | 万灵之树 |  | Hard  |
 | 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.ts) | Easy  |
 | 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.ts) | Medium  |
 | 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.ts) | Easy  |
@@ -2767,7 +2783,7 @@
 | 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.js) [TypeScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.ts) | Easy  |
 | 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./src/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278/solution.js) | Easy  |
 | 剑指Offer12 | 矩阵中的路径  LCOF | [JavaScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.js) [TypeScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.ts) | Medium  |
-| 剑指Offer13 | 机器人的运动范围  LCOF |  | Medium  |
+| 剑指Offer13 | 机器人的运动范围  LCOF | [JavaScript](./src/剑指Offer13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.js) [TypeScript](./src/剑指Offer13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.ts) | Medium  |
 | 剑指Offer14-I | 剪绳子  LCOF | [JavaScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.js) [TypeScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.ts) | Medium  |
 | 剑指Offer14-II | 剪绳子 II LCOF | [JavaScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.js) [TypeScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.ts) | Medium  |
 | 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./src/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.js) | Easy  |
@@ -2801,7 +2817,7 @@
 | 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
 | 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
 | 剑指Offer44 | 数字序列中某一位的数字  LCOF | [JavaScript](./src/剑指Offer44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
-| 剑指Offer45 | 把数组排成最小的数 LCOF |  | Medium  |
+| 剑指Offer45 | 把数组排成最小的数 LCOF | [JavaScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
 | 剑指Offer46 | 把数字翻译成字符串 LCOF | [JavaScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
 | 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./src/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
@@ -2821,9 +2837,9 @@
 | 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.ts) | Easy  |
 | 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.ts) | Easy  |
 | 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
-| 剑指Offer59-II | 队列的最大值 LCOF |  | Medium  |
+| 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
 | 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
-| 剑指Offer61 | 扑克牌中的顺子  LCOF |  | Easy  |
+| 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
 | 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
 | 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
 | 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
@@ -2985,7 +3001,7 @@
 | 面试题04_10 | Check SubTree LCCI | [JavaScript](./src/面试题04_10.check-subtree-lcci.100229/solution.js) [TypeScript](./src/面试题04_10.check-subtree-lcci.100229/solution.ts) | Medium  |
 | 面试题04_12 | Paths with Sum LCCI | [JavaScript](./src/面试题04_12.paths-with-sum-lcci.1000009/solution.js) [TypeScript](./src/面试题04_12.paths-with-sum-lcci.1000009/solution.ts) | Medium  |
 | 面试题05_01 | Insert Into Bits LCCI | [JavaScript](./src/面试题05_01.insert-into-bits-lcci.100180/solution.js) [TypeScript](./src/面试题05_01.insert-into-bits-lcci.100180/solution.ts) | Easy  |
-| 面试题05_02 | Binary Number to String LCCI | [JavaScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/solution.js) [TypeScript](./src/面试题05_02.bianry-number-to-string-lcci.100203/solution.ts) | Medium  |
+| 面试题05_02 | Binary Number to String LCCI | [JavaScript](./src/面试题05_02.binary-number-to-string-lcci.100203/solution.js) [TypeScript](./src/面试题05_02.binary-number-to-string-lcci.100203/solution.ts) | Medium  |
 | 面试题05_03 | Reverse Bits LCCI | [JavaScript](./src/面试题05_03.reverse-bits-lcci.100230/solution.js) | Easy  |
 | 面试题05_04 | Closed Number LCCI | [TypeScript](./src/面试题05_04.closed-number-lcci.100183/solution.ts) | Medium  |
 | 面试题05_06 | Convert Integer LCCI | [JavaScript](./src/面试题05_06.convert-integer-lcci.100181/solution.js) [TypeScript](./src/面试题05_06.convert-integer-lcci.100181/solution.ts) | Easy  |
