@@ -18641,6 +18641,76 @@
         "difficulty": 3
     },
     {
+        "id": 2823,
+        "index": "2664",
+        "title": "The Knight’s Tour",
+        "title_slug": "the-knights-tour",
+        "difficulty": 2
+    },
+    {
+        "id": 2789,
+        "index": "2665",
+        "title": "Counter II",
+        "title_slug": "counter-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 2796,
+        "index": "2666",
+        "title": "Allow One Function Call",
+        "title_slug": "allow-one-function-call",
+        "difficulty": 1
+    },
+    {
+        "id": 2809,
+        "index": "2667",
+        "title": "Create Hello World Function",
+        "title_slug": "create-hello-world-function",
+        "difficulty": 1
+    },
+    {
+        "id": 2829,
+        "index": "2668",
+        "title": "Find Latest Salaries",
+        "title_slug": "find-latest-salaries",
+        "difficulty": 1
+    },
+    {
+        "id": 2830,
+        "index": "2669",
+        "title": "Count Artist Occurrences On Spotify Ranking List",
+        "title_slug": "count-artist-occurrences-on-spotify-ranking-list",
+        "difficulty": 1
+    },
+    {
+        "id": 2777,
+        "index": "2670",
+        "title": "Find the Distinct Difference Array",
+        "title_slug": "find-the-distinct-difference-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2778,
+        "index": "2671",
+        "title": "Frequency Tracker",
+        "title_slug": "frequency-tracker",
+        "difficulty": 2
+    },
+    {
+        "id": 2779,
+        "index": "2672",
+        "title": "Number of Adjacent Elements With the Same Color",
+        "title_slug": "number-of-adjacent-elements-with-the-same-color",
+        "difficulty": 2
+    },
+    {
+        "id": 2780,
+        "index": "2673",
+        "title": "Make Costs of Paths Equal in a Binary Tree",
+        "title_slug": "make-costs-of-paths-equal-in-a-binary-tree",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
@@ -19170,6 +19240,48 @@
         "index": "LCP76",
         "title": "魔法棋盘",
         "title_slug": "1ybDKD",
+        "difficulty": 3
+    },
+    {
+        "id": 1000565,
+        "index": "LCP77",
+        "title": "符文储备",
+        "title_slug": "W2ZX4X",
+        "difficulty": 1
+    },
+    {
+        "id": 1000566,
+        "index": "LCP78",
+        "title": "城墙防线",
+        "title_slug": "Nsibyl",
+        "difficulty": 2
+    },
+    {
+        "id": 1000567,
+        "index": "LCP79",
+        "title": "提取咒文",
+        "title_slug": "kjpLFZ",
+        "difficulty": 2
+    },
+    {
+        "id": 1000568,
+        "index": "LCP80",
+        "title": "生物进化录",
+        "title_slug": "qoQAMX",
+        "difficulty": 3
+    },
+    {
+        "id": 1000569,
+        "index": "LCP81",
+        "title": "与非的谜题",
+        "title_slug": "ryfUiz",
+        "difficulty": 3
+    },
+    {
+        "id": 1000570,
+        "index": "LCP82",
+        "title": "万灵之树",
+        "title_slug": "cnHoX6",
         "difficulty": 3
     },
     {
@@ -20772,7 +20884,7 @@
         "id": 100203,
         "index": "面试题05_02",
         "title": "Binary Number to String LCCI",
-        "title_slug": "bianry-number-to-string-lcci",
+        "title_slug": "binary-number-to-string-lcci",
         "difficulty": 2
     },
     {
