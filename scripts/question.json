@@ -18711,6 +18711,188 @@
         "difficulty": 2
     },
     {
+        "id": 2835,
+        "index": "2674",
+        "title": "Split a Circular Linked List",
+        "title_slug": "split-a-circular-linked-list",
+        "difficulty": 2
+    },
+    {
+        "id": 2769,
+        "index": "2675",
+        "title": "Array of Objects to Matrix",
+        "title_slug": "array-of-objects-to-matrix",
+        "difficulty": 2
+    },
+    {
+        "id": 2771,
+        "index": "2676",
+        "title": "Throttle",
+        "title_slug": "throttle",
+        "difficulty": 2
+    },
+    {
+        "id": 2798,
+        "index": "2677",
+        "title": "Chunk Array",
+        "title_slug": "chunk-array",
+        "difficulty": 1
+    },
+    {
+        "id": 2727,
+        "index": "2678",
+        "title": "Number of Senior Citizens",
+        "title_slug": "number-of-senior-citizens",
+        "difficulty": 1
+    },
+    {
+        "id": 2728,
+        "index": "2679",
+        "title": "Sum in a Matrix",
+        "title_slug": "sum-in-a-matrix",
+        "difficulty": 2
+    },
+    {
+        "id": 2730,
+        "index": "2680",
+        "title": "Maximum OR",
+        "title_slug": "maximum-or",
+        "difficulty": 2
+    },
+    {
+        "id": 2784,
+        "index": "2681",
+        "title": "Power of Heroes",
+        "title_slug": "power-of-heroes",
+        "difficulty": 3
+    },
+    {
+        "id": 2791,
+        "index": "2682",
+        "title": "Find the Losers of the Circular Game",
+        "title_slug": "find-the-losers-of-the-circular-game",
+        "difficulty": 1
+    },
+    {
+        "id": 2792,
+        "index": "2683",
+        "title": "Neighboring Bitwise XOR",
+        "title_slug": "neighboring-bitwise-xor",
+        "difficulty": 2
+    },
+    {
+        "id": 2794,
+        "index": "2684",
+        "title": "Maximum Number of Moves in a Grid",
+        "title_slug": "maximum-number-of-moves-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 2793,
+        "index": "2685",
+        "title": "Count the Number of Complete Components",
+        "title_slug": "count-the-number-of-complete-components",
+        "difficulty": 2
+    },
+    {
+        "id": 2840,
+        "index": "2686",
+        "title": "Immediate Food Delivery III",
+        "title_slug": "immediate-food-delivery-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 2841,
+        "index": "2687",
+        "title": "Bikes Last Time Used ",
+        "title_slug": "bikes-last-time-used",
+        "difficulty": 1
+    },
+    {
+        "id": 2842,
+        "index": "2688",
+        "title": "Find Active Users",
+        "title_slug": "find-active-users",
+        "difficulty": 2
+    },
+    {
+        "id": 2843,
+        "index": "2689",
+        "title": "Extract Kth Character From The Rope Tree",
+        "title_slug": "extract-kth-character-from-the-rope-tree",
+        "difficulty": 1
+    },
+    {
+        "id": 2772,
+        "index": "2690",
+        "title": "Infinite Method Object",
+        "title_slug": "infinite-method-object",
+        "difficulty": 1
+    },
+    {
+        "id": 2773,
+        "index": "2691",
+        "title": "Immutability Helper",
+        "title_slug": "immutability-helper",
+        "difficulty": 3
+    },
+    {
+        "id": 2776,
+        "index": "2692",
+        "title": "Make Object Immutable",
+        "title_slug": "make-object-immutable",
+        "difficulty": 2
+    },
+    {
+        "id": 2790,
+        "index": "2693",
+        "title": "Call Function with Custom Context",
+        "title_slug": "call-function-with-custom-context",
+        "difficulty": 2
+    },
+    {
+        "id": 2797,
+        "index": "2694",
+        "title": "Event Emitter",
+        "title_slug": "event-emitter",
+        "difficulty": 2
+    },
+    {
+        "id": 2805,
+        "index": "2695",
+        "title": "Array Wrapper",
+        "title_slug": "array-wrapper",
+        "difficulty": 1
+    },
+    {
+        "id": 2800,
+        "index": "6439",
+        "title": "Minimum String Length After Removing Substrings",
+        "title_slug": "minimum-string-length-after-removing-substrings",
+        "difficulty": 1
+    },
+    {
+        "id": 2802,
+        "index": "6441",
+        "title": "Find the Punishment Number of an Integer",
+        "title_slug": "find-the-punishment-number-of-an-integer",
+        "difficulty": 2
+    },
+    {
+        "id": 2803,
+        "index": "6442",
+        "title": "Modify Graph Edge Weights",
+        "title_slug": "modify-graph-edge-weights",
+        "difficulty": 3
+    },
+    {
+        "id": 2816,
+        "index": "6454",
+        "title": "Lexicographically Smallest Palindrome",
+        "title_slug": "lexicographically-smallest-palindrome",
+        "difficulty": 1
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
