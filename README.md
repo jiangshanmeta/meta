@@ -2683,14 +2683,40 @@
 | 2663 | Lexicographically Smallest Beautiful String |  | Hard  |
 | 2664 | The Knight’s Tour |  | Medium  |
 | 2665 | Counter II | [TypeScript](./src/2665.counter-ii.2789/solution.ts) | Easy  |
-| 2666 | Allow One Function Call |  | Easy  |
-| 2667 | Create Hello World Function |  | Easy  |
+| 2666 | Allow One Function Call | [TypeScript](./src/2666.allow-one-function-call.2796/solution.ts) | Easy  |
+| 2667 | Create Hello World Function | [TypeScript](./src/2667.create-hello-world-function.2809/solution.ts) | Easy  |
 | 2668 | Find Latest Salaries |  | Easy  |
 | 2669 | Count Artist Occurrences On Spotify Ranking List |  | Easy  |
 | 2670 | Find the Distinct Difference Array | [TypeScript](./src/2670.find-the-distinct-difference-array.2777/solution.ts) | Easy  |
 | 2671 | Frequency Tracker | [TypeScript](./src/2671.frequency-tracker.2778/solution.ts) | Medium  |
 | 2672 | Number of Adjacent Elements With the Same Color | [TypeScript](./src/2672.number-of-adjacent-elements-with-the-same-color.2779/solution.ts) | Medium  |
 | 2673 | Make Costs of Paths Equal in a Binary Tree | [TypeScript](./src/2673.make-costs-of-paths-equal-in-a-binary-tree.2780/solution.ts) | Medium  |
+| 2674 | Split a Circular Linked List |  | Medium  |
+| 2675 | Array of Objects to Matrix | [TypeScript](./src/2675.array-of-objects-to-matrix.2769/solution.ts) | Medium  |
+| 2676 | Throttle | [TypeScript](./src/2676.throttle.2771/solution.ts) | Medium  |
+| 2677 | Chunk Array | [TypeScript](./src/2677.chunk-array.2798/solution.ts) | Easy  |
+| 2678 | Number of Senior Citizens | [TypeScript](./src/2678.number-of-senior-citizens.2727/solution.ts) | Easy  |
+| 2679 | Sum in a Matrix | [TypeScript](./src/2679.sum-in-a-matrix.2728/solution.ts) | Medium  |
+| 2680 | Maximum OR |  | Medium  |
+| 2681 | Power of Heroes |  | Hard  |
+| 2682 | Find the Losers of the Circular Game |  | Easy  |
+| 2683 | Neighboring Bitwise XOR |  | Medium  |
+| 2684 | Maximum Number of Moves in a Grid |  | Medium  |
+| 2685 | Count the Number of Complete Components |  | Medium  |
+| 2686 | Immediate Food Delivery III |  | Medium  |
+| 2687 | Bikes Last Time Used  |  | Easy  |
+| 2688 | Find Active Users |  | Medium  |
+| 2689 | Extract Kth Character From The Rope Tree |  | Easy  |
+| 2690 | Infinite Method Object |  | Easy  |
+| 2691 | Immutability Helper |  | Hard  |
+| 2692 | Make Object Immutable |  | Medium  |
+| 2693 | Call Function with Custom Context |  | Medium  |
+| 2694 | Event Emitter |  | Medium  |
+| 2695 | Array Wrapper |  | Easy  |
+| 6439 | Minimum String Length After Removing Substrings |  | Easy  |
+| 6441 | Find the Punishment Number of an Integer |  | Medium  |
+| 6442 | Modify Graph Edge Weights |  | Hard  |
+| 6454 | Lexicographically Smallest Palindrome |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
