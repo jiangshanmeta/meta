@@ -2699,8 +2699,8 @@
 | 2679 | Sum in a Matrix | [TypeScript](./src/2679.sum-in-a-matrix.2728/solution.ts) | Medium  |
 | 2680 | Maximum OR |  | Medium  |
 | 2681 | Power of Heroes |  | Hard  |
-| 2682 | Find the Losers of the Circular Game |  | Easy  |
-| 2683 | Neighboring Bitwise XOR |  | Medium  |
+| 2682 | Find the Losers of the Circular Game | [TypeScript](./src/2682.find-the-losers-of-the-circular-game.2791/solution.ts) | Easy  |
+| 2683 | Neighboring Bitwise XOR | [TypeScript](./src/2683.neighboring-bitwise-xor.2792/solution.ts) | Medium  |
 | 2684 | Maximum Number of Moves in a Grid |  | Medium  |
 | 2685 | Count the Number of Complete Components |  | Medium  |
 | 2686 | Immediate Food Delivery III |  | Medium  |
@@ -2710,13 +2710,13 @@
 | 2690 | Infinite Method Object |  | Easy  |
 | 2691 | Immutability Helper |  | Hard  |
 | 2692 | Make Object Immutable |  | Medium  |
-| 2693 | Call Function with Custom Context |  | Medium  |
-| 2694 | Event Emitter |  | Medium  |
-| 2695 | Array Wrapper |  | Easy  |
-| 6439 | Minimum String Length After Removing Substrings |  | Easy  |
-| 6441 | Find the Punishment Number of an Integer |  | Medium  |
-| 6442 | Modify Graph Edge Weights |  | Hard  |
-| 6454 | Lexicographically Smallest Palindrome |  | Easy  |
+| 2693 | Call Function with Custom Context | [TypeScript](./src/2693.call-function-with-custom-context.2790/solution.ts) | Medium  |
+| 2694 | Event Emitter | [TypeScript](./src/2694.event-emitter.2797/solution.ts) | Medium  |
+| 2695 | Array Wrapper | [TypeScript](./src/2695.array-wrapper.2805/solution.ts) | Easy  |
+| 2696 | Minimum String Length After Removing Substrings | [TypeScript](./src/2696.minimum-string-length-after-removing-substrings.2800/solution.ts) | Easy  |
+| 2697 | Lexicographically Smallest Palindrome | [TypeScript](./src/2697.lexicographically-smallest-palindrome.2816/solution.ts) | Easy  |
+| 2698 | Find the Punishment Number of an Integer | [TypeScript](./src/2698.find-the-punishment-number-of-an-integer.2802/solution.ts) | Medium  |
+| 2699 | Modify Graph Edge Weights |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
