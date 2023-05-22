@@ -18866,31 +18866,31 @@
     },
     {
         "id": 2800,
-        "index": "6439",
+        "index": "2696",
         "title": "Minimum String Length After Removing Substrings",
         "title_slug": "minimum-string-length-after-removing-substrings",
         "difficulty": 1
     },
     {
+        "id": 2816,
+        "index": "2697",
+        "title": "Lexicographically Smallest Palindrome",
+        "title_slug": "lexicographically-smallest-palindrome",
+        "difficulty": 1
+    },
+    {
         "id": 2802,
-        "index": "6441",
+        "index": "2698",
         "title": "Find the Punishment Number of an Integer",
         "title_slug": "find-the-punishment-number-of-an-integer",
         "difficulty": 2
     },
     {
         "id": 2803,
-        "index": "6442",
+        "index": "2699",
         "title": "Modify Graph Edge Weights",
         "title_slug": "modify-graph-edge-weights",
         "difficulty": 3
-    },
-    {
-        "id": 2816,
-        "index": "6454",
-        "title": "Lexicographically Smallest Palindrome",
-        "title_slug": "lexicographically-smallest-palindrome",
-        "difficulty": 1
     },
     {
         "id": 100107,
