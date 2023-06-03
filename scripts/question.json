@@ -18893,6 +18893,118 @@
         "difficulty": 3
     },
     {
+        "id": 2774,
+        "index": "2700",
+        "title": "Differences Between Two Objects",
+        "title_slug": "differences-between-two-objects",
+        "difficulty": 2
+    },
+    {
+        "id": 2853,
+        "index": "2701",
+        "title": "Consecutive Transactions with Increasing Amounts",
+        "title_slug": "consecutive-transactions-with-increasing-amounts",
+        "difficulty": 3
+    },
+    {
+        "id": 2729,
+        "index": "2702",
+        "title": "Minimum Operations to Make Numbers Non-positive",
+        "title_slug": "minimum-operations-to-make-numbers-non-positive",
+        "difficulty": 3
+    },
+    {
+        "id": 2820,
+        "index": "2703",
+        "title": "Return Length of Arguments Passed",
+        "title_slug": "return-length-of-arguments-passed",
+        "difficulty": 1
+    },
+    {
+        "id": 2813,
+        "index": "2704",
+        "title": "To Be Or Not To Be",
+        "title_slug": "to-be-or-not-to-be",
+        "difficulty": 1
+    },
+    {
+        "id": 2804,
+        "index": "2705",
+        "title": "Compact Object",
+        "title_slug": "compact-object",
+        "difficulty": 2
+    },
+    {
+        "id": 2756,
+        "index": "2706",
+        "title": "Buy Two Chocolates",
+        "title_slug": "buy-two-chocolates",
+        "difficulty": 1
+    },
+    {
+        "id": 2755,
+        "index": "2707",
+        "title": "Extra Characters in a String",
+        "title_slug": "extra-characters-in-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2754,
+        "index": "2708",
+        "title": "Maximum Strength of a Group",
+        "title_slug": "maximum-strength-of-a-group",
+        "difficulty": 2
+    },
+    {
+        "id": 2827,
+        "index": "2709",
+        "title": "Greatest Common Divisor Traversal",
+        "title_slug": "greatest-common-divisor-traversal",
+        "difficulty": 3
+    },
+    {
+        "id": 2819,
+        "index": "2710",
+        "title": "Remove Trailing Zeros From a String",
+        "title_slug": "remove-trailing-zeros-from-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 2801,
+        "index": "2711",
+        "title": "Difference of Number of Distinct Values on Diagonals",
+        "title_slug": "difference-of-number-of-distinct-values-on-diagonals",
+        "difficulty": 2
+    },
+    {
+        "id": 2817,
+        "index": "2712",
+        "title": "Minimum Cost to Make All Characters Equal",
+        "title_slug": "minimum-cost-to-make-all-characters-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 2818,
+        "index": "2713",
+        "title": "Maximum Strictly Increasing Cells in a Matrix",
+        "title_slug": "maximum-strictly-increasing-cells-in-a-matrix",
+        "difficulty": 3
+    },
+    {
+        "id": 2865,
+        "index": "2714",
+        "title": "Find Shortest Path with K Hops",
+        "title_slug": "find-shortest-path-with-k-hops",
+        "difficulty": 3
+    },
+    {
+        "id": 2821,
+        "index": "2715",
+        "title": "Execute Cancellable Function With Delay",
+        "title_slug": "execute-cancellable-function-with-delay",
+        "difficulty": 1
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
