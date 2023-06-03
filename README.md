@@ -2717,6 +2717,22 @@
 | 2697 | Lexicographically Smallest Palindrome | [TypeScript](./src/2697.lexicographically-smallest-palindrome.2816/solution.ts) | Easy  |
 | 2698 | Find the Punishment Number of an Integer | [TypeScript](./src/2698.find-the-punishment-number-of-an-integer.2802/solution.ts) | Medium  |
 | 2699 | Modify Graph Edge Weights |  | Hard  |
+| 2700 | Differences Between Two Objects | [TypeScript](./src/2700.differences-between-two-objects.2774/solution.ts) | Medium  |
+| 2701 | Consecutive Transactions with Increasing Amounts |  | Hard  |
+| 2702 | Minimum Operations to Make Numbers Non-positive |  | Hard  |
+| 2703 | Return Length of Arguments Passed | [TypeScript](./src/2703.return-length-of-arguments-passed.2820/solution.ts) | Easy  |
+| 2704 | To Be Or Not To Be | [TypeScript](./src/2704.to-be-or-not-to-be.2813/solution.ts) | Easy  |
+| 2705 | Compact Object | [TypeScript](./src/2705.compact-object.2804/solution.ts) | Medium  |
+| 2706 | Buy Two Chocolates | [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
+| 2707 | Extra Characters in a String |  | Medium  |
+| 2708 | Maximum Strength of a Group |  | Medium  |
+| 2709 | Greatest Common Divisor Traversal |  | Hard  |
+| 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
+| 2711 | Difference of Number of Distinct Values on Diagonals |  | Medium  |
+| 2712 | Minimum Cost to Make All Characters Equal |  | Medium  |
+| 2713 | Maximum Strictly Increasing Cells in a Matrix |  | Hard  |
+| 2714 | Find Shortest Path with K Hops |  | Hard  |
+| 2715 | Execute Cancellable Function With Delay | [TypeScript](./src/2715.execute-cancellable-function-with-delay.2821/solution.ts) | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2793,7 +2809,7 @@
 | LCP74 | 最强祝福力场 |  | Medium  |
 | LCP75 | 传送卷轴 |  | Hard  |
 | LCP76 | 魔法棋盘 |  | Hard  |
-| LCP77 | 符文储备 |  | Easy  |
+| LCP77 | 符文储备 | [TypeScript](./src/LCP77.W2ZX4X.1000565/solution.ts) | Easy  |
 | LCP78 | 城墙防线 |  | Medium  |
 | LCP79 | 提取咒文 |  | Medium  |
 | LCP80 | 生物进化录 |  | Hard  |
