@@ -2733,6 +2733,10 @@
 | 2713 | Maximum Strictly Increasing Cells in a Matrix |  | Hard  |
 | 2714 | Find Shortest Path with K Hops |  | Hard  |
 | 2715 | Execute Cancellable Function With Delay | [TypeScript](./src/2715.execute-cancellable-function-with-delay.2821/solution.ts) | Easy  |
+| 2716 | Minimize String Length | [TypeScript](./src/2716.minimize-string-length.2825/solution.ts) | Easy  |
+| 2717 | Semi-Ordered Permutation | [TypeScript](./src/2717.semi-ordered-permutation.2785/solution.ts) | Easy  |
+| 2718 | Sum of Matrix After Queries | [TypeScript](./src/2718.sum-of-matrix-after-queries.2838/solution.ts) | Medium  |
+| 2719 | Count of Integers |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
