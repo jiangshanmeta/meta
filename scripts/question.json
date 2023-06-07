@@ -19005,6 +19005,34 @@
         "difficulty": 1
     },
     {
+        "id": 2825,
+        "index": "2716",
+        "title": "Minimize String Length",
+        "title_slug": "minimize-string-length",
+        "difficulty": 1
+    },
+    {
+        "id": 2785,
+        "index": "2717",
+        "title": "Semi-Ordered Permutation",
+        "title_slug": "semi-ordered-permutation",
+        "difficulty": 1
+    },
+    {
+        "id": 2838,
+        "index": "2718",
+        "title": "Sum of Matrix After Queries",
+        "title_slug": "sum-of-matrix-after-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 2757,
+        "index": "2719",
+        "title": "Count of Integers",
+        "title_slug": "count-of-integers",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
