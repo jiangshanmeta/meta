@@ -2728,7 +2728,7 @@
 | 2708 | Maximum Strength of a Group |  | Medium  |
 | 2709 | Greatest Common Divisor Traversal |  | Hard  |
 | 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
-| 2711 | Difference of Number of Distinct Values on Diagonals |  | Medium  |
+| 2711 | Difference of Number of Distinct Values on Diagonals | [TypeScript](./src/2711.difference-of-number-of-distinct-values-on-diagonals.2801/solution.ts) | Medium  |
 | 2712 | Minimum Cost to Make All Characters Equal |  | Medium  |
 | 2713 | Maximum Strictly Increasing Cells in a Matrix |  | Hard  |
 | 2714 | Find Shortest Path with K Hops |  | Hard  |
@@ -2737,6 +2737,15 @@
 | 2717 | Semi-Ordered Permutation | [TypeScript](./src/2717.semi-ordered-permutation.2785/solution.ts) | Easy  |
 | 2718 | Sum of Matrix After Queries | [TypeScript](./src/2718.sum-of-matrix-after-queries.2838/solution.ts) | Medium  |
 | 2719 | Count of Integers |  | Hard  |
+| 2720 | Popularity Percentage |  | Hard  |
+| 2721 | Execute Asynchronous Functions in Parallel | [TypeScript](./src/2721.execute-asynchronous-functions-in-parallel.2807/solution.ts) | Medium  |
+| 2722 | Join Two Arrays by ID | [TypeScript](./src/2722.join-two-arrays-by-id.2858/solution.ts) | Medium  |
+| 2723 | Add Two Promises | [TypeScript](./src/2723.add-two-promises.2859/solution.ts) | Easy  |
+| 2724 | Sort By | [TypeScript](./src/2724.sort-by.2860/solution.ts) | Easy  |
+| 2725 | Interval Cancellation |  | Easy  |
+| 2726 | Calculator with Method Chaining |  | Easy  |
+| 2727 | Is Object Empty |  | Easy  |
+| 2728 | Count Houses in a Circular Street |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
