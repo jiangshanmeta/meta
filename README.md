@@ -2742,9 +2742,9 @@
 | 2722 | Join Two Arrays by ID | [TypeScript](./src/2722.join-two-arrays-by-id.2858/solution.ts) | Medium  |
 | 2723 | Add Two Promises | [TypeScript](./src/2723.add-two-promises.2859/solution.ts) | Easy  |
 | 2724 | Sort By | [TypeScript](./src/2724.sort-by.2860/solution.ts) | Easy  |
-| 2725 | Interval Cancellation |  | Easy  |
-| 2726 | Calculator with Method Chaining |  | Easy  |
-| 2727 | Is Object Empty |  | Easy  |
+| 2725 | Interval Cancellation | [TypeScript](./src/2725.interval-cancellation.2862/solution.ts) | Easy  |
+| 2726 | Calculator with Method Chaining | [TypeScript](./src/2726.calculator-with-method-chaining.2863/solution.ts) | Easy  |
+| 2727 | Is Object Empty | [TypeScript](./src/2727.is-object-empty.2864/solution.ts) | Easy  |
 | 2728 | Count Houses in a Circular Street |  | Easy  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
