@@ -2746,6 +2746,14 @@
 | 2726 | Calculator with Method Chaining | [TypeScript](./src/2726.calculator-with-method-chaining.2863/solution.ts) | Easy  |
 | 2727 | Is Object Empty | [TypeScript](./src/2727.is-object-empty.2864/solution.ts) | Easy  |
 | 2728 | Count Houses in a Circular Street |  | Easy  |
+| 2729 | Check if The Number is Fascinating | [TypeScript](./src/2729.check-if-the-number-is-fascinating.2824/solution.ts) | Easy  |
+| 2730 | Find the Longest Semi-Repetitive Substring | [TypeScript](./src/2730.find-the-longest-semi-repetitive-substring.2786/solution.ts) | Medium  |
+| 2731 | Movement of Robots |  | Medium  |
+| 2732 | Find a Good Subset of the Matrix |  | Hard  |
+| 2733 | Neither Minimum nor Maximum | [TypeScript](./src/2733.neither-minimum-nor-maximum.2836/solution.ts) | Easy  |
+| 2734 | Lexicographically Smallest String After Substring Operation | [TypeScript](./src/2734.lexicographically-smallest-string-after-substring-operation.2828/solution.ts) | Medium  |
+| 2735 | Collecting Chocolates |  | Medium  |
+| 2736 | Maximum Sum Queries |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
