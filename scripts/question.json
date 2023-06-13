@@ -19096,6 +19096,62 @@
         "difficulty": 1
     },
     {
+        "id": 2824,
+        "index": "2729",
+        "title": "Check if The Number is Fascinating",
+        "title_slug": "check-if-the-number-is-fascinating",
+        "difficulty": 1
+    },
+    {
+        "id": 2786,
+        "index": "2730",
+        "title": "Find the Longest Semi-Repetitive Substring",
+        "title_slug": "find-the-longest-semi-repetitive-substring",
+        "difficulty": 2
+    },
+    {
+        "id": 2787,
+        "index": "2731",
+        "title": "Movement of Robots",
+        "title_slug": "movement-of-robots",
+        "difficulty": 2
+    },
+    {
+        "id": 2826,
+        "index": "2732",
+        "title": "Find a Good Subset of the Matrix",
+        "title_slug": "find-a-good-subset-of-the-matrix",
+        "difficulty": 3
+    },
+    {
+        "id": 2836,
+        "index": "2733",
+        "title": "Neither Minimum nor Maximum",
+        "title_slug": "neither-minimum-nor-maximum",
+        "difficulty": 1
+    },
+    {
+        "id": 2828,
+        "index": "2734",
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "title_slug": "lexicographically-smallest-string-after-substring-operation",
+        "difficulty": 2
+    },
+    {
+        "id": 2810,
+        "index": "2735",
+        "title": "Collecting Chocolates",
+        "title_slug": "collecting-chocolates",
+        "difficulty": 2
+    },
+    {
+        "id": 2839,
+        "index": "2736",
+        "title": "Maximum Sum Queries",
+        "title_slug": "maximum-sum-queries",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
