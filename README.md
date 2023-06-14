@@ -2940,7 +2940,7 @@
 | 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
 | 剑指OfferII028 | 展平多级双向链表 | [TypeScript](./src/剑指OfferII028.Qv1Da2.1000264/solution.ts) | Medium  |
 | 剑指OfferII029 | 排序的循环链表 |  | Medium  |
-| 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 |  | Medium  |
+| 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 | [TypeScript](./src/剑指OfferII030.FortPu.1000267/solution.ts) | Medium  |
 | 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
 | 剑指OfferII032 | 有效的变位词 | [JavaScript](./src/剑指OfferII032.dKk3P7.1000273/solution.js) | Easy  |
 | 剑指OfferII033 | 变位词组 | [JavaScript](./src/剑指OfferII033.sfvd7V.1000275/solution.js) | Medium  |
