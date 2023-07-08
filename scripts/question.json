@@ -19152,6 +19152,202 @@
         "difficulty": 3
     },
     {
+        "id": 2880,
+        "index": "2737",
+        "title": "Find the Closest Marked Node",
+        "title_slug": "find-the-closest-marked-node",
+        "difficulty": 2
+    },
+    {
+        "id": 2885,
+        "index": "2738",
+        "title": "Count Occurrences in Text",
+        "title_slug": "count-occurrences-in-text",
+        "difficulty": 2
+    },
+    {
+        "id": 2857,
+        "index": "2739",
+        "title": "Total Distance Traveled",
+        "title_slug": "total-distance-traveled",
+        "difficulty": 1
+    },
+    {
+        "id": 2845,
+        "index": "2740",
+        "title": "Find the Value of the Partition",
+        "title_slug": "find-the-value-of-the-partition",
+        "difficulty": 2
+    },
+    {
+        "id": 2848,
+        "index": "2741",
+        "title": "Special Permutations",
+        "title_slug": "special-permutations",
+        "difficulty": 2
+    },
+    {
+        "id": 2808,
+        "index": "2742",
+        "title": "Painting the Walls",
+        "title_slug": "painting-the-walls",
+        "difficulty": 3
+    },
+    {
+        "id": 2890,
+        "index": "2743",
+        "title": "Count Substrings Without Repeating Character",
+        "title_slug": "count-substrings-without-repeating-character",
+        "difficulty": 2
+    },
+    {
+        "id": 2847,
+        "index": "2744",
+        "title": "Find Maximum Number of String Pairs",
+        "title_slug": "find-maximum-number-of-string-pairs",
+        "difficulty": 1
+    },
+    {
+        "id": 2850,
+        "index": "2745",
+        "title": "Construct the Longest New String",
+        "title_slug": "construct-the-longest-new-string",
+        "difficulty": 2
+    },
+    {
+        "id": 2854,
+        "index": "2746",
+        "title": "Decremental String Concatenation",
+        "title_slug": "decremental-string-concatenation",
+        "difficulty": 2
+    },
+    {
+        "id": 2833,
+        "index": "2747",
+        "title": "Count Zero Request Servers",
+        "title_slug": "count-zero-request-servers",
+        "difficulty": 2
+    },
+    {
+        "id": 2831,
+        "index": "2748",
+        "title": "Number of Beautiful Pairs",
+        "title_slug": "number-of-beautiful-pairs",
+        "difficulty": 1
+    },
+    {
+        "id": 2837,
+        "index": "2749",
+        "title": "Minimum Operations to Make the Integer Zero",
+        "title_slug": "minimum-operations-to-make-the-integer-zero",
+        "difficulty": 2
+    },
+    {
+        "id": 2867,
+        "index": "2750",
+        "title": "Ways to Split Array Into Good Subarrays",
+        "title_slug": "ways-to-split-array-into-good-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2846,
+        "index": "2751",
+        "title": "Robot Collisions",
+        "title_slug": "robot-collisions",
+        "difficulty": 3
+    },
+    {
+        "id": 2852,
+        "index": "2752",
+        "title": "Customers with Maximum Number of Transactions on Consecutive Days",
+        "title_slug": "customers-with-maximum-number-of-transactions-on-consecutive-days",
+        "difficulty": 3
+    },
+    {
+        "id": 2897,
+        "index": "2753",
+        "title": "Count Houses in a Circular Street II",
+        "title_slug": "count-houses-in-a-circular-street-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 2770,
+        "index": "2754",
+        "title": "Bind Function to Context",
+        "title_slug": "bind-function-to-context",
+        "difficulty": 2
+    },
+    {
+        "id": 2795,
+        "index": "2755",
+        "title": "Deep Merge of Two Objects",
+        "title_slug": "deep-merge-of-two-objects",
+        "difficulty": 2
+    },
+    {
+        "id": 2806,
+        "index": "2756",
+        "title": "Query Batching",
+        "title_slug": "query-batching",
+        "difficulty": 3
+    },
+    {
+        "id": 2814,
+        "index": "2757",
+        "title": "Generate Circular Array Values",
+        "title_slug": "generate-circular-array-values",
+        "difficulty": 2
+    },
+    {
+        "id": 2822,
+        "index": "2758",
+        "title": "Next Day",
+        "title_slug": "next-day",
+        "difficulty": 1
+    },
+    {
+        "id": 2851,
+        "index": "2759",
+        "title": "Convert JSON String to Object",
+        "title_slug": "convert-json-string-to-object",
+        "difficulty": 3
+    },
+    {
+        "id": 2866,
+        "index": "2760",
+        "title": "Longest Even Odd Subarray With Threshold",
+        "title_slug": "longest-even-odd-subarray-with-threshold",
+        "difficulty": 1
+    },
+    {
+        "id": 2873,
+        "index": "2761",
+        "title": "Prime Pairs With Target Sum",
+        "title_slug": "prime-pairs-with-target-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 2868,
+        "index": "2762",
+        "title": "Continuous Subarrays",
+        "title_slug": "continuous-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 2849,
+        "index": "2763",
+        "title": "Sum of Imbalance Numbers of All Subarrays",
+        "title_slug": "sum-of-imbalance-numbers-of-all-subarrays",
+        "difficulty": 3
+    },
+    {
+        "id": 2918,
+        "index": "2764",
+        "title": "is Array a Preorder of Some ‌Binary Tree",
+        "title_slug": "is-array-a-preorder-of-some-binary-tree",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
