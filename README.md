@@ -2754,6 +2754,34 @@
 | 2734 | Lexicographically Smallest String After Substring Operation | [TypeScript](./src/2734.lexicographically-smallest-string-after-substring-operation.2828/solution.ts) | Medium  |
 | 2735 | Collecting Chocolates |  | Medium  |
 | 2736 | Maximum Sum Queries |  | Hard  |
+| 2737 | Find the Closest Marked Node |  | Medium  |
+| 2738 | Count Occurrences in Text |  | Medium  |
+| 2739 | Total Distance Traveled | [TypeScript](./src/2739.total-distance-traveled.2857/solution.ts) | Easy  |
+| 2740 | Find the Value of the Partition | [TypeScript](./src/2740.find-the-value-of-the-partition.2845/solution.ts) | Medium  |
+| 2741 | Special Permutations |  | Medium  |
+| 2742 | Painting the Walls |  | Hard  |
+| 2743 | Count Substrings Without Repeating Character |  | Medium  |
+| 2744 | Find Maximum Number of String Pairs | [TypeScript](./src/2744.find-maximum-number-of-string-pairs.2847/solution.ts) | Easy  |
+| 2745 | Construct the Longest New String |  | Medium  |
+| 2746 | Decremental String Concatenation |  | Medium  |
+| 2747 | Count Zero Request Servers |  | Medium  |
+| 2748 | Number of Beautiful Pairs | [TypeScript](./src/2748.number-of-beautiful-pairs.2831/solution.ts) | Easy  |
+| 2749 | Minimum Operations to Make the Integer Zero |  | Medium  |
+| 2750 | Ways to Split Array Into Good Subarrays |  | Medium  |
+| 2751 | Robot Collisions |  | Hard  |
+| 2752 | Customers with Maximum Number of Transactions on Consecutive Days |  | Hard  |
+| 2753 | Count Houses in a Circular Street II |  | Hard  |
+| 2754 | Bind Function to Context |  | Medium  |
+| 2755 | Deep Merge of Two Objects |  | Medium  |
+| 2756 | Query Batching |  | Hard  |
+| 2757 | Generate Circular Array Values |  | Medium  |
+| 2758 | Next Day |  | Easy  |
+| 2759 | Convert JSON String to Object |  | Hard  |
+| 2760 | Longest Even Odd Subarray With Threshold |  | Easy  |
+| 2761 | Prime Pairs With Target Sum |  | Medium  |
+| 2762 | Continuous Subarrays |  | Medium  |
+| 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
+| 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
