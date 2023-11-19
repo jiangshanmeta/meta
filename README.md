@@ -45,7 +45,7 @@
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/solution.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/solution.ts) | Hard  |
 | 0026 | Remove Duplicates from Sorted Array | [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.ts) | Easy  |
 | 0027 | Remove Element | [JavaScript](./src/0027.remove-element.27/solution.js) [TypeScript](./src/0027.remove-element.27/solution.ts) | Easy  |
-| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Medium  |
+| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Easy  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/solution.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
 | 0031 | Next Permutation | [JavaScript](./src/0031.next-permutation.31/solution.js) | Medium  |
@@ -89,7 +89,7 @@
 | 0069 | Sqrt(x) | [JavaScript](./src/0069.sqrtx.69/solution.js) [TypeScript](./src/0069.sqrtx.69/solution.ts) | Easy  |
 | 0070 | Climbing Stairs | [JavaScript](./src/0070.climbing-stairs.70/solution.js) [TypeScript](./src/0070.climbing-stairs.70/solution.ts) | Easy  |
 | 0071 | Simplify Path | [JavaScript](./src/0071.simplify-path.71/solution.js) | Medium  |
-| 0072 | Edit Distance | [JavaScript](./src/0072.edit-distance.72/solution.js) [TypeScript](./src/0072.edit-distance.72/solution.ts) | Hard  |
+| 0072 | Edit Distance | [JavaScript](./src/0072.edit-distance.72/solution.js) [TypeScript](./src/0072.edit-distance.72/solution.ts) | Medium  |
 | 0073 | Set Matrix Zeroes | [JavaScript](./src/0073.set-matrix-zeroes.73/solution.js) [TypeScript](./src/0073.set-matrix-zeroes.73/solution.ts) | Medium  |
 | 0074 | Search a 2D Matrix | [JavaScript](./src/0074.search-a-2d-matrix.74/solution.js) [TypeScript](./src/0074.search-a-2d-matrix.74/solution.ts) | Medium  |
 | 0075 | Sort Colors | [JavaScript](./src/0075.sort-colors.75/solution.js) [TypeScript](./src/0075.sort-colors.75/solution.ts) | Medium  |
@@ -181,7 +181,7 @@
 | 0161 | One Edit Distance | [JavaScript](./src/0161.one-edit-distance.161/solution.js) [TypeScript](./src/0161.one-edit-distance.161/solution.ts) | Medium  |
 | 0162 | Find Peak Element | [JavaScript](./src/0162.find-peak-element.162/solution.js) [TypeScript](./src/0162.find-peak-element.162/solution.ts) | Medium  |
 | 0163 | Missing Ranges | [JavaScript](./src/0163.missing-ranges.163/solution.js) [TypeScript](./src/0163.missing-ranges.163/solution.ts) | Easy  |
-| 0164 | Maximum Gap |  | Hard  |
+| 0164 | Maximum Gap |  | Medium  |
 | 0165 | Compare Version Numbers | [JavaScript](./src/0165.compare-version-numbers.165/solution.js) [TypeScript](./src/0165.compare-version-numbers.165/solution.ts) | Medium  |
 | 0166 | Fraction to Recurring Decimal | [JavaScript](./src/0166.fraction-to-recurring-decimal.166/solution.js) | Medium  |
 | 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.ts) | Medium  |
@@ -239,7 +239,7 @@
 | 0219 | Contains Duplicate II | [JavaScript](./src/0219.contains-duplicate-ii.219/solution.js) [TypeScript](./src/0219.contains-duplicate-ii.219/solution.ts) | Easy  |
 | 0220 | Contains Duplicate III | [JavaScript](./src/0220.contains-duplicate-iii.220/solution.js) | Hard  |
 | 0221 | Maximal Square | [JavaScript](./src/0221.maximal-square.221/solution.js) [TypeScript](./src/0221.maximal-square.221/solution.ts) | Medium  |
-| 0222 | Count Complete Tree Nodes | [JavaScript](./src/0222.count-complete-tree-nodes.222/solution.js) [TypeScript](./src/0222.count-complete-tree-nodes.222/solution.ts) | Medium  |
+| 0222 | Count Complete Tree Nodes | [JavaScript](./src/0222.count-complete-tree-nodes.222/solution.js) [TypeScript](./src/0222.count-complete-tree-nodes.222/solution.ts) | Easy  |
 | 0223 | Rectangle Area | [JavaScript](./src/0223.rectangle-area.223/solution.js) | Medium  |
 | 0224 | Basic Calculator |  | Hard  |
 | 0225 | Implement Stack using Queues | [JavaScript](./src/0225.implement-stack-using-queues.225/solution.js) [TypeScript](./src/0225.implement-stack-using-queues.225/solution.ts) | Easy  |
@@ -2654,7 +2654,7 @@
 | 2634 | Filter Elements from Array | [TypeScript](./src/2634.filter-elements-from-array.2746/solution.ts) | Easy  |
 | 2635 | Apply Transform Over Each Element in Array | [TypeScript](./src/2635.apply-transform-over-each-element-in-array.2747/solution.ts) | Easy  |
 | 2636 | Promise Pool | [TypeScript](./src/2636.promise-pool.2750/solution.ts) | Medium  |
-| 2637 | Promise Time Limit | [TypeScript](./src/2637.promise-time-limit.2749/solution.ts) | Easy  |
+| 2637 | Promise Time Limit | [TypeScript](./src/2637.promise-time-limit.2749/solution.ts) | Medium  |
 | 2638 | Count the Number of K-Free Subsets |  | Medium  |
 | 2639 | Find the Width of Columns of a Grid | [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
 | 2640 | Find the Score of All Prefixes of an Array | [TypeScript](./src/2640.find-the-score-of-all-prefixes-of-an-array.2676/solution.ts) | Medium  |
@@ -2692,7 +2692,7 @@
 | 2672 | Number of Adjacent Elements With the Same Color | [TypeScript](./src/2672.number-of-adjacent-elements-with-the-same-color.2779/solution.ts) | Medium  |
 | 2673 | Make Costs of Paths Equal in a Binary Tree | [TypeScript](./src/2673.make-costs-of-paths-equal-in-a-binary-tree.2780/solution.ts) | Medium  |
 | 2674 | Split a Circular Linked List |  | Medium  |
-| 2675 | Array of Objects to Matrix | [TypeScript](./src/2675.array-of-objects-to-matrix.2769/solution.ts) | Medium  |
+| 2675 | Array of Objects to Matrix | [TypeScript](./src/2675.array-of-objects-to-matrix.2769/solution.ts) | Hard  |
 | 2676 | Throttle | [TypeScript](./src/2676.throttle.2771/solution.ts) | Medium  |
 | 2677 | Chunk Array | [TypeScript](./src/2677.chunk-array.2798/solution.ts) | Easy  |
 | 2678 | Number of Senior Citizens | [TypeScript](./src/2678.number-of-senior-citizens.2727/solution.ts) | Easy  |
@@ -2732,7 +2732,7 @@
 | 2712 | Minimum Cost to Make All Characters Equal |  | Medium  |
 | 2713 | Maximum Strictly Increasing Cells in a Matrix |  | Hard  |
 | 2714 | Find Shortest Path with K Hops |  | Hard  |
-| 2715 | Execute Cancellable Function With Delay | [TypeScript](./src/2715.execute-cancellable-function-with-delay.2821/solution.ts) | Easy  |
+| 2715 | Timeout Cancellation | [TypeScript](./src/2715.timeout-cancellation.2821/solution.ts) | Easy  |
 | 2716 | Minimize String Length | [TypeScript](./src/2716.minimize-string-length.2825/solution.ts) | Easy  |
 | 2717 | Semi-Ordered Permutation | [TypeScript](./src/2717.semi-ordered-permutation.2785/solution.ts) | Easy  |
 | 2718 | Sum of Matrix After Queries | [TypeScript](./src/2718.sum-of-matrix-after-queries.2838/solution.ts) | Medium  |
@@ -2782,6 +2782,178 @@
 | 2762 | Continuous Subarrays |  | Medium  |
 | 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
 | 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
+| 2765 | Longest Alternating Subarray |  | Easy  |
+| 2766 | Relocate Marbles |  | Medium  |
+| 2767 | Partition String Into Minimum Beautiful Substrings |  | Medium  |
+| 2768 | Number of Black Blocks |  | Medium  |
+| 2769 | Find the Maximum Achievable Number | [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
+| 2770 | Maximum Number of Jumps to Reach the Last Index |  | Medium  |
+| 2771 | Longest Non-decreasing Subarray From Two Arrays |  | Medium  |
+| 2772 | Apply Operations to Make All Array Elements Equal to Zero |  | Medium  |
+| 2773 | Height of Special Binary Tree |  | Medium  |
+| 2774 | Array Upper Bound |  | Easy  |
+| 2775 | Undefined to Null |  | Medium  |
+| 2776 | Convert Callback Based Function to Promise Based Function |  | Medium  |
+| 2777 | Date Range Generator |  | Medium  |
+| 2778 | Sum of Squares of Special Elements  | [TypeScript](./src/2778.sum-of-squares-of-special-elements.2844/solution.ts) | Easy  |
+| 2779 | Maximum Beauty of an Array After Applying Operation |  | Medium  |
+| 2780 | Minimum Index of a Valid Split |  | Medium  |
+| 2781 | Length of the Longest Valid Substring |  | Hard  |
+| 2782 | Number of Unique Categories |  | Medium  |
+| 2783 | Flight Occupancy and Waitlist Analysis |  | Medium  |
+| 2784 | Check if Array is Good | [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
+| 2785 | Sort Vowels in a String |  | Medium  |
+| 2786 | Visit Array Positions to Maximize Score |  | Medium  |
+| 2787 | Ways to Express an Integer as Sum of Powers |  | Medium  |
+| 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
+| 2789 | Largest Element in an Array after Merge Operations |  | Medium  |
+| 2790 | Maximum Number of Groups With Increasing Length |  | Hard  |
+| 2791 | Count Paths That Can Form a Palindrome in a Tree |  | Hard  |
+| 2792 | Count Nodes That Are Great Enough |  | Medium  |
+| 2793 | Status of Flight Tickets |  | Hard  |
+| 2794 | Create Object from Two Arrays |  | Easy  |
+| 2795 | Parallel Execution of Promises for Individual Results Retrieval |  | Medium  |
+| 2796 | Repeat String |  | Easy  |
+| 2797 | Partial Function with Placeholders |  | Easy  |
+| 2798 | Number of Employees Who Met the Target | [TypeScript](./src/2798.number-of-employees-who-met-the-target.2876/solution.ts) | Easy  |
+| 2799 | Count Complete Subarrays in an Array |  | Medium  |
+| 2800 | Shortest String That Contains Three Strings |  | Medium  |
+| 2801 | Count Stepping Numbers in Range |  | Hard  |
+| 2802 | Find The K-th Lucky Number |  | Medium  |
+| 2803 | Factorial Generator |  | Easy  |
+| 2804 | Array Prototype ForEach |  | Easy  |
+| 2805 | Custom Interval |  | Medium  |
+| 2806 | Account Balance After Rounded Purchase |  | Easy  |
+| 2807 | Insert Greatest Common Divisors in Linked List |  | Medium  |
+| 2808 | Minimum Seconds to Equalize a Circular Array |  | Medium  |
+| 2809 | Minimum Time to Make Array Sum At Most x |  | Hard  |
+| 2810 | Faulty Keyboard |  | Easy  |
+| 2811 | Check if it is Possible to Split Array |  | Medium  |
+| 2812 | Find the Safest Path in a Grid |  | Medium  |
+| 2813 | Maximum Elegance of a K-Length Subsequence |  | Hard  |
+| 2814 | Minimum Time Takes to Reach Destination Without Drowning |  | Hard  |
+| 2815 | Max Pair Sum in an Array |  | Easy  |
+| 2816 | Double a Number Represented as a Linked List |  | Medium  |
+| 2817 | Minimum Absolute Difference Between Elements With Constraint |  | Medium  |
+| 2818 | Apply Operations to Maximize Score |  | Hard  |
+| 2819 | Minimum Relative Loss After Buying Chocolates |  | Hard  |
+| 2820 | Election Results |  | Medium  |
+| 2821 | Delay the Resolution of Each Promise |  | Easy  |
+| 2822 | Inversion of Object |  | Easy  |
+| 2823 | Deep Object Filter |  | Medium  |
+| 2824 | Count Pairs Whose Sum is Less than Target |  | Easy  |
+| 2825 | Make String a Subsequence Using Cyclic Increments |  | Medium  |
+| 2826 | Sorting Three Groups |  | Medium  |
+| 2827 | Number of Beautiful Integers in the Range |  | Hard  |
+| 2828 | Check if a String Is an Acronym of Words |  | Easy  |
+| 2829 | Determine the Minimum Sum of a k-avoiding Array |  | Medium  |
+| 2830 | Maximize the Profit as the Salesman |  | Medium  |
+| 2831 | Find the Longest Equal Subarray |  | Medium  |
+| 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
+| 2833 | Furthest Point From Origin |  | Easy  |
+| 2834 | Find the Minimum Possible Sum of a Beautiful Array |  | Medium  |
+| 2835 | Minimum Operations to Form Subsequence With Target Sum |  | Hard  |
+| 2836 | Maximize Value of Function in a Ball Passing Game |  | Hard  |
+| 2837 | Total Traveled Distance |  | Easy  |
+| 2838 | Maximum Coins Heroes Can Collect |  | Medium  |
+| 2839 | Check if Strings Can be Made Equal With Operations I |  | Easy  |
+| 2840 | Check if Strings Can be Made Equal With Operations II |  | Medium  |
+| 2841 | Maximum Sum of Almost Unique Subarray |  | Medium  |
+| 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
+| 2843 |   Count Symmetric Integers |  | Easy  |
+| 2844 | Minimum Operations to Make a Special Number |  | Medium  |
+| 2845 | Count of Interesting Subarrays |  | Medium  |
+| 2846 | Minimum Edge Weight Equilibrium Queries in a Tree |  | Hard  |
+| 2847 | Smallest Number With Given Digit Product |  | Medium  |
+| 2848 | Points That Intersect With Cars |  | Easy  |
+| 2849 | Determine if a Cell Is Reachable at a Given Time |  | Medium  |
+| 2850 | Minimum Moves to Spread Stones Over Grid |  | Medium  |
+| 2851 | String Transformation |  | Hard  |
+| 2852 | Sum of Remoteness of All Cells |  | Medium  |
+| 2853 | Highest Salaries Difference |  | Easy  |
+| 2854 | Rolling Average Steps |  | Medium  |
+| 2855 | Minimum Right Shifts to Sort the Array |  | Easy  |
+| 2856 | Minimum Array Length After Pair Removals |  | Medium  |
+| 2857 | Count Pairs of Points With Distance k |  | Medium  |
+| 2858 | Minimum Edge Reversals So Every Node Is Reachable |  | Hard  |
+| 2859 | Sum of Values at Indices With K Set Bits |  | Easy  |
+| 2860 | Happy Students |  | Medium  |
+| 2861 | Maximum Number of Alloys |  | Medium  |
+| 2862 | Maximum Element-Sum of a Complete Subset of Indices |  | Hard  |
+| 2863 | Maximum Length of Semi-Decreasing Subarrays |  | Medium  |
+| 2864 | Maximum Odd Binary Number |  | Easy  |
+| 2865 | Beautiful Towers I |  | Medium  |
+| 2866 | Beautiful Towers II |  | Medium  |
+| 2867 | Count Valid Paths in a Tree |  | Hard  |
+| 2868 | The Wording Game |  | Hard  |
+| 2869 | Minimum Operations to Collect Elements |  | Easy  |
+| 2870 | Minimum Number of Operations to Make Array Empty |  | Medium  |
+| 2871 | Split Array Into Maximum Number of Subarrays |  | Medium  |
+| 2872 | Maximum Number of K-Divisible Components |  | Hard  |
+| 2873 | Maximum Value of an Ordered Triplet I |  | Easy  |
+| 2874 | Maximum Value of an Ordered Triplet II |  | Medium  |
+| 2875 | Minimum Size Subarray in Infinite Array |  | Medium  |
+| 2876 | Count Visited Nodes in a Directed Graph |  | Hard  |
+| 2877 | Create a DataFrame from List |  | Easy  |
+| 2878 | Get the Size of a DataFrame |  | Easy  |
+| 2879 | Display the First Three Rows |  | Easy  |
+| 2880 | Select Data |  | Easy  |
+| 2881 | Create a New Column |  | Easy  |
+| 2882 | Drop Duplicate Rows |  | Easy  |
+| 2883 | Drop Missing Data |  | Easy  |
+| 2884 | Modify Columns |  | Easy  |
+| 2885 | Rename Columns |  | Easy  |
+| 2886 | Change Data Type |  | Easy  |
+| 2887 | Fill Missing Data |  | Easy  |
+| 2888 | Reshape Data: Concatenate |  | Easy  |
+| 2889 | Reshape Data: Pivot |  | Easy  |
+| 2890 | Reshape Data: Melt |  | Easy  |
+| 2891 | Method Chaining |  | Easy  |
+| 2892 | Minimizing Array After Replacing Pairs With Their Product |  | Medium  |
+| 2893 | Calculate Orders Within Each Interval |  | Medium  |
+| 2894 | Divisible and Non-divisible Sums Difference |  | Easy  |
+| 2895 | Minimum Processing Time |  | Medium  |
+| 2896 | Apply Operations to Make Two Strings Equal |  | Medium  |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares |  | Hard  |
+| 2898 | Maximum Linear Stock Score |  | Medium  |
+| 2899 | Last Visited Integers |  | Easy  |
+| 2900 | Longest Unequal Adjacent Groups Subsequence I |  | Medium  |
+| 2901 | Longest Unequal Adjacent Groups Subsequence II |  | Medium  |
+| 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
+| 2903 | Find Indices With Index and Value Difference I |  | Easy  |
+| 2904 | Shortest and Lexicographically Smallest Beautiful String |  | Medium  |
+| 2905 | Find Indices With Index and Value Difference II |  | Medium  |
+| 2906 | Construct Product Matrix |  | Medium  |
+| 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
+| 2908 | Minimum Sum of Mountain Triplets I |  | Easy  |
+| 2909 | Minimum Sum of Mountain Triplets II |  | Medium  |
+| 2910 | Minimum Number of Groups to Create a Valid Assignment |  | Medium  |
+| 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
+| 2912 | Number of Ways to Reach Destination in the Grid |  | Hard  |
+| 2913 | Subarrays Distinct Element Sum of Squares I |  | Easy  |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful |  | Medium  |
+| 2915 | Length of the Longest Subsequence That Sums to Target |  | Medium  |
+| 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
+| 2917 | Find the K-or of an Array |  | Easy  |
+| 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros |  | Medium  |
+| 2919 | Minimum Increment Operations to Make Array Beautiful |  | Medium  |
+| 2920 | Maximum Points After Collecting Coins From All Nodes |  | Hard  |
+| 2921 | Maximum Profitable Triplets With Increasing Prices II |  | Hard  |
+| 2922 | Market Analysis III |  | Medium  |
+| 2923 | Find Champion I |  | Easy  |
+| 2924 | Find Champion II |  | Medium  |
+| 2925 | Maximum Score After Applying Operations on a Tree |  | Medium  |
+| 2926 | Maximum Balanced Subsequence Sum |  | Hard  |
+| 2927 | Distribute Candies Among Children III |  | Hard  |
+| 2928 | Distribute Candies Among Children I |  | Easy  |
+| 2929 | Distribute Candies Among Children II |  | Medium  |
+| 2930 | Number of Strings Which Can Be Rearranged to Contain Substring |  | Medium  |
+| 2931 | Maximum Spending After Buying Items |  | Hard  |
+| 2932 | Maximum Strong Pair XOR I |  | Easy  |
+| 2933 | High-Access Employees |  | Medium  |
+| 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
+| 2935 | Maximum Strong Pair XOR II |  | Hard  |
+| 2936 | Number of Equal Numbers Blocks |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -2864,200 +3036,81 @@
 | LCP80 | 生物进化录 |  | Hard  |
 | LCP81 | 与非的谜题 |  | Hard  |
 | LCP82 | 万灵之树 |  | Hard  |
-| 剑指Offer03 | 数组中重复的数字 LCOF | [JavaScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.js) [TypeScript](./src/剑指Offer03.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.ts) | Easy  |
-| 剑指Offer04 | 二维数组中的查找 LCOF | [JavaScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.js) [TypeScript](./src/剑指Offer04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.100276/solution.ts) | Medium  |
-| 剑指Offer05 | 替换空格 LCOF | [JavaScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.js) [TypeScript](./src/剑指Offer05.ti-huan-kong-ge-lcof.100280/solution.ts) | Easy  |
-| 剑指Offer06 | 从尾到头打印链表 LCOF | [Go](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.go) [JavaScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.js) [TypeScript](./src/剑指Offer06.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.ts) | Easy  |
-| 剑指Offer07 | 重建二叉树 LCOF | [JavaScript](./src/剑指Offer07.zhong-jian-er-cha-shu-lcof.100283/solution.js) [TypeScript](./src/剑指Offer07.zhong-jian-er-cha-shu-lcof.100283/solution.ts) | Medium  |
-| 剑指Offer09 | 用两个栈实现队列 LCOF | [JavaScript](./src/剑指Offer09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.js) [TypeScript](./src/剑指Offer09.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.ts) | Easy  |
-| 剑指Offer10-I | 斐波那契数列  LCOF | [JavaScript](./src/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274/solution.js) [TypeScript](./src/剑指Offer10-I.fei-bo-na-qi-shu-lie-lcof.100274/solution.ts) | Easy  |
-| 剑指Offer10-II | 青蛙跳台阶问题  LCOF | [JavaScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.js) [TypeScript](./src/剑指Offer10-II.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.ts) | Easy  |
-| 剑指Offer11 | 旋转数组的最小数字  LCOF | [JavaScript](./src/剑指Offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278/solution.js) | Easy  |
-| 剑指Offer12 | 矩阵中的路径  LCOF | [JavaScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.js) [TypeScript](./src/剑指Offer12.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.ts) | Medium  |
-| 剑指Offer13 | 机器人的运动范围  LCOF | [JavaScript](./src/剑指Offer13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.js) [TypeScript](./src/剑指Offer13.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.ts) | Medium  |
-| 剑指Offer14-I | 剪绳子  LCOF | [JavaScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.js) [TypeScript](./src/剑指Offer14-I.jian-sheng-zi-lcof.100284/solution.ts) | Medium  |
-| 剑指Offer14-II | 剪绳子 II LCOF | [JavaScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.js) [TypeScript](./src/剑指Offer14-II.jian-sheng-zi-ii-lcof.100285/solution.ts) | Medium  |
-| 剑指Offer15 | 二进制中1的个数 LCOF | [JavaScript](./src/剑指Offer15.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.js) | Easy  |
-| 剑指Offer16 | 数值的整数次方 LCOF | [JavaScript](./src/剑指Offer16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.js) [TypeScript](./src/剑指Offer16.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.ts) | Medium  |
-| 剑指Offer17 | 打印从1到最大的n位数 LCOF | [JavaScript](./src/剑指Offer17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.js) [TypeScript](./src/剑指Offer17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.ts) | Easy  |
-| 剑指Offer18 | 删除链表的节点 LCOF | [Go](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.go) [JavaScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.js) [TypeScript](./src/剑指Offer18.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.ts) | Easy  |
-| 剑指Offer19 | 正则表达式匹配 LCOF | [JavaScript](./src/剑指Offer19.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.js) [TypeScript](./src/剑指Offer19.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.ts) | Hard  |
-| 剑指Offer20 | 表示数值的字符串 LCOF |  | Medium  |
-| 剑指Offer21 | 调整数组顺序使奇数位于偶数前面 LCOF | [JavaScript](./src/剑指Offer21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.js) [TypeScript](./src/剑指Offer21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.ts) | Easy  |
-| 剑指Offer22 | 链表中倒数第k个节点 LCOF | [Go](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.go) [JavaScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.js) [TypeScript](./src/剑指Offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.ts) | Easy  |
-| 剑指Offer24 | 反转链表 LCOF | [Go](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.go) [JavaScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.js) [TypeScript](./src/剑指Offer24.fan-zhuan-lian-biao-lcof.100298/solution.ts) | Easy  |
-| 剑指Offer25 | 合并两个排序的链表  LCOF | [Go](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.go) [JavaScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.js) [TypeScript](./src/剑指Offer25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.ts) | Easy  |
-| 剑指Offer26 | 树的子结构  LCOF | [JavaScript](./src/剑指Offer26.shu-de-zi-jie-gou-lcof.100287/solution.js) [TypeScript](./src/剑指Offer26.shu-de-zi-jie-gou-lcof.100287/solution.ts) | Medium  |
-| 剑指Offer27 | 二叉树的镜像  LCOF | [JavaScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/solution.js) [TypeScript](./src/剑指Offer27.er-cha-shu-de-jing-xiang-lcof.100288/solution.ts) | Easy  |
-| 剑指Offer28 | 对称的二叉树  LCOF | [JavaScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/solution.js) [TypeScript](./src/剑指Offer28.dui-cheng-de-er-cha-shu-lcof.100289/solution.ts) | Easy  |
-| 剑指Offer29 | 顺时针打印矩阵  LCOF | [JavaScript](./src/剑指Offer29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.js) [TypeScript](./src/剑指Offer29.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.ts) | Easy  |
-| 剑指Offer30 | 包含min函数的栈 LCOF | [JavaScript](./src/剑指Offer30.bao-han-minhan-shu-de-zhan-lcof.100302/solution.js) [TypeScript](./src/剑指Offer30.bao-han-minhan-shu-de-zhan-lcof.100302/solution.ts) | Easy  |
-| 剑指Offer31 | 栈的压入、弹出序列 LCOF | [JavaScript](./src/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.js) [TypeScript](./src/剑指Offer31.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.ts) | Medium  |
-| 剑指Offer32-I | 从上到下打印二叉树 LCOF | [JavaScript](./src/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.js) [TypeScript](./src/剑指Offer32-I.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.ts) | Medium  |
-| 剑指Offer32-II | 从上到下打印二叉树 II LCOF | [JavaScript](./src/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.js) [TypeScript](./src/剑指Offer32-II.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.ts) | Easy  |
-| 剑指Offer32-III | 从上到下打印二叉树 III LCOF | [JavaScript](./src/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/solution.js) [TypeScript](./src/剑指Offer32-III.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/solution.ts) | Medium  |
-| 剑指Offer33 | 二叉搜索树的后序遍历序列 LCOF | [JavaScript](./src/剑指Offer33.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315/solution.js) | Medium  |
-| 剑指Offer34 | 二叉树中和为某一值的路径 LCOF | [JavaScript](./src/剑指Offer34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317/solution.js) [TypeScript](./src/剑指Offer34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.100317/solution.ts) | Medium  |
-| 剑指Offer35 | 复杂链表的复制  LCOF | [JavaScript](./src/剑指Offer35.fu-za-lian-biao-de-fu-zhi-lcof.100300/solution.js) | Medium  |
-| 剑指Offer36 | 二叉搜索树与双向链表  LCOF | [JavaScript](./src/剑指Offer36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305/solution.js) | Medium  |
-| 剑指Offer37 | 序列化二叉树  LCOF | [JavaScript](./src/剑指Offer37.xu-lie-hua-er-cha-shu-lcof.100307/solution.js) | Hard  |
-| 剑指Offer38 | 字符串的排列  LCOF | [JavaScript](./src/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308/solution.js) [TypeScript](./src/剑指Offer38.zi-fu-chuan-de-pai-lie-lcof.100308/solution.ts) | Medium  |
-| 剑指Offer39 | 数组中出现次数超过一半的数字  LCOF | [JavaScript](./src/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.js) [TypeScript](./src/剑指Offer39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.ts) | Easy  |
-| 剑指Offer40 | 最小的k个数  LCOF | [JavaScript](./src/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301/solution.js) [TypeScript](./src/剑指Offer40.zui-xiao-de-kge-shu-lcof.100301/solution.ts) | Easy  |
-| 剑指Offer41 | 数据流中的中位数  LCOF | [JavaScript](./src/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/solution.js) [TypeScript](./src/剑指Offer41.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/solution.ts) | Hard  |
-| 剑指Offer42 | 连续子数组的最大和  LCOF | [JavaScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/剑指Offer42.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
-| 剑指Offer43 | 1～n整数中1出现的次数  LCOF | [JavaScript](./src/剑指Offer43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
-| 剑指Offer44 | 数字序列中某一位的数字  LCOF | [JavaScript](./src/剑指Offer44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
-| 剑指Offer45 | 把数组排成最小的数 LCOF | [JavaScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/剑指Offer45.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
-| 剑指Offer46 | 把数字翻译成字符串 LCOF | [JavaScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/剑指Offer46.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
-| 剑指Offer47 | 礼物的最大价值 LCOF | [JavaScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/剑指Offer47.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
-| 剑指Offer48 | 最长不含重复字符的子字符串 LCOF | [JavaScript](./src/剑指Offer48.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
-| 剑指Offer49 | 丑数 LCOF | [JavaScript](./src/剑指Offer49.chou-shu-lcof.100334/solution.js) | Medium  |
-| 剑指Offer50 | 第一个只出现一次的字符  LCOF | [JavaScript](./src/剑指Offer50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.js) [TypeScript](./src/剑指Offer50.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.ts) | Easy  |
-| 剑指Offer51 | 数组中的逆序对  LCOF | [JavaScript](./src/剑指Offer51.shu-zu-zhong-de-ni-xu-dui-lcof.100318/solution.js) | Hard  |
-| 剑指Offer52 | 两个链表的第一个公共节点  LCOF | [JavaScript](./src/剑指Offer52.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.js) | Easy  |
-| 剑指Offer53-I | 在排序数组中查找数字  LCOF | [JavaScript](./src/剑指Offer53-I.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.js) [TypeScript](./src/剑指Offer53-I.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.ts) | Easy  |
-| 剑指Offer53-II | 缺失的数字  LCOF | [JavaScript](./src/剑指Offer53-II.que-shi-de-shu-zi-lcof.100331/solution.js) [TypeScript](./src/剑指Offer53-II.que-shi-de-shu-zi-lcof.100331/solution.ts) | Easy  |
-| 剑指Offer54 | 二叉搜索树的第k大节点  LCOF | [JavaScript](./src/剑指Offer54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.js) [TypeScript](./src/剑指Offer54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.ts) | Easy  |
-| 剑指Offer55-I | 二叉树的深度 LCOF | [JavaScript](./src/剑指Offer55-I.er-cha-shu-de-shen-du-lcof.100319/solution.js) [TypeScript](./src/剑指Offer55-I.er-cha-shu-de-shen-du-lcof.100319/solution.ts) | Easy  |
-| 剑指Offer55-II | 平衡二叉树 LCOF | [JavaScript](./src/剑指Offer55-II.ping-heng-er-cha-shu-lcof.100342/solution.js) [TypeScript](./src/剑指Offer55-II.ping-heng-er-cha-shu-lcof.100342/solution.ts) | Easy  |
-| 剑指Offer56-I | 数组中数字出现的次数 LCOF | [JavaScript](./src/剑指Offer56-I.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320/solution.js) [TypeScript](./src/剑指Offer56-I.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320/solution.ts) | Medium  |
-| 剑指Offer56-II | 数组中数字出现的次数 II LCOF | [JavaScript](./src/剑指Offer56-II.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof.100321/solution.js) | Medium  |
-| 剑指Offer57 | 和为s的两个数字 LCOF | [JavaScript](./src/剑指Offer57.he-wei-sde-liang-ge-shu-zi-lcof.100322/solution.js) | Easy  |
-| 剑指Offer57-II | 和为s的连续正数序列 LCOF | [JavaScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/solution.js) [TypeScript](./src/剑指Offer57-II.he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.100324/solution.ts) | Easy  |
-| 剑指Offer58-I | 翻转单词顺序 LCOF | [JavaScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.js) [TypeScript](./src/剑指Offer58-I.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.ts) | Easy  |
-| 剑指Offer58-II | 左旋转字符串 LCOF | [JavaScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.js) [TypeScript](./src/剑指Offer58-II.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.ts) | Easy  |
-| 剑指Offer59-I | 滑动窗口的最大值 LCOF | [JavaScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/剑指Offer59-I.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
-| 剑指Offer59-II | 队列的最大值 LCOF | [JavaScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/剑指Offer59-II.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
-| 剑指Offer60 | n个骰子的点数  LCOF | [JavaScript](./src/剑指Offer60.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
-| 剑指Offer61 | 扑克牌中的顺子  LCOF | [JavaScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/剑指Offer61.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
-| 剑指Offer62 | 圆圈中最后剩下的数字 LCOF |  | Easy  |
-| 剑指Offer63 | 股票的最大利润  LCOF | [JavaScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/剑指Offer63.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
-| 剑指Offer64 | 求1+2+…+n LCOF | [JavaScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/剑指Offer64.qiu-12n-lcof.100345/solution.ts) | Medium  |
-| 剑指Offer65 | 不用加减乘除做加法 LCOF | [JavaScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.js) [TypeScript](./src/剑指Offer65.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.ts) | Easy  |
-| 剑指Offer66 | 构建乘积数组 LCOF | [JavaScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.js) [TypeScript](./src/剑指Offer66.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.ts) | Medium  |
-| 剑指Offer67 | 把字符串转换成整数 LCOF |  | Medium  |
-| 剑指Offer68-I | 二叉搜索树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.js) [Python3](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.py) [TypeScript](./src/剑指Offer68-I.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.ts) | Easy  |
-| 剑指Offer68-II | 二叉树的最近公共祖先 LCOF | [JavaScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.js) [Python3](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.py) [TypeScript](./src/剑指Offer68-II.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.ts) | Easy  |
-| 剑指OfferII001 | 整数除法 |  | Easy  |
-| 剑指OfferII002 | 二进制加法 | [JavaScript](./src/剑指OfferII002.JFETK5.1000231/solution.js) | Easy  |
-| 剑指OfferII003 | 前 n 个数字二进制中 1 的个数 | [JavaScript](./src/剑指OfferII003.w3tCBm.1000230/solution.js) [TypeScript](./src/剑指OfferII003.w3tCBm.1000230/solution.ts) | Easy  |
-| 剑指OfferII004 | 只出现一次的数字  |  | Medium  |
-| 剑指OfferII005 | 单词长度的最大乘积 | [JavaScript](./src/剑指OfferII005.aseY1I.1000236/solution.js) [TypeScript](./src/剑指OfferII005.aseY1I.1000236/solution.ts) | Medium  |
-| 剑指OfferII006 | 排序数组中两个数字之和 | [JavaScript](./src/剑指OfferII006.kLl5u1.1000237/solution.js) | Easy  |
-| 剑指OfferII007 | 数组中和为 0 的三个数 | [TypeScript](./src/剑指OfferII007.1fGaJU.1000239/solution.ts) | Medium  |
-| 剑指OfferII008 | 和大于等于 target 的最短子数组 | [TypeScript](./src/剑指OfferII008.2VG8Kg.1000242/solution.ts) | Medium  |
-| 剑指OfferII009 | 乘积小于 K 的子数组 | [TypeScript](./src/剑指OfferII009.ZVAVXX.1000244/solution.ts) | Medium  |
-| 剑指OfferII010 | 和为 k 的子数组 | [JavaScript](./src/剑指OfferII010.QTMn0o.1000246/solution.js) [TypeScript](./src/剑指OfferII010.QTMn0o.1000246/solution.ts) | Medium  |
-| 剑指OfferII011 | 0 和 1 个数相同的子数组 | [TypeScript](./src/剑指OfferII011.A1NYOS.1000247/solution.ts) | Medium  |
-| 剑指OfferII012 | 左右两边子数组的和相等 | [JavaScript](./src/剑指OfferII012.tvdfij.1000248/solution.js) [TypeScript](./src/剑指OfferII012.tvdfij.1000248/solution.ts) | Easy  |
-| 剑指OfferII013 | 二维子矩阵的和 | [JavaScript](./src/剑指OfferII013.O4NDxx.1000249/solution.js) [TypeScript](./src/剑指OfferII013.O4NDxx.1000249/solution.ts) | Medium  |
-| 剑指OfferII014 | 字符串中的变位词 | [JavaScript](./src/剑指OfferII014.MPnaiL.1000250/solution.js) [TypeScript](./src/剑指OfferII014.MPnaiL.1000250/solution.ts) | Medium  |
-| 剑指OfferII015 | 字符串中的所有变位词 | [JavaScript](./src/剑指OfferII015.VabMRr.1000251/solution.js) [TypeScript](./src/剑指OfferII015.VabMRr.1000251/solution.ts) | Medium  |
-| 剑指OfferII016 | 不含重复字符的最长子字符串 | [TypeScript](./src/剑指OfferII016.wtcaE1.1000252/solution.ts) | Medium  |
-| 剑指OfferII017 | 含有所有字符的最短字符串 |  | Hard  |
-| 剑指OfferII018 | 有效的回文 | [JavaScript](./src/剑指OfferII018.XltzEq.1000254/solution.js) [TypeScript](./src/剑指OfferII018.XltzEq.1000254/solution.ts) | Easy  |
-| 剑指OfferII019 | 最多删除一个字符得到回文 | [JavaScript](./src/剑指OfferII019.RQku0D.1000255/solution.js) | Easy  |
-| 剑指OfferII020 | 回文子字符串的个数 |  | Medium  |
-| 剑指OfferII021 | 删除链表的倒数第 n 个结点 | [JavaScript](./src/剑指OfferII021.SLwz0R.1000257/solution.js) [TypeScript](./src/剑指OfferII021.SLwz0R.1000257/solution.ts) | Medium  |
-| 剑指OfferII022 | 链表中环的入口节点 | [JavaScript](./src/剑指OfferII022.c32eOV.1000258/solution.js) | Medium  |
-| 剑指OfferII023 | 两个链表的第一个重合节点 | [JavaScript](./src/剑指OfferII023.3u1WK4.1000259/solution.js) | Easy  |
-| 剑指OfferII024 | 反转链表 | [Go](./src/剑指OfferII024.UHnkqh.1000260/solution.go) [JavaScript](./src/剑指OfferII024.UHnkqh.1000260/solution.js) [TypeScript](./src/剑指OfferII024.UHnkqh.1000260/solution.ts) | Easy  |
-| 剑指OfferII025 | 链表中的两数相加 | [TypeScript](./src/剑指OfferII025.lMSNwu.1000261/solution.ts) | Medium  |
-| 剑指OfferII026 | 重排链表 | [TypeScript](./src/剑指OfferII026.LGjMqU.1000262/solution.ts) | Medium  |
-| 剑指OfferII027 | 回文链表 | [JavaScript](./src/剑指OfferII027.aMhZSa.1000263/solution.js) [TypeScript](./src/剑指OfferII027.aMhZSa.1000263/solution.ts) | Easy  |
-| 剑指OfferII028 | 展平多级双向链表 | [TypeScript](./src/剑指OfferII028.Qv1Da2.1000264/solution.ts) | Medium  |
-| 剑指OfferII029 | 排序的循环链表 |  | Medium  |
-| 剑指OfferII030 | 插入、删除和随机访问都是 O(1) 的容器 | [TypeScript](./src/剑指OfferII030.FortPu.1000267/solution.ts) | Medium  |
-| 剑指OfferII031 | 最近最少使用缓存 |  | Medium  |
-| 剑指OfferII032 | 有效的变位词 | [JavaScript](./src/剑指OfferII032.dKk3P7.1000273/solution.js) | Easy  |
-| 剑指OfferII033 | 变位词组 | [JavaScript](./src/剑指OfferII033.sfvd7V.1000275/solution.js) | Medium  |
-| 剑指OfferII034 | 外星语言是否排序 | [JavaScript](./src/剑指OfferII034.lwyVBB.1000276/solution.js) | Easy  |
-| 剑指OfferII035 | 最小时间差 | [JavaScript](./src/剑指OfferII035.569nqc.1000278/solution.js) [TypeScript](./src/剑指OfferII035.569nqc.1000278/solution.ts) | Medium  |
-| 剑指OfferII036 | 后缀表达式 | [JavaScript](./src/剑指OfferII036.8Zf90G.1000279/solution.js) | Medium  |
-| 剑指OfferII037 | 小行星碰撞 | [JavaScript](./src/剑指OfferII037.XagZNi.1000281/solution.js) | Medium  |
-| 剑指OfferII038 | 每日温度 | [JavaScript](./src/剑指OfferII038.iIQa4I.1000282/solution.js) | Medium  |
-| 剑指OfferII039 | 直方图最大矩形面积 |  | Hard  |
-| 剑指OfferII040 | 矩阵中最大的矩形 |  | Hard  |
-| 剑指OfferII041 | 滑动窗口的平均值 | [JavaScript](./src/剑指OfferII041.qIsx9U.1000292/solution.js) [TypeScript](./src/剑指OfferII041.qIsx9U.1000292/solution.ts) | Easy  |
-| 剑指OfferII042 | 最近请求次数 | [JavaScript](./src/剑指OfferII042.H8086Q.1000293/solution.js) [TypeScript](./src/剑指OfferII042.H8086Q.1000293/solution.ts) | Easy  |
-| 剑指OfferII043 | 往完全二叉树添加节点 | [TypeScript](./src/剑指OfferII043.NaqhDT.1000295/solution.ts) | Medium  |
-| 剑指OfferII044 | 二叉树每层的最大值 | [JavaScript](./src/剑指OfferII044.hPov7L.1000297/solution.js) [TypeScript](./src/剑指OfferII044.hPov7L.1000297/solution.ts) | Medium  |
-| 剑指OfferII045 | 二叉树最底层最左边的值 | [JavaScript](./src/剑指OfferII045.LwUNpT.1000298/solution.js) | Medium  |
-| 剑指OfferII046 | 二叉树的右侧视图 | [JavaScript](./src/剑指OfferII046.WNC0Lk.1000299/solution.js) | Medium  |
-| 剑指OfferII047 | 二叉树剪枝 | [JavaScript](./src/剑指OfferII047.pOCWxh.1000301/solution.js) | Medium  |
-| 剑指OfferII048 | 序列化与反序列化二叉树 | [TypeScript](./src/剑指OfferII048.h54YBf.1000304/solution.ts) | Hard  |
-| 剑指OfferII049 | 从根节点到叶节点的路径数字之和 | [JavaScript](./src/剑指OfferII049.3Etpl5.1000306/solution.js) | Medium  |
-| 剑指OfferII050 | 向下的路径节点之和 | [TypeScript](./src/剑指OfferII050.6eUYwP.1000307/solution.ts) | Medium  |
-| 剑指OfferII051 | 节点之和最大的路径 | [TypeScript](./src/剑指OfferII051.jC7MId.1000309/solution.ts) | Hard  |
-| 剑指OfferII052 | 展平二叉搜索树 | [JavaScript](./src/剑指OfferII052.NYBBNL.1000311/solution.js) | Easy  |
-| 剑指OfferII053 | 二叉搜索树中的中序后继 | [JavaScript](./src/剑指OfferII053.P5rCT8.1000313/solution.js) [TypeScript](./src/剑指OfferII053.P5rCT8.1000313/solution.ts) | Medium  |
-| 剑指OfferII054 | 所有大于等于节点的值之和 | [JavaScript](./src/剑指OfferII054.w6cpku.1000315/solution.js) | Medium  |
-| 剑指OfferII055 | 二叉搜索树迭代器 | [JavaScript](./src/剑指OfferII055.kTOapQ.1000316/solution.js) [TypeScript](./src/剑指OfferII055.kTOapQ.1000316/solution.ts) | Medium  |
-| 剑指OfferII056 | 二叉搜索树中两个节点之和 | [JavaScript](./src/剑指OfferII056.opLdQZ.1000319/solution.js) | Easy  |
-| 剑指OfferII057 | 值和下标之差都在给定的范围内 |  | Medium  |
-| 剑指OfferII058 | 日程表 | [TypeScript](./src/剑指OfferII058.fi9suh.1000322/solution.ts) | Medium  |
-| 剑指OfferII059 | 数据流的第 K 大数值 | [JavaScript](./src/剑指OfferII059.jBjn9C.1000323/solution.js) | Easy  |
-| 剑指OfferII060 | 出现频率最高的 k 个数字 |  | Medium  |
-| 剑指OfferII061 | 和最小的 k 个数对 | [TypeScript](./src/剑指OfferII061.qn8gGX.1000326/solution.ts) | Medium  |
-| 剑指OfferII062 | 实现前缀树 | [TypeScript](./src/剑指OfferII062.QC3q1f.1000325/solution.ts) | Medium  |
-| 剑指OfferII063 | 替换单词 | [TypeScript](./src/剑指OfferII063.UhWRSj.1000327/solution.ts) | Medium  |
-| 剑指OfferII064 | 神奇的字典 |  | Medium  |
-| 剑指OfferII065 | 最短的单词编码 |  | Medium  |
-| 剑指OfferII066 | 单词之和 | [TypeScript](./src/剑指OfferII066.z1R5dt.1000330/solution.ts) | Medium  |
-| 剑指OfferII067 | 最大的异或 |  | Medium  |
-| 剑指OfferII068 | 查找插入位置 | [JavaScript](./src/剑指OfferII068.N6YdxV.1000332/solution.js) | Easy  |
-| 剑指OfferII069 | 山峰数组的顶部 | [JavaScript](./src/剑指OfferII069.B1IidL.1000333/solution.js) | Easy  |
-| 剑指OfferII070 | 排序数组中只出现一次的数字 | [JavaScript](./src/剑指OfferII070.skFtm2.1000334/solution.js) [TypeScript](./src/剑指OfferII070.skFtm2.1000334/solution.ts) | Medium  |
-| 剑指OfferII071 | 按权重生成随机数 | [TypeScript](./src/剑指OfferII071.cuyjEf.1000335/solution.ts) | Medium  |
-| 剑指OfferII072 | 求平方根 | [JavaScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.js) [TypeScript](./src/剑指OfferII072.jJ0w9p.1000336/solution.ts) | Easy  |
-| 剑指OfferII073 | 狒狒吃香蕉 | [JavaScript](./src/剑指OfferII073.nZZqjQ.1000337/solution.js) | Medium  |
-| 剑指OfferII074 | 合并区间 | [TypeScript](./src/剑指OfferII074.SsGoHC.1000338/solution.ts) | Medium  |
-| 剑指OfferII075 | 数组相对排序 | [JavaScript](./src/剑指OfferII075.0H97ZC.1000339/solution.js) [TypeScript](./src/剑指OfferII075.0H97ZC.1000339/solution.ts) | Easy  |
-| 剑指OfferII076 | 数组中的第 k 大的数字 |  | Medium  |
-| 剑指OfferII077 | 链表排序 | [TypeScript](./src/剑指OfferII077.7WHec2.1000341/solution.ts) | Medium  |
-| 剑指OfferII078 | 合并排序链表 | [TypeScript](./src/剑指OfferII078.vvXgSW.1000342/solution.ts) | Hard  |
-| 剑指OfferII079 | 所有子集 | [JavaScript](./src/剑指OfferII079.TVdhkn.1000343/solution.js) [TypeScript](./src/剑指OfferII079.TVdhkn.1000343/solution.ts) | Medium  |
-| 剑指OfferII080 | 含有 k 个元素的组合 | [JavaScript](./src/剑指OfferII080.uUsW3B.1000344/solution.js) [TypeScript](./src/剑指OfferII080.uUsW3B.1000344/solution.ts) | Medium  |
-| 剑指OfferII081 | 允许重复选择元素的组合 | [JavaScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.js) [TypeScript](./src/剑指OfferII081.Ygoe9J.1000229/solution.ts) | Medium  |
-| 剑指OfferII082 | 含有重复元素集合的组合 | [JavaScript](./src/剑指OfferII082.4sjJUc.1000232/solution.js) [TypeScript](./src/剑指OfferII082.4sjJUc.1000232/solution.ts) | Medium  |
-| 剑指OfferII083 | 没有重复元素集合的全排列 | [JavaScript](./src/剑指OfferII083.VvJkup.1000234/solution.js) [TypeScript](./src/剑指OfferII083.VvJkup.1000234/solution.ts) | Medium  |
-| 剑指OfferII084 | 含有重复元素集合的全排列  | [JavaScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.js) [TypeScript](./src/剑指OfferII084.7p8L0Z.1000235/solution.ts) | Medium  |
-| 剑指OfferII085 | 生成匹配的括号 | [JavaScript](./src/剑指OfferII085.IDBivT.1000238/solution.js) [TypeScript](./src/剑指OfferII085.IDBivT.1000238/solution.ts) | Medium  |
-| 剑指OfferII086 | 分割回文子字符串 |  | Medium  |
-| 剑指OfferII087 | 复原 IP  |  | Medium  |
-| 剑指OfferII088 | 爬楼梯的最少成本 | [JavaScript](./src/剑指OfferII088.GzCJIP.1000243/solution.js) [TypeScript](./src/剑指OfferII088.GzCJIP.1000243/solution.ts) | Easy  |
-| 剑指OfferII089 | 房屋偷盗 | [JavaScript](./src/剑指OfferII089.Gu0c2T.1000245/solution.js) | Medium  |
-| 剑指OfferII090 | 环形房屋偷盗 | [TypeScript](./src/剑指OfferII090.PzWKhm.1000266/solution.ts) | Medium  |
-| 剑指OfferII091 | 粉刷房子 |  | Medium  |
-| 剑指OfferII092 | 翻转字符 | [JavaScript](./src/剑指OfferII092.cyJERH.1000269/solution.js) [TypeScript](./src/剑指OfferII092.cyJERH.1000269/solution.ts) | Medium  |
-| 剑指OfferII093 | 最长斐波那契数列 |  | Medium  |
-| 剑指OfferII094 | 最少回文分割 |  | Hard  |
-| 剑指OfferII095 | 最长公共子序列 | [TypeScript](./src/剑指OfferII095.qJnOS7.1000274/solution.ts) | Medium  |
-| 剑指OfferII096 | 字符串交织 |  | Medium  |
-| 剑指OfferII097 | 子序列的数目 |  | Hard  |
-| 剑指OfferII098 | 路径的数目 | [JavaScript](./src/剑指OfferII098.2AoeFn.1000345/solution.js) [TypeScript](./src/剑指OfferII098.2AoeFn.1000345/solution.ts) | Medium  |
-| 剑指OfferII099 | 最小路径之和 | [JavaScript](./src/剑指OfferII099.0i0mDW.1000285/solution.js) [TypeScript](./src/剑指OfferII099.0i0mDW.1000285/solution.ts) | Medium  |
-| 剑指OfferII100 | 三角形中最小路径之和 | [JavaScript](./src/剑指OfferII100.IlPe0q.1000286/solution.js) [TypeScript](./src/剑指OfferII100.IlPe0q.1000286/solution.ts) | Medium  |
-| 剑指OfferII101 | 分割等和子集 | [JavaScript](./src/剑指OfferII101.NUPfPr.1000287/solution.js) [TypeScript](./src/剑指OfferII101.NUPfPr.1000287/solution.ts) | Easy  |
-| 剑指OfferII102 | 加减的目标值 | [TypeScript](./src/剑指OfferII102.YaVDxD.1000288/solution.ts) | Medium  |
-| 剑指OfferII103 | 最少的硬币数目 | [JavaScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.js) [TypeScript](./src/剑指OfferII103.gaM7Ch.1000289/solution.ts) | Medium  |
-| 剑指OfferII104 | 排列的数目 | [TypeScript](./src/剑指OfferII104.D0F0SV.1000290/solution.ts) | Medium  |
-| 剑指OfferII105 | 岛屿的最大面积 | [JavaScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.js) [TypeScript](./src/剑指OfferII105.ZL6zAn.1000291/solution.ts) | Medium  |
-| 剑指OfferII106 | 二分图 | [JavaScript](./src/剑指OfferII106.vEAB3K.1000294/solution.js) [TypeScript](./src/剑指OfferII106.vEAB3K.1000294/solution.ts) | Medium  |
-| 剑指OfferII107 | 矩阵中的距离 | [JavaScript](./src/剑指OfferII107.2bCMpM.1000296/solution.js) [TypeScript](./src/剑指OfferII107.2bCMpM.1000296/solution.ts) | Medium  |
-| 剑指OfferII108 | 单词演变 |  | Hard  |
-| 剑指OfferII109 | 开密码锁 |  | Medium  |
-| 剑指OfferII110 | 所有路径 | [JavaScript](./src/剑指OfferII110.bP4bmD.1000303/solution.js) [TypeScript](./src/剑指OfferII110.bP4bmD.1000303/solution.ts) | Medium  |
-| 剑指OfferII111 | 计算除法 | [JavaScript](./src/剑指OfferII111.vlzXQL.1000305/solution.js) [TypeScript](./src/剑指OfferII111.vlzXQL.1000305/solution.ts) | Medium  |
-| 剑指OfferII112 | 最长递增路径 |  | Hard  |
-| 剑指OfferII113 | 课程顺序 | [JavaScript](./src/剑指OfferII113.QA2IGt.1000310/solution.js) [TypeScript](./src/剑指OfferII113.QA2IGt.1000310/solution.ts) | Medium  |
-| 剑指OfferII114 | 外星文字典 | [JavaScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.js) [TypeScript](./src/剑指OfferII114.Jf1JuT.1000312/solution.ts) | Hard  |
-| 剑指OfferII115 | 重建序列 |  | Medium  |
-| 剑指OfferII116 | 省份数量 | [JavaScript](./src/剑指OfferII116.bLyHh0.1000346/solution.js) | Medium  |
-| 剑指OfferII117 | 相似的字符串 |  | Hard  |
-| 剑指OfferII118 | 多余的边 |  | Medium  |
-| 剑指OfferII119 | 最长连续序列 |  | Medium  |
+| LCR120 | 寻找文件副本 |  | Easy  |
+| LCR121 | 寻找目标值 - 二维数组 |  | Medium  |
+| LCR122 | 路径加密 |  | Easy  |
+| LCR123 | 图书整理 I |  | Easy  |
+| LCR124 | 推理二叉树 |  | Medium  |
+| LCR125 | 图书整理 II |  | Easy  |
+| LCR126 | 斐波那契数 |  | Easy  |
+| LCR127 | 跳跃训练 |  | Easy  |
+| LCR128 | 库存管理 I |  | Easy  |
+| LCR129 | 字母迷宫 |  | Medium  |
+| LCR130 | 衣橱整理 |  | Medium  |
+| LCR131 | 砍竹子 I |  | Medium  |
+| LCR132 | 砍竹子 II |  | Medium  |
+| LCR133 | 位 1 的个数 |  | Easy  |
+| LCR134 | Pow(x, n) |  | Medium  |
+| LCR135 | 报数 |  | Easy  |
+| LCR136 | 删除链表的节点 |  | Easy  |
+| LCR137 | 模糊搜索验证 |  | Hard  |
+| LCR138 | 有效数字 |  | Medium  |
+| LCR139 | 训练计划 I |  | Easy  |
+| LCR140 | 训练计划 II |  | Easy  |
+| LCR141 | 训练计划 III |  | Easy  |
+| LCR142 | 训练计划 IV |  | Easy  |
+| LCR143 | 子结构判断 |  | Medium  |
+| LCR144 | 翻转二叉树 |  | Easy  |
+| LCR145 | 判断对称二叉树 |  | Easy  |
+| LCR146 | 螺旋遍历二维数组 |  | Easy  |
+| LCR147 | 最小栈 |  | Easy  |
+| LCR148 | 验证图书取出顺序 |  | Medium  |
+| LCR149 | 彩灯装饰记录 I |  | Medium  |
+| LCR150 | 彩灯装饰记录 II |  | Easy  |
+| LCR151 | 彩灯装饰记录 III |  | Medium  |
+| LCR152 | 验证二叉搜索树的后序遍历序列 |  | Medium  |
+| LCR153 | 二叉树中和为目标值的路径 |  | Medium  |
+| LCR154 | 随机链表的复制 |  | Medium  |
+| LCR155 | 将二叉搜索树转化为排序的双向链表 |  | Medium  |
+| LCR156 | 序列化与反序列化二叉树 |  | Hard  |
+| LCR157 | 套餐内商品的排列顺序 |  | Medium  |
+| LCR158 | 库存管理 II |  | Easy  |
+| LCR159 | 库存管理 III |  | Easy  |
+| LCR160 | 数据流中的中位数 |  | Hard  |
+| LCR161 | 连续天数的最高销售额 |  | Easy  |
+| LCR162 | 数字 1 的个数 |  | Hard  |
+| LCR163 | 找到第 k 位数字 |  | Medium  |
+| LCR164 | 破解闯关密码 |  | Medium  |
+| LCR165 | 解密数字 |  | Medium  |
+| LCR166 | 珠宝的最高价值 |  | Medium  |
+| LCR167 | 招式拆解 I |  | Medium  |
+| LCR168 | 丑数 |  | Medium  |
+| LCR169 | 招式拆解 II |  | Easy  |
+| LCR170 | 交易逆序对的总数 |  | Hard  |
+| LCR171 | 训练计划 V |  | Easy  |
+| LCR172 | 统计目标成绩的出现次数 |  | Easy  |
+| LCR173 | 点名 |  | Easy  |
+| LCR174 | 寻找二叉搜索树中的目标节点 |  | Easy  |
+| LCR175 | 计算二叉树的深度 |  | Easy  |
+| LCR176 | 判断是否为平衡二叉树 |  | Easy  |
+| LCR177 | 撞色搭配 |  | Medium  |
+| LCR178 | 训练计划 VI |  | Medium  |
+| LCR179 | 查找总价格为目标值的两个商品 |  | Easy  |
+| LCR180 | 文件组合 |  | Easy  |
+| LCR181 | 字符串中的单词反转 |  | Easy  |
+| LCR182 | 动态口令 |  | Easy  |
+| LCR183 | 望远镜中最高的海拔 |  | Hard  |
+| LCR184 | 设计自助结算系统 |  | Medium  |
+| LCR185 | 统计结果概率 |  | Medium  |
+| LCR186 | 文物朝代判断 |  | Easy  |
+| LCR187 | 破冰游戏 |  | Easy  |
+| LCR188 | 买卖芯片的最佳时机 |  | Medium  |
+| LCR189 | 设计机械累加器 |  | Medium  |
+| LCR190 | 加密运算 |  | Easy  |
+| LCR191 | 按规则计算统计结果 |  | Medium  |
+| LCR192 | 把字符串转换成整数 (atoi) |  | Medium  |
+| LCR193 | 求二叉搜索树的最近公共祖先 |  | Easy  |
+| LCR194 | 寻找二叉树的最近公共祖先 |  | Easy  |
 | 面试题01_01 | Is Unique LCCI | [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
 | 面试题01_02 | Check Permutation LCCI | [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
 | 面试题01_03 | String to URL LCCI | [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/solution.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/solution.ts) | Easy  |
@@ -3170,3 +3223,122 @@
 | LCS01 | 下载插件 | [TypeScript](./src/LCS01.Ju9Xwi.1000225/solution.ts) | Easy  |
 | LCS02 | 完成一半题目 | [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
 | LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
+| LCR001 | 两数相除 |  | Easy  |
+| LCR002 | 二进制求和 |  | Easy  |
+| LCR003 | 比特位计数 |  | Easy  |
+| LCR004 | 只出现一次的数字 II |  | Medium  |
+| LCR005 | 最大单词长度乘积 |  | Medium  |
+| LCR006 | 两数之和 II - 输入有序数组 |  | Easy  |
+| LCR007 | 三数之和 |  | Medium  |
+| LCR008 | 长度最小的子数组 |  | Medium  |
+| LCR009 | 乘积小于 K 的子数组 |  | Medium  |
+| LCR010 | 和为 K 的子数组 |  | Medium  |
+| LCR011 | 连续数组 |  | Medium  |
+| LCR012 | 寻找数组的中心下标 |  | Easy  |
+| LCR013 | 二维区域和检索 - 矩阵不可变 |  | Medium  |
+| LCR014 | 字符串的排列 |  | Medium  |
+| LCR015 | 找到字符串中所有字母异位词 |  | Medium  |
+| LCR016 | 无重复字符的最长子串 |  | Medium  |
+| LCR017 | 最小覆盖子串 |  | Hard  |
+| LCR018 | 验证回文串 |  | Easy  |
+| LCR019 | 验证回文串 II |  | Easy  |
+| LCR020 | 回文子串 |  | Medium  |
+| LCR021 | 删除链表的倒数第 N 个结点 |  | Medium  |
+| LCR022 | 环形链表 II |  | Medium  |
+| LCR023 | 相交链表 |  | Easy  |
+| LCR024 | 反转链表 |  | Easy  |
+| LCR025 | 两数相加 II |  | Medium  |
+| LCR026 | 重排链表 |  | Medium  |
+| LCR027 | 回文链表 |  | Easy  |
+| LCR028 | 扁平化多级双向链表 |  | Medium  |
+| LCR029 | 循环有序列表的插入 |  | Medium  |
+| LCR030 | O(1) 时间插入、删除和获取随机元素 |  | Medium  |
+| LCR031 | LRU 缓存 |  | Medium  |
+| LCR032 | 有效的字母异位词 |  | Easy  |
+| LCR033 | 字母异位词分组 |  | Medium  |
+| LCR034 | 验证外星语词典 |  | Easy  |
+| LCR035 | 最小时间差 |  | Medium  |
+| LCR036 | 逆波兰表达式求值 |  | Medium  |
+| LCR037 | 行星碰撞 |  | Medium  |
+| LCR038 | 每日温度 |  | Medium  |
+| LCR039 | 柱状图中最大的矩形 |  | Hard  |
+| LCR040 | 最大矩形 |  | Hard  |
+| LCR041 | 数据流中的移动平均值 |  | Easy  |
+| LCR042 | 最近的请求次数 |  | Easy  |
+| LCR043 | 完全二叉树插入器 |  | Medium  |
+| LCR044 | 在每个树行中找最大值 |  | Medium  |
+| LCR045 | 找树左下角的值 |  | Medium  |
+| LCR046 | 二叉树的右视图 |  | Medium  |
+| LCR047 | 二叉树剪枝 |  | Medium  |
+| LCR048 | 二叉树的序列化与反序列化 |  | Hard  |
+| LCR049 | 求根节点到叶节点数字之和 |  | Medium  |
+| LCR050 | 路径总和 III |  | Medium  |
+| LCR051 | 二叉树中的最大路径和 |  | Hard  |
+| LCR052 | 递增顺序搜索树 |  | Easy  |
+| LCR053 | 二叉搜索树中的中序后继 |  | Medium  |
+| LCR054 | 把二叉搜索树转换为累加树 |  | Medium  |
+| LCR055 | 二叉搜索树迭代器 |  | Medium  |
+| LCR056 | 两数之和 IV - 输入二叉搜索树 |  | Easy  |
+| LCR057 | 存在重复元素 III |  | Medium  |
+| LCR058 | 我的日程安排表 I |  | Medium  |
+| LCR059 | 数据流中的第 K 大元素 |  | Easy  |
+| LCR060 | 前 K 个高频元素 |  | Medium  |
+| LCR061 | 查找和最小的 K 对数字 |  | Medium  |
+| LCR062 | 实现 Trie (前缀树) |  | Medium  |
+| LCR063 | 单词替换 |  | Medium  |
+| LCR064 | 实现一个魔法字典 |  | Medium  |
+| LCR065 | 单词的压缩编码 |  | Medium  |
+| LCR066 |  键值映射 |  | Medium  |
+| LCR067 | 数组中两个数的最大异或值 |  | Medium  |
+| LCR068 | 搜索插入位置 |  | Easy  |
+| LCR069 | 山脉数组的峰顶索引 |  | Easy  |
+| LCR070 | 有序数组中的单一元素 |  | Medium  |
+| LCR071 | 按权重随机选择 |  | Medium  |
+| LCR072 | x 的平方根 |  | Easy  |
+| LCR073 | 爱吃香蕉的狒狒 |  | Medium  |
+| LCR074 | 合并区间 |  | Medium  |
+| LCR075 | 数组的相对排序 |  | Easy  |
+| LCR076 | 数组中的第 K 个最大元素 |  | Medium  |
+| LCR077 | 排序链表 |  | Medium  |
+| LCR078 | 合并 K 个升序链表 |  | Hard  |
+| LCR079 | 子集 |  | Medium  |
+| LCR080 | 组合 |  | Medium  |
+| LCR081 | 组合总和 |  | Medium  |
+| LCR082 | 组合总和 II |  | Medium  |
+| LCR083 | 全排列 |  | Medium  |
+| LCR084 | 全排列 II  |  | Medium  |
+| LCR085 | 括号生成 |  | Medium  |
+| LCR086 | 分割回文串 |  | Medium  |
+| LCR087 | 复原 IP 地址 |  | Medium  |
+| LCR088 | 使用最小花费爬楼梯 |  | Easy  |
+| LCR089 | 打家劫舍 |  | Medium  |
+| LCR090 | 打家劫舍 II |  | Medium  |
+| LCR091 | 粉刷房子 |  | Medium  |
+| LCR092 | 将字符串翻转到单调递增 |  | Medium  |
+| LCR093 | 最长的斐波那契子序列的长度 |  | Medium  |
+| LCR094 | 分割回文串 II |  | Hard  |
+| LCR095 | 最长公共子序列 |  | Medium  |
+| LCR096 | 交错字符串 |  | Medium  |
+| LCR097 | 不同的子序列 |  | Hard  |
+| LCR098 | 不同路径 |  | Medium  |
+| LCR099 | 最小路径和 |  | Medium  |
+| LCR100 | 三角形最小路径和 |  | Medium  |
+| LCR101 | 分割等和子集 |  | Easy  |
+| LCR102 | 目标和 |  | Medium  |
+| LCR103 | 零钱兑换 |  | Medium  |
+| LCR104 | 组合总和 Ⅳ |  | Medium  |
+| LCR105 | 岛屿的最大面积 |  | Medium  |
+| LCR106 | 判断二分图 |  | Medium  |
+| LCR107 | 01 矩阵 |  | Medium  |
+| LCR108 | 单词接龙 |  | Hard  |
+| LCR109 | 打开转盘锁 |  | Medium  |
+| LCR110 | 所有可能的路径 |  | Medium  |
+| LCR111 | 除法求值 |  | Medium  |
+| LCR112 | 矩阵中的最长递增路径 |  | Hard  |
+| LCR113 | 课程表 II |  | Medium  |
+| LCR114 | 火星词典 |  | Hard  |
+| LCR115 | 序列重建 |  | Medium  |
+| LCR116 | 省份数量 |  | Medium  |
+| LCR117 | 相似字符串组 |  | Hard  |
+| LCR118 | 冗余连接 |  | Medium  |
+| LCR119 | 最长连续序列 |  | Medium  |
