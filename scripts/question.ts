@@ -36,6 +36,8 @@ function writeLocalQuestion (json:ProblemResponse) {
     const lcci:Question[] = [];
     const lcs:Question[] = [];
 
+    const lcr:Question[] = [];
+
     questionList.forEach((question) => {
         const index = question.index;
         const title_slug = question.title_slug;
@@ -51,6 +53,8 @@ function writeLocalQuestion (json:ProblemResponse) {
             lcs.push(question);
         } else if (index.startsWith(lcof2FlagStr)) {
             lcof2.push(question);
+        } else if (index.startsWith('LCR')) {
+            lcr.push(question);
         } else {
             console.log(question);
         }
@@ -94,6 +98,12 @@ function writeLocalQuestion (json:ProblemResponse) {
         return indexA - indexB;
     });
 
+    lcr.sort((a, b) => {
+        const indexA = +a.index.split(' ')[1];
+        const indexB = +b.index.split(' ')[1];
+        return indexA - indexB;
+    });
+
     const sortedList = [
         ...algorithms,
         ...lcp,
@@ -101,6 +111,7 @@ function writeLocalQuestion (json:ProblemResponse) {
         ...lcof2,
         ...lcci,
         ...lcs,
+        ...lcr,
     ];
 
     sortedList.forEach((data) => {
