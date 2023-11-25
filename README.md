@@ -2823,16 +2823,16 @@
 | 2803 | Factorial Generator |  | Easy  |
 | 2804 | Array Prototype ForEach |  | Easy  |
 | 2805 | Custom Interval |  | Medium  |
-| 2806 | Account Balance After Rounded Purchase |  | Easy  |
+| 2806 | Account Balance After Rounded Purchase | [TypeScript](./src/2806.account-balance-after-rounded-purchase.2955/solution.ts) | Easy  |
 | 2807 | Insert Greatest Common Divisors in Linked List |  | Medium  |
 | 2808 | Minimum Seconds to Equalize a Circular Array |  | Medium  |
 | 2809 | Minimum Time to Make Array Sum At Most x |  | Hard  |
-| 2810 | Faulty Keyboard |  | Easy  |
+| 2810 | Faulty Keyboard | [TypeScript](./src/2810.faulty-keyboard.2886/solution.ts) | Easy  |
 | 2811 | Check if it is Possible to Split Array |  | Medium  |
 | 2812 | Find the Safest Path in a Grid |  | Medium  |
 | 2813 | Maximum Elegance of a K-Length Subsequence |  | Hard  |
 | 2814 | Minimum Time Takes to Reach Destination Without Drowning |  | Hard  |
-| 2815 | Max Pair Sum in an Array |  | Easy  |
+| 2815 | Max Pair Sum in an Array | [TypeScript](./src/2815.max-pair-sum-in-an-array.2902/solution.ts) | Easy  |
 | 2816 | Double a Number Represented as a Linked List |  | Medium  |
 | 2817 | Minimum Absolute Difference Between Elements With Constraint |  | Medium  |
 | 2818 | Apply Operations to Maximize Score |  | Hard  |
@@ -2841,11 +2841,11 @@
 | 2821 | Delay the Resolution of Each Promise |  | Easy  |
 | 2822 | Inversion of Object |  | Easy  |
 | 2823 | Deep Object Filter |  | Medium  |
-| 2824 | Count Pairs Whose Sum is Less than Target |  | Easy  |
+| 2824 | Count Pairs Whose Sum is Less than Target | [TypeScript](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.ts) | Easy  |
 | 2825 | Make String a Subsequence Using Cyclic Increments |  | Medium  |
 | 2826 | Sorting Three Groups |  | Medium  |
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
-| 2828 | Check if a String Is an Acronym of Words |  | Easy  |
+| 2828 | Check if a String Is an Acronym of Words | [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
 | 2829 | Determine the Minimum Sum of a k-avoiding Array |  | Medium  |
 | 2830 | Maximize the Profit as the Salesman |  | Medium  |
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
@@ -2954,6 +2954,11 @@
 | 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
 | 2935 | Maximum Strong Pair XOR II |  | Hard  |
 | 2936 | Number of Equal Numbers Blocks |  | Medium  |
+| 2937 | Make Three Strings Equal |  | Easy  |
+| 2938 | Separate Black and White Balls |  | Medium  |
+| 2939 | Maximum Xor Product |  | Medium  |
+| 2940 | Find Building Where Alice and Bob Can Meet |  | Hard  |
+| 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
