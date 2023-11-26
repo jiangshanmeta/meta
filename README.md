@@ -897,7 +897,7 @@
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/solution.js) | Medium  |
 | 0878 | Nth Magical Number |  | Hard  |
 | 0879 | Profitable Schemes |  | Hard  |
-| 0880 | Decoded String at Index |  | Medium  |
+| 0880 | Decoded String at Index | [TypeScript](./src/0880.decoded-string-at-index.916/solution.ts) | Medium  |
 | 0881 | Boats to Save People | [JavaScript](./src/0881.boats-to-save-people.917/solution.js) | Medium  |
 | 0882 | Reachable Nodes In Subdivided Graph |  | Hard  |
 | 0883 | Projection Area of 3D Shapes | [JavaScript](./src/0883.projection-area-of-3d-shapes.919/solution.js) | Easy  |
@@ -1223,7 +1223,7 @@
 | 1203 | Sort Items by Groups Respecting Dependencies |  | Hard  |
 | 1204 | Last Person to Fit in the Bus |  | Medium  |
 | 1205 | Monthly Transactions II |  | Medium  |
-| 1206 | Design Skiplist |  | Hard  |
+| 1206 | Design Skiplist | [TypeScript](./src/1206.design-skiplist.1337/solution.ts) | Hard  |
 | 1207 | Unique Number of Occurrences | [JavaScript](./src/1207.unique-number-of-occurrences.1319/solution.js) [TypeScript](./src/1207.unique-number-of-occurrences.1319/solution.ts) | Easy  |
 | 1208 | Get Equal Substrings Within Budget | [JavaScript](./src/1208.get-equal-substrings-within-budget.1321/solution.js) [TypeScript](./src/1208.get-equal-substrings-within-budget.1321/solution.ts) | Medium  |
 | 1209 | Remove All Adjacent Duplicates in String II | [JavaScript](./src/1209.remove-all-adjacent-duplicates-in-string-ii.1320/solution.js) | Medium  |
@@ -1894,7 +1894,7 @@
 | 1874 | Minimize Product Sum of Two Arrays |  | Medium  |
 | 1875 | Group Employees of the Same Salary |  | Medium  |
 | 1876 | Substrings of Size Three with Distinct Characters | [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.js) [TypeScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.ts) | Easy  |
-| 1877 | Minimize Maximum Pair Sum in Array |  | Medium  |
+| 1877 | Minimize Maximum Pair Sum in Array | [TypeScript](./src/1877.minimize-maximum-pair-sum-in-array.1988/solution.ts) | Medium  |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid |  | Medium  |
 | 1879 | Minimum XOR Sum of Two Arrays |  | Hard  |
 | 1880 | Check if Word Equals Summation of Two Words | [JavaScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/solution.js) [TypeScript](./src/1880.check-if-word-equals-summation-of-two-words.2010/solution.ts) | Easy  |
@@ -2291,13 +2291,13 @@
 | 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
 | 2272 | Substring With Largest Variance |  | Hard  |
 | 2273 | Find Resultant Array After Removing Anagrams | [JavaScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.js) [TypeScript](./src/2273.find-resultant-array-after-removing-anagrams.1353/solution.ts) | Easy  |
-| 2274 | Maximum Consecutive Floors Without Special Floors |  | Medium  |
+| 2274 | Maximum Consecutive Floors Without Special Floors | [TypeScript](./src/2274.maximum-consecutive-floors-without-special-floors.2355/solution.ts) | Medium  |
 | 2275 | Largest Combination With Bitwise AND Greater Than Zero | [TypeScript](./src/2275.largest-combination-with-bitwise-and-greater-than-zero.2356/solution.ts) | Medium  |
 | 2276 | Count Integers in Intervals | [TypeScript](./src/2276.count-integers-in-intervals.2357/solution.ts) | Hard  |
 | 2277 | Closest Node to Path in Tree |  | Hard  |
 | 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [TypeScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.2366/solution.ts) | Medium  |
-| 2280 | Minimum Lines to Represent a Line Chart |  | Medium  |
+| 2280 | Minimum Lines to Represent a Line Chart | [TypeScript](./src/2280.minimum-lines-to-represent-a-line-chart.2367/solution.ts) | Medium  |
 | 2281 | Sum of Total Strength of Wizards |  | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.ts) | Easy  |
