@@ -2334,7 +2334,7 @@
 | 2314 | The First Day of the Maximum Recorded Degree in Each City |  | Medium  |
 | 2315 | Count Asterisks | [JavaScript](./src/2315.count-asterisks.2401/solution.js) [TypeScript](./src/2315.count-asterisks.2401/solution.ts) | Easy  |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [JavaScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.js) [TypeScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.ts) | Medium  |
-| 2317 | Maximum XOR After Operations  |  | Medium  |
+| 2317 | Maximum XOR After Operations  | [TypeScript](./src/2317.maximum-xor-after-operations.2402/solution.ts) | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
 | 2319 | Check if Matrix Is X-Matrix | [JavaScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.js) [TypeScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.ts) | Easy  |
 | 2320 | Count Number of Ways to Place Houses |  | Medium  |
@@ -2726,7 +2726,7 @@
 | 2706 | Buy Two Chocolates | [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
 | 2707 | Extra Characters in a String |  | Medium  |
 | 2708 | Maximum Strength of a Group |  | Medium  |
-| 2709 | Greatest Common Divisor Traversal |  | Hard  |
+| 2709 | Greatest Common Divisor Traversal | [TypeScript](./src/2709.greatest-common-divisor-traversal.2827/solution.ts) | Hard  |
 | 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
 | 2711 | Difference of Number of Distinct Values on Diagonals | [TypeScript](./src/2711.difference-of-number-of-distinct-values-on-diagonals.2801/solution.ts) | Medium  |
 | 2712 | Minimum Cost to Make All Characters Equal |  | Medium  |
@@ -2802,7 +2802,7 @@
 | 2782 | Number of Unique Categories |  | Medium  |
 | 2783 | Flight Occupancy and Waitlist Analysis |  | Medium  |
 | 2784 | Check if Array is Good | [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
-| 2785 | Sort Vowels in a String |  | Medium  |
+| 2785 | Sort Vowels in a String | [TypeScript](./src/2785.sort-vowels-in-a-string.2887/solution.ts) | Medium  |
 | 2786 | Visit Array Positions to Maximize Score |  | Medium  |
 | 2787 | Ways to Express an Integer as Sum of Powers |  | Medium  |
 | 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
@@ -2824,7 +2824,7 @@
 | 2804 | Array Prototype ForEach |  | Easy  |
 | 2805 | Custom Interval |  | Medium  |
 | 2806 | Account Balance After Rounded Purchase | [TypeScript](./src/2806.account-balance-after-rounded-purchase.2955/solution.ts) | Easy  |
-| 2807 | Insert Greatest Common Divisors in Linked List |  | Medium  |
+| 2807 | Insert Greatest Common Divisors in Linked List | [TypeScript](./src/2807.insert-greatest-common-divisors-in-linked-list.2903/solution.ts) | Medium  |
 | 2808 | Minimum Seconds to Equalize a Circular Array |  | Medium  |
 | 2809 | Minimum Time to Make Array Sum At Most x |  | Hard  |
 | 2810 | Faulty Keyboard | [TypeScript](./src/2810.faulty-keyboard.2886/solution.ts) | Easy  |
@@ -2833,7 +2833,7 @@
 | 2813 | Maximum Elegance of a K-Length Subsequence |  | Hard  |
 | 2814 | Minimum Time Takes to Reach Destination Without Drowning |  | Hard  |
 | 2815 | Max Pair Sum in an Array | [TypeScript](./src/2815.max-pair-sum-in-an-array.2902/solution.ts) | Easy  |
-| 2816 | Double a Number Represented as a Linked List |  | Medium  |
+| 2816 | Double a Number Represented as a Linked List | [TypeScript](./src/2816.double-a-number-represented-as-a-linked-list.2871/solution.ts) | Medium  |
 | 2817 | Minimum Absolute Difference Between Elements With Constraint |  | Medium  |
 | 2818 | Apply Operations to Maximize Score |  | Hard  |
 | 2819 | Minimum Relative Loss After Buying Chocolates |  | Hard  |
@@ -2959,6 +2959,14 @@
 | 2939 | Maximum Xor Product |  | Medium  |
 | 2940 | Find Building Where Alice and Bob Can Meet |  | Hard  |
 | 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
+| 2942 | Find Words Containing Character |  | Easy  |
+| 2943 | Maximize Area of Square Hole in Grid |  | Medium  |
+| 2944 | Minimum Number of Coins for Fruits |  | Medium  |
+| 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
+| 2946 | Matrix Similarity After Cyclic Shifts |  | Easy  |
+| 2947 | Count Beautiful Substrings I |  | Medium  |
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
+| 2949 | Count Beautiful Substrings II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
