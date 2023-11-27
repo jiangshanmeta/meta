@@ -20587,6 +20587,62 @@
         "difficulty": 3
     },
     {
+        "id": 3194,
+        "index": "2942",
+        "title": "Find Words Containing Character",
+        "title_slug": "find-words-containing-character",
+        "difficulty": 1
+    },
+    {
+        "id": 3214,
+        "index": "2943",
+        "title": "Maximize Area of Square Hole in Grid",
+        "title_slug": "maximize-area-of-square-hole-in-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 3209,
+        "index": "2944",
+        "title": "Minimum Number of Coins for Fruits",
+        "title_slug": "minimum-number-of-coins-for-fruits",
+        "difficulty": 2
+    },
+    {
+        "id": 3211,
+        "index": "2945",
+        "title": "Find Maximum Non-decreasing Array Length",
+        "title_slug": "find-maximum-non-decreasing-array-length",
+        "difficulty": 3
+    },
+    {
+        "id": 3215,
+        "index": "2946",
+        "title": "Matrix Similarity After Cyclic Shifts",
+        "title_slug": "matrix-similarity-after-cyclic-shifts",
+        "difficulty": 1
+    },
+    {
+        "id": 3210,
+        "index": "2947",
+        "title": "Count Beautiful Substrings I",
+        "title_slug": "count-beautiful-substrings-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3219,
+        "index": "2948",
+        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+        "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 3208,
+        "index": "2949",
+        "title": "Count Beautiful Substrings II",
+        "title_slug": "count-beautiful-substrings-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
