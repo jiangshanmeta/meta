@@ -2850,22 +2850,22 @@
 | 2830 | Maximize the Profit as the Salesman |  | Medium  |
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
 | 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
-| 2833 | Furthest Point From Origin |  | Easy  |
+| 2833 | Furthest Point From Origin | [TypeScript](./src/2833.furthest-point-from-origin.3019/solution.ts) | Easy  |
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array |  | Medium  |
 | 2835 | Minimum Operations to Form Subsequence With Target Sum |  | Hard  |
 | 2836 | Maximize Value of Function in a Ball Passing Game |  | Hard  |
 | 2837 | Total Traveled Distance |  | Easy  |
 | 2838 | Maximum Coins Heroes Can Collect |  | Medium  |
-| 2839 | Check if Strings Can be Made Equal With Operations I |  | Easy  |
-| 2840 | Check if Strings Can be Made Equal With Operations II |  | Medium  |
+| 2839 | Check if Strings Can be Made Equal With Operations I | [TypeScript](./src/2839.check-if-strings-can-be-made-equal-with-operations-i.2999/solution.ts) | Easy  |
+| 2840 | Check if Strings Can be Made Equal With Operations II | [TypeScript](./src/2840.check-if-strings-can-be-made-equal-with-operations-ii.2978/solution.ts) | Medium  |
 | 2841 | Maximum Sum of Almost Unique Subarray |  | Medium  |
 | 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
-| 2843 |   Count Symmetric Integers |  | Easy  |
+| 2843 |   Count Symmetric Integers | [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
 | 2844 | Minimum Operations to Make a Special Number |  | Medium  |
 | 2845 | Count of Interesting Subarrays |  | Medium  |
 | 2846 | Minimum Edge Weight Equilibrium Queries in a Tree |  | Hard  |
 | 2847 | Smallest Number With Given Digit Product |  | Medium  |
-| 2848 | Points That Intersect With Cars |  | Easy  |
+| 2848 | Points That Intersect With Cars | [TypeScript](./src/2848.points-that-intersect-with-cars.3034/solution.ts) | Easy  |
 | 2849 | Determine if a Cell Is Reachable at a Given Time |  | Medium  |
 | 2850 | Minimum Moves to Spread Stones Over Grid |  | Medium  |
 | 2851 | String Transformation |  | Hard  |
