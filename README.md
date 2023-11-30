@@ -2061,7 +2061,7 @@
 | 2041 | Accepted Candidates From the Interviews |  | Medium  |
 | 2042 | Check if Numbers Are Ascending in a Sentence | [JavaScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.js) [TypeScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.ts) | Easy  |
 | 2043 | Simple Bank System | [JavaScript](./src/2043.simple-bank-system.2169/solution.js) | Medium  |
-| 2044 | Count Number of Maximum Bitwise-OR Subsets |  | Medium  |
+| 2044 | Count Number of Maximum Bitwise-OR Subsets | [TypeScript](./src/2044.count-number-of-maximum-bitwise-or-subsets.2170/solution.ts) | Medium  |
 | 2045 | Second Minimum Time to Reach Destination |  | Hard  |
 | 2046 | Sort Linked List Already Sorted Using Absolute Values |  | Medium  |
 | 2047 | Number of Valid Words in a Sentence | [JavaScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.js) [TypeScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.ts) | Easy  |
@@ -2872,21 +2872,21 @@
 | 2852 | Sum of Remoteness of All Cells |  | Medium  |
 | 2853 | Highest Salaries Difference |  | Easy  |
 | 2854 | Rolling Average Steps |  | Medium  |
-| 2855 | Minimum Right Shifts to Sort the Array |  | Easy  |
+| 2855 | Minimum Right Shifts to Sort the Array | [TypeScript](./src/2855.minimum-right-shifts-to-sort-the-array.3045/solution.ts) | Easy  |
 | 2856 | Minimum Array Length After Pair Removals |  | Medium  |
 | 2857 | Count Pairs of Points With Distance k |  | Medium  |
 | 2858 | Minimum Edge Reversals So Every Node Is Reachable |  | Hard  |
-| 2859 | Sum of Values at Indices With K Set Bits |  | Easy  |
+| 2859 | Sum of Values at Indices With K Set Bits | [TypeScript](./src/2859.sum-of-values-at-indices-with-k-set-bits.3093/solution.ts) | Easy  |
 | 2860 | Happy Students |  | Medium  |
 | 2861 | Maximum Number of Alloys |  | Medium  |
 | 2862 | Maximum Element-Sum of a Complete Subset of Indices |  | Hard  |
 | 2863 | Maximum Length of Semi-Decreasing Subarrays |  | Medium  |
-| 2864 | Maximum Odd Binary Number |  | Easy  |
+| 2864 | Maximum Odd Binary Number | [TypeScript](./src/2864.maximum-odd-binary-number.3055/solution.ts) | Easy  |
 | 2865 | Beautiful Towers I |  | Medium  |
 | 2866 | Beautiful Towers II |  | Medium  |
 | 2867 | Count Valid Paths in a Tree |  | Hard  |
 | 2868 | The Wording Game |  | Hard  |
-| 2869 | Minimum Operations to Collect Elements |  | Easy  |
+| 2869 | Minimum Operations to Collect Elements | [TypeScript](./src/2869.minimum-operations-to-collect-elements.3044/solution.ts) | Easy  |
 | 2870 | Minimum Number of Operations to Make Array Empty |  | Medium  |
 | 2871 | Split Array Into Maximum Number of Subarrays |  | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
