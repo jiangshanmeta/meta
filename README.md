@@ -2890,7 +2890,7 @@
 | 2870 | Minimum Number of Operations to Make Array Empty |  | Medium  |
 | 2871 | Split Array Into Maximum Number of Subarrays |  | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
-| 2873 | Maximum Value of an Ordered Triplet I |  | Easy  |
+| 2873 | Maximum Value of an Ordered Triplet I | [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
 | 2874 | Maximum Value of an Ordered Triplet II |  | Medium  |
 | 2875 | Minimum Size Subarray in Infinite Array |  | Medium  |
 | 2876 | Count Visited Nodes in a Directed Graph |  | Hard  |
@@ -2911,16 +2911,16 @@
 | 2891 | Method Chaining |  | Easy  |
 | 2892 | Minimizing Array After Replacing Pairs With Their Product |  | Medium  |
 | 2893 | Calculate Orders Within Each Interval |  | Medium  |
-| 2894 | Divisible and Non-divisible Sums Difference |  | Easy  |
-| 2895 | Minimum Processing Time |  | Medium  |
+| 2894 | Divisible and Non-divisible Sums Difference | [TypeScript](./src/2894.divisible-and-non-divisible-sums-difference.3172/solution.ts) | Easy  |
+| 2895 | Minimum Processing Time | [TypeScript](./src/2895.minimum-processing-time.3151/solution.ts) | Medium  |
 | 2896 | Apply Operations to Make Two Strings Equal |  | Medium  |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares |  | Hard  |
 | 2898 | Maximum Linear Stock Score |  | Medium  |
-| 2899 | Last Visited Integers |  | Easy  |
+| 2899 | Last Visited Integers | [TypeScript](./src/2899.last-visited-integers.3164/solution.ts) | Easy  |
 | 2900 | Longest Unequal Adjacent Groups Subsequence I |  | Medium  |
 | 2901 | Longest Unequal Adjacent Groups Subsequence II |  | Medium  |
 | 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
-| 2903 | Find Indices With Index and Value Difference I |  | Easy  |
+| 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String |  | Medium  |
 | 2905 | Find Indices With Index and Value Difference II |  | Medium  |
 | 2906 | Construct Product Matrix |  | Medium  |
