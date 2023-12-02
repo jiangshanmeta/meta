@@ -2777,12 +2777,12 @@
 | 2757 | Generate Circular Array Values |  | Medium  |
 | 2758 | Next Day |  | Easy  |
 | 2759 | Convert JSON String to Object |  | Hard  |
-| 2760 | Longest Even Odd Subarray With Threshold |  | Easy  |
+| 2760 | Longest Even Odd Subarray With Threshold | [TypeScript](./src/2760.longest-even-odd-subarray-with-threshold.2866/solution.ts) | Easy  |
 | 2761 | Prime Pairs With Target Sum |  | Medium  |
 | 2762 | Continuous Subarrays |  | Medium  |
 | 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
 | 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
-| 2765 | Longest Alternating Subarray |  | Easy  |
+| 2765 | Longest Alternating Subarray | [TypeScript](./src/2765.longest-alternating-subarray.2870/solution.ts) | Easy  |
 | 2766 | Relocate Marbles |  | Medium  |
 | 2767 | Partition String Into Minimum Beautiful Substrings |  | Medium  |
 | 2768 | Number of Black Blocks |  | Medium  |
@@ -2917,7 +2917,7 @@
 | 2897 | Apply Operations on Array to Maximize Sum of Squares |  | Hard  |
 | 2898 | Maximum Linear Stock Score |  | Medium  |
 | 2899 | Last Visited Integers | [TypeScript](./src/2899.last-visited-integers.3164/solution.ts) | Easy  |
-| 2900 | Longest Unequal Adjacent Groups Subsequence I |  | Medium  |
+| 2900 | Longest Unequal Adjacent Groups Subsequence I | [TypeScript](./src/2900.longest-unequal-adjacent-groups-subsequence-i.3143/solution.ts) | Medium  |
 | 2901 | Longest Unequal Adjacent Groups Subsequence II |  | Medium  |
 | 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
 | 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
@@ -2931,10 +2931,10 @@
 | 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
 | 2912 | Number of Ways to Reach Destination in the Grid |  | Hard  |
 | 2913 | Subarrays Distinct Element Sum of Squares I |  | Easy  |
-| 2914 | Minimum Number of Changes to Make Binary String Beautiful |  | Medium  |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | [TypeScript](./src/2914.minimum-number-of-changes-to-make-binary-string-beautiful.3174/solution.ts) | Medium  |
 | 2915 | Length of the Longest Subsequence That Sums to Target |  | Medium  |
 | 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
-| 2917 | Find the K-or of an Array |  | Easy  |
+| 2917 | Find the K-or of an Array | [TypeScript](./src/2917.find-the-k-or-of-an-array.3183/solution.ts) | Easy  |
 | 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros |  | Medium  |
 | 2919 | Minimum Increment Operations to Make Array Beautiful |  | Medium  |
 | 2920 | Maximum Points After Collecting Coins From All Nodes |  | Hard  |
