@@ -2925,7 +2925,7 @@
 | 2905 | Find Indices With Index and Value Difference II |  | Medium  |
 | 2906 | Construct Product Matrix |  | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
-| 2908 | Minimum Sum of Mountain Triplets I |  | Easy  |
+| 2908 | Minimum Sum of Mountain Triplets I | [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
 | 2909 | Minimum Sum of Mountain Triplets II |  | Medium  |
 | 2910 | Minimum Number of Groups to Create a Valid Assignment |  | Medium  |
 | 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
@@ -2940,16 +2940,16 @@
 | 2920 | Maximum Points After Collecting Coins From All Nodes |  | Hard  |
 | 2921 | Maximum Profitable Triplets With Increasing Prices II |  | Hard  |
 | 2922 | Market Analysis III |  | Medium  |
-| 2923 | Find Champion I |  | Easy  |
+| 2923 | Find Champion I | [TypeScript](./src/2923.find-champion-i.3188/solution.ts) | Easy  |
 | 2924 | Find Champion II |  | Medium  |
 | 2925 | Maximum Score After Applying Operations on a Tree |  | Medium  |
 | 2926 | Maximum Balanced Subsequence Sum |  | Hard  |
 | 2927 | Distribute Candies Among Children III |  | Hard  |
-| 2928 | Distribute Candies Among Children I |  | Easy  |
-| 2929 | Distribute Candies Among Children II |  | Medium  |
+| 2928 | Distribute Candies Among Children I | [TypeScript](./src/2928.distribute-candies-among-children-i.3199/solution.ts) | Easy  |
+| 2929 | Distribute Candies Among Children II | [TypeScript](./src/2929.distribute-candies-among-children-ii.3201/solution.ts) | Medium  |
 | 2930 | Number of Strings Which Can Be Rearranged to Contain Substring |  | Medium  |
 | 2931 | Maximum Spending After Buying Items |  | Hard  |
-| 2932 | Maximum Strong Pair XOR I |  | Easy  |
+| 2932 | Maximum Strong Pair XOR I | [TypeScript](./src/2932.maximum-strong-pair-xor-i.3193/solution.ts) | Easy  |
 | 2933 | High-Access Employees |  | Medium  |
 | 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
 | 2935 | Maximum Strong Pair XOR II |  | Hard  |
