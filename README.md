@@ -2926,7 +2926,7 @@
 | 2906 | Construct Product Matrix |  | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
 | 2908 | Minimum Sum of Mountain Triplets I | [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
-| 2909 | Minimum Sum of Mountain Triplets II |  | Medium  |
+| 2909 | Minimum Sum of Mountain Triplets II | [TypeScript](./src/2909.minimum-sum-of-mountain-triplets-ii.3186/solution.ts) | Medium  |
 | 2910 | Minimum Number of Groups to Create a Valid Assignment |  | Medium  |
 | 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
 | 2912 | Number of Ways to Reach Destination in the Grid |  | Hard  |
@@ -2950,16 +2950,16 @@
 | 2930 | Number of Strings Which Can Be Rearranged to Contain Substring |  | Medium  |
 | 2931 | Maximum Spending After Buying Items |  | Hard  |
 | 2932 | Maximum Strong Pair XOR I | [TypeScript](./src/2932.maximum-strong-pair-xor-i.3193/solution.ts) | Easy  |
-| 2933 | High-Access Employees |  | Medium  |
+| 2933 | High-Access Employees | [TypeScript](./src/2933.high-access-employees.3202/solution.ts) | Medium  |
 | 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
 | 2935 | Maximum Strong Pair XOR II |  | Hard  |
 | 2936 | Number of Equal Numbers Blocks |  | Medium  |
-| 2937 | Make Three Strings Equal |  | Easy  |
-| 2938 | Separate Black and White Balls |  | Medium  |
+| 2937 | Make Three Strings Equal | [TypeScript](./src/2937.make-three-strings-equal.3207/solution.ts) | Easy  |
+| 2938 | Separate Black and White Balls | [TypeScript](./src/2938.separate-black-and-white-balls.3195/solution.ts) | Medium  |
 | 2939 | Maximum Xor Product |  | Medium  |
 | 2940 | Find Building Where Alice and Bob Can Meet |  | Hard  |
 | 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
-| 2942 | Find Words Containing Character |  | Easy  |
+| 2942 | Find Words Containing Character | [TypeScript](./src/2942.find-words-containing-character.3194/solution.ts) | Easy  |
 | 2943 | Maximize Area of Square Hole in Grid |  | Medium  |
 | 2944 | Minimum Number of Coins for Fruits |  | Medium  |
 | 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
@@ -2967,6 +2967,19 @@
 | 2947 | Count Beautiful Substrings I |  | Medium  |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
 | 2949 | Count Beautiful Substrings II |  | Hard  |
+| 2950 | Number of Divisible Substrings |  | Medium  |
+| 2951 | Find the Peaks |  | Easy  |
+| 2952 | Minimum Number of Coins to be Added |  | Medium  |
+| 2953 | Count Complete Substrings |  | Medium  |
+| 2954 | Count the Number of Infection Sequences |  | Hard  |
+| 6993 | Stopwatch |  | Medium  |
+| 6994 | Accordion |  | Easy  |
+| 7009 | Wordle game |  | Medium  |
+| 7012 | Memory Game |  | Hard  |
+| 8001 | Password Strength Checker |  | Easy  |
+| 8009 | Temperature Converter |  | Easy  |
+| 100109 | Find Corresponding Element in Identical DOM Trees |  | Easy  |
+| 100113 | Todo List  |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
