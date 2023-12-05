@@ -20643,6 +20643,97 @@
         "difficulty": 3
     },
     {
+        "id": 3237,
+        "index": "2950",
+        "title": "Number of Divisible Substrings",
+        "title_slug": "number-of-divisible-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 3221,
+        "index": "2951",
+        "title": "Find the Peaks",
+        "title_slug": "find-the-peaks",
+        "difficulty": 1
+    },
+    {
+        "id": 3231,
+        "index": "2952",
+        "title": "Minimum Number of Coins to be Added",
+        "title_slug": "minimum-number-of-coins-to-be-added",
+        "difficulty": 2
+    },
+    {
+        "id": 3223,
+        "index": "2953",
+        "title": "Count Complete Substrings",
+        "title_slug": "count-complete-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 3224,
+        "index": "2954",
+        "title": "Count the Number of Infection Sequences",
+        "title_slug": "count-the-number-of-infection-sequences",
+        "difficulty": 3
+    },
+    {
+        "id": 2958,
+        "index": "6993",
+        "title": "Stopwatch",
+        "title_slug": "stopwatch",
+        "difficulty": 2
+    },
+    {
+        "id": 2959,
+        "index": "6994",
+        "title": "Accordion",
+        "title_slug": "accordion",
+        "difficulty": 1
+    },
+    {
+        "id": 2983,
+        "index": "7009",
+        "title": "Wordle game",
+        "title_slug": "wordle-game",
+        "difficulty": 2
+    },
+    {
+        "id": 2986,
+        "index": "7012",
+        "title": "Memory Game",
+        "title_slug": "memory-game",
+        "difficulty": 3
+    },
+    {
+        "id": 3004,
+        "index": "8001",
+        "title": "Password Strength Checker",
+        "title_slug": "password-strength-checker",
+        "difficulty": 1
+    },
+    {
+        "id": 3012,
+        "index": "8009",
+        "title": "Temperature Converter",
+        "title_slug": "temperature-converter",
+        "difficulty": 1
+    },
+    {
+        "id": 3180,
+        "index": "100109",
+        "title": "Find Corresponding Element in Identical DOM Trees",
+        "title_slug": "find-corresponding-element-in-identical-dom-trees",
+        "difficulty": 1
+    },
+    {
+        "id": 3185,
+        "index": "100113",
+        "title": "Todo List ",
+        "title_slug": "todo-list",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
