@@ -2963,12 +2963,12 @@
 | 2943 | Maximize Area of Square Hole in Grid |  | Medium  |
 | 2944 | Minimum Number of Coins for Fruits |  | Medium  |
 | 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
-| 2946 | Matrix Similarity After Cyclic Shifts |  | Easy  |
+| 2946 | Matrix Similarity After Cyclic Shifts | [TypeScript](./src/2946.matrix-similarity-after-cyclic-shifts.3215/solution.ts) | Easy  |
 | 2947 | Count Beautiful Substrings I |  | Medium  |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
 | 2949 | Count Beautiful Substrings II |  | Hard  |
 | 2950 | Number of Divisible Substrings |  | Medium  |
-| 2951 | Find the Peaks |  | Easy  |
+| 2951 | Find the Peaks | [TypeScript](./src/2951.find-the-peaks.3221/solution.ts) | Easy  |
 | 2952 | Minimum Number of Coins to be Added |  | Medium  |
 | 2953 | Count Complete Substrings |  | Medium  |
 | 2954 | Count the Number of Infection Sequences |  | Hard  |
@@ -3019,7 +3019,7 @@
 | LCP37 | 最小矩形面积 |  | Hard  |
 | LCP38 | 守卫城堡 |  | Hard  |
 | LCP39 | 无人机方阵 |  | Easy  |
-| LCP40 | 心算挑战 |  | Easy  |
+| LCP40 | 心算挑战 | [TypeScript](./src/LCP40.uOAnQW.1000368/solution.ts) | Easy  |
 | LCP41 | 黑白翻转棋 |  | Medium  |
 | LCP42 | 玩具套圈 |  | Hard  |
 | LCP43 | 十字路口的交通 |  | Hard  |
@@ -3030,7 +3030,7 @@
 | LCP48 | 无限棋局 |  | Hard  |
 | LCP49 | 环形闯关游戏 |  | Hard  |
 | LCP50 | 宝石补给 | [JavaScript](./src/LCP50.WHnhjV.1000433/solution.js) [TypeScript](./src/LCP50.WHnhjV.1000433/solution.ts) | Easy  |
-| LCP51 | 烹饪料理 |  | Easy  |
+| LCP51 | 烹饪料理 | [TypeScript](./src/LCP51.UEcfPD.1000434/solution.ts) | Easy  |
 | LCP52 | 二叉搜索树染色 |  | Medium  |
 | LCP53 | 守护太空城 |  | Hard  |
 | LCP54 | 夺回据点 |  | Hard  |
@@ -3047,7 +3047,7 @@
 | LCP65 | 舒适的湿度 |  | Hard  |
 | LCP66 | 最小展台数量 | [JavaScript](./src/LCP66.600YaG.1000481/solution.js) [TypeScript](./src/LCP66.600YaG.1000481/solution.ts) | Easy  |
 | LCP67 | 装饰树 | [JavaScript](./src/LCP67.KnLfVT.1000482/solution.js) [TypeScript](./src/LCP67.KnLfVT.1000482/solution.ts) | Medium  |
-| LCP68 | 美观的花束 |  | Medium  |
+| LCP68 | 美观的花束 | [TypeScript](./src/LCP68.1GxJYY.1000483/solution.ts) | Medium  |
 | LCP69 | Hello LeetCode! |  | Hard  |
 | LCP70 | 沙地治理 |  | Hard  |
 | LCP71 | 集水器 |  | Hard  |
