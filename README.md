@@ -3249,10 +3249,10 @@
 | LCS01 | 下载插件 | [TypeScript](./src/LCS01.Ju9Xwi.1000225/solution.ts) | Easy  |
 | LCS02 | 完成一半题目 | [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
 | LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
-| LCR001 | 两数相除 |  | Easy  |
+| LCR001 | 两数相除 | [TypeScript](./src/LCR001.xoh6Oh.1000228/solution.ts) | Easy  |
 | LCR002 | 二进制求和 |  | Easy  |
 | LCR003 | 比特位计数 |  | Easy  |
-| LCR004 | 只出现一次的数字 II |  | Medium  |
+| LCR004 | 只出现一次的数字 II | [TypeScript](./src/LCR004.WGki4K.1000233/solution.ts) | Medium  |
 | LCR005 | 最大单词长度乘积 |  | Medium  |
 | LCR006 | 两数之和 II - 输入有序数组 |  | Easy  |
 | LCR007 | 三数之和 |  | Medium  |
@@ -3268,7 +3268,7 @@
 | LCR017 | 最小覆盖子串 |  | Hard  |
 | LCR018 | 验证回文串 |  | Easy  |
 | LCR019 | 验证回文串 II |  | Easy  |
-| LCR020 | 回文子串 |  | Medium  |
+| LCR020 | 回文子串 | [TypeScript](./src/LCR020.a7VOhD.1000256/solution.ts) | Medium  |
 | LCR021 | 删除链表的倒数第 N 个结点 |  | Medium  |
 | LCR022 | 环形链表 II |  | Medium  |
 | LCR023 | 相交链表 |  | Easy  |
@@ -3308,7 +3308,7 @@
 | LCR057 | 存在重复元素 III |  | Medium  |
 | LCR058 | 我的日程安排表 I |  | Medium  |
 | LCR059 | 数据流中的第 K 大元素 |  | Easy  |
-| LCR060 | 前 K 个高频元素 |  | Medium  |
+| LCR060 | 前 K 个高频元素 | [TypeScript](./src/LCR060.g5c51o.1000324/solution.ts) | Medium  |
 | LCR061 | 查找和最小的 K 对数字 |  | Medium  |
 | LCR062 | 实现 Trie (前缀树) |  | Medium  |
 | LCR063 | 单词替换 |  | Medium  |
@@ -3335,7 +3335,7 @@
 | LCR084 | 全排列 II  |  | Medium  |
 | LCR085 | 括号生成 |  | Medium  |
 | LCR086 | 分割回文串 |  | Medium  |
-| LCR087 | 复原 IP 地址 |  | Medium  |
+| LCR087 | 复原 IP 地址 | [TypeScript](./src/LCR087.0on3uN.1000241/solution.ts) | Medium  |
 | LCR088 | 使用最小花费爬楼梯 |  | Easy  |
 | LCR089 | 打家劫舍 |  | Medium  |
 | LCR090 | 打家劫舍 II |  | Medium  |
