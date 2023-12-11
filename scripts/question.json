@@ -20668,7 +20668,7 @@
         "index": "2953",
         "title": "Count Complete Substrings",
         "title_slug": "count-complete-substrings",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 3224,
@@ -20678,60 +20678,67 @@
         "difficulty": 3
     },
     {
-        "id": 2958,
-        "index": "6993",
-        "title": "Stopwatch",
-        "title_slug": "stopwatch",
+        "id": 3247,
+        "index": "2955",
+        "title": "Number of Same-End Substrings",
+        "title_slug": "number-of-same-end-substrings",
         "difficulty": 2
     },
     {
-        "id": 2959,
-        "index": "6994",
-        "title": "Accordion",
-        "title_slug": "accordion",
+        "id": 3206,
+        "index": "2956",
+        "title": "Find Common Elements Between Two Arrays",
+        "title_slug": "find-common-elements-between-two-arrays",
         "difficulty": 1
     },
     {
-        "id": 2983,
-        "index": "7009",
-        "title": "Wordle game",
-        "title_slug": "wordle-game",
+        "id": 3230,
+        "index": "2957",
+        "title": "Remove Adjacent Almost-Equal Characters",
+        "title_slug": "remove-adjacent-almost-equal-characters",
         "difficulty": 2
     },
     {
-        "id": 2986,
-        "index": "7012",
-        "title": "Memory Game",
-        "title_slug": "memory-game",
+        "id": 3225,
+        "index": "2958",
+        "title": "Length of Longest Subarray With at Most K Frequency",
+        "title_slug": "length-of-longest-subarray-with-at-most-k-frequency",
+        "difficulty": 2
+    },
+    {
+        "id": 3217,
+        "index": "2959",
+        "title": "Number of Possible Sets of Closing Branches",
+        "title_slug": "number-of-possible-sets-of-closing-branches",
         "difficulty": 3
     },
     {
-        "id": 3004,
-        "index": "8001",
-        "title": "Password Strength Checker",
-        "title_slug": "password-strength-checker",
+        "id": 3220,
+        "index": "2960",
+        "title": "Count Tested Devices After Test Operations",
+        "title_slug": "count-tested-devices-after-test-operations",
         "difficulty": 1
     },
     {
-        "id": 3012,
-        "index": "8009",
-        "title": "Temperature Converter",
-        "title_slug": "temperature-converter",
-        "difficulty": 1
-    },
-    {
-        "id": 3180,
-        "index": "100109",
-        "title": "Find Corresponding Element in Identical DOM Trees",
-        "title_slug": "find-corresponding-element-in-identical-dom-trees",
-        "difficulty": 1
-    },
-    {
-        "id": 3185,
-        "index": "100113",
-        "title": "Todo List ",
-        "title_slug": "todo-list",
+        "id": 3234,
+        "index": "2961",
+        "title": "Double Modular Exponentiation",
+        "title_slug": "double-modular-exponentiation",
         "difficulty": 2
+    },
+    {
+        "id": 3213,
+        "index": "2962",
+        "title": "Count Subarrays Where Max Element Appears at Least K Times",
+        "title_slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+        "difficulty": 2
+    },
+    {
+        "id": 3212,
+        "index": "2963",
+        "title": "Count the Number of Good Partitions",
+        "title_slug": "count-the-number-of-good-partitions",
+        "difficulty": 3
     },
     {
         "id": 100107,

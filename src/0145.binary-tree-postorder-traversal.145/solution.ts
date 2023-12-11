@@ -23,3 +23,18 @@ function postOrder (root:TreeNode, result:number[]):void {
     root.right !== null && postOrder(root.right, result);
     result.push(root.val);
 }
+
+function postorderTraversal2 (root: TreeNode | null): number[] {
+    if (!root) {
+        return [];
+    }
+    const stack = [root, ];
+    const result:number[] = [];
+    while (stack.length) {
+        const node = stack.pop()!;
+        result.push(node.val);
+        node.left && stack.push(node.left);
+        node.right && stack.push(node.right);
+    }
+    return result.reverse();
+}
