@@ -781,7 +781,7 @@
 | 0761 | Special Binary String |  | Hard  |
 | 0762 | Prime Number of Set Bits in Binary Representation | [JavaScript](./src/0762.prime-number-of-set-bits-in-binary-representation.767/solution.js) [TypeScript](./src/0762.prime-number-of-set-bits-in-binary-representation.767/solution.ts) | Easy  |
 | 0763 | Partition Labels | [JavaScript](./src/0763.partition-labels.768/solution.js) [TypeScript](./src/0763.partition-labels.768/solution.ts) | Medium  |
-| 0764 | Largest Plus Sign |  | Medium  |
+| 0764 | Largest Plus Sign | [TypeScript](./src/0764.largest-plus-sign.769/solution.ts) | Medium  |
 | 0765 | Couples Holding Hands |  | Hard  |
 | 0766 | Toeplitz Matrix | [JavaScript](./src/0766.toeplitz-matrix.777/solution.js) [TypeScript](./src/0766.toeplitz-matrix.777/solution.ts) | Easy  |
 | 0767 | Reorganize String | [JavaScript](./src/0767.reorganize-string.778/solution.js) | Medium  |
@@ -1607,11 +1607,11 @@
 | 1587 | Bank Account Summary II |  | Easy  |
 | 1588 | Sum of All Odd Length Subarrays | [JavaScript](./src/1588.sum-of-all-odd-length-subarrays.1693/solution.js) [TypeScript](./src/1588.sum-of-all-odd-length-subarrays.1693/solution.ts) | Easy  |
 | 1589 | Maximum Sum Obtained of Any Permutation | [JavaScript](./src/1589.maximum-sum-obtained-of-any-permutation.1695/solution.js) [TypeScript](./src/1589.maximum-sum-obtained-of-any-permutation.1695/solution.ts) | Medium  |
-| 1590 | Make Sum Divisible by P |  | Medium  |
+| 1590 | Make Sum Divisible by P | [TypeScript](./src/1590.make-sum-divisible-by-p.1694/solution.ts) | Medium  |
 | 1591 | Strange Printer II |  | Hard  |
 | 1592 | Rearrange Spaces Between Words | [JavaScript](./src/1592.rearrange-spaces-between-words.1714/solution.js) [TypeScript](./src/1592.rearrange-spaces-between-words.1714/solution.ts) | Easy  |
 | 1593 | Split a String Into the Max Number of Unique Substrings | [JavaScript](./src/1593.split-a-string-into-the-max-number-of-unique-substrings.1715/solution.js) [TypeScript](./src/1593.split-a-string-into-the-max-number-of-unique-substrings.1715/solution.ts) | Medium  |
-| 1594 | Maximum Non Negative Product in a Matrix |  | Medium  |
+| 1594 | Maximum Non Negative Product in a Matrix | [TypeScript](./src/1594.maximum-non-negative-product-in-a-matrix.1716/solution.ts) | Medium  |
 | 1595 | Minimum Cost to Connect Two Groups of Points |  | Hard  |
 | 1596 | The Most Frequently Ordered Products for Each Customer |  | Medium  |
 | 1597 | Build Binary Expression Tree From Infix Expression |  | Hard  |
@@ -1665,7 +1665,7 @@
 | 1645 | Hopper Company Queries II |  | Hard  |
 | 1646 | Get Maximum in Generated Array | [JavaScript](./src/1646.get-maximum-in-generated-array.1769/solution.js) [TypeScript](./src/1646.get-maximum-in-generated-array.1769/solution.ts) | Easy  |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | [JavaScript](./src/1647.minimum-deletions-to-make-character-frequencies-unique.1770/solution.js) [TypeScript](./src/1647.minimum-deletions-to-make-character-frequencies-unique.1770/solution.ts) | Medium  |
-| 1648 | Sell Diminishing-Valued Colored Balls |  | Medium  |
+| 1648 | Sell Diminishing-Valued Colored Balls | [TypeScript](./src/1648.sell-diminishing-valued-colored-balls.1771/solution.ts) | Medium  |
 | 1649 | Create Sorted Array through Instructions |  | Hard  |
 | 1650 | Lowest Common Ancestor of a Binary Tree III | [JavaScript](./src/1650.lowest-common-ancestor-of-a-binary-tree-iii.1790/solution.js) [TypeScript](./src/1650.lowest-common-ancestor-of-a-binary-tree-iii.1790/solution.ts) | Medium  |
 | 1651 | Hopper Company Queries III |  | Hard  |
@@ -2970,16 +2970,17 @@
 | 2950 | Number of Divisible Substrings |  | Medium  |
 | 2951 | Find the Peaks | [TypeScript](./src/2951.find-the-peaks.3221/solution.ts) | Easy  |
 | 2952 | Minimum Number of Coins to be Added |  | Medium  |
-| 2953 | Count Complete Substrings |  | Medium  |
+| 2953 | Count Complete Substrings |  | Hard  |
 | 2954 | Count the Number of Infection Sequences |  | Hard  |
-| 6993 | Stopwatch |  | Medium  |
-| 6994 | Accordion |  | Easy  |
-| 7009 | Wordle game |  | Medium  |
-| 7012 | Memory Game |  | Hard  |
-| 8001 | Password Strength Checker |  | Easy  |
-| 8009 | Temperature Converter |  | Easy  |
-| 100109 | Find Corresponding Element in Identical DOM Trees |  | Easy  |
-| 100113 | Todo List  |  | Medium  |
+| 2955 | Number of Same-End Substrings |  | Medium  |
+| 2956 | Find Common Elements Between Two Arrays |  | Easy  |
+| 2957 | Remove Adjacent Almost-Equal Characters |  | Medium  |
+| 2958 | Length of Longest Subarray With at Most K Frequency |  | Medium  |
+| 2959 | Number of Possible Sets of Closing Branches |  | Hard  |
+| 2960 | Count Tested Devices After Test Operations |  | Easy  |
+| 2961 | Double Modular Exponentiation |  | Medium  |
+| 2962 | Count Subarrays Where Max Element Appears at Least K Times |  | Medium  |
+| 2963 | Count the Number of Good Partitions |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
