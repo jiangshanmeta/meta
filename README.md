@@ -2087,7 +2087,7 @@
 | 2067 | Number of Equal Count Substrings |  | Medium  |
 | 2068 | Check Whether Two Strings are Almost Equivalent | [JavaScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.js) [TypeScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.ts) | Easy  |
 | 2069 | Walking Robot Simulation II |  | Medium  |
-| 2070 | Most Beautiful Item for Each Query |  | Medium  |
+| 2070 | Most Beautiful Item for Each Query | [TypeScript](./src/2070.most-beautiful-item-for-each-query.2179/solution.ts) | Medium  |
 | 2071 | Maximum Number of Tasks You Can Assign |  | Hard  |
 | 2072 | The Winner University |  | Easy  |
 | 2073 | Time Needed to Buy Tickets | [JavaScript](./src/2073.time-needed-to-buy-tickets.2195/solution.js) [TypeScript](./src/2073.time-needed-to-buy-tickets.2195/solution.ts) | Easy  |
@@ -2783,8 +2783,8 @@
 | 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
 | 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
 | 2765 | Longest Alternating Subarray | [TypeScript](./src/2765.longest-alternating-subarray.2870/solution.ts) | Easy  |
-| 2766 | Relocate Marbles |  | Medium  |
-| 2767 | Partition String Into Minimum Beautiful Substrings |  | Medium  |
+| 2766 | Relocate Marbles | [TypeScript](./src/2766.relocate-marbles.2834/solution.ts) | Medium  |
+| 2767 | Partition String Into Minimum Beautiful Substrings | [TypeScript](./src/2767.partition-string-into-minimum-beautiful-substrings.2883/solution.ts) | Medium  |
 | 2768 | Number of Black Blocks |  | Medium  |
 | 2769 | Find the Maximum Achievable Number | [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
 | 2770 | Maximum Number of Jumps to Reach the Last Index |  | Medium  |
@@ -2803,7 +2803,7 @@
 | 2783 | Flight Occupancy and Waitlist Analysis |  | Medium  |
 | 2784 | Check if Array is Good | [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
 | 2785 | Sort Vowels in a String | [TypeScript](./src/2785.sort-vowels-in-a-string.2887/solution.ts) | Medium  |
-| 2786 | Visit Array Positions to Maximize Score |  | Medium  |
+| 2786 | Visit Array Positions to Maximize Score | [TypeScript](./src/2786.visit-array-positions-to-maximize-score.2893/solution.ts) | Medium  |
 | 2787 | Ways to Express an Integer as Sum of Powers |  | Medium  |
 | 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
 | 2789 | Largest Element in an Array after Merge Operations |  | Medium  |
@@ -2861,7 +2861,7 @@
 | 2841 | Maximum Sum of Almost Unique Subarray |  | Medium  |
 | 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
 | 2843 |   Count Symmetric Integers | [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
-| 2844 | Minimum Operations to Make a Special Number |  | Medium  |
+| 2844 | Minimum Operations to Make a Special Number | [TypeScript](./src/2844.minimum-operations-to-make-a-special-number.3046/solution.ts) | Medium  |
 | 2845 | Count of Interesting Subarrays |  | Medium  |
 | 2846 | Minimum Edge Weight Equilibrium Queries in a Tree |  | Hard  |
 | 2847 | Smallest Number With Given Digit Product |  | Medium  |
