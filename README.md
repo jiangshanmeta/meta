@@ -2816,7 +2816,7 @@
 | 2796 | Repeat String |  | Easy  |
 | 2797 | Partial Function with Placeholders |  | Easy  |
 | 2798 | Number of Employees Who Met the Target | [TypeScript](./src/2798.number-of-employees-who-met-the-target.2876/solution.ts) | Easy  |
-| 2799 | Count Complete Subarrays in an Array |  | Medium  |
+| 2799 | Count Complete Subarrays in an Array | [TypeScript](./src/2799.count-complete-subarrays-in-an-array.2856/solution.ts) | Medium  |
 | 2800 | Shortest String That Contains Three Strings |  | Medium  |
 | 2801 | Count Stepping Numbers in Range |  | Hard  |
 | 2802 | Find The K-th Lucky Number |  | Medium  |
@@ -2846,7 +2846,7 @@
 | 2826 | Sorting Three Groups |  | Medium  |
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
 | 2828 | Check if a String Is an Acronym of Words | [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
-| 2829 | Determine the Minimum Sum of a k-avoiding Array |  | Medium  |
+| 2829 | Determine the Minimum Sum of a k-avoiding Array | [TypeScript](./src/2829.determine-the-minimum-sum-of-a-k-avoiding-array.2811/solution.ts) | Medium  |
 | 2830 | Maximize the Profit as the Salesman |  | Medium  |
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
 | 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
@@ -2858,7 +2858,7 @@
 | 2838 | Maximum Coins Heroes Can Collect |  | Medium  |
 | 2839 | Check if Strings Can be Made Equal With Operations I | [TypeScript](./src/2839.check-if-strings-can-be-made-equal-with-operations-i.2999/solution.ts) | Easy  |
 | 2840 | Check if Strings Can be Made Equal With Operations II | [TypeScript](./src/2840.check-if-strings-can-be-made-equal-with-operations-ii.2978/solution.ts) | Medium  |
-| 2841 | Maximum Sum of Almost Unique Subarray |  | Medium  |
+| 2841 | Maximum Sum of Almost Unique Subarray | [TypeScript](./src/2841.maximum-sum-of-almost-unique-subarray.2954/solution.ts) | Medium  |
 | 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
 | 2843 |   Count Symmetric Integers | [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
 | 2844 | Minimum Operations to Make a Special Number | [TypeScript](./src/2844.minimum-operations-to-make-a-special-number.3046/solution.ts) | Medium  |
@@ -2887,8 +2887,8 @@
 | 2867 | Count Valid Paths in a Tree |  | Hard  |
 | 2868 | The Wording Game |  | Hard  |
 | 2869 | Minimum Operations to Collect Elements | [TypeScript](./src/2869.minimum-operations-to-collect-elements.3044/solution.ts) | Easy  |
-| 2870 | Minimum Number of Operations to Make Array Empty |  | Medium  |
-| 2871 | Split Array Into Maximum Number of Subarrays |  | Medium  |
+| 2870 | Minimum Number of Operations to Make Array Empty | [TypeScript](./src/2870.minimum-number-of-operations-to-make-array-empty.3094/solution.ts) | Medium  |
+| 2871 | Split Array Into Maximum Number of Subarrays | [TypeScript](./src/2871.split-array-into-maximum-number-of-subarrays.3080/solution.ts) | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
 | 2873 | Maximum Value of an Ordered Triplet I | [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
 | 2874 | Maximum Value of an Ordered Triplet II |  | Medium  |
