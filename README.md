@@ -2317,7 +2317,7 @@
 | 2297 | Jump Game VIII |  | Medium  |
 | 2298 | Tasks Count in the Weekend |  | Medium  |
 | 2299 | Strong Password Checker II | [JavaScript](./src/2299.strong-password-checker-ii.2391/solution.js) [TypeScript](./src/2299.strong-password-checker-ii.2391/solution.ts) | Easy  |
-| 2300 | Successful Pairs of Spells and Potions |  | Medium  |
+| 2300 | Successful Pairs of Spells and Potions | [TypeScript](./src/2300.successful-pairs-of-spells-and-potions.2392/solution.ts) | Medium  |
 | 2301 | Match Substring After Replacement |  | Hard  |
 | 2302 | Count Subarrays With Score Less Than K |  | Hard  |
 | 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
@@ -2343,8 +2343,8 @@
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
 | 2324 | Product Sales Analysis IV |  | Medium  |
 | 2325 | Decode the Message | [JavaScript](./src/2325.decode-the-message.2406/solution.js) [TypeScript](./src/2325.decode-the-message.2406/solution.ts) | Easy  |
-| 2326 | Spiral Matrix IV |  | Medium  |
-| 2327 | Number of People Aware of a Secret |  | Medium  |
+| 2326 | Spiral Matrix IV | [TypeScript](./src/2326.spiral-matrix-iv.2411/solution.ts) | Medium  |
+| 2327 | Number of People Aware of a Secret | [TypeScript](./src/2327.number-of-people-aware-of-a-secret.2408/solution.ts) | Medium  |
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
 | 2329 | Product Sales Analysis V |  | Easy  |
 | 2330 | Valid Palindrome IV |  | Medium  |
@@ -2701,8 +2701,8 @@
 | 2681 | Power of Heroes |  | Hard  |
 | 2682 | Find the Losers of the Circular Game | [TypeScript](./src/2682.find-the-losers-of-the-circular-game.2791/solution.ts) | Easy  |
 | 2683 | Neighboring Bitwise XOR | [TypeScript](./src/2683.neighboring-bitwise-xor.2792/solution.ts) | Medium  |
-| 2684 | Maximum Number of Moves in a Grid |  | Medium  |
-| 2685 | Count the Number of Complete Components |  | Medium  |
+| 2684 | Maximum Number of Moves in a Grid | [TypeScript](./src/2684.maximum-number-of-moves-in-a-grid.2794/solution.ts) | Medium  |
+| 2685 | Count the Number of Complete Components | [TypeScript](./src/2685.count-the-number-of-complete-components.2793/solution.ts) | Medium  |
 | 2686 | Immediate Food Delivery III |  | Medium  |
 | 2687 | Bikes Last Time Used  |  | Easy  |
 | 2688 | Find Active Users |  | Medium  |
