@@ -2891,7 +2891,7 @@
 | 2871 | Split Array Into Maximum Number of Subarrays | [TypeScript](./src/2871.split-array-into-maximum-number-of-subarrays.3080/solution.ts) | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
 | 2873 | Maximum Value of an Ordered Triplet I | [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
-| 2874 | Maximum Value of an Ordered Triplet II |  | Medium  |
+| 2874 | Maximum Value of an Ordered Triplet II | [TypeScript](./src/2874.maximum-value-of-an-ordered-triplet-ii.3152/solution.ts) | Medium  |
 | 2875 | Minimum Size Subarray in Infinite Array |  | Medium  |
 | 2876 | Count Visited Nodes in a Directed Graph |  | Hard  |
 | 2877 | Create a DataFrame from List |  | Easy  |
@@ -2922,7 +2922,7 @@
 | 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
 | 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String |  | Medium  |
-| 2905 | Find Indices With Index and Value Difference II |  | Medium  |
+| 2905 | Find Indices With Index and Value Difference II | [TypeScript](./src/2905.find-indices-with-index-and-value-difference-ii.3170/solution.ts) | Medium  |
 | 2906 | Construct Product Matrix |  | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
 | 2908 | Minimum Sum of Mountain Triplets I | [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
@@ -2932,7 +2932,7 @@
 | 2912 | Number of Ways to Reach Destination in the Grid |  | Hard  |
 | 2913 | Subarrays Distinct Element Sum of Squares I |  | Easy  |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | [TypeScript](./src/2914.minimum-number-of-changes-to-make-binary-string-beautiful.3174/solution.ts) | Medium  |
-| 2915 | Length of the Longest Subsequence That Sums to Target |  | Medium  |
+| 2915 | Length of the Longest Subsequence That Sums to Target | [TypeScript](./src/2915.length-of-the-longest-subsequence-that-sums-to-target.3106/solution.ts) | Medium  |
 | 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
 | 2917 | Find the K-or of an Array | [TypeScript](./src/2917.find-the-k-or-of-an-array.3183/solution.ts) | Easy  |
 | 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros |  | Medium  |
@@ -2964,7 +2964,7 @@
 | 2944 | Minimum Number of Coins for Fruits |  | Medium  |
 | 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
 | 2946 | Matrix Similarity After Cyclic Shifts | [TypeScript](./src/2946.matrix-similarity-after-cyclic-shifts.3215/solution.ts) | Easy  |
-| 2947 | Count Beautiful Substrings I |  | Medium  |
+| 2947 | Count Beautiful Substrings I | [TypeScript](./src/2947.count-beautiful-substrings-i.3210/solution.ts) | Medium  |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
 | 2949 | Count Beautiful Substrings II |  | Hard  |
 | 2950 | Number of Divisible Substrings |  | Medium  |
@@ -2973,7 +2973,7 @@
 | 2953 | Count Complete Substrings |  | Hard  |
 | 2954 | Count the Number of Infection Sequences |  | Hard  |
 | 2955 | Number of Same-End Substrings |  | Medium  |
-| 2956 | Find Common Elements Between Two Arrays |  | Easy  |
+| 2956 | Find Common Elements Between Two Arrays | [TypeScript](./src/2956.find-common-elements-between-two-arrays.3206/solution.ts) | Easy  |
 | 2957 | Remove Adjacent Almost-Equal Characters |  | Medium  |
 | 2958 | Length of Longest Subarray With at Most K Frequency |  | Medium  |
 | 2959 | Number of Possible Sets of Closing Branches |  | Hard  |
