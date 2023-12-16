@@ -2183,7 +2183,7 @@
 | 2163 | Minimum Difference in Sums After Removal of Elements |  | Hard  |
 | 2164 | Sort Even and Odd Indices Independently | [JavaScript](./src/2164.sort-even-and-odd-indices-independently.2283/solution.js) [TypeScript](./src/2164.sort-even-and-odd-indices-independently.2283/solution.ts) | Easy  |
 | 2165 | Smallest Value of the Rearranged Number | [JavaScript](./src/2165.smallest-value-of-the-rearranged-number.2284/solution.js) [TypeScript](./src/2165.smallest-value-of-the-rearranged-number.2284/solution.ts) | Medium  |
-| 2166 | Design Bitset |  | Medium  |
+| 2166 | Design Bitset | [TypeScript](./src/2166.design-bitset.2285/solution.ts) | Medium  |
 | 2167 | Minimum Time to Remove All Cars Containing Illegal Goods |  | Hard  |
 | 2168 | Unique Substrings With Equal Digit Frequency |  | Medium  |
 | 2169 | Count Operations to Obtain Zero | [JavaScript](./src/2169.count-operations-to-obtain-zero.2288/solution.js) [TypeScript](./src/2169.count-operations-to-obtain-zero.2288/solution.ts) | Easy  |
@@ -2239,7 +2239,7 @@
 | 2219 | Maximum Sum Score of Array |  | Medium  |
 | 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.ts) | Easy  |
 | 2221 | Find Triangular Sum of an Array | [JavaScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.js) [TypeScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.ts) | Medium  |
-| 2222 | Number of Ways to Select Buildings |  | Medium  |
+| 2222 | Number of Ways to Select Buildings | [TypeScript](./src/2222.number-of-ways-to-select-buildings.2325/solution.ts) | Medium  |
 | 2223 | Sum of Scores of Built Strings |  | Hard  |
 | 2224 | Minimum Number of Operations to Convert Time | [JavaScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/solution.js) [TypeScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/solution.ts) | Easy  |
 | 2225 | Find Players With Zero or One Losses | [JavaScript](./src/2225.find-players-with-zero-or-one-losses.1354/solution.js) [TypeScript](./src/2225.find-players-with-zero-or-one-losses.1354/solution.ts) | Medium  |
@@ -2250,7 +2250,7 @@
 | 2230 | The Users That Are Eligible for Discount |  | Easy  |
 | 2231 | Largest Number After Digit Swaps by Parity | [JavaScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/solution.js) [TypeScript](./src/2231.largest-number-after-digit-swaps-by-parity.2327/solution.ts) | Easy  |
 | 2232 | Minimize Result by Adding Parentheses to Expression | [TypeScript](./src/2232.minimize-result-by-adding-parentheses-to-expression.2328/solution.ts) | Medium  |
-| 2233 | Maximum Product After K Increments |  | Medium  |
+| 2233 | Maximum Product After K Increments | [TypeScript](./src/2233.maximum-product-after-k-increments.2329/solution.ts) | Medium  |
 | 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
 | 2235 | Add Two Integers | [JavaScript](./src/2235.add-two-integers.2383/solution.js) [TypeScript](./src/2235.add-two-integers.2383/solution.ts) | Easy  |
 | 2236 | Root Equals Sum of Children | [JavaScript](./src/2236.root-equals-sum-of-children.2384/solution.js) [TypeScript](./src/2236.root-equals-sum-of-children.2384/solution.ts) | Easy  |
@@ -2321,7 +2321,7 @@
 | 2301 | Match Substring After Replacement |  | Hard  |
 | 2302 | Count Subarrays With Score Less Than K |  | Hard  |
 | 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
-| 2304 | Minimum Path Cost in a Grid |  | Medium  |
+| 2304 | Minimum Path Cost in a Grid | [TypeScript](./src/2304.minimum-path-cost-in-a-grid.1394/solution.ts) | Medium  |
 | 2305 | Fair Distribution of Cookies |  | Medium  |
 | 2306 | Naming a Company |  | Hard  |
 | 2307 | Check for Contradictions in Equations |  | Hard  |
@@ -2778,7 +2778,7 @@
 | 2758 | Next Day |  | Easy  |
 | 2759 | Convert JSON String to Object |  | Hard  |
 | 2760 | Longest Even Odd Subarray With Threshold | [TypeScript](./src/2760.longest-even-odd-subarray-with-threshold.2866/solution.ts) | Easy  |
-| 2761 | Prime Pairs With Target Sum |  | Medium  |
+| 2761 | Prime Pairs With Target Sum | [TypeScript](./src/2761.prime-pairs-with-target-sum.2873/solution.ts) | Medium  |
 | 2762 | Continuous Subarrays |  | Medium  |
 | 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
 | 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
