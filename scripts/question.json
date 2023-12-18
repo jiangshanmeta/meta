@@ -19343,7 +19343,7 @@
     {
         "id": 2918,
         "index": "2764",
-        "title": "is Array a Preorder of Some ‌Binary Tree",
+        "title": "Is Array a Preorder of Some ‌Binary Tree",
         "title_slug": "is-array-a-preorder-of-some-binary-tree",
         "difficulty": 2
     },
@@ -20738,6 +20738,41 @@
         "index": "2963",
         "title": "Count the Number of Good Partitions",
         "title_slug": "count-the-number-of-good-partitions",
+        "difficulty": 3
+    },
+    {
+        "id": 3254,
+        "index": "2964",
+        "title": "Number of Divisible Triplet Sums",
+        "title_slug": "number-of-divisible-triplet-sums",
+        "difficulty": 2
+    },
+    {
+        "id": 3227,
+        "index": "2965",
+        "title": "Find Missing and Repeated Values",
+        "title_slug": "find-missing-and-repeated-values",
+        "difficulty": 1
+    },
+    {
+        "id": 3241,
+        "index": "2966",
+        "title": "Divide Array Into Arrays With Max Difference",
+        "title_slug": "divide-array-into-arrays-with-max-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 3229,
+        "index": "2967",
+        "title": "Minimum Cost to Make Array Equalindromic",
+        "title_slug": "minimum-cost-to-make-array-equalindromic",
+        "difficulty": 2
+    },
+    {
+        "id": 3196,
+        "index": "2968",
+        "title": "Apply Operations to Maximize Frequency Score",
+        "title_slug": "apply-operations-to-maximize-frequency-score",
         "difficulty": 3
     },
     {
