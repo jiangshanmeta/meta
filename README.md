@@ -2781,7 +2781,7 @@
 | 2761 | Prime Pairs With Target Sum | [TypeScript](./src/2761.prime-pairs-with-target-sum.2873/solution.ts) | Medium  |
 | 2762 | Continuous Subarrays |  | Medium  |
 | 2763 | Sum of Imbalance Numbers of All Subarrays |  | Hard  |
-| 2764 | is Array a Preorder of Some ‌Binary Tree |  | Medium  |
+| 2764 | Is Array a Preorder of Some ‌Binary Tree |  | Medium  |
 | 2765 | Longest Alternating Subarray | [TypeScript](./src/2765.longest-alternating-subarray.2870/solution.ts) | Easy  |
 | 2766 | Relocate Marbles | [TypeScript](./src/2766.relocate-marbles.2834/solution.ts) | Medium  |
 | 2767 | Partition String Into Minimum Beautiful Substrings | [TypeScript](./src/2767.partition-string-into-minimum-beautiful-substrings.2883/solution.ts) | Medium  |
@@ -2806,7 +2806,7 @@
 | 2786 | Visit Array Positions to Maximize Score | [TypeScript](./src/2786.visit-array-positions-to-maximize-score.2893/solution.ts) | Medium  |
 | 2787 | Ways to Express an Integer as Sum of Powers |  | Medium  |
 | 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
-| 2789 | Largest Element in an Array after Merge Operations |  | Medium  |
+| 2789 | Largest Element in an Array after Merge Operations | [TypeScript](./src/2789.largest-element-in-an-array-after-merge-operations.2872/solution.ts) | Medium  |
 | 2790 | Maximum Number of Groups With Increasing Length |  | Hard  |
 | 2791 | Count Paths That Can Form a Palindrome in a Tree |  | Hard  |
 | 2792 | Count Nodes That Are Great Enough |  | Medium  |
@@ -2843,7 +2843,7 @@
 | 2823 | Deep Object Filter |  | Medium  |
 | 2824 | Count Pairs Whose Sum is Less than Target | [TypeScript](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.ts) | Easy  |
 | 2825 | Make String a Subsequence Using Cyclic Increments |  | Medium  |
-| 2826 | Sorting Three Groups |  | Medium  |
+| 2826 | Sorting Three Groups | [TypeScript](./src/2826.sorting-three-groups.2904/solution.ts) | Medium  |
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
 | 2828 | Check if a String Is an Acronym of Words | [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
 | 2829 | Determine the Minimum Sum of a k-avoiding Array | [TypeScript](./src/2829.determine-the-minimum-sum-of-a-k-avoiding-array.2811/solution.ts) | Medium  |
@@ -2974,13 +2974,18 @@
 | 2954 | Count the Number of Infection Sequences |  | Hard  |
 | 2955 | Number of Same-End Substrings |  | Medium  |
 | 2956 | Find Common Elements Between Two Arrays | [TypeScript](./src/2956.find-common-elements-between-two-arrays.3206/solution.ts) | Easy  |
-| 2957 | Remove Adjacent Almost-Equal Characters |  | Medium  |
-| 2958 | Length of Longest Subarray With at Most K Frequency |  | Medium  |
+| 2957 | Remove Adjacent Almost-Equal Characters | [TypeScript](./src/2957.remove-adjacent-almost-equal-characters.3230/solution.ts) | Medium  |
+| 2958 | Length of Longest Subarray With at Most K Frequency | [TypeScript](./src/2958.length-of-longest-subarray-with-at-most-k-frequency.3225/solution.ts) | Medium  |
 | 2959 | Number of Possible Sets of Closing Branches |  | Hard  |
-| 2960 | Count Tested Devices After Test Operations |  | Easy  |
+| 2960 | Count Tested Devices After Test Operations | [TypeScript](./src/2960.count-tested-devices-after-test-operations.3220/solution.ts) | Easy  |
 | 2961 | Double Modular Exponentiation |  | Medium  |
 | 2962 | Count Subarrays Where Max Element Appears at Least K Times |  | Medium  |
 | 2963 | Count the Number of Good Partitions |  | Hard  |
+| 2964 | Number of Divisible Triplet Sums |  | Medium  |
+| 2965 | Find Missing and Repeated Values |  | Easy  |
+| 2966 | Divide Array Into Arrays With Max Difference |  | Medium  |
+| 2967 | Minimum Cost to Make Array Equalindromic |  | Medium  |
+| 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
