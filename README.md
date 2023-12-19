@@ -2019,7 +2019,7 @@
 | 1999 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
 | 2000 | Reverse Prefix of Word | [JavaScript](./src/2000.reverse-prefix-of-word.2128/solution.js) [TypeScript](./src/2000.reverse-prefix-of-word.2128/solution.ts) | Easy  |
 | 2001 | Number of Pairs of Interchangeable Rectangles | [JavaScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/solution.js) [TypeScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/solution.ts) | Medium  |
-| 2002 | Maximum Product of the Length of Two Palindromic Subsequences |  | Medium  |
+| 2002 | Maximum Product of the Length of Two Palindromic Subsequences | [TypeScript](./src/2002.maximum-product-of-the-length-of-two-palindromic-subsequences.2130/solution.ts) | Medium  |
 | 2003 | Smallest Missing Genetic Value in Each Subtree |  | Hard  |
 | 2004 | The Number of Seniors and Juniors to Join the Company |  | Hard  |
 | 2005 | Subtree Removal Game with Fibonacci Tree |  | Hard  |
@@ -2051,7 +2051,7 @@
 | 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
 | 2032 | Two Out of Three | [JavaScript](./src/2032.two-out-of-three.2159/solution.js) [TypeScript](./src/2032.two-out-of-three.2159/solution.ts) | Easy  |
 | 2033 | Minimum Operations to Make a Uni-Value Grid |  | Medium  |
-| 2034 | Stock Price Fluctuation  |  | Medium  |
+| 2034 | Stock Price Fluctuation  | [TypeScript](./src/2034.stock-price-fluctuation.2161/solution.ts) | Medium  |
 | 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
 | 2036 | Maximum Alternating Subarray Sum |  | Medium  |
 | 2037 | Minimum Number of Moves to Seat Everyone | [JavaScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.js) [TypeScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.ts) | Easy  |
@@ -2724,7 +2724,7 @@
 | 2704 | To Be Or Not To Be | [TypeScript](./src/2704.to-be-or-not-to-be.2813/solution.ts) | Easy  |
 | 2705 | Compact Object | [TypeScript](./src/2705.compact-object.2804/solution.ts) | Medium  |
 | 2706 | Buy Two Chocolates | [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
-| 2707 | Extra Characters in a String |  | Medium  |
+| 2707 | Extra Characters in a String | [TypeScript](./src/2707.extra-characters-in-a-string.2755/solution.ts) | Medium  |
 | 2708 | Maximum Strength of a Group |  | Medium  |
 | 2709 | Greatest Common Divisor Traversal | [TypeScript](./src/2709.greatest-common-divisor-traversal.2827/solution.ts) | Hard  |
 | 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
@@ -2978,8 +2978,8 @@
 | 2958 | Length of Longest Subarray With at Most K Frequency | [TypeScript](./src/2958.length-of-longest-subarray-with-at-most-k-frequency.3225/solution.ts) | Medium  |
 | 2959 | Number of Possible Sets of Closing Branches |  | Hard  |
 | 2960 | Count Tested Devices After Test Operations | [TypeScript](./src/2960.count-tested-devices-after-test-operations.3220/solution.ts) | Easy  |
-| 2961 | Double Modular Exponentiation |  | Medium  |
-| 2962 | Count Subarrays Where Max Element Appears at Least K Times |  | Medium  |
+| 2961 | Double Modular Exponentiation | [TypeScript](./src/2961.double-modular-exponentiation.3234/solution.ts) | Medium  |
+| 2962 | Count Subarrays Where Max Element Appears at Least K Times | [TypeScript](./src/2962.count-subarrays-where-max-element-appears-at-least-k-times.3213/solution.ts) | Medium  |
 | 2963 | Count the Number of Good Partitions |  | Hard  |
 | 2964 | Number of Divisible Triplet Sums |  | Medium  |
 | 2965 | Find Missing and Repeated Values |  | Easy  |
