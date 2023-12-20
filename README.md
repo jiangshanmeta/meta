@@ -1255,7 +1255,7 @@
 | 1235 | Maximum Profit in Job Scheduling | [JavaScript](./src/1235.maximum-profit-in-job-scheduling.1352/solution.js) | Hard  |
 | 1236 | Web Crawler | [JavaScript](./src/1236.web-crawler.1271/solution.js) [TypeScript](./src/1236.web-crawler.1271/solution.ts) | Medium  |
 | 1237 | Find Positive Integer Solution for a Given Equation | [JavaScript](./src/1237.find-positive-integer-solution-for-a-given-equation.1358/solution.js) | Medium  |
-| 1238 | Circular Permutation in Binary Representation |  | Medium  |
+| 1238 | Circular Permutation in Binary Representation | [TypeScript](./src/1238.circular-permutation-in-binary-representation.1359/solution.ts) | Medium  |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [JavaScript](./src/1239.maximum-length-of-a-concatenated-string-with-unique-characters.1360/solution.js) | Medium  |
 | 1240 | Tiling a Rectangle with the Fewest Squares |  | Hard  |
 | 1241 | Number of Comments per Post |  | Easy  |
@@ -1916,7 +1916,7 @@
 | 1896 | Minimum Cost to Change the Final Value of Expression |  | Hard  |
 | 1897 | Redistribute Characters to Make All Strings Equal | [JavaScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.js) [TypeScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.ts) | Easy  |
 | 1898 | Maximum Number of Removable Characters |  | Medium  |
-| 1899 | Merge Triplets to Form Target Triplet |  | Medium  |
+| 1899 | Merge Triplets to Form Target Triplet | [TypeScript](./src/1899.merge-triplets-to-form-target-triplet.2026/solution.ts) | Medium  |
 | 1900 | The Earliest and Latest Rounds Where Players Compete |  | Hard  |
 | 1901 | Find a Peak Element II |  | Medium  |
 | 1902 | Depth of BST Given Insertion Order |  | Medium  |
@@ -2930,7 +2930,7 @@
 | 2910 | Minimum Number of Groups to Create a Valid Assignment |  | Medium  |
 | 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
 | 2912 | Number of Ways to Reach Destination in the Grid |  | Hard  |
-| 2913 | Subarrays Distinct Element Sum of Squares I |  | Easy  |
+| 2913 | Subarrays Distinct Element Sum of Squares I | [TypeScript](./src/2913.subarrays-distinct-element-sum-of-squares-i.3163/solution.ts) | Easy  |
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | [TypeScript](./src/2914.minimum-number-of-changes-to-make-binary-string-beautiful.3174/solution.ts) | Medium  |
 | 2915 | Length of the Longest Subsequence That Sums to Target | [TypeScript](./src/2915.length-of-the-longest-subsequence-that-sums-to-target.3106/solution.ts) | Medium  |
 | 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
@@ -2982,8 +2982,8 @@
 | 2962 | Count Subarrays Where Max Element Appears at Least K Times | [TypeScript](./src/2962.count-subarrays-where-max-element-appears-at-least-k-times.3213/solution.ts) | Medium  |
 | 2963 | Count the Number of Good Partitions |  | Hard  |
 | 2964 | Number of Divisible Triplet Sums |  | Medium  |
-| 2965 | Find Missing and Repeated Values |  | Easy  |
-| 2966 | Divide Array Into Arrays With Max Difference |  | Medium  |
+| 2965 | Find Missing and Repeated Values | [TypeScript](./src/2965.find-missing-and-repeated-values.3227/solution.ts) | Easy  |
+| 2966 | Divide Array Into Arrays With Max Difference | [TypeScript](./src/2966.divide-array-into-arrays-with-max-difference.3241/solution.ts) | Medium  |
 | 2967 | Minimum Cost to Make Array Equalindromic |  | Medium  |
 | 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
