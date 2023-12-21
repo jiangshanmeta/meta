@@ -1915,7 +1915,7 @@
 | 1895 | Largest Magic Square |  | Medium  |
 | 1896 | Minimum Cost to Change the Final Value of Expression |  | Hard  |
 | 1897 | Redistribute Characters to Make All Strings Equal | [JavaScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.js) [TypeScript](./src/1897.redistribute-characters-to-make-all-strings-equal.2025/solution.ts) | Easy  |
-| 1898 | Maximum Number of Removable Characters |  | Medium  |
+| 1898 | Maximum Number of Removable Characters | [TypeScript](./src/1898.maximum-number-of-removable-characters.2027/solution.ts) | Medium  |
 | 1899 | Merge Triplets to Form Target Triplet | [TypeScript](./src/1899.merge-triplets-to-form-target-triplet.2026/solution.ts) | Medium  |
 | 1900 | The Earliest and Latest Rounds Where Players Compete |  | Hard  |
 | 1901 | Find a Peak Element II |  | Medium  |
@@ -2050,7 +2050,7 @@
 | 2030 | Smallest K-Length Subsequence With Occurrences of a Letter |  | Hard  |
 | 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
 | 2032 | Two Out of Three | [JavaScript](./src/2032.two-out-of-three.2159/solution.js) [TypeScript](./src/2032.two-out-of-three.2159/solution.ts) | Easy  |
-| 2033 | Minimum Operations to Make a Uni-Value Grid |  | Medium  |
+| 2033 | Minimum Operations to Make a Uni-Value Grid | [TypeScript](./src/2033.minimum-operations-to-make-a-uni-value-grid.2160/solution.ts) | Medium  |
 | 2034 | Stock Price Fluctuation  | [TypeScript](./src/2034.stock-price-fluctuation.2161/solution.ts) | Medium  |
 | 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
 | 2036 | Maximum Alternating Subarray Sum |  | Medium  |
@@ -2066,7 +2066,7 @@
 | 2046 | Sort Linked List Already Sorted Using Absolute Values |  | Medium  |
 | 2047 | Number of Valid Words in a Sentence | [JavaScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.js) [TypeScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.ts) | Easy  |
 | 2048 | Next Greater Numerically Balanced Number | [TypeScript](./src/2048.next-greater-numerically-balanced-number.2174/solution.ts) | Medium  |
-| 2049 | Count Nodes With the Highest Score |  | Medium  |
+| 2049 | Count Nodes With the Highest Score | [TypeScript](./src/2049.count-nodes-with-the-highest-score.2175/solution.ts) | Medium  |
 | 2050 | Parallel Courses III |  | Hard  |
 | 2051 | The Category of Each Member in the Store |  | Medium  |
 | 2052 | Minimum Cost to Separate Sentence Into Rows |  | Medium  |
@@ -2984,7 +2984,7 @@
 | 2964 | Number of Divisible Triplet Sums |  | Medium  |
 | 2965 | Find Missing and Repeated Values | [TypeScript](./src/2965.find-missing-and-repeated-values.3227/solution.ts) | Easy  |
 | 2966 | Divide Array Into Arrays With Max Difference | [TypeScript](./src/2966.divide-array-into-arrays-with-max-difference.3241/solution.ts) | Medium  |
-| 2967 | Minimum Cost to Make Array Equalindromic |  | Medium  |
+| 2967 | Minimum Cost to Make Array Equalindromic | [TypeScript](./src/2967.minimum-cost-to-make-array-equalindromic.3229/solution.ts) | Medium  |
 | 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
@@ -3330,7 +3330,7 @@
 | LCR073 | 爱吃香蕉的狒狒 |  | Medium  |
 | LCR074 | 合并区间 |  | Medium  |
 | LCR075 | 数组的相对排序 |  | Easy  |
-| LCR076 | 数组中的第 K 个最大元素 |  | Medium  |
+| LCR076 | 数组中的第 K 个最大元素 | [TypeScript](./src/LCR076.xx4gT2.1000340/solution.ts) | Medium  |
 | LCR077 | 排序链表 |  | Medium  |
 | LCR078 | 合并 K 个升序链表 |  | Hard  |
 | LCR079 | 子集 |  | Medium  |
