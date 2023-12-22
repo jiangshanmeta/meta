@@ -3347,11 +3347,11 @@
 | LCR090 | 打家劫舍 II |  | Medium  |
 | LCR091 | 粉刷房子 |  | Medium  |
 | LCR092 | 将字符串翻转到单调递增 |  | Medium  |
-| LCR093 | 最长的斐波那契子序列的长度 |  | Medium  |
-| LCR094 | 分割回文串 II |  | Hard  |
+| LCR093 | 最长的斐波那契子序列的长度 | [JavaScript](./src/LCR093.Q91FMA.1000271/solution.js) | Medium  |
+| LCR094 | 分割回文串 II | [JavaScript](./src/LCR094.omKAoA.1000272/solution.js) | Hard  |
 | LCR095 | 最长公共子序列 |  | Medium  |
-| LCR096 | 交错字符串 |  | Medium  |
-| LCR097 | 不同的子序列 |  | Hard  |
+| LCR096 | 交错字符串 | [JavaScript](./src/LCR096.IY6buf.1000277/solution.js) | Medium  |
+| LCR097 | 不同的子序列 | [JavaScript](./src/LCR097.21dk04.1000280/solution.js) | Hard  |
 | LCR098 | 不同路径 |  | Medium  |
 | LCR099 | 最小路径和 |  | Medium  |
 | LCR100 | 三角形最小路径和 |  | Medium  |
@@ -3362,7 +3362,7 @@
 | LCR105 | 岛屿的最大面积 |  | Medium  |
 | LCR106 | 判断二分图 |  | Medium  |
 | LCR107 | 01 矩阵 |  | Medium  |
-| LCR108 | 单词接龙 |  | Hard  |
+| LCR108 | 单词接龙 | [JavaScript](./src/LCR108.om3reC.1000300/solution.js) | Hard  |
 | LCR109 | 打开转盘锁 |  | Medium  |
 | LCR110 | 所有可能的路径 |  | Medium  |
 | LCR111 | 除法求值 |  | Medium  |
