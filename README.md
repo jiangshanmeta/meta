@@ -810,7 +810,7 @@
 | 0790 | Domino and Tromino Tiling |  | Medium  |
 | 0791 | Custom Sort String | [JavaScript](./src/0791.custom-sort-string.807/solution.js) [TypeScript](./src/0791.custom-sort-string.807/solution.ts) | Medium  |
 | 0792 | Number of Matching Subsequences | [JavaScript](./src/0792.number-of-matching-subsequences.808/solution.js) [TypeScript](./src/0792.number-of-matching-subsequences.808/solution.ts) | Medium  |
-| 0793 | Preimage Size of Factorial Zeroes Function |  | Hard  |
+| 0793 | Preimage Size of Factorial Zeroes Function | [TypeScript](./src/0793.preimage-size-of-factorial-zeroes-function.809/solution.ts) | Hard  |
 | 0794 | Valid Tic-Tac-Toe State | [JavaScript](./src/0794.valid-tic-tac-toe-state.810/solution.js) | Medium  |
 | 0795 | Number of Subarrays with Bounded Maximum | [JavaScript](./src/0795.number-of-subarrays-with-bounded-maximum.811/solution.js) | Medium  |
 | 0796 | Rotate String | [JavaScript](./src/0796.rotate-string.812/solution.js) [TypeScript](./src/0796.rotate-string.812/solution.ts) | Easy  |
@@ -895,7 +895,7 @@
 | 0875 | Koko Eating Bananas | [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
 | 0876 | Middle of the Linked List | [Go](./src/0876.middle-of-the-linked-list.908/solution.go) [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/solution.js) | Medium  |
-| 0878 | Nth Magical Number |  | Hard  |
+| 0878 | Nth Magical Number | [TypeScript](./src/0878.nth-magical-number.910/solution.ts) | Hard  |
 | 0879 | Profitable Schemes |  | Hard  |
 | 0880 | Decoded String at Index | [TypeScript](./src/0880.decoded-string-at-index.916/solution.ts) | Medium  |
 | 0881 | Boats to Save People | [JavaScript](./src/0881.boats-to-save-people.917/solution.js) | Medium  |
@@ -1499,7 +1499,7 @@
 | 1479 | Sales by Day of the Week |  | Hard  |
 | 1480 | Running Sum of 1d Array | [JavaScript](./src/1480.running-sum-of-1d-array.1603/solution.js) [TypeScript](./src/1480.running-sum-of-1d-array.1603/solution.ts) | Easy  |
 | 1481 | Least Number of Unique Integers after K Removals | [JavaScript](./src/1481.least-number-of-unique-integers-after-k-removals.1604/solution.js) | Medium  |
-| 1482 | Minimum Number of Days to Make m Bouquets |  | Medium  |
+| 1482 | Minimum Number of Days to Make m Bouquets | [TypeScript](./src/1482.minimum-number-of-days-to-make-m-bouquets.1605/solution.ts) | Medium  |
 | 1483 | Kth Ancestor of a Tree Node |  | Hard  |
 | 1484 | Group Sold Products By The Date |  | Easy  |
 | 1485 | Clone Binary Tree With Random Pointer | [JavaScript](./src/1485.clone-binary-tree-with-random-pointer.1624/solution.js) [TypeScript](./src/1485.clone-binary-tree-with-random-pointer.1624/solution.ts) | Medium  |
@@ -1879,7 +1879,7 @@
 | 1859 | Sorting the Sentence | [JavaScript](./src/1859.sorting-the-sentence.1970/solution.js) [TypeScript](./src/1859.sorting-the-sentence.1970/solution.ts) | Easy  |
 | 1860 | Incremental Memory Leak | [JavaScript](./src/1860.incremental-memory-leak.1971/solution.js) [TypeScript](./src/1860.incremental-memory-leak.1971/solution.ts) | Medium  |
 | 1861 | Rotating the Box |  | Medium  |
-| 1862 | Sum of Floored Pairs |  | Hard  |
+| 1862 | Sum of Floored Pairs | [TypeScript](./src/1862.sum-of-floored-pairs.1326/solution.ts) | Hard  |
 | 1863 | Sum of All Subset XOR Totals | [JavaScript](./src/1863.sum-of-all-subset-xor-totals.1993/solution.js) [TypeScript](./src/1863.sum-of-all-subset-xor-totals.1993/solution.ts) | Easy  |
 | 1864 | Minimum Number of Swaps to Make the Binary String Alternating |  | Medium  |
 | 1865 | Finding Pairs With a Certain Sum | [JavaScript](./src/1865.finding-pairs-with-a-certain-sum.1995/solution.js) [TypeScript](./src/1865.finding-pairs-with-a-certain-sum.1995/solution.ts) | Medium  |
@@ -2072,7 +2072,7 @@
 | 2052 | Minimum Cost to Separate Sentence Into Rows |  | Medium  |
 | 2053 | Kth Distinct String in an Array | [JavaScript](./src/2053.kth-distinct-string-in-an-array.2163/solution.js) [TypeScript](./src/2053.kth-distinct-string-in-an-array.2163/solution.ts) | Easy  |
 | 2054 | Two Best Non-Overlapping Events |  | Medium  |
-| 2055 | Plates Between Candles |  | Medium  |
+| 2055 | Plates Between Candles | [TypeScript](./src/2055.plates-between-candles.2165/solution.ts) | Medium  |
 | 2056 | Number of Valid Move Combinations On Chessboard |  | Hard  |
 | 2057 | Smallest Index With Equal Value | [JavaScript](./src/2057.smallest-index-with-equal-value.2181/solution.js) [TypeScript](./src/2057.smallest-index-with-equal-value.2181/solution.ts) | Easy  |
 | 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [TypeScript](./src/2058.find-the-minimum-and-maximum-number-of-nodes-between-critical-points.2182/solution.ts) | Medium  |
