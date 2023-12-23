@@ -427,7 +427,7 @@
 | 0407 | Trapping Rain Water II |  | Hard  |
 | 0408 | Valid Word Abbreviation | [JavaScript](./src/0408.valid-word-abbreviation.408/solution.js) [TypeScript](./src/0408.valid-word-abbreviation.408/solution.ts) | Easy  |
 | 0409 | Longest Palindrome | [JavaScript](./src/0409.longest-palindrome.409/solution.js) [TypeScript](./src/0409.longest-palindrome.409/solution.ts) | Easy  |
-| 0410 | Split Array Largest Sum | [JavaScript](./src/0410.split-array-largest-sum.410/solution.js) | Hard  |
+| 0410 | Split Array Largest Sum | [JavaScript](./src/0410.split-array-largest-sum.410/solution.js) [TypeScript](./src/0410.split-array-largest-sum.410/solution.ts) | Hard  |
 | 0411 | Minimum Unique Word Abbreviation |  | Hard  |
 | 0412 | Fizz Buzz | [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
 | 0413 | Arithmetic Slices | [JavaScript](./src/0413.arithmetic-slices.413/solution.js) | Medium  |
@@ -2188,7 +2188,7 @@
 | 2168 | Unique Substrings With Equal Digit Frequency |  | Medium  |
 | 2169 | Count Operations to Obtain Zero | [JavaScript](./src/2169.count-operations-to-obtain-zero.2288/solution.js) [TypeScript](./src/2169.count-operations-to-obtain-zero.2288/solution.ts) | Easy  |
 | 2170 | Minimum Operations to Make the Array Alternating |  | Medium  |
-| 2171 | Removing Minimum Number of Magic Beans |  | Medium  |
+| 2171 | Removing Minimum Number of Magic Beans | [TypeScript](./src/2171.removing-minimum-number-of-magic-beans.2290/solution.ts) | Medium  |
 | 2172 | Maximum AND Sum of Array |  | Hard  |
 | 2173 | Longest Winning Streak |  | Hard  |
 | 2174 | Remove All Ones With Row and Column Flips II |  | Medium  |
@@ -2834,7 +2834,7 @@
 | 2814 | Minimum Time Takes to Reach Destination Without Drowning |  | Hard  |
 | 2815 | Max Pair Sum in an Array | [TypeScript](./src/2815.max-pair-sum-in-an-array.2902/solution.ts) | Easy  |
 | 2816 | Double a Number Represented as a Linked List | [TypeScript](./src/2816.double-a-number-represented-as-a-linked-list.2871/solution.ts) | Medium  |
-| 2817 | Minimum Absolute Difference Between Elements With Constraint |  | Medium  |
+| 2817 | Minimum Absolute Difference Between Elements With Constraint | [TypeScript](./src/2817.minimum-absolute-difference-between-elements-with-constraint.3000/solution.ts) | Medium  |
 | 2818 | Apply Operations to Maximize Score |  | Hard  |
 | 2819 | Minimum Relative Loss After Buying Chocolates |  | Hard  |
 | 2820 | Election Results |  | Medium  |
@@ -3345,7 +3345,7 @@
 | LCR088 | 使用最小花费爬楼梯 |  | Easy  |
 | LCR089 | 打家劫舍 |  | Medium  |
 | LCR090 | 打家劫舍 II |  | Medium  |
-| LCR091 | 粉刷房子 |  | Medium  |
+| LCR091 | 粉刷房子 | [TypeScript](./src/LCR091.JEj789.1000268/solution.ts) | Medium  |
 | LCR092 | 将字符串翻转到单调递增 |  | Medium  |
 | LCR093 | 最长的斐波那契子序列的长度 | [JavaScript](./src/LCR093.Q91FMA.1000271/solution.js) | Medium  |
 | LCR094 | 分割回文串 II | [JavaScript](./src/LCR094.omKAoA.1000272/solution.js) | Hard  |
@@ -3363,7 +3363,7 @@
 | LCR106 | 判断二分图 |  | Medium  |
 | LCR107 | 01 矩阵 |  | Medium  |
 | LCR108 | 单词接龙 | [JavaScript](./src/LCR108.om3reC.1000300/solution.js) | Hard  |
-| LCR109 | 打开转盘锁 |  | Medium  |
+| LCR109 | 打开转盘锁 | [JavaScript](./src/LCR109.zlDJc7.1000302/solution.js) | Medium  |
 | LCR110 | 所有可能的路径 |  | Medium  |
 | LCR111 | 除法求值 |  | Medium  |
 | LCR112 | 矩阵中的最长递增路径 |  | Hard  |
