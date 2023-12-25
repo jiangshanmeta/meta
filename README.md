@@ -344,7 +344,7 @@
 | 0324 | Wiggle Sort II |  | Medium  |
 | 0325 | Maximum Size Subarray Sum Equals k | [JavaScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.js) [TypeScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.ts) | Medium  |
 | 0326 | Power of Three | [JavaScript](./src/0326.power-of-three.326/solution.js) [TypeScript](./src/0326.power-of-three.326/solution.ts) | Easy  |
-| 0327 | Count of Range Sum |  | Hard  |
+| 0327 | Count of Range Sum | [TypeScript](./src/0327.count-of-range-sum.327/solution.ts) | Hard  |
 | 0328 | Odd Even Linked List | [JavaScript](./src/0328.odd-even-linked-list.328/solution.js) [TypeScript](./src/0328.odd-even-linked-list.328/solution.ts) | Medium  |
 | 0329 | Longest Increasing Path in a Matrix | [JavaScript](./src/0329.longest-increasing-path-in-a-matrix.329/solution.js) | Hard  |
 | 0330 | Patching Array |  | Hard  |
@@ -1864,7 +1864,7 @@
 | 1844 | Replace All Digits with Characters | [JavaScript](./src/1844.replace-all-digits-with-characters.1954/solution.js) [TypeScript](./src/1844.replace-all-digits-with-characters.1954/solution.ts) | Easy  |
 | 1845 | Seat Reservation Manager | [JavaScript](./src/1845.seat-reservation-manager.1955/solution.js) | Medium  |
 | 1846 | Maximum Element After Decreasing and Rearranging | [JavaScript](./src/1846.maximum-element-after-decreasing-and-rearranging.1956/solution.js) | Medium  |
-| 1847 | Closest Room |  | Hard  |
+| 1847 | Closest Room | [TypeScript](./src/1847.closest-room.1957/solution.ts) | Hard  |
 | 1848 | Minimum Distance to the Target Element | [JavaScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.js) [TypeScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.ts) | Easy  |
 | 1849 | Splitting a String Into Descending Consecutive Values | [JavaScript](./src/1849.splitting-a-string-into-descending-consecutive-values.1976/solution.js) | Medium  |
 | 1850 | Minimum Adjacent Swaps to Reach the Kth Smallest Number |  | Medium  |
@@ -1906,7 +1906,7 @@
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | [TypeScript](./src/1886.determine-whether-matrix-can-be-obtained-by-rotation.2015/solution.ts) | Easy  |
 | 1887 | Reduction Operations to Make the Array Elements Equal | [JavaScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/solution.js) [TypeScript](./src/1887.reduction-operations-to-make-the-array-elements-equal.2016/solution.ts) | Medium  |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating |  | Medium  |
-| 1889 | Minimum Space Wasted From Packaging |  | Hard  |
+| 1889 | Minimum Space Wasted From Packaging | [TypeScript](./src/1889.minimum-space-wasted-from-packaging.2018/solution.ts) | Hard  |
 | 1890 | The Latest Login in 2020 |  | Easy  |
 | 1891 | Cutting Ribbons |  | Medium  |
 | 1892 | Page Recommendations II |  | Hard  |
@@ -2923,7 +2923,7 @@
 | 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String |  | Medium  |
 | 2905 | Find Indices With Index and Value Difference II | [TypeScript](./src/2905.find-indices-with-index-and-value-difference-ii.3170/solution.ts) | Medium  |
-| 2906 | Construct Product Matrix |  | Medium  |
+| 2906 | Construct Product Matrix | [TypeScript](./src/2906.construct-product-matrix.3031/solution.ts) | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
 | 2908 | Minimum Sum of Mountain Triplets I | [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
 | 2909 | Minimum Sum of Mountain Triplets II | [TypeScript](./src/2909.minimum-sum-of-mountain-triplets-ii.3186/solution.ts) | Medium  |
@@ -2957,7 +2957,7 @@
 | 2937 | Make Three Strings Equal | [TypeScript](./src/2937.make-three-strings-equal.3207/solution.ts) | Easy  |
 | 2938 | Separate Black and White Balls | [TypeScript](./src/2938.separate-black-and-white-balls.3195/solution.ts) | Medium  |
 | 2939 | Maximum Xor Product |  | Medium  |
-| 2940 | Find Building Where Alice and Bob Can Meet |  | Hard  |
+| 2940 | Find Building Where Alice and Bob Can Meet | [TypeScript](./src/2940.find-building-where-alice-and-bob-can-meet.3181/solution.ts) | Hard  |
 | 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
 | 2942 | Find Words Containing Character | [TypeScript](./src/2942.find-words-containing-character.3194/solution.ts) | Easy  |
 | 2943 | Maximize Area of Square Hole in Grid |  | Medium  |
@@ -2986,6 +2986,15 @@
 | 2966 | Divide Array Into Arrays With Max Difference | [TypeScript](./src/2966.divide-array-into-arrays-with-max-difference.3241/solution.ts) | Medium  |
 | 2967 | Minimum Cost to Make Array Equalindromic | [TypeScript](./src/2967.minimum-cost-to-make-array-equalindromic.3229/solution.ts) | Medium  |
 | 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
+| 2969 | Minimum Number of Coins for Fruits II |  | Hard  |
+| 2970 | Count the Number of Incremovable Subarrays I |  | Easy  |
+| 2971 | Find Polygon With the Largest Perimeter |  | Medium  |
+| 2972 | Count the Number of Incremovable Subarrays II |  | Hard  |
+| 2973 | Find Number of Coins to Place in Tree Nodes |  | Hard  |
+| 2974 | Minimum Number Game |  | Easy  |
+| 2975 | Maximum Square Area by Removing Fences From a Field |  | Medium  |
+| 2976 | Minimum Cost to Convert String I |  | Medium  |
+| 2977 | Minimum Cost to Convert String II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
