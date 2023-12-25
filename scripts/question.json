@@ -20776,6 +20776,69 @@
         "difficulty": 3
     },
     {
+        "id": 3268,
+        "index": "2969",
+        "title": "Minimum Number of Coins for Fruits II",
+        "title_slug": "minimum-number-of-coins-for-fruits-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3252,
+        "index": "2970",
+        "title": "Count the Number of Incremovable Subarrays I",
+        "title_slug": "count-the-number-of-incremovable-subarrays-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3262,
+        "index": "2971",
+        "title": "Find Polygon With the Largest Perimeter",
+        "title_slug": "find-polygon-with-the-largest-perimeter",
+        "difficulty": 2
+    },
+    {
+        "id": 3248,
+        "index": "2972",
+        "title": "Count the Number of Incremovable Subarrays II",
+        "title_slug": "count-the-number-of-incremovable-subarrays-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3218,
+        "index": "2973",
+        "title": "Find Number of Coins to Place in Tree Nodes",
+        "title_slug": "find-number-of-coins-to-place-in-tree-nodes",
+        "difficulty": 3
+    },
+    {
+        "id": 3226,
+        "index": "2974",
+        "title": "Minimum Number Game",
+        "title_slug": "minimum-number-game",
+        "difficulty": 1
+    },
+    {
+        "id": 3250,
+        "index": "2975",
+        "title": "Maximum Square Area by Removing Fences From a Field",
+        "title_slug": "maximum-square-area-by-removing-fences-from-a-field",
+        "difficulty": 2
+    },
+    {
+        "id": 3235,
+        "index": "2976",
+        "title": "Minimum Cost to Convert String I",
+        "title_slug": "minimum-cost-to-convert-string-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3238,
+        "index": "2977",
+        "title": "Minimum Cost to Convert String II",
+        "title_slug": "minimum-cost-to-convert-string-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
