@@ -2164,7 +2164,7 @@
 | 2144 | Minimum Cost of Buying Candies With Discount | [JavaScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.js) [TypeScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.ts) | Easy  |
 | 2145 | Count the Hidden Sequences |  | Medium  |
 | 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
-| 2147 | Number of Ways to Divide a Long Corridor |  | Hard  |
+| 2147 | Number of Ways to Divide a Long Corridor | [TypeScript](./src/2147.number-of-ways-to-divide-a-long-corridor.2251/solution.ts) | Hard  |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements  | [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.ts) | Easy  |
 | 2149 | Rearrange Array Elements by Sign | [JavaScript](./src/2149.rearrange-array-elements-by-sign.2271/solution.js) [TypeScript](./src/2149.rearrange-array-elements-by-sign.2271/solution.ts) | Medium  |
 | 2150 | Find All Lonely Numbers in the Array | [JavaScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/solution.js) [TypeScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/solution.ts) | Medium  |
@@ -2764,10 +2764,10 @@
 | 2744 | Find Maximum Number of String Pairs | [TypeScript](./src/2744.find-maximum-number-of-string-pairs.2847/solution.ts) | Easy  |
 | 2745 | Construct the Longest New String |  | Medium  |
 | 2746 | Decremental String Concatenation |  | Medium  |
-| 2747 | Count Zero Request Servers |  | Medium  |
+| 2747 | Count Zero Request Servers | [TypeScript](./src/2747.count-zero-request-servers.2833/solution.ts) | Medium  |
 | 2748 | Number of Beautiful Pairs | [TypeScript](./src/2748.number-of-beautiful-pairs.2831/solution.ts) | Easy  |
-| 2749 | Minimum Operations to Make the Integer Zero |  | Medium  |
-| 2750 | Ways to Split Array Into Good Subarrays |  | Medium  |
+| 2749 | Minimum Operations to Make the Integer Zero | [TypeScript](./src/2749.minimum-operations-to-make-the-integer-zero.2837/solution.ts) | Medium  |
+| 2750 | Ways to Split Array Into Good Subarrays | [TypeScript](./src/2750.ways-to-split-array-into-good-subarrays.2867/solution.ts) | Medium  |
 | 2751 | Robot Collisions |  | Hard  |
 | 2752 | Customers with Maximum Number of Transactions on Consecutive Days |  | Hard  |
 | 2753 | Count Houses in a Circular Street II |  | Hard  |
@@ -2988,7 +2988,7 @@
 | 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
 | 2969 | Minimum Number of Coins for Fruits II |  | Hard  |
 | 2970 | Count the Number of Incremovable Subarrays I |  | Easy  |
-| 2971 | Find Polygon With the Largest Perimeter |  | Medium  |
+| 2971 | Find Polygon With the Largest Perimeter | [TypeScript](./src/2971.find-polygon-with-the-largest-perimeter.3262/solution.ts) | Medium  |
 | 2972 | Count the Number of Incremovable Subarrays II |  | Hard  |
 | 2973 | Find Number of Coins to Place in Tree Nodes |  | Hard  |
 | 2974 | Minimum Number Game |  | Easy  |
