@@ -1939,7 +1939,7 @@
 | 1919 | Leetcodify Similar Friends |  | Hard  |
 | 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) [TypeScript](./src/1920.build-array-from-permutation.2048/solution.ts) | Easy  |
 | 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
-| 1922 | Count Good Numbers |  | Medium  |
+| 1922 | Count Good Numbers | [TypeScript](./src/1922.count-good-numbers.2050/solution.ts) | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
 | 1924 | Erect the Fence II |  | Hard  |
 | 1925 | Count Square Sum Triples | [JavaScript](./src/1925.count-square-sum-triples.2037/solution.js) [TypeScript](./src/1925.count-square-sum-triples.2037/solution.ts) | Easy  |
@@ -1972,7 +1972,7 @@
 | 1952 | Three Divisors | [JavaScript](./src/1952.three-divisors.2083/solution.js) [TypeScript](./src/1952.three-divisors.2083/solution.ts) | Easy  |
 | 1953 | Maximum Number of Weeks for Which You Can Work | [JavaScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/solution.js) [TypeScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/solution.ts) | Medium  |
 | 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.js) [TypeScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.ts) | Medium  |
-| 1955 | Count Number of Special Subsequences |  | Hard  |
+| 1955 | Count Number of Special Subsequences | [TypeScript](./src/1955.count-number-of-special-subsequences.2086/solution.ts) | Hard  |
 | 1956 | Minimum Time For K Virus Variants to Spread |  | Hard  |
 | 1957 | Delete Characters to Make Fancy String | [JavaScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.js) [TypeScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.ts) | Easy  |
 | 1958 | Check if Move is Legal |  | Medium  |
@@ -2162,7 +2162,7 @@
 | 2142 | The Number of Passengers in Each Bus I |  | Medium  |
 | 2143 | Choose Numbers From Two Arrays in Range |  | Hard  |
 | 2144 | Minimum Cost of Buying Candies With Discount | [JavaScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.js) [TypeScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.ts) | Easy  |
-| 2145 | Count the Hidden Sequences |  | Medium  |
+| 2145 | Count the Hidden Sequences | [TypeScript](./src/2145.count-the-hidden-sequences.2249/solution.ts) | Medium  |
 | 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
 | 2147 | Number of Ways to Divide a Long Corridor | [TypeScript](./src/2147.number-of-ways-to-divide-a-long-corridor.2251/solution.ts) | Hard  |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements  | [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.ts) | Easy  |
@@ -2319,7 +2319,7 @@
 | 2299 | Strong Password Checker II | [JavaScript](./src/2299.strong-password-checker-ii.2391/solution.js) [TypeScript](./src/2299.strong-password-checker-ii.2391/solution.ts) | Easy  |
 | 2300 | Successful Pairs of Spells and Potions | [TypeScript](./src/2300.successful-pairs-of-spells-and-potions.2392/solution.ts) | Medium  |
 | 2301 | Match Substring After Replacement |  | Hard  |
-| 2302 | Count Subarrays With Score Less Than K |  | Hard  |
+| 2302 | Count Subarrays With Score Less Than K | [TypeScript](./src/2302.count-subarrays-with-score-less-than-k.2394/solution.ts) | Hard  |
 | 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
 | 2304 | Minimum Path Cost in a Grid | [TypeScript](./src/2304.minimum-path-cost-in-a-grid.1394/solution.ts) | Medium  |
 | 2305 | Fair Distribution of Cookies |  | Medium  |
@@ -2337,7 +2337,7 @@
 | 2317 | Maximum XOR After Operations  | [TypeScript](./src/2317.maximum-xor-after-operations.2402/solution.ts) | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
 | 2319 | Check if Matrix Is X-Matrix | [JavaScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.js) [TypeScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.ts) | Easy  |
-| 2320 | Count Number of Ways to Place Houses |  | Medium  |
+| 2320 | Count Number of Ways to Place Houses | [TypeScript](./src/2320.count-number-of-ways-to-place-houses.2397/solution.ts) | Medium  |
 | 2321 | Maximum Score Of Spliced Array |  | Hard  |
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
