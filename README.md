@@ -2002,7 +2002,7 @@
 | 1982 | Find Array Given Subset Sums |  | Hard  |
 | 1983 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | [JavaScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.js) [TypeScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.ts) | Easy  |
-| 1985 | Find the Kth Largest Integer in the Array |  | Medium  |
+| 1985 | Find the Kth Largest Integer in the Array | [TypeScript](./src/1985.find-the-kth-largest-integer-in-the-array.2113/solution.ts) | Medium  |
 | 1986 | Minimum Number of Work Sessions to Finish the Tasks |  | Medium  |
 | 1987 | Number of Unique Good Subsequences |  | Hard  |
 | 1988 | Find Cutoff Score for Each School |  | Medium  |
@@ -2152,7 +2152,7 @@
 | 2132 | Stamping the Grid |  | Hard  |
 | 2133 | Check if Every Row and Column Contains All Numbers | [JavaScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.js) [TypeScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.ts) | Easy  |
 | 2134 | Minimum Swaps to Group All 1's Together II |  | Medium  |
-| 2135 | Count Words Obtained After Adding a Letter |  | Medium  |
+| 2135 | Count Words Obtained After Adding a Letter | [TypeScript](./src/2135.count-words-obtained-after-adding-a-letter.2256/solution.ts) | Medium  |
 | 2136 | Earliest Possible Day of Full Bloom |  | Hard  |
 | 2137 | Pour Water Between Buckets to Make Water Levels Equal |  | Medium  |
 | 2138 | Divide a String Into Groups of Size k | [JavaScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.js) [TypeScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.ts) | Easy  |
@@ -2862,7 +2862,7 @@
 | 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
 | 2843 |   Count Symmetric Integers | [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
 | 2844 | Minimum Operations to Make a Special Number | [TypeScript](./src/2844.minimum-operations-to-make-a-special-number.3046/solution.ts) | Medium  |
-| 2845 | Count of Interesting Subarrays |  | Medium  |
+| 2845 | Count of Interesting Subarrays | [TypeScript](./src/2845.count-of-interesting-subarrays.2915/solution.ts) | Medium  |
 | 2846 | Minimum Edge Weight Equilibrium Queries in a Tree |  | Hard  |
 | 2847 | Smallest Number With Given Digit Product |  | Medium  |
 | 2848 | Points That Intersect With Cars | [TypeScript](./src/2848.points-that-intersect-with-cars.3034/solution.ts) | Easy  |
@@ -2882,8 +2882,8 @@
 | 2862 | Maximum Element-Sum of a Complete Subset of Indices |  | Hard  |
 | 2863 | Maximum Length of Semi-Decreasing Subarrays |  | Medium  |
 | 2864 | Maximum Odd Binary Number | [TypeScript](./src/2864.maximum-odd-binary-number.3055/solution.ts) | Easy  |
-| 2865 | Beautiful Towers I |  | Medium  |
-| 2866 | Beautiful Towers II |  | Medium  |
+| 2865 | Beautiful Towers I | [TypeScript](./src/2865.beautiful-towers-i.3114/solution.ts) | Medium  |
+| 2866 | Beautiful Towers II | [TypeScript](./src/2866.beautiful-towers-ii.3113/solution.ts) | Medium  |
 | 2867 | Count Valid Paths in a Tree |  | Hard  |
 | 2868 | The Wording Game |  | Hard  |
 | 2869 | Minimum Operations to Collect Elements | [TypeScript](./src/2869.minimum-operations-to-collect-elements.3044/solution.ts) | Easy  |
