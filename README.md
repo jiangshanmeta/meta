@@ -2991,9 +2991,9 @@
 | 2971 | Find Polygon With the Largest Perimeter | [TypeScript](./src/2971.find-polygon-with-the-largest-perimeter.3262/solution.ts) | Medium  |
 | 2972 | Count the Number of Incremovable Subarrays II |  | Hard  |
 | 2973 | Find Number of Coins to Place in Tree Nodes |  | Hard  |
-| 2974 | Minimum Number Game |  | Easy  |
+| 2974 | Minimum Number Game | [TypeScript](./src/2974.minimum-number-game.3226/solution.ts) | Easy  |
 | 2975 | Maximum Square Area by Removing Fences From a Field |  | Medium  |
-| 2976 | Minimum Cost to Convert String I |  | Medium  |
+| 2976 | Minimum Cost to Convert String I | [TypeScript](./src/2976.minimum-cost-to-convert-string-i.3235/solution.ts) | Medium  |
 | 2977 | Minimum Cost to Convert String II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
@@ -3328,7 +3328,7 @@
 | LCR062 | 实现 Trie (前缀树) |  | Medium  |
 | LCR063 | 单词替换 |  | Medium  |
 | LCR064 | 实现一个魔法字典 |  | Medium  |
-| LCR065 | 单词的压缩编码 |  | Medium  |
+| LCR065 | 单词的压缩编码 | [JavaScript](./src/LCR065.iSwD2y.1000329/solution.js) | Medium  |
 | LCR066 |  键值映射 |  | Medium  |
 | LCR067 | 数组中两个数的最大异或值 |  | Medium  |
 | LCR068 | 搜索插入位置 |  | Easy  |
@@ -3349,7 +3349,7 @@
 | LCR083 | 全排列 |  | Medium  |
 | LCR084 | 全排列 II  |  | Medium  |
 | LCR085 | 括号生成 |  | Medium  |
-| LCR086 | 分割回文串 |  | Medium  |
+| LCR086 | 分割回文串 | [TypeScript](./src/LCR086.M99OJA.1000240/solution.ts) | Medium  |
 | LCR087 | 复原 IP 地址 | [TypeScript](./src/LCR087.0on3uN.1000241/solution.ts) | Medium  |
 | LCR088 | 使用最小花费爬楼梯 |  | Easy  |
 | LCR089 | 打家劫舍 |  | Medium  |
