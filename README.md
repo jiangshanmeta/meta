@@ -2966,7 +2966,7 @@
 | 2946 | Matrix Similarity After Cyclic Shifts | [TypeScript](./src/2946.matrix-similarity-after-cyclic-shifts.3215/solution.ts) | Easy  |
 | 2947 | Count Beautiful Substrings I | [TypeScript](./src/2947.count-beautiful-substrings-i.3210/solution.ts) | Medium  |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
-| 2949 | Count Beautiful Substrings II |  | Hard  |
+| 2949 | Count Beautiful Substrings II | [TypeScript](./src/2949.count-beautiful-substrings-ii.3208/solution.ts) | Hard  |
 | 2950 | Number of Divisible Substrings |  | Medium  |
 | 2951 | Find the Peaks | [TypeScript](./src/2951.find-the-peaks.3221/solution.ts) | Easy  |
 | 2952 | Minimum Number of Coins to be Added |  | Medium  |
@@ -2995,6 +2995,20 @@
 | 2975 | Maximum Square Area by Removing Fences From a Field |  | Medium  |
 | 2976 | Minimum Cost to Convert String I | [TypeScript](./src/2976.minimum-cost-to-convert-string-i.3235/solution.ts) | Medium  |
 | 2977 | Minimum Cost to Convert String II |  | Hard  |
+| 2978 | Symmetric Coordinates |  | Medium  |
+| 2979 | Most Expensive Item That Can Not Be Bought |  | Medium  |
+| 2980 | Check if Bitwise OR Has Trailing Zeros | [TypeScript](./src/2980.check-if-bitwise-or-has-trailing-zeros.3246/solution.ts) | Easy  |
+| 2981 | Find Longest Special Substring That Occurs Thrice I | [TypeScript](./src/2981.find-longest-special-substring-that-occurs-thrice-i.3267/solution.ts) | Medium  |
+| 2982 | Find Longest Special Substring That Occurs Thrice II | [TypeScript](./src/2982.find-longest-special-substring-that-occurs-thrice-ii.3266/solution.ts) | Medium  |
+| 2983 | Palindrome Rearrangement Queries | [TypeScript](./src/2983.palindrome-rearrangement-queries.3203/solution.ts) | Hard  |
+| 2984 | Find Peak Calling Hours for Each City |  | Medium  |
+| 2985 | Calculate Compressed Mean |  | Easy  |
+| 2986 | Find Third Transaction |  | Medium  |
+| 2987 | Find Expensive Cities |  | Easy  |
+| 2988 | Manager of the Largest Department |  | Medium  |
+| 2989 | Class Performance |  | Medium  |
+| 2990 | Loan Types |  | Easy  |
+| 2991 | Top Three Wineries  |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
