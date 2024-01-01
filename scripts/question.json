@@ -20839,6 +20839,104 @@
         "difficulty": 3
     },
     {
+        "id": 3253,
+        "index": "2978",
+        "title": "Symmetric Coordinates",
+        "title_slug": "symmetric-coordinates",
+        "difficulty": 2
+    },
+    {
+        "id": 3273,
+        "index": "2979",
+        "title": "Most Expensive Item That Can Not Be Bought",
+        "title_slug": "most-expensive-item-that-can-not-be-bought",
+        "difficulty": 2
+    },
+    {
+        "id": 3246,
+        "index": "2980",
+        "title": "Check if Bitwise OR Has Trailing Zeros",
+        "title_slug": "check-if-bitwise-or-has-trailing-zeros",
+        "difficulty": 1
+    },
+    {
+        "id": 3267,
+        "index": "2981",
+        "title": "Find Longest Special Substring That Occurs Thrice I",
+        "title_slug": "find-longest-special-substring-that-occurs-thrice-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3266,
+        "index": "2982",
+        "title": "Find Longest Special Substring That Occurs Thrice II",
+        "title_slug": "find-longest-special-substring-that-occurs-thrice-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3203,
+        "index": "2983",
+        "title": "Palindrome Rearrangement Queries",
+        "title_slug": "palindrome-rearrangement-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 3281,
+        "index": "2984",
+        "title": "Find Peak Calling Hours for Each City",
+        "title_slug": "find-peak-calling-hours-for-each-city",
+        "difficulty": 2
+    },
+    {
+        "id": 3282,
+        "index": "2985",
+        "title": "Calculate Compressed Mean",
+        "title_slug": "calculate-compressed-mean",
+        "difficulty": 1
+    },
+    {
+        "id": 3283,
+        "index": "2986",
+        "title": "Find Third Transaction",
+        "title_slug": "find-third-transaction",
+        "difficulty": 2
+    },
+    {
+        "id": 3284,
+        "index": "2987",
+        "title": "Find Expensive Cities",
+        "title_slug": "find-expensive-cities",
+        "difficulty": 1
+    },
+    {
+        "id": 3285,
+        "index": "2988",
+        "title": "Manager of the Largest Department",
+        "title_slug": "manager-of-the-largest-department",
+        "difficulty": 2
+    },
+    {
+        "id": 3286,
+        "index": "2989",
+        "title": "Class Performance",
+        "title_slug": "class-performance",
+        "difficulty": 2
+    },
+    {
+        "id": 3287,
+        "index": "2990",
+        "title": "Loan Types",
+        "title_slug": "loan-types",
+        "difficulty": 1
+    },
+    {
+        "id": 3288,
+        "index": "2991",
+        "title": "Top Three Wineries ",
+        "title_slug": "top-three-wineries",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
