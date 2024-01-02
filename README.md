@@ -2892,7 +2892,7 @@
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
 | 2873 | Maximum Value of an Ordered Triplet I | [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
 | 2874 | Maximum Value of an Ordered Triplet II | [TypeScript](./src/2874.maximum-value-of-an-ordered-triplet-ii.3152/solution.ts) | Medium  |
-| 2875 | Minimum Size Subarray in Infinite Array |  | Medium  |
+| 2875 | Minimum Size Subarray in Infinite Array | [TypeScript](./src/2875.minimum-size-subarray-in-infinite-array.3141/solution.ts) | Medium  |
 | 2876 | Count Visited Nodes in a Directed Graph |  | Hard  |
 | 2877 | Create a DataFrame from List |  | Easy  |
 | 2878 | Get the Size of a DataFrame |  | Easy  |
@@ -2948,7 +2948,7 @@
 | 2928 | Distribute Candies Among Children I | [TypeScript](./src/2928.distribute-candies-among-children-i.3199/solution.ts) | Easy  |
 | 2929 | Distribute Candies Among Children II | [TypeScript](./src/2929.distribute-candies-among-children-ii.3201/solution.ts) | Medium  |
 | 2930 | Number of Strings Which Can Be Rearranged to Contain Substring |  | Medium  |
-| 2931 | Maximum Spending After Buying Items |  | Hard  |
+| 2931 | Maximum Spending After Buying Items | [TypeScript](./src/2931.maximum-spending-after-buying-items.3107/solution.ts) | Hard  |
 | 2932 | Maximum Strong Pair XOR I | [TypeScript](./src/2932.maximum-strong-pair-xor-i.3193/solution.ts) | Easy  |
 | 2933 | High-Access Employees | [TypeScript](./src/2933.high-access-employees.3202/solution.ts) | Medium  |
 | 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
@@ -2960,7 +2960,7 @@
 | 2940 | Find Building Where Alice and Bob Can Meet | [TypeScript](./src/2940.find-building-where-alice-and-bob-can-meet.3181/solution.ts) | Hard  |
 | 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
 | 2942 | Find Words Containing Character | [TypeScript](./src/2942.find-words-containing-character.3194/solution.ts) | Easy  |
-| 2943 | Maximize Area of Square Hole in Grid |  | Medium  |
+| 2943 | Maximize Area of Square Hole in Grid | [TypeScript](./src/2943.maximize-area-of-square-hole-in-grid.3214/solution.ts) | Medium  |
 | 2944 | Minimum Number of Coins for Fruits |  | Medium  |
 | 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
 | 2946 | Matrix Similarity After Cyclic Shifts | [TypeScript](./src/2946.matrix-similarity-after-cyclic-shifts.3215/solution.ts) | Easy  |
@@ -2992,7 +2992,7 @@
 | 2972 | Count the Number of Incremovable Subarrays II |  | Hard  |
 | 2973 | Find Number of Coins to Place in Tree Nodes |  | Hard  |
 | 2974 | Minimum Number Game | [TypeScript](./src/2974.minimum-number-game.3226/solution.ts) | Easy  |
-| 2975 | Maximum Square Area by Removing Fences From a Field |  | Medium  |
+| 2975 | Maximum Square Area by Removing Fences From a Field | [TypeScript](./src/2975.maximum-square-area-by-removing-fences-from-a-field.3250/solution.ts) | Medium  |
 | 2976 | Minimum Cost to Convert String I | [TypeScript](./src/2976.minimum-cost-to-convert-string-i.3235/solution.ts) | Medium  |
 | 2977 | Minimum Cost to Convert String II |  | Hard  |
 | 2978 | Symmetric Coordinates |  | Medium  |
@@ -3396,4 +3396,4 @@
 | LCR116 | 省份数量 |  | Medium  |
 | LCR117 | 相似字符串组 |  | Hard  |
 | LCR118 | 冗余连接 |  | Medium  |
-| LCR119 | 最长连续序列 |  | Medium  |
+| LCR119 | 最长连续序列 | [JavaScript](./src/LCR119.WhsWhI.1000320/solution.js) | Medium  |
