@@ -2098,7 +2098,7 @@
 | 2078 | Two Furthest Houses With Different Colors | [JavaScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.js) [TypeScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.ts) | Easy  |
 | 2079 | Watering Plants | [JavaScript](./src/2079.watering-plants.1310/solution.js) [TypeScript](./src/2079.watering-plants.1310/solution.ts) | Medium  |
 | 2080 | Range Frequency Queries |  | Medium  |
-| 2081 | Sum of k-Mirror Numbers |  | Hard  |
+| 2081 | Sum of k-Mirror Numbers | [TypeScript](./src/2081.sum-of-k-mirror-numbers.2202/solution.ts) | Hard  |
 | 2082 | The Number of Rich Customers |  | Easy  |
 | 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
@@ -2392,7 +2392,7 @@
 | 2372 | Calculate the Influence of Each Salesperson |  | Medium  |
 | 2373 | Largest Local Values in a Matrix | [JavaScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.js) [TypeScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.ts) | Easy  |
 | 2374 | Node With Highest Edge Score | [JavaScript](./src/2374.node-with-highest-edge-score.2455/solution.js) [TypeScript](./src/2374.node-with-highest-edge-score.2455/solution.ts) | Medium  |
-| 2375 | Construct Smallest Number From DI String |  | Medium  |
+| 2375 | Construct Smallest Number From DI String | [TypeScript](./src/2375.construct-smallest-number-from-di-string.2456/solution.ts) | Medium  |
 | 2376 | Count Special Integers |  | Hard  |
 | 2377 | Sort the Olympic Table |  | Easy  |
 | 2378 | Choose Edges to Maximize Score in a Tree |  | Medium  |
@@ -2725,7 +2725,7 @@
 | 2705 | Compact Object | [TypeScript](./src/2705.compact-object.2804/solution.ts) | Medium  |
 | 2706 | Buy Two Chocolates | [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
 | 2707 | Extra Characters in a String | [TypeScript](./src/2707.extra-characters-in-a-string.2755/solution.ts) | Medium  |
-| 2708 | Maximum Strength of a Group |  | Medium  |
+| 2708 | Maximum Strength of a Group | [TypeScript](./src/2708.maximum-strength-of-a-group.2754/solution.ts) | Medium  |
 | 2709 | Greatest Common Divisor Traversal | [TypeScript](./src/2709.greatest-common-divisor-traversal.2827/solution.ts) | Hard  |
 | 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
 | 2711 | Difference of Number of Distinct Values on Diagonals | [TypeScript](./src/2711.difference-of-number-of-distinct-values-on-diagonals.2801/solution.ts) | Medium  |
@@ -3109,7 +3109,7 @@
 | LCR135 | 报数 |  | Easy  |
 | LCR136 | 删除链表的节点 |  | Easy  |
 | LCR137 | 模糊搜索验证 |  | Hard  |
-| LCR138 | 有效数字 |  | Medium  |
+| LCR138 | 有效数字 | [TypeScript](./src/LCR138.biao-shi-shu-zhi-de-zi-fu-chuan-lcof.100290/solution.ts) | Medium  |
 | LCR139 | 训练计划 I |  | Easy  |
 | LCR140 | 训练计划 II |  | Easy  |
 | LCR141 | 训练计划 III |  | Easy  |
@@ -3163,7 +3163,7 @@
 | LCR189 | 设计机械累加器 |  | Medium  |
 | LCR190 | 加密运算 |  | Easy  |
 | LCR191 | 按规则计算统计结果 |  | Medium  |
-| LCR192 | 把字符串转换成整数 (atoi) |  | Medium  |
+| LCR192 | 把字符串转换成整数 (atoi) | [JavaScript](./src/LCR192.ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.100340/solution.js) | Medium  |
 | LCR193 | 求二叉搜索树的最近公共祖先 |  | Easy  |
 | LCR194 | 寻找二叉树的最近公共祖先 |  | Easy  |
 | 面试题01_01 | Is Unique LCCI | [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
