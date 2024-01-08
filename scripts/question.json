@@ -11456,7 +11456,7 @@
         "index": "1637",
         "title": "Widest Vertical Area Between Two Points Containing No Points",
         "title_slug": "widest-vertical-area-between-two-points-containing-no-points",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 1743,
@@ -20934,6 +20934,90 @@
         "index": "2991",
         "title": "Top Three Wineries ",
         "title_slug": "top-three-wineries",
+        "difficulty": 3
+    },
+    {
+        "id": 3294,
+        "index": "2992",
+        "title": "Number of Self-Divisible Permutations",
+        "title_slug": "number-of-self-divisible-permutations",
+        "difficulty": 2
+    },
+    {
+        "id": 3300,
+        "index": "2993",
+        "title": "Friday Purchases I",
+        "title_slug": "friday-purchases-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3301,
+        "index": "2994",
+        "title": "Friday Purchases II ",
+        "title_slug": "friday-purchases-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3302,
+        "index": "2995",
+        "title": "Viewers Turned Streamers",
+        "title_slug": "viewers-turned-streamers",
+        "difficulty": 3
+    },
+    {
+        "id": 3236,
+        "index": "10031",
+        "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+        "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 3249,
+        "index": "10032",
+        "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+        "title_slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3239,
+        "index": "10033",
+        "title": "Minimum Number of Operations to Make X and Y Equal",
+        "title_slug": "minimum-number-of-operations-to-make-x-and-y-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 3243,
+        "index": "10034",
+        "title": "Count the Number of Powerful Integers",
+        "title_slug": "count-the-number-of-powerful-integers",
+        "difficulty": 3
+    },
+    {
+        "id": 3251,
+        "index": "10035",
+        "title": "Maximum Area of Longest Diagonal Rectangle",
+        "title_slug": "maximum-area-of-longest-diagonal-rectangle",
+        "difficulty": 1
+    },
+    {
+        "id": 3270,
+        "index": "10036",
+        "title": "Minimum Moves to Capture The Queen",
+        "title_slug": "minimum-moves-to-capture-the-queen",
+        "difficulty": 2
+    },
+    {
+        "id": 3228,
+        "index": "10037",
+        "title": "Maximum Size of a Set After Removals",
+        "title_slug": "maximum-size-of-a-set-after-removals",
+        "difficulty": 2
+    },
+    {
+        "id": 3233,
+        "index": "10038",
+        "title": "Maximize the Number of Partitions After Operations",
+        "title_slug": "maximize-the-number-of-partitions-after-operations",
         "difficulty": 3
     },
     {
