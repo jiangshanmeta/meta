@@ -915,7 +915,7 @@
 | 0895 | Maximum Frequency Stack | [JavaScript](./src/0895.maximum-frequency-stack.931/solution.js) [TypeScript](./src/0895.maximum-frequency-stack.931/solution.ts) | Hard  |
 | 0896 | Monotonic Array | [JavaScript](./src/0896.monotonic-array.932/solution.js) [TypeScript](./src/0896.monotonic-array.932/solution.ts) | Easy  |
 | 0897 | Increasing Order Search Tree | [JavaScript](./src/0897.increasing-order-search-tree.933/solution.js) [TypeScript](./src/0897.increasing-order-search-tree.933/solution.ts) | Easy  |
-| 0898 | Bitwise ORs of Subarrays |  | Medium  |
+| 0898 | Bitwise ORs of Subarrays | [TypeScript](./src/0898.bitwise-ors-of-subarrays.934/solution.ts) | Medium  |
 | 0899 | Orderly Queue |  | Hard  |
 | 0900 | RLE Iterator | [JavaScript](./src/0900.rle-iterator.936/solution.js) [TypeScript](./src/0900.rle-iterator.936/solution.ts) | Medium  |
 | 0901 | Online Stock Span | [JavaScript](./src/0901.online-stock-span.937/solution.js) [TypeScript](./src/0901.online-stock-span.937/solution.ts) | Medium  |
@@ -1654,7 +1654,7 @@
 | 1634 | Add Two Polynomials Represented as Linked Lists | [JavaScript](./src/1634.add-two-polynomials-represented-as-linked-lists.1774/solution.js) | Medium  |
 | 1635 | Hopper Company Queries I |  | Hard  |
 | 1636 | Sort Array by Increasing Frequency | [JavaScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.js) [TypeScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.ts) | Easy  |
-| 1637 | Widest Vertical Area Between Two Points Containing No Points | [JavaScript](./src/1637.widest-vertical-area-between-two-points-containing-no-points.1742/solution.js) | Medium  |
+| 1637 | Widest Vertical Area Between Two Points Containing No Points | [JavaScript](./src/1637.widest-vertical-area-between-two-points-containing-no-points.1742/solution.js) | Easy  |
 | 1638 | Count Substrings That Differ by One Character |  | Medium  |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary |  | Hard  |
 | 1640 | Check Array Formation Through Concatenation | [JavaScript](./src/1640.check-array-formation-through-concatenation.1760/solution.js) [TypeScript](./src/1640.check-array-formation-through-concatenation.1760/solution.ts) | Easy  |
@@ -1938,7 +1938,7 @@
 | 1918 | Kth Smallest Subarray Sum |  | Medium  |
 | 1919 | Leetcodify Similar Friends |  | Hard  |
 | 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) [TypeScript](./src/1920.build-array-from-permutation.2048/solution.ts) | Easy  |
-| 1921 | Eliminate Maximum Number of Monsters |  | Medium  |
+| 1921 | Eliminate Maximum Number of Monsters | [TypeScript](./src/1921.eliminate-maximum-number-of-monsters.2049/solution.ts) | Medium  |
 | 1922 | Count Good Numbers | [TypeScript](./src/1922.count-good-numbers.2050/solution.ts) | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
 | 1924 | Erect the Fence II |  | Hard  |
@@ -1961,7 +1961,7 @@
 | 1941 | Check if All Characters Have Equal Number of Occurrences | [JavaScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.js) [TypeScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.ts) | Easy  |
 | 1942 | The Number of the Smallest Unoccupied Chair |  | Medium  |
 | 1943 | Describe the Painting |  | Medium  |
-| 1944 | Number of Visible People in a Queue |  | Hard  |
+| 1944 | Number of Visible People in a Queue | [TypeScript](./src/1944.number-of-visible-people-in-a-queue.1305/solution.ts) | Hard  |
 | 1945 | Sum of Digits of String After Convert | [JavaScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.js) [TypeScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.ts) | Easy  |
 | 1946 | Largest Number After Mutating Substring | [JavaScript](./src/1946.largest-number-after-mutating-substring.2077/solution.js) [TypeScript](./src/1946.largest-number-after-mutating-substring.2077/solution.ts) | Medium  |
 | 1947 | Maximum Compatibility Score Sum | [JavaScript](./src/1947.maximum-compatibility-score-sum.2078/solution.js) [TypeScript](./src/1947.maximum-compatibility-score-sum.2078/solution.ts) | Medium  |
@@ -2268,7 +2268,7 @@
 | 2248 | Intersection of Multiple Arrays | [JavaScript](./src/2248.intersection-of-multiple-arrays.2331/solution.js) [TypeScript](./src/2248.intersection-of-multiple-arrays.2331/solution.ts) | Easy  |
 | 2249 | Count Lattice Points Inside a Circle |  | Medium  |
 | 2250 | Count Number of Rectangles Containing Each Point |  | Medium  |
-| 2251 | Number of Flowers in Full Bloom |  | Hard  |
+| 2251 | Number of Flowers in Full Bloom | [TypeScript](./src/2251.number-of-flowers-in-full-bloom.2334/solution.ts) | Hard  |
 | 2252 | Dynamic Pivoting of a Table |  | Hard  |
 | 2253 | Dynamic Unpivoting of a Table |  | Hard  |
 | 2254 | Design Video Sharing Platform |  | Hard  |
@@ -2354,7 +2354,7 @@
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
 | 2335 | Minimum Amount of Time to Fill Cups | [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.ts) | Easy  |
 | 2336 | Smallest Number in Infinite Set | [TypeScript](./src/2336.smallest-number-in-infinite-set.2413/solution.ts) | Medium  |
-| 2337 | Move Pieces to Obtain a String |  | Medium  |
+| 2337 | Move Pieces to Obtain a String | [TypeScript](./src/2337.move-pieces-to-obtain-a-string.2414/solution.ts) | Medium  |
 | 2338 | Count the Number of Ideal Arrays |  | Hard  |
 | 2339 | All the Matches of the League |  | Easy  |
 | 2340 | Minimum Adjacent Swaps to Make a Valid Array |  | Medium  |
@@ -3009,6 +3009,18 @@
 | 2989 | Class Performance |  | Medium  |
 | 2990 | Loan Types |  | Easy  |
 | 2991 | Top Three Wineries  |  | Hard  |
+| 2992 | Number of Self-Divisible Permutations |  | Medium  |
+| 2993 | Friday Purchases I |  | Medium  |
+| 2994 | Friday Purchases II  |  | Hard  |
+| 2995 | Viewers Turned Streamers |  | Hard  |
+| 10031 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  | Easy  |
+| 10032 | Minimum Number of Operations to Make Array XOR Equal to K |  | Medium  |
+| 10033 | Minimum Number of Operations to Make X and Y Equal |  | Medium  |
+| 10034 | Count the Number of Powerful Integers |  | Hard  |
+| 10035 | Maximum Area of Longest Diagonal Rectangle |  | Easy  |
+| 10036 | Minimum Moves to Capture The Queen |  | Medium  |
+| 10037 | Maximum Size of a Set After Removals |  | Medium  |
+| 10038 | Maximize the Number of Partitions After Operations |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
