@@ -1632,7 +1632,7 @@
 | 1612 | Check If Two Expression Trees are Equivalent | [JavaScript](./src/1612.check-if-two-expression-trees-are-equivalent.1750/solution.js) | Medium  |
 | 1613 | Find the Missing IDs |  | Medium  |
 | 1614 | Maximum Nesting Depth of the Parentheses | [JavaScript](./src/1614.maximum-nesting-depth-of-the-parentheses.1737/solution.js) [TypeScript](./src/1614.maximum-nesting-depth-of-the-parentheses.1737/solution.ts) | Easy  |
-| 1615 | Maximal Network Rank |  | Medium  |
+| 1615 | Maximal Network Rank | [TypeScript](./src/1615.maximal-network-rank.1738/solution.ts) | Medium  |
 | 1616 | Split Two Strings to Make Palindrome | [JavaScript](./src/1616.split-two-strings-to-make-palindrome.1739/solution.js) | Medium  |
 | 1617 | Count Subtrees With Max Distance Between Cities |  | Hard  |
 | 1618 | Maximum Font to Fit a Sentence in a Screen | [JavaScript](./src/1618.maximum-font-to-fit-a-sentence-in-a-screen.1384/solution.js) | Medium  |
@@ -2370,7 +2370,7 @@
 | 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
 | 2351 | First Letter to Appear Twice | [JavaScript](./src/2351.first-letter-to-appear-twice.2427/solution.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/solution.ts) | Easy  |
 | 2352 | Equal Row and Column Pairs | [JavaScript](./src/2352.equal-row-and-column-pairs.2428/solution.js) [TypeScript](./src/2352.equal-row-and-column-pairs.2428/solution.ts) | Medium  |
-| 2353 | Design a Food Rating System |  | Medium  |
+| 2353 | Design a Food Rating System | [TypeScript](./src/2353.design-a-food-rating-system.2429/solution.ts) | Medium  |
 | 2354 | Number of Excellent Pairs |  | Hard  |
 | 2355 | Maximum Number of Books You Can Take |  | Hard  |
 | 2356 | Number of Unique Subjects Taught by Each Teacher |  | Easy  |
@@ -3013,14 +3013,14 @@
 | 2993 | Friday Purchases I |  | Medium  |
 | 2994 | Friday Purchases II  |  | Hard  |
 | 2995 | Viewers Turned Streamers |  | Hard  |
-| 10031 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  | Easy  |
-| 10032 | Minimum Number of Operations to Make Array XOR Equal to K |  | Medium  |
-| 10033 | Minimum Number of Operations to Make X and Y Equal |  | Medium  |
-| 10034 | Count the Number of Powerful Integers |  | Hard  |
-| 10035 | Maximum Area of Longest Diagonal Rectangle |  | Easy  |
-| 10036 | Minimum Moves to Capture The Queen |  | Medium  |
-| 10037 | Maximum Size of a Set After Removals |  | Medium  |
-| 10038 | Maximize the Number of Partitions After Operations |  | Hard  |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [TypeScript](./src/2996.smallest-missing-integer-greater-than-sequential-prefix-sum.3236/solution.ts) | Easy  |
+| 2997 | Minimum Number of Operations to Make Array XOR Equal to K | [TypeScript](./src/2997.minimum-number-of-operations-to-make-array-xor-equal-to-k.3249/solution.ts) | Medium  |
+| 2998 | Minimum Number of Operations to Make X and Y Equal |  | Medium  |
+| 2999 | Count the Number of Powerful Integers |  | Hard  |
+| 3000 | Maximum Area of Longest Diagonal Rectangle | [TypeScript](./src/3000.maximum-area-of-longest-diagonal-rectangle.3251/solution.ts) | Easy  |
+| 3001 | Minimum Moves to Capture The Queen |  | Medium  |
+| 3002 | Maximum Size of a Set After Removals |  | Medium  |
+| 3003 | Maximize the Number of Partitions After Operations |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
