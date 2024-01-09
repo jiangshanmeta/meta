@@ -20966,56 +20966,56 @@
     },
     {
         "id": 3236,
-        "index": "10031",
+        "index": "2996",
         "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
         "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
         "difficulty": 1
     },
     {
         "id": 3249,
-        "index": "10032",
+        "index": "2997",
         "title": "Minimum Number of Operations to Make Array XOR Equal to K",
         "title_slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
         "difficulty": 2
     },
     {
         "id": 3239,
-        "index": "10033",
+        "index": "2998",
         "title": "Minimum Number of Operations to Make X and Y Equal",
         "title_slug": "minimum-number-of-operations-to-make-x-and-y-equal",
         "difficulty": 2
     },
     {
         "id": 3243,
-        "index": "10034",
+        "index": "2999",
         "title": "Count the Number of Powerful Integers",
         "title_slug": "count-the-number-of-powerful-integers",
         "difficulty": 3
     },
     {
         "id": 3251,
-        "index": "10035",
+        "index": "3000",
         "title": "Maximum Area of Longest Diagonal Rectangle",
         "title_slug": "maximum-area-of-longest-diagonal-rectangle",
         "difficulty": 1
     },
     {
         "id": 3270,
-        "index": "10036",
+        "index": "3001",
         "title": "Minimum Moves to Capture The Queen",
         "title_slug": "minimum-moves-to-capture-the-queen",
         "difficulty": 2
     },
     {
         "id": 3228,
-        "index": "10037",
+        "index": "3002",
         "title": "Maximum Size of a Set After Removals",
         "title_slug": "maximum-size-of-a-set-after-removals",
         "difficulty": 2
     },
     {
         "id": 3233,
-        "index": "10038",
+        "index": "3003",
         "title": "Maximize the Number of Partitions After Operations",
         "title_slug": "maximize-the-number-of-partitions-after-operations",
         "difficulty": 3
