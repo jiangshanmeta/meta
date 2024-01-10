@@ -3019,7 +3019,7 @@
 | 2999 | Count the Number of Powerful Integers |  | Hard  |
 | 3000 | Maximum Area of Longest Diagonal Rectangle | [TypeScript](./src/3000.maximum-area-of-longest-diagonal-rectangle.3251/solution.ts) | Easy  |
 | 3001 | Minimum Moves to Capture The Queen |  | Medium  |
-| 3002 | Maximum Size of a Set After Removals |  | Medium  |
+| 3002 | Maximum Size of a Set After Removals | [TypeScript](./src/3002.maximum-size-of-a-set-after-removals.3228/solution.ts) | Medium  |
 | 3003 | Maximize the Number of Partitions After Operations |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
@@ -3039,7 +3039,7 @@
 | LCP16 | 游乐园的游览计划 |  | Hard  |
 | LCP17 | 速算机器人 | [JavaScript](./src/LCP17.nGK0Fy.1000139/solution.js) [TypeScript](./src/LCP17.nGK0Fy.1000139/solution.ts) | Easy  |
 | LCP18 | 早餐组合 | [JavaScript](./src/LCP18.2vYnGI.1000146/solution.js) [TypeScript](./src/LCP18.2vYnGI.1000146/solution.ts) | Easy  |
-| LCP19 | 秋叶收藏集 |  | Medium  |
+| LCP19 | 秋叶收藏集 | [TypeScript](./src/LCP19.UlBDOe.1000130/solution.ts) | Medium  |
 | LCP20 | 快速公交 |  | Hard  |
 | LCP21 | 追逐游戏 |  | Hard  |
 | LCP22 | 黑白方格画 |  | Easy  |
@@ -3082,7 +3082,7 @@
 | LCP59 | 搭桥过河 |  | Hard  |
 | LCP60 | 力扣泡泡龙 |  | Hard  |
 | LCP61 | 气温变化趋势 | [JavaScript](./src/LCP61.6CE719.1000476/solution.js) [TypeScript](./src/LCP61.6CE719.1000476/solution.ts) | Easy  |
-| LCP62 | 交通枢纽 |  | Medium  |
+| LCP62 | 交通枢纽 | [TypeScript](./src/LCP62.D9PW8w.1000477/solution.ts) | Medium  |
 | LCP63 | 弹珠游戏 |  | Medium  |
 | LCP64 | 二叉树灯饰 |  | Medium  |
 | LCP65 | 舒适的湿度 |  | Hard  |
@@ -3093,7 +3093,7 @@
 | LCP70 | 沙地治理 |  | Hard  |
 | LCP71 | 集水器 |  | Hard  |
 | LCP72 | 补给马车 | [TypeScript](./src/LCP72.hqCnmP.1000560/solution.ts) | Easy  |
-| LCP73 | 探险营地 |  | Medium  |
+| LCP73 | 探险营地 | [TypeScript](./src/LCP73.0Zeoeg.1000561/solution.ts) | Medium  |
 | LCP74 | 最强祝福力场 |  | Medium  |
 | LCP75 | 传送卷轴 |  | Hard  |
 | LCP76 | 魔法棋盘 |  | Hard  |
@@ -3253,7 +3253,7 @@
 | 面试题16_13 | Bisect Squares LCCI |  | Medium  |
 | 面试题16_14 | Best Line LCCI |  | Medium  |
 | 面试题16_15 | Master Mind LCCI | [JavaScript](./src/面试题16_15.master-mind-lcci.100355/solution.js) [TypeScript](./src/面试题16_15.master-mind-lcci.100355/solution.ts) | Easy  |
-| 面试题16_16 | Sub Sort LCCI |  | Medium  |
+| 面试题16_16 | Sub Sort LCCI | [TypeScript](./src/面试题16_16.sub-sort-lcci.100356/solution.ts) | Medium  |
 | 面试题16_17 | Contiguous Sequence LCCI | [JavaScript](./src/面试题16_17.contiguous-sequence-lcci.1000003/solution.js) [TypeScript](./src/面试题16_17.contiguous-sequence-lcci.1000003/solution.ts) | Easy  |
 | 面试题16_18 | Pattern Matching LCCI |  | Medium  |
 | 面试题16_19 | Pond Sizes LCCI | [JavaScript](./src/面试题16_19.pond-sizes-lcci.1000005/solution.js) [TypeScript](./src/面试题16_19.pond-sizes-lcci.1000005/solution.ts) | Medium  |
