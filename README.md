@@ -181,7 +181,7 @@
 | 0161 | One Edit Distance | [JavaScript](./src/0161.one-edit-distance.161/solution.js) [TypeScript](./src/0161.one-edit-distance.161/solution.ts) | Medium  |
 | 0162 | Find Peak Element | [JavaScript](./src/0162.find-peak-element.162/solution.js) [TypeScript](./src/0162.find-peak-element.162/solution.ts) | Medium  |
 | 0163 | Missing Ranges | [JavaScript](./src/0163.missing-ranges.163/solution.js) [TypeScript](./src/0163.missing-ranges.163/solution.ts) | Easy  |
-| 0164 | Maximum Gap |  | Medium  |
+| 0164 | Maximum Gap | [TypeScript](./src/0164.maximum-gap.164/solution.ts) | Medium  |
 | 0165 | Compare Version Numbers | [JavaScript](./src/0165.compare-version-numbers.165/solution.js) [TypeScript](./src/0165.compare-version-numbers.165/solution.ts) | Medium  |
 | 0166 | Fraction to Recurring Decimal | [JavaScript](./src/0166.fraction-to-recurring-decimal.166/solution.js) | Medium  |
 | 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.ts) | Medium  |
@@ -498,7 +498,7 @@
 | 0478 | Generate Random Point in a Circle | [JavaScript](./src/0478.generate-random-point-in-a-circle.915/solution.js) [TypeScript](./src/0478.generate-random-point-in-a-circle.915/solution.ts) | Medium  |
 | 0479 | Largest Palindrome Product | [JavaScript](./src/0479.largest-palindrome-product.479/solution.js) [TypeScript](./src/0479.largest-palindrome-product.479/solution.ts) | Hard  |
 | 0480 | Sliding Window Median | [JavaScript](./src/0480.sliding-window-median.480/solution.js) | Hard  |
-| 0481 | Magical String |  | Medium  |
+| 0481 | Magical String | [TypeScript](./src/0481.magical-string.481/solution.ts) | Medium  |
 | 0482 | License Key Formatting | [JavaScript](./src/0482.license-key-formatting.482/solution.js) [TypeScript](./src/0482.license-key-formatting.482/solution.ts) | Easy  |
 | 0483 | Smallest Good Base |  | Hard  |
 | 0484 | Find Permutation |  | Medium  |
@@ -519,7 +519,7 @@
 | 0499 | The Maze III |  | Hard  |
 | 0500 | Keyboard Row | [JavaScript](./src/0500.keyboard-row.500/solution.js) [TypeScript](./src/0500.keyboard-row.500/solution.ts) | Easy  |
 | 0501 | Find Mode in Binary Search Tree | [JavaScript](./src/0501.find-mode-in-binary-search-tree.501/solution.js) [TypeScript](./src/0501.find-mode-in-binary-search-tree.501/solution.ts) | Easy  |
-| 0502 | IPO |  | Hard  |
+| 0502 | IPO | [TypeScript](./src/0502.ipo.502/solution.ts) | Hard  |
 | 0503 | Next Greater Element II | [JavaScript](./src/0503.next-greater-element-ii.503/solution.js) [TypeScript](./src/0503.next-greater-element-ii.503/solution.ts) | Medium  |
 | 0504 | Base 7 | [JavaScript](./src/0504.base-7.504/solution.js) [TypeScript](./src/0504.base-7.504/solution.ts) | Easy  |
 | 0505 | The Maze II |  | Medium  |
@@ -1336,7 +1336,7 @@
 | 1316 | Distinct Echo Substrings |  | Hard  |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | [JavaScript](./src/1317.convert-integer-to-the-sum-of-two-no-zero-integers.1440/solution.js) [TypeScript](./src/1317.convert-integer-to-the-sum-of-two-no-zero-integers.1440/solution.ts) | Easy  |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [JavaScript](./src/1318.minimum-flips-to-make-a-or-b-equal-to-c.1441/solution.js) | Medium  |
-| 1319 | Number of Operations to Make Network Connected |  | Medium  |
+| 1319 | Number of Operations to Make Network Connected | [TypeScript](./src/1319.number-of-operations-to-make-network-connected.1442/solution.ts) | Medium  |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |  | Hard  |
 | 1321 | Restaurant Growth |  | Medium  |
 | 1322 | Ads Performance |  | Easy  |
@@ -1591,7 +1591,7 @@
 | 1571 | Warehouse Manager |  | Easy  |
 | 1572 | Matrix Diagonal Sum | [JavaScript](./src/1572.matrix-diagonal-sum.1677/solution.js) [TypeScript](./src/1572.matrix-diagonal-sum.1677/solution.ts) | Easy  |
 | 1573 | Number of Ways to Split a String |  | Medium  |
-| 1574 | Shortest Subarray to be Removed to Make Array Sorted |  | Medium  |
+| 1574 | Shortest Subarray to be Removed to Make Array Sorted | [TypeScript](./src/1574.shortest-subarray-to-be-removed-to-make-array-sorted.1679/solution.ts) | Medium  |
 | 1575 | Count All Possible Routes |  | Hard  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698/solution.js) | Easy  |
 | 1577 | Number of Ways Where Square of Number Is Equal to Product of Two Numbers | [JavaScript](./src/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.1699/solution.js) | Medium  |
