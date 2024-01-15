@@ -21021,6 +21021,41 @@
         "difficulty": 3
     },
     {
+        "id": 3304,
+        "index": "3004",
+        "title": "Maximum Subtree of the Same Color",
+        "title_slug": "maximum-subtree-of-the-same-color",
+        "difficulty": 2
+    },
+    {
+        "id": 3242,
+        "index": "3005",
+        "title": "Count Elements With Maximum Frequency",
+        "title_slug": "count-elements-with-maximum-frequency",
+        "difficulty": 1
+    },
+    {
+        "id": 3245,
+        "index": "3006",
+        "title": "Find Beautiful Indices in the Given Array I",
+        "title_slug": "find-beautiful-indices-in-the-given-array-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3240,
+        "index": "3007",
+        "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+        "title_slug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3303,
+        "index": "3008",
+        "title": "Find Beautiful Indices in the Given Array II",
+        "title_slug": "find-beautiful-indices-in-the-given-array-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
