@@ -846,7 +846,7 @@
 | 0826 | Most Profit Assigning Work | [JavaScript](./src/0826.most-profit-assigning-work.853/solution.js) | Medium  |
 | 0827 | Making A Large Island |  | Hard  |
 | 0828 | Count Unique Characters of All Substrings of a Given String |  | Hard  |
-| 0829 | Consecutive Numbers Sum |  | Hard  |
+| 0829 | Consecutive Numbers Sum | [TypeScript](./src/0829.consecutive-numbers-sum.856/solution.ts) | Hard  |
 | 0830 | Positions of Large Groups | [JavaScript](./src/0830.positions-of-large-groups.857/solution.js) [TypeScript](./src/0830.positions-of-large-groups.857/solution.ts) | Easy  |
 | 0831 | Masking Personal Information | [JavaScript](./src/0831.masking-personal-information.858/solution.js) | Medium  |
 | 0832 | Flipping an Image | [JavaScript](./src/0832.flipping-an-image.861/solution.js) [TypeScript](./src/0832.flipping-an-image.861/solution.ts) | Easy  |
@@ -1013,7 +1013,7 @@
 | 0993 | Cousins in Binary Tree | [Go](./src/0993.cousins-in-binary-tree.1035/solution.go) [JavaScript](./src/0993.cousins-in-binary-tree.1035/solution.js) [TypeScript](./src/0993.cousins-in-binary-tree.1035/solution.ts) | Easy  |
 | 0994 | Rotting Oranges | [JavaScript](./src/0994.rotting-oranges.1036/solution.js) | Medium  |
 | 0995 | Minimum Number of K Consecutive Bit Flips |  | Hard  |
-| 0996 | Number of Squareful Arrays |  | Hard  |
+| 0996 | Number of Squareful Arrays | [TypeScript](./src/0996.number-of-squareful-arrays.1038/solution.ts) | Hard  |
 | 0997 | Find the Town Judge | [JavaScript](./src/0997.find-the-town-judge.1039/solution.js) [TypeScript](./src/0997.find-the-town-judge.1039/solution.ts) | Easy  |
 | 0998 | Maximum Binary Tree II | [JavaScript](./src/0998.maximum-binary-tree-ii.1040/solution.js) [TypeScript](./src/0998.maximum-binary-tree-ii.1040/solution.ts) | Medium  |
 | 0999 | Available Captures for Rook | [JavaScript](./src/0999.available-captures-for-rook.1041/solution.js) | Easy  |
@@ -2433,7 +2433,7 @@
 | 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
 | 2414 | Length of the Longest Alphabetical Continuous Substring | [JavaScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.js) [TypeScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.ts) | Medium  |
 | 2415 | Reverse Odd Levels of Binary Tree | [JavaScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.js) [TypeScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.ts) | Medium  |
-| 2416 | Sum of Prefix Scores of Strings |  | Hard  |
+| 2416 | Sum of Prefix Scores of Strings | [TypeScript](./src/2416.sum-of-prefix-scores-of-strings.2494/solution.ts) | Hard  |
 | 2417 | Closest Fair Integer |  | Medium  |
 | 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
 | 2419 | Longest Subarray With Maximum Bitwise AND | [JavaScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.js) [TypeScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.ts) | Medium  |
@@ -2787,7 +2787,7 @@
 | 2767 | Partition String Into Minimum Beautiful Substrings | [TypeScript](./src/2767.partition-string-into-minimum-beautiful-substrings.2883/solution.ts) | Medium  |
 | 2768 | Number of Black Blocks |  | Medium  |
 | 2769 | Find the Maximum Achievable Number | [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
-| 2770 | Maximum Number of Jumps to Reach the Last Index |  | Medium  |
+| 2770 | Maximum Number of Jumps to Reach the Last Index | [TypeScript](./src/2770.maximum-number-of-jumps-to-reach-the-last-index.2855/solution.ts) | Medium  |
 | 2771 | Longest Non-decreasing Subarray From Two Arrays |  | Medium  |
 | 2772 | Apply Operations to Make All Array Elements Equal to Zero |  | Medium  |
 | 2773 | Height of Special Binary Tree |  | Medium  |
@@ -2847,7 +2847,7 @@
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
 | 2828 | Check if a String Is an Acronym of Words | [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
 | 2829 | Determine the Minimum Sum of a k-avoiding Array | [TypeScript](./src/2829.determine-the-minimum-sum-of-a-k-avoiding-array.2811/solution.ts) | Medium  |
-| 2830 | Maximize the Profit as the Salesman |  | Medium  |
+| 2830 | Maximize the Profit as the Salesman | [TypeScript](./src/2830.maximize-the-profit-as-the-salesman.2979/solution.ts) | Medium  |
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
 | 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
 | 2833 | Furthest Point From Origin | [TypeScript](./src/2833.furthest-point-from-origin.3019/solution.ts) | Easy  |
@@ -3021,6 +3021,11 @@
 | 3001 | Minimum Moves to Capture The Queen |  | Medium  |
 | 3002 | Maximum Size of a Set After Removals | [TypeScript](./src/3002.maximum-size-of-a-set-after-removals.3228/solution.ts) | Medium  |
 | 3003 | Maximize the Number of Partitions After Operations |  | Hard  |
+| 3004 | Maximum Subtree of the Same Color |  | Medium  |
+| 3005 | Count Elements With Maximum Frequency |  | Easy  |
+| 3006 | Find Beautiful Indices in the Given Array I |  | Medium  |
+| 3007 | Maximum Number That Sum of the Prices Is Less Than or Equal to K |  | Medium  |
+| 3008 | Find Beautiful Indices in the Given Array II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
