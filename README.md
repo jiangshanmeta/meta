@@ -3022,10 +3022,10 @@
 | 3002 | Maximum Size of a Set After Removals | [TypeScript](./src/3002.maximum-size-of-a-set-after-removals.3228/solution.ts) | Medium  |
 | 3003 | Maximize the Number of Partitions After Operations |  | Hard  |
 | 3004 | Maximum Subtree of the Same Color |  | Medium  |
-| 3005 | Count Elements With Maximum Frequency |  | Easy  |
-| 3006 | Find Beautiful Indices in the Given Array I |  | Medium  |
+| 3005 | Count Elements With Maximum Frequency | [TypeScript](./src/3005.count-elements-with-maximum-frequency.3242/solution.ts) | Easy  |
+| 3006 | Find Beautiful Indices in the Given Array I | [TypeScript](./src/3006.find-beautiful-indices-in-the-given-array-i.3245/solution.ts) | Medium  |
 | 3007 | Maximum Number That Sum of the Prices Is Less Than or Equal to K |  | Medium  |
-| 3008 | Find Beautiful Indices in the Given Array II |  | Hard  |
+| 3008 | Find Beautiful Indices in the Given Array II | [TypeScript](./src/3008.find-beautiful-indices-in-the-given-array-ii.3303/solution.ts) | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -3235,7 +3235,7 @@
 | 面试题08_10 | Color Fill LCCI | [JavaScript](./src/面试题08_10.color-fill-lcci.100201/solution.js) [TypeScript](./src/面试题08_10.color-fill-lcci.100201/solution.ts) | Easy  |
 | 面试题08_11 | Coin LCCI | [JavaScript](./src/面试题08_11.coin-lcci.100231/solution.js) [TypeScript](./src/面试题08_11.coin-lcci.100231/solution.ts) | Medium  |
 | 面试题08_12 | Eight Queens LCCI |  | Hard  |
-| 面试题08_13 | Pile Box LCCI |  | Hard  |
+| 面试题08_13 | Pile Box LCCI | [TypeScript](./src/面试题08_13.pile-box-lcci.100202/solution.ts) | Hard  |
 | 面试题08_14 | Boolean Evaluation LCCI |  | Medium  |
 | 面试题10_01 | Sorted Merge LCCI | [JavaScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.js) [TypeScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.ts) | Easy  |
 | 面试题10_02 | Group Anagrams LCCI | [JavaScript](./src/面试题10_02.group-anagrams-lcci.1000040/solution.js) [TypeScript](./src/面试题10_02.group-anagrams-lcci.1000040/solution.ts) | Medium  |
@@ -3267,7 +3267,7 @@
 | 面试题16_22 | Langtons Ant LCCI |  | Medium  |
 | 面试题16_24 | Pairs With Sum LCCI | [JavaScript](./src/面试题16_24.pairs-with-sum-lcci.1000042/solution.js) [TypeScript](./src/面试题16_24.pairs-with-sum-lcci.1000042/solution.ts) | Medium  |
 | 面试题16_25 | LRU Cache LCCI | [JavaScript](./src/面试题16_25.lru-cache-lcci.1000026/solution.js) | Medium  |
-| 面试题16_26 | Calculator LCCI |  | Medium  |
+| 面试题16_26 | Calculator LCCI | [TypeScript](./src/面试题16_26.calculator-lcci.1000027/solution.ts) | Medium  |
 | 面试题17_01 | Add Without Plus LCCI | [JavaScript](./src/面试题17_01.add-without-plus-lcci.1000025/solution.js) [TypeScript](./src/面试题17_01.add-without-plus-lcci.1000025/solution.ts) | Easy  |
 | 面试题17_04 | Missing Number LCCI | [JavaScript](./src/面试题17_04.missing-number-lcci.1000032/solution.js) [TypeScript](./src/面试题17_04.missing-number-lcci.1000032/solution.ts) | Easy  |
 | 面试题17_05 | Find Longest Subarray LCCI | [JavaScript](./src/面试题17_05.find-longest-subarray-lcci.1000033/solution.js) | Medium  |
