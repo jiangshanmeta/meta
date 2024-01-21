@@ -1590,7 +1590,7 @@
 | 1570 | Dot Product of Two Sparse Vectors | [JavaScript](./src/1570.dot-product-of-two-sparse-vectors.1713/solution.js) [TypeScript](./src/1570.dot-product-of-two-sparse-vectors.1713/solution.ts) | Medium  |
 | 1571 | Warehouse Manager |  | Easy  |
 | 1572 | Matrix Diagonal Sum | [JavaScript](./src/1572.matrix-diagonal-sum.1677/solution.js) [TypeScript](./src/1572.matrix-diagonal-sum.1677/solution.ts) | Easy  |
-| 1573 | Number of Ways to Split a String |  | Medium  |
+| 1573 | Number of Ways to Split a String | [TypeScript](./src/1573.number-of-ways-to-split-a-string.1678/solution.ts) | Medium  |
 | 1574 | Shortest Subarray to be Removed to Make Array Sorted | [TypeScript](./src/1574.shortest-subarray-to-be-removed-to-make-array-sorted.1679/solution.ts) | Medium  |
 | 1575 | Count All Possible Routes |  | Hard  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [JavaScript](./src/1576.replace-all-s-to-avoid-consecutive-repeating-characters.1698/solution.js) | Easy  |
@@ -1637,7 +1637,7 @@
 | 1617 | Count Subtrees With Max Distance Between Cities |  | Hard  |
 | 1618 | Maximum Font to Fit a Sentence in a Screen | [JavaScript](./src/1618.maximum-font-to-fit-a-sentence-in-a-screen.1384/solution.js) | Medium  |
 | 1619 | Mean of Array After Removing Some Elements | [JavaScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.js) [TypeScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.ts) | Easy  |
-| 1620 | Coordinate With Maximum Network Quality |  | Medium  |
+| 1620 | Coordinate With Maximum Network Quality | [TypeScript](./src/1620.coordinate-with-maximum-network-quality.1726/solution.ts) | Medium  |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments |  | Medium  |
 | 1622 | Fancy Sequence |  | Hard  |
 | 1623 | All Valid Triplets That Can Represent a Country |  | Easy  |
@@ -2417,7 +2417,7 @@
 | 2397 | Maximum Rows Covered by Columns |  | Medium  |
 | 2398 | Maximum Number of Robots Within Budget |  | Hard  |
 | 2399 | Check Distances Between Same Letters | [JavaScript](./src/2399.check-distances-between-same-letters.2476/solution.js) [TypeScript](./src/2399.check-distances-between-same-letters.2476/solution.ts) | Easy  |
-| 2400 | Number of Ways to Reach a Position After Exactly k Steps |  | Medium  |
+| 2400 | Number of Ways to Reach a Position After Exactly k Steps | [TypeScript](./src/2400.number-of-ways-to-reach-a-position-after-exactly-k-steps.2477/solution.ts) | Medium  |
 | 2401 | Longest Nice Subarray | [TypeScript](./src/2401.longest-nice-subarray.2478/solution.ts) | Medium  |
 | 2402 | Meeting Rooms III |  | Hard  |
 | 2403 | Minimum Time to Kill All Monsters |  | Hard  |
@@ -3311,7 +3311,7 @@
 | LCR014 | 字符串的排列 |  | Medium  |
 | LCR015 | 找到字符串中所有字母异位词 |  | Medium  |
 | LCR016 | 无重复字符的最长子串 |  | Medium  |
-| LCR017 | 最小覆盖子串 |  | Hard  |
+| LCR017 | 最小覆盖子串 | [JavaScript](./src/LCR017.M1oyTv.1000253/solution.js) | Hard  |
 | LCR018 | 验证回文串 |  | Easy  |
 | LCR019 | 验证回文串 II |  | Easy  |
 | LCR020 | 回文子串 | [TypeScript](./src/LCR020.a7VOhD.1000256/solution.ts) | Medium  |
@@ -3358,7 +3358,7 @@
 | LCR061 | 查找和最小的 K 对数字 |  | Medium  |
 | LCR062 | 实现 Trie (前缀树) |  | Medium  |
 | LCR063 | 单词替换 |  | Medium  |
-| LCR064 | 实现一个魔法字典 |  | Medium  |
+| LCR064 | 实现一个魔法字典 | [JavaScript](./src/LCR064.US1pGT.1000328/solution.js) | Medium  |
 | LCR065 | 单词的压缩编码 | [JavaScript](./src/LCR065.iSwD2y.1000329/solution.js) | Medium  |
 | LCR066 |  键值映射 |  | Medium  |
 | LCR067 | 数组中两个数的最大异或值 |  | Medium  |
