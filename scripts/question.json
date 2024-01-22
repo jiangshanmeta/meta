@@ -21056,6 +21056,69 @@
         "difficulty": 3
     },
     {
+        "id": 3315,
+        "index": "3009",
+        "title": "Maximum Number of Intersections on the Chart",
+        "title_slug": "maximum-number-of-intersections-on-the-chart",
+        "difficulty": 3
+    },
+    {
+        "id": 3263,
+        "index": "3010",
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "title_slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3291,
+        "index": "3011",
+        "title": "Find if Array Can Be Sorted",
+        "title_slug": "find-if-array-can-be-sorted",
+        "difficulty": 2
+    },
+    {
+        "id": 3244,
+        "index": "3012",
+        "title": "Minimize Length of Array Using Operations",
+        "title_slug": "minimize-length-of-array-using-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 3260,
+        "index": "3013",
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "title_slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3275,
+        "index": "3014",
+        "title": "Minimum Number of Pushes to Type Word I",
+        "title_slug": "minimum-number-of-pushes-to-type-word-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3271,
+        "index": "3015",
+        "title": "Count the Number of Houses at a Certain Distance I",
+        "title_slug": "count-the-number-of-houses-at-a-certain-distance-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3276,
+        "index": "3016",
+        "title": "Minimum Number of Pushes to Type Word II",
+        "title_slug": "minimum-number-of-pushes-to-type-word-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3310,
+        "index": "3017",
+        "title": "Count the Number of Houses at a Certain Distance II",
+        "title_slug": "count-the-number-of-houses-at-a-certain-distance-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
