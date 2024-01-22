@@ -3026,6 +3026,15 @@
 | 3006 | Find Beautiful Indices in the Given Array I | [TypeScript](./src/3006.find-beautiful-indices-in-the-given-array-i.3245/solution.ts) | Medium  |
 | 3007 | Maximum Number That Sum of the Prices Is Less Than or Equal to K |  | Medium  |
 | 3008 | Find Beautiful Indices in the Given Array II | [TypeScript](./src/3008.find-beautiful-indices-in-the-given-array-ii.3303/solution.ts) | Hard  |
+| 3009 | Maximum Number of Intersections on the Chart |  | Hard  |
+| 3010 | Divide an Array Into Subarrays With Minimum Cost I | [TypeScript](./src/3010.divide-an-array-into-subarrays-with-minimum-cost-i.3263/solution.ts) | Easy  |
+| 3011 | Find if Array Can Be Sorted | [TypeScript](./src/3011.find-if-array-can-be-sorted.3291/solution.ts) | Medium  |
+| 3012 | Minimize Length of Array Using Operations |  | Medium  |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II |  | Hard  |
+| 3014 | Minimum Number of Pushes to Type Word I | [TypeScript](./src/3014.minimum-number-of-pushes-to-type-word-i.3275/solution.ts) | Easy  |
+| 3015 | Count the Number of Houses at a Certain Distance I | [TypeScript](./src/3015.count-the-number-of-houses-at-a-certain-distance-i.3271/solution.ts) | Medium  |
+| 3016 | Minimum Number of Pushes to Type Word II | [TypeScript](./src/3016.minimum-number-of-pushes-to-type-word-ii.3276/solution.ts) | Medium  |
+| 3017 | Count the Number of Houses at a Certain Distance II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
