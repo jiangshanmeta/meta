@@ -3029,8 +3029,8 @@
 | 3009 | Maximum Number of Intersections on the Chart |  | Hard  |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | [TypeScript](./src/3010.divide-an-array-into-subarrays-with-minimum-cost-i.3263/solution.ts) | Easy  |
 | 3011 | Find if Array Can Be Sorted | [TypeScript](./src/3011.find-if-array-can-be-sorted.3291/solution.ts) | Medium  |
-| 3012 | Minimize Length of Array Using Operations |  | Medium  |
-| 3013 | Divide an Array Into Subarrays With Minimum Cost II |  | Hard  |
+| 3012 | Minimize Length of Array Using Operations | [TypeScript](./src/3012.minimize-length-of-array-using-operations.3244/solution.ts) | Medium  |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | [TypeScript](./src/3013.divide-an-array-into-subarrays-with-minimum-cost-ii.3260/solution.ts) | Hard  |
 | 3014 | Minimum Number of Pushes to Type Word I | [TypeScript](./src/3014.minimum-number-of-pushes-to-type-word-i.3275/solution.ts) | Easy  |
 | 3015 | Count the Number of Houses at a Certain Distance I | [TypeScript](./src/3015.count-the-number-of-houses-at-a-certain-distance-i.3271/solution.ts) | Medium  |
 | 3016 | Minimum Number of Pushes to Type Word II | [TypeScript](./src/3016.minimum-number-of-pushes-to-type-word-ii.3276/solution.ts) | Medium  |
@@ -3261,7 +3261,7 @@
 | 面试题16_06 | Smallest Difference LCCI | [JavaScript](./src/面试题16_06.smallest-difference-lcci.100262/solution.js) [TypeScript](./src/面试题16_06.smallest-difference-lcci.100262/solution.ts) | Medium  |
 | 面试题16_07 | Maximum LCCI | [JavaScript](./src/面试题16_07.maximum-lcci.100349/solution.js) [TypeScript](./src/面试题16_07.maximum-lcci.100349/solution.ts) | Easy  |
 | 面试题16_08 | English Int LCCI | [JavaScript](./src/面试题16_08.english-int-lcci.1000018/solution.js) | Hard  |
-| 面试题16_09 | Operations LCCI |  | Medium  |
+| 面试题16_09 | Operations LCCI | [TypeScript](./src/面试题16_09.operations-lcci.100350/solution.ts) | Medium  |
 | 面试题16_10 | Living People LCCI | [JavaScript](./src/面试题16_10.living-people-lcci.100351/solution.js) [TypeScript](./src/面试题16_10.living-people-lcci.100351/solution.ts) | Medium  |
 | 面试题16_11 | Diving Board LCCI | [JavaScript](./src/面试题16_11.diving-board-lcci.100352/solution.js) [TypeScript](./src/面试题16_11.diving-board-lcci.100352/solution.ts) | Easy  |
 | 面试题16_13 | Bisect Squares LCCI |  | Medium  |
@@ -3291,8 +3291,8 @@
 | 面试题17_14 | Smallest K LCCI | [JavaScript](./src/面试题17_14.smallest-k-lcci.1000021/solution.js) [TypeScript](./src/面试题17_14.smallest-k-lcci.1000021/solution.ts) | Medium  |
 | 面试题17_15 | Longest Word LCCI |  | Medium  |
 | 面试题17_16 | The Masseuse LCCI | [JavaScript](./src/面试题17_16.the-masseuse-lcci.1000023/solution.js) [TypeScript](./src/面试题17_16.the-masseuse-lcci.1000023/solution.ts) | Easy  |
-| 面试题17_17 | Multi Search LCCI |  | Medium  |
-| 面试题17_18 | Shortest Supersequence LCCI |  | Medium  |
+| 面试题17_17 | Multi Search LCCI | [TypeScript](./src/面试题17_17.multi-search-lcci.1000024/solution.ts) | Medium  |
+| 面试题17_18 | Shortest Supersequence LCCI | [TypeScript](./src/面试题17_18.shortest-supersequence-lcci.1000043/solution.ts) | Medium  |
 | 面试题17_19 | Missing Two LCCI | [JavaScript](./src/面试题17_19.missing-two-lcci.1000044/solution.js) [TypeScript](./src/面试题17_19.missing-two-lcci.1000044/solution.ts) | Hard  |
 | 面试题17_20 | Continuous Median LCCI | [JavaScript](./src/面试题17_20.continuous-median-lcci.1000028/solution.js) [TypeScript](./src/面试题17_20.continuous-median-lcci.1000028/solution.ts) | Hard  |
 | 面试题17_21 | Volume of Histogram LCCI | [JavaScript](./src/面试题17_21.volume-of-histogram-lcci.1000029/solution.js) | Hard  |
