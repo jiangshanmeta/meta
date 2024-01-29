@@ -623,7 +623,7 @@
 | 0603 | Consecutive Available Seats |  | Easy  |
 | 0604 | Design Compressed String Iterator | [JavaScript](./src/0604.design-compressed-string-iterator.604/solution.js) [TypeScript](./src/0604.design-compressed-string-iterator.604/solution.ts) | Easy  |
 | 0605 | Can Place Flowers | [JavaScript](./src/0605.can-place-flowers.605/solution.js) [TypeScript](./src/0605.can-place-flowers.605/solution.ts) | Easy  |
-| 0606 | Construct String from Binary Tree | [JavaScript](./src/0606.construct-string-from-binary-tree.606/solution.js) [TypeScript](./src/0606.construct-string-from-binary-tree.606/solution.ts) | Easy  |
+| 0606 | Construct String from Binary Tree | [JavaScript](./src/0606.construct-string-from-binary-tree.606/solution.js) [TypeScript](./src/0606.construct-string-from-binary-tree.606/solution.ts) | Medium  |
 | 0607 | Sales Person |  | Easy  |
 | 0608 | Tree Node |  | Medium  |
 | 0609 | Find Duplicate File in System | [JavaScript](./src/0609.find-duplicate-file-in-system.609/solution.js) | Medium  |
@@ -1521,7 +1521,7 @@
 | 1501 | Countries You Can Safely Invest In |  | Medium  |
 | 1502 | Can Make Arithmetic Progression From Sequence | [JavaScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.js) [TypeScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.ts) | Easy  |
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | [TypeScript](./src/1503.last-moment-before-all-ants-fall-out-of-a-plank.1627/solution.ts) | Medium  |
-| 1504 | Count Submatrices With All Ones |  | Medium  |
+| 1504 | Count Submatrices With All Ones | [TypeScript](./src/1504.count-submatrices-with-all-ones.1628/solution.ts) | Medium  |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard  |
 | 1506 | Find Root of N-Ary Tree | [JavaScript](./src/1506.find-root-of-n-ary-tree.1650/solution.js) | Medium  |
 | 1507 | Reformat Date | [JavaScript](./src/1507.reformat-date.1283/solution.js) [TypeScript](./src/1507.reformat-date.1283/solution.ts) | Easy  |
@@ -2092,7 +2092,7 @@
 | 2072 | The Winner University |  | Easy  |
 | 2073 | Time Needed to Buy Tickets | [JavaScript](./src/2073.time-needed-to-buy-tickets.2195/solution.js) [TypeScript](./src/2073.time-needed-to-buy-tickets.2195/solution.ts) | Easy  |
 | 2074 | Reverse Nodes in Even Length Groups | [TypeScript](./src/2074.reverse-nodes-in-even-length-groups.2196/solution.ts) | Medium  |
-| 2075 | Decode the Slanted Ciphertext |  | Medium  |
+| 2075 | Decode the Slanted Ciphertext | [TypeScript](./src/2075.decode-the-slanted-ciphertext.2197/solution.ts) | Medium  |
 | 2076 | Process Restricted Friend Requests |  | Hard  |
 | 2077 | Paths in Maze That Lead to Same Room |  | Medium  |
 | 2078 | Two Furthest Houses With Different Colors | [JavaScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.js) [TypeScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.ts) | Easy  |
@@ -2558,7 +2558,7 @@
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
 | 2539 | Count the Number of Good Subsequences |  | Medium  |
 | 2540 | Minimum Common Value | [JavaScript](./src/2540.minimum-common-value.2634/solution.js) [TypeScript](./src/2540.minimum-common-value.2634/solution.ts) | Easy  |
-| 2541 | Minimum Operations to Make Array Equal II |  | Medium  |
+| 2541 | Minimum Operations to Make Array Equal II | [TypeScript](./src/2541.minimum-operations-to-make-array-equal-ii.2604/solution.ts) | Medium  |
 | 2542 | Maximum Subsequence Score |  | Medium  |
 | 2543 | Check if Point Is Reachable |  | Hard  |
 | 2544 | Alternating Digit Sum | [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
@@ -3035,6 +3035,11 @@
 | 3015 | Count the Number of Houses at a Certain Distance I | [TypeScript](./src/3015.count-the-number-of-houses-at-a-certain-distance-i.3271/solution.ts) | Medium  |
 | 3016 | Minimum Number of Pushes to Type Word II | [TypeScript](./src/3016.minimum-number-of-pushes-to-type-word-ii.3276/solution.ts) | Medium  |
 | 3017 | Count the Number of Houses at a Certain Distance II |  | Hard  |
+| 3018 | Maximum Number of Removal Queries That Can Be Processed I |  | Hard  |
+| 3019 | Number of Changing Keys | [TypeScript](./src/3019.number-of-changing-keys.3312/solution.ts) | Easy  |
+| 3020 | Find the Maximum Number of Elements in Subset | [TypeScript](./src/3020.find-the-maximum-number-of-elements-in-subset.3299/solution.ts) | Medium  |
+| 3021 | Alice and Bob Playing Flower Game |  | Medium  |
+| 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
