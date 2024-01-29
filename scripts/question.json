@@ -4239,7 +4239,7 @@
         "index": "0606",
         "title": "Construct String from Binary Tree",
         "title_slug": "construct-string-from-binary-tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 607,
@@ -21116,6 +21116,41 @@
         "index": "3017",
         "title": "Count the Number of Houses at a Certain Distance II",
         "title_slug": "count-the-number-of-houses-at-a-certain-distance-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3323,
+        "index": "3018",
+        "title": "Maximum Number of Removal Queries That Can Be Processed I",
+        "title_slug": "maximum-number-of-removal-queries-that-can-be-processed-i",
+        "difficulty": 3
+    },
+    {
+        "id": 3312,
+        "index": "3019",
+        "title": "Number of Changing Keys",
+        "title_slug": "number-of-changing-keys",
+        "difficulty": 1
+    },
+    {
+        "id": 3299,
+        "index": "3020",
+        "title": "Find the Maximum Number of Elements in Subset",
+        "title_slug": "find-the-maximum-number-of-elements-in-subset",
+        "difficulty": 2
+    },
+    {
+        "id": 3279,
+        "index": "3021",
+        "title": "Alice and Bob Playing Flower Game",
+        "title_slug": "alice-and-bob-playing-flower-game",
+        "difficulty": 2
+    },
+    {
+        "id": 3261,
+        "index": "3022",
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "title_slug": "minimize-or-of-remaining-elements-using-operations",
         "difficulty": 3
     },
     {
