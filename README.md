@@ -101,8 +101,8 @@
 | 0081 | Search in Rotated Sorted Array II | [JavaScript](./src/0081.search-in-rotated-sorted-array-ii.81/solution.js) | Medium  |
 | 0082 | Remove Duplicates from Sorted List II | [JavaScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.js) [TypeScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.ts) | Medium  |
 | 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
-| 0084 | Largest Rectangle in Histogram |  | Hard  |
-| 0085 | Maximal Rectangle |  | Hard  |
+| 0084 | Largest Rectangle in Histogram | [TypeScript](./src/0084.largest-rectangle-in-histogram.84/solution.ts) | Hard  |
+| 0085 | Maximal Rectangle | [TypeScript](./src/0085.maximal-rectangle.85/solution.ts) | Hard  |
 | 0086 | Partition List | [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
 | 0087 | Scramble String |  | Hard  |
 | 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
@@ -924,7 +924,7 @@
 | 0904 | Fruit Into Baskets | [JavaScript](./src/0904.fruit-into-baskets.940/solution.js) [TypeScript](./src/0904.fruit-into-baskets.940/solution.ts) | Medium  |
 | 0905 | Sort Array By Parity | [JavaScript](./src/0905.sort-array-by-parity.941/solution.js) [TypeScript](./src/0905.sort-array-by-parity.941/solution.ts) | Easy  |
 | 0906 | Super Palindromes | [TypeScript](./src/0906.super-palindromes.942/solution.ts) | Hard  |
-| 0907 | Sum of Subarray Minimums | [JavaScript](./src/0907.sum-of-subarray-minimums.943/solution.js) | Medium  |
+| 0907 | Sum of Subarray Minimums | [JavaScript](./src/0907.sum-of-subarray-minimums.943/solution.js) [TypeScript](./src/0907.sum-of-subarray-minimums.943/solution.ts) | Medium  |
 | 0908 | Smallest Range I | [JavaScript](./src/0908.smallest-range-i.944/solution.js) [TypeScript](./src/0908.smallest-range-i.944/solution.ts) | Easy  |
 | 0909 | Snakes and Ladders |  | Medium  |
 | 0910 | Smallest Range II |  | Medium  |
@@ -1563,7 +1563,7 @@
 | 1543 | Fix Product Name Format |  | Easy  |
 | 1544 | Make The String Great | [JavaScript](./src/1544.make-the-string-great.1666/solution.js) [TypeScript](./src/1544.make-the-string-great.1666/solution.ts) | Easy  |
 | 1545 | Find Kth Bit in Nth Binary String | [JavaScript](./src/1545.find-kth-bit-in-nth-binary-string.1667/solution.js) | Medium  |
-| 1546 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target |  | Medium  |
+| 1546 | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target | [TypeScript](./src/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.1649/solution.ts) | Medium  |
 | 1547 | Minimum Cost to Cut a Stick |  | Hard  |
 | 1548 | The Most Similar Path in a Graph |  | Hard  |
 | 1549 | The Most Recent Orders for Each Product |  | Medium  |
@@ -1617,7 +1617,7 @@
 | 1597 | Build Binary Expression Tree From Infix Expression |  | Hard  |
 | 1598 | Crawler Log Folder | [JavaScript](./src/1598.crawler-log-folder.1720/solution.js) [TypeScript](./src/1598.crawler-log-folder.1720/solution.ts) | Easy  |
 | 1599 | Maximum Profit of Operating a Centennial Wheel |  | Medium  |
-| 1600 | Throne Inheritance |  | Medium  |
+| 1600 | Throne Inheritance | [TypeScript](./src/1600.throne-inheritance.1722/solution.ts) | Medium  |
 | 1601 | Maximum Number of Achievable Transfer Requests |  | Hard  |
 | 1602 | Find Nearest Right Node in Binary Tree | [JavaScript](./src/1602.find-nearest-right-node-in-binary-tree.1745/solution.js) [TypeScript](./src/1602.find-nearest-right-node-in-binary-tree.1745/solution.ts) | Medium  |
 | 1603 | Design Parking System | [JavaScript](./src/1603.design-parking-system.1708/solution.js) [TypeScript](./src/1603.design-parking-system.1708/solution.ts) | Easy  |
