@@ -419,7 +419,7 @@
 | 0399 | Evaluate Division | [JavaScript](./src/0399.evaluate-division.399/solution.js) [TypeScript](./src/0399.evaluate-division.399/solution.ts) | Medium  |
 | 0400 | Nth Digit | [JavaScript](./src/0400.nth-digit.400/solution.js) | Medium  |
 | 0401 | Binary Watch | [JavaScript](./src/0401.binary-watch.401/solution.js) [TypeScript](./src/0401.binary-watch.401/solution.ts) | Easy  |
-| 0402 | Remove K Digits |  | Medium  |
+| 0402 | Remove K Digits | [TypeScript](./src/0402.remove-k-digits.402/solution.ts) | Medium  |
 | 0403 | Frog Jump | [JavaScript](./src/0403.frog-jump.403/solution.js) | Hard  |
 | 0404 | Sum of Left Leaves | [JavaScript](./src/0404.sum-of-left-leaves.404/solution.js) [TypeScript](./src/0404.sum-of-left-leaves.404/solution.ts) | Easy  |
 | 0405 | Convert a Number to Hexadecimal | [JavaScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.js) [TypeScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.ts) | Easy  |
@@ -533,7 +533,7 @@
 | 0513 | Find Bottom Left Tree Value | [JavaScript](./src/0513.find-bottom-left-tree-value.513/solution.js) [TypeScript](./src/0513.find-bottom-left-tree-value.513/solution.ts) | Medium  |
 | 0514 | Freedom Trail |  | Hard  |
 | 0515 | Find Largest Value in Each Tree Row | [JavaScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.js) [TypeScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.ts) | Medium  |
-| 0516 | Longest Palindromic Subsequence |  | Medium  |
+| 0516 | Longest Palindromic Subsequence | [TypeScript](./src/0516.longest-palindromic-subsequence.516/solution.ts) | Medium  |
 | 0517 | Super Washing Machines |  | Hard  |
 | 0518 | Coin Change II | [JavaScript](./src/0518.coin-change-ii.518/solution.js) [TypeScript](./src/0518.coin-change-ii.518/solution.ts) | Medium  |
 | 0519 | Random Flip Matrix | [JavaScript](./src/0519.random-flip-matrix.913/solution.js) | Medium  |
@@ -1810,7 +1810,7 @@
 | 1790 | Check if One String Swap Can Make Strings Equal | [JavaScript](./src/1790.check-if-one-string-swap-can-make-strings-equal.1915/solution.js) [TypeScript](./src/1790.check-if-one-string-swap-can-make-strings-equal.1915/solution.ts) | Easy  |
 | 1791 | Find Center of Star Graph | [JavaScript](./src/1791.find-center-of-star-graph.1916/solution.js) [TypeScript](./src/1791.find-center-of-star-graph.1916/solution.ts) | Easy  |
 | 1792 | Maximum Average Pass Ratio |  | Medium  |
-| 1793 | Maximum Score of a Good Subarray |  | Hard  |
+| 1793 | Maximum Score of a Good Subarray | [TypeScript](./src/1793.maximum-score-of-a-good-subarray.1918/solution.ts) | Hard  |
 | 1794 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
 | 1795 | Rearrange Products Table |  | Easy  |
 | 1796 | Second Largest Digit in a String | [JavaScript](./src/1796.second-largest-digit-in-a-string.1904/solution.js) [TypeScript](./src/1796.second-largest-digit-in-a-string.1904/solution.ts) | Easy  |
@@ -1873,7 +1873,7 @@
 | 1853 | Convert Date Format |  | Easy  |
 | 1854 | Maximum Population Year | [JavaScript](./src/1854.maximum-population-year.1983/solution.js) [TypeScript](./src/1854.maximum-population-year.1983/solution.ts) | Easy  |
 | 1855 | Maximum Distance Between a Pair of Values | [JavaScript](./src/1855.maximum-distance-between-a-pair-of-values.1984/solution.js) [TypeScript](./src/1855.maximum-distance-between-a-pair-of-values.1984/solution.ts) | Medium  |
-| 1856 | Maximum Subarray Min-Product |  | Medium  |
+| 1856 | Maximum Subarray Min-Product | [TypeScript](./src/1856.maximum-subarray-min-product.1985/solution.ts) | Medium  |
 | 1857 | Largest Color Value in a Directed Graph |  | Hard  |
 | 1858 | Longest Word With All Prefixes |  | Medium  |
 | 1859 | Sorting the Sentence | [JavaScript](./src/1859.sorting-the-sentence.1970/solution.js) [TypeScript](./src/1859.sorting-the-sentence.1970/solution.ts) | Easy  |
@@ -2121,7 +2121,7 @@
 | 2101 | Detonate the Maximum Bombs |  | Medium  |
 | 2102 | Sequentially Ordinal Rank Tracker |  | Hard  |
 | 2103 | Rings and Rods | [JavaScript](./src/2103.rings-and-rods.2226/solution.js) [TypeScript](./src/2103.rings-and-rods.2226/solution.ts) | Easy  |
-| 2104 | Sum of Subarray Ranges |  | Medium  |
+| 2104 | Sum of Subarray Ranges | [TypeScript](./src/2104.sum-of-subarray-ranges.2227/solution.ts) | Medium  |
 | 2105 | Watering Plants II |  | Medium  |
 | 2106 | Maximum Fruits Harvested After at Most K Steps | [TypeScript](./src/2106.maximum-fruits-harvested-after-at-most-k-steps.2229/solution.ts) | Hard  |
 | 2107 | Number of Unique Flavors After Sharing K Candies |  | Medium  |
