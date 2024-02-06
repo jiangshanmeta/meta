@@ -762,7 +762,7 @@
 | 0742 | Closest Leaf in a Binary Tree | [JavaScript](./src/0742.closest-leaf-in-a-binary-tree.743/solution.js) [TypeScript](./src/0742.closest-leaf-in-a-binary-tree.743/solution.ts) | Medium  |
 | 0743 | Network Delay Time | [JavaScript](./src/0743.network-delay-time.744/solution.js) | Medium  |
 | 0744 | Find Smallest Letter Greater Than Target | [JavaScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.js) [TypeScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.ts) | Easy  |
-| 0745 | Prefix and Suffix Search |  | Hard  |
+| 0745 | Prefix and Suffix Search | [TypeScript](./src/0745.prefix-and-suffix-search.746/solution.ts) | Hard  |
 | 0746 | Min Cost Climbing Stairs | [JavaScript](./src/0746.min-cost-climbing-stairs.747/solution.js) [TypeScript](./src/0746.min-cost-climbing-stairs.747/solution.ts) | Easy  |
 | 0747 | Largest Number At Least Twice of Others | [JavaScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.js) [TypeScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.ts) | Easy  |
 | 0748 | Shortest Completing Word | [JavaScript](./src/0748.shortest-completing-word.749/solution.js) [TypeScript](./src/0748.shortest-completing-word.749/solution.ts) | Easy  |
@@ -2298,7 +2298,7 @@
 | 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [TypeScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.2366/solution.ts) | Medium  |
 | 2280 | Minimum Lines to Represent a Line Chart | [TypeScript](./src/2280.minimum-lines-to-represent-a-line-chart.2367/solution.ts) | Medium  |
-| 2281 | Sum of Total Strength of Wizards |  | Hard  |
+| 2281 | Sum of Total Strength of Wizards | [TypeScript](./src/2281.sum-of-total-strength-of-wizards.2368/solution.ts) | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.ts) | Easy  |
 | 2284 | Sender With Largest Word Count | [TypeScript](./src/2284.sender-with-largest-word-count.2378/solution.ts) | Medium  |
@@ -2851,7 +2851,7 @@
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
 | 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
 | 2833 | Furthest Point From Origin | [TypeScript](./src/2833.furthest-point-from-origin.3019/solution.ts) | Easy  |
-| 2834 | Find the Minimum Possible Sum of a Beautiful Array |  | Medium  |
+| 2834 | Find the Minimum Possible Sum of a Beautiful Array | [TypeScript](./src/2834.find-the-minimum-possible-sum-of-a-beautiful-array.3026/solution.ts) | Medium  |
 | 2835 | Minimum Operations to Form Subsequence With Target Sum |  | Hard  |
 | 2836 | Maximize Value of Function in a Ball Passing Game |  | Hard  |
 | 2837 | Total Traveled Distance |  | Easy  |
@@ -3347,8 +3347,8 @@
 | LCR036 | 逆波兰表达式求值 |  | Medium  |
 | LCR037 | 行星碰撞 |  | Medium  |
 | LCR038 | 每日温度 |  | Medium  |
-| LCR039 | 柱状图中最大的矩形 |  | Hard  |
-| LCR040 | 最大矩形 |  | Hard  |
+| LCR039 | 柱状图中最大的矩形 | [TypeScript](./src/LCR039.0ynMMM.1000283/solution.ts) | Hard  |
+| LCR040 | 最大矩形 | [TypeScript](./src/LCR040.PLYXKQ.1000284/solution.ts) | Hard  |
 | LCR041 | 数据流中的移动平均值 |  | Easy  |
 | LCR042 | 最近的请求次数 |  | Easy  |
 | LCR043 | 完全二叉树插入器 |  | Medium  |
