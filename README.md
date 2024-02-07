@@ -908,7 +908,7 @@
 | 0888 | Fair Candy Swap | [JavaScript](./src/0888.fair-candy-swap.924/solution.js) [TypeScript](./src/0888.fair-candy-swap.924/solution.ts) | Easy  |
 | 0889 | Construct Binary Tree from Preorder and Postorder Traversal | [JavaScript](./src/0889.construct-binary-tree-from-preorder-and-postorder-traversal.925/solution.js) | Medium  |
 | 0890 | Find and Replace Pattern | [JavaScript](./src/0890.find-and-replace-pattern.926/solution.js) | Medium  |
-| 0891 | Sum of Subsequence Widths |  | Hard  |
+| 0891 | Sum of Subsequence Widths | [TypeScript](./src/0891.sum-of-subsequence-widths.927/solution.ts) | Hard  |
 | 0892 | Surface Area of 3D Shapes | [JavaScript](./src/0892.surface-area-of-3d-shapes.928/solution.js) | Easy  |
 | 0893 | Groups of Special-Equivalent Strings | [JavaScript](./src/0893.groups-of-special-equivalent-strings.929/solution.js) [TypeScript](./src/0893.groups-of-special-equivalent-strings.929/solution.ts) | Medium  |
 | 0894 | All Possible Full Binary Trees | [JavaScript](./src/0894.all-possible-full-binary-trees.930/solution.js) | Medium  |
@@ -1959,7 +1959,7 @@
 | 1939 | Users That Actively Request Confirmation Messages |  | Easy  |
 | 1940 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | [JavaScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.js) [TypeScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.ts) | Easy  |
-| 1942 | The Number of the Smallest Unoccupied Chair |  | Medium  |
+| 1942 | The Number of the Smallest Unoccupied Chair | [TypeScript](./src/1942.the-number-of-the-smallest-unoccupied-chair.2054/solution.ts) | Medium  |
 | 1943 | Describe the Painting |  | Medium  |
 | 1944 | Number of Visible People in a Queue | [TypeScript](./src/1944.number-of-visible-people-in-a-queue.1305/solution.ts) | Hard  |
 | 1945 | Sum of Digits of String After Convert | [JavaScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.js) [TypeScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.ts) | Easy  |
@@ -3040,6 +3040,15 @@
 | 3020 | Find the Maximum Number of Elements in Subset | [TypeScript](./src/3020.find-the-maximum-number-of-elements-in-subset.3299/solution.ts) | Medium  |
 | 3021 | Alice and Bob Playing Flower Game |  | Medium  |
 | 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
+| 3023 | Find Pattern in Infinite Stream I |  | Medium  |
+| 3024 | Type of Triangle II |  | Easy  |
+| 3025 | Find the Number of Ways to Place People I |  | Medium  |
+| 3026 | Maximum Good Subarray Sum |  | Medium  |
+| 3027 | Find the Number of Ways to Place People II |  | Hard  |
+| 3028 | Ant on the Boundary |  | Easy  |
+| 3029 | Minimum Time to Revert Word to Initial State I |  | Medium  |
+| 3030 | Find the Grid of Region Average |  | Medium  |
+| 3031 | Minimum Time to Revert Word to Initial State II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
