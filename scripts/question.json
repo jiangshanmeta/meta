@@ -21154,6 +21154,69 @@
         "difficulty": 3
     },
     {
+        "id": 3333,
+        "index": "3023",
+        "title": "Find Pattern in Infinite Stream I",
+        "title_slug": "find-pattern-in-infinite-stream-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3321,
+        "index": "3024",
+        "title": "Type of Triangle II",
+        "title_slug": "type-of-triangle-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 3278,
+        "index": "3025",
+        "title": "Find the Number of Ways to Place People I",
+        "title_slug": "find-the-number-of-ways-to-place-people-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3265,
+        "index": "3026",
+        "title": "Maximum Good Subarray Sum",
+        "title_slug": "maximum-good-subarray-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3277,
+        "index": "3027",
+        "title": "Find the Number of Ways to Place People II",
+        "title_slug": "find-the-number-of-ways-to-place-people-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3311,
+        "index": "3028",
+        "title": "Ant on the Boundary",
+        "title_slug": "ant-on-the-boundary",
+        "difficulty": 1
+    },
+    {
+        "id": 3297,
+        "index": "3029",
+        "title": "Minimum Time to Revert Word to Initial State I",
+        "title_slug": "minimum-time-to-revert-word-to-initial-state-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3272,
+        "index": "3030",
+        "title": "Find the Grid of Region Average",
+        "title_slug": "find-the-grid-of-region-average",
+        "difficulty": 2
+    },
+    {
+        "id": 3296,
+        "index": "3031",
+        "title": "Minimum Time to Revert Word to Initial State II",
+        "title_slug": "minimum-time-to-revert-word-to-initial-state-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
