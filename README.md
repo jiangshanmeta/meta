@@ -1975,7 +1975,7 @@
 | 1955 | Count Number of Special Subsequences | [TypeScript](./src/1955.count-number-of-special-subsequences.2086/solution.ts) | Hard  |
 | 1956 | Minimum Time For K Virus Variants to Spread |  | Hard  |
 | 1957 | Delete Characters to Make Fancy String | [JavaScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.js) [TypeScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.ts) | Easy  |
-| 1958 | Check if Move is Legal |  | Medium  |
+| 1958 | Check if Move is Legal | [TypeScript](./src/1958.check-if-move-is-legal.2080/solution.ts) | Medium  |
 | 1959 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
 | 1960 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
 | 1961 | Check If String Is a Prefix of Array | [JavaScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.js) [TypeScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.ts) | Easy  |
@@ -1992,7 +1992,7 @@
 | 1972 | First and Last Call On the Same Day |  | Hard  |
 | 1973 | Count Nodes Equal to Sum of Descendants |  | Medium  |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | [JavaScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.js) [TypeScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.ts) | Easy  |
-| 1975 | Maximum Matrix Sum |  | Medium  |
+| 1975 | Maximum Matrix Sum | [TypeScript](./src/1975.maximum-matrix-sum.2089/solution.ts) | Medium  |
 | 1976 | Number of Ways to Arrive at Destination |  | Medium  |
 | 1977 | Number of Ways to Separate Numbers |  | Hard  |
 | 1978 | Employees Whose Manager Left the Company |  | Easy  |
@@ -2047,7 +2047,7 @@
 | 2027 | Minimum Moves to Convert String | [JavaScript](./src/2027.minimum-moves-to-convert-string.2154/solution.js) [TypeScript](./src/2027.minimum-moves-to-convert-string.2154/solution.ts) | Easy  |
 | 2028 | Find Missing Observations | [TypeScript](./src/2028.find-missing-observations.2155/solution.ts) | Medium  |
 | 2029 | Stone Game IX |  | Medium  |
-| 2030 | Smallest K-Length Subsequence With Occurrences of a Letter |  | Hard  |
+| 2030 | Smallest K-Length Subsequence With Occurrences of a Letter | [TypeScript](./src/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.2157/solution.ts) | Hard  |
 | 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
 | 2032 | Two Out of Three | [JavaScript](./src/2032.two-out-of-three.2159/solution.js) [TypeScript](./src/2032.two-out-of-three.2159/solution.ts) | Easy  |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | [TypeScript](./src/2033.minimum-operations-to-make-a-uni-value-grid.2160/solution.ts) | Medium  |
@@ -2097,7 +2097,7 @@
 | 2077 | Paths in Maze That Lead to Same Room |  | Medium  |
 | 2078 | Two Furthest Houses With Different Colors | [JavaScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.js) [TypeScript](./src/2078.two-furthest-houses-with-different-colors.2199/solution.ts) | Easy  |
 | 2079 | Watering Plants | [JavaScript](./src/2079.watering-plants.1310/solution.js) [TypeScript](./src/2079.watering-plants.1310/solution.ts) | Medium  |
-| 2080 | Range Frequency Queries |  | Medium  |
+| 2080 | Range Frequency Queries | [TypeScript](./src/2080.range-frequency-queries.1294/solution.ts) | Medium  |
 | 2081 | Sum of k-Mirror Numbers | [TypeScript](./src/2081.sum-of-k-mirror-numbers.2202/solution.ts) | Hard  |
 | 2082 | The Number of Rich Customers |  | Easy  |
 | 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
@@ -2306,7 +2306,7 @@
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
 | 2287 | Rearrange Characters to Make Target String | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.ts) | Easy  |
 | 2288 | Apply Discount to Prices | [TypeScript](./src/2288.apply-discount-to-prices.2373/solution.ts) | Medium  |
-| 2289 | Steps to Make Array Non-decreasing |  | Medium  |
+| 2289 | Steps to Make Array Non-decreasing | [TypeScript](./src/2289.steps-to-make-array-non-decreasing.2374/solution.ts) | Medium  |
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
 | 2291 | Maximum Profit From Trading Stocks |  | Medium  |
 | 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
