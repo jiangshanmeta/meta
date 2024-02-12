@@ -2789,7 +2789,7 @@
 | 2769 | Find the Maximum Achievable Number | [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | [TypeScript](./src/2770.maximum-number-of-jumps-to-reach-the-last-index.2855/solution.ts) | Medium  |
 | 2771 | Longest Non-decreasing Subarray From Two Arrays |  | Medium  |
-| 2772 | Apply Operations to Make All Array Elements Equal to Zero |  | Medium  |
+| 2772 | Apply Operations to Make All Array Elements Equal to Zero | [TypeScript](./src/2772.apply-operations-to-make-all-array-elements-equal-to-zero.2878/solution.ts) | Medium  |
 | 2773 | Height of Special Binary Tree |  | Medium  |
 | 2774 | Array Upper Bound |  | Easy  |
 | 2775 | Undefined to Null |  | Medium  |
@@ -2873,7 +2873,7 @@
 | 2853 | Highest Salaries Difference |  | Easy  |
 | 2854 | Rolling Average Steps |  | Medium  |
 | 2855 | Minimum Right Shifts to Sort the Array | [TypeScript](./src/2855.minimum-right-shifts-to-sort-the-array.3045/solution.ts) | Easy  |
-| 2856 | Minimum Array Length After Pair Removals |  | Medium  |
+| 2856 | Minimum Array Length After Pair Removals | [TypeScript](./src/2856.minimum-array-length-after-pair-removals.3081/solution.ts) | Medium  |
 | 2857 | Count Pairs of Points With Distance k |  | Medium  |
 | 2858 | Minimum Edge Reversals So Every Node Is Reachable |  | Hard  |
 | 2859 | Sum of Values at Indices With K Set Bits | [TypeScript](./src/2859.sum-of-values-at-indices-with-k-set-bits.3093/solution.ts) | Easy  |
@@ -2921,7 +2921,7 @@
 | 2901 | Longest Unequal Adjacent Groups Subsequence II |  | Medium  |
 | 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
 | 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
-| 2904 | Shortest and Lexicographically Smallest Beautiful String |  | Medium  |
+| 2904 | Shortest and Lexicographically Smallest Beautiful String | [TypeScript](./src/2904.shortest-and-lexicographically-smallest-beautiful-string.3150/solution.ts) | Medium  |
 | 2905 | Find Indices With Index and Value Difference II | [TypeScript](./src/2905.find-indices-with-index-and-value-difference-ii.3170/solution.ts) | Medium  |
 | 2906 | Construct Product Matrix | [TypeScript](./src/2906.construct-product-matrix.3031/solution.ts) | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
@@ -2935,7 +2935,7 @@
 | 2915 | Length of the Longest Subsequence That Sums to Target | [TypeScript](./src/2915.length-of-the-longest-subsequence-that-sums-to-target.3106/solution.ts) | Medium  |
 | 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
 | 2917 | Find the K-or of an Array | [TypeScript](./src/2917.find-the-k-or-of-an-array.3183/solution.ts) | Easy  |
-| 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros |  | Medium  |
+| 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros | [TypeScript](./src/2918.minimum-equal-sum-of-two-arrays-after-replacing-zeros.3171/solution.ts) | Medium  |
 | 2919 | Minimum Increment Operations to Make Array Beautiful |  | Medium  |
 | 2920 | Maximum Points After Collecting Coins From All Nodes |  | Hard  |
 | 2921 | Maximum Profitable Triplets With Increasing Prices II |  | Hard  |
@@ -3041,7 +3041,7 @@
 | 3021 | Alice and Bob Playing Flower Game |  | Medium  |
 | 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
 | 3023 | Find Pattern in Infinite Stream I |  | Medium  |
-| 3024 | Type of Triangle II |  | Easy  |
+| 3024 | Type of Triangle II | [TypeScript](./src/3024.type-of-triangle-ii.3321/solution.ts) | Easy  |
 | 3025 | Find the Number of Ways to Place People I |  | Medium  |
 | 3026 | Maximum Good Subarray Sum |  | Medium  |
 | 3027 | Find the Number of Ways to Place People II |  | Hard  |
