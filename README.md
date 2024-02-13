@@ -969,7 +969,7 @@
 | 0949 | Largest Time for Given Digits | [JavaScript](./src/0949.largest-time-for-given-digits.986/solution.js) | Medium  |
 | 0950 | Reveal Cards In Increasing Order | [JavaScript](./src/0950.reveal-cards-in-increasing-order.987/solution.js) | Medium  |
 | 0951 | Flip Equivalent Binary Trees | [JavaScript](./src/0951.flip-equivalent-binary-trees.988/solution.js) [TypeScript](./src/0951.flip-equivalent-binary-trees.988/solution.ts) | Medium  |
-| 0952 | Largest Component Size by Common Factor |  | Hard  |
+| 0952 | Largest Component Size by Common Factor | [TypeScript](./src/0952.largest-component-size-by-common-factor.989/solution.ts) | Hard  |
 | 0953 | Verifying an Alien Dictionary | [JavaScript](./src/0953.verifying-an-alien-dictionary.990/solution.js) [TypeScript](./src/0953.verifying-an-alien-dictionary.990/solution.ts) | Easy  |
 | 0954 | Array of Doubled Pairs | [JavaScript](./src/0954.array-of-doubled-pairs.991/solution.js) | Medium  |
 | 0955 | Delete Columns to Make Sorted II | [JavaScript](./src/0955.delete-columns-to-make-sorted-ii.992/solution.js) | Medium  |
@@ -3043,12 +3043,17 @@
 | 3023 | Find Pattern in Infinite Stream I |  | Medium  |
 | 3024 | Type of Triangle II | [TypeScript](./src/3024.type-of-triangle-ii.3321/solution.ts) | Easy  |
 | 3025 | Find the Number of Ways to Place People I |  | Medium  |
-| 3026 | Maximum Good Subarray Sum |  | Medium  |
+| 3026 | Maximum Good Subarray Sum | [TypeScript](./src/3026.maximum-good-subarray-sum.3265/solution.ts) | Medium  |
 | 3027 | Find the Number of Ways to Place People II |  | Hard  |
-| 3028 | Ant on the Boundary |  | Easy  |
+| 3028 | Ant on the Boundary | [TypeScript](./src/3028.ant-on-the-boundary.3311/solution.ts) | Easy  |
 | 3029 | Minimum Time to Revert Word to Initial State I |  | Medium  |
-| 3030 | Find the Grid of Region Average |  | Medium  |
+| 3030 | Find the Grid of Region Average | [TypeScript](./src/3030.find-the-grid-of-region-average.3272/solution.ts) | Medium  |
 | 3031 | Minimum Time to Revert Word to Initial State II |  | Hard  |
+| 3032 | Count Numbers With Unique Digits II |  | Easy  |
+| 3033 | Modify the Matrix | [TypeScript](./src/3033.modify-the-matrix.3330/solution.ts) | Easy  |
+| 3034 | Number of Subarrays That Match a Pattern I |  | Medium  |
+| 3035 | Maximum Palindromes After Operations |  | Medium  |
+| 3036 | Number of Subarrays That Match a Pattern II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
