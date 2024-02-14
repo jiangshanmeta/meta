@@ -1251,7 +1251,7 @@
 | 1231 | Divide Chocolate |  | Hard  |
 | 1232 | Check If It Is a Straight Line | [JavaScript](./src/1232.check-if-it-is-a-straight-line.1349/solution.js) [TypeScript](./src/1232.check-if-it-is-a-straight-line.1349/solution.ts) | Easy  |
 | 1233 | Remove Sub-Folders from the Filesystem | [JavaScript](./src/1233.remove-sub-folders-from-the-filesystem.1350/solution.js) | Medium  |
-| 1234 | Replace the Substring for Balanced String |  | Medium  |
+| 1234 | Replace the Substring for Balanced String | [TypeScript](./src/1234.replace-the-substring-for-balanced-string.1351/solution.ts) | Medium  |
 | 1235 | Maximum Profit in Job Scheduling | [JavaScript](./src/1235.maximum-profit-in-job-scheduling.1352/solution.js) | Hard  |
 | 1236 | Web Crawler | [JavaScript](./src/1236.web-crawler.1271/solution.js) [TypeScript](./src/1236.web-crawler.1271/solution.ts) | Medium  |
 | 1237 | Find Positive Integer Solution for a Given Equation | [JavaScript](./src/1237.find-positive-integer-solution-for-a-given-equation.1358/solution.js) | Medium  |
@@ -2151,7 +2151,7 @@
 | 2131 | Longest Palindrome by Concatenating Two Letter Words |  | Medium  |
 | 2132 | Stamping the Grid |  | Hard  |
 | 2133 | Check if Every Row and Column Contains All Numbers | [JavaScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.js) [TypeScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.ts) | Easy  |
-| 2134 | Minimum Swaps to Group All 1's Together II |  | Medium  |
+| 2134 | Minimum Swaps to Group All 1's Together II | [TypeScript](./src/2134.minimum-swaps-to-group-all-1s-together-ii.2255/solution.ts) | Medium  |
 | 2135 | Count Words Obtained After Adding a Letter | [TypeScript](./src/2135.count-words-obtained-after-adding-a-letter.2256/solution.ts) | Medium  |
 | 2136 | Earliest Possible Day of Full Bloom |  | Hard  |
 | 2137 | Pour Water Between Buckets to Make Water Levels Equal |  | Medium  |
@@ -2748,7 +2748,7 @@
 | 2728 | Count Houses in a Circular Street |  | Easy  |
 | 2729 | Check if The Number is Fascinating | [TypeScript](./src/2729.check-if-the-number-is-fascinating.2824/solution.ts) | Easy  |
 | 2730 | Find the Longest Semi-Repetitive Substring | [TypeScript](./src/2730.find-the-longest-semi-repetitive-substring.2786/solution.ts) | Medium  |
-| 2731 | Movement of Robots |  | Medium  |
+| 2731 | Movement of Robots | [TypeScript](./src/2731.movement-of-robots.2787/solution.ts) | Medium  |
 | 2732 | Find a Good Subset of the Matrix |  | Hard  |
 | 2733 | Neither Minimum nor Maximum | [TypeScript](./src/2733.neither-minimum-nor-maximum.2836/solution.ts) | Easy  |
 | 2734 | Lexicographically Smallest String After Substring Operation | [TypeScript](./src/2734.lexicographically-smallest-string-after-substring-operation.2828/solution.ts) | Medium  |
@@ -2762,7 +2762,7 @@
 | 2742 | Painting the Walls |  | Hard  |
 | 2743 | Count Substrings Without Repeating Character |  | Medium  |
 | 2744 | Find Maximum Number of String Pairs | [TypeScript](./src/2744.find-maximum-number-of-string-pairs.2847/solution.ts) | Easy  |
-| 2745 | Construct the Longest New String |  | Medium  |
+| 2745 | Construct the Longest New String | [TypeScript](./src/2745.construct-the-longest-new-string.2850/solution.ts) | Medium  |
 | 2746 | Decremental String Concatenation |  | Medium  |
 | 2747 | Count Zero Request Servers | [TypeScript](./src/2747.count-zero-request-servers.2833/solution.ts) | Medium  |
 | 2748 | Number of Beautiful Pairs | [TypeScript](./src/2748.number-of-beautiful-pairs.2831/solution.ts) | Easy  |
@@ -2797,7 +2797,7 @@
 | 2777 | Date Range Generator |  | Medium  |
 | 2778 | Sum of Squares of Special Elements  | [TypeScript](./src/2778.sum-of-squares-of-special-elements.2844/solution.ts) | Easy  |
 | 2779 | Maximum Beauty of an Array After Applying Operation |  | Medium  |
-| 2780 | Minimum Index of a Valid Split |  | Medium  |
+| 2780 | Minimum Index of a Valid Split | [TypeScript](./src/2780.minimum-index-of-a-valid-split.2888/solution.ts) | Medium  |
 | 2781 | Length of the Longest Valid Substring |  | Hard  |
 | 2782 | Number of Unique Categories |  | Medium  |
 | 2783 | Flight Occupancy and Waitlist Analysis |  | Medium  |
