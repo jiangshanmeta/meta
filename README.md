@@ -231,7 +231,7 @@
 | 0211 | Design Add and Search Words Data Structure | [JavaScript](./src/0211.design-add-and-search-words-data-structure.211/solution.js) | Medium  |
 | 0212 | Word Search II |  | Hard  |
 | 0213 | House Robber II | [JavaScript](./src/0213.house-robber-ii.213/solution.js) [TypeScript](./src/0213.house-robber-ii.213/solution.ts) | Medium  |
-| 0214 | Shortest Palindrome |  | Hard  |
+| 0214 | Shortest Palindrome | [TypeScript](./src/0214.shortest-palindrome.214/solution.ts) | Hard  |
 | 0215 | Kth Largest Element in an Array | [JavaScript](./src/0215.kth-largest-element-in-an-array.215/solution.js) | Medium  |
 | 0216 | Combination Sum III | [JavaScript](./src/0216.combination-sum-iii.216/solution.js) [TypeScript](./src/0216.combination-sum-iii.216/solution.ts) | Medium  |
 | 0217 | Contains Duplicate | [JavaScript](./src/0217.contains-duplicate.217/solution.js) [TypeScript](./src/0217.contains-duplicate.217/solution.ts) | Easy  |
@@ -1409,7 +1409,7 @@
 | 1389 | Create Target Array in the Given Order | [JavaScript](./src/1389.create-target-array-in-the-given-order.1505/solution.js) [TypeScript](./src/1389.create-target-array-in-the-given-order.1505/solution.ts) | Easy  |
 | 1390 | Four Divisors | [JavaScript](./src/1390.four-divisors.1284/solution.js) | Medium  |
 | 1391 | Check if There is a Valid Path in a Grid | [JavaScript](./src/1391.check-if-there-is-a-valid-path-in-a-grid.1507/solution.js) | Medium  |
-| 1392 | Longest Happy Prefix |  | Hard  |
+| 1392 | Longest Happy Prefix | [TypeScript](./src/1392.longest-happy-prefix.1508/solution.ts) | Hard  |
 | 1393 | Capital Gain/Loss |  | Medium  |
 | 1394 | Find Lucky Integer in an Array | [JavaScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.js) [TypeScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.ts) | Easy  |
 | 1395 | Count Number of Teams | [JavaScript](./src/1395.count-number-of-teams.1511/solution.js) | Medium  |
@@ -2219,7 +2219,7 @@
 | 2199 | Finding the Topic of Each Post |  | Hard  |
 | 2200 | Find All K-Distant Indices in an Array | [JavaScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/solution.js) [TypeScript](./src/2200.find-all-k-distant-indices-in-an-array.2320/solution.ts) | Easy  |
 | 2201 | Count Artifacts That Can Be Extracted | [TypeScript](./src/2201.count-artifacts-that-can-be-extracted.1312/solution.ts) | Medium  |
-| 2202 | Maximize the Topmost Element After K Moves |  | Medium  |
+| 2202 | Maximize the Topmost Element After K Moves | [TypeScript](./src/2202.maximize-the-topmost-element-after-k-moves.1346/solution.ts) | Medium  |
 | 2203 | Minimum Weighted Subgraph With the Required Paths |  | Hard  |
 | 2204 | Distance to a Cycle in Undirected Graph |  | Hard  |
 | 2205 | The Number of Users That Are Eligible for Discount |  | Easy  |
@@ -2318,7 +2318,7 @@
 | 2298 | Tasks Count in the Weekend |  | Medium  |
 | 2299 | Strong Password Checker II | [JavaScript](./src/2299.strong-password-checker-ii.2391/solution.js) [TypeScript](./src/2299.strong-password-checker-ii.2391/solution.ts) | Easy  |
 | 2300 | Successful Pairs of Spells and Potions | [TypeScript](./src/2300.successful-pairs-of-spells-and-potions.2392/solution.ts) | Medium  |
-| 2301 | Match Substring After Replacement |  | Hard  |
+| 2301 | Match Substring After Replacement | [TypeScript](./src/2301.match-substring-after-replacement.2393/solution.ts) | Hard  |
 | 2302 | Count Subarrays With Score Less Than K | [TypeScript](./src/2302.count-subarrays-with-score-less-than-k.2394/solution.ts) | Hard  |
 | 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
 | 2304 | Minimum Path Cost in a Grid | [TypeScript](./src/2304.minimum-path-cost-in-a-grid.1394/solution.ts) | Medium  |
