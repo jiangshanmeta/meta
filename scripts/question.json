@@ -19541,7 +19541,7 @@
         "index": "2792",
         "title": "Count Nodes That Are Great Enough",
         "title_slug": "count-nodes-that-are-great-enough",
-        "difficulty": 2
+        "difficulty": 3
     },
     {
         "id": 3003,
@@ -20297,7 +20297,7 @@
         "index": "2900",
         "title": "Longest Unequal Adjacent Groups Subsequence I",
         "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
-        "difficulty": 2
+        "difficulty": 1
     },
     {
         "id": 3142,
@@ -21163,8 +21163,8 @@
     {
         "id": 3321,
         "index": "3024",
-        "title": "Type of Triangle II",
-        "title_slug": "type-of-triangle-ii",
+        "title": "Type of Triangle",
+        "title_slug": "type-of-triangle",
         "difficulty": 1
     },
     {
@@ -21249,6 +21249,69 @@
         "index": "3036",
         "title": "Number of Subarrays That Match a Pattern II",
         "title_slug": "number-of-subarrays-that-match-a-pattern-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3352,
+        "index": "3037",
+        "title": "Find Pattern in Infinite Stream II",
+        "title_slug": "find-pattern-in-infinite-stream-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3320,
+        "index": "3038",
+        "title": "Maximum Number of Operations With the Same Score I",
+        "title_slug": "maximum-number-of-operations-with-the-same-score-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3308,
+        "index": "3039",
+        "title": "Apply Operations to Make String Empty",
+        "title_slug": "apply-operations-to-make-string-empty",
+        "difficulty": 2
+    },
+    {
+        "id": 3318,
+        "index": "3040",
+        "title": "Maximum Number of Operations With the Same Score II",
+        "title_slug": "maximum-number-of-operations-with-the-same-score-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3298,
+        "index": "3041",
+        "title": "Maximize Consecutive Elements in an Array After Modification",
+        "title_slug": "maximize-consecutive-elements-in-an-array-after-modification",
+        "difficulty": 3
+    },
+    {
+        "id": 3309,
+        "index": "3042",
+        "title": "Count Prefix and Suffix Pairs I",
+        "title_slug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3329,
+        "index": "3043",
+        "title": "Find the Length of the Longest Common Prefix",
+        "title_slug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": 2
+    },
+    {
+        "id": 3314,
+        "index": "3044",
+        "title": "Most Frequent Prime",
+        "title_slug": "most-frequent-prime",
+        "difficulty": 2
+    },
+    {
+        "id": 3305,
+        "index": "3045",
+        "title": "Count Prefix and Suffix Pairs II",
+        "title_slug": "count-prefix-and-suffix-pairs-ii",
         "difficulty": 3
     },
     {
