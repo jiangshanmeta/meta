@@ -2804,12 +2804,12 @@
 | 2784 | Check if Array is Good | [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
 | 2785 | Sort Vowels in a String | [TypeScript](./src/2785.sort-vowels-in-a-string.2887/solution.ts) | Medium  |
 | 2786 | Visit Array Positions to Maximize Score | [TypeScript](./src/2786.visit-array-positions-to-maximize-score.2893/solution.ts) | Medium  |
-| 2787 | Ways to Express an Integer as Sum of Powers |  | Medium  |
+| 2787 | Ways to Express an Integer as Sum of Powers | [TypeScript](./src/2787.ways-to-express-an-integer-as-sum-of-powers.2882/solution.ts) | Medium  |
 | 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
 | 2789 | Largest Element in an Array after Merge Operations | [TypeScript](./src/2789.largest-element-in-an-array-after-merge-operations.2872/solution.ts) | Medium  |
 | 2790 | Maximum Number of Groups With Increasing Length |  | Hard  |
 | 2791 | Count Paths That Can Form a Palindrome in a Tree |  | Hard  |
-| 2792 | Count Nodes That Are Great Enough |  | Medium  |
+| 2792 | Count Nodes That Are Great Enough |  | Hard  |
 | 2793 | Status of Flight Tickets |  | Hard  |
 | 2794 | Create Object from Two Arrays |  | Easy  |
 | 2795 | Parallel Execution of Promises for Individual Results Retrieval |  | Medium  |
@@ -2917,7 +2917,7 @@
 | 2897 | Apply Operations on Array to Maximize Sum of Squares |  | Hard  |
 | 2898 | Maximum Linear Stock Score |  | Medium  |
 | 2899 | Last Visited Integers | [TypeScript](./src/2899.last-visited-integers.3164/solution.ts) | Easy  |
-| 2900 | Longest Unequal Adjacent Groups Subsequence I | [TypeScript](./src/2900.longest-unequal-adjacent-groups-subsequence-i.3143/solution.ts) | Medium  |
+| 2900 | Longest Unequal Adjacent Groups Subsequence I | [TypeScript](./src/2900.longest-unequal-adjacent-groups-subsequence-i.3143/solution.ts) | Easy  |
 | 2901 | Longest Unequal Adjacent Groups Subsequence II |  | Medium  |
 | 2902 | Count of Sub-Multisets With Bounded Sum |  | Hard  |
 | 2903 | Find Indices With Index and Value Difference I | [TypeScript](./src/2903.find-indices-with-index-and-value-difference-i.3165/solution.ts) | Easy  |
@@ -3041,19 +3041,28 @@
 | 3021 | Alice and Bob Playing Flower Game |  | Medium  |
 | 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
 | 3023 | Find Pattern in Infinite Stream I |  | Medium  |
-| 3024 | Type of Triangle II | [TypeScript](./src/3024.type-of-triangle-ii.3321/solution.ts) | Easy  |
+| 3024 | Type of Triangle | [TypeScript](./src/3024.type-of-triangle.3321/solution.ts) | Easy  |
 | 3025 | Find the Number of Ways to Place People I |  | Medium  |
 | 3026 | Maximum Good Subarray Sum | [TypeScript](./src/3026.maximum-good-subarray-sum.3265/solution.ts) | Medium  |
 | 3027 | Find the Number of Ways to Place People II |  | Hard  |
 | 3028 | Ant on the Boundary | [TypeScript](./src/3028.ant-on-the-boundary.3311/solution.ts) | Easy  |
-| 3029 | Minimum Time to Revert Word to Initial State I |  | Medium  |
+| 3029 | Minimum Time to Revert Word to Initial State I | [TypeScript](./src/3029.minimum-time-to-revert-word-to-initial-state-i.3297/solution.ts) | Medium  |
 | 3030 | Find the Grid of Region Average | [TypeScript](./src/3030.find-the-grid-of-region-average.3272/solution.ts) | Medium  |
-| 3031 | Minimum Time to Revert Word to Initial State II |  | Hard  |
+| 3031 | Minimum Time to Revert Word to Initial State II | [TypeScript](./src/3031.minimum-time-to-revert-word-to-initial-state-ii.3296/solution.ts) | Hard  |
 | 3032 | Count Numbers With Unique Digits II |  | Easy  |
 | 3033 | Modify the Matrix | [TypeScript](./src/3033.modify-the-matrix.3330/solution.ts) | Easy  |
-| 3034 | Number of Subarrays That Match a Pattern I |  | Medium  |
-| 3035 | Maximum Palindromes After Operations |  | Medium  |
+| 3034 | Number of Subarrays That Match a Pattern I | [TypeScript](./src/3034.number-of-subarrays-that-match-a-pattern-i.3269/solution.ts) | Medium  |
+| 3035 | Maximum Palindromes After Operations | [TypeScript](./src/3035.maximum-palindromes-after-operations.3317/solution.ts) | Medium  |
 | 3036 | Number of Subarrays That Match a Pattern II |  | Hard  |
+| 3037 | Find Pattern in Infinite Stream II |  | Hard  |
+| 3038 | Maximum Number of Operations With the Same Score I |  | Easy  |
+| 3039 | Apply Operations to Make String Empty |  | Medium  |
+| 3040 | Maximum Number of Operations With the Same Score II |  | Medium  |
+| 3041 | Maximize Consecutive Elements in an Array After Modification |  | Hard  |
+| 3042 | Count Prefix and Suffix Pairs I |  | Easy  |
+| 3043 | Find the Length of the Longest Common Prefix |  | Medium  |
+| 3044 | Most Frequent Prime |  | Medium  |
+| 3045 | Count Prefix and Suffix Pairs II |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
