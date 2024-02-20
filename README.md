@@ -3053,12 +3053,12 @@
 | 3033 | Modify the Matrix | [TypeScript](./src/3033.modify-the-matrix.3330/solution.ts) | Easy  |
 | 3034 | Number of Subarrays That Match a Pattern I | [TypeScript](./src/3034.number-of-subarrays-that-match-a-pattern-i.3269/solution.ts) | Medium  |
 | 3035 | Maximum Palindromes After Operations | [TypeScript](./src/3035.maximum-palindromes-after-operations.3317/solution.ts) | Medium  |
-| 3036 | Number of Subarrays That Match a Pattern II |  | Hard  |
+| 3036 | Number of Subarrays That Match a Pattern II | [TypeScript](./src/3036.number-of-subarrays-that-match-a-pattern-ii.3290/solution.ts) | Hard  |
 | 3037 | Find Pattern in Infinite Stream II |  | Hard  |
-| 3038 | Maximum Number of Operations With the Same Score I |  | Easy  |
-| 3039 | Apply Operations to Make String Empty |  | Medium  |
-| 3040 | Maximum Number of Operations With the Same Score II |  | Medium  |
-| 3041 | Maximize Consecutive Elements in an Array After Modification |  | Hard  |
+| 3038 | Maximum Number of Operations With the Same Score I | [TypeScript](./src/3038.maximum-number-of-operations-with-the-same-score-i.3320/solution.ts) | Easy  |
+| 3039 | Apply Operations to Make String Empty | [TypeScript](./src/3039.apply-operations-to-make-string-empty.3308/solution.ts) | Medium  |
+| 3040 | Maximum Number of Operations With the Same Score II | [TypeScript](./src/3040.maximum-number-of-operations-with-the-same-score-ii.3318/solution.ts) | Medium  |
+| 3041 | Maximize Consecutive Elements in an Array After Modification | [TypeScript](./src/3041.maximize-consecutive-elements-in-an-array-after-modification.3298/solution.ts) | Hard  |
 | 3042 | Count Prefix and Suffix Pairs I |  | Easy  |
 | 3043 | Find the Length of the Longest Common Prefix |  | Medium  |
 | 3044 | Most Frequent Prime |  | Medium  |
