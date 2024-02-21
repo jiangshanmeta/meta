@@ -3059,10 +3059,10 @@
 | 3039 | Apply Operations to Make String Empty | [TypeScript](./src/3039.apply-operations-to-make-string-empty.3308/solution.ts) | Medium  |
 | 3040 | Maximum Number of Operations With the Same Score II | [TypeScript](./src/3040.maximum-number-of-operations-with-the-same-score-ii.3318/solution.ts) | Medium  |
 | 3041 | Maximize Consecutive Elements in an Array After Modification | [TypeScript](./src/3041.maximize-consecutive-elements-in-an-array-after-modification.3298/solution.ts) | Hard  |
-| 3042 | Count Prefix and Suffix Pairs I |  | Easy  |
-| 3043 | Find the Length of the Longest Common Prefix |  | Medium  |
-| 3044 | Most Frequent Prime |  | Medium  |
-| 3045 | Count Prefix and Suffix Pairs II |  | Hard  |
+| 3042 | Count Prefix and Suffix Pairs I | [TypeScript](./src/3042.count-prefix-and-suffix-pairs-i.3309/solution.ts) | Easy  |
+| 3043 | Find the Length of the Longest Common Prefix | [TypeScript](./src/3043.find-the-length-of-the-longest-common-prefix.3329/solution.ts) | Medium  |
+| 3044 | Most Frequent Prime | [TypeScript](./src/3044.most-frequent-prime.3314/solution.ts) | Medium  |
+| 3045 | Count Prefix and Suffix Pairs II | [TypeScript](./src/3045.count-prefix-and-suffix-pairs-ii.3305/solution.ts) | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -3317,7 +3317,7 @@
 | 面试题17_12 | BiNode LCCI | [JavaScript](./src/面试题17_12.binode-lcci.1000019/solution.js) [TypeScript](./src/面试题17_12.binode-lcci.1000019/solution.ts) | Easy  |
 | 面试题17_13 | Re-Space LCCI |  | Medium  |
 | 面试题17_14 | Smallest K LCCI | [JavaScript](./src/面试题17_14.smallest-k-lcci.1000021/solution.js) [TypeScript](./src/面试题17_14.smallest-k-lcci.1000021/solution.ts) | Medium  |
-| 面试题17_15 | Longest Word LCCI |  | Medium  |
+| 面试题17_15 | Longest Word LCCI | [TypeScript](./src/面试题17_15.longest-word-lcci.1000022/solution.ts) | Medium  |
 | 面试题17_16 | The Masseuse LCCI | [JavaScript](./src/面试题17_16.the-masseuse-lcci.1000023/solution.js) [TypeScript](./src/面试题17_16.the-masseuse-lcci.1000023/solution.ts) | Easy  |
 | 面试题17_17 | Multi Search LCCI | [TypeScript](./src/面试题17_17.multi-search-lcci.1000024/solution.ts) | Medium  |
 | 面试题17_18 | Shortest Supersequence LCCI | [TypeScript](./src/面试题17_18.shortest-supersequence-lcci.1000043/solution.ts) | Medium  |
