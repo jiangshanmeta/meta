@@ -21315,6 +21315,111 @@
         "difficulty": 3
     },
     {
+        "id": 3324,
+        "index": "3046",
+        "title": "Split the Array",
+        "title_slug": "split-the-array",
+        "difficulty": 1
+    },
+    {
+        "id": 3325,
+        "index": "3047",
+        "title": "Find the Largest Area of Square Inside Two Rectangles",
+        "title_slug": "find-the-largest-area-of-square-inside-two-rectangles",
+        "difficulty": 2
+    },
+    {
+        "id": 3292,
+        "index": "3048",
+        "title": "Earliest Second to Mark Indices I",
+        "title_slug": "earliest-second-to-mark-indices-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3289,
+        "index": "3049",
+        "title": "Earliest Second to Mark Indices II",
+        "title_slug": "earliest-second-to-mark-indices-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3255,
+        "index": "100173",
+        "title": "Pizza Toppings Cost Analysis",
+        "title_slug": "pizza-toppings-cost-analysis",
+        "difficulty": 2
+    },
+    {
+        "id": 3256,
+        "index": "100174",
+        "title": "Find Candidates for Data Scientist Position",
+        "title_slug": "find-candidates-for-data-scientist-position",
+        "difficulty": 1
+    },
+    {
+        "id": 3257,
+        "index": "100175",
+        "title": "Maximize Items",
+        "title_slug": "maximize-items",
+        "difficulty": 3
+    },
+    {
+        "id": 3258,
+        "index": "100176",
+        "title": "Classifying Triangles by Lengths",
+        "title_slug": "classifying-triangles-by-lengths",
+        "difficulty": 1
+    },
+    {
+        "id": 3259,
+        "index": "100177",
+        "title": "Binary Tree Nodes",
+        "title_slug": "binary-tree-nodes",
+        "difficulty": 2
+    },
+    {
+        "id": 3339,
+        "index": "100238",
+        "title": "Top Percentile Fraud",
+        "title_slug": "top-percentile-fraud",
+        "difficulty": 2
+    },
+    {
+        "id": 3340,
+        "index": "100239",
+        "title": "Snaps Analysis",
+        "title_slug": "snaps-analysis",
+        "difficulty": 2
+    },
+    {
+        "id": 3357,
+        "index": "100252",
+        "title": "Employees Project Allocation",
+        "title_slug": "employees-project-allocation",
+        "difficulty": 3
+    },
+    {
+        "id": 3358,
+        "index": "100253",
+        "title": "Friends With No Mutual Friends",
+        "title_slug": "friends-with-no-mutual-friends",
+        "difficulty": 2
+    },
+    {
+        "id": 3365,
+        "index": "100260",
+        "title": "Find All Unique Email Domains",
+        "title_slug": "find-all-unique-email-domains",
+        "difficulty": 1
+    },
+    {
+        "id": 3366,
+        "index": "100261",
+        "title": "User Activities within Time Bounds",
+        "title_slug": "user-activities-within-time-bounds",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
