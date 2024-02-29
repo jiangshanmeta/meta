@@ -22,7 +22,7 @@
 | 0002 | Add Two Numbers | [JavaScript](./src/0002.add-two-numbers.2/solution.js) [TypeScript](./src/0002.add-two-numbers.2/solution.ts) | Medium  |
 | 0003 | Longest Substring Without Repeating Characters | [JavaScript](./src/0003.longest-substring-without-repeating-characters.3/solution.js) [TypeScript](./src/0003.longest-substring-without-repeating-characters.3/solution.ts) | Medium  |
 | 0004 | Median of Two Sorted Arrays | [JavaScript](./src/0004.median-of-two-sorted-arrays.4/solution.js) | Hard  |
-| 0005 | Longest Palindromic Substring | [JavaScript](./src/0005.longest-palindromic-substring.5/solution.js) | Medium  |
+| 0005 | Longest Palindromic Substring | [JavaScript](./src/0005.longest-palindromic-substring.5/solution.js) [TypeScript](./src/0005.longest-palindromic-substring.5/solution.ts) | Medium  |
 | 0006 | Zigzag Conversion | [JavaScript](./src/0006.zigzag-conversion.6/solution.js) | Medium  |
 | 0007 | Reverse Integer | [JavaScript](./src/0007.reverse-integer.7/solution.js) | Medium  |
 | 0008 | String to Integer (atoi) | [JavaScript](./src/0008.string-to-integer-atoi.8/solution.js) | Medium  |
@@ -49,7 +49,7 @@
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/solution.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
 | 0031 | Next Permutation | [JavaScript](./src/0031.next-permutation.31/solution.js) | Medium  |
-| 0032 | Longest Valid Parentheses | [JavaScript](./src/0032.longest-valid-parentheses.32/solution.js) | Hard  |
+| 0032 | Longest Valid Parentheses | [JavaScript](./src/0032.longest-valid-parentheses.32/solution.js) [TypeScript](./src/0032.longest-valid-parentheses.32/solution.ts) | Hard  |
 | 0033 | Search in Rotated Sorted Array | [JavaScript](./src/0033.search-in-rotated-sorted-array.33/solution.js) | Medium  |
 | 0034 | Find First and Last Position of Element in Sorted Array | [JavaScript](./src/0034.find-first-and-last-position-of-element-in-sorted-array.34/solution.js) [TypeScript](./src/0034.find-first-and-last-position-of-element-in-sorted-array.34/solution.ts) | Medium  |
 | 0035 | Search Insert Position | [JavaScript](./src/0035.search-insert-position.35/solution.js) [TypeScript](./src/0035.search-insert-position.35/solution.ts) | Easy  |
@@ -484,7 +484,7 @@
 | 0464 | Can I Win |  | Medium  |
 | 0465 | Optimal Account Balancing |  | Hard  |
 | 0466 | Count The Repetitions |  | Hard  |
-| 0467 | Unique Substrings in Wraparound String |  | Medium  |
+| 0467 | Unique Substrings in Wraparound String | [TypeScript](./src/0467.unique-substrings-in-wraparound-string.467/solution.ts) | Medium  |
 | 0468 | Validate IP Address | [JavaScript](./src/0468.validate-ip-address.468/solution.js) | Medium  |
 | 0469 | Convex Polygon |  | Medium  |
 | 0470 | Implement Rand10() Using Rand7() | [JavaScript](./src/0470.implement-rand10-using-rand7.903/solution.js) [TypeScript](./src/0470.implement-rand10-using-rand7.903/solution.ts) | Medium  |
@@ -656,7 +656,7 @@
 | 0636 | Exclusive Time of Functions | [JavaScript](./src/0636.exclusive-time-of-functions.636/solution.js) | Medium  |
 | 0637 | Average of Levels in Binary Tree | [JavaScript](./src/0637.average-of-levels-in-binary-tree.637/solution.js) [TypeScript](./src/0637.average-of-levels-in-binary-tree.637/solution.ts) | Easy  |
 | 0638 | Shopping Offers |  | Medium  |
-| 0639 | Decode Ways II |  | Hard  |
+| 0639 | Decode Ways II | [TypeScript](./src/0639.decode-ways-ii.639/solution.ts) | Hard  |
 | 0640 | Solve the Equation | [JavaScript](./src/0640.solve-the-equation.640/solution.js) | Medium  |
 | 0641 | Design Circular Deque | [JavaScript](./src/0641.design-circular-deque.859/solution.js) | Medium  |
 | 0642 | Design Search Autocomplete System |  | Hard  |
@@ -2240,7 +2240,7 @@
 | 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.ts) | Easy  |
 | 2221 | Find Triangular Sum of an Array | [JavaScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.js) [TypeScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.ts) | Medium  |
 | 2222 | Number of Ways to Select Buildings | [TypeScript](./src/2222.number-of-ways-to-select-buildings.2325/solution.ts) | Medium  |
-| 2223 | Sum of Scores of Built Strings |  | Hard  |
+| 2223 | Sum of Scores of Built Strings | [TypeScript](./src/2223.sum-of-scores-of-built-strings.2326/solution.ts) | Hard  |
 | 2224 | Minimum Number of Operations to Convert Time | [JavaScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/solution.js) [TypeScript](./src/2224.minimum-number-of-operations-to-convert-time.2345/solution.ts) | Easy  |
 | 2225 | Find Players With Zero or One Losses | [JavaScript](./src/2225.find-players-with-zero-or-one-losses.1354/solution.js) [TypeScript](./src/2225.find-players-with-zero-or-one-losses.1354/solution.ts) | Medium  |
 | 2226 | Maximum Candies Allocated to K Children |  | Medium  |
@@ -3063,6 +3063,21 @@
 | 3043 | Find the Length of the Longest Common Prefix | [TypeScript](./src/3043.find-the-length-of-the-longest-common-prefix.3329/solution.ts) | Medium  |
 | 3044 | Most Frequent Prime | [TypeScript](./src/3044.most-frequent-prime.3314/solution.ts) | Medium  |
 | 3045 | Count Prefix and Suffix Pairs II | [TypeScript](./src/3045.count-prefix-and-suffix-pairs-ii.3305/solution.ts) | Hard  |
+| 3046 | Split the Array | [TypeScript](./src/3046.split-the-array.3324/solution.ts) | Easy  |
+| 3047 | Find the Largest Area of Square Inside Two Rectangles |  | Medium  |
+| 3048 | Earliest Second to Mark Indices I |  | Medium  |
+| 3049 | Earliest Second to Mark Indices II |  | Hard  |
+| 100173 | Pizza Toppings Cost Analysis |  | Medium  |
+| 100174 | Find Candidates for Data Scientist Position |  | Easy  |
+| 100175 | Maximize Items |  | Hard  |
+| 100176 | Classifying Triangles by Lengths |  | Easy  |
+| 100177 | Binary Tree Nodes |  | Medium  |
+| 100238 | Top Percentile Fraud |  | Medium  |
+| 100239 | Snaps Analysis |  | Medium  |
+| 100252 | Employees Project Allocation |  | Hard  |
+| 100253 | Friends With No Mutual Friends |  | Medium  |
+| 100260 | Find All Unique Email Domains |  | Easy  |
+| 100261 | User Activities within Time Bounds |  | Hard  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
