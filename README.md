@@ -18,7 +18,7 @@
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
-| 0001 | Two Sum | [Go](./src/0001.two-sum.1/solution.go) [JavaScript](./src/0001.two-sum.1/solution.js) [TypeScript](./src/0001.two-sum.1/solution.ts) | Easy  |
+| 0001 | Two Sum | [Go](./src/0001.two-sum.1/solution.go) [Java](./src/0001.two-sum.1/solution.java) [JavaScript](./src/0001.two-sum.1/solution.js) [TypeScript](./src/0001.two-sum.1/solution.ts) | Easy  |
 | 0002 | Add Two Numbers | [JavaScript](./src/0002.add-two-numbers.2/solution.js) [TypeScript](./src/0002.add-two-numbers.2/solution.ts) | Medium  |
 | 0003 | Longest Substring Without Repeating Characters | [JavaScript](./src/0003.longest-substring-without-repeating-characters.3/solution.js) [TypeScript](./src/0003.longest-substring-without-repeating-characters.3/solution.ts) | Medium  |
 | 0004 | Median of Two Sorted Arrays | [JavaScript](./src/0004.median-of-two-sorted-arrays.4/solution.js) | Hard  |
@@ -26,7 +26,7 @@
 | 0006 | Zigzag Conversion | [JavaScript](./src/0006.zigzag-conversion.6/solution.js) | Medium  |
 | 0007 | Reverse Integer | [JavaScript](./src/0007.reverse-integer.7/solution.js) | Medium  |
 | 0008 | String to Integer (atoi) | [JavaScript](./src/0008.string-to-integer-atoi.8/solution.js) | Medium  |
-| 0009 | Palindrome Number | [JavaScript](./src/0009.palindrome-number.9/solution.js) [TypeScript](./src/0009.palindrome-number.9/solution.ts) | Easy  |
+| 0009 | Palindrome Number | [Java](./src/0009.palindrome-number.9/solution.java) [JavaScript](./src/0009.palindrome-number.9/solution.js) [TypeScript](./src/0009.palindrome-number.9/solution.ts) | Easy  |
 | 0010 | Regular Expression Matching | [JavaScript](./src/0010.regular-expression-matching.10/solution.js) [TypeScript](./src/0010.regular-expression-matching.10/solution.ts) | Hard  |
 | 0011 | Container With Most Water | [JavaScript](./src/0011.container-with-most-water.11/solution.js) | Medium  |
 | 0012 | Integer to Roman | [JavaScript](./src/0012.integer-to-roman.12/solution.js) [TypeScript](./src/0012.integer-to-roman.12/solution.ts) | Medium  |
@@ -37,13 +37,13 @@
 | 0017 | Letter Combinations of a Phone Number | [JavaScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.js) [TypeScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.ts) | Medium  |
 | 0018 | 4Sum | [JavaScript](./src/0018.4sum.18/solution.js) | Medium  |
 | 0019 | Remove Nth Node From End of List | [JavaScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.js) [TypeScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.ts) | Medium  |
-| 0020 | Valid Parentheses | [JavaScript](./src/0020.valid-parentheses.20/solution.js) [TypeScript](./src/0020.valid-parentheses.20/solution.ts) | Easy  |
-| 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
+| 0020 | Valid Parentheses | [Java](./src/0020.valid-parentheses.20/solution.java) [JavaScript](./src/0020.valid-parentheses.20/solution.js) [TypeScript](./src/0020.valid-parentheses.20/solution.ts) | Easy  |
+| 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [Java](./src/0021.merge-two-sorted-lists.21/solution.java) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
 | 0022 | Generate Parentheses | [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
 | 0023 | Merge k Sorted Lists | [JavaScript](./src/0023.merge-k-sorted-lists.23/solution.js) [TypeScript](./src/0023.merge-k-sorted-lists.23/solution.ts) | Hard  |
 | 0024 | Swap Nodes in Pairs | [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/solution.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/solution.ts) | Hard  |
-| 0026 | Remove Duplicates from Sorted Array | [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.ts) | Easy  |
+| 0026 | Remove Duplicates from Sorted Array | [Java](./src/0026.remove-duplicates-from-sorted-array.26/solution.java) [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.ts) | Easy  |
 | 0027 | Remove Element | [JavaScript](./src/0027.remove-element.27/solution.js) [TypeScript](./src/0027.remove-element.27/solution.ts) | Easy  |
 | 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Easy  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/solution.js) | Medium  |
