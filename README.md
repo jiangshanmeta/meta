@@ -44,7 +44,7 @@
 | 0024 | Swap Nodes in Pairs | [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/solution.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/solution.ts) | Hard  |
 | 0026 | Remove Duplicates from Sorted Array | [Java](./src/0026.remove-duplicates-from-sorted-array.26/solution.java) [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.ts) | Easy  |
-| 0027 | Remove Element | [JavaScript](./src/0027.remove-element.27/solution.js) [TypeScript](./src/0027.remove-element.27/solution.ts) | Easy  |
+| 0027 | Remove Element | [Java](./src/0027.remove-element.27/solution.java) [JavaScript](./src/0027.remove-element.27/solution.js) [TypeScript](./src/0027.remove-element.27/solution.ts) | Easy  |
 | 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Easy  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/solution.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
@@ -75,7 +75,7 @@
 | 0055 | Jump Game | [JavaScript](./src/0055.jump-game.55/solution.js) [TypeScript](./src/0055.jump-game.55/solution.ts) | Medium  |
 | 0056 | Merge Intervals | [JavaScript](./src/0056.merge-intervals.56/solution.js) | Medium  |
 | 0057 | Insert Interval | [JavaScript](./src/0057.insert-interval.57/solution.js) | Medium  |
-| 0058 | Length of Last Word | [JavaScript](./src/0058.length-of-last-word.58/solution.js) [TypeScript](./src/0058.length-of-last-word.58/solution.ts) | Easy  |
+| 0058 | Length of Last Word | [Java](./src/0058.length-of-last-word.58/solution.java) [JavaScript](./src/0058.length-of-last-word.58/solution.js) [TypeScript](./src/0058.length-of-last-word.58/solution.ts) | Easy  |
 | 0059 | Spiral Matrix II | [JavaScript](./src/0059.spiral-matrix-ii.59/solution.js) [TypeScript](./src/0059.spiral-matrix-ii.59/solution.ts) | Medium  |
 | 0060 | Permutation Sequence | [JavaScript](./src/0060.permutation-sequence.60/solution.js) | Hard  |
 | 0061 | Rotate List | [JavaScript](./src/0061.rotate-list.61/solution.js) [TypeScript](./src/0061.rotate-list.61/solution.ts) | Medium  |
@@ -100,18 +100,18 @@
 | 0080 | Remove Duplicates from Sorted Array II | [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
 | 0081 | Search in Rotated Sorted Array II | [JavaScript](./src/0081.search-in-rotated-sorted-array-ii.81/solution.js) | Medium  |
 | 0082 | Remove Duplicates from Sorted List II | [JavaScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.js) [TypeScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.ts) | Medium  |
-| 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
+| 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [Java](./src/0083.remove-duplicates-from-sorted-list.83/solution.java) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
 | 0084 | Largest Rectangle in Histogram | [TypeScript](./src/0084.largest-rectangle-in-histogram.84/solution.ts) | Hard  |
 | 0085 | Maximal Rectangle | [TypeScript](./src/0085.maximal-rectangle.85/solution.ts) | Hard  |
 | 0086 | Partition List | [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
 | 0087 | Scramble String |  | Hard  |
-| 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
+| 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [Java](./src/0088.merge-sorted-array.88/solution.java) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
 | 0089 | Gray Code | [JavaScript](./src/0089.gray-code.89/solution.js) | Medium  |
 | 0090 | Subsets II | [JavaScript](./src/0090.subsets-ii.90/solution.js) [TypeScript](./src/0090.subsets-ii.90/solution.ts) | Medium  |
 | 0091 | Decode Ways | [JavaScript](./src/0091.decode-ways.91/solution.js) [TypeScript](./src/0091.decode-ways.91/solution.ts) | Medium  |
 | 0092 | Reverse Linked List II | [JavaScript](./src/0092.reverse-linked-list-ii.92/solution.js) [TypeScript](./src/0092.reverse-linked-list-ii.92/solution.ts) | Medium  |
 | 0093 | Restore IP Addresses | [JavaScript](./src/0093.restore-ip-addresses.93/solution.js) | Medium  |
-| 0094 | Binary Tree Inorder Traversal | [Go](./src/0094.binary-tree-inorder-traversal.94/solution.go) [JavaScript](./src/0094.binary-tree-inorder-traversal.94/solution.js) [TypeScript](./src/0094.binary-tree-inorder-traversal.94/solution.ts) | Easy  |
+| 0094 | Binary Tree Inorder Traversal | [Go](./src/0094.binary-tree-inorder-traversal.94/solution.go) [Java](./src/0094.binary-tree-inorder-traversal.94/solution.java) [JavaScript](./src/0094.binary-tree-inorder-traversal.94/solution.js) [TypeScript](./src/0094.binary-tree-inorder-traversal.94/solution.ts) | Easy  |
 | 0095 | Unique Binary Search Trees II | [JavaScript](./src/0095.unique-binary-search-trees-ii.95/solution.js) [TypeScript](./src/0095.unique-binary-search-trees-ii.95/solution.ts) | Medium  |
 | 0096 | Unique Binary Search Trees | [JavaScript](./src/0096.unique-binary-search-trees.96/solution.js) [TypeScript](./src/0096.unique-binary-search-trees.96/solution.ts) | Medium  |
 | 0097 | Interleaving String | [JavaScript](./src/0097.interleaving-string.97/solution.js) | Medium  |
