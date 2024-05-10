@@ -153,7 +153,7 @@
 | 0133 | Clone Graph | [JavaScript](./src/0133.clone-graph.133/solution.js) | Medium  |
 | 0134 | Gas Station | [JavaScript](./src/0134.gas-station.134/solution.js) | Medium  |
 | 0135 | Candy | [JavaScript](./src/0135.candy.135/solution.js) [TypeScript](./src/0135.candy.135/solution.ts) | Hard  |
-| 0136 | Single Number | [JavaScript](./src/0136.single-number.136/solution.js) [TypeScript](./src/0136.single-number.136/solution.ts) | Easy  |
+| 0136 | Single Number | [Java](./src/0136.single-number.136/solution.java) [JavaScript](./src/0136.single-number.136/solution.js) [TypeScript](./src/0136.single-number.136/solution.ts) | Easy  |
 | 0137 | Single Number II | [JavaScript](./src/0137.single-number-ii.137/solution.js) | Medium  |
 | 0138 | Copy List with Random Pointer | [JavaScript](./src/0138.copy-list-with-random-pointer.138/solution.js) | Medium  |
 | 0139 | Word Break | [JavaScript](./src/0139.word-break.139/solution.js) | Medium  |
@@ -161,8 +161,8 @@
 | 0141 | Linked List Cycle | [JavaScript](./src/0141.linked-list-cycle.141/solution.js) [TypeScript](./src/0141.linked-list-cycle.141/solution.ts) | Easy  |
 | 0142 | Linked List Cycle II | [JavaScript](./src/0142.linked-list-cycle-ii.142/solution.js) [TypeScript](./src/0142.linked-list-cycle-ii.142/solution.ts) | Medium  |
 | 0143 | Reorder List | [JavaScript](./src/0143.reorder-list.143/solution.js) [TypeScript](./src/0143.reorder-list.143/solution.ts) | Medium  |
-| 0144 | Binary Tree Preorder Traversal | [Go](./src/0144.binary-tree-preorder-traversal.144/solution.go) [JavaScript](./src/0144.binary-tree-preorder-traversal.144/solution.js) [TypeScript](./src/0144.binary-tree-preorder-traversal.144/solution.ts) | Easy  |
-| 0145 | Binary Tree Postorder Traversal | [Go](./src/0145.binary-tree-postorder-traversal.145/solution.go) [JavaScript](./src/0145.binary-tree-postorder-traversal.145/solution.js) [TypeScript](./src/0145.binary-tree-postorder-traversal.145/solution.ts) | Easy  |
+| 0144 | Binary Tree Preorder Traversal | [Go](./src/0144.binary-tree-preorder-traversal.144/solution.go) [Java](./src/0144.binary-tree-preorder-traversal.144/solution.java) [JavaScript](./src/0144.binary-tree-preorder-traversal.144/solution.js) [TypeScript](./src/0144.binary-tree-preorder-traversal.144/solution.ts) | Easy  |
+| 0145 | Binary Tree Postorder Traversal | [Go](./src/0145.binary-tree-postorder-traversal.145/solution.go) [Java](./src/0145.binary-tree-postorder-traversal.145/solution.java) [JavaScript](./src/0145.binary-tree-postorder-traversal.145/solution.js) [TypeScript](./src/0145.binary-tree-postorder-traversal.145/solution.ts) | Easy  |
 | 0146 | LRU Cache | [JavaScript](./src/0146.lru-cache.146/solution.js) | Medium  |
 | 0147 | Insertion Sort List | [JavaScript](./src/0147.insertion-sort-list.147/solution.js) | Medium  |
 | 0148 | Sort List | [JavaScript](./src/0148.sort-list.148/solution.js) | Medium  |
@@ -208,7 +208,7 @@
 | 0188 | Best Time to Buy and Sell Stock IV | [JavaScript](./src/0188.best-time-to-buy-and-sell-stock-iv.188/solution.js) | Hard  |
 | 0189 | Rotate Array | [JavaScript](./src/0189.rotate-array.189/solution.js) [TypeScript](./src/0189.rotate-array.189/solution.ts) | Medium  |
 | 0190 | Reverse Bits | [JavaScript](./src/0190.reverse-bits.190/solution.js) [TypeScript](./src/0190.reverse-bits.190/solution.ts) | Easy  |
-| 0191 | Number of 1 Bits | [JavaScript](./src/0191.number-of-1-bits.191/solution.js) [TypeScript](./src/0191.number-of-1-bits.191/solution.ts) | Easy  |
+| 0191 | Number of 1 Bits | [Java](./src/0191.number-of-1-bits.191/solution.java) [JavaScript](./src/0191.number-of-1-bits.191/solution.js) [TypeScript](./src/0191.number-of-1-bits.191/solution.ts) | Easy  |
 | 0192 | Word Frequency |  | Medium  |
 | 0193 | Valid Phone Numbers |  | Easy  |
 | 0194 | Transpose File |  | Medium  |
@@ -220,7 +220,7 @@
 | 0200 | Number of Islands | [JavaScript](./src/0200.number-of-islands.200/solution.js) [TypeScript](./src/0200.number-of-islands.200/solution.ts) | Medium  |
 | 0201 | Bitwise AND of Numbers Range | [JavaScript](./src/0201.bitwise-and-of-numbers-range.201/solution.js) | Medium  |
 | 0202 | Happy Number | [JavaScript](./src/0202.happy-number.202/solution.js) [TypeScript](./src/0202.happy-number.202/solution.ts) | Easy  |
-| 0203 | Remove Linked List Elements | [Go](./src/0203.remove-linked-list-elements.203/solution.go) [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
+| 0203 | Remove Linked List Elements | [Go](./src/0203.remove-linked-list-elements.203/solution.go) [Java](./src/0203.remove-linked-list-elements.203/solution.java) [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
 | 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/solution.js) [TypeScript](./src/0204.count-primes.204/solution.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/solution.js) [TypeScript](./src/0205.isomorphic-strings.205/solution.ts) | Easy  |
 | 0206 | Reverse Linked List | [Go](./src/0206.reverse-linked-list.206/solution.go) [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
