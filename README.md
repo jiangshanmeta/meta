@@ -223,7 +223,7 @@
 | 0203 | Remove Linked List Elements | [Go](./src/0203.remove-linked-list-elements.203/solution.go) [Java](./src/0203.remove-linked-list-elements.203/solution.java) [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
 | 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/solution.js) [TypeScript](./src/0204.count-primes.204/solution.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/solution.js) [TypeScript](./src/0205.isomorphic-strings.205/solution.ts) | Easy  |
-| 0206 | Reverse Linked List | [Go](./src/0206.reverse-linked-list.206/solution.go) [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
+| 0206 | Reverse Linked List | [Go](./src/0206.reverse-linked-list.206/solution.go) [Java](./src/0206.reverse-linked-list.206/solution.java) [JavaScript](./src/0206.reverse-linked-list.206/solution.js) [TypeScript](./src/0206.reverse-linked-list.206/solution.ts) | Easy  |
 | 0207 | Course Schedule | [JavaScript](./src/0207.course-schedule.207/solution.js) [TypeScript](./src/0207.course-schedule.207/solution.ts) | Medium  |
 | 0208 | Implement Trie (Prefix Tree) | [JavaScript](./src/0208.implement-trie-prefix-tree.208/solution.js) | Medium  |
 | 0209 | Minimum Size Subarray Sum | [JavaScript](./src/0209.minimum-size-subarray-sum.209/solution.js) [TypeScript](./src/0209.minimum-size-subarray-sum.209/solution.ts) | Medium  |
@@ -234,7 +234,7 @@
 | 0214 | Shortest Palindrome | [TypeScript](./src/0214.shortest-palindrome.214/solution.ts) | Hard  |
 | 0215 | Kth Largest Element in an Array | [JavaScript](./src/0215.kth-largest-element-in-an-array.215/solution.js) | Medium  |
 | 0216 | Combination Sum III | [JavaScript](./src/0216.combination-sum-iii.216/solution.js) [TypeScript](./src/0216.combination-sum-iii.216/solution.ts) | Medium  |
-| 0217 | Contains Duplicate | [JavaScript](./src/0217.contains-duplicate.217/solution.js) [TypeScript](./src/0217.contains-duplicate.217/solution.ts) | Easy  |
+| 0217 | Contains Duplicate | [Java](./src/0217.contains-duplicate.217/solution.java) [JavaScript](./src/0217.contains-duplicate.217/solution.js) [TypeScript](./src/0217.contains-duplicate.217/solution.ts) | Easy  |
 | 0218 | The Skyline Problem |  | Hard  |
 | 0219 | Contains Duplicate II | [JavaScript](./src/0219.contains-duplicate-ii.219/solution.js) [TypeScript](./src/0219.contains-duplicate-ii.219/solution.ts) | Easy  |
 | 0220 | Contains Duplicate III | [JavaScript](./src/0220.contains-duplicate-iii.220/solution.js) | Hard  |
@@ -243,12 +243,12 @@
 | 0223 | Rectangle Area | [JavaScript](./src/0223.rectangle-area.223/solution.js) | Medium  |
 | 0224 | Basic Calculator |  | Hard  |
 | 0225 | Implement Stack using Queues | [JavaScript](./src/0225.implement-stack-using-queues.225/solution.js) [TypeScript](./src/0225.implement-stack-using-queues.225/solution.ts) | Easy  |
-| 0226 | Invert Binary Tree | [Go](./src/0226.invert-binary-tree.226/solution.go) [JavaScript](./src/0226.invert-binary-tree.226/solution.js) [TypeScript](./src/0226.invert-binary-tree.226/solution.ts) | Easy  |
+| 0226 | Invert Binary Tree | [Go](./src/0226.invert-binary-tree.226/solution.go) [Java](./src/0226.invert-binary-tree.226/solution.java) [JavaScript](./src/0226.invert-binary-tree.226/solution.js) [TypeScript](./src/0226.invert-binary-tree.226/solution.ts) | Easy  |
 | 0227 | Basic Calculator II |  | Medium  |
-| 0228 | Summary Ranges | [JavaScript](./src/0228.summary-ranges.228/solution.js) [TypeScript](./src/0228.summary-ranges.228/solution.ts) | Easy  |
+| 0228 | Summary Ranges | [Java](./src/0228.summary-ranges.228/solution.java) [JavaScript](./src/0228.summary-ranges.228/solution.js) [TypeScript](./src/0228.summary-ranges.228/solution.ts) | Easy  |
 | 0229 | Majority Element II | [JavaScript](./src/0229.majority-element-ii.229/solution.js) | Medium  |
 | 0230 | Kth Smallest Element in a BST | [JavaScript](./src/0230.kth-smallest-element-in-a-bst.230/solution.js) [TypeScript](./src/0230.kth-smallest-element-in-a-bst.230/solution.ts) | Medium  |
-| 0231 | Power of Two | [JavaScript](./src/0231.power-of-two.231/solution.js) [TypeScript](./src/0231.power-of-two.231/solution.ts) | Easy  |
+| 0231 | Power of Two | [Java](./src/0231.power-of-two.231/solution.java) [JavaScript](./src/0231.power-of-two.231/solution.js) [TypeScript](./src/0231.power-of-two.231/solution.ts) | Easy  |
 | 0232 | Implement Queue using Stacks | [JavaScript](./src/0232.implement-queue-using-stacks.232/solution.js) [TypeScript](./src/0232.implement-queue-using-stacks.232/solution.ts) | Easy  |
 | 0233 | Number of Digit One | [JavaScript](./src/0233.number-of-digit-one.233/solution.js) | Hard  |
 | 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/solution.js) [TypeScript](./src/0234.palindrome-linked-list.234/solution.ts) | Easy  |
