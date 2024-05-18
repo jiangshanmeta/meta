@@ -259,7 +259,7 @@
 | 0239 | Sliding Window Maximum | [JavaScript](./src/0239.sliding-window-maximum.239/solution.js) [TypeScript](./src/0239.sliding-window-maximum.239/solution.ts) | Hard  |
 | 0240 | Search a 2D Matrix II | [JavaScript](./src/0240.search-a-2d-matrix-ii.240/solution.js) [TypeScript](./src/0240.search-a-2d-matrix-ii.240/solution.ts) | Medium  |
 | 0241 | Different Ways to Add Parentheses |  | Medium  |
-| 0242 | Valid Anagram | [JavaScript](./src/0242.valid-anagram.242/solution.js) [TypeScript](./src/0242.valid-anagram.242/solution.ts) | Easy  |
+| 0242 | Valid Anagram | [Java](./src/0242.valid-anagram.242/solution.java) [JavaScript](./src/0242.valid-anagram.242/solution.js) [TypeScript](./src/0242.valid-anagram.242/solution.ts) | Easy  |
 | 0243 | Shortest Word Distance | [JavaScript](./src/0243.shortest-word-distance.243/solution.js) [TypeScript](./src/0243.shortest-word-distance.243/solution.ts) | Easy  |
 | 0244 | Shortest Word Distance II | [JavaScript](./src/0244.shortest-word-distance-ii.244/solution.js) [TypeScript](./src/0244.shortest-word-distance-ii.244/solution.ts) | Medium  |
 | 0245 | Shortest Word Distance III | [JavaScript](./src/0245.shortest-word-distance-iii.245/solution.js) [TypeScript](./src/0245.shortest-word-distance-iii.245/solution.ts) | Medium  |
@@ -320,7 +320,7 @@
 | 0300 | Longest Increasing Subsequence | [JavaScript](./src/0300.longest-increasing-subsequence.300/solution.js) [TypeScript](./src/0300.longest-increasing-subsequence.300/solution.ts) | Medium  |
 | 0301 | Remove Invalid Parentheses |  | Hard  |
 | 0302 | Smallest Rectangle Enclosing Black Pixels |  | Hard  |
-| 0303 | Range Sum Query - Immutable | [JavaScript](./src/0303.range-sum-query-immutable.303/solution.js) [TypeScript](./src/0303.range-sum-query-immutable.303/solution.ts) | Easy  |
+| 0303 | Range Sum Query - Immutable | [Java](./src/0303.range-sum-query-immutable.303/solution.java) [JavaScript](./src/0303.range-sum-query-immutable.303/solution.js) [TypeScript](./src/0303.range-sum-query-immutable.303/solution.ts) | Easy  |
 | 0304 | Range Sum Query 2D - Immutable | [JavaScript](./src/0304.range-sum-query-2d-immutable.304/solution.js) [TypeScript](./src/0304.range-sum-query-2d-immutable.304/solution.ts) | Medium  |
 | 0305 | Number of Islands II |  | Hard  |
 | 0306 | Additive Number | [JavaScript](./src/0306.additive-number.306/solution.js) | Medium  |
@@ -343,7 +343,7 @@
 | 0323 | Number of Connected Components in an Undirected Graph | [JavaScript](./src/0323.number-of-connected-components-in-an-undirected-graph.323/solution.js) [TypeScript](./src/0323.number-of-connected-components-in-an-undirected-graph.323/solution.ts) | Medium  |
 | 0324 | Wiggle Sort II |  | Medium  |
 | 0325 | Maximum Size Subarray Sum Equals k | [JavaScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.js) [TypeScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.ts) | Medium  |
-| 0326 | Power of Three | [JavaScript](./src/0326.power-of-three.326/solution.js) [TypeScript](./src/0326.power-of-three.326/solution.ts) | Easy  |
+| 0326 | Power of Three | [Java](./src/0326.power-of-three.326/solution.java) [JavaScript](./src/0326.power-of-three.326/solution.js) [TypeScript](./src/0326.power-of-three.326/solution.ts) | Easy  |
 | 0327 | Count of Range Sum | [TypeScript](./src/0327.count-of-range-sum.327/solution.ts) | Hard  |
 | 0328 | Odd Even Linked List | [JavaScript](./src/0328.odd-even-linked-list.328/solution.js) [TypeScript](./src/0328.odd-even-linked-list.328/solution.ts) | Medium  |
 | 0329 | Longest Increasing Path in a Matrix | [JavaScript](./src/0329.longest-increasing-path-in-a-matrix.329/solution.js) | Hard  |
@@ -361,8 +361,8 @@
 | 0341 | Flatten Nested List Iterator | [JavaScript](./src/0341.flatten-nested-list-iterator.341/solution.js) | Medium  |
 | 0342 | Power of Four | [JavaScript](./src/0342.power-of-four.342/solution.js) [TypeScript](./src/0342.power-of-four.342/solution.ts) | Easy  |
 | 0343 | Integer Break | [JavaScript](./src/0343.integer-break.343/solution.js) [TypeScript](./src/0343.integer-break.343/solution.ts) | Medium  |
-| 0344 | Reverse String | [JavaScript](./src/0344.reverse-string.344/solution.js) [TypeScript](./src/0344.reverse-string.344/solution.ts) | Easy  |
-| 0345 | Reverse Vowels of a String | [JavaScript](./src/0345.reverse-vowels-of-a-string.345/solution.js) [TypeScript](./src/0345.reverse-vowels-of-a-string.345/solution.ts) | Easy  |
+| 0344 | Reverse String | [Java](./src/0344.reverse-string.344/solution.java) [JavaScript](./src/0344.reverse-string.344/solution.js) [TypeScript](./src/0344.reverse-string.344/solution.ts) | Easy  |
+| 0345 | Reverse Vowels of a String | [Java](./src/0345.reverse-vowels-of-a-string.345/solution.java) [JavaScript](./src/0345.reverse-vowels-of-a-string.345/solution.js) [TypeScript](./src/0345.reverse-vowels-of-a-string.345/solution.ts) | Easy  |
 | 0346 | Moving Average from Data Stream | [JavaScript](./src/0346.moving-average-from-data-stream.346/solution.js) [TypeScript](./src/0346.moving-average-from-data-stream.346/solution.ts) | Easy  |
 | 0347 | Top K Frequent Elements | [JavaScript](./src/0347.top-k-frequent-elements.347/solution.js) | Medium  |
 | 0348 | Design Tic-Tac-Toe |  | Medium  |
