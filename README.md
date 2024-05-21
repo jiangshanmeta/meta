@@ -384,14 +384,14 @@
 | 0364 | Nested List Weight Sum II | [JavaScript](./src/0364.nested-list-weight-sum-ii.364/solution.js) [TypeScript](./src/0364.nested-list-weight-sum-ii.364/solution.ts) | Medium  |
 | 0365 | Water and Jug Problem |  | Medium  |
 | 0366 | Find Leaves of Binary Tree | [JavaScript](./src/0366.find-leaves-of-binary-tree.366/solution.js) [TypeScript](./src/0366.find-leaves-of-binary-tree.366/solution.ts) | Medium  |
-| 0367 | Valid Perfect Square | [JavaScript](./src/0367.valid-perfect-square.367/solution.js) [TypeScript](./src/0367.valid-perfect-square.367/solution.ts) | Easy  |
+| 0367 | Valid Perfect Square | [Java](./src/0367.valid-perfect-square.367/solution.java) [JavaScript](./src/0367.valid-perfect-square.367/solution.js) [TypeScript](./src/0367.valid-perfect-square.367/solution.ts) | Easy  |
 | 0368 | Largest Divisible Subset |  | Medium  |
 | 0369 | Plus One Linked List | [JavaScript](./src/0369.plus-one-linked-list.369/solution.js) [TypeScript](./src/0369.plus-one-linked-list.369/solution.ts) | Medium  |
 | 0370 | Range Addition | [JavaScript](./src/0370.range-addition.370/solution.js) [TypeScript](./src/0370.range-addition.370/solution.ts) | Medium  |
 | 0371 | Sum of Two Integers | [JavaScript](./src/0371.sum-of-two-integers.371/solution.js) [TypeScript](./src/0371.sum-of-two-integers.371/solution.ts) | Medium  |
 | 0372 | Super Pow | [JavaScript](./src/0372.super-pow.372/solution.js) | Medium  |
 | 0373 | Find K Pairs with Smallest Sums | [JavaScript](./src/0373.find-k-pairs-with-smallest-sums.373/solution.js) | Medium  |
-| 0374 | Guess Number Higher or Lower | [JavaScript](./src/0374.guess-number-higher-or-lower.374/solution.js) [Python3](./src/0374.guess-number-higher-or-lower.374/solution.py) [TypeScript](./src/0374.guess-number-higher-or-lower.374/solution.ts) | Easy  |
+| 0374 | Guess Number Higher or Lower | [Java](./src/0374.guess-number-higher-or-lower.374/solution.java) [JavaScript](./src/0374.guess-number-higher-or-lower.374/solution.js) [Python3](./src/0374.guess-number-higher-or-lower.374/solution.py) [TypeScript](./src/0374.guess-number-higher-or-lower.374/solution.ts) | Easy  |
 | 0375 | Guess Number Higher or Lower II | [JavaScript](./src/0375.guess-number-higher-or-lower-ii.375/solution.js) | Medium  |
 | 0376 | Wiggle Subsequence | [JavaScript](./src/0376.wiggle-subsequence.376/solution.js) | Medium  |
 | 0377 | Combination Sum IV | [JavaScript](./src/0377.combination-sum-iv.377/solution.js) [TypeScript](./src/0377.combination-sum-iv.377/solution.ts) | Medium  |
@@ -400,16 +400,16 @@
 | 0380 | Insert Delete GetRandom O(1) | [JavaScript](./src/0380.insert-delete-getrandom-o1.380/solution.js) | Medium  |
 | 0381 | Insert Delete GetRandom O(1) - Duplicates allowed | [JavaScript](./src/0381.insert-delete-getrandom-o1-duplicates-allowed.381/solution.js) | Hard  |
 | 0382 | Linked List Random Node | [JavaScript](./src/0382.linked-list-random-node.382/solution.js) | Medium  |
-| 0383 | Ransom Note | [JavaScript](./src/0383.ransom-note.383/solution.js) [TypeScript](./src/0383.ransom-note.383/solution.ts) | Easy  |
+| 0383 | Ransom Note | [Java](./src/0383.ransom-note.383/solution.java) [JavaScript](./src/0383.ransom-note.383/solution.js) [TypeScript](./src/0383.ransom-note.383/solution.ts) | Easy  |
 | 0384 | Shuffle an Array | [JavaScript](./src/0384.shuffle-an-array.384/solution.js) [TypeScript](./src/0384.shuffle-an-array.384/solution.ts) | Medium  |
 | 0385 | Mini Parser | [JavaScript](./src/0385.mini-parser.385/solution.js) | Medium  |
 | 0386 | Lexicographical Numbers | [JavaScript](./src/0386.lexicographical-numbers.386/solution.js) [TypeScript](./src/0386.lexicographical-numbers.386/solution.ts) | Medium  |
 | 0387 | First Unique Character in a String | [JavaScript](./src/0387.first-unique-character-in-a-string.387/solution.js) [TypeScript](./src/0387.first-unique-character-in-a-string.387/solution.ts) | Easy  |
 | 0388 | Longest Absolute File Path | [JavaScript](./src/0388.longest-absolute-file-path.388/solution.js) | Medium  |
-| 0389 | Find the Difference | [JavaScript](./src/0389.find-the-difference.389/solution.js) [TypeScript](./src/0389.find-the-difference.389/solution.ts) | Easy  |
+| 0389 | Find the Difference | [Java](./src/0389.find-the-difference.389/solution.java) [JavaScript](./src/0389.find-the-difference.389/solution.js) [TypeScript](./src/0389.find-the-difference.389/solution.ts) | Easy  |
 | 0390 | Elimination Game |  | Medium  |
 | 0391 | Perfect Rectangle |  | Hard  |
-| 0392 | Is Subsequence | [JavaScript](./src/0392.is-subsequence.392/solution.js) [TypeScript](./src/0392.is-subsequence.392/solution.ts) | Easy  |
+| 0392 | Is Subsequence | [Java](./src/0392.is-subsequence.392/solution.java) [JavaScript](./src/0392.is-subsequence.392/solution.js) [TypeScript](./src/0392.is-subsequence.392/solution.ts) | Easy  |
 | 0393 | UTF-8 Validation | [JavaScript](./src/0393.utf-8-validation.393/solution.js) | Medium  |
 | 0394 | Decode String | [JavaScript](./src/0394.decode-string.394/solution.js) | Medium  |
 | 0395 | Longest Substring with At Least K Repeating Characters | [JavaScript](./src/0395.longest-substring-with-at-least-k-repeating-characters.395/solution.js) | Medium  |
