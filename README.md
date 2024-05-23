@@ -421,8 +421,8 @@
 | 0401 | Binary Watch | [JavaScript](./src/0401.binary-watch.401/solution.js) [TypeScript](./src/0401.binary-watch.401/solution.ts) | Easy  |
 | 0402 | Remove K Digits | [TypeScript](./src/0402.remove-k-digits.402/solution.ts) | Medium  |
 | 0403 | Frog Jump | [JavaScript](./src/0403.frog-jump.403/solution.js) | Hard  |
-| 0404 | Sum of Left Leaves | [JavaScript](./src/0404.sum-of-left-leaves.404/solution.js) [TypeScript](./src/0404.sum-of-left-leaves.404/solution.ts) | Easy  |
-| 0405 | Convert a Number to Hexadecimal | [JavaScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.js) [TypeScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.ts) | Easy  |
+| 0404 | Sum of Left Leaves | [Java](./src/0404.sum-of-left-leaves.404/solution.java) [JavaScript](./src/0404.sum-of-left-leaves.404/solution.js) [TypeScript](./src/0404.sum-of-left-leaves.404/solution.ts) | Easy  |
+| 0405 | Convert a Number to Hexadecimal | [Java](./src/0405.convert-a-number-to-hexadecimal.405/solution.java) [JavaScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.js) [TypeScript](./src/0405.convert-a-number-to-hexadecimal.405/solution.ts) | Easy  |
 | 0406 | Queue Reconstruction by Height |  | Medium  |
 | 0407 | Trapping Rain Water II |  | Hard  |
 | 0408 | Valid Word Abbreviation | [JavaScript](./src/0408.valid-word-abbreviation.408/solution.js) [TypeScript](./src/0408.valid-word-abbreviation.408/solution.ts) | Easy  |
@@ -451,7 +451,7 @@
 | 0431 | Encode N-ary Tree to Binary Tree | [JavaScript](./src/0431.encode-n-ary-tree-to-binary-tree.771/solution.js) [TypeScript](./src/0431.encode-n-ary-tree-to-binary-tree.771/solution.ts) | Hard  |
 | 0432 | All O`one Data Structure | [JavaScript](./src/0432.all-oone-data-structure.432/solution.js) | Hard  |
 | 0433 | Minimum Genetic Mutation | [JavaScript](./src/0433.minimum-genetic-mutation.433/solution.js) | Medium  |
-| 0434 | Number of Segments in a String | [JavaScript](./src/0434.number-of-segments-in-a-string.434/solution.js) [TypeScript](./src/0434.number-of-segments-in-a-string.434/solution.ts) | Easy  |
+| 0434 | Number of Segments in a String | [Java](./src/0434.number-of-segments-in-a-string.434/solution.java) [JavaScript](./src/0434.number-of-segments-in-a-string.434/solution.js) [TypeScript](./src/0434.number-of-segments-in-a-string.434/solution.ts) | Easy  |
 | 0435 | Non-overlapping Intervals | [JavaScript](./src/0435.non-overlapping-intervals.435/solution.js) | Medium  |
 | 0436 | Find Right Interval | [JavaScript](./src/0436.find-right-interval.436/solution.js) | Medium  |
 | 0437 | Path Sum III | [JavaScript](./src/0437.path-sum-iii.437/solution.js) [TypeScript](./src/0437.path-sum-iii.437/solution.ts) | Medium  |
@@ -574,7 +574,7 @@
 | 0554 | Brick Wall | [JavaScript](./src/0554.brick-wall.554/solution.js) | Medium  |
 | 0555 | Split Concatenated Strings |  | Medium  |
 | 0556 | Next Greater Element III | [JavaScript](./src/0556.next-greater-element-iii.556/solution.js) | Medium  |
-| 0557 | Reverse Words in a String III | [JavaScript](./src/0557.reverse-words-in-a-string-iii.557/solution.js) [TypeScript](./src/0557.reverse-words-in-a-string-iii.557/solution.ts) | Easy  |
+| 0557 | Reverse Words in a String III | [Java](./src/0557.reverse-words-in-a-string-iii.557/solution.java) [JavaScript](./src/0557.reverse-words-in-a-string-iii.557/solution.js) [TypeScript](./src/0557.reverse-words-in-a-string-iii.557/solution.ts) | Easy  |
 | 0558 | Logical OR of Two Binary Grids Represented as Quad-Trees | [JavaScript](./src/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773/solution.js) | Medium  |
 | 0559 | Maximum Depth of N-ary Tree | [JavaScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.js) [TypeScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.ts) | Easy  |
 | 0560 | Subarray Sum Equals K | [JavaScript](./src/0560.subarray-sum-equals-k.560/solution.js) [TypeScript](./src/0560.subarray-sum-equals-k.560/solution.ts) | Medium  |
@@ -721,7 +721,7 @@
 | 0701 | Insert into a Binary Search Tree | [JavaScript](./src/0701.insert-into-a-binary-search-tree.784/solution.js) [TypeScript](./src/0701.insert-into-a-binary-search-tree.784/solution.ts) | Medium  |
 | 0702 | Search in a Sorted Array of Unknown Size | [JavaScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.js) [TypeScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.ts) | Medium  |
 | 0703 | Kth Largest Element in a Stream | [JavaScript](./src/0703.kth-largest-element-in-a-stream.789/solution.js) [TypeScript](./src/0703.kth-largest-element-in-a-stream.789/solution.ts) | Easy  |
-| 0704 | Binary Search | [JavaScript](./src/0704.binary-search.792/solution.js) [TypeScript](./src/0704.binary-search.792/solution.ts) | Easy  |
+| 0704 | Binary Search | [Java](./src/0704.binary-search.792/solution.java) [JavaScript](./src/0704.binary-search.792/solution.js) [TypeScript](./src/0704.binary-search.792/solution.ts) | Easy  |
 | 0705 | Design HashSet | [JavaScript](./src/0705.design-hashset.816/solution.js) | Easy  |
 | 0706 | Design HashMap | [JavaScript](./src/0706.design-hashmap.817/solution.js) | Easy  |
 | 0707 | Design Linked List | [JavaScript](./src/0707.design-linked-list.838/solution.js) [TypeScript](./src/0707.design-linked-list.838/solution.ts) | Medium  |
