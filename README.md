@@ -726,7 +726,7 @@
 | 0706 | Design HashMap | [JavaScript](./src/0706.design-hashmap.817/solution.js) | Easy  |
 | 0707 | Design Linked List | [JavaScript](./src/0707.design-linked-list.838/solution.js) [TypeScript](./src/0707.design-linked-list.838/solution.ts) | Medium  |
 | 0708 | Insert into a Sorted Circular Linked List | [JavaScript](./src/0708.insert-into-a-sorted-circular-linked-list.850/solution.js) | Medium  |
-| 0709 | To Lower Case | [JavaScript](./src/0709.to-lower-case.742/solution.js) [TypeScript](./src/0709.to-lower-case.742/solution.ts) | Easy  |
+| 0709 | To Lower Case | [Java](./src/0709.to-lower-case.742/solution.java) [JavaScript](./src/0709.to-lower-case.742/solution.js) [TypeScript](./src/0709.to-lower-case.742/solution.ts) | Easy  |
 | 0710 | Random Pick with Blacklist | [JavaScript](./src/0710.random-pick-with-blacklist.894/solution.js) | Hard  |
 | 0711 | Number of Distinct Islands II |  | Hard  |
 | 0712 | Minimum ASCII Delete Sum for Two Strings | [JavaScript](./src/0712.minimum-ascii-delete-sum-for-two-strings.712/solution.js) | Medium  |
@@ -838,7 +838,7 @@
 | 0818 | Race Car |  | Hard  |
 | 0819 | Most Common Word | [JavaScript](./src/0819.most-common-word.837/solution.js) [TypeScript](./src/0819.most-common-word.837/solution.ts) | Easy  |
 | 0820 | Short Encoding of Words | [JavaScript](./src/0820.short-encoding-of-words.839/solution.js) | Medium  |
-| 0821 | Shortest Distance to a Character | [JavaScript](./src/0821.shortest-distance-to-a-character.841/solution.js) [TypeScript](./src/0821.shortest-distance-to-a-character.841/solution.ts) | Easy  |
+| 0821 | Shortest Distance to a Character | [Java](./src/0821.shortest-distance-to-a-character.841/solution.java) [JavaScript](./src/0821.shortest-distance-to-a-character.841/solution.js) [TypeScript](./src/0821.shortest-distance-to-a-character.841/solution.ts) | Easy  |
 | 0822 | Card Flipping Game | [JavaScript](./src/0822.card-flipping-game.842/solution.js) | Medium  |
 | 0823 | Binary Trees With Factors | [JavaScript](./src/0823.binary-trees-with-factors.843/solution.js) | Medium  |
 | 0824 | Goat Latin | [JavaScript](./src/0824.goat-latin.851/solution.js) [TypeScript](./src/0824.goat-latin.851/solution.ts) | Easy  |
@@ -885,7 +885,7 @@
 | 0865 | Smallest Subtree with all the Deepest Nodes | [JavaScript](./src/0865.smallest-subtree-with-all-the-deepest-nodes.896/solution.js) [TypeScript](./src/0865.smallest-subtree-with-all-the-deepest-nodes.896/solution.ts) | Medium  |
 | 0866 | Prime Palindrome | [JavaScript](./src/0866.prime-palindrome.897/solution.js) [TypeScript](./src/0866.prime-palindrome.897/solution.ts) | Medium  |
 | 0867 | Transpose Matrix | [JavaScript](./src/0867.transpose-matrix.898/solution.js) [TypeScript](./src/0867.transpose-matrix.898/solution.ts) | Easy  |
-| 0868 | Binary Gap | [JavaScript](./src/0868.binary-gap.899/solution.js) [TypeScript](./src/0868.binary-gap.899/solution.ts) | Easy  |
+| 0868 | Binary Gap | [Java](./src/0868.binary-gap.899/solution.java) [JavaScript](./src/0868.binary-gap.899/solution.js) [TypeScript](./src/0868.binary-gap.899/solution.ts) | Easy  |
 | 0869 | Reordered Power of 2 | [JavaScript](./src/0869.reordered-power-of-2.900/solution.js) [TypeScript](./src/0869.reordered-power-of-2.900/solution.ts) | Medium  |
 | 0870 | Advantage Shuffle | [JavaScript](./src/0870.advantage-shuffle.901/solution.js) | Medium  |
 | 0871 | Minimum Number of Refueling Stops |  | Hard  |
@@ -934,7 +934,7 @@
 | 0914 | X of a Kind in a Deck of Cards | [JavaScript](./src/0914.x-of-a-kind-in-a-deck-of-cards.950/solution.js) [TypeScript](./src/0914.x-of-a-kind-in-a-deck-of-cards.950/solution.ts) | Easy  |
 | 0915 | Partition Array into Disjoint Intervals | [JavaScript](./src/0915.partition-array-into-disjoint-intervals.951/solution.js) | Medium  |
 | 0916 | Word Subsets | [JavaScript](./src/0916.word-subsets.952/solution.js) | Medium  |
-| 0917 | Reverse Only Letters | [JavaScript](./src/0917.reverse-only-letters.953/solution.js) [TypeScript](./src/0917.reverse-only-letters.953/solution.ts) | Easy  |
+| 0917 | Reverse Only Letters | [Java](./src/0917.reverse-only-letters.953/solution.java) [JavaScript](./src/0917.reverse-only-letters.953/solution.js) [TypeScript](./src/0917.reverse-only-letters.953/solution.ts) | Easy  |
 | 0918 | Maximum Sum Circular Subarray | [JavaScript](./src/0918.maximum-sum-circular-subarray.954/solution.js) | Medium  |
 | 0919 | Complete Binary Tree Inserter | [JavaScript](./src/0919.complete-binary-tree-inserter.955/solution.js) [TypeScript](./src/0919.complete-binary-tree-inserter.955/solution.ts) | Medium  |
 | 0920 | Number of Music Playlists |  | Hard  |
@@ -982,7 +982,7 @@
 | 0962 | Maximum Width Ramp | [JavaScript](./src/0962.maximum-width-ramp.1002/solution.js) [TypeScript](./src/0962.maximum-width-ramp.1002/solution.ts) | Medium  |
 | 0963 | Minimum Area Rectangle II |  | Medium  |
 | 0964 | Least Operators to Express Number |  | Hard  |
-| 0965 | Univalued Binary Tree | [Go](./src/0965.univalued-binary-tree.1005/solution.go) [JavaScript](./src/0965.univalued-binary-tree.1005/solution.js) [TypeScript](./src/0965.univalued-binary-tree.1005/solution.ts) | Easy  |
+| 0965 | Univalued Binary Tree | [Go](./src/0965.univalued-binary-tree.1005/solution.go) [Java](./src/0965.univalued-binary-tree.1005/solution.java) [JavaScript](./src/0965.univalued-binary-tree.1005/solution.js) [TypeScript](./src/0965.univalued-binary-tree.1005/solution.ts) | Easy  |
 | 0966 | Vowel Spellchecker | [JavaScript](./src/0966.vowel-spellchecker.1006/solution.js) | Medium  |
 | 0967 | Numbers With Same Consecutive Differences | [JavaScript](./src/0967.numbers-with-same-consecutive-differences.1007/solution.js) | Medium  |
 | 0968 | Binary Tree Cameras | [JavaScript](./src/0968.binary-tree-cameras.1008/solution.js) | Hard  |
@@ -1039,7 +1039,7 @@
 | 1019 | Next Greater Node In Linked List | [JavaScript](./src/1019.next-greater-node-in-linked-list.1072/solution.js) [TypeScript](./src/1019.next-greater-node-in-linked-list.1072/solution.ts) | Medium  |
 | 1020 | Number of Enclaves | [JavaScript](./src/1020.number-of-enclaves.1073/solution.js) [TypeScript](./src/1020.number-of-enclaves.1073/solution.ts) | Medium  |
 | 1021 | Remove Outermost Parentheses | [JavaScript](./src/1021.remove-outermost-parentheses.1078/solution.js) [TypeScript](./src/1021.remove-outermost-parentheses.1078/solution.ts) | Easy  |
-| 1022 | Sum of Root To Leaf Binary Numbers | [Go](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.go) [JavaScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.js) [TypeScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.ts) | Easy  |
+| 1022 | Sum of Root To Leaf Binary Numbers | [Go](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.go) [Java](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.java) [JavaScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.js) [TypeScript](./src/1022.sum-of-root-to-leaf-binary-numbers.1079/solution.ts) | Easy  |
 | 1023 | Camelcase Matching | [JavaScript](./src/1023.camelcase-matching.1080/solution.js) | Medium  |
 | 1024 | Video Stitching | [JavaScript](./src/1024.video-stitching.1081/solution.js) | Medium  |
 | 1025 | Divisor Game | [JavaScript](./src/1025.divisor-game.1086/solution.js) [TypeScript](./src/1025.divisor-game.1086/solution.ts) | Easy  |
@@ -1202,7 +1202,7 @@
 | 1182 | Shortest Distance to Target Color | [JavaScript](./src/1182.shortest-distance-to-target-color.1134/solution.js) | Medium  |
 | 1183 | Maximum Number of Ones |  | Hard  |
 | 1184 | Distance Between Bus Stops | [JavaScript](./src/1184.distance-between-bus-stops.1287/solution.js) [TypeScript](./src/1184.distance-between-bus-stops.1287/solution.ts) | Easy  |
-| 1185 | Day of the Week | [JavaScript](./src/1185.day-of-the-week.1289/solution.js) [TypeScript](./src/1185.day-of-the-week.1289/solution.ts) | Easy  |
+| 1185 | Day of the Week | [Java](./src/1185.day-of-the-week.1289/solution.java) [JavaScript](./src/1185.day-of-the-week.1289/solution.js) [TypeScript](./src/1185.day-of-the-week.1289/solution.ts) | Easy  |
 | 1186 | Maximum Subarray Sum with One Deletion | [JavaScript](./src/1186.maximum-subarray-sum-with-one-deletion.1288/solution.js) | Medium  |
 | 1187 | Make Array Strictly Increasing |  | Hard  |
 | 1188 | Design Bounded Blocking Queue |  | Medium  |
@@ -1298,7 +1298,7 @@
 | 1278 | Palindrome Partitioning III |  | Hard  |
 | 1279 | Traffic Light Controlled Intersection |  | Easy  |
 | 1280 | Students and Examinations |  | Easy  |
-| 1281 | Subtract the Product and Sum of Digits of an Integer | [JavaScript](./src/1281.subtract-the-product-and-sum-of-digits-of-an-integer.1406/solution.js) [TypeScript](./src/1281.subtract-the-product-and-sum-of-digits-of-an-integer.1406/solution.ts) | Easy  |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | [Java](./src/1281.subtract-the-product-and-sum-of-digits-of-an-integer.1406/solution.java) [JavaScript](./src/1281.subtract-the-product-and-sum-of-digits-of-an-integer.1406/solution.js) [TypeScript](./src/1281.subtract-the-product-and-sum-of-digits-of-an-integer.1406/solution.ts) | Easy  |
 | 1282 | Group the People Given the Group Size They Belong To | [JavaScript](./src/1282.group-the-people-given-the-group-size-they-belong-to.1407/solution.js) [TypeScript](./src/1282.group-the-people-given-the-group-size-they-belong-to.1407/solution.ts) | Medium  |
 | 1283 | Find the Smallest Divisor Given a Threshold | [JavaScript](./src/1283.find-the-smallest-divisor-given-a-threshold.1408/solution.js) | Medium  |
 | 1284 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix |  | Hard  |
@@ -1721,7 +1721,7 @@
 | 1701 | Average Waiting Time | [JavaScript](./src/1701.average-waiting-time.1803/solution.js) [TypeScript](./src/1701.average-waiting-time.1803/solution.ts) | Medium  |
 | 1702 | Maximum Binary String After Change | [JavaScript](./src/1702.maximum-binary-string-after-change.1804/solution.js) [TypeScript](./src/1702.maximum-binary-string-after-change.1804/solution.ts) | Medium  |
 | 1703 | Minimum Adjacent Swaps for K Consecutive Ones |  | Hard  |
-| 1704 | Determine if String Halves Are Alike | [JavaScript](./src/1704.determine-if-string-halves-are-alike.1823/solution.js) [TypeScript](./src/1704.determine-if-string-halves-are-alike.1823/solution.ts) | Easy  |
+| 1704 | Determine if String Halves Are Alike | [Java](./src/1704.determine-if-string-halves-are-alike.1823/solution.java) [JavaScript](./src/1704.determine-if-string-halves-are-alike.1823/solution.js) [TypeScript](./src/1704.determine-if-string-halves-are-alike.1823/solution.ts) | Easy  |
 | 1705 | Maximum Number of Eaten Apples | [JavaScript](./src/1705.maximum-number-of-eaten-apples.1824/solution.js) [TypeScript](./src/1705.maximum-number-of-eaten-apples.1824/solution.ts) | Medium  |
 | 1706 | Where Will the Ball Fall |  | Medium  |
 | 1707 | Maximum XOR With an Element From Array |  | Hard  |
@@ -1849,7 +1849,7 @@
 | 1829 | Maximum XOR for Each Query | [JavaScript](./src/1829.maximum-xor-for-each-query.1940/solution.js) [TypeScript](./src/1829.maximum-xor-for-each-query.1940/solution.ts) | Medium  |
 | 1830 | Minimum Number of Operations to Make String Sorted |  | Hard  |
 | 1831 | Maximum Transaction Each Day |  | Medium  |
-| 1832 | Check if the Sentence Is Pangram | [JavaScript](./src/1832.check-if-the-sentence-is-pangram.1960/solution.js) [TypeScript](./src/1832.check-if-the-sentence-is-pangram.1960/solution.ts) | Easy  |
+| 1832 | Check if the Sentence Is Pangram | [Java](./src/1832.check-if-the-sentence-is-pangram.1960/solution.java) [JavaScript](./src/1832.check-if-the-sentence-is-pangram.1960/solution.js) [TypeScript](./src/1832.check-if-the-sentence-is-pangram.1960/solution.ts) | Easy  |
 | 1833 | Maximum Ice Cream Bars | [JavaScript](./src/1833.maximum-ice-cream-bars.1961/solution.js) [TypeScript](./src/1833.maximum-ice-cream-bars.1961/solution.ts) | Medium  |
 | 1834 | Single-Threaded CPU | [JavaScript](./src/1834.single-threaded-cpu.1962/solution.js) [TypeScript](./src/1834.single-threaded-cpu.1962/solution.ts) | Medium  |
 | 1835 | Find XOR Sum of All Pairs Bitwise AND | [JavaScript](./src/1835.find-xor-sum-of-all-pairs-bitwise-and.1963/solution.js) [TypeScript](./src/1835.find-xor-sum-of-all-pairs-bitwise-and.1963/solution.ts) | Hard  |
