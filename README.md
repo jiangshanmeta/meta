@@ -127,7 +127,7 @@
 | 0107 | Binary Tree Level Order Traversal II | [Go](./src/0107.binary-tree-level-order-traversal-ii.107/solution.go) [JavaScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.js) [TypeScript](./src/0107.binary-tree-level-order-traversal-ii.107/solution.ts) | Medium  |
 | 0108 | Convert Sorted Array to Binary Search Tree | [Go](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.go) [JavaScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.js) [TypeScript](./src/0108.convert-sorted-array-to-binary-search-tree.108/solution.ts) | Easy  |
 | 0109 | Convert Sorted List to Binary Search Tree | [JavaScript](./src/0109.convert-sorted-list-to-binary-search-tree.109/solution.js) [TypeScript](./src/0109.convert-sorted-list-to-binary-search-tree.109/solution.ts) | Medium  |
-| 0110 | Balanced Binary Tree | [JavaScript](./src/0110.balanced-binary-tree.110/solution.js) [TypeScript](./src/0110.balanced-binary-tree.110/solution.ts) | Easy  |
+| 0110 | Balanced Binary Tree | [Java](./src/0110.balanced-binary-tree.110/solution.java) [JavaScript](./src/0110.balanced-binary-tree.110/solution.js) [TypeScript](./src/0110.balanced-binary-tree.110/solution.ts) | Easy  |
 | 0111 | Minimum Depth of Binary Tree | [Java](./src/0111.minimum-depth-of-binary-tree.111/solution.java) [JavaScript](./src/0111.minimum-depth-of-binary-tree.111/solution.js) [TypeScript](./src/0111.minimum-depth-of-binary-tree.111/solution.ts) | Easy  |
 | 0112 | Path Sum | [Go](./src/0112.path-sum.112/solution.go) [JavaScript](./src/0112.path-sum.112/solution.js) [TypeScript](./src/0112.path-sum.112/solution.ts) | Easy  |
 | 0113 | Path Sum II | [JavaScript](./src/0113.path-sum-ii.113/solution.js) [TypeScript](./src/0113.path-sum-ii.113/solution.ts) | Medium  |
@@ -146,7 +146,7 @@
 | 0126 | Word Ladder II |  | Hard  |
 | 0127 | Word Ladder | [JavaScript](./src/0127.word-ladder.127/solution.js) | Hard  |
 | 0128 | Longest Consecutive Sequence | [JavaScript](./src/0128.longest-consecutive-sequence.128/solution.js) | Medium  |
-| 0129 | Sum Root to Leaf Numbers | [JavaScript](./src/0129.sum-root-to-leaf-numbers.129/solution.js) [TypeScript](./src/0129.sum-root-to-leaf-numbers.129/solution.ts) | Medium  |
+| 0129 | Sum Root to Leaf Numbers | [Java](./src/0129.sum-root-to-leaf-numbers.129/solution.java) [JavaScript](./src/0129.sum-root-to-leaf-numbers.129/solution.js) [TypeScript](./src/0129.sum-root-to-leaf-numbers.129/solution.ts) | Medium  |
 | 0130 | Surrounded Regions | [JavaScript](./src/0130.surrounded-regions.130/solution.js) | Medium  |
 | 0131 | Palindrome Partitioning | [JavaScript](./src/0131.palindrome-partitioning.131/solution.js) | Medium  |
 | 0132 | Palindrome Partitioning II | [JavaScript](./src/0132.palindrome-partitioning-ii.132/solution.js) [TypeScript](./src/0132.palindrome-partitioning-ii.132/solution.ts) | Hard  |
@@ -252,8 +252,8 @@
 | 0232 | Implement Queue using Stacks | [JavaScript](./src/0232.implement-queue-using-stacks.232/solution.js) [TypeScript](./src/0232.implement-queue-using-stacks.232/solution.ts) | Easy  |
 | 0233 | Number of Digit One | [JavaScript](./src/0233.number-of-digit-one.233/solution.js) | Hard  |
 | 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/solution.js) [TypeScript](./src/0234.palindrome-linked-list.234/solution.ts) | Easy  |
-| 0235 | Lowest Common Ancestor of a Binary Search Tree | [Go](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.go) [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.ts) | Medium  |
-| 0236 | Lowest Common Ancestor of a Binary Tree | [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.ts) | Medium  |
+| 0235 | Lowest Common Ancestor of a Binary Search Tree | [Go](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.go) [Java](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.java) [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.ts) | Medium  |
+| 0236 | Lowest Common Ancestor of a Binary Tree | [Java](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.java) [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.ts) | Medium  |
 | 0237 | Delete Node in a Linked List | [JavaScript](./src/0237.delete-node-in-a-linked-list.237/solution.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/solution.ts) | Medium  |
 | 0238 | Product of Array Except Self | [JavaScript](./src/0238.product-of-array-except-self.238/solution.js) [TypeScript](./src/0238.product-of-array-except-self.238/solution.ts) | Medium  |
 | 0239 | Sliding Window Maximum | [JavaScript](./src/0239.sliding-window-maximum.239/solution.js) [TypeScript](./src/0239.sliding-window-maximum.239/solution.ts) | Hard  |
@@ -634,7 +634,7 @@
 | 0614 | Second Degree Follower |  | Medium  |
 | 0615 | Average Salary: Departments VS Company |  | Hard  |
 | 0616 | Add Bold Tag in String | [JavaScript](./src/0616.add-bold-tag-in-string.616/solution.js) | Medium  |
-| 0617 | Merge Two Binary Trees | [JavaScript](./src/0617.merge-two-binary-trees.617/solution.js) [TypeScript](./src/0617.merge-two-binary-trees.617/solution.ts) | Easy  |
+| 0617 | Merge Two Binary Trees | [Java](./src/0617.merge-two-binary-trees.617/solution.java) [JavaScript](./src/0617.merge-two-binary-trees.617/solution.js) [TypeScript](./src/0617.merge-two-binary-trees.617/solution.ts) | Easy  |
 | 0618 | Students Report By Geography |  | Hard  |
 | 0619 | Biggest Single Number |  | Easy  |
 | 0620 | Not Boring Movies | [Mysql](./src/0620.not-boring-movies.620/solution.sql) | Easy  |
