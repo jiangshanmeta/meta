@@ -274,7 +274,7 @@
 | 0254 | Factor Combinations |  | Medium  |
 | 0255 | Verify Preorder Sequence in Binary Search Tree | [JavaScript](./src/0255.verify-preorder-sequence-in-binary-search-tree.255/solution.js) | Medium  |
 | 0256 | Paint House |  | Medium  |
-| 0257 | Binary Tree Paths | [JavaScript](./src/0257.binary-tree-paths.257/solution.js) [TypeScript](./src/0257.binary-tree-paths.257/solution.ts) | Easy  |
+| 0257 | Binary Tree Paths | [Java](./src/0257.binary-tree-paths.257/solution.java) [JavaScript](./src/0257.binary-tree-paths.257/solution.js) [TypeScript](./src/0257.binary-tree-paths.257/solution.ts) | Easy  |
 | 0258 | Add Digits | [JavaScript](./src/0258.add-digits.258/solution.js) [TypeScript](./src/0258.add-digits.258/solution.ts) | Easy  |
 | 0259 | 3Sum Smaller | [JavaScript](./src/0259.3sum-smaller.259/solution.js) [TypeScript](./src/0259.3sum-smaller.259/solution.ts) | Medium  |
 | 0260 | Single Number III | [JavaScript](./src/0260.single-number-iii.260/solution.js) [TypeScript](./src/0260.single-number-iii.260/solution.ts) | Medium  |
@@ -355,7 +355,7 @@
 | 0335 | Self Crossing |  | Hard  |
 | 0336 | Palindrome Pairs |  | Hard  |
 | 0337 | House Robber III | [JavaScript](./src/0337.house-robber-iii.337/solution.js) | Medium  |
-| 0338 | Counting Bits | [JavaScript](./src/0338.counting-bits.338/solution.js) [TypeScript](./src/0338.counting-bits.338/solution.ts) | Easy  |
+| 0338 | Counting Bits | [Java](./src/0338.counting-bits.338/solution.java) [JavaScript](./src/0338.counting-bits.338/solution.js) [TypeScript](./src/0338.counting-bits.338/solution.ts) | Easy  |
 | 0339 | Nested List Weight Sum | [JavaScript](./src/0339.nested-list-weight-sum.339/solution.js) [TypeScript](./src/0339.nested-list-weight-sum.339/solution.ts) | Medium  |
 | 0340 | Longest Substring with At Most K Distinct Characters |  | Medium  |
 | 0341 | Flatten Nested List Iterator | [JavaScript](./src/0341.flatten-nested-list-iterator.341/solution.js) | Medium  |
@@ -532,7 +532,7 @@
 | 0512 | Game Play Analysis II |  | Easy  |
 | 0513 | Find Bottom Left Tree Value | [JavaScript](./src/0513.find-bottom-left-tree-value.513/solution.js) [TypeScript](./src/0513.find-bottom-left-tree-value.513/solution.ts) | Medium  |
 | 0514 | Freedom Trail |  | Hard  |
-| 0515 | Find Largest Value in Each Tree Row | [JavaScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.js) [TypeScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.ts) | Medium  |
+| 0515 | Find Largest Value in Each Tree Row | [Java](./src/0515.find-largest-value-in-each-tree-row.515/solution.java) [JavaScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.js) [TypeScript](./src/0515.find-largest-value-in-each-tree-row.515/solution.ts) | Medium  |
 | 0516 | Longest Palindromic Subsequence | [TypeScript](./src/0516.longest-palindromic-subsequence.516/solution.ts) | Medium  |
 | 0517 | Super Washing Machines |  | Hard  |
 | 0518 | Coin Change II | [JavaScript](./src/0518.coin-change-ii.518/solution.js) [TypeScript](./src/0518.coin-change-ii.518/solution.ts) | Medium  |
@@ -547,7 +547,7 @@
 | 0527 | Word Abbreviation |  | Hard  |
 | 0528 | Random Pick with Weight | [JavaScript](./src/0528.random-pick-with-weight.912/solution.js) | Medium  |
 | 0529 | Minesweeper | [JavaScript](./src/0529.minesweeper.529/solution.js) | Medium  |
-| 0530 | Minimum Absolute Difference in BST | [JavaScript](./src/0530.minimum-absolute-difference-in-bst.530/solution.js) [TypeScript](./src/0530.minimum-absolute-difference-in-bst.530/solution.ts) | Easy  |
+| 0530 | Minimum Absolute Difference in BST | [Java](./src/0530.minimum-absolute-difference-in-bst.530/solution.java) [JavaScript](./src/0530.minimum-absolute-difference-in-bst.530/solution.js) [TypeScript](./src/0530.minimum-absolute-difference-in-bst.530/solution.ts) | Easy  |
 | 0531 | Lonely Pixel I | [JavaScript](./src/0531.lonely-pixel-i.531/solution.js) | Medium  |
 | 0532 | K-diff Pairs in an Array | [JavaScript](./src/0532.k-diff-pairs-in-an-array.532/solution.js) | Medium  |
 | 0533 | Lonely Pixel II |  | Medium  |
@@ -654,7 +654,7 @@
 | 0634 | Find the Derangement of An Array |  | Medium  |
 | 0635 | Design Log Storage System |  | Medium  |
 | 0636 | Exclusive Time of Functions | [JavaScript](./src/0636.exclusive-time-of-functions.636/solution.js) | Medium  |
-| 0637 | Average of Levels in Binary Tree | [JavaScript](./src/0637.average-of-levels-in-binary-tree.637/solution.js) [TypeScript](./src/0637.average-of-levels-in-binary-tree.637/solution.ts) | Easy  |
+| 0637 | Average of Levels in Binary Tree | [Java](./src/0637.average-of-levels-in-binary-tree.637/solution.java) [JavaScript](./src/0637.average-of-levels-in-binary-tree.637/solution.js) [TypeScript](./src/0637.average-of-levels-in-binary-tree.637/solution.ts) | Easy  |
 | 0638 | Shopping Offers |  | Medium  |
 | 0639 | Decode Ways II | [TypeScript](./src/0639.decode-ways-ii.639/solution.ts) | Hard  |
 | 0640 | Solve the Equation | [JavaScript](./src/0640.solve-the-equation.640/solution.js) | Medium  |
