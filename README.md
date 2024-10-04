@@ -761,10 +761,10 @@
 | 0741 | Cherry Pickup |  | Hard  |
 | 0742 | Closest Leaf in a Binary Tree | [JavaScript](./src/0742.closest-leaf-in-a-binary-tree.743/solution.js) [TypeScript](./src/0742.closest-leaf-in-a-binary-tree.743/solution.ts) | Medium  |
 | 0743 | Network Delay Time | [JavaScript](./src/0743.network-delay-time.744/solution.js) | Medium  |
-| 0744 | Find Smallest Letter Greater Than Target | [JavaScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.js) [TypeScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.ts) | Easy  |
+| 0744 | Find Smallest Letter Greater Than Target | [Java](./src/0744.find-smallest-letter-greater-than-target.745/solution.java) [JavaScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.js) [TypeScript](./src/0744.find-smallest-letter-greater-than-target.745/solution.ts) | Easy  |
 | 0745 | Prefix and Suffix Search | [TypeScript](./src/0745.prefix-and-suffix-search.746/solution.ts) | Hard  |
 | 0746 | Min Cost Climbing Stairs | [JavaScript](./src/0746.min-cost-climbing-stairs.747/solution.js) [TypeScript](./src/0746.min-cost-climbing-stairs.747/solution.ts) | Easy  |
-| 0747 | Largest Number At Least Twice of Others | [JavaScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.js) [TypeScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.ts) | Easy  |
+| 0747 | Largest Number At Least Twice of Others | [Java](./src/0747.largest-number-at-least-twice-of-others.748/solution.java) [JavaScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.js) [TypeScript](./src/0747.largest-number-at-least-twice-of-others.748/solution.ts) | Easy  |
 | 0748 | Shortest Completing Word | [JavaScript](./src/0748.shortest-completing-word.749/solution.js) [TypeScript](./src/0748.shortest-completing-word.749/solution.ts) | Easy  |
 | 0749 | Contain Virus |  | Hard  |
 | 0750 | Number Of Corner Rectangles |  | Medium  |
@@ -800,7 +800,7 @@
 | 0780 | Reaching Points |  | Hard  |
 | 0781 | Rabbits in Forest | [JavaScript](./src/0781.rabbits-in-forest.797/solution.js) | Medium  |
 | 0782 | Transform to Chessboard |  | Hard  |
-| 0783 | Minimum Distance Between BST Nodes | [JavaScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.js) [TypeScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.ts) | Easy  |
+| 0783 | Minimum Distance Between BST Nodes | [Java](./src/0783.minimum-distance-between-bst-nodes.799/solution.java) [JavaScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.js) [TypeScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.ts) | Easy  |
 | 0784 | Letter Case Permutation | [JavaScript](./src/0784.letter-case-permutation.800/solution.js) [TypeScript](./src/0784.letter-case-permutation.800/solution.ts) | Medium  |
 | 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/solution.js) [TypeScript](./src/0785.is-graph-bipartite.801/solution.ts) | Medium  |
 | 0786 | K-th Smallest Prime Fraction |  | Medium  |
@@ -893,7 +893,7 @@
 | 0873 | Length of Longest Fibonacci Subsequence | [JavaScript](./src/0873.length-of-longest-fibonacci-subsequence.905/solution.js) | Medium  |
 | 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/solution.js) | Medium  |
 | 0875 | Koko Eating Bananas | [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
-| 0876 | Middle of the Linked List | [Go](./src/0876.middle-of-the-linked-list.908/solution.go) [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
+| 0876 | Middle of the Linked List | [Go](./src/0876.middle-of-the-linked-list.908/solution.go) [Java](./src/0876.middle-of-the-linked-list.908/solution.java) [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/solution.js) | Medium  |
 | 0878 | Nth Magical Number | [TypeScript](./src/0878.nth-magical-number.910/solution.ts) | Hard  |
 | 0879 | Profitable Schemes |  | Hard  |
@@ -901,7 +901,7 @@
 | 0881 | Boats to Save People | [JavaScript](./src/0881.boats-to-save-people.917/solution.js) | Medium  |
 | 0882 | Reachable Nodes In Subdivided Graph |  | Hard  |
 | 0883 | Projection Area of 3D Shapes | [JavaScript](./src/0883.projection-area-of-3d-shapes.919/solution.js) | Easy  |
-| 0884 | Uncommon Words from Two Sentences | [JavaScript](./src/0884.uncommon-words-from-two-sentences.920/solution.js) [TypeScript](./src/0884.uncommon-words-from-two-sentences.920/solution.ts) | Easy  |
+| 0884 | Uncommon Words from Two Sentences | [Java](./src/0884.uncommon-words-from-two-sentences.920/solution.java) [JavaScript](./src/0884.uncommon-words-from-two-sentences.920/solution.js) [TypeScript](./src/0884.uncommon-words-from-two-sentences.920/solution.ts) | Easy  |
 | 0885 | Spiral Matrix III | [JavaScript](./src/0885.spiral-matrix-iii.921/solution.js) | Medium  |
 | 0886 | Possible Bipartition | [JavaScript](./src/0886.possible-bipartition.922/solution.js) | Medium  |
 | 0887 | Super Egg Drop |  | Hard  |
