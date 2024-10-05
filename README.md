@@ -955,7 +955,7 @@
 | 0935 | Knight Dialer | [JavaScript](./src/0935.knight-dialer.972/solution.js) | Medium  |
 | 0936 | Stamping The Sequence |  | Hard  |
 | 0937 | Reorder Data in Log Files | [JavaScript](./src/0937.reorder-data-in-log-files.974/solution.js) | Medium  |
-| 0938 | Range Sum of BST | [JavaScript](./src/0938.range-sum-of-bst.975/solution.js) [TypeScript](./src/0938.range-sum-of-bst.975/solution.ts) | Easy  |
+| 0938 | Range Sum of BST | [Java](./src/0938.range-sum-of-bst.975/solution.java) [JavaScript](./src/0938.range-sum-of-bst.975/solution.js) [TypeScript](./src/0938.range-sum-of-bst.975/solution.ts) | Easy  |
 | 0939 | Minimum Area Rectangle | [JavaScript](./src/0939.minimum-area-rectangle.976/solution.js) | Medium  |
 | 0940 | Distinct Subsequences II | [JavaScript](./src/0940.distinct-subsequences-ii.977/solution.js) | Hard  |
 | 0941 | Valid Mountain Array | [JavaScript](./src/0941.valid-mountain-array.978/solution.js) [TypeScript](./src/0941.valid-mountain-array.978/solution.ts) | Easy  |
@@ -1064,11 +1064,11 @@
 | 1044 | Longest Duplicate Substring |  | Hard  |
 | 1045 | Customers Who Bought All Products |  | Medium  |
 | 1046 | Last Stone Weight | [JavaScript](./src/1046.last-stone-weight.1127/solution.js) [TypeScript](./src/1046.last-stone-weight.1127/solution.ts) | Easy  |
-| 1047 | Remove All Adjacent Duplicates In String | [JavaScript](./src/1047.remove-all-adjacent-duplicates-in-string.1128/solution.js) [TypeScript](./src/1047.remove-all-adjacent-duplicates-in-string.1128/solution.ts) | Easy  |
+| 1047 | Remove All Adjacent Duplicates In String | [Java](./src/1047.remove-all-adjacent-duplicates-in-string.1128/solution.java) [JavaScript](./src/1047.remove-all-adjacent-duplicates-in-string.1128/solution.js) [TypeScript](./src/1047.remove-all-adjacent-duplicates-in-string.1128/solution.ts) | Easy  |
 | 1048 | Longest String Chain | [JavaScript](./src/1048.longest-string-chain.1129/solution.js) | Medium  |
 | 1049 | Last Stone Weight II | [JavaScript](./src/1049.last-stone-weight-ii.1130/solution.js) | Medium  |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times |  | Easy  |
-| 1051 | Height Checker | [JavaScript](./src/1051.height-checker.1137/solution.js) [TypeScript](./src/1051.height-checker.1137/solution.ts) | Easy  |
+| 1051 | Height Checker | [Java](./src/1051.height-checker.1137/solution.java) [JavaScript](./src/1051.height-checker.1137/solution.js) [TypeScript](./src/1051.height-checker.1137/solution.ts) | Easy  |
 | 1052 | Grumpy Bookstore Owner | [JavaScript](./src/1052.grumpy-bookstore-owner.1138/solution.js) | Medium  |
 | 1053 | Previous Permutation With One Swap | [JavaScript](./src/1053.previous-permutation-with-one-swap.1139/solution.js) | Medium  |
 | 1054 | Distant Barcodes | [JavaScript](./src/1054.distant-barcodes.1140/solution.js) | Medium  |
@@ -1125,7 +1125,7 @@
 | 1105 | Filling Bookcase Shelves |  | Medium  |
 | 1106 | Parsing A Boolean Expression | [JavaScript](./src/1106.parsing-a-boolean-expression.1197/solution.js) | Hard  |
 | 1107 | New Users Daily Count |  | Medium  |
-| 1108 | Defanging an IP Address | [JavaScript](./src/1108.defanging-an-ip-address.1205/solution.js) [TypeScript](./src/1108.defanging-an-ip-address.1205/solution.ts) | Easy  |
+| 1108 | Defanging an IP Address | [Java](./src/1108.defanging-an-ip-address.1205/solution.java) [JavaScript](./src/1108.defanging-an-ip-address.1205/solution.js) [TypeScript](./src/1108.defanging-an-ip-address.1205/solution.ts) | Easy  |
 | 1109 | Corporate Flight Bookings | [JavaScript](./src/1109.corporate-flight-bookings.1206/solution.js) [TypeScript](./src/1109.corporate-flight-bookings.1206/solution.ts) | Medium  |
 | 1110 | Delete Nodes And Return Forest | [JavaScript](./src/1110.delete-nodes-and-return-forest.1207/solution.js) [TypeScript](./src/1110.delete-nodes-and-return-forest.1207/solution.ts) | Medium  |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings |  | Medium  |
@@ -1139,7 +1139,7 @@
 | 1119 | Remove Vowels from a String | [JavaScript](./src/1119.remove-vowels-from-a-string.1089/solution.js) [TypeScript](./src/1119.remove-vowels-from-a-string.1089/solution.ts) | Easy  |
 | 1120 | Maximum Average Subtree | [JavaScript](./src/1120.maximum-average-subtree.1091/solution.js) [TypeScript](./src/1120.maximum-average-subtree.1091/solution.ts) | Medium  |
 | 1121 | Divide Array Into Increasing Sequences |  | Hard  |
-| 1122 | Relative Sort Array | [JavaScript](./src/1122.relative-sort-array.1217/solution.js) [TypeScript](./src/1122.relative-sort-array.1217/solution.ts) | Easy  |
+| 1122 | Relative Sort Array | [Java](./src/1122.relative-sort-array.1217/solution.java) [JavaScript](./src/1122.relative-sort-array.1217/solution.js) [TypeScript](./src/1122.relative-sort-array.1217/solution.ts) | Easy  |
 | 1123 | Lowest Common Ancestor of Deepest Leaves | [JavaScript](./src/1123.lowest-common-ancestor-of-deepest-leaves.1218/solution.js) [TypeScript](./src/1123.lowest-common-ancestor-of-deepest-leaves.1218/solution.ts) | Medium  |
 | 1124 | Longest Well-Performing Interval | [JavaScript](./src/1124.longest-well-performing-interval.1219/solution.js) [TypeScript](./src/1124.longest-well-performing-interval.1219/solution.ts) | Medium  |
 | 1125 | Smallest Sufficient Team |  | Hard  |
