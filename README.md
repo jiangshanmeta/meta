@@ -1171,7 +1171,7 @@
 | 1151 | Minimum Swaps to Group All 1's Together |  | Medium  |
 | 1152 | Analyze User Website Visit Pattern | [JavaScript](./src/1152.analyze-user-website-visit-pattern.1108/solution.js) | Medium  |
 | 1153 | String Transforms Into Another String |  | Hard  |
-| 1154 | Day of the Year | [JavaScript](./src/1154.day-of-the-year.1260/solution.js) [TypeScript](./src/1154.day-of-the-year.1260/solution.ts) | Easy  |
+| 1154 | Day of the Year | [Java](./src/1154.day-of-the-year.1260/solution.java) [JavaScript](./src/1154.day-of-the-year.1260/solution.js) [TypeScript](./src/1154.day-of-the-year.1260/solution.ts) | Easy  |
 | 1155 | Number of Dice Rolls With Target Sum | [JavaScript](./src/1155.number-of-dice-rolls-with-target-sum.1263/solution.js) | Medium  |
 | 1156 | Swap For Longest Repeated Character Substring | [JavaScript](./src/1156.swap-for-longest-repeated-character-substring.1261/solution.js) | Medium  |
 | 1157 | Online Majority Element In Subarray |  | Hard  |
@@ -1217,14 +1217,14 @@
 | 1197 | Minimum Knight Moves | [JavaScript](./src/1197.minimum-knight-moves.1142/solution.js) | Medium  |
 | 1198 | Find Smallest Common Element in All Rows | [JavaScript](./src/1198.find-smallest-common-element-in-all-rows.1143/solution.js) | Medium  |
 | 1199 | Minimum Time to Build Blocks |  | Hard  |
-| 1200 | Minimum Absolute Difference | [JavaScript](./src/1200.minimum-absolute-difference.1306/solution.js) [TypeScript](./src/1200.minimum-absolute-difference.1306/solution.ts) | Easy  |
+| 1200 | Minimum Absolute Difference | [Java](./src/1200.minimum-absolute-difference.1306/solution.java) [JavaScript](./src/1200.minimum-absolute-difference.1306/solution.js) [TypeScript](./src/1200.minimum-absolute-difference.1306/solution.ts) | Easy  |
 | 1201 | Ugly Number III | [JavaScript](./src/1201.ugly-number-iii.1307/solution.js) | Medium  |
 | 1202 | Smallest String With Swaps | [JavaScript](./src/1202.smallest-string-with-swaps.1308/solution.js) [TypeScript](./src/1202.smallest-string-with-swaps.1308/solution.ts) | Medium  |
 | 1203 | Sort Items by Groups Respecting Dependencies |  | Hard  |
 | 1204 | Last Person to Fit in the Bus |  | Medium  |
 | 1205 | Monthly Transactions II |  | Medium  |
 | 1206 | Design Skiplist | [TypeScript](./src/1206.design-skiplist.1337/solution.ts) | Hard  |
-| 1207 | Unique Number of Occurrences | [JavaScript](./src/1207.unique-number-of-occurrences.1319/solution.js) [TypeScript](./src/1207.unique-number-of-occurrences.1319/solution.ts) | Easy  |
+| 1207 | Unique Number of Occurrences | [Java](./src/1207.unique-number-of-occurrences.1319/solution.java) [JavaScript](./src/1207.unique-number-of-occurrences.1319/solution.js) [TypeScript](./src/1207.unique-number-of-occurrences.1319/solution.ts) | Easy  |
 | 1208 | Get Equal Substrings Within Budget | [JavaScript](./src/1208.get-equal-substrings-within-budget.1321/solution.js) [TypeScript](./src/1208.get-equal-substrings-within-budget.1321/solution.ts) | Medium  |
 | 1209 | Remove All Adjacent Duplicates in String II | [JavaScript](./src/1209.remove-all-adjacent-duplicates-in-string-ii.1320/solution.js) | Medium  |
 | 1210 | Minimum Moves to Reach Target with Rotations | [JavaScript](./src/1210.minimum-moves-to-reach-target-with-rotations.1322/solution.js) | Hard  |
@@ -1234,7 +1234,7 @@
 | 1214 | Two Sum BSTs | [JavaScript](./src/1214.two-sum-bsts.1150/solution.js) | Medium  |
 | 1215 | Stepping Numbers |  | Medium  |
 | 1216 | Valid Palindrome III |  | Hard  |
-| 1217 | Minimum Cost to Move Chips to The Same Position | [JavaScript](./src/1217.minimum-cost-to-move-chips-to-the-same-position.1329/solution.js) [TypeScript](./src/1217.minimum-cost-to-move-chips-to-the-same-position.1329/solution.ts) | Easy  |
+| 1217 | Minimum Cost to Move Chips to The Same Position | [Java](./src/1217.minimum-cost-to-move-chips-to-the-same-position.1329/solution.java) [JavaScript](./src/1217.minimum-cost-to-move-chips-to-the-same-position.1329/solution.js) [TypeScript](./src/1217.minimum-cost-to-move-chips-to-the-same-position.1329/solution.ts) | Easy  |
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [JavaScript](./src/1218.longest-arithmetic-subsequence-of-given-difference.1330/solution.js) | Medium  |
 | 1219 | Path with Maximum Gold | [JavaScript](./src/1219.path-with-maximum-gold.1331/solution.js) | Medium  |
 | 1220 | Count Vowels Permutation | [JavaScript](./src/1220.count-vowels-permutation.1332/solution.js) | Hard  |
@@ -1312,7 +1312,7 @@
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |  | Medium  |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination |  | Hard  |
 | 1294 | Weather Type in Each Country |  | Easy  |
-| 1295 | Find Numbers with Even Number of Digits | [JavaScript](./src/1295.find-numbers-with-even-number-of-digits.1421/solution.js) [TypeScript](./src/1295.find-numbers-with-even-number-of-digits.1421/solution.ts) | Easy  |
+| 1295 | Find Numbers with Even Number of Digits | [Java](./src/1295.find-numbers-with-even-number-of-digits.1421/solution.java) [JavaScript](./src/1295.find-numbers-with-even-number-of-digits.1421/solution.js) [TypeScript](./src/1295.find-numbers-with-even-number-of-digits.1421/solution.ts) | Easy  |
 | 1296 | Divide Array in Sets of K Consecutive Numbers | [JavaScript](./src/1296.divide-array-in-sets-of-k-consecutive-numbers.1422/solution.js) [TypeScript](./src/1296.divide-array-in-sets-of-k-consecutive-numbers.1422/solution.ts) | Medium  |
 | 1297 | Maximum Number of Occurrences of a Substring |  | Medium  |
 | 1298 | Maximum Candies You Can Get from Boxes |  | Hard  |
