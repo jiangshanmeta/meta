@@ -1326,11 +1326,11 @@
 | 1306 | Jump Game III | [JavaScript](./src/1306.jump-game-iii.1428/solution.js) | Medium  |
 | 1307 | Verbal Arithmetic Puzzle |  | Hard  |
 | 1308 | Running Total for Different Genders |  | Medium  |
-| 1309 | Decrypt String from Alphabet to Integer Mapping | [JavaScript](./src/1309.decrypt-string-from-alphabet-to-integer-mapping.1434/solution.js) [TypeScript](./src/1309.decrypt-string-from-alphabet-to-integer-mapping.1434/solution.ts) | Easy  |
+| 1309 | Decrypt String from Alphabet to Integer Mapping | [Java](./src/1309.decrypt-string-from-alphabet-to-integer-mapping.1434/solution.java) [JavaScript](./src/1309.decrypt-string-from-alphabet-to-integer-mapping.1434/solution.js) [TypeScript](./src/1309.decrypt-string-from-alphabet-to-integer-mapping.1434/solution.ts) | Easy  |
 | 1310 | XOR Queries of a Subarray | [JavaScript](./src/1310.xor-queries-of-a-subarray.1435/solution.js) [TypeScript](./src/1310.xor-queries-of-a-subarray.1435/solution.ts) | Medium  |
 | 1311 | Get Watched Videos by Your Friends | [JavaScript](./src/1311.get-watched-videos-by-your-friends.1436/solution.js) | Medium  |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | [JavaScript](./src/1312.minimum-insertion-steps-to-make-a-string-palindrome.1437/solution.js) | Hard  |
-| 1313 | Decompress Run-Length Encoded List | [JavaScript](./src/1313.decompress-run-length-encoded-list.1241/solution.js) [TypeScript](./src/1313.decompress-run-length-encoded-list.1241/solution.ts) | Easy  |
+| 1313 | Decompress Run-Length Encoded List | [Java](./src/1313.decompress-run-length-encoded-list.1241/solution.java) [JavaScript](./src/1313.decompress-run-length-encoded-list.1241/solution.js) [TypeScript](./src/1313.decompress-run-length-encoded-list.1241/solution.ts) | Easy  |
 | 1314 | Matrix Block Sum | [JavaScript](./src/1314.matrix-block-sum.1242/solution.js) | Medium  |
 | 1315 | Sum of Nodes with Even-Valued Grandparent | [JavaScript](./src/1315.sum-of-nodes-with-even-valued-grandparent.1243/solution.js) | Medium  |
 | 1316 | Distinct Echo Substrings |  | Hard  |
@@ -1340,7 +1340,7 @@
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |  | Hard  |
 | 1321 | Restaurant Growth |  | Medium  |
 | 1322 | Ads Performance |  | Easy  |
-| 1323 | Maximum 69 Number | [JavaScript](./src/1323.maximum-69-number.1448/solution.js) [TypeScript](./src/1323.maximum-69-number.1448/solution.ts) | Easy  |
+| 1323 | Maximum 69 Number | [Java](./src/1323.maximum-69-number.1448/solution.java) [JavaScript](./src/1323.maximum-69-number.1448/solution.js) [TypeScript](./src/1323.maximum-69-number.1448/solution.ts) | Easy  |
 | 1324 | Print Words Vertically | [JavaScript](./src/1324.print-words-vertically.1449/solution.js) [TypeScript](./src/1324.print-words-vertically.1449/solution.ts) | Medium  |
 | 1325 | Delete Leaves With a Given Value | [JavaScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.js) [TypeScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.ts) | Medium  |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | [JavaScript](./src/1326.minimum-number-of-taps-to-open-to-water-a-garden.1451/solution.js) | Hard  |
@@ -1359,7 +1359,7 @@
 | 1339 | Maximum Product of Splitted Binary Tree | [JavaScript](./src/1339.maximum-product-of-splitted-binary-tree.1465/solution.js) | Medium  |
 | 1340 | Jump Game V | [JavaScript](./src/1340.jump-game-v.1466/solution.js) | Hard  |
 | 1341 | Movie Rating |  | Medium  |
-| 1342 | Number of Steps to Reduce a Number to Zero | [JavaScript](./src/1342.number-of-steps-to-reduce-a-number-to-zero.1444/solution.js) [TypeScript](./src/1342.number-of-steps-to-reduce-a-number-to-zero.1444/solution.ts) | Easy  |
+| 1342 | Number of Steps to Reduce a Number to Zero | [Java](./src/1342.number-of-steps-to-reduce-a-number-to-zero.1444/solution.java) [JavaScript](./src/1342.number-of-steps-to-reduce-a-number-to-zero.1444/solution.js) [TypeScript](./src/1342.number-of-steps-to-reduce-a-number-to-zero.1444/solution.ts) | Easy  |
 | 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | [JavaScript](./src/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.1445/solution.js) | Medium  |
 | 1344 | Angle Between Hands of a Clock | [JavaScript](./src/1344.angle-between-hands-of-a-clock.1446/solution.js) [TypeScript](./src/1344.angle-between-hands-of-a-clock.1446/solution.ts) | Medium  |
 | 1345 | Jump Game IV | [JavaScript](./src/1345.jump-game-iv.1447/solution.js) | Hard  |
@@ -1377,7 +1377,7 @@
 | 1357 | Apply Discount Every n Orders | [JavaScript](./src/1357.apply-discount-every-n-orders.1459/solution.js) [TypeScript](./src/1357.apply-discount-every-n-orders.1459/solution.ts) | Medium  |
 | 1358 | Number of Substrings Containing All Three Characters | [JavaScript](./src/1358.number-of-substrings-containing-all-three-characters.1460/solution.js) | Medium  |
 | 1359 | Count All Valid Pickup and Delivery Options | [JavaScript](./src/1359.count-all-valid-pickup-and-delivery-options.1461/solution.js) | Hard  |
-| 1360 | Number of Days Between Two Dates | [JavaScript](./src/1360.number-of-days-between-two-dates.1274/solution.js) [TypeScript](./src/1360.number-of-days-between-two-dates.1274/solution.ts) | Easy  |
+| 1360 | Number of Days Between Two Dates | [Java](./src/1360.number-of-days-between-two-dates.1274/solution.java) [JavaScript](./src/1360.number-of-days-between-two-dates.1274/solution.js) [TypeScript](./src/1360.number-of-days-between-two-dates.1274/solution.ts) | Easy  |
 | 1361 | Validate Binary Tree Nodes | [JavaScript](./src/1361.validate-binary-tree-nodes.1275/solution.js) | Medium  |
 | 1362 | Closest Divisors | [JavaScript](./src/1362.closest-divisors.1276/solution.js) [TypeScript](./src/1362.closest-divisors.1276/solution.ts) | Medium  |
 | 1363 | Largest Multiple of Three | [JavaScript](./src/1363.largest-multiple-of-three.1277/solution.js) [TypeScript](./src/1363.largest-multiple-of-three.1277/solution.ts) | Hard  |
