@@ -1382,7 +1382,7 @@
 | 1362 | Closest Divisors | [JavaScript](./src/1362.closest-divisors.1276/solution.js) [TypeScript](./src/1362.closest-divisors.1276/solution.ts) | Medium  |
 | 1363 | Largest Multiple of Three | [JavaScript](./src/1363.largest-multiple-of-three.1277/solution.js) [TypeScript](./src/1363.largest-multiple-of-three.1277/solution.ts) | Hard  |
 | 1364 | Number of Trusted Contacts of a Customer |  | Medium  |
-| 1365 | How Many Numbers Are Smaller Than the Current Number | [JavaScript](./src/1365.how-many-numbers-are-smaller-than-the-current-number.1482/solution.js) [TypeScript](./src/1365.how-many-numbers-are-smaller-than-the-current-number.1482/solution.ts) | Easy  |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | [Java](./src/1365.how-many-numbers-are-smaller-than-the-current-number.1482/solution.java) [JavaScript](./src/1365.how-many-numbers-are-smaller-than-the-current-number.1482/solution.js) [TypeScript](./src/1365.how-many-numbers-are-smaller-than-the-current-number.1482/solution.ts) | Easy  |
 | 1366 | Rank Teams by Votes | [JavaScript](./src/1366.rank-teams-by-votes.1483/solution.js) | Medium  |
 | 1367 | Linked List in Binary Tree | [JavaScript](./src/1367.linked-list-in-binary-tree.1484/solution.js) | Medium  |
 | 1368 | Minimum Cost to Make at Least One Valid Path in a Grid |  | Hard  |
@@ -1396,7 +1396,7 @@
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/solution.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/solution.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
-| 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [JavaScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.js) [TypeScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.ts) | Easy  |
+| 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [Java](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.java) [JavaScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.js) [TypeScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.ts) | Easy  |
 | 1380 | Lucky Numbers in a Matrix | [JavaScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.js) [TypeScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.ts) | Easy  |
 | 1381 | Design a Stack With Increment Operation | [JavaScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.js) [TypeScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.ts) | Medium  |
 | 1382 | Balance a Binary Search Tree | [JavaScript](./src/1382.balance-a-binary-search-tree.1285/solution.js) [TypeScript](./src/1382.balance-a-binary-search-tree.1285/solution.ts) | Medium  |
@@ -1406,7 +1406,7 @@
 | 1386 | Cinema Seat Allocation | [JavaScript](./src/1386.cinema-seat-allocation.1487/solution.js) | Medium  |
 | 1387 | Sort Integers by The Power Value | [JavaScript](./src/1387.sort-integers-by-the-power-value.1488/solution.js) | Medium  |
 | 1388 | Pizza With 3n Slices |  | Hard  |
-| 1389 | Create Target Array in the Given Order | [JavaScript](./src/1389.create-target-array-in-the-given-order.1505/solution.js) [TypeScript](./src/1389.create-target-array-in-the-given-order.1505/solution.ts) | Easy  |
+| 1389 | Create Target Array in the Given Order | [Java](./src/1389.create-target-array-in-the-given-order.1505/solution.java) [JavaScript](./src/1389.create-target-array-in-the-given-order.1505/solution.js) [TypeScript](./src/1389.create-target-array-in-the-given-order.1505/solution.ts) | Easy  |
 | 1390 | Four Divisors | [JavaScript](./src/1390.four-divisors.1284/solution.js) | Medium  |
 | 1391 | Check if There is a Valid Path in a Grid | [JavaScript](./src/1391.check-if-there-is-a-valid-path-in-a-grid.1507/solution.js) | Medium  |
 | 1392 | Longest Happy Prefix | [TypeScript](./src/1392.longest-happy-prefix.1508/solution.ts) | Hard  |
@@ -1481,7 +1481,7 @@
 | 1461 | Check If a String Contains All Binary Codes of Size K | [JavaScript](./src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557/solution.js) | Medium  |
 | 1462 | Course Schedule IV | [TypeScript](./src/1462.course-schedule-iv.1558/solution.ts) | Medium  |
 | 1463 | Cherry Pickup II |  | Hard  |
-| 1464 | Maximum Product of Two Elements in an Array | [JavaScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.js) [TypeScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.ts) | Easy  |
+| 1464 | Maximum Product of Two Elements in an Array | [Java](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.java) [JavaScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.js) [TypeScript](./src/1464.maximum-product-of-two-elements-in-an-array.1574/solution.ts) | Easy  |
 | 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | [JavaScript](./src/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.1575/solution.js) | Medium  |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [JavaScript](./src/1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero.1576/solution.js) | Medium  |
 | 1467 | Probability of a Two Boxes Having The Same Number of Distinct Balls |  | Hard  |
@@ -1679,7 +1679,7 @@
 | 1659 | Maximize Grid Happiness |  | Hard  |
 | 1660 | Correct a Binary Tree | [JavaScript](./src/1660.correct-a-binary-tree.1796/solution.js) | Medium  |
 | 1661 | Average Time of Process per Machine |  | Easy  |
-| 1662 | Check If Two String Arrays are Equivalent | [JavaScript](./src/1662.check-if-two-string-arrays-are-equivalent.1781/solution.js) [TypeScript](./src/1662.check-if-two-string-arrays-are-equivalent.1781/solution.ts) | Easy  |
+| 1662 | Check If Two String Arrays are Equivalent | [Java](./src/1662.check-if-two-string-arrays-are-equivalent.1781/solution.java) [JavaScript](./src/1662.check-if-two-string-arrays-are-equivalent.1781/solution.js) [TypeScript](./src/1662.check-if-two-string-arrays-are-equivalent.1781/solution.ts) | Easy  |
 | 1663 | Smallest String With A Given Numeric Value | [JavaScript](./src/1663.smallest-string-with-a-given-numeric-value.1782/solution.js) [TypeScript](./src/1663.smallest-string-with-a-given-numeric-value.1782/solution.ts) | Medium  |
 | 1664 | Ways to Make a Fair Array | [JavaScript](./src/1664.ways-to-make-a-fair-array.1783/solution.js) | Medium  |
 | 1665 | Minimum Initial Energy to Finish Tasks |  | Hard  |
