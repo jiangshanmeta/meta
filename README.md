@@ -1689,7 +1689,7 @@
 | 1669 | Merge In Between Linked Lists | [JavaScript](./src/1669.merge-in-between-linked-lists.1765/solution.js) [TypeScript](./src/1669.merge-in-between-linked-lists.1765/solution.ts) | Medium  |
 | 1670 | Design Front Middle Back Queue | [JavaScript](./src/1670.design-front-middle-back-queue.1767/solution.js) [TypeScript](./src/1670.design-front-middle-back-queue.1767/solution.ts) | Medium  |
 | 1671 | Minimum Number of Removals to Make Mountain Array |  | Hard  |
-| 1672 | Richest Customer Wealth | [JavaScript](./src/1672.richest-customer-wealth.1791/solution.js) [TypeScript](./src/1672.richest-customer-wealth.1791/solution.ts) | Easy  |
+| 1672 | Richest Customer Wealth | [Java](./src/1672.richest-customer-wealth.1791/solution.java) [JavaScript](./src/1672.richest-customer-wealth.1791/solution.js) [TypeScript](./src/1672.richest-customer-wealth.1791/solution.ts) | Easy  |
 | 1673 | Find the Most Competitive Subsequence | [JavaScript](./src/1673.find-the-most-competitive-subsequence.1792/solution.js) [TypeScript](./src/1673.find-the-most-competitive-subsequence.1792/solution.ts) | Medium  |
 | 1674 | Minimum Moves to Make Array Complementary |  | Medium  |
 | 1675 | Minimize Deviation in Array |  | Hard  |
@@ -1737,7 +1737,7 @@
 | 1717 | Maximum Score From Removing Substrings |  | Medium  |
 | 1718 | Construct the Lexicographically Largest Valid Sequence |  | Medium  |
 | 1719 | Number Of Ways To Reconstruct A Tree |  | Hard  |
-| 1720 | Decode XORed Array | [JavaScript](./src/1720.decode-xored-array.1839/solution.js) [TypeScript](./src/1720.decode-xored-array.1839/solution.ts) | Easy  |
+| 1720 | Decode XORed Array | [Java](./src/1720.decode-xored-array.1839/solution.java) [JavaScript](./src/1720.decode-xored-array.1839/solution.js) [TypeScript](./src/1720.decode-xored-array.1839/solution.ts) | Easy  |
 | 1721 | Swapping Nodes in a Linked List | [JavaScript](./src/1721.swapping-nodes-in-a-linked-list.528/solution.js) [TypeScript](./src/1721.swapping-nodes-in-a-linked-list.528/solution.ts) | Medium  |
 | 1722 | Minimize Hamming Distance After Swap Operations | [JavaScript](./src/1722.minimize-hamming-distance-after-swap-operations.1840/solution.js) [TypeScript](./src/1722.minimize-hamming-distance-after-swap-operations.1840/solution.ts) | Medium  |
 | 1723 | Find Minimum Time to Finish All Jobs |  | Hard  |
@@ -1765,7 +1765,7 @@
 | 1745 | Palindrome Partitioning IV | [JavaScript](./src/1745.palindrome-partitioning-iv.1871/solution.js) [TypeScript](./src/1745.palindrome-partitioning-iv.1871/solution.ts) | Hard  |
 | 1746 | Maximum Subarray Sum After One Operation |  | Medium  |
 | 1747 | Leetflex Banned Accounts |  | Medium  |
-| 1748 | Sum of Unique Elements | [JavaScript](./src/1748.sum-of-unique-elements.1848/solution.js) [TypeScript](./src/1748.sum-of-unique-elements.1848/solution.ts) | Easy  |
+| 1748 | Sum of Unique Elements | [Java](./src/1748.sum-of-unique-elements.1848/solution.java) [JavaScript](./src/1748.sum-of-unique-elements.1848/solution.js) [TypeScript](./src/1748.sum-of-unique-elements.1848/solution.ts) | Easy  |
 | 1749 | Maximum Absolute Sum of Any Subarray | [JavaScript](./src/1749.maximum-absolute-sum-of-any-subarray.1849/solution.js) [TypeScript](./src/1749.maximum-absolute-sum-of-any-subarray.1849/solution.ts) | Medium  |
 | 1750 | Minimum Length of String After Deleting Similar Ends | [JavaScript](./src/1750.minimum-length-of-string-after-deleting-similar-ends.1850/solution.js) [TypeScript](./src/1750.minimum-length-of-string-after-deleting-similar-ends.1850/solution.ts) | Medium  |
 | 1751 | Maximum Number of Events That Can Be Attended II |  | Hard  |
@@ -1785,12 +1785,12 @@
 | 1765 | Map of Highest Peak |  | Medium  |
 | 1766 | Tree of Coprimes |  | Hard  |
 | 1767 | Find the Subtasks That Did Not Execute |  | Hard  |
-| 1768 | Merge Strings Alternately | [JavaScript](./src/1768.merge-strings-alternately.1894/solution.js) [TypeScript](./src/1768.merge-strings-alternately.1894/solution.ts) | Easy  |
+| 1768 | Merge Strings Alternately | [Java](./src/1768.merge-strings-alternately.1894/solution.java) [JavaScript](./src/1768.merge-strings-alternately.1894/solution.js) [TypeScript](./src/1768.merge-strings-alternately.1894/solution.ts) | Easy  |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | [JavaScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.js) [TypeScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.ts) | Medium  |
 | 1770 | Maximum Score from Performing Multiplication Operations |  | Hard  |
 | 1771 | Maximize Palindrome Length From Subsequences |  | Hard  |
 | 1772 | Sort Features by Popularity | [JavaScript](./src/1772.sort-features-by-popularity.1919/solution.js) | Medium  |
-| 1773 | Count Items Matching a Rule | [JavaScript](./src/1773.count-items-matching-a-rule.1899/solution.js) [TypeScript](./src/1773.count-items-matching-a-rule.1899/solution.ts) | Easy  |
+| 1773 | Count Items Matching a Rule | [Java](./src/1773.count-items-matching-a-rule.1899/solution.java) [JavaScript](./src/1773.count-items-matching-a-rule.1899/solution.js) [TypeScript](./src/1773.count-items-matching-a-rule.1899/solution.ts) | Easy  |
 | 1774 | Closest Dessert Cost | [JavaScript](./src/1774.closest-dessert-cost.1900/solution.js) [TypeScript](./src/1774.closest-dessert-cost.1900/solution.ts) | Medium  |
 | 1775 | Equal Sum Arrays With Minimum Number of Operations |  | Medium  |
 | 1776 | Car Fleet II |  | Hard  |
