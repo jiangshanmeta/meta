@@ -1829,7 +1829,7 @@
 | 1809 | Ad-Free Sessions |  | Easy  |
 | 1810 | Minimum Path Cost in a Hidden Grid |  | Medium  |
 | 1811 | Find Interview Candidates |  | Medium  |
-| 1812 | Determine Color of a Chessboard Square | [JavaScript](./src/1812.determine-color-of-a-chessboard-square.1920/solution.js) [TypeScript](./src/1812.determine-color-of-a-chessboard-square.1920/solution.ts) | Easy  |
+| 1812 | Determine Color of a Chessboard Square | [Java](./src/1812.determine-color-of-a-chessboard-square.1920/solution.java) [JavaScript](./src/1812.determine-color-of-a-chessboard-square.1920/solution.js) [TypeScript](./src/1812.determine-color-of-a-chessboard-square.1920/solution.ts) | Easy  |
 | 1813 | Sentence Similarity III | [JavaScript](./src/1813.sentence-similarity-iii.1923/solution.js) | Medium  |
 | 1814 | Count Nice Pairs in an Array | [JavaScript](./src/1814.count-nice-pairs-in-an-array.1925/solution.js) [TypeScript](./src/1814.count-nice-pairs-in-an-array.1925/solution.ts) | Medium  |
 | 1815 | Maximum Number of Groups Getting Fresh Donuts |  | Hard  |
@@ -1839,7 +1839,7 @@
 | 1819 | Number of Different Subsequences GCDs |  | Hard  |
 | 1820 | Maximum Number of Accepted Invitations |  | Medium  |
 | 1821 | Find Customers With Positive Revenue this Year |  | Easy  |
-| 1822 | Sign of the Product of an Array | [JavaScript](./src/1822.sign-of-the-product-of-an-array.1950/solution.js) [TypeScript](./src/1822.sign-of-the-product-of-an-array.1950/solution.ts) | Easy  |
+| 1822 | Sign of the Product of an Array | [Java](./src/1822.sign-of-the-product-of-an-array.1950/solution.java) [JavaScript](./src/1822.sign-of-the-product-of-an-array.1950/solution.js) [TypeScript](./src/1822.sign-of-the-product-of-an-array.1950/solution.ts) | Easy  |
 | 1823 | Find the Winner of the Circular Game |  | Medium  |
 | 1824 | Minimum Sideway Jumps | [JavaScript](./src/1824.minimum-sideway-jumps.1952/solution.js) [TypeScript](./src/1824.minimum-sideway-jumps.1952/solution.ts) | Medium  |
 | 1825 | Finding MK Average |  | Hard  |
@@ -2028,7 +2028,7 @@
 | 2008 | Maximum Earnings From Taxi | [TypeScript](./src/2008.maximum-earnings-from-taxi.2118/solution.ts) | Medium  |
 | 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
 | 2010 | The Number of Seniors and Juniors to Join the Company II |  | Hard  |
-| 2011 | Final Value of Variable After Performing Operations | [JavaScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.js) [TypeScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.ts) | Easy  |
+| 2011 | Final Value of Variable After Performing Operations | [Java](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.java) [JavaScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.js) [TypeScript](./src/2011.final-value-of-variable-after-performing-operations.2137/solution.ts) | Easy  |
 | 2012 | Sum of Beauty in the Array | [TypeScript](./src/2012.sum-of-beauty-in-the-array.2138/solution.ts) | Medium  |
 | 2013 | Detect Squares |  | Medium  |
 | 2014 | Longest Subsequence Repeated k Times |  | Hard  |
@@ -2120,12 +2120,12 @@
 | 2100 | Find Good Days to Rob the Bank | [TypeScript](./src/2100.find-good-days-to-rob-the-bank.2205/solution.ts) | Medium  |
 | 2101 | Detonate the Maximum Bombs |  | Medium  |
 | 2102 | Sequentially Ordinal Rank Tracker |  | Hard  |
-| 2103 | Rings and Rods | [JavaScript](./src/2103.rings-and-rods.2226/solution.js) [TypeScript](./src/2103.rings-and-rods.2226/solution.ts) | Easy  |
+| 2103 | Rings and Rods | [Java](./src/2103.rings-and-rods.2226/solution.java) [JavaScript](./src/2103.rings-and-rods.2226/solution.js) [TypeScript](./src/2103.rings-and-rods.2226/solution.ts) | Easy  |
 | 2104 | Sum of Subarray Ranges | [TypeScript](./src/2104.sum-of-subarray-ranges.2227/solution.ts) | Medium  |
 | 2105 | Watering Plants II |  | Medium  |
 | 2106 | Maximum Fruits Harvested After at Most K Steps | [TypeScript](./src/2106.maximum-fruits-harvested-after-at-most-k-steps.2229/solution.ts) | Hard  |
 | 2107 | Number of Unique Flavors After Sharing K Candies |  | Medium  |
-| 2108 | Find First Palindromic String in the Array | [JavaScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.js) [TypeScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.ts) | Easy  |
+| 2108 | Find First Palindromic String in the Array | [Java](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.java) [JavaScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.js) [TypeScript](./src/2108.find-first-palindromic-string-in-the-array.2231/solution.ts) | Easy  |
 | 2109 | Adding Spaces to a String | [JavaScript](./src/2109.adding-spaces-to-a-string.2232/solution.js) [TypeScript](./src/2109.adding-spaces-to-a-string.2232/solution.ts) | Medium  |
 | 2110 | Number of Smooth Descent Periods of a Stock | [JavaScript](./src/2110.number-of-smooth-descent-periods-of-a-stock.2233/solution.js) [TypeScript](./src/2110.number-of-smooth-descent-periods-of-a-stock.2233/solution.ts) | Medium  |
 | 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
