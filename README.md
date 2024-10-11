@@ -1620,7 +1620,7 @@
 | 1600 | Throne Inheritance | [TypeScript](./src/1600.throne-inheritance.1722/solution.ts) | Medium  |
 | 1601 | Maximum Number of Achievable Transfer Requests |  | Hard  |
 | 1602 | Find Nearest Right Node in Binary Tree | [JavaScript](./src/1602.find-nearest-right-node-in-binary-tree.1745/solution.js) [TypeScript](./src/1602.find-nearest-right-node-in-binary-tree.1745/solution.ts) | Medium  |
-| 1603 | Design Parking System | [JavaScript](./src/1603.design-parking-system.1708/solution.js) [TypeScript](./src/1603.design-parking-system.1708/solution.ts) | Easy  |
+| 1603 | Design Parking System | [Java](./src/1603.design-parking-system.1708/solution.java) [JavaScript](./src/1603.design-parking-system.1708/solution.js) [TypeScript](./src/1603.design-parking-system.1708/solution.ts) | Easy  |
 | 1604 | Alert Using Same Key-Card Three or More Times in a One Hour Period | [JavaScript](./src/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.1709/solution.js) [TypeScript](./src/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.1709/solution.ts) | Medium  |
 | 1605 | Find Valid Matrix Given Row and Column Sums |  | Medium  |
 | 1606 | Find Servers That Handled Most Number of Requests |  | Hard  |
@@ -1653,7 +1653,7 @@
 | 1633 | Percentage of Users Attended a Contest |  | Easy  |
 | 1634 | Add Two Polynomials Represented as Linked Lists | [JavaScript](./src/1634.add-two-polynomials-represented-as-linked-lists.1774/solution.js) | Medium  |
 | 1635 | Hopper Company Queries I |  | Hard  |
-| 1636 | Sort Array by Increasing Frequency | [JavaScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.js) [TypeScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.ts) | Easy  |
+| 1636 | Sort Array by Increasing Frequency | [Java](./src/1636.sort-array-by-increasing-frequency.1741/solution.java) [JavaScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.js) [TypeScript](./src/1636.sort-array-by-increasing-frequency.1741/solution.ts) | Easy  |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | [JavaScript](./src/1637.widest-vertical-area-between-two-points-containing-no-points.1742/solution.js) | Easy  |
 | 1638 | Count Substrings That Differ by One Character |  | Medium  |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary |  | Hard  |
@@ -1695,17 +1695,17 @@
 | 1675 | Minimize Deviation in Array |  | Hard  |
 | 1676 | Lowest Common Ancestor of a Binary Tree IV | [JavaScript](./src/1676.lowest-common-ancestor-of-a-binary-tree-iv.1816/solution.js) | Medium  |
 | 1677 | Product's Worth Over Invoices |  | Easy  |
-| 1678 | Goal Parser Interpretation | [JavaScript](./src/1678.goal-parser-interpretation.1797/solution.js) [TypeScript](./src/1678.goal-parser-interpretation.1797/solution.ts) | Easy  |
+| 1678 | Goal Parser Interpretation | [Java](./src/1678.goal-parser-interpretation.1797/solution.java) [JavaScript](./src/1678.goal-parser-interpretation.1797/solution.js) [TypeScript](./src/1678.goal-parser-interpretation.1797/solution.ts) | Easy  |
 | 1679 | Max Number of K-Sum Pairs | [JavaScript](./src/1679.max-number-of-k-sum-pairs.1798/solution.js) [TypeScript](./src/1679.max-number-of-k-sum-pairs.1798/solution.ts) | Medium  |
 | 1680 | Concatenation of Consecutive Binary Numbers | [JavaScript](./src/1680.concatenation-of-consecutive-binary-numbers.1800/solution.js) [TypeScript](./src/1680.concatenation-of-consecutive-binary-numbers.1800/solution.ts) | Medium  |
 | 1681 | Minimum Incompatibility |  | Hard  |
 | 1682 | Longest Palindromic Subsequence II |  | Medium  |
 | 1683 | Invalid Tweets |  | Easy  |
-| 1684 | Count the Number of Consistent Strings | [JavaScript](./src/1684.count-the-number-of-consistent-strings.1786/solution.js) [TypeScript](./src/1684.count-the-number-of-consistent-strings.1786/solution.ts) | Easy  |
+| 1684 | Count the Number of Consistent Strings | [Java](./src/1684.count-the-number-of-consistent-strings.1786/solution.java) [JavaScript](./src/1684.count-the-number-of-consistent-strings.1786/solution.js) [TypeScript](./src/1684.count-the-number-of-consistent-strings.1786/solution.ts) | Easy  |
 | 1685 | Sum of Absolute Differences in a Sorted Array | [JavaScript](./src/1685.sum-of-absolute-differences-in-a-sorted-array.1787/solution.js) [TypeScript](./src/1685.sum-of-absolute-differences-in-a-sorted-array.1787/solution.ts) | Medium  |
 | 1686 | Stone Game VI |  | Medium  |
 | 1687 | Delivering Boxes from Storage to Ports |  | Hard  |
-| 1688 | Count of Matches in Tournament | [JavaScript](./src/1688.count-of-matches-in-tournament.1806/solution.js) [TypeScript](./src/1688.count-of-matches-in-tournament.1806/solution.ts) | Easy  |
+| 1688 | Count of Matches in Tournament | [Java](./src/1688.count-of-matches-in-tournament.1806/solution.java) [JavaScript](./src/1688.count-of-matches-in-tournament.1806/solution.js) [TypeScript](./src/1688.count-of-matches-in-tournament.1806/solution.ts) | Easy  |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [JavaScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.js) [TypeScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.ts) | Medium  |
 | 1690 | Stone Game VII |  | Medium  |
 | 1691 | Maximum Height by Stacking Cuboids  |  | Hard  |
