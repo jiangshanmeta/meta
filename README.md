@@ -1711,7 +1711,7 @@
 | 1691 | Maximum Height by Stacking Cuboids  |  | Hard  |
 | 1692 | Count Ways to Distribute Candies |  | Hard  |
 | 1693 | Daily Leads and Partners |  | Easy  |
-| 1694 | Reformat Phone Number | [JavaScript](./src/1694.reformat-phone-number.1812/solution.js) [TypeScript](./src/1694.reformat-phone-number.1812/solution.ts) | Easy  |
+| 1694 | Reformat Phone Number | [Java](./src/1694.reformat-phone-number.1812/solution.java) [JavaScript](./src/1694.reformat-phone-number.1812/solution.js) [TypeScript](./src/1694.reformat-phone-number.1812/solution.ts) | Easy  |
 | 1695 | Maximum Erasure Value | [JavaScript](./src/1695.maximum-erasure-value.1813/solution.js) | Medium  |
 | 1696 | Jump Game VI | [JavaScript](./src/1696.jump-game-vi.1814/solution.js) | Medium  |
 | 1697 | Checking Existence of Edge Length Limited Paths |  | Hard  |
@@ -1727,7 +1727,7 @@
 | 1707 | Maximum XOR With an Element From Array |  | Hard  |
 | 1708 | Largest Subarray Length K | [JavaScript](./src/1708.largest-subarray-length-k.1847/solution.js) [TypeScript](./src/1708.largest-subarray-length-k.1847/solution.ts) | Easy  |
 | 1709 | Biggest Window Between Visits |  | Medium  |
-| 1710 | Maximum Units on a Truck | [JavaScript](./src/1710.maximum-units-on-a-truck.1829/solution.js) [TypeScript](./src/1710.maximum-units-on-a-truck.1829/solution.ts) | Easy  |
+| 1710 | Maximum Units on a Truck | [Java](./src/1710.maximum-units-on-a-truck.1829/solution.java) [JavaScript](./src/1710.maximum-units-on-a-truck.1829/solution.js) [TypeScript](./src/1710.maximum-units-on-a-truck.1829/solution.ts) | Easy  |
 | 1711 | Count Good Meals | [JavaScript](./src/1711.count-good-meals.1830/solution.js) [TypeScript](./src/1711.count-good-meals.1830/solution.ts) | Medium  |
 | 1712 | Ways to Split Array Into Three Subarrays | [JavaScript](./src/1712.ways-to-split-array-into-three-subarrays.1831/solution.js) [TypeScript](./src/1712.ways-to-split-array-into-three-subarrays.1831/solution.ts) | Medium  |
 | 1713 | Minimum Operations to Make a Subsequence |  | Hard  |
@@ -1833,7 +1833,7 @@
 | 1813 | Sentence Similarity III | [JavaScript](./src/1813.sentence-similarity-iii.1923/solution.js) | Medium  |
 | 1814 | Count Nice Pairs in an Array | [JavaScript](./src/1814.count-nice-pairs-in-an-array.1925/solution.js) [TypeScript](./src/1814.count-nice-pairs-in-an-array.1925/solution.ts) | Medium  |
 | 1815 | Maximum Number of Groups Getting Fresh Donuts |  | Hard  |
-| 1816 | Truncate Sentence | [JavaScript](./src/1816.truncate-sentence.1944/solution.js) [TypeScript](./src/1816.truncate-sentence.1944/solution.ts) | Easy  |
+| 1816 | Truncate Sentence | [Java](./src/1816.truncate-sentence.1944/solution.java) [JavaScript](./src/1816.truncate-sentence.1944/solution.js) [TypeScript](./src/1816.truncate-sentence.1944/solution.ts) | Easy  |
 | 1817 | Finding the Users Active Minutes | [JavaScript](./src/1817.finding-the-users-active-minutes.1945/solution.js) [TypeScript](./src/1817.finding-the-users-active-minutes.1945/solution.ts) | Medium  |
 | 1818 | Minimum Absolute Sum Difference | [JavaScript](./src/1818.minimum-absolute-sum-difference.1946/solution.js) | Medium  |
 | 1819 | Number of Different Subsequences GCDs |  | Hard  |
@@ -1861,7 +1861,7 @@
 | 1841 | League Statistics |  | Medium  |
 | 1842 | Next Palindrome Using Same Digits |  | Hard  |
 | 1843 | Suspicious Bank Accounts |  | Medium  |
-| 1844 | Replace All Digits with Characters | [JavaScript](./src/1844.replace-all-digits-with-characters.1954/solution.js) [TypeScript](./src/1844.replace-all-digits-with-characters.1954/solution.ts) | Easy  |
+| 1844 | Replace All Digits with Characters | [Java](./src/1844.replace-all-digits-with-characters.1954/solution.java) [JavaScript](./src/1844.replace-all-digits-with-characters.1954/solution.js) [TypeScript](./src/1844.replace-all-digits-with-characters.1954/solution.ts) | Easy  |
 | 1845 | Seat Reservation Manager | [JavaScript](./src/1845.seat-reservation-manager.1955/solution.js) | Medium  |
 | 1846 | Maximum Element After Decreasing and Rearranging | [JavaScript](./src/1846.maximum-element-after-decreasing-and-rearranging.1956/solution.js) | Medium  |
 | 1847 | Closest Room | [TypeScript](./src/1847.closest-room.1957/solution.ts) | Hard  |
@@ -1930,7 +1930,7 @@
 | 1910 | Remove All Occurrences of a Substring | [TypeScript](./src/1910.remove-all-occurrences-of-a-substring.2021/solution.ts) | Medium  |
 | 1911 | Maximum Alternating Subsequence Sum |  | Medium  |
 | 1912 | Design Movie Rental System |  | Hard  |
-| 1913 | Maximum Product Difference Between Two Pairs | [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.js) [TypeScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.ts) | Easy  |
+| 1913 | Maximum Product Difference Between Two Pairs | [Java](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.java) [JavaScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.js) [TypeScript](./src/1913.maximum-product-difference-between-two-pairs.2042/solution.ts) | Easy  |
 | 1914 | Cyclically Rotating a Grid |  | Medium  |
 | 1915 | Number of Wonderful Substrings |  | Medium  |
 | 1916 | Count Ways to Build Rooms in an Ant Colony |  | Hard  |
@@ -1952,7 +1952,7 @@
 | 1932 | Merge BSTs to Create Single BST |  | Hard  |
 | 1933 | Check if String Is Decomposable Into Value-Equal Substrings |  | Easy  |
 | 1934 | Confirmation Rate |  | Medium  |
-| 1935 | Maximum Number of Words You Can Type | [JavaScript](./src/1935.maximum-number-of-words-you-can-type.1264/solution.js) [TypeScript](./src/1935.maximum-number-of-words-you-can-type.1264/solution.ts) | Easy  |
+| 1935 | Maximum Number of Words You Can Type | [Java](./src/1935.maximum-number-of-words-you-can-type.1264/solution.java) [JavaScript](./src/1935.maximum-number-of-words-you-can-type.1264/solution.js) [TypeScript](./src/1935.maximum-number-of-words-you-can-type.1264/solution.ts) | Easy  |
 | 1936 | Add Minimum Number of Rungs | [JavaScript](./src/1936.add-minimum-number-of-rungs.2066/solution.js) [TypeScript](./src/1936.add-minimum-number-of-rungs.2066/solution.ts) | Medium  |
 | 1937 | Maximum Number of Points with Cost | [JavaScript](./src/1937.maximum-number-of-points-with-cost.2067/solution.js) [TypeScript](./src/1937.maximum-number-of-points-with-cost.2067/solution.ts) | Medium  |
 | 1938 | Maximum Genetic Difference Query |  | Hard  |
@@ -1969,7 +1969,7 @@
 | 1949 | Strong Friendship |  | Medium  |
 | 1950 | Maximum of Minimum Values in All Subarrays |  | Medium  |
 | 1951 | All the Pairs With the Maximum Number of Common Followers |  | Medium  |
-| 1952 | Three Divisors | [JavaScript](./src/1952.three-divisors.2083/solution.js) [TypeScript](./src/1952.three-divisors.2083/solution.ts) | Easy  |
+| 1952 | Three Divisors | [Java](./src/1952.three-divisors.2083/solution.java) [JavaScript](./src/1952.three-divisors.2083/solution.js) [TypeScript](./src/1952.three-divisors.2083/solution.ts) | Easy  |
 | 1953 | Maximum Number of Weeks for Which You Can Work | [JavaScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/solution.js) [TypeScript](./src/1953.maximum-number-of-weeks-for-which-you-can-work.2084/solution.ts) | Medium  |
 | 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.js) [TypeScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.ts) | Medium  |
 | 1955 | Count Number of Special Subsequences | [TypeScript](./src/1955.count-number-of-special-subsequences.2086/solution.ts) | Hard  |
@@ -2023,7 +2023,7 @@
 | 2003 | Smallest Missing Genetic Value in Each Subtree |  | Hard  |
 | 2004 | The Number of Seniors and Juniors to Join the Company |  | Hard  |
 | 2005 | Subtree Removal Game with Fibonacci Tree |  | Hard  |
-| 2006 | Count Number of Pairs With Absolute Difference K | [JavaScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.js) [TypeScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.ts) | Easy  |
+| 2006 | Count Number of Pairs With Absolute Difference K | [Java](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.java) [JavaScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.js) [TypeScript](./src/2006.count-number-of-pairs-with-absolute-difference-k.2116/solution.ts) | Easy  |
 | 2007 | Find Original Array From Doubled Array | [JavaScript](./src/2007.find-original-array-from-doubled-array.2117/solution.js) [TypeScript](./src/2007.find-original-array-from-doubled-array.2117/solution.ts) | Medium  |
 | 2008 | Maximum Earnings From Taxi | [TypeScript](./src/2008.maximum-earnings-from-taxi.2118/solution.ts) | Medium  |
 | 2009 | Minimum Number of Operations to Make Array Continuous |  | Hard  |
@@ -2059,7 +2059,7 @@
 | 2039 | The Time When the Network Becomes Idle |  | Medium  |
 | 2040 | Kth Smallest Product of Two Sorted Arrays |  | Hard  |
 | 2041 | Accepted Candidates From the Interviews |  | Medium  |
-| 2042 | Check if Numbers Are Ascending in a Sentence | [JavaScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.js) [TypeScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.ts) | Easy  |
+| 2042 | Check if Numbers Are Ascending in a Sentence | [Java](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.java) [JavaScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.js) [TypeScript](./src/2042.check-if-numbers-are-ascending-in-a-sentence.2168/solution.ts) | Easy  |
 | 2043 | Simple Bank System | [JavaScript](./src/2043.simple-bank-system.2169/solution.js) | Medium  |
 | 2044 | Count Number of Maximum Bitwise-OR Subsets | [TypeScript](./src/2044.count-number-of-maximum-bitwise-or-subsets.2170/solution.ts) | Medium  |
 | 2045 | Second Minimum Time to Reach Destination |  | Hard  |
@@ -2131,7 +2131,7 @@
 | 2111 | Minimum Operations to Make the Array K-Increasing |  | Hard  |
 | 2112 | The Airport With the Most Traffic |  | Medium  |
 | 2113 | Elements in Array After Removing and Replacing Elements |  | Medium  |
-| 2114 | Maximum Number of Words Found in Sentences | [JavaScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/solution.js) [TypeScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/solution.ts) | Easy  |
+| 2114 | Maximum Number of Words Found in Sentences | [Java](./src/2114.maximum-number-of-words-found-in-sentences.2219/solution.java) [JavaScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/solution.js) [TypeScript](./src/2114.maximum-number-of-words-found-in-sentences.2219/solution.ts) | Easy  |
 | 2115 | Find All Possible Recipes from Given Supplies |  | Medium  |
 | 2116 | Check if a Parentheses String Can Be Valid |  | Medium  |
 | 2117 | Abbreviating the Product of a Range |  | Hard  |
