@@ -2141,7 +2141,7 @@
 | 2121 | Intervals Between Identical Elements | [TypeScript](./src/2121.intervals-between-identical-elements.2240/solution.ts) | Medium  |
 | 2122 | Recover the Original Array |  | Hard  |
 | 2123 | Minimum Operations to Remove Adjacent Ones in Matrix |  | Hard  |
-| 2124 | Check if All A's Appears Before All B's | [JavaScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.js) [TypeScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.ts) | Easy  |
+| 2124 | Check if All A's Appears Before All B's | [Java](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.java) [JavaScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.js) [TypeScript](./src/2124.check-if-all-as-appears-before-all-bs.2243/solution.ts) | Easy  |
 | 2125 | Number of Laser Beams in a Bank | [JavaScript](./src/2125.number-of-laser-beams-in-a-bank.2244/solution.js) [TypeScript](./src/2125.number-of-laser-beams-in-a-bank.2244/solution.ts) | Medium  |
 | 2126 | Destroying Asteroids | [JavaScript](./src/2126.destroying-asteroids.2245/solution.js) [TypeScript](./src/2126.destroying-asteroids.2245/solution.ts) | Medium  |
 | 2127 | Maximum Employees to Be Invited to a Meeting |  | Hard  |
@@ -2171,7 +2171,7 @@
 | 2151 | Maximum Good People Based on Statements |  | Hard  |
 | 2152 | Minimum Number of Lines to Cover Points |  | Medium  |
 | 2153 | The Number of Passengers in Each Bus II |  | Hard  |
-| 2154 | Keep Multiplying Found Values by Two | [JavaScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.js) [TypeScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.ts) | Easy  |
+| 2154 | Keep Multiplying Found Values by Two | [Java](./src/2154.keep-multiplying-found-values-by-two.2274/solution.java) [JavaScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.js) [TypeScript](./src/2154.keep-multiplying-found-values-by-two.2274/solution.ts) | Easy  |
 | 2155 | All Divisions With the Highest Score of a Binary Array | [JavaScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/solution.js) [TypeScript](./src/2155.all-divisions-with-the-highest-score-of-a-binary-array.2261/solution.ts) | Medium  |
 | 2156 | Find Substring With Given Hash Value |  | Hard  |
 | 2157 | Groups of Strings |  | Hard  |
@@ -2202,7 +2202,7 @@
 | 2182 | Construct String With Repeat Limit |  | Medium  |
 | 2183 | Count Array Pairs Divisible by K |  | Hard  |
 | 2184 | Number of Ways to Build Sturdy Brick Wall |  | Medium  |
-| 2185 | Counting Words With a Given Prefix | [JavaScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.js) [TypeScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.ts) | Easy  |
+| 2185 | Counting Words With a Given Prefix | [Java](./src/2185.counting-words-with-a-given-prefix.2292/solution.java) [JavaScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.js) [TypeScript](./src/2185.counting-words-with-a-given-prefix.2292/solution.ts) | Easy  |
 | 2186 | Minimum Number of Steps to Make Two Strings Anagram II | [JavaScript](./src/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.2293/solution.js) [TypeScript](./src/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.2293/solution.ts) | Medium  |
 | 2187 | Minimum Time to Complete Trips | [TypeScript](./src/2187.minimum-time-to-complete-trips.2294/solution.ts) | Medium  |
 | 2188 | Minimum Time to Finish the Race |  | Hard  |
@@ -2252,11 +2252,11 @@
 | 2232 | Minimize Result by Adding Parentheses to Expression | [TypeScript](./src/2232.minimize-result-by-adding-parentheses-to-expression.2328/solution.ts) | Medium  |
 | 2233 | Maximum Product After K Increments | [TypeScript](./src/2233.maximum-product-after-k-increments.2329/solution.ts) | Medium  |
 | 2234 | Maximum Total Beauty of the Gardens |  | Hard  |
-| 2235 | Add Two Integers | [JavaScript](./src/2235.add-two-integers.2383/solution.js) [TypeScript](./src/2235.add-two-integers.2383/solution.ts) | Easy  |
-| 2236 | Root Equals Sum of Children | [JavaScript](./src/2236.root-equals-sum-of-children.2384/solution.js) [TypeScript](./src/2236.root-equals-sum-of-children.2384/solution.ts) | Easy  |
+| 2235 | Add Two Integers | [Java](./src/2235.add-two-integers.2383/solution.java) [JavaScript](./src/2235.add-two-integers.2383/solution.js) [TypeScript](./src/2235.add-two-integers.2383/solution.ts) | Easy  |
+| 2236 | Root Equals Sum of Children | [Java](./src/2236.root-equals-sum-of-children.2384/solution.java) [JavaScript](./src/2236.root-equals-sum-of-children.2384/solution.js) [TypeScript](./src/2236.root-equals-sum-of-children.2384/solution.ts) | Easy  |
 | 2237 | Count Positions on Street With Required Brightness |  | Medium  |
 | 2238 | Number of Times a Driver Was a Passenger |  | Medium  |
-| 2239 | Find Closest Number to Zero | [JavaScript](./src/2239.find-closest-number-to-zero.2350/solution.js) [TypeScript](./src/2239.find-closest-number-to-zero.2350/solution.ts) | Easy  |
+| 2239 | Find Closest Number to Zero | [Java](./src/2239.find-closest-number-to-zero.2350/solution.java) [JavaScript](./src/2239.find-closest-number-to-zero.2350/solution.js) [TypeScript](./src/2239.find-closest-number-to-zero.2350/solution.ts) | Easy  |
 | 2240 | Number of Ways to Buy Pens and Pencils | [TypeScript](./src/2240.number-of-ways-to-buy-pens-and-pencils.2351/solution.ts) | Medium  |
 | 2241 | Design an ATM Machine | [TypeScript](./src/2241.design-an-atm-machine.2352/solution.ts) | Medium  |
 | 2242 | Maximum Score of a Node Sequence |  | Hard  |
@@ -2272,7 +2272,7 @@
 | 2252 | Dynamic Pivoting of a Table |  | Hard  |
 | 2253 | Dynamic Unpivoting of a Table |  | Hard  |
 | 2254 | Design Video Sharing Platform |  | Hard  |
-| 2255 | Count Prefixes of a Given String | [JavaScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.js) [TypeScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.ts) | Easy  |
+| 2255 | Count Prefixes of a Given String | [Java](./src/2255.count-prefixes-of-a-given-string.2341/solution.java) [JavaScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.js) [TypeScript](./src/2255.count-prefixes-of-a-given-string.2341/solution.ts) | Easy  |
 | 2256 | Minimum Average Difference | [TypeScript](./src/2256.minimum-average-difference.2342/solution.ts) | Medium  |
 | 2257 | Count Unguarded Cells in the Grid |  | Medium  |
 | 2258 | Escape the Spreading Fire |  | Hard  |
@@ -2295,12 +2295,12 @@
 | 2275 | Largest Combination With Bitwise AND Greater Than Zero | [TypeScript](./src/2275.largest-combination-with-bitwise-and-greater-than-zero.2356/solution.ts) | Medium  |
 | 2276 | Count Integers in Intervals | [TypeScript](./src/2276.count-integers-in-intervals.2357/solution.ts) | Hard  |
 | 2277 | Closest Node to Path in Tree |  | Hard  |
-| 2278 | Percentage of Letter in String | [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
+| 2278 | Percentage of Letter in String | [Java](./src/2278.percentage-of-letter-in-string.2365/solution.java) [JavaScript](./src/2278.percentage-of-letter-in-string.2365/solution.js) [TypeScript](./src/2278.percentage-of-letter-in-string.2365/solution.ts) | Easy  |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [TypeScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.2366/solution.ts) | Medium  |
 | 2280 | Minimum Lines to Represent a Line Chart | [TypeScript](./src/2280.minimum-lines-to-represent-a-line-chart.2367/solution.ts) | Medium  |
 | 2281 | Sum of Total Strength of Wizards | [TypeScript](./src/2281.sum-of-total-strength-of-wizards.2368/solution.ts) | Hard  |
 | 2282 | Number of People That Can Be Seen in a Grid |  | Medium  |
-| 2283 | Check if Number Has Equal Digit Count and Digit Value | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.ts) | Easy  |
+| 2283 | Check if Number Has Equal Digit Count and Digit Value | [Java](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.java) [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.js) [TypeScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.2377/solution.ts) | Easy  |
 | 2284 | Sender With Largest Word Count | [TypeScript](./src/2284.sender-with-largest-word-count.2378/solution.ts) | Medium  |
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
@@ -2326,7 +2326,7 @@
 | 2306 | Naming a Company |  | Hard  |
 | 2307 | Check for Contradictions in Equations |  | Hard  |
 | 2308 | Arrange Table by Gender |  | Medium  |
-| 2309 | Greatest English Letter in Upper and Lower Case | [JavaScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/solution.js) [TypeScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/solution.ts) | Easy  |
+| 2309 | Greatest English Letter in Upper and Lower Case | [Java](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/solution.java) [JavaScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/solution.js) [TypeScript](./src/2309.greatest-english-letter-in-upper-and-lower-case.1363/solution.ts) | Easy  |
 | 2310 | Sum of Numbers With Units Digit K |  | Medium  |
 | 2311 | Longest Binary Subsequence Less Than or Equal to K |  | Medium  |
 | 2312 | Selling Pieces of Wood |  | Hard  |
