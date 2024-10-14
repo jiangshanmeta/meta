@@ -2332,7 +2332,7 @@
 | 2312 | Selling Pieces of Wood |  | Hard  |
 | 2313 | Minimum Flips in Binary Tree to Get Result |  | Hard  |
 | 2314 | The First Day of the Maximum Recorded Degree in Each City |  | Medium  |
-| 2315 | Count Asterisks | [JavaScript](./src/2315.count-asterisks.2401/solution.js) [TypeScript](./src/2315.count-asterisks.2401/solution.ts) | Easy  |
+| 2315 | Count Asterisks | [Java](./src/2315.count-asterisks.2401/solution.java) [JavaScript](./src/2315.count-asterisks.2401/solution.js) [TypeScript](./src/2315.count-asterisks.2401/solution.ts) | Easy  |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [JavaScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.js) [TypeScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.ts) | Medium  |
 | 2317 | Maximum XOR After Operations  | [TypeScript](./src/2317.maximum-xor-after-operations.2402/solution.ts) | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
@@ -2348,7 +2348,7 @@
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
 | 2329 | Product Sales Analysis V |  | Easy  |
 | 2330 | Valid Palindrome IV |  | Medium  |
-| 2331 | Evaluate Boolean Binary Tree | [Go](./src/2331.evaluate-boolean-binary-tree.2416/solution.go) [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.ts) | Easy  |
+| 2331 | Evaluate Boolean Binary Tree | [Go](./src/2331.evaluate-boolean-binary-tree.2416/solution.go) [Java](./src/2331.evaluate-boolean-binary-tree.2416/solution.java) [JavaScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.js) [TypeScript](./src/2331.evaluate-boolean-binary-tree.2416/solution.ts) | Easy  |
 | 2332 | The Latest Time to Catch a Bus |  | Medium  |
 | 2333 | Minimum Sum of Squared Difference | [TypeScript](./src/2333.minimum-sum-of-squared-difference.2418/solution.ts) | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
@@ -2358,7 +2358,7 @@
 | 2338 | Count the Number of Ideal Arrays |  | Hard  |
 | 2339 | All the Matches of the League |  | Easy  |
 | 2340 | Minimum Adjacent Swaps to Make a Valid Array |  | Medium  |
-| 2341 | Maximum Number of Pairs in Array | [JavaScript](./src/2341.maximum-number-of-pairs-in-array.2421/solution.js) [TypeScript](./src/2341.maximum-number-of-pairs-in-array.2421/solution.ts) | Easy  |
+| 2341 | Maximum Number of Pairs in Array | [Java](./src/2341.maximum-number-of-pairs-in-array.2421/solution.java) [JavaScript](./src/2341.maximum-number-of-pairs-in-array.2421/solution.js) [TypeScript](./src/2341.maximum-number-of-pairs-in-array.2421/solution.ts) | Easy  |
 | 2342 | Max Sum of a Pair With Equal Sum of Digits | [JavaScript](./src/2342.max-sum-of-a-pair-with-equal-sum-of-digits.2473/solution.js) [TypeScript](./src/2342.max-sum-of-a-pair-with-equal-sum-of-digits.2473/solution.ts) | Medium  |
 | 2343 | Query Kth Smallest Trimmed Number |  | Medium  |
 | 2344 | Minimum Deletions to Make Array Divisible |  | Hard  |
@@ -2368,7 +2368,7 @@
 | 2348 | Number of Zero-Filled Subarrays | [JavaScript](./src/2348.number-of-zero-filled-subarrays.2432/solution.js) [TypeScript](./src/2348.number-of-zero-filled-subarrays.2432/solution.ts) | Medium  |
 | 2349 | Design a Number Container System | [TypeScript](./src/2349.design-a-number-container-system.2434/solution.ts) | Medium  |
 | 2350 | Shortest Impossible Sequence of Rolls |  | Hard  |
-| 2351 | First Letter to Appear Twice | [JavaScript](./src/2351.first-letter-to-appear-twice.2427/solution.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/solution.ts) | Easy  |
+| 2351 | First Letter to Appear Twice | [Java](./src/2351.first-letter-to-appear-twice.2427/solution.java) [JavaScript](./src/2351.first-letter-to-appear-twice.2427/solution.js) [TypeScript](./src/2351.first-letter-to-appear-twice.2427/solution.ts) | Easy  |
 | 2352 | Equal Row and Column Pairs | [JavaScript](./src/2352.equal-row-and-column-pairs.2428/solution.js) [TypeScript](./src/2352.equal-row-and-column-pairs.2428/solution.ts) | Medium  |
 | 2353 | Design a Food Rating System | [TypeScript](./src/2353.design-a-food-rating-system.2429/solution.ts) | Medium  |
 | 2354 | Number of Excellent Pairs |  | Hard  |
@@ -2390,7 +2390,7 @@
 | 2370 | Longest Ideal Subsequence |  | Medium  |
 | 2371 | Minimize Maximum Value in a Grid |  | Hard  |
 | 2372 | Calculate the Influence of Each Salesperson |  | Medium  |
-| 2373 | Largest Local Values in a Matrix | [JavaScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.js) [TypeScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.ts) | Easy  |
+| 2373 | Largest Local Values in a Matrix | [Java](./src/2373.largest-local-values-in-a-matrix.2454/solution.java) [JavaScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.js) [TypeScript](./src/2373.largest-local-values-in-a-matrix.2454/solution.ts) | Easy  |
 | 2374 | Node With Highest Edge Score | [JavaScript](./src/2374.node-with-highest-edge-score.2455/solution.js) [TypeScript](./src/2374.node-with-highest-edge-score.2455/solution.ts) | Medium  |
 | 2375 | Construct Smallest Number From DI String | [TypeScript](./src/2375.construct-smallest-number-from-di-string.2456/solution.ts) | Medium  |
 | 2376 | Count Special Integers |  | Hard  |
@@ -2430,7 +2430,7 @@
 | 2410 | Maximum Matching of Players With Trainers | [JavaScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.js) [TypeScript](./src/2410.maximum-matching-of-players-with-trainers.2497/solution.ts) | Medium  |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR | [TypeScript](./src/2411.smallest-subarrays-with-maximum-bitwise-or.2498/solution.ts) | Medium  |
 | 2412 | Minimum Money Required Before Transactions |  | Hard  |
-| 2413 | Smallest Even Multiple | [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
+| 2413 | Smallest Even Multiple | [Java](./src/2413.smallest-even-multiple.2491/solution.java) [JavaScript](./src/2413.smallest-even-multiple.2491/solution.js) [TypeScript](./src/2413.smallest-even-multiple.2491/solution.ts) | Easy  |
 | 2414 | Length of the Longest Alphabetical Continuous Substring | [JavaScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.js) [TypeScript](./src/2414.length-of-the-longest-alphabetical-continuous-substring.2492/solution.ts) | Medium  |
 | 2415 | Reverse Odd Levels of Binary Tree | [JavaScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.js) [TypeScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.ts) | Medium  |
 | 2416 | Sum of Prefix Scores of Strings | [TypeScript](./src/2416.sum-of-prefix-scores-of-strings.2494/solution.ts) | Hard  |
@@ -2458,7 +2458,7 @@
 | 2438 | Range Product Queries of Powers | [JavaScript](./src/2438.range-product-queries-of-powers.2529/solution.js) [TypeScript](./src/2438.range-product-queries-of-powers.2529/solution.ts) | Medium  |
 | 2439 | Minimize Maximum of Array | [TypeScript](./src/2439.minimize-maximum-of-array.2530/solution.ts) | Medium  |
 | 2440 | Create Components With Same Value |  | Hard  |
-| 2441 | Largest Positive Integer That Exists With Its Negative | [JavaScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.js) [TypeScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.ts) | Easy  |
+| 2441 | Largest Positive Integer That Exists With Its Negative | [Java](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.java) [JavaScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.js) [TypeScript](./src/2441.largest-positive-integer-that-exists-with-its-negative.2524/solution.ts) | Easy  |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | [JavaScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.js) [TypeScript](./src/2442.count-number-of-distinct-integers-after-reverse-operations.2525/solution.ts) | Medium  |
 | 2443 | Sum of Number and Its Reverse | [JavaScript](./src/2443.sum-of-number-and-its-reverse.2541/solution.js) [TypeScript](./src/2443.sum-of-number-and-its-reverse.2541/solution.ts) | Medium  |
 | 2444 | Count Subarrays With Fixed Bounds |  | Hard  |
@@ -2486,7 +2486,7 @@
 | 2466 | Count Ways To Build Good Strings | [JavaScript](./src/2466.count-ways-to-build-good-strings.2562/solution.js) [TypeScript](./src/2466.count-ways-to-build-good-strings.2562/solution.ts) | Medium  |
 | 2467 | Most Profitable Path in a Tree | [JavaScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.js) [TypeScript](./src/2467.most-profitable-path-in-a-tree.2564/solution.ts) | Medium  |
 | 2468 | Split Message Based on Limit | [JavaScript](./src/2468.split-message-based-on-limit.2563/solution.js) [TypeScript](./src/2468.split-message-based-on-limit.2563/solution.ts) | Hard  |
-| 2469 | Convert the Temperature | [JavaScript](./src/2469.convert-the-temperature.2556/solution.js) [TypeScript](./src/2469.convert-the-temperature.2556/solution.ts) | Easy  |
+| 2469 | Convert the Temperature | [Java](./src/2469.convert-the-temperature.2556/solution.java) [JavaScript](./src/2469.convert-the-temperature.2556/solution.js) [TypeScript](./src/2469.convert-the-temperature.2556/solution.ts) | Easy  |
 | 2470 | Number of Subarrays With LCM Equal to K | [JavaScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.js) [TypeScript](./src/2470.number-of-subarrays-with-lcm-equal-to-k.2557/solution.ts) | Medium  |
 | 2471 | Minimum Number of Operations to Sort a Binary Tree by Level | [JavaScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.js) [TypeScript](./src/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.2558/solution.ts) | Medium  |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings |  | Hard  |
@@ -2502,7 +2502,7 @@
 | 2482 | Difference Between Ones and Zeros in Row and Column | [JavaScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.js) [TypeScript](./src/2482.difference-between-ones-and-zeros-in-row-and-column.2606/solution.ts) | Medium  |
 | 2483 | Minimum Penalty for a Shop | [JavaScript](./src/2483.minimum-penalty-for-a-shop.2576/solution.js) [TypeScript](./src/2483.minimum-penalty-for-a-shop.2576/solution.ts) | Medium  |
 | 2484 | Count Palindromic Subsequences |  | Hard  |
-| 2485 | Find the Pivot Integer | [JavaScript](./src/2485.find-the-pivot-integer.2571/solution.js) [TypeScript](./src/2485.find-the-pivot-integer.2571/solution.ts) | Easy  |
+| 2485 | Find the Pivot Integer | [Java](./src/2485.find-the-pivot-integer.2571/solution.java) [JavaScript](./src/2485.find-the-pivot-integer.2571/solution.js) [TypeScript](./src/2485.find-the-pivot-integer.2571/solution.ts) | Easy  |
 | 2486 | Append Characters to String to Make Subsequence | [JavaScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.js) [TypeScript](./src/2486.append-characters-to-string-to-make-subsequence.2572/solution.ts) | Medium  |
 | 2487 | Remove Nodes From Linked List | [JavaScript](./src/2487.remove-nodes-from-linked-list.2573/solution.js) [TypeScript](./src/2487.remove-nodes-from-linked-list.2573/solution.ts) | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
@@ -2513,11 +2513,11 @@
 | 2493 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
 | 2494 | Merge Overlapping Events in the Same Hall |  | Hard  |
 | 2495 | Number of Subarrays Having Even Product |  | Medium  |
-| 2496 | Maximum Value of a String in an Array | [JavaScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.js) [TypeScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.ts) | Easy  |
+| 2496 | Maximum Value of a String in an Array | [Java](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.java) [JavaScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.js) [TypeScript](./src/2496.maximum-value-of-a-string-in-an-array.2589/solution.ts) | Easy  |
 | 2497 | Maximum Star Sum of a Graph | [JavaScript](./src/2497.maximum-star-sum-of-a-graph.2590/solution.js) [TypeScript](./src/2497.maximum-star-sum-of-a-graph.2590/solution.ts) | Medium  |
 | 2498 | Frog Jump II | [JavaScript](./src/2498.frog-jump-ii.2591/solution.js) [TypeScript](./src/2498.frog-jump-ii.2591/solution.ts) | Medium  |
 | 2499 | Minimum Total Cost to Make Arrays Unequal |  | Hard  |
-| 2500 | Delete Greatest Value in Each Row | [JavaScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.js) [TypeScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.ts) | Easy  |
+| 2500 | Delete Greatest Value in Each Row | [Java](./src/2500.delete-greatest-value-in-each-row.2585/solution.java) [JavaScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.js) [TypeScript](./src/2500.delete-greatest-value-in-each-row.2585/solution.ts) | Easy  |
 | 2501 | Longest Square Streak in an Array | [JavaScript](./src/2501.longest-square-streak-in-an-array.2586/solution.js) [TypeScript](./src/2501.longest-square-streak-in-an-array.2586/solution.ts) | Medium  |
 | 2502 | Design Memory Allocator | [JavaScript](./src/2502.design-memory-allocator.2587/solution.js) [TypeScript](./src/2502.design-memory-allocator.2587/solution.ts) | Medium  |
 | 2503 | Maximum Number of Points From Grid Queries |  | Hard  |
@@ -2537,7 +2537,7 @@
 | 2517 | Maximum Tastiness of Candy Basket | [TypeScript](./src/2517.maximum-tastiness-of-candy-basket.2600/solution.ts) | Medium  |
 | 2518 | Number of Great Partitions |  | Hard  |
 | 2519 | Count the Number of K-Big Indices |  | Hard  |
-| 2520 | Count the Digits That Divide a Number | [JavaScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.js) [TypeScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.ts) | Easy  |
+| 2520 | Count the Digits That Divide a Number | [Java](./src/2520.count-the-digits-that-divide-a-number.2608/solution.java) [JavaScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.js) [TypeScript](./src/2520.count-the-digits-that-divide-a-number.2608/solution.ts) | Easy  |
 | 2521 | Distinct Prime Factors of Product of Array | [TypeScript](./src/2521.distinct-prime-factors-of-product-of-array.2609/solution.ts) | Medium  |
 | 2522 | Partition String Into Substrings With Values at Most K | [TypeScript](./src/2522.partition-string-into-substrings-with-values-at-most-k.2511/solution.ts) | Medium  |
 | 2523 | Closest Prime Numbers in Range | [TypeScript](./src/2523.closest-prime-numbers-in-range.2610/solution.ts) | Medium  |
@@ -2546,13 +2546,13 @@
 | 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
 | 2527 | Find Xor-Beauty of Array | [TypeScript](./src/2527.find-xor-beauty-of-array.2621/solution.ts) | Medium  |
 | 2528 | Maximize the Minimum Powered City |  | Hard  |
-| 2529 | Maximum Count of Positive Integer and Negative Integer | [JavaScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.js) [TypeScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.ts) | Easy  |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | [Java](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.java) [JavaScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.js) [TypeScript](./src/2529.maximum-count-of-positive-integer-and-negative-integer.2614/solution.ts) | Easy  |
 | 2530 | Maximal Score After Applying K Operations | [TypeScript](./src/2530.maximal-score-after-applying-k-operations.2616/solution.ts) | Medium  |
 | 2531 | Make Number of Distinct Characters Equal |  | Medium  |
 | 2532 | Time to Cross a Bridge |  | Hard  |
 | 2533 | Number of Good Binary Strings |  | Medium  |
 | 2534 | Time Taken to Cross the Door |  | Hard  |
-| 2535 | Difference Between Element Sum and Digit Sum of an Array | [JavaScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.js) [TypeScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.ts) | Easy  |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | [Java](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.java) [JavaScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.js) [TypeScript](./src/2535.difference-between-element-sum-and-digit-sum-of-an-array.2624/solution.ts) | Easy  |
 | 2536 | Increment Submatrices by One | [TypeScript](./src/2536.increment-submatrices-by-one.2625/solution.ts) | Medium  |
 | 2537 | Count the Number of Good Subarrays | [TypeScript](./src/2537.count-the-number-of-good-subarrays.2626/solution.ts) | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
@@ -2579,7 +2579,7 @@
 | 2559 | Count Vowel Strings in Ranges | [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
 | 2560 | House Robber IV | [TypeScript](./src/2560.house-robber-iv.2690/solution.ts) | Medium  |
 | 2561 | Rearranging Fruits |  | Hard  |
-| 2562 | Find the Array Concatenation Value | [TypeScript](./src/2562.find-the-array-concatenation-value.2698/solution.ts) | Easy  |
+| 2562 | Find the Array Concatenation Value | [Java](./src/2562.find-the-array-concatenation-value.2698/solution.java) [TypeScript](./src/2562.find-the-array-concatenation-value.2698/solution.ts) | Easy  |
 | 2563 | Count the Number of Fair Pairs | [TypeScript](./src/2563.count-the-number-of-fair-pairs.2699/solution.ts) | Medium  |
 | 2564 | Substring XOR Queries | [TypeScript](./src/2564.substring-xor-queries.2700/solution.ts) | Medium  |
 | 2565 | Subsequence With the Minimum Score |  | Hard  |
@@ -2587,11 +2587,11 @@
 | 2567 | Minimum Score by Changing Two Elements | [TypeScript](./src/2567.minimum-score-by-changing-two-elements.2706/solution.ts) | Medium  |
 | 2568 | Minimum Impossible OR | [TypeScript](./src/2568.minimum-impossible-or.2705/solution.ts) | Medium  |
 | 2569 | Handling Sum Queries After Update | [TypeScript](./src/2569.handling-sum-queries-after-update.2703/solution.ts) | Hard  |
-| 2570 | Merge Two 2D Arrays by Summing Values | [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
+| 2570 | Merge Two 2D Arrays by Summing Values | [Java](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.java) [TypeScript](./src/2570.merge-two-2d-arrays-by-summing-values.2707/solution.ts) | Easy  |
 | 2571 | Minimum Operations to Reduce an Integer to 0 | [TypeScript](./src/2571.minimum-operations-to-reduce-an-integer-to-0.2710/solution.ts) | Medium  |
 | 2572 | Count the Number of Square-Free Subsets | [TypeScript](./src/2572.count-the-number-of-square-free-subsets.2709/solution.ts) | Medium  |
 | 2573 | Find the String with LCP | [TypeScript](./src/2573.find-the-string-with-lcp.2708/solution.ts) | Hard  |
-| 2574 | Left and Right Sum Differences | [TypeScript](./src/2574.left-and-right-sum-differences.2714/solution.ts) | Easy  |
+| 2574 | Left and Right Sum Differences | [Java](./src/2574.left-and-right-sum-differences.2714/solution.java) [TypeScript](./src/2574.left-and-right-sum-differences.2714/solution.ts) | Easy  |
 | 2575 | Find the Divisibility Array of a String | [TypeScript](./src/2575.find-the-divisibility-array-of-a-string.2713/solution.ts) | Medium  |
 | 2576 | Find the Maximum Number of Marked Indices | [TypeScript](./src/2576.find-the-maximum-number-of-marked-indices.2712/solution.ts) | Medium  |
 | 2577 | Minimum Time to Visit a Cell In a Grid |  | Hard  |
@@ -2603,7 +2603,7 @@
 | 2583 | Kth Largest Sum in a Binary Tree | [TypeScript](./src/2583.kth-largest-sum-in-a-binary-tree.2646/solution.ts) | Medium  |
 | 2584 | Split the Array to Make Coprime Products | [TypeScript](./src/2584.split-the-array-to-make-coprime-products.2647/solution.ts) | Hard  |
 | 2585 | Number of Ways to Earn Points | [TypeScript](./src/2585.number-of-ways-to-earn-points.2648/solution.ts) | Hard  |
-| 2586 | Count the Number of Vowel Strings in Range | [TypeScript](./src/2586.count-the-number-of-vowel-strings-in-range.2654/solution.ts) | Easy  |
+| 2586 | Count the Number of Vowel Strings in Range | [Java](./src/2586.count-the-number-of-vowel-strings-in-range.2654/solution.java) [TypeScript](./src/2586.count-the-number-of-vowel-strings-in-range.2654/solution.ts) | Easy  |
 | 2587 | Rearrange Array to Maximize Prefix Score | [TypeScript](./src/2587.rearrange-array-to-maximize-prefix-score.2655/solution.ts) | Medium  |
 | 2588 | Count the Number of Beautiful Subarrays | [TypeScript](./src/2588.count-the-number-of-beautiful-subarrays.2656/solution.ts) | Medium  |
 | 2589 | Minimum Time to Complete All Tasks |  | Hard  |
@@ -2612,7 +2612,7 @@
 | 2592 | Maximize Greatness of an Array | [TypeScript](./src/2592.maximize-greatness-of-an-array.2664/solution.ts) | Medium  |
 | 2593 | Find Score of an Array After Marking All Elements | [TypeScript](./src/2593.find-score-of-an-array-after-marking-all-elements.2695/solution.ts) | Medium  |
 | 2594 | Minimum Time to Repair Cars | [TypeScript](./src/2594.minimum-time-to-repair-cars.2665/solution.ts) | Medium  |
-| 2595 | Number of Even and Odd Bits | [TypeScript](./src/2595.number-of-even-and-odd-bits.2659/solution.ts) | Easy  |
+| 2595 | Number of Even and Odd Bits | [Java](./src/2595.number-of-even-and-odd-bits.2659/solution.java) [TypeScript](./src/2595.number-of-even-and-odd-bits.2659/solution.ts) | Easy  |
 | 2596 | Check Knight Tour Configuration | [TypeScript](./src/2596.check-knight-tour-configuration.2662/solution.ts) | Medium  |
 | 2597 | The Number of Beautiful Subsets | [TypeScript](./src/2597.the-number-of-beautiful-subsets.2696/solution.ts) | Medium  |
 | 2598 | Smallest Missing Non-negative Integer After Operations | [TypeScript](./src/2598.smallest-missing-non-negative-integer-after-operations.2661/solution.ts) | Medium  |
@@ -2656,7 +2656,7 @@
 | 2636 | Promise Pool | [TypeScript](./src/2636.promise-pool.2750/solution.ts) | Medium  |
 | 2637 | Promise Time Limit | [TypeScript](./src/2637.promise-time-limit.2749/solution.ts) | Medium  |
 | 2638 | Count the Number of K-Free Subsets |  | Medium  |
-| 2639 | Find the Width of Columns of a Grid | [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
+| 2639 | Find the Width of Columns of a Grid | [Java](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.java) [TypeScript](./src/2639.find-the-width-of-columns-of-a-grid.2675/solution.ts) | Easy  |
 | 2640 | Find the Score of All Prefixes of an Array | [TypeScript](./src/2640.find-the-score-of-all-prefixes-of-an-array.2676/solution.ts) | Medium  |
 | 2641 | Cousins in Binary Tree II | [TypeScript](./src/2641.cousins-in-binary-tree-ii.2677/solution.ts) | Medium  |
 | 2642 | Design Graph With Shortest Path Calculator | [TypeScript](./src/2642.design-graph-with-shortest-path-calculator.2678/solution.ts) | Hard  |
@@ -2668,12 +2668,12 @@
 | 2648 | Generate Fibonacci Sequence | [TypeScript](./src/2648.generate-fibonacci-sequence.2775/solution.ts) | Easy  |
 | 2649 | Nested Array Generator | [TypeScript](./src/2649.nested-array-generator.2783/solution.ts) | Medium  |
 | 2650 | Design Cancellable Function |  | Hard  |
-| 2651 | Calculate Delayed Arrival Time | [TypeScript](./src/2651.calculate-delayed-arrival-time.2748/solution.ts) | Easy  |
-| 2652 | Sum Multiples | [TypeScript](./src/2652.sum-multiples.2752/solution.ts) | Easy  |
+| 2651 | Calculate Delayed Arrival Time | [Java](./src/2651.calculate-delayed-arrival-time.2748/solution.java) [TypeScript](./src/2651.calculate-delayed-arrival-time.2748/solution.ts) | Easy  |
+| 2652 | Sum Multiples | [Java](./src/2652.sum-multiples.2752/solution.java) [TypeScript](./src/2652.sum-multiples.2752/solution.ts) | Easy  |
 | 2653 | Sliding Subarray Beauty | [TypeScript](./src/2653.sliding-subarray-beauty.2751/solution.ts) | Medium  |
 | 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | [TypeScript](./src/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.2753/solution.ts) | Medium  |
 | 2655 | Find Maximal Uncovered Ranges |  | Medium  |
-| 2656 | Maximum Sum With Exactly K Elements  | [TypeScript](./src/2656.maximum-sum-with-exactly-k-elements.2767/solution.ts) | Easy  |
+| 2656 | Maximum Sum With Exactly K Elements  | [Java](./src/2656.maximum-sum-with-exactly-k-elements.2767/solution.java) [TypeScript](./src/2656.maximum-sum-with-exactly-k-elements.2767/solution.ts) | Easy  |
 | 2657 | Find the Prefix Common Array of Two Arrays | [TypeScript](./src/2657.find-the-prefix-common-array-of-two-arrays.2766/solution.ts) | Medium  |
 | 2658 | Maximum Number of Fish in a Grid | [TypeScript](./src/2658.maximum-number-of-fish-in-a-grid.2764/solution.ts) | Medium  |
 | 2659 | Make Array Empty | [TypeScript](./src/2659.make-array-empty.2765/solution.ts) | Hard  |
@@ -2687,7 +2687,7 @@
 | 2667 | Create Hello World Function | [TypeScript](./src/2667.create-hello-world-function.2809/solution.ts) | Easy  |
 | 2668 | Find Latest Salaries |  | Easy  |
 | 2669 | Count Artist Occurrences On Spotify Ranking List |  | Easy  |
-| 2670 | Find the Distinct Difference Array | [TypeScript](./src/2670.find-the-distinct-difference-array.2777/solution.ts) | Easy  |
+| 2670 | Find the Distinct Difference Array | [Java](./src/2670.find-the-distinct-difference-array.2777/solution.java) [TypeScript](./src/2670.find-the-distinct-difference-array.2777/solution.ts) | Easy  |
 | 2671 | Frequency Tracker | [TypeScript](./src/2671.frequency-tracker.2778/solution.ts) | Medium  |
 | 2672 | Number of Adjacent Elements With the Same Color | [TypeScript](./src/2672.number-of-adjacent-elements-with-the-same-color.2779/solution.ts) | Medium  |
 | 2673 | Make Costs of Paths Equal in a Binary Tree | [TypeScript](./src/2673.make-costs-of-paths-equal-in-a-binary-tree.2780/solution.ts) | Medium  |
@@ -2695,7 +2695,7 @@
 | 2675 | Array of Objects to Matrix | [TypeScript](./src/2675.array-of-objects-to-matrix.2769/solution.ts) | Hard  |
 | 2676 | Throttle | [TypeScript](./src/2676.throttle.2771/solution.ts) | Medium  |
 | 2677 | Chunk Array | [TypeScript](./src/2677.chunk-array.2798/solution.ts) | Easy  |
-| 2678 | Number of Senior Citizens | [TypeScript](./src/2678.number-of-senior-citizens.2727/solution.ts) | Easy  |
+| 2678 | Number of Senior Citizens | [Java](./src/2678.number-of-senior-citizens.2727/solution.java) [TypeScript](./src/2678.number-of-senior-citizens.2727/solution.ts) | Easy  |
 | 2679 | Sum in a Matrix | [TypeScript](./src/2679.sum-in-a-matrix.2728/solution.ts) | Medium  |
 | 2680 | Maximum OR |  | Medium  |
 | 2681 | Power of Heroes |  | Hard  |
@@ -2723,11 +2723,11 @@
 | 2703 | Return Length of Arguments Passed | [TypeScript](./src/2703.return-length-of-arguments-passed.2820/solution.ts) | Easy  |
 | 2704 | To Be Or Not To Be | [TypeScript](./src/2704.to-be-or-not-to-be.2813/solution.ts) | Easy  |
 | 2705 | Compact Object | [TypeScript](./src/2705.compact-object.2804/solution.ts) | Medium  |
-| 2706 | Buy Two Chocolates | [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
+| 2706 | Buy Two Chocolates | [Java](./src/2706.buy-two-chocolates.2756/solution.java) [TypeScript](./src/2706.buy-two-chocolates.2756/solution.ts) | Easy  |
 | 2707 | Extra Characters in a String | [TypeScript](./src/2707.extra-characters-in-a-string.2755/solution.ts) | Medium  |
 | 2708 | Maximum Strength of a Group | [TypeScript](./src/2708.maximum-strength-of-a-group.2754/solution.ts) | Medium  |
 | 2709 | Greatest Common Divisor Traversal | [TypeScript](./src/2709.greatest-common-divisor-traversal.2827/solution.ts) | Hard  |
-| 2710 | Remove Trailing Zeros From a String | [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
+| 2710 | Remove Trailing Zeros From a String | [Java](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.java) [TypeScript](./src/2710.remove-trailing-zeros-from-a-string.2819/solution.ts) | Easy  |
 | 2711 | Difference of Number of Distinct Values on Diagonals | [TypeScript](./src/2711.difference-of-number-of-distinct-values-on-diagonals.2801/solution.ts) | Medium  |
 | 2712 | Minimum Cost to Make All Characters Equal |  | Medium  |
 | 2713 | Maximum Strictly Increasing Cells in a Matrix |  | Hard  |
@@ -2746,11 +2746,11 @@
 | 2726 | Calculator with Method Chaining | [TypeScript](./src/2726.calculator-with-method-chaining.2863/solution.ts) | Easy  |
 | 2727 | Is Object Empty | [TypeScript](./src/2727.is-object-empty.2864/solution.ts) | Easy  |
 | 2728 | Count Houses in a Circular Street |  | Easy  |
-| 2729 | Check if The Number is Fascinating | [TypeScript](./src/2729.check-if-the-number-is-fascinating.2824/solution.ts) | Easy  |
+| 2729 | Check if The Number is Fascinating | [Java](./src/2729.check-if-the-number-is-fascinating.2824/solution.java) [TypeScript](./src/2729.check-if-the-number-is-fascinating.2824/solution.ts) | Easy  |
 | 2730 | Find the Longest Semi-Repetitive Substring | [TypeScript](./src/2730.find-the-longest-semi-repetitive-substring.2786/solution.ts) | Medium  |
 | 2731 | Movement of Robots | [TypeScript](./src/2731.movement-of-robots.2787/solution.ts) | Medium  |
 | 2732 | Find a Good Subset of the Matrix |  | Hard  |
-| 2733 | Neither Minimum nor Maximum | [TypeScript](./src/2733.neither-minimum-nor-maximum.2836/solution.ts) | Easy  |
+| 2733 | Neither Minimum nor Maximum | [Java](./src/2733.neither-minimum-nor-maximum.2836/solution.java) [TypeScript](./src/2733.neither-minimum-nor-maximum.2836/solution.ts) | Easy  |
 | 2734 | Lexicographically Smallest String After Substring Operation | [TypeScript](./src/2734.lexicographically-smallest-string-after-substring-operation.2828/solution.ts) | Medium  |
 | 2735 | Collecting Chocolates |  | Medium  |
 | 2736 | Maximum Sum Queries |  | Hard  |
@@ -2761,7 +2761,7 @@
 | 2741 | Special Permutations |  | Medium  |
 | 2742 | Painting the Walls |  | Hard  |
 | 2743 | Count Substrings Without Repeating Character |  | Medium  |
-| 2744 | Find Maximum Number of String Pairs | [TypeScript](./src/2744.find-maximum-number-of-string-pairs.2847/solution.ts) | Easy  |
+| 2744 | Find Maximum Number of String Pairs | [Java](./src/2744.find-maximum-number-of-string-pairs.2847/solution.java) [TypeScript](./src/2744.find-maximum-number-of-string-pairs.2847/solution.ts) | Easy  |
 | 2745 | Construct the Longest New String | [TypeScript](./src/2745.construct-the-longest-new-string.2850/solution.ts) | Medium  |
 | 2746 | Decremental String Concatenation |  | Medium  |
 | 2747 | Count Zero Request Servers | [TypeScript](./src/2747.count-zero-request-servers.2833/solution.ts) | Medium  |
@@ -2786,7 +2786,7 @@
 | 2766 | Relocate Marbles | [TypeScript](./src/2766.relocate-marbles.2834/solution.ts) | Medium  |
 | 2767 | Partition String Into Minimum Beautiful Substrings | [TypeScript](./src/2767.partition-string-into-minimum-beautiful-substrings.2883/solution.ts) | Medium  |
 | 2768 | Number of Black Blocks |  | Medium  |
-| 2769 | Find the Maximum Achievable Number | [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
+| 2769 | Find the Maximum Achievable Number | [Java](./src/2769.find-the-maximum-achievable-number.2812/solution.java) [TypeScript](./src/2769.find-the-maximum-achievable-number.2812/solution.ts) | Easy  |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | [TypeScript](./src/2770.maximum-number-of-jumps-to-reach-the-last-index.2855/solution.ts) | Medium  |
 | 2771 | Longest Non-decreasing Subarray From Two Arrays |  | Medium  |
 | 2772 | Apply Operations to Make All Array Elements Equal to Zero | [TypeScript](./src/2772.apply-operations-to-make-all-array-elements-equal-to-zero.2878/solution.ts) | Medium  |
@@ -2795,7 +2795,7 @@
 | 2775 | Undefined to Null |  | Medium  |
 | 2776 | Convert Callback Based Function to Promise Based Function |  | Medium  |
 | 2777 | Date Range Generator |  | Medium  |
-| 2778 | Sum of Squares of Special Elements  | [TypeScript](./src/2778.sum-of-squares-of-special-elements.2844/solution.ts) | Easy  |
+| 2778 | Sum of Squares of Special Elements  | [Java](./src/2778.sum-of-squares-of-special-elements.2844/solution.java) [TypeScript](./src/2778.sum-of-squares-of-special-elements.2844/solution.ts) | Easy  |
 | 2779 | Maximum Beauty of an Array After Applying Operation |  | Medium  |
 | 2780 | Minimum Index of a Valid Split | [TypeScript](./src/2780.minimum-index-of-a-valid-split.2888/solution.ts) | Medium  |
 | 2781 | Length of the Longest Valid Substring |  | Hard  |
@@ -2805,7 +2805,7 @@
 | 2785 | Sort Vowels in a String | [TypeScript](./src/2785.sort-vowels-in-a-string.2887/solution.ts) | Medium  |
 | 2786 | Visit Array Positions to Maximize Score | [TypeScript](./src/2786.visit-array-positions-to-maximize-score.2893/solution.ts) | Medium  |
 | 2787 | Ways to Express an Integer as Sum of Powers | [TypeScript](./src/2787.ways-to-express-an-integer-as-sum-of-powers.2882/solution.ts) | Medium  |
-| 2788 | Split Strings by Separator | [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
+| 2788 | Split Strings by Separator | [Java](./src/2788.split-strings-by-separator.2881/solution.java) [TypeScript](./src/2788.split-strings-by-separator.2881/solution.ts) | Easy  |
 | 2789 | Largest Element in an Array after Merge Operations | [TypeScript](./src/2789.largest-element-in-an-array-after-merge-operations.2872/solution.ts) | Medium  |
 | 2790 | Maximum Number of Groups With Increasing Length |  | Hard  |
 | 2791 | Count Paths That Can Form a Palindrome in a Tree |  | Hard  |
@@ -2815,7 +2815,7 @@
 | 2795 | Parallel Execution of Promises for Individual Results Retrieval |  | Medium  |
 | 2796 | Repeat String |  | Easy  |
 | 2797 | Partial Function with Placeholders |  | Easy  |
-| 2798 | Number of Employees Who Met the Target | [TypeScript](./src/2798.number-of-employees-who-met-the-target.2876/solution.ts) | Easy  |
+| 2798 | Number of Employees Who Met the Target | [Java](./src/2798.number-of-employees-who-met-the-target.2876/solution.java) [TypeScript](./src/2798.number-of-employees-who-met-the-target.2876/solution.ts) | Easy  |
 | 2799 | Count Complete Subarrays in an Array | [TypeScript](./src/2799.count-complete-subarrays-in-an-array.2856/solution.ts) | Medium  |
 | 2800 | Shortest String That Contains Three Strings |  | Medium  |
 | 2801 | Count Stepping Numbers in Range |  | Hard  |
@@ -2845,12 +2845,12 @@
 | 2825 | Make String a Subsequence Using Cyclic Increments |  | Medium  |
 | 2826 | Sorting Three Groups | [TypeScript](./src/2826.sorting-three-groups.2904/solution.ts) | Medium  |
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
-| 2828 | Check if a String Is an Acronym of Words | [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
+| 2828 | Check if a String Is an Acronym of Words | [Java](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.java) [TypeScript](./src/2828.check-if-a-string-is-an-acronym-of-words.2977/solution.ts) | Easy  |
 | 2829 | Determine the Minimum Sum of a k-avoiding Array | [TypeScript](./src/2829.determine-the-minimum-sum-of-a-k-avoiding-array.2811/solution.ts) | Medium  |
 | 2830 | Maximize the Profit as the Salesman | [TypeScript](./src/2830.maximize-the-profit-as-the-salesman.2979/solution.ts) | Medium  |
 | 2831 | Find the Longest Equal Subarray |  | Medium  |
 | 2832 | Maximal Range That Each Element Is Maximum in It |  | Medium  |
-| 2833 | Furthest Point From Origin | [TypeScript](./src/2833.furthest-point-from-origin.3019/solution.ts) | Easy  |
+| 2833 | Furthest Point From Origin | [Java](./src/2833.furthest-point-from-origin.3019/solution.java) [TypeScript](./src/2833.furthest-point-from-origin.3019/solution.ts) | Easy  |
 | 2834 | Find the Minimum Possible Sum of a Beautiful Array | [TypeScript](./src/2834.find-the-minimum-possible-sum-of-a-beautiful-array.3026/solution.ts) | Medium  |
 | 2835 | Minimum Operations to Form Subsequence With Target Sum |  | Hard  |
 | 2836 | Maximize Value of Function in a Ball Passing Game |  | Hard  |
@@ -2876,12 +2876,12 @@
 | 2856 | Minimum Array Length After Pair Removals | [TypeScript](./src/2856.minimum-array-length-after-pair-removals.3081/solution.ts) | Medium  |
 | 2857 | Count Pairs of Points With Distance k |  | Medium  |
 | 2858 | Minimum Edge Reversals So Every Node Is Reachable |  | Hard  |
-| 2859 | Sum of Values at Indices With K Set Bits | [TypeScript](./src/2859.sum-of-values-at-indices-with-k-set-bits.3093/solution.ts) | Easy  |
+| 2859 | Sum of Values at Indices With K Set Bits | [Java](./src/2859.sum-of-values-at-indices-with-k-set-bits.3093/solution.java) [TypeScript](./src/2859.sum-of-values-at-indices-with-k-set-bits.3093/solution.ts) | Easy  |
 | 2860 | Happy Students |  | Medium  |
 | 2861 | Maximum Number of Alloys |  | Medium  |
 | 2862 | Maximum Element-Sum of a Complete Subset of Indices |  | Hard  |
 | 2863 | Maximum Length of Semi-Decreasing Subarrays |  | Medium  |
-| 2864 | Maximum Odd Binary Number | [TypeScript](./src/2864.maximum-odd-binary-number.3055/solution.ts) | Easy  |
+| 2864 | Maximum Odd Binary Number | [Java](./src/2864.maximum-odd-binary-number.3055/solution.java) [TypeScript](./src/2864.maximum-odd-binary-number.3055/solution.ts) | Easy  |
 | 2865 | Beautiful Towers I | [TypeScript](./src/2865.beautiful-towers-i.3114/solution.ts) | Medium  |
 | 2866 | Beautiful Towers II | [TypeScript](./src/2866.beautiful-towers-ii.3113/solution.ts) | Medium  |
 | 2867 | Count Valid Paths in a Tree |  | Hard  |
@@ -2911,7 +2911,7 @@
 | 2891 | Method Chaining |  | Easy  |
 | 2892 | Minimizing Array After Replacing Pairs With Their Product |  | Medium  |
 | 2893 | Calculate Orders Within Each Interval |  | Medium  |
-| 2894 | Divisible and Non-divisible Sums Difference | [TypeScript](./src/2894.divisible-and-non-divisible-sums-difference.3172/solution.ts) | Easy  |
+| 2894 | Divisible and Non-divisible Sums Difference | [Java](./src/2894.divisible-and-non-divisible-sums-difference.3172/solution.java) [TypeScript](./src/2894.divisible-and-non-divisible-sums-difference.3172/solution.ts) | Easy  |
 | 2895 | Minimum Processing Time | [TypeScript](./src/2895.minimum-processing-time.3151/solution.ts) | Medium  |
 | 2896 | Apply Operations to Make Two Strings Equal |  | Medium  |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares |  | Hard  |
@@ -2934,7 +2934,7 @@
 | 2914 | Minimum Number of Changes to Make Binary String Beautiful | [TypeScript](./src/2914.minimum-number-of-changes-to-make-binary-string-beautiful.3174/solution.ts) | Medium  |
 | 2915 | Length of the Longest Subsequence That Sums to Target | [TypeScript](./src/2915.length-of-the-longest-subsequence-that-sums-to-target.3106/solution.ts) | Medium  |
 | 2916 | Subarrays Distinct Element Sum of Squares II |  | Hard  |
-| 2917 | Find the K-or of an Array | [TypeScript](./src/2917.find-the-k-or-of-an-array.3183/solution.ts) | Easy  |
+| 2917 | Find the K-or of an Array | [Java](./src/2917.find-the-k-or-of-an-array.3183/solution.java) [TypeScript](./src/2917.find-the-k-or-of-an-array.3183/solution.ts) | Easy  |
 | 2918 | Minimum Equal Sum of Two Arrays After Replacing Zeros | [TypeScript](./src/2918.minimum-equal-sum-of-two-arrays-after-replacing-zeros.3171/solution.ts) | Medium  |
 | 2919 | Minimum Increment Operations to Make Array Beautiful |  | Medium  |
 | 2920 | Maximum Points After Collecting Coins From All Nodes |  | Hard  |
@@ -2959,7 +2959,7 @@
 | 2939 | Maximum Xor Product |  | Medium  |
 | 2940 | Find Building Where Alice and Bob Can Meet | [TypeScript](./src/2940.find-building-where-alice-and-bob-can-meet.3181/solution.ts) | Hard  |
 | 2941 | Maximum GCD-Sum of a Subarray |  | Hard  |
-| 2942 | Find Words Containing Character | [TypeScript](./src/2942.find-words-containing-character.3194/solution.ts) | Easy  |
+| 2942 | Find Words Containing Character | [Java](./src/2942.find-words-containing-character.3194/solution.java) [TypeScript](./src/2942.find-words-containing-character.3194/solution.ts) | Easy  |
 | 2943 | Maximize Area of Square Hole in Grid | [TypeScript](./src/2943.maximize-area-of-square-hole-in-grid.3214/solution.ts) | Medium  |
 | 2944 | Minimum Number of Coins for Fruits |  | Medium  |
 | 2945 | Find Maximum Non-decreasing Array Length |  | Hard  |
@@ -2968,21 +2968,21 @@
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements |  | Medium  |
 | 2949 | Count Beautiful Substrings II | [TypeScript](./src/2949.count-beautiful-substrings-ii.3208/solution.ts) | Hard  |
 | 2950 | Number of Divisible Substrings |  | Medium  |
-| 2951 | Find the Peaks | [TypeScript](./src/2951.find-the-peaks.3221/solution.ts) | Easy  |
+| 2951 | Find the Peaks | [Java](./src/2951.find-the-peaks.3221/solution.java) [TypeScript](./src/2951.find-the-peaks.3221/solution.ts) | Easy  |
 | 2952 | Minimum Number of Coins to be Added |  | Medium  |
 | 2953 | Count Complete Substrings |  | Hard  |
 | 2954 | Count the Number of Infection Sequences |  | Hard  |
 | 2955 | Number of Same-End Substrings |  | Medium  |
-| 2956 | Find Common Elements Between Two Arrays | [TypeScript](./src/2956.find-common-elements-between-two-arrays.3206/solution.ts) | Easy  |
+| 2956 | Find Common Elements Between Two Arrays | [Java](./src/2956.find-common-elements-between-two-arrays.3206/solution.java) [TypeScript](./src/2956.find-common-elements-between-two-arrays.3206/solution.ts) | Easy  |
 | 2957 | Remove Adjacent Almost-Equal Characters | [TypeScript](./src/2957.remove-adjacent-almost-equal-characters.3230/solution.ts) | Medium  |
 | 2958 | Length of Longest Subarray With at Most K Frequency | [TypeScript](./src/2958.length-of-longest-subarray-with-at-most-k-frequency.3225/solution.ts) | Medium  |
 | 2959 | Number of Possible Sets of Closing Branches |  | Hard  |
-| 2960 | Count Tested Devices After Test Operations | [TypeScript](./src/2960.count-tested-devices-after-test-operations.3220/solution.ts) | Easy  |
+| 2960 | Count Tested Devices After Test Operations | [Java](./src/2960.count-tested-devices-after-test-operations.3220/solution.java) [TypeScript](./src/2960.count-tested-devices-after-test-operations.3220/solution.ts) | Easy  |
 | 2961 | Double Modular Exponentiation | [TypeScript](./src/2961.double-modular-exponentiation.3234/solution.ts) | Medium  |
 | 2962 | Count Subarrays Where Max Element Appears at Least K Times | [TypeScript](./src/2962.count-subarrays-where-max-element-appears-at-least-k-times.3213/solution.ts) | Medium  |
 | 2963 | Count the Number of Good Partitions |  | Hard  |
 | 2964 | Number of Divisible Triplet Sums |  | Medium  |
-| 2965 | Find Missing and Repeated Values | [TypeScript](./src/2965.find-missing-and-repeated-values.3227/solution.ts) | Easy  |
+| 2965 | Find Missing and Repeated Values | [Java](./src/2965.find-missing-and-repeated-values.3227/solution.java) [TypeScript](./src/2965.find-missing-and-repeated-values.3227/solution.ts) | Easy  |
 | 2966 | Divide Array Into Arrays With Max Difference | [TypeScript](./src/2966.divide-array-into-arrays-with-max-difference.3241/solution.ts) | Medium  |
 | 2967 | Minimum Cost to Make Array Equalindromic | [TypeScript](./src/2967.minimum-cost-to-make-array-equalindromic.3229/solution.ts) | Medium  |
 | 2968 | Apply Operations to Maximize Frequency Score |  | Hard  |
@@ -2991,13 +2991,13 @@
 | 2971 | Find Polygon With the Largest Perimeter | [TypeScript](./src/2971.find-polygon-with-the-largest-perimeter.3262/solution.ts) | Medium  |
 | 2972 | Count the Number of Incremovable Subarrays II |  | Hard  |
 | 2973 | Find Number of Coins to Place in Tree Nodes |  | Hard  |
-| 2974 | Minimum Number Game | [TypeScript](./src/2974.minimum-number-game.3226/solution.ts) | Easy  |
+| 2974 | Minimum Number Game | [Java](./src/2974.minimum-number-game.3226/solution.java) [TypeScript](./src/2974.minimum-number-game.3226/solution.ts) | Easy  |
 | 2975 | Maximum Square Area by Removing Fences From a Field | [TypeScript](./src/2975.maximum-square-area-by-removing-fences-from-a-field.3250/solution.ts) | Medium  |
 | 2976 | Minimum Cost to Convert String I | [TypeScript](./src/2976.minimum-cost-to-convert-string-i.3235/solution.ts) | Medium  |
 | 2977 | Minimum Cost to Convert String II |  | Hard  |
 | 2978 | Symmetric Coordinates |  | Medium  |
 | 2979 | Most Expensive Item That Can Not Be Bought |  | Medium  |
-| 2980 | Check if Bitwise OR Has Trailing Zeros | [TypeScript](./src/2980.check-if-bitwise-or-has-trailing-zeros.3246/solution.ts) | Easy  |
+| 2980 | Check if Bitwise OR Has Trailing Zeros | [Java](./src/2980.check-if-bitwise-or-has-trailing-zeros.3246/solution.java) [TypeScript](./src/2980.check-if-bitwise-or-has-trailing-zeros.3246/solution.ts) | Easy  |
 | 2981 | Find Longest Special Substring That Occurs Thrice I | [TypeScript](./src/2981.find-longest-special-substring-that-occurs-thrice-i.3267/solution.ts) | Medium  |
 | 2982 | Find Longest Special Substring That Occurs Thrice II | [TypeScript](./src/2982.find-longest-special-substring-that-occurs-thrice-ii.3266/solution.ts) | Medium  |
 | 2983 | Palindrome Rearrangement Queries | [TypeScript](./src/2983.palindrome-rearrangement-queries.3203/solution.ts) | Hard  |
@@ -3184,7 +3184,7 @@
 | LCR141 | 训练计划 III |  | Easy  |
 | LCR142 | 训练计划 IV |  | Easy  |
 | LCR143 | 子结构判断 |  | Medium  |
-| LCR144 | 翻转二叉树 |  | Easy  |
+| LCR144 | 翻转二叉树 | [Java](./src/LCR144.er-cha-shu-de-jing-xiang-lcof.100288/solution.java) | Easy  |
 | LCR145 | 判断对称二叉树 |  | Easy  |
 | LCR146 | 螺旋遍历二维数组 |  | Easy  |
 | LCR147 | 最小栈 |  | Easy  |
