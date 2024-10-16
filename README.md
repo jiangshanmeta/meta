@@ -3163,7 +3163,7 @@
 | LCR120 | 寻找文件副本 |  | Easy  |
 | LCR121 | 寻找目标值 - 二维数组 |  | Medium  |
 | LCR122 | 路径加密 |  | Easy  |
-| LCR123 | 图书整理 I |  | Easy  |
+| LCR123 | 图书整理 I | [Java](./src/LCR123.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.java) | Easy  |
 | LCR124 | 推理二叉树 |  | Medium  |
 | LCR125 | 图书整理 II |  | Easy  |
 | LCR126 | 斐波那契数 |  | Easy  |
@@ -3173,19 +3173,19 @@
 | LCR130 | 衣橱整理 |  | Medium  |
 | LCR131 | 砍竹子 I |  | Medium  |
 | LCR132 | 砍竹子 II |  | Medium  |
-| LCR133 | 位 1 的个数 |  | Easy  |
+| LCR133 | 位 1 的个数 | [Java](./src/LCR133.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.java) | Easy  |
 | LCR134 | Pow(x, n) |  | Medium  |
 | LCR135 | 报数 |  | Easy  |
-| LCR136 | 删除链表的节点 |  | Easy  |
+| LCR136 | 删除链表的节点 | [Java](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.java) | Easy  |
 | LCR137 | 模糊搜索验证 |  | Hard  |
 | LCR138 | 有效数字 | [TypeScript](./src/LCR138.biao-shi-shu-zhi-de-zi-fu-chuan-lcof.100290/solution.ts) | Medium  |
-| LCR139 | 训练计划 I |  | Easy  |
+| LCR139 | 训练计划 I | [Java](./src/LCR139.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.java) | Easy  |
 | LCR140 | 训练计划 II |  | Easy  |
 | LCR141 | 训练计划 III |  | Easy  |
 | LCR142 | 训练计划 IV |  | Easy  |
 | LCR143 | 子结构判断 |  | Medium  |
 | LCR144 | 翻转二叉树 | [Java](./src/LCR144.er-cha-shu-de-jing-xiang-lcof.100288/solution.java) | Easy  |
-| LCR145 | 判断对称二叉树 |  | Easy  |
+| LCR145 | 判断对称二叉树 | [Java](./src/LCR145.dui-cheng-de-er-cha-shu-lcof.100289/solution.java) | Easy  |
 | LCR146 | 螺旋遍历二维数组 |  | Easy  |
 | LCR147 | 最小栈 |  | Easy  |
 | LCR148 | 验证图书取出顺序 |  | Medium  |
