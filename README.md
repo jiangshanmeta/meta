@@ -538,7 +538,7 @@
 | 0518 | Coin Change II | [JavaScript](./src/0518.coin-change-ii.518/solution.js) [TypeScript](./src/0518.coin-change-ii.518/solution.ts) | Medium  |
 | 0519 | Random Flip Matrix | [JavaScript](./src/0519.random-flip-matrix.913/solution.js) | Medium  |
 | 0520 | Detect Capital | [JavaScript](./src/0520.detect-capital.520/solution.js) [TypeScript](./src/0520.detect-capital.520/solution.ts) | Easy  |
-| 0521 | Longest Uncommon Subsequence I | [JavaScript](./src/0521.longest-uncommon-subsequence-i.521/solution.js) [TypeScript](./src/0521.longest-uncommon-subsequence-i.521/solution.ts) | Easy  |
+| 0521 | Longest Uncommon Subsequence I | [Java](./src/0521.longest-uncommon-subsequence-i.521/solution.java) [JavaScript](./src/0521.longest-uncommon-subsequence-i.521/solution.js) [TypeScript](./src/0521.longest-uncommon-subsequence-i.521/solution.ts) | Easy  |
 | 0522 | Longest Uncommon Subsequence II | [JavaScript](./src/0522.longest-uncommon-subsequence-ii.522/solution.js) | Medium  |
 | 0523 | Continuous Subarray Sum | [JavaScript](./src/0523.continuous-subarray-sum.523/solution.js) | Medium  |
 | 0524 | Longest Word in Dictionary through Deleting | [JavaScript](./src/0524.longest-word-in-dictionary-through-deleting.524/solution.js) | Medium  |
@@ -3160,7 +3160,7 @@
 | LCP80 | 生物进化录 |  | Hard  |
 | LCP81 | 与非的谜题 |  | Hard  |
 | LCP82 | 万灵之树 |  | Hard  |
-| LCR120 | 寻找文件副本 |  | Easy  |
+| LCR120 | 寻找文件副本 | [Java](./src/LCR120.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.java) | Easy  |
 | LCR121 | 寻找目标值 - 二维数组 |  | Medium  |
 | LCR122 | 路径加密 |  | Easy  |
 | LCR123 | 图书整理 I | [Java](./src/LCR123.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.java) | Easy  |
@@ -3364,13 +3364,13 @@
 | LCR015 | 找到字符串中所有字母异位词 |  | Medium  |
 | LCR016 | 无重复字符的最长子串 |  | Medium  |
 | LCR017 | 最小覆盖子串 | [JavaScript](./src/LCR017.M1oyTv.1000253/solution.js) | Hard  |
-| LCR018 | 验证回文串 |  | Easy  |
+| LCR018 | 验证回文串 | [Java](./src/LCR018.XltzEq.1000254/solution.java) | Easy  |
 | LCR019 | 验证回文串 II |  | Easy  |
 | LCR020 | 回文子串 | [TypeScript](./src/LCR020.a7VOhD.1000256/solution.ts) | Medium  |
 | LCR021 | 删除链表的倒数第 N 个结点 |  | Medium  |
 | LCR022 | 环形链表 II |  | Medium  |
-| LCR023 | 相交链表 |  | Easy  |
-| LCR024 | 反转链表 |  | Easy  |
+| LCR023 | 相交链表 | [Java](./src/LCR023.3u1WK4.1000259/solution.java) | Easy  |
+| LCR024 | 反转链表 | [Java](./src/LCR024.UHnkqh.1000260/solution.java) | Easy  |
 | LCR025 | 两数相加 II |  | Medium  |
 | LCR026 | 重排链表 |  | Medium  |
 | LCR027 | 回文链表 |  | Easy  |
