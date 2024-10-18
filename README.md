@@ -788,7 +788,7 @@
 | 0768 | Max Chunks To Make Sorted II | [JavaScript](./src/0768.max-chunks-to-make-sorted-ii.779/solution.js) | Hard  |
 | 0769 | Max Chunks To Make Sorted | [JavaScript](./src/0769.max-chunks-to-make-sorted.780/solution.js) | Medium  |
 | 0770 | Basic Calculator IV |  | Hard  |
-| 0771 | Jewels and Stones | [JavaScript](./src/0771.jewels-and-stones.782/solution.js) [TypeScript](./src/0771.jewels-and-stones.782/solution.ts) | Easy  |
+| 0771 | Jewels and Stones | [Java](./src/0771.jewels-and-stones.782/solution.java) [JavaScript](./src/0771.jewels-and-stones.782/solution.js) [TypeScript](./src/0771.jewels-and-stones.782/solution.ts) | Easy  |
 | 0772 | Basic Calculator III |  | Hard  |
 | 0773 | Sliding Puzzle |  | Hard  |
 | 0774 | Minimize Max Distance to Gas Station |  | Hard  |
@@ -1238,7 +1238,7 @@
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [JavaScript](./src/1218.longest-arithmetic-subsequence-of-given-difference.1330/solution.js) | Medium  |
 | 1219 | Path with Maximum Gold | [JavaScript](./src/1219.path-with-maximum-gold.1331/solution.js) | Medium  |
 | 1220 | Count Vowels Permutation | [JavaScript](./src/1220.count-vowels-permutation.1332/solution.js) | Hard  |
-| 1221 | Split a String in Balanced Strings | [JavaScript](./src/1221.split-a-string-in-balanced-strings.1341/solution.js) [TypeScript](./src/1221.split-a-string-in-balanced-strings.1341/solution.ts) | Easy  |
+| 1221 | Split a String in Balanced Strings | [Java](./src/1221.split-a-string-in-balanced-strings.1341/solution.java) [JavaScript](./src/1221.split-a-string-in-balanced-strings.1341/solution.js) [TypeScript](./src/1221.split-a-string-in-balanced-strings.1341/solution.ts) | Easy  |
 | 1222 | Queens That Can Attack the King | [JavaScript](./src/1222.queens-that-can-attack-the-king.1342/solution.js) | Medium  |
 | 1223 | Dice Roll Simulation |  | Hard  |
 | 1224 | Maximum Equal Frequency |  | Hard  |
@@ -1448,7 +1448,7 @@
 | 1428 | Leftmost Column with at Least a One | [JavaScript](./src/1428.leftmost-column-with-at-least-a-one.1374/solution.js) | Medium  |
 | 1429 | First Unique Number | [JavaScript](./src/1429.first-unique-number.1366/solution.js) | Medium  |
 | 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [JavaScript](./src/1430.check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree.1432/solution.js) | Medium  |
-| 1431 | Kids With the Greatest Number of Candies | [JavaScript](./src/1431.kids-with-the-greatest-number-of-candies.1528/solution.js) [TypeScript](./src/1431.kids-with-the-greatest-number-of-candies.1528/solution.ts) | Easy  |
+| 1431 | Kids With the Greatest Number of Candies | [Java](./src/1431.kids-with-the-greatest-number-of-candies.1528/solution.java) [JavaScript](./src/1431.kids-with-the-greatest-number-of-candies.1528/solution.js) [TypeScript](./src/1431.kids-with-the-greatest-number-of-candies.1528/solution.ts) | Easy  |
 | 1432 | Max Difference You Can Get From Changing an Integer | [JavaScript](./src/1432.max-difference-you-can-get-from-changing-an-integer.1529/solution.js) | Medium  |
 | 1433 | Check If a String Can Break Another String | [JavaScript](./src/1433.check-if-a-string-can-break-another-string.1530/solution.js) | Medium  |
 | 1434 | Number of Ways to Wear Different Hats to Each Other |  | Hard  |
@@ -3083,7 +3083,7 @@
 | LCP03 | Programmable Robot |  | Medium  |
 | LCP04 | Broken Board Dominoes |  | Hard  |
 | LCP05 | Coin Bonus |  | Hard  |
-| LCP06 | 拿硬币 | [JavaScript](./src/LCP06.na-ying-bi.1000056/solution.js) [TypeScript](./src/LCP06.na-ying-bi.1000056/solution.ts) | Easy  |
+| LCP06 | 拿硬币 | [Java](./src/LCP06.na-ying-bi.1000056/solution.java) [JavaScript](./src/LCP06.na-ying-bi.1000056/solution.js) [TypeScript](./src/LCP06.na-ying-bi.1000056/solution.ts) | Easy  |
 | LCP07 | 传递信息 |  | Easy  |
 | LCP08 | 剧情触发时间 |  | Medium  |
 | LCP09 | 最小跳跃次数 |  | Hard  |
@@ -3162,7 +3162,7 @@
 | LCP82 | 万灵之树 |  | Hard  |
 | LCR120 | 寻找文件副本 | [Java](./src/LCR120.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.100275/solution.java) | Easy  |
 | LCR121 | 寻找目标值 - 二维数组 |  | Medium  |
-| LCR122 | 路径加密 |  | Easy  |
+| LCR122 | 路径加密 | [Java](./src/LCR122.ti-huan-kong-ge-lcof.100280/solution.java) | Easy  |
 | LCR123 | 图书整理 I | [Java](./src/LCR123.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.java) | Easy  |
 | LCR124 | 推理二叉树 |  | Medium  |
 | LCR125 | 图书整理 II |  | Easy  |
