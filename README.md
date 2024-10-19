@@ -2838,7 +2838,7 @@
 | 2818 | Apply Operations to Maximize Score |  | Hard  |
 | 2819 | Minimum Relative Loss After Buying Chocolates |  | Hard  |
 | 2820 | Election Results |  | Medium  |
-| 2821 | Delay the Resolution of Each Promise |  | Easy  |
+| 2821 | Delay the Resolution of Each Promise |  | Medium  |
 | 2822 | Inversion of Object |  | Easy  |
 | 2823 | Deep Object Filter |  | Medium  |
 | 2824 | Count Pairs Whose Sum is Less than Target | [TypeScript](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.ts) | Easy  |
@@ -3067,17 +3067,280 @@
 | 3047 | Find the Largest Area of Square Inside Two Rectangles |  | Medium  |
 | 3048 | Earliest Second to Mark Indices I |  | Medium  |
 | 3049 | Earliest Second to Mark Indices II |  | Hard  |
-| 100173 | Pizza Toppings Cost Analysis |  | Medium  |
-| 100174 | Find Candidates for Data Scientist Position |  | Easy  |
-| 100175 | Maximize Items |  | Hard  |
-| 100176 | Classifying Triangles by Lengths |  | Easy  |
-| 100177 | Binary Tree Nodes |  | Medium  |
-| 100238 | Top Percentile Fraud |  | Medium  |
-| 100239 | Snaps Analysis |  | Medium  |
-| 100252 | Employees Project Allocation |  | Hard  |
-| 100253 | Friends With No Mutual Friends |  | Medium  |
-| 100260 | Find All Unique Email Domains |  | Easy  |
-| 100261 | User Activities within Time Bounds |  | Hard  |
+| 3050 | Pizza Toppings Cost Analysis |  | Medium  |
+| 3051 | Find Candidates for Data Scientist Position |  | Easy  |
+| 3052 | Maximize Items |  | Hard  |
+| 3053 | Classifying Triangles by Lengths |  | Easy  |
+| 3054 | Binary Tree Nodes |  | Medium  |
+| 3055 | Top Percentile Fraud |  | Medium  |
+| 3056 | Snaps Analysis |  | Medium  |
+| 3057 | Employees Project Allocation |  | Hard  |
+| 3058 | Friends With No Mutual Friends |  | Medium  |
+| 3059 | Find All Unique Email Domains |  | Easy  |
+| 3060 | User Activities within Time Bounds |  | Hard  |
+| 3061 | Calculate Trapping Rain Water |  | Hard  |
+| 3062 | Winner of the Linked List Game |  | Easy  |
+| 3063 | Linked List Frequency |  | Easy  |
+| 3064 | Guess the Number Using Bitwise Questions I |  | Medium  |
+| 3065 | Minimum Operations to Exceed Threshold Value I |  | Easy  |
+| 3066 | Minimum Operations to Exceed Threshold Value II |  | Medium  |
+| 3067 | Count Pairs of Connectable Servers in a Weighted Tree Network |  | Medium  |
+| 3068 | Find the Maximum Sum of Node Values |  | Hard  |
+| 3069 | Distribute Elements Into Two Arrays I |  | Easy  |
+| 3070 | Count Submatrices with Top-Left Element and Sum Less Than k |  | Medium  |
+| 3071 | Minimum Operations to Write the Letter Y on a Grid |  | Medium  |
+| 3072 | Distribute Elements Into Two Arrays II |  | Hard  |
+| 3073 | Maximum Increasing Triplet Value |  | Medium  |
+| 3074 | Apple Redistribution into Boxes |  | Easy  |
+| 3075 | Maximize Happiness of Selected Children |  | Medium  |
+| 3076 | Shortest Uncommon Substring in an Array |  | Medium  |
+| 3077 | Maximum Strength of K Disjoint Subarrays |  | Hard  |
+| 3078 | Match Alphanumerical Pattern in Matrix I |  | Medium  |
+| 3079 | Find the Sum of Encrypted Integers |  | Easy  |
+| 3080 | Mark Elements on Array by Performing Queries |  | Medium  |
+| 3081 | Replace Question Marks in String to Minimize Its Value |  | Medium  |
+| 3082 | Find the Sum of the Power of All Subsequences |  | Hard  |
+| 3083 | Existence of a Substring in a String and Its Reverse |  | Easy  |
+| 3084 | Count Substrings Starting and Ending with Given Character |  | Medium  |
+| 3085 | Minimum Deletions to Make String K-Special |  | Medium  |
+| 3086 | Minimum Moves to Pick K Ones |  | Hard  |
+| 3087 | Find Trending Hashtags |  | Medium  |
+| 3088 | Make String Anti-palindrome |  | Hard  |
+| 3089 | Find Bursty Behavior |  | Medium  |
+| 3090 | Maximum Length Substring With Two Occurrences |  | Easy  |
+| 3091 | Apply Operations to Make Sum of Array Greater Than or Equal to k |  | Medium  |
+| 3092 | Most Frequent IDs |  | Medium  |
+| 3093 | Longest Common Suffix Queries |  | Hard  |
+| 3094 | Guess the Number Using Bitwise Questions II |  | Medium  |
+| 3095 | Shortest Subarray With OR at Least K I |  | Easy  |
+| 3096 | Minimum Levels to Gain More Points |  | Medium  |
+| 3097 | Shortest Subarray With OR at Least K II |  | Medium  |
+| 3098 | Find the Sum of Subsequence Powers |  | Hard  |
+| 3099 | Harshad Number |  | Easy  |
+| 3100 | Water Bottles II |  | Medium  |
+| 3101 | Count Alternating Subarrays |  | Medium  |
+| 3102 | Minimize Manhattan Distances |  | Hard  |
+| 3103 | Find Trending Hashtags II  |  | Hard  |
+| 3104 | Find Longest Self-Contained Substring |  | Hard  |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray |  | Easy  |
+| 3106 | Lexicographically Smallest String After Operations With Constraint |  | Medium  |
+| 3107 | Minimum Operations to Make Median of Array Equal to K |  | Medium  |
+| 3108 | Minimum Cost Walk in Weighted Graph |  | Hard  |
+| 3109 | Find the Index of Permutation |  | Medium  |
+| 3110 | Score of a String |  | Easy  |
+| 3111 | Minimum Rectangles to Cover Points |  | Medium  |
+| 3112 | Minimum Time to Visit Disappearing Nodes |  | Medium  |
+| 3113 | Find the Number of Subarrays Where Boundary Elements Are Maximum |  | Hard  |
+| 3114 | Latest Time You Can Obtain After Replacing Characters |  | Easy  |
+| 3115 | Maximum Prime Difference |  | Medium  |
+| 3116 | Kth Smallest Amount With Single Denomination Combination |  | Hard  |
+| 3117 | Minimum Sum of Values by Dividing Array |  | Hard  |
+| 3118 | Friday Purchase III  |  | Medium  |
+| 3119 | Maximum Number of Potholes That Can Be Fixed |  | Medium  |
+| 3120 | Count the Number of Special Characters I |  | Easy  |
+| 3121 | Count the Number of Special Characters II |  | Medium  |
+| 3122 | Minimum Number of Operations to Satisfy Conditions |  | Medium  |
+| 3123 | Find Edges in Shortest Paths |  | Hard  |
+| 3124 | Find Longest Calls |  | Medium  |
+| 3125 | Maximum Number That Makes Result of Bitwise AND Zero |  | Medium  |
+| 3126 | Server Utilization Time |  | Medium  |
+| 3127 | Make a Square with the Same Color |  | Easy  |
+| 3128 | Right Triangles |  | Medium  |
+| 3129 | Find All Possible Stable Binary Arrays I |  | Medium  |
+| 3130 | Find All Possible Stable Binary Arrays II |  | Hard  |
+| 3131 | Find the Integer Added to Array I |  | Easy  |
+| 3132 | Find the Integer Added to Array II |  | Medium  |
+| 3133 | Minimum Array End |  | Medium  |
+| 3134 | Find the Median of the Uniqueness Array |  | Hard  |
+| 3135 | Equalize Strings by Adding or Removing Characters at Ends |  | Medium  |
+| 3136 | Valid Word |  | Easy  |
+| 3137 | Minimum Number of Operations to Make Word K-Periodic |  | Medium  |
+| 3138 | Minimum Length of Anagram Concatenation |  | Medium  |
+| 3139 | Minimum Cost to Equalize Array |  | Hard  |
+| 3140 | Consecutive Available Seats II |  | Medium  |
+| 3141 | Maximum Hamming Distances |  | Hard  |
+| 3142 | Check if Grid Satisfies Conditions |  | Easy  |
+| 3143 | Maximum Points Inside the Square |  | Medium  |
+| 3144 | Minimum Substring Partition of Equal Character Frequency |  | Medium  |
+| 3145 | Find Products of Elements of Big Array |  | Hard  |
+| 3146 | Permutation Difference between Two Strings |  | Easy  |
+| 3147 | Taking Maximum Energy From the Mystic Dungeon |  | Medium  |
+| 3148 | Maximum Difference Score in a Grid |  | Medium  |
+| 3149 | Find the Minimum Cost Array Permutation |  | Hard  |
+| 3150 | Invalid Tweets II |  | Easy  |
+| 3151 | Special Array I |  | Easy  |
+| 3152 | Special Array II |  | Medium  |
+| 3153 | Sum of Digit Differences of All Pairs |  | Medium  |
+| 3154 | Find Number of Ways to Reach the K-th Stair |  | Hard  |
+| 3155 | Maximum Number of Upgradable Servers |  | Medium  |
+| 3156 | Employee Task Duration and Concurrent Tasks |  | Hard  |
+| 3157 | Find the Level of Tree with Minimum Sum |  | Medium  |
+| 3158 | Find the XOR of Numbers Which Appear Twice |  | Easy  |
+| 3159 | Find Occurrences of an Element in an Array |  | Medium  |
+| 3160 | Find the Number of Distinct Colors Among the Balls |  | Medium  |
+| 3161 | Block Placement Queries |  | Hard  |
+| 3162 | Find the Number of Good Pairs I |  | Easy  |
+| 3163 | String Compression III |  | Medium  |
+| 3164 | Find the Number of Good Pairs II |  | Medium  |
+| 3165 | Maximum Sum of Subsequence With Non-adjacent Elements |  | Hard  |
+| 3166 | Calculate Parking Fees and Duration |  | Medium  |
+| 3167 | Better Compression of String |  | Medium  |
+| 3168 | Minimum Number of Chairs in a Waiting Room |  | Easy  |
+| 3169 | Count Days Without Meetings |  | Medium  |
+| 3170 | Lexicographically Minimum String After Removing Stars |  | Medium  |
+| 3171 | Find Subarray With Bitwise OR Closest to K |  | Hard  |
+| 3172 | Second Day Verification |  | Easy  |
+| 3173 | Bitwise OR of Adjacent Elements |  | Easy  |
+| 3174 | Clear Digits |  | Easy  |
+| 3175 | Find The First Player to win K Games in a Row |  | Medium  |
+| 3176 | Find the Maximum Length of a Good Subsequence I |  | Medium  |
+| 3177 | Find the Maximum Length of a Good Subsequence II |  | Hard  |
+| 3178 | Find the Child Who Has the Ball After K Seconds |  | Easy  |
+| 3179 | Find the N-th Value After K Seconds |  | Medium  |
+| 3180 | Maximum Total Reward Using Operations I |  | Medium  |
+| 3181 | Maximum Total Reward Using Operations II |  | Hard  |
+| 3182 | Find Top Scoring Students |  | Medium  |
+| 3183 | The Number of Ways to Make the Sum |  | Medium  |
+| 3184 | Count Pairs That Form a Complete Day I |  | Easy  |
+| 3185 | Count Pairs That Form a Complete Day II |  | Medium  |
+| 3186 | Maximum Total Damage With Spell Casting |  | Medium  |
+| 3187 | Peaks in Array |  | Hard  |
+| 3188 | Find Top Scoring Students II |  | Hard  |
+| 3189 | Minimum Moves to Get a Peaceful Board |  | Medium  |
+| 3190 | Find Minimum Operations to Make All Elements Divisible by Three |  | Easy  |
+| 3191 | Minimum Operations to Make Binary Array Elements Equal to One I |  | Medium  |
+| 3192 | Minimum Operations to Make Binary Array Elements Equal to One II |  | Medium  |
+| 3193 | Count the Number of Inversions |  | Hard  |
+| 3194 | Minimum Average of Smallest and Largest Elements |  | Easy  |
+| 3195 | Find the Minimum Area to Cover All Ones I |  | Medium  |
+| 3196 | Maximize Total Cost of Alternating Subarrays |  | Medium  |
+| 3197 | Find the Minimum Area to Cover All Ones II |  | Hard  |
+| 3198 | Find Cities in Each State |  | Easy  |
+| 3199 | Count Triplets with Even XOR Set Bits I |  | Easy  |
+| 3200 | Maximum Height of a Triangle |  | Easy  |
+| 3201 | Find the Maximum Length of Valid Subsequence I |  | Medium  |
+| 3202 | Find the Maximum Length of Valid Subsequence II |  | Medium  |
+| 3203 | Find Minimum Diameter After Merging Two Trees |  | Hard  |
+| 3204 | Bitwise User Permissions Analysis |  | Medium  |
+| 3205 | Maximum Array Hopping Score I |  | Medium  |
+| 3206 | Alternating Groups I |  | Easy  |
+| 3207 | Maximum Points After Enemy Battles |  | Medium  |
+| 3208 | Alternating Groups II |  | Medium  |
+| 3209 | Number of Subarrays With AND Value of K |  | Hard  |
+| 3210 | Find the Encrypted String |  | Easy  |
+| 3211 | Generate Binary Strings Without Adjacent Zeros |  | Medium  |
+| 3212 | Count Submatrices With Equal Frequency of X and Y |  | Medium  |
+| 3213 | Construct String with Minimum Cost |  | Hard  |
+| 3214 | Year on Year Growth Rate |  | Hard  |
+| 3215 | Count Triplets with Even XOR Set Bits II |  | Medium  |
+| 3216 | Lexicographically Smallest String After a Swap |  | Easy  |
+| 3217 | Delete Nodes From Linked List Present in Array |  | Medium  |
+| 3218 | Minimum Cost for Cutting Cake I |  | Medium  |
+| 3219 | Minimum Cost for Cutting Cake II |  | Hard  |
+| 3220 | Odd and Even Transactions |  | Medium  |
+| 3221 | Maximum Array Hopping Score II |  | Medium  |
+| 3222 | Find the Winning Player in Coin Game |  | Easy  |
+| 3223 | Minimum Length of String After Operations |  | Medium  |
+| 3224 | Minimum Array Changes to Make Differences Equal |  | Medium  |
+| 3225 | Maximum Score From Grid Operations |  | Hard  |
+| 3226 | Number of Bit Changes to Make Two Integers Equal |  | Easy  |
+| 3227 | Vowels Game in a String |  | Medium  |
+| 3228 | Maximum Number of Operations to Move Ones to the End |  | Medium  |
+| 3229 | Minimum Operations to Make Array Equal to Target |  | Hard  |
+| 3230 | Customer Purchasing Behavior Analysis |  | Medium  |
+| 3231 | Minimum Number of Increasing Subsequence to Be Removed |  | Hard  |
+| 3232 | Find if Digit Game Can Be Won |  | Easy  |
+| 3233 | Find the Count of Numbers Which Are Not Special |  | Medium  |
+| 3234 | Count the Number of Substrings With Dominant Ones |  | Medium  |
+| 3235 | Check if the Rectangle Corner Is Reachable |  | Hard  |
+| 3236 | CEO Subordinate Hierarchy |  | Hard  |
+| 3237 | Alt and Tab Simulation |  | Medium  |
+| 3238 | Find the Number of Winning Players |  | Easy  |
+| 3239 | Minimum Number of Flips to Make Binary Grid Palindromic I |  | Medium  |
+| 3240 | Minimum Number of Flips to Make Binary Grid Palindromic II |  | Medium  |
+| 3241 | Time Taken to Mark All Nodes |  | Hard  |
+| 3242 | Design Neighbor Sum Service |  | Easy  |
+| 3243 | Shortest Distance After Road Addition Queries I |  | Medium  |
+| 3244 | Shortest Distance After Road Addition Queries II |  | Hard  |
+| 3245 | Alternating Groups III |  | Hard  |
+| 3246 | Premier League Table Ranking |  | Easy  |
+| 3247 | Number of Subsequences with Odd Sum |  | Medium  |
+| 3248 | Snake in Matrix |  | Easy  |
+| 3249 | Count the Number of Good Nodes |  | Medium  |
+| 3250 | Find the Count of Monotonic Pairs I |  | Hard  |
+| 3251 | Find the Count of Monotonic Pairs II |  | Hard  |
+| 3252 | Premier League Table Ranking II |  | Medium  |
+| 3253 | Construct String with Minimum Cost (Easy) |  | Medium  |
+| 3254 | Find the Power of K-Size Subarrays I |  | Medium  |
+| 3255 | Find the Power of K-Size Subarrays II |  | Medium  |
+| 3256 | Maximum Value Sum by Placing Three Rooks I |  | Hard  |
+| 3257 | Maximum Value Sum by Placing Three Rooks II |  | Hard  |
+| 3258 | Count Substrings That Satisfy K-Constraint I |  | Easy  |
+| 3259 | Maximum Energy Boost From Two Drinks |  | Medium  |
+| 3260 | Find the Largest Palindrome Divisible by K |  | Hard  |
+| 3261 | Count Substrings That Satisfy K-Constraint II |  | Hard  |
+| 3262 | Find Overlapping Shifts |  | Medium  |
+| 3263 | Convert Doubly Linked List to Array I |  | Easy  |
+| 3264 | Final Array State After K Multiplication Operations I |  | Easy  |
+| 3265 | Count Almost Equal Pairs I |  | Medium  |
+| 3266 | Final Array State After K Multiplication Operations II |  | Hard  |
+| 3267 | Count Almost Equal Pairs II |  | Hard  |
+| 3268 | Find Overlapping Shifts II |  | Hard  |
+| 3269 | Constructing Two Increasing Arrays |  | Hard  |
+| 3270 | Find the Key of the Numbers |  | Easy  |
+| 3271 | Hash Divided String |  | Medium  |
+| 3272 | Find the Count of Good Integers |  | Hard  |
+| 3273 | Minimum Amount of Damage Dealt to Bob |  | Hard  |
+| 3274 | Check if Two Chessboard Squares Have the Same Color |  | Easy  |
+| 3275 | K-th Nearest Obstacle Queries |  | Medium  |
+| 3276 | Select Cells in Grid With Maximum Score |  | Hard  |
+| 3277 | Maximum XOR Score Subarray Queries |  | Hard  |
+| 3278 | Find Candidates for Data Scientist Position II |  | Medium  |
+| 3279 | Maximum Total Area Occupied by Pistons |  | Hard  |
+| 3280 | Convert Date to Binary |  | Easy  |
+| 3281 | Maximize Score of Numbers in Ranges |  | Medium  |
+| 3282 | Reach End of Array With Max Score |  | Medium  |
+| 3283 | Maximum Number of Moves to Kill All Pawns |  | Hard  |
+| 3284 | Sum of Consecutive Subarrays |  | Medium  |
+| 3285 | Find Indices of Stable Mountains |  | Easy  |
+| 3286 | Find a Safe Walk Through a Grid |  | Medium  |
+| 3287 | Find the Maximum Sequence Value of Array |  | Hard  |
+| 3288 | Length of the Longest Increasing Path |  | Hard  |
+| 3289 | The Two Sneaky Numbers of Digitville |  | Easy  |
+| 3290 | Maximum Multiplication Score |  | Medium  |
+| 3291 | Minimum Number of Valid Strings to Form Target I |  | Medium  |
+| 3292 | Minimum Number of Valid Strings to Form Target II |  | Hard  |
+| 3293 | Calculate Product Final Price |  | Medium  |
+| 3294 | Convert Doubly Linked List to Array II |  | Medium  |
+| 3295 | Report Spam Message |  | Medium  |
+| 3296 | Minimum Number of Seconds to Make Mountain Height Zero |  | Medium  |
+| 3297 | Count Substrings That Can Be Rearranged to Contain a String I |  | Medium  |
+| 3298 | Count Substrings That Can Be Rearranged to Contain a String II |  | Hard  |
+| 3299 | Sum of Consecutive Subsequences |  | Hard  |
+| 3300 | Minimum Element After Replacement With Digit Sum |  | Easy  |
+| 3301 | Maximize the Total Height of Unique Towers |  | Medium  |
+| 3302 | Find the Lexicographically Smallest Valid Sequence |  | Medium  |
+| 3303 | Find the Occurrence of First Almost Equal Substring |  | Hard  |
+| 3304 | Find the K-th Character in String Game I |  | Easy  |
+| 3305 | Count of Substrings Containing Every Vowel and K Consonants I |  | Medium  |
+| 3306 | Count of Substrings Containing Every Vowel and K Consonants II |  | Medium  |
+| 3307 | Find the K-th Character in String Game II |  | Hard  |
+| 3308 | Find Top Performing Driver |  | Medium  |
+| 3309 | Maximum Possible Number by Binary Concatenation |  | Medium  |
+| 3310 | Remove Methods From Project |  | Medium  |
+| 3311 | Construct 2D Grid Matching Graph Layout |  | Hard  |
+| 3312 | Sorted GCD Pair Queries |  | Hard  |
+| 3313 | Find the Last Marked Nodes in Tree |  | Hard  |
+| 3314 | Construct the Minimum Bitwise Array I |  | Easy  |
+| 3315 | Construct the Minimum Bitwise Array II |  | Medium  |
+| 3316 | Find Maximum Removals From Source String |  | Medium  |
+| 3317 | Find the Number of Possible Ways for an Event |  | Hard  |
+| 3318 | Find X-Sum of All K-Long Subarrays I |  | Easy  |
+| 3319 | K-th Largest Perfect Subtree Size in Binary Tree |  | Medium  |
+| 3320 | Count The Number of Winning Sequences |  | Hard  |
+| 3321 | Find X-Sum of All K-Long Subarrays II |  | Hard  |
+| 3322 | Premier League Table Ranking III |  | Medium  |
+| 3323 | Minimize Connected Groups by Inserting Interval |  | Medium  |
 | LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
