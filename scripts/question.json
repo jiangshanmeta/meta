@@ -19744,7 +19744,7 @@
         "index": "2821",
         "title": "Delay the Resolution of Each Promise",
         "title_slug": "delay-the-resolution-of-each-promise",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "id": 2925,
@@ -21344,80 +21344,1921 @@
     },
     {
         "id": 3255,
-        "index": "100173",
+        "index": "3050",
         "title": "Pizza Toppings Cost Analysis",
         "title_slug": "pizza-toppings-cost-analysis",
         "difficulty": 2
     },
     {
         "id": 3256,
-        "index": "100174",
+        "index": "3051",
         "title": "Find Candidates for Data Scientist Position",
         "title_slug": "find-candidates-for-data-scientist-position",
         "difficulty": 1
     },
     {
         "id": 3257,
-        "index": "100175",
+        "index": "3052",
         "title": "Maximize Items",
         "title_slug": "maximize-items",
         "difficulty": 3
     },
     {
         "id": 3258,
-        "index": "100176",
+        "index": "3053",
         "title": "Classifying Triangles by Lengths",
         "title_slug": "classifying-triangles-by-lengths",
         "difficulty": 1
     },
     {
         "id": 3259,
-        "index": "100177",
+        "index": "3054",
         "title": "Binary Tree Nodes",
         "title_slug": "binary-tree-nodes",
         "difficulty": 2
     },
     {
         "id": 3339,
-        "index": "100238",
+        "index": "3055",
         "title": "Top Percentile Fraud",
         "title_slug": "top-percentile-fraud",
         "difficulty": 2
     },
     {
         "id": 3340,
-        "index": "100239",
+        "index": "3056",
         "title": "Snaps Analysis",
         "title_slug": "snaps-analysis",
         "difficulty": 2
     },
     {
         "id": 3357,
-        "index": "100252",
+        "index": "3057",
         "title": "Employees Project Allocation",
         "title_slug": "employees-project-allocation",
         "difficulty": 3
     },
     {
         "id": 3358,
-        "index": "100253",
+        "index": "3058",
         "title": "Friends With No Mutual Friends",
         "title_slug": "friends-with-no-mutual-friends",
         "difficulty": 2
     },
     {
         "id": 3365,
-        "index": "100260",
+        "index": "3059",
         "title": "Find All Unique Email Domains",
         "title_slug": "find-all-unique-email-domains",
         "difficulty": 1
     },
     {
         "id": 3366,
-        "index": "100261",
+        "index": "3060",
         "title": "User Activities within Time Bounds",
         "title_slug": "user-activities-within-time-bounds",
         "difficulty": 3
+    },
+    {
+        "id": 3369,
+        "index": "3061",
+        "title": "Calculate Trapping Rain Water",
+        "title_slug": "calculate-trapping-rain-water",
+        "difficulty": 3
+    },
+    {
+        "id": 3368,
+        "index": "3062",
+        "title": "Winner of the Linked List Game",
+        "title_slug": "winner-of-the-linked-list-game",
+        "difficulty": 1
+    },
+    {
+        "id": 3359,
+        "index": "3063",
+        "title": "Linked List Frequency",
+        "title_slug": "linked-list-frequency",
+        "difficulty": 1
+    },
+    {
+        "id": 3370,
+        "index": "3064",
+        "title": "Guess the Number Using Bitwise Questions I",
+        "title_slug": "guess-the-number-using-bitwise-questions-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3331,
+        "index": "3065",
+        "title": "Minimum Operations to Exceed Threshold Value I",
+        "title_slug": "minimum-operations-to-exceed-threshold-value-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3332,
+        "index": "3066",
+        "title": "Minimum Operations to Exceed Threshold Value II",
+        "title_slug": "minimum-operations-to-exceed-threshold-value-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3326,
+        "index": "3067",
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "title_slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "difficulty": 2
+    },
+    {
+        "id": 3307,
+        "index": "3068",
+        "title": "Find the Maximum Sum of Node Values",
+        "title_slug": "find-the-maximum-sum-of-node-values",
+        "difficulty": 3
+    },
+    {
+        "id": 3347,
+        "index": "3069",
+        "title": "Distribute Elements Into Two Arrays I",
+        "title_slug": "distribute-elements-into-two-arrays-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3338,
+        "index": "3070",
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "title_slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3335,
+        "index": "3071",
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "title_slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 3350,
+        "index": "3072",
+        "title": "Distribute Elements Into Two Arrays II",
+        "title_slug": "distribute-elements-into-two-arrays-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3378,
+        "index": "3073",
+        "title": "Maximum Increasing Triplet Value",
+        "title_slug": "maximum-increasing-triplet-value",
+        "difficulty": 2
+    },
+    {
+        "id": 3334,
+        "index": "3074",
+        "title": "Apple Redistribution into Boxes",
+        "title_slug": "apple-redistribution-into-boxes",
+        "difficulty": 1
+    },
+    {
+        "id": 3351,
+        "index": "3075",
+        "title": "Maximize Happiness of Selected Children",
+        "title_slug": "maximize-happiness-of-selected-children",
+        "difficulty": 2
+    },
+    {
+        "id": 3356,
+        "index": "3076",
+        "title": "Shortest Uncommon Substring in an Array",
+        "title_slug": "shortest-uncommon-substring-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3313,
+        "index": "3077",
+        "title": "Maximum Strength of K Disjoint Subarrays",
+        "title_slug": "maximum-strength-of-k-disjoint-subarrays",
+        "difficulty": 3
+    },
+    {
+        "id": 3385,
+        "index": "3078",
+        "title": "Match Alphanumerical Pattern in Matrix I",
+        "title_slug": "match-alphanumerical-pattern-in-matrix-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3367,
+        "index": "3079",
+        "title": "Find the Sum of Encrypted Integers",
+        "title_slug": "find-the-sum-of-encrypted-integers",
+        "difficulty": 1
+    },
+    {
+        "id": 3306,
+        "index": "3080",
+        "title": "Mark Elements on Array by Performing Queries",
+        "title_slug": "mark-elements-on-array-by-performing-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 3354,
+        "index": "3081",
+        "title": "Replace Question Marks in String to Minimize Its Value",
+        "title_slug": "replace-question-marks-in-string-to-minimize-its-value",
+        "difficulty": 2
+    },
+    {
+        "id": 3345,
+        "index": "3082",
+        "title": "Find the Sum of the Power of All Subsequences",
+        "title_slug": "find-the-sum-of-the-power-of-all-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 3353,
+        "index": "3083",
+        "title": "Existence of a Substring in a String and Its Reverse",
+        "title_slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+        "difficulty": 1
+    },
+    {
+        "id": 3337,
+        "index": "3084",
+        "title": "Count Substrings Starting and Ending with Given Character",
+        "title_slug": "count-substrings-starting-and-ending-with-given-character",
+        "difficulty": 2
+    },
+    {
+        "id": 3360,
+        "index": "3085",
+        "title": "Minimum Deletions to Make String K-Special",
+        "title_slug": "minimum-deletions-to-make-string-k-special",
+        "difficulty": 2
+    },
+    {
+        "id": 3327,
+        "index": "3086",
+        "title": "Minimum Moves to Pick K Ones",
+        "title_slug": "minimum-moves-to-pick-k-ones",
+        "difficulty": 3
+    },
+    {
+        "id": 3392,
+        "index": "3087",
+        "title": "Find Trending Hashtags",
+        "title_slug": "find-trending-hashtags",
+        "difficulty": 2
+    },
+    {
+        "id": 3393,
+        "index": "3088",
+        "title": "Make String Anti-palindrome",
+        "title_slug": "make-string-anti-palindrome",
+        "difficulty": 3
+    },
+    {
+        "id": 3400,
+        "index": "3089",
+        "title": "Find Bursty Behavior",
+        "title_slug": "find-bursty-behavior",
+        "difficulty": 2
+    },
+    {
+        "id": 3349,
+        "index": "3090",
+        "title": "Maximum Length Substring With Two Occurrences",
+        "title_slug": "maximum-length-substring-with-two-occurrences",
+        "difficulty": 1
+    },
+    {
+        "id": 3328,
+        "index": "3091",
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "title_slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3363,
+        "index": "3092",
+        "title": "Most Frequent IDs",
+        "title_slug": "most-frequent-ids",
+        "difficulty": 2
+    },
+    {
+        "id": 3376,
+        "index": "3093",
+        "title": "Longest Common Suffix Queries",
+        "title_slug": "longest-common-suffix-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 3401,
+        "index": "3094",
+        "title": "Guess the Number Using Bitwise Questions II",
+        "title_slug": "guess-the-number-using-bitwise-questions-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3381,
+        "index": "3095",
+        "title": "Shortest Subarray With OR at Least K I",
+        "title_slug": "shortest-subarray-with-or-at-least-k-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3355,
+        "index": "3096",
+        "title": "Minimum Levels to Gain More Points",
+        "title_slug": "minimum-levels-to-gain-more-points",
+        "difficulty": 2
+    },
+    {
+        "id": 3380,
+        "index": "3097",
+        "title": "Shortest Subarray With OR at Least K II",
+        "title_slug": "shortest-subarray-with-or-at-least-k-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3316,
+        "index": "3098",
+        "title": "Find the Sum of Subsequence Powers",
+        "title_slug": "find-the-sum-of-subsequence-powers",
+        "difficulty": 3
+    },
+    {
+        "id": 3371,
+        "index": "3099",
+        "title": "Harshad Number",
+        "title_slug": "harshad-number",
+        "difficulty": 1
+    },
+    {
+        "id": 3336,
+        "index": "3100",
+        "title": "Water Bottles II",
+        "title_slug": "water-bottles-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3374,
+        "index": "3101",
+        "title": "Count Alternating Subarrays",
+        "title_slug": "count-alternating-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 3344,
+        "index": "3102",
+        "title": "Minimize Manhattan Distances",
+        "title_slug": "minimize-manhattan-distances",
+        "difficulty": 3
+    },
+    {
+        "id": 3409,
+        "index": "3103",
+        "title": "Find Trending Hashtags II ",
+        "title_slug": "find-trending-hashtags-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3410,
+        "index": "3104",
+        "title": "Find Longest Self-Contained Substring",
+        "title_slug": "find-longest-self-contained-substring",
+        "difficulty": 3
+    },
+    {
+        "id": 3372,
+        "index": "3105",
+        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "difficulty": 1
+    },
+    {
+        "id": 3346,
+        "index": "3106",
+        "title": "Lexicographically Smallest String After Operations With Constraint",
+        "title_slug": "lexicographically-smallest-string-after-operations-with-constraint",
+        "difficulty": 2
+    },
+    {
+        "id": 3387,
+        "index": "3107",
+        "title": "Minimum Operations to Make Median of Array Equal to K",
+        "title_slug": "minimum-operations-to-make-median-of-array-equal-to-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3348,
+        "index": "3108",
+        "title": "Minimum Cost Walk in Weighted Graph",
+        "title_slug": "minimum-cost-walk-in-weighted-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 3417,
+        "index": "3109",
+        "title": "Find the Index of Permutation",
+        "title_slug": "find-the-index-of-permutation",
+        "difficulty": 2
+    },
+    {
+        "id": 3379,
+        "index": "3110",
+        "title": "Score of a String",
+        "title_slug": "score-of-a-string",
+        "difficulty": 1
+    },
+    {
+        "id": 3390,
+        "index": "3111",
+        "title": "Minimum Rectangles to Cover Points",
+        "title_slug": "minimum-rectangles-to-cover-points",
+        "difficulty": 2
+    },
+    {
+        "id": 3389,
+        "index": "3112",
+        "title": "Minimum Time to Visit Disappearing Nodes",
+        "title_slug": "minimum-time-to-visit-disappearing-nodes",
+        "difficulty": 2
+    },
+    {
+        "id": 3382,
+        "index": "3113",
+        "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "title_slug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+        "difficulty": 3
+    },
+    {
+        "id": 3361,
+        "index": "3114",
+        "title": "Latest Time You Can Obtain After Replacing Characters",
+        "title_slug": "latest-time-you-can-obtain-after-replacing-characters",
+        "difficulty": 1
+    },
+    {
+        "id": 3373,
+        "index": "3115",
+        "title": "Maximum Prime Difference",
+        "title_slug": "maximum-prime-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 3375,
+        "index": "3116",
+        "title": "Kth Smallest Amount With Single Denomination Combination",
+        "title_slug": "kth-smallest-amount-with-single-denomination-combination",
+        "difficulty": 3
+    },
+    {
+        "id": 3364,
+        "index": "3117",
+        "title": "Minimum Sum of Values by Dividing Array",
+        "title_slug": "minimum-sum-of-values-by-dividing-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3424,
+        "index": "3118",
+        "title": "Friday Purchase III ",
+        "title_slug": "friday-purchase-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3425,
+        "index": "3119",
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "title_slug": "maximum-number-of-potholes-that-can-be-fixed",
+        "difficulty": 2
+    },
+    {
+        "id": 3408,
+        "index": "3120",
+        "title": "Count the Number of Special Characters I",
+        "title_slug": "count-the-number-of-special-characters-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3405,
+        "index": "3121",
+        "title": "Count the Number of Special Characters II",
+        "title_slug": "count-the-number-of-special-characters-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3404,
+        "index": "3122",
+        "title": "Minimum Number of Operations to Satisfy Conditions",
+        "title_slug": "minimum-number-of-operations-to-satisfy-conditions",
+        "difficulty": 2
+    },
+    {
+        "id": 3386,
+        "index": "3123",
+        "title": "Find Edges in Shortest Paths",
+        "title_slug": "find-edges-in-shortest-paths",
+        "difficulty": 3
+    },
+    {
+        "id": 3432,
+        "index": "3124",
+        "title": "Find Longest Calls",
+        "title_slug": "find-longest-calls",
+        "difficulty": 2
+    },
+    {
+        "id": 3433,
+        "index": "3125",
+        "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+        "title_slug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+        "difficulty": 2
+    },
+    {
+        "id": 3440,
+        "index": "3126",
+        "title": "Server Utilization Time",
+        "title_slug": "server-utilization-time",
+        "difficulty": 2
+    },
+    {
+        "id": 3398,
+        "index": "3127",
+        "title": "Make a Square with the Same Color",
+        "title_slug": "make-a-square-with-the-same-color",
+        "difficulty": 1
+    },
+    {
+        "id": 3388,
+        "index": "3128",
+        "title": "Right Triangles",
+        "title_slug": "right-triangles",
+        "difficulty": 2
+    },
+    {
+        "id": 3406,
+        "index": "3129",
+        "title": "Find All Possible Stable Binary Arrays I",
+        "title_slug": "find-all-possible-stable-binary-arrays-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3407,
+        "index": "3130",
+        "title": "Find All Possible Stable Binary Arrays II",
+        "title_slug": "find-all-possible-stable-binary-arrays-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3397,
+        "index": "3131",
+        "title": "Find the Integer Added to Array I",
+        "title_slug": "find-the-integer-added-to-array-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3399,
+        "index": "3132",
+        "title": "Find the Integer Added to Array II",
+        "title_slug": "find-the-integer-added-to-array-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3394,
+        "index": "3133",
+        "title": "Minimum Array End",
+        "title_slug": "minimum-array-end",
+        "difficulty": 2
+    },
+    {
+        "id": 3362,
+        "index": "3134",
+        "title": "Find the Median of the Uniqueness Array",
+        "title_slug": "find-the-median-of-the-uniqueness-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3441,
+        "index": "3135",
+        "title": "Equalize Strings by Adding or Removing Characters at Ends",
+        "title_slug": "equalize-strings-by-adding-or-removing-characters-at-ends",
+        "difficulty": 2
+    },
+    {
+        "id": 3396,
+        "index": "3136",
+        "title": "Valid Word",
+        "title_slug": "valid-word",
+        "difficulty": 1
+    },
+    {
+        "id": 3384,
+        "index": "3137",
+        "title": "Minimum Number of Operations to Make Word K-Periodic",
+        "title_slug": "minimum-number-of-operations-to-make-word-k-periodic",
+        "difficulty": 2
+    },
+    {
+        "id": 3395,
+        "index": "3138",
+        "title": "Minimum Length of Anagram Concatenation",
+        "title_slug": "minimum-length-of-anagram-concatenation",
+        "difficulty": 2
+    },
+    {
+        "id": 3402,
+        "index": "3139",
+        "title": "Minimum Cost to Equalize Array",
+        "title_slug": "minimum-cost-to-equalize-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3448,
+        "index": "3140",
+        "title": "Consecutive Available Seats II",
+        "title_slug": "consecutive-available-seats-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3449,
+        "index": "3141",
+        "title": "Maximum Hamming Distances",
+        "title_slug": "maximum-hamming-distances",
+        "difficulty": 3
+    },
+    {
+        "id": 3415,
+        "index": "3142",
+        "title": "Check if Grid Satisfies Conditions",
+        "title_slug": "check-if-grid-satisfies-conditions",
+        "difficulty": 1
+    },
+    {
+        "id": 3419,
+        "index": "3143",
+        "title": "Maximum Points Inside the Square",
+        "title_slug": "maximum-points-inside-the-square",
+        "difficulty": 2
+    },
+    {
+        "id": 3403,
+        "index": "3144",
+        "title": "Minimum Substring Partition of Equal Character Frequency",
+        "title_slug": "minimum-substring-partition-of-equal-character-frequency",
+        "difficulty": 2
+    },
+    {
+        "id": 3411,
+        "index": "3145",
+        "title": "Find Products of Elements of Big Array",
+        "title_slug": "find-products-of-elements-of-big-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3412,
+        "index": "3146",
+        "title": "Permutation Difference between Two Strings",
+        "title_slug": "permutation-difference-between-two-strings",
+        "difficulty": 1
+    },
+    {
+        "id": 3383,
+        "index": "3147",
+        "title": "Taking Maximum Energy From the Mystic Dungeon",
+        "title_slug": "taking-maximum-energy-from-the-mystic-dungeon",
+        "difficulty": 2
+    },
+    {
+        "id": 3391,
+        "index": "3148",
+        "title": "Maximum Difference Score in a Grid",
+        "title_slug": "maximum-difference-score-in-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 3431,
+        "index": "3149",
+        "title": "Find the Minimum Cost Array Permutation",
+        "title_slug": "find-the-minimum-cost-array-permutation",
+        "difficulty": 3
+    },
+    {
+        "id": 3457,
+        "index": "3150",
+        "title": "Invalid Tweets II",
+        "title_slug": "invalid-tweets-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 3429,
+        "index": "3151",
+        "title": "Special Array I",
+        "title_slug": "special-array-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3427,
+        "index": "3152",
+        "title": "Special Array II",
+        "title_slug": "special-array-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3416,
+        "index": "3153",
+        "title": "Sum of Digit Differences of All Pairs",
+        "title_slug": "sum-of-digit-differences-of-all-pairs",
+        "difficulty": 2
+    },
+    {
+        "id": 3414,
+        "index": "3154",
+        "title": "Find Number of Ways to Reach the K-th Stair",
+        "title_slug": "find-number-of-ways-to-reach-the-k-th-stair",
+        "difficulty": 3
+    },
+    {
+        "id": 3458,
+        "index": "3155",
+        "title": "Maximum Number of Upgradable Servers",
+        "title_slug": "maximum-number-of-upgradable-servers",
+        "difficulty": 2
+    },
+    {
+        "id": 3465,
+        "index": "3156",
+        "title": "Employee Task Duration and Concurrent Tasks",
+        "title_slug": "employee-task-duration-and-concurrent-tasks",
+        "difficulty": 3
+    },
+    {
+        "id": 3467,
+        "index": "3157",
+        "title": "Find the Level of Tree with Minimum Sum",
+        "title_slug": "find-the-level-of-tree-with-minimum-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3428,
+        "index": "3158",
+        "title": "Find the XOR of Numbers Which Appear Twice",
+        "title_slug": "find-the-xor-of-numbers-which-appear-twice",
+        "difficulty": 1
+    },
+    {
+        "id": 3420,
+        "index": "3159",
+        "title": "Find Occurrences of an Element in an Array",
+        "title_slug": "find-occurrences-of-an-element-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3434,
+        "index": "3160",
+        "title": "Find the Number of Distinct Colors Among the Balls",
+        "title_slug": "find-the-number-of-distinct-colors-among-the-balls",
+        "difficulty": 2
+    },
+    {
+        "id": 3435,
+        "index": "3161",
+        "title": "Block Placement Queries",
+        "title_slug": "block-placement-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 3446,
+        "index": "3162",
+        "title": "Find the Number of Good Pairs I",
+        "title_slug": "find-the-number-of-good-pairs-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3451,
+        "index": "3163",
+        "title": "String Compression III",
+        "title_slug": "string-compression-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3444,
+        "index": "3164",
+        "title": "Find the Number of Good Pairs II",
+        "title_slug": "find-the-number-of-good-pairs-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3423,
+        "index": "3165",
+        "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+        "title_slug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+        "difficulty": 3
+    },
+    {
+        "id": 3473,
+        "index": "3166",
+        "title": "Calculate Parking Fees and Duration",
+        "title_slug": "calculate-parking-fees-and-duration",
+        "difficulty": 2
+    },
+    {
+        "id": 3474,
+        "index": "3167",
+        "title": "Better Compression of String",
+        "title_slug": "better-compression-of-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3426,
+        "index": "3168",
+        "title": "Minimum Number of Chairs in a Waiting Room",
+        "title_slug": "minimum-number-of-chairs-in-a-waiting-room",
+        "difficulty": 1
+    },
+    {
+        "id": 3430,
+        "index": "3169",
+        "title": "Count Days Without Meetings",
+        "title_slug": "count-days-without-meetings",
+        "difficulty": 2
+    },
+    {
+        "id": 3445,
+        "index": "3170",
+        "title": "Lexicographically Minimum String After Removing Stars",
+        "title_slug": "lexicographically-minimum-string-after-removing-stars",
+        "difficulty": 2
+    },
+    {
+        "id": 3436,
+        "index": "3171",
+        "title": "Find Subarray With Bitwise OR Closest to K",
+        "title_slug": "find-subarray-with-bitwise-or-closest-to-k",
+        "difficulty": 3
+    },
+    {
+        "id": 3481,
+        "index": "3172",
+        "title": "Second Day Verification",
+        "title_slug": "second-day-verification",
+        "difficulty": 1
+    },
+    {
+        "id": 3472,
+        "index": "3173",
+        "title": "Bitwise OR of Adjacent Elements",
+        "title_slug": "bitwise-or-of-adjacent-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 3447,
+        "index": "3174",
+        "title": "Clear Digits",
+        "title_slug": "clear-digits",
+        "difficulty": 1
+    },
+    {
+        "id": 3413,
+        "index": "3175",
+        "title": "Find The First Player to win K Games in a Row",
+        "title_slug": "find-the-first-player-to-win-k-games-in-a-row",
+        "difficulty": 2
+    },
+    {
+        "id": 3456,
+        "index": "3176",
+        "title": "Find the Maximum Length of a Good Subsequence I",
+        "title_slug": "find-the-maximum-length-of-a-good-subsequence-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3452,
+        "index": "3177",
+        "title": "Find the Maximum Length of a Good Subsequence II",
+        "title_slug": "find-the-maximum-length-of-a-good-subsequence-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3450,
+        "index": "3178",
+        "title": "Find the Child Who Has the Ball After K Seconds",
+        "title_slug": "find-the-child-who-has-the-ball-after-k-seconds",
+        "difficulty": 1
+    },
+    {
+        "id": 3422,
+        "index": "3179",
+        "title": "Find the N-th Value After K Seconds",
+        "title_slug": "find-the-n-th-value-after-k-seconds",
+        "difficulty": 2
+    },
+    {
+        "id": 3442,
+        "index": "3180",
+        "title": "Maximum Total Reward Using Operations I",
+        "title_slug": "maximum-total-reward-using-operations-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3443,
+        "index": "3181",
+        "title": "Maximum Total Reward Using Operations II",
+        "title_slug": "maximum-total-reward-using-operations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3488,
+        "index": "3182",
+        "title": "Find Top Scoring Students",
+        "title_slug": "find-top-scoring-students",
+        "difficulty": 2
+    },
+    {
+        "id": 3489,
+        "index": "3183",
+        "title": "The Number of Ways to Make the Sum",
+        "title_slug": "the-number-of-ways-to-make-the-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3421,
+        "index": "3184",
+        "title": "Count Pairs That Form a Complete Day I",
+        "title_slug": "count-pairs-that-form-a-complete-day-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3418,
+        "index": "3185",
+        "title": "Count Pairs That Form a Complete Day II",
+        "title_slug": "count-pairs-that-form-a-complete-day-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3437,
+        "index": "3186",
+        "title": "Maximum Total Damage With Spell Casting",
+        "title_slug": "maximum-total-damage-with-spell-casting",
+        "difficulty": 2
+    },
+    {
+        "id": 3438,
+        "index": "3187",
+        "title": "Peaks in Array",
+        "title_slug": "peaks-in-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3503,
+        "index": "3188",
+        "title": "Find Top Scoring Students II",
+        "title_slug": "find-top-scoring-students-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3504,
+        "index": "3189",
+        "title": "Minimum Moves to Get a Peaceful Board",
+        "title_slug": "minimum-moves-to-get-a-peaceful-board",
+        "difficulty": 2
+    },
+    {
+        "id": 3476,
+        "index": "3190",
+        "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+        "title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+        "difficulty": 1
+    },
+    {
+        "id": 3475,
+        "index": "3191",
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3477,
+        "index": "3192",
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+        "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3460,
+        "index": "3193",
+        "title": "Count the Number of Inversions",
+        "title_slug": "count-the-number-of-inversions",
+        "difficulty": 3
+    },
+    {
+        "id": 3471,
+        "index": "3194",
+        "title": "Minimum Average of Smallest and Largest Elements",
+        "title_slug": "minimum-average-of-smallest-and-largest-elements",
+        "difficulty": 1
+    },
+    {
+        "id": 3461,
+        "index": "3195",
+        "title": "Find the Minimum Area to Cover All Ones I",
+        "title_slug": "find-the-minimum-area-to-cover-all-ones-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3464,
+        "index": "3196",
+        "title": "Maximize Total Cost of Alternating Subarrays",
+        "title_slug": "maximize-total-cost-of-alternating-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 3459,
+        "index": "3197",
+        "title": "Find the Minimum Area to Cover All Ones II",
+        "title_slug": "find-the-minimum-area-to-cover-all-ones-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3505,
+        "index": "3198",
+        "title": "Find Cities in Each State",
+        "title_slug": "find-cities-in-each-state",
+        "difficulty": 1
+    },
+    {
+        "id": 3506,
+        "index": "3199",
+        "title": "Count Triplets with Even XOR Set Bits I",
+        "title_slug": "count-triplets-with-even-xor-set-bits-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3469,
+        "index": "3200",
+        "title": "Maximum Height of a Triangle",
+        "title_slug": "maximum-height-of-a-triangle",
+        "difficulty": 1
+    },
+    {
+        "id": 3490,
+        "index": "3201",
+        "title": "Find the Maximum Length of Valid Subsequence I",
+        "title_slug": "find-the-maximum-length-of-valid-subsequence-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3491,
+        "index": "3202",
+        "title": "Find the Maximum Length of Valid Subsequence II",
+        "title_slug": "find-the-maximum-length-of-valid-subsequence-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3439,
+        "index": "3203",
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "title_slug": "find-minimum-diameter-after-merging-two-trees",
+        "difficulty": 3
+    },
+    {
+        "id": 3512,
+        "index": "3204",
+        "title": "Bitwise User Permissions Analysis",
+        "title_slug": "bitwise-user-permissions-analysis",
+        "difficulty": 2
+    },
+    {
+        "id": 3513,
+        "index": "3205",
+        "title": "Maximum Array Hopping Score I",
+        "title_slug": "maximum-array-hopping-score-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3463,
+        "index": "3206",
+        "title": "Alternating Groups I",
+        "title_slug": "alternating-groups-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3264,
+        "index": "3207",
+        "title": "Maximum Points After Enemy Battles",
+        "title_slug": "maximum-points-after-enemy-battles",
+        "difficulty": 2
+    },
+    {
+        "id": 3483,
+        "index": "3208",
+        "title": "Alternating Groups II",
+        "title_slug": "alternating-groups-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3466,
+        "index": "3209",
+        "title": "Number of Subarrays With AND Value of K",
+        "title_slug": "number-of-subarrays-with-and-value-of-k",
+        "difficulty": 3
+    },
+    {
+        "id": 3468,
+        "index": "3210",
+        "title": "Find the Encrypted String",
+        "title_slug": "find-the-encrypted-string",
+        "difficulty": 1
+    },
+    {
+        "id": 3453,
+        "index": "3211",
+        "title": "Generate Binary Strings Without Adjacent Zeros",
+        "title_slug": "generate-binary-strings-without-adjacent-zeros",
+        "difficulty": 2
+    },
+    {
+        "id": 3492,
+        "index": "3212",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+        "difficulty": 2
+    },
+    {
+        "id": 3482,
+        "index": "3213",
+        "title": "Construct String with Minimum Cost",
+        "title_slug": "construct-string-with-minimum-cost",
+        "difficulty": 3
+    },
+    {
+        "id": 3520,
+        "index": "3214",
+        "title": "Year on Year Growth Rate",
+        "title_slug": "year-on-year-growth-rate",
+        "difficulty": 3
+    },
+    {
+        "id": 3521,
+        "index": "3215",
+        "title": "Count Triplets with Even XOR Set Bits II",
+        "title_slug": "count-triplets-with-even-xor-set-bits-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3484,
+        "index": "3216",
+        "title": "Lexicographically Smallest String After a Swap",
+        "title_slug": "lexicographically-smallest-string-after-a-swap",
+        "difficulty": 1
+    },
+    {
+        "id": 3501,
+        "index": "3217",
+        "title": "Delete Nodes From Linked List Present in Array",
+        "title_slug": "delete-nodes-from-linked-list-present-in-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3494,
+        "index": "3218",
+        "title": "Minimum Cost for Cutting Cake I",
+        "title_slug": "minimum-cost-for-cutting-cake-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3500,
+        "index": "3219",
+        "title": "Minimum Cost for Cutting Cake II",
+        "title_slug": "minimum-cost-for-cutting-cake-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3530,
+        "index": "3220",
+        "title": "Odd and Even Transactions",
+        "title_slug": "odd-and-even-transactions",
+        "difficulty": 2
+    },
+    {
+        "id": 3529,
+        "index": "3221",
+        "title": "Maximum Array Hopping Score II",
+        "title_slug": "maximum-array-hopping-score-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3511,
+        "index": "3222",
+        "title": "Find the Winning Player in Coin Game",
+        "title_slug": "find-the-winning-player-in-coin-game",
+        "difficulty": 1
+    },
+    {
+        "id": 3455,
+        "index": "3223",
+        "title": "Minimum Length of String After Operations",
+        "title_slug": "minimum-length-of-string-after-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 3498,
+        "index": "3224",
+        "title": "Minimum Array Changes to Make Differences Equal",
+        "title_slug": "minimum-array-changes-to-make-differences-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 3470,
+        "index": "3225",
+        "title": "Maximum Score From Grid Operations",
+        "title_slug": "maximum-score-from-grid-operations",
+        "difficulty": 3
+    },
+    {
+        "id": 3508,
+        "index": "3226",
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "title_slug": "number-of-bit-changes-to-make-two-integers-equal",
+        "difficulty": 1
+    },
+    {
+        "id": 3462,
+        "index": "3227",
+        "title": "Vowels Game in a String",
+        "title_slug": "vowels-game-in-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3493,
+        "index": "3228",
+        "title": "Maximum Number of Operations to Move Ones to the End",
+        "title_slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+        "difficulty": 2
+    },
+    {
+        "id": 3454,
+        "index": "3229",
+        "title": "Minimum Operations to Make Array Equal to Target",
+        "title_slug": "minimum-operations-to-make-array-equal-to-target",
+        "difficulty": 3
+    },
+    {
+        "id": 3539,
+        "index": "3230",
+        "title": "Customer Purchasing Behavior Analysis",
+        "title_slug": "customer-purchasing-behavior-analysis",
+        "difficulty": 2
+    },
+    {
+        "id": 3545,
+        "index": "3231",
+        "title": "Minimum Number of Increasing Subsequence to Be Removed",
+        "title_slug": "minimum-number-of-increasing-subsequence-to-be-removed",
+        "difficulty": 3
+    },
+    {
+        "id": 3515,
+        "index": "3232",
+        "title": "Find if Digit Game Can Be Won",
+        "title_slug": "find-if-digit-game-can-be-won",
+        "difficulty": 1
+    },
+    {
+        "id": 3507,
+        "index": "3233",
+        "title": "Find the Count of Numbers Which Are Not Special",
+        "title_slug": "find-the-count-of-numbers-which-are-not-special",
+        "difficulty": 2
+    },
+    {
+        "id": 3479,
+        "index": "3234",
+        "title": "Count the Number of Substrings With Dominant Ones",
+        "title_slug": "count-the-number-of-substrings-with-dominant-ones",
+        "difficulty": 2
+    },
+    {
+        "id": 3478,
+        "index": "3235",
+        "title": "Check if the Rectangle Corner Is Reachable",
+        "title_slug": "check-if-the-rectangle-corner-is-reachable",
+        "difficulty": 3
+    },
+    {
+        "id": 3549,
+        "index": "3236",
+        "title": "CEO Subordinate Hierarchy",
+        "title_slug": "ceo-subordinate-hierarchy",
+        "difficulty": 3
+    },
+    {
+        "id": 3538,
+        "index": "3237",
+        "title": "Alt and Tab Simulation",
+        "title_slug": "alt-and-tab-simulation",
+        "difficulty": 2
+    },
+    {
+        "id": 3519,
+        "index": "3238",
+        "title": "Find the Number of Winning Players",
+        "title_slug": "find-the-number-of-winning-players",
+        "difficulty": 1
+    },
+    {
+        "id": 3526,
+        "index": "3239",
+        "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+        "title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3524,
+        "index": "3240",
+        "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+        "title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3532,
+        "index": "3241",
+        "title": "Time Taken to Mark All Nodes",
+        "title_slug": "time-taken-to-mark-all-nodes",
+        "difficulty": 3
+    },
+    {
+        "id": 3516,
+        "index": "3242",
+        "title": "Design Neighbor Sum Service",
+        "title_slug": "design-neighbor-sum-service",
+        "difficulty": 1
+    },
+    {
+        "id": 3517,
+        "index": "3243",
+        "title": "Shortest Distance After Road Addition Queries I",
+        "title_slug": "shortest-distance-after-road-addition-queries-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3514,
+        "index": "3244",
+        "title": "Shortest Distance After Road Addition Queries II",
+        "title_slug": "shortest-distance-after-road-addition-queries-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3527,
+        "index": "3245",
+        "title": "Alternating Groups III",
+        "title_slug": "alternating-groups-iii",
+        "difficulty": 3
+    },
+    {
+        "id": 3554,
+        "index": "3246",
+        "title": "Premier League Table Ranking",
+        "title_slug": "premier-league-table-ranking",
+        "difficulty": 1
+    },
+    {
+        "id": 3537,
+        "index": "3247",
+        "title": "Number of Subsequences with Odd Sum",
+        "title_slug": "number-of-subsequences-with-odd-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3533,
+        "index": "3248",
+        "title": "Snake in Matrix",
+        "title_slug": "snake-in-matrix",
+        "difficulty": 1
+    },
+    {
+        "id": 3486,
+        "index": "3249",
+        "title": "Count the Number of Good Nodes",
+        "title_slug": "count-the-number-of-good-nodes",
+        "difficulty": 2
+    },
+    {
+        "id": 3535,
+        "index": "3250",
+        "title": "Find the Count of Monotonic Pairs I",
+        "title_slug": "find-the-count-of-monotonic-pairs-i",
+        "difficulty": 3
+    },
+    {
+        "id": 3536,
+        "index": "3251",
+        "title": "Find the Count of Monotonic Pairs II",
+        "title_slug": "find-the-count-of-monotonic-pairs-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3564,
+        "index": "3252",
+        "title": "Premier League Table Ranking II",
+        "title_slug": "premier-league-table-ranking-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3480,
+        "index": "3253",
+        "title": "Construct String with Minimum Cost (Easy)",
+        "title_slug": "construct-string-with-minimum-cost-easy",
+        "difficulty": 2
+    },
+    {
+        "id": 3522,
+        "index": "3254",
+        "title": "Find the Power of K-Size Subarrays I",
+        "title_slug": "find-the-power-of-k-size-subarrays-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3523,
+        "index": "3255",
+        "title": "Find the Power of K-Size Subarrays II",
+        "title_slug": "find-the-power-of-k-size-subarrays-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3550,
+        "index": "3256",
+        "title": "Maximum Value Sum by Placing Three Rooks I",
+        "title_slug": "maximum-value-sum-by-placing-three-rooks-i",
+        "difficulty": 3
+    },
+    {
+        "id": 3542,
+        "index": "3257",
+        "title": "Maximum Value Sum by Placing Three Rooks II",
+        "title_slug": "maximum-value-sum-by-placing-three-rooks-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3543,
+        "index": "3258",
+        "title": "Count Substrings That Satisfy K-Constraint I",
+        "title_slug": "count-substrings-that-satisfy-k-constraint-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3525,
+        "index": "3259",
+        "title": "Maximum Energy Boost From Two Drinks",
+        "title_slug": "maximum-energy-boost-from-two-drinks",
+        "difficulty": 2
+    },
+    {
+        "id": 3552,
+        "index": "3260",
+        "title": "Find the Largest Palindrome Divisible by K",
+        "title_slug": "find-the-largest-palindrome-divisible-by-k",
+        "difficulty": 3
+    },
+    {
+        "id": 3546,
+        "index": "3261",
+        "title": "Count Substrings That Satisfy K-Constraint II",
+        "title_slug": "count-substrings-that-satisfy-k-constraint-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3574,
+        "index": "3262",
+        "title": "Find Overlapping Shifts",
+        "title_slug": "find-overlapping-shifts",
+        "difficulty": 2
+    },
+    {
+        "id": 3577,
+        "index": "3263",
+        "title": "Convert Doubly Linked List to Array I",
+        "title_slug": "convert-doubly-linked-list-to-array-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3555,
+        "index": "3264",
+        "title": "Final Array State After K Multiplication Operations I",
+        "title_slug": "final-array-state-after-k-multiplication-operations-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3534,
+        "index": "3265",
+        "title": "Count Almost Equal Pairs I",
+        "title_slug": "count-almost-equal-pairs-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3556,
+        "index": "3266",
+        "title": "Final Array State After K Multiplication Operations II",
+        "title_slug": "final-array-state-after-k-multiplication-operations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3544,
+        "index": "3267",
+        "title": "Count Almost Equal Pairs II",
+        "title_slug": "count-almost-equal-pairs-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3585,
+        "index": "3268",
+        "title": "Find Overlapping Shifts II",
+        "title_slug": "find-overlapping-shifts-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3586,
+        "index": "3269",
+        "title": "Constructing Two Increasing Arrays",
+        "title_slug": "constructing-two-increasing-arrays",
+        "difficulty": 3
+    },
+    {
+        "id": 3568,
+        "index": "3270",
+        "title": "Find the Key of the Numbers",
+        "title_slug": "find-the-key-of-the-numbers",
+        "difficulty": 1
+    },
+    {
+        "id": 3540,
+        "index": "3271",
+        "title": "Hash Divided String",
+        "title_slug": "hash-divided-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3548,
+        "index": "3272",
+        "title": "Find the Count of Good Integers",
+        "title_slug": "find-the-count-of-good-integers",
+        "difficulty": 3
+    },
+    {
+        "id": 3531,
+        "index": "3273",
+        "title": "Minimum Amount of Damage Dealt to Bob",
+        "title_slug": "minimum-amount-of-damage-dealt-to-bob",
+        "difficulty": 3
+    },
+    {
+        "id": 3553,
+        "index": "3274",
+        "title": "Check if Two Chessboard Squares Have the Same Color",
+        "title_slug": "check-if-two-chessboard-squares-have-the-same-color",
+        "difficulty": 1
+    },
+    {
+        "id": 3495,
+        "index": "3275",
+        "title": "K-th Nearest Obstacle Queries",
+        "title_slug": "k-th-nearest-obstacle-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 3563,
+        "index": "3276",
+        "title": "Select Cells in Grid With Maximum Score",
+        "title_slug": "select-cells-in-grid-with-maximum-score",
+        "difficulty": 3
+    },
+    {
+        "id": 3551,
+        "index": "3277",
+        "title": "Maximum XOR Score Subarray Queries",
+        "title_slug": "maximum-xor-score-subarray-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 3589,
+        "index": "3278",
+        "title": "Find Candidates for Data Scientist Position II",
+        "title_slug": "find-candidates-for-data-scientist-position-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3590,
+        "index": "3279",
+        "title": "Maximum Total Area Occupied by Pistons",
+        "title_slug": "maximum-total-area-occupied-by-pistons",
+        "difficulty": 3
+    },
+    {
+        "id": 3567,
+        "index": "3280",
+        "title": "Convert Date to Binary",
+        "title_slug": "convert-date-to-binary",
+        "difficulty": 1
+    },
+    {
+        "id": 3485,
+        "index": "3281",
+        "title": "Maximize Score of Numbers in Ranges",
+        "title_slug": "maximize-score-of-numbers-in-ranges",
+        "difficulty": 2
+    },
+    {
+        "id": 3528,
+        "index": "3282",
+        "title": "Reach End of Array With Max Score",
+        "title_slug": "reach-end-of-array-with-max-score",
+        "difficulty": 2
+    },
+    {
+        "id": 3560,
+        "index": "3283",
+        "title": "Maximum Number of Moves to Kill All Pawns",
+        "title_slug": "maximum-number-of-moves-to-kill-all-pawns",
+        "difficulty": 3
+    },
+    {
+        "id": 3602,
+        "index": "3284",
+        "title": "Sum of Consecutive Subarrays",
+        "title_slug": "sum-of-consecutive-subarrays",
+        "difficulty": 2
+    },
+    {
+        "id": 3582,
+        "index": "3285",
+        "title": "Find Indices of Stable Mountains",
+        "title_slug": "find-indices-of-stable-mountains",
+        "difficulty": 1
+    },
+    {
+        "id": 3558,
+        "index": "3286",
+        "title": "Find a Safe Walk Through a Grid",
+        "title_slug": "find-a-safe-walk-through-a-grid",
+        "difficulty": 2
+    },
+    {
+        "id": 3575,
+        "index": "3287",
+        "title": "Find the Maximum Sequence Value of Array",
+        "title_slug": "find-the-maximum-sequence-value-of-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3571,
+        "index": "3288",
+        "title": "Length of the Longest Increasing Path",
+        "title_slug": "length-of-the-longest-increasing-path",
+        "difficulty": 3
+    },
+    {
+        "id": 3581,
+        "index": "3289",
+        "title": "The Two Sneaky Numbers of Digitville",
+        "title_slug": "the-two-sneaky-numbers-of-digitville",
+        "difficulty": 1
+    },
+    {
+        "id": 3518,
+        "index": "3290",
+        "title": "Maximum Multiplication Score",
+        "title_slug": "maximum-multiplication-score",
+        "difficulty": 2
+    },
+    {
+        "id": 3559,
+        "index": "3291",
+        "title": "Minimum Number of Valid Strings to Form Target I",
+        "title_slug": "minimum-number-of-valid-strings-to-form-target-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3557,
+        "index": "3292",
+        "title": "Minimum Number of Valid Strings to Form Target II",
+        "title_slug": "minimum-number-of-valid-strings-to-form-target-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3609,
+        "index": "3293",
+        "title": "Calculate Product Final Price",
+        "title_slug": "calculate-product-final-price",
+        "difficulty": 2
+    },
+    {
+        "id": 3615,
+        "index": "3294",
+        "title": "Convert Doubly Linked List to Array II",
+        "title_slug": "convert-doubly-linked-list-to-array-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3541,
+        "index": "3295",
+        "title": "Report Spam Message",
+        "title_slug": "report-spam-message",
+        "difficulty": 2
+    },
+    {
+        "id": 3496,
+        "index": "3296",
+        "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+        "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+        "difficulty": 2
+    },
+    {
+        "id": 3573,
+        "index": "3297",
+        "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+        "title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3572,
+        "index": "3298",
+        "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+        "title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3623,
+        "index": "3299",
+        "title": "Sum of Consecutive Subsequences",
+        "title_slug": "sum-of-consecutive-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 3606,
+        "index": "3300",
+        "title": "Minimum Element After Replacement With Digit Sum",
+        "title_slug": "minimum-element-after-replacement-with-digit-sum",
+        "difficulty": 1
+    },
+    {
+        "id": 3510,
+        "index": "3301",
+        "title": "Maximize the Total Height of Unique Towers",
+        "title_slug": "maximize-the-total-height-of-unique-towers",
+        "difficulty": 2
+    },
+    {
+        "id": 3584,
+        "index": "3302",
+        "title": "Find the Lexicographically Smallest Valid Sequence",
+        "title_slug": "find-the-lexicographically-smallest-valid-sequence",
+        "difficulty": 2
+    },
+    {
+        "id": 3580,
+        "index": "3303",
+        "title": "Find the Occurrence of First Almost Equal Substring",
+        "title_slug": "find-the-occurrence-of-first-almost-equal-substring",
+        "difficulty": 3
+    },
+    {
+        "id": 3600,
+        "index": "3304",
+        "title": "Find the K-th Character in String Game I",
+        "title_slug": "find-the-k-th-character-in-string-game-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3570,
+        "index": "3305",
+        "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+        "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3569,
+        "index": "3306",
+        "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+        "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3601,
+        "index": "3307",
+        "title": "Find the K-th Character in String Game II",
+        "title_slug": "find-the-k-th-character-in-string-game-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3624,
+        "index": "3308",
+        "title": "Find Top Performing Driver",
+        "title_slug": "find-top-performing-driver",
+        "difficulty": 2
+    },
+    {
+        "id": 3579,
+        "index": "3309",
+        "title": "Maximum Possible Number by Binary Concatenation",
+        "title_slug": "maximum-possible-number-by-binary-concatenation",
+        "difficulty": 2
+    },
+    {
+        "id": 3561,
+        "index": "3310",
+        "title": "Remove Methods From Project",
+        "title_slug": "remove-methods-from-project",
+        "difficulty": 2
+    },
+    {
+        "id": 3578,
+        "index": "3311",
+        "title": "Construct 2D Grid Matching Graph Layout",
+        "title_slug": "construct-2d-grid-matching-graph-layout",
+        "difficulty": 3
+    },
+    {
+        "id": 3583,
+        "index": "3312",
+        "title": "Sorted GCD Pair Queries",
+        "title_slug": "sorted-gcd-pair-queries",
+        "difficulty": 3
+    },
+    {
+        "id": 3497,
+        "index": "3313",
+        "title": "Find the Last Marked Nodes in Tree",
+        "title_slug": "find-the-last-marked-nodes-in-tree",
+        "difficulty": 3
+    },
+    {
+        "id": 3605,
+        "index": "3314",
+        "title": "Construct the Minimum Bitwise Array I",
+        "title_slug": "construct-the-minimum-bitwise-array-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3611,
+        "index": "3315",
+        "title": "Construct the Minimum Bitwise Array II",
+        "title_slug": "construct-the-minimum-bitwise-array-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3487,
+        "index": "3316",
+        "title": "Find Maximum Removals From Source String",
+        "title_slug": "find-maximum-removals-from-source-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3604,
+        "index": "3317",
+        "title": "Find the Number of Possible Ways for an Event",
+        "title_slug": "find-the-number-of-possible-ways-for-an-event",
+        "difficulty": 3
+    },
+    {
+        "id": 3610,
+        "index": "3318",
+        "title": "Find X-Sum of All K-Long Subarrays I",
+        "title_slug": "find-x-sum-of-all-k-long-subarrays-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3509,
+        "index": "3319",
+        "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+        "title_slug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+        "difficulty": 2
+    },
+    {
+        "id": 3588,
+        "index": "3320",
+        "title": "Count The Number of Winning Sequences",
+        "title_slug": "count-the-number-of-winning-sequences",
+        "difficulty": 3
+    },
+    {
+        "id": 3592,
+        "index": "3321",
+        "title": "Find X-Sum of All K-Long Subarrays II",
+        "title_slug": "find-x-sum-of-all-k-long-subarrays-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3642,
+        "index": "3322",
+        "title": "Premier League Table Ranking III",
+        "title_slug": "premier-league-table-ranking-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3565,
+        "index": "3323",
+        "title": "Minimize Connected Groups by Inserting Interval",
+        "title_slug": "minimize-connected-groups-by-inserting-interval",
+        "difficulty": 2
     },
     {
         "id": 100107,
