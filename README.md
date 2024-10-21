@@ -717,7 +717,7 @@
 | 0697 | Degree of an Array | [JavaScript](./src/0697.degree-of-an-array.697/solution.js) [TypeScript](./src/0697.degree-of-an-array.697/solution.ts) | Easy  |
 | 0698 | Partition to K Equal Sum Subsets |  | Medium  |
 | 0699 | Falling Squares | [TypeScript](./src/0699.falling-squares.699/solution.ts) | Hard  |
-| 0700 | Search in a Binary Search Tree | [Go](./src/0700.search-in-a-binary-search-tree.783/solution.go) [JavaScript](./src/0700.search-in-a-binary-search-tree.783/solution.js) [TypeScript](./src/0700.search-in-a-binary-search-tree.783/solution.ts) | Easy  |
+| 0700 | Search in a Binary Search Tree | [Go](./src/0700.search-in-a-binary-search-tree.783/solution.go) [Java](./src/0700.search-in-a-binary-search-tree.783/solution.java) [JavaScript](./src/0700.search-in-a-binary-search-tree.783/solution.js) [TypeScript](./src/0700.search-in-a-binary-search-tree.783/solution.ts) | Easy  |
 | 0701 | Insert into a Binary Search Tree | [JavaScript](./src/0701.insert-into-a-binary-search-tree.784/solution.js) [TypeScript](./src/0701.insert-into-a-binary-search-tree.784/solution.ts) | Medium  |
 | 0702 | Search in a Sorted Array of Unknown Size | [JavaScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.js) [TypeScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.ts) | Medium  |
 | 0703 | Kth Largest Element in a Stream | [JavaScript](./src/0703.kth-largest-element-in-a-stream.789/solution.js) [TypeScript](./src/0703.kth-largest-element-in-a-stream.789/solution.ts) | Easy  |
@@ -2017,7 +2017,7 @@
 | 1997 | First Day Where You Have Been in All the Rooms |  | Medium  |
 | 1998 | GCD Sort of an Array |  | Hard  |
 | 1999 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
-| 2000 | Reverse Prefix of Word | [JavaScript](./src/2000.reverse-prefix-of-word.2128/solution.js) [TypeScript](./src/2000.reverse-prefix-of-word.2128/solution.ts) | Easy  |
+| 2000 | Reverse Prefix of Word | [Java](./src/2000.reverse-prefix-of-word.2128/solution.java) [JavaScript](./src/2000.reverse-prefix-of-word.2128/solution.js) [TypeScript](./src/2000.reverse-prefix-of-word.2128/solution.ts) | Easy  |
 | 2001 | Number of Pairs of Interchangeable Rectangles | [JavaScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/solution.js) [TypeScript](./src/2001.number-of-pairs-of-interchangeable-rectangles.2129/solution.ts) | Medium  |
 | 2002 | Maximum Product of the Length of Two Palindromic Subsequences | [TypeScript](./src/2002.maximum-product-of-the-length-of-two-palindromic-subsequences.2130/solution.ts) | Medium  |
 | 2003 | Smallest Missing Genetic Value in Each Subtree |  | Hard  |
@@ -2054,7 +2054,7 @@
 | 2034 | Stock Price Fluctuation  | [TypeScript](./src/2034.stock-price-fluctuation.2161/solution.ts) | Medium  |
 | 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
 | 2036 | Maximum Alternating Subarray Sum |  | Medium  |
-| 2037 | Minimum Number of Moves to Seat Everyone | [JavaScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.js) [TypeScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.ts) | Easy  |
+| 2037 | Minimum Number of Moves to Seat Everyone | [Java](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.java) [JavaScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.js) [TypeScript](./src/2037.minimum-number-of-moves-to-seat-everyone.2148/solution.ts) | Easy  |
 | 2038 | Remove Colored Pieces if Both Neighbors are the Same Color | [JavaScript](./src/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149/solution.js) [TypeScript](./src/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.2149/solution.ts) | Medium  |
 | 2039 | The Time When the Network Becomes Idle |  | Medium  |
 | 2040 | Kth Smallest Product of Two Sorted Arrays |  | Hard  |
@@ -2211,7 +2211,7 @@
 | 2191 | Sort the Jumbled Numbers | [JavaScript](./src/2191.sort-the-jumbled-numbers.1333/solution.js) [TypeScript](./src/2191.sort-the-jumbled-numbers.1333/solution.ts) | Medium  |
 | 2192 | All Ancestors of a Node in a Directed Acyclic Graph | [JavaScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.js) [TypeScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.ts) | Medium  |
 | 2193 | Minimum Number of Moves to Make Palindrome |  | Hard  |
-| 2194 | Cells in a Range on an Excel Sheet | [JavaScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.js) [TypeScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.ts) | Easy  |
+| 2194 | Cells in a Range on an Excel Sheet | [Java](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.java) [JavaScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.js) [TypeScript](./src/2194.cells-in-a-range-on-an-excel-sheet.2304/solution.ts) | Easy  |
 | 2195 | Append K Integers With Minimal Sum |  | Medium  |
 | 2196 | Create Binary Tree From Descriptions | [JavaScript](./src/2196.create-binary-tree-from-descriptions.2306/solution.js) [TypeScript](./src/2196.create-binary-tree-from-descriptions.2306/solution.ts) | Medium  |
 | 2197 | Replace Non-Coprime Numbers in Array |  | Hard  |
@@ -3341,7 +3341,7 @@
 | 3321 | Find X-Sum of All K-Long Subarrays II |  | Hard  |
 | 3322 | Premier League Table Ranking III |  | Medium  |
 | 3323 | Minimize Connected Groups by Inserting Interval |  | Medium  |
-| LCP01 | Guess Numbers | [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
+| LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
 | LCP04 | Broken Board Dominoes |  | Hard  |
