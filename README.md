@@ -674,7 +674,7 @@
 | 0654 | Maximum Binary Tree | [JavaScript](./src/0654.maximum-binary-tree.654/solution.js) [TypeScript](./src/0654.maximum-binary-tree.654/solution.ts) | Medium  |
 | 0655 | Print Binary Tree | [JavaScript](./src/0655.print-binary-tree.655/solution.js) [TypeScript](./src/0655.print-binary-tree.655/solution.ts) | Medium  |
 | 0656 | Coin Path |  | Hard  |
-| 0657 | Robot Return to Origin | [JavaScript](./src/0657.robot-return-to-origin.657/solution.js) [TypeScript](./src/0657.robot-return-to-origin.657/solution.ts) | Easy  |
+| 0657 | Robot Return to Origin | [Java](./src/0657.robot-return-to-origin.657/solution.java) [JavaScript](./src/0657.robot-return-to-origin.657/solution.js) [TypeScript](./src/0657.robot-return-to-origin.657/solution.ts) | Easy  |
 | 0658 | Find K Closest Elements | [JavaScript](./src/0658.find-k-closest-elements.658/solution.js) [TypeScript](./src/0658.find-k-closest-elements.658/solution.ts) | Medium  |
 | 0659 | Split Array into Consecutive Subsequences |  | Medium  |
 | 0660 | Remove 9 |  | Hard  |
@@ -849,7 +849,7 @@
 | 0829 | Consecutive Numbers Sum | [TypeScript](./src/0829.consecutive-numbers-sum.856/solution.ts) | Hard  |
 | 0830 | Positions of Large Groups | [JavaScript](./src/0830.positions-of-large-groups.857/solution.js) [TypeScript](./src/0830.positions-of-large-groups.857/solution.ts) | Easy  |
 | 0831 | Masking Personal Information | [JavaScript](./src/0831.masking-personal-information.858/solution.js) | Medium  |
-| 0832 | Flipping an Image | [JavaScript](./src/0832.flipping-an-image.861/solution.js) [TypeScript](./src/0832.flipping-an-image.861/solution.ts) | Easy  |
+| 0832 | Flipping an Image | [Java](./src/0832.flipping-an-image.861/solution.java) [JavaScript](./src/0832.flipping-an-image.861/solution.js) [TypeScript](./src/0832.flipping-an-image.861/solution.ts) | Easy  |
 | 0833 | Find And Replace in String | [JavaScript](./src/0833.find-and-replace-in-string.862/solution.js) | Medium  |
 | 0834 | Sum of Distances in Tree | [JavaScript](./src/0834.sum-of-distances-in-tree.863/solution.js) | Hard  |
 | 0835 | Image Overlap |  | Medium  |
@@ -1283,7 +1283,7 @@
 | 1263 | Minimum Moves to Move a Box to Their Target Location |  | Hard  |
 | 1264 | Page Recommendations |  | Medium  |
 | 1265 | Print Immutable Linked List in Reverse | [JavaScript](./src/1265.print-immutable-linked-list-in-reverse.1404/solution.js) [TypeScript](./src/1265.print-immutable-linked-list-in-reverse.1404/solution.ts) | Medium  |
-| 1266 | Minimum Time Visiting All Points | [JavaScript](./src/1266.minimum-time-visiting-all-points.1395/solution.js) [TypeScript](./src/1266.minimum-time-visiting-all-points.1395/solution.ts) | Easy  |
+| 1266 | Minimum Time Visiting All Points | [Java](./src/1266.minimum-time-visiting-all-points.1395/solution.java) [JavaScript](./src/1266.minimum-time-visiting-all-points.1395/solution.js) [TypeScript](./src/1266.minimum-time-visiting-all-points.1395/solution.ts) | Easy  |
 | 1267 | Count Servers that Communicate | [JavaScript](./src/1267.count-servers-that-communicate.1396/solution.js) | Medium  |
 | 1268 | Search Suggestions System | [Python3](./src/1268.search-suggestions-system.1397/solution.py) | Medium  |
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | [JavaScript](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.1398/solution.js) | Hard  |
@@ -1467,7 +1467,7 @@
 | 1447 | Simplified Fractions | [JavaScript](./src/1447.simplified-fractions.1543/solution.js) | Medium  |
 | 1448 | Count Good Nodes in Binary Tree | [JavaScript](./src/1448.count-good-nodes-in-binary-tree.1544/solution.js) [TypeScript](./src/1448.count-good-nodes-in-binary-tree.1544/solution.ts) | Medium  |
 | 1449 | Form Largest Integer With Digits That Add up to Target |  | Hard  |
-| 1450 | Number of Students Doing Homework at a Given Time | [JavaScript](./src/1450.number-of-students-doing-homework-at-a-given-time.1560/solution.js) [TypeScript](./src/1450.number-of-students-doing-homework-at-a-given-time.1560/solution.ts) | Easy  |
+| 1450 | Number of Students Doing Homework at a Given Time | [Java](./src/1450.number-of-students-doing-homework-at-a-given-time.1560/solution.java) [JavaScript](./src/1450.number-of-students-doing-homework-at-a-given-time.1560/solution.js) [TypeScript](./src/1450.number-of-students-doing-homework-at-a-given-time.1560/solution.ts) | Easy  |
 | 1451 | Rearrange Words in a Sentence | [JavaScript](./src/1451.rearrange-words-in-a-sentence.1561/solution.js) | Medium  |
 | 1452 | People Whose List of Favorite Companies Is Not a Subset of Another List | [JavaScript](./src/1452.people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.1562/solution.js) | Medium  |
 | 1453 | Maximum Number of Darts Inside of a Circular Dartboard |  | Hard  |
@@ -1529,7 +1529,7 @@
 | 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | [JavaScript](./src/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.1616/solution.js) | Medium  |
 | 1510 | Stone Game IV | [JavaScript](./src/1510.stone-game-iv.1617/solution.js) | Hard  |
 | 1511 | Customer Order Frequency |  | Easy  |
-| 1512 | Number of Good Pairs | [JavaScript](./src/1512.number-of-good-pairs.1635/solution.js) [TypeScript](./src/1512.number-of-good-pairs.1635/solution.ts) | Easy  |
+| 1512 | Number of Good Pairs | [Java](./src/1512.number-of-good-pairs.1635/solution.java) [JavaScript](./src/1512.number-of-good-pairs.1635/solution.js) [TypeScript](./src/1512.number-of-good-pairs.1635/solution.ts) | Easy  |
 | 1513 | Number of Substrings With Only 1s | [JavaScript](./src/1513.number-of-substrings-with-only-1s.1636/solution.js) [TypeScript](./src/1513.number-of-substrings-with-only-1s.1636/solution.ts) | Medium  |
 | 1514 | Path with Maximum Probability | [JavaScript](./src/1514.path-with-maximum-probability.1325/solution.js) | Medium  |
 | 1515 | Best Position for a Service Centre |  | Hard  |
