@@ -3082,25 +3082,25 @@
 | 3062 | Winner of the Linked List Game |  | Easy  |
 | 3063 | Linked List Frequency |  | Easy  |
 | 3064 | Guess the Number Using Bitwise Questions I |  | Medium  |
-| 3065 | Minimum Operations to Exceed Threshold Value I |  | Easy  |
+| 3065 | Minimum Operations to Exceed Threshold Value I | [TypeScript](./src/3065.minimum-operations-to-exceed-threshold-value-i.3331/solution.ts) | Easy  |
 | 3066 | Minimum Operations to Exceed Threshold Value II |  | Medium  |
 | 3067 | Count Pairs of Connectable Servers in a Weighted Tree Network |  | Medium  |
 | 3068 | Find the Maximum Sum of Node Values |  | Hard  |
-| 3069 | Distribute Elements Into Two Arrays I |  | Easy  |
+| 3069 | Distribute Elements Into Two Arrays I | [TypeScript](./src/3069.distribute-elements-into-two-arrays-i.3347/solution.ts) | Easy  |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k |  | Medium  |
 | 3071 | Minimum Operations to Write the Letter Y on a Grid |  | Medium  |
 | 3072 | Distribute Elements Into Two Arrays II |  | Hard  |
 | 3073 | Maximum Increasing Triplet Value |  | Medium  |
-| 3074 | Apple Redistribution into Boxes |  | Easy  |
+| 3074 | Apple Redistribution into Boxes | [TypeScript](./src/3074.apple-redistribution-into-boxes.3334/solution.ts) | Easy  |
 | 3075 | Maximize Happiness of Selected Children |  | Medium  |
 | 3076 | Shortest Uncommon Substring in an Array |  | Medium  |
 | 3077 | Maximum Strength of K Disjoint Subarrays |  | Hard  |
 | 3078 | Match Alphanumerical Pattern in Matrix I |  | Medium  |
-| 3079 | Find the Sum of Encrypted Integers |  | Easy  |
+| 3079 | Find the Sum of Encrypted Integers | [TypeScript](./src/3079.find-the-sum-of-encrypted-integers.3367/solution.ts) | Easy  |
 | 3080 | Mark Elements on Array by Performing Queries |  | Medium  |
 | 3081 | Replace Question Marks in String to Minimize Its Value |  | Medium  |
 | 3082 | Find the Sum of the Power of All Subsequences |  | Hard  |
-| 3083 | Existence of a Substring in a String and Its Reverse |  | Easy  |
+| 3083 | Existence of a Substring in a String and Its Reverse | [TypeScript](./src/3083.existence-of-a-substring-in-a-string-and-its-reverse.3353/solution.ts) | Easy  |
 | 3084 | Count Substrings Starting and Ending with Given Character |  | Medium  |
 | 3085 | Minimum Deletions to Make String K-Special |  | Medium  |
 | 3086 | Minimum Moves to Pick K Ones |  | Hard  |
@@ -3341,6 +3341,12 @@
 | 3321 | Find X-Sum of All K-Long Subarrays II |  | Hard  |
 | 3322 | Premier League Table Ranking III |  | Medium  |
 | 3323 | Minimize Connected Groups by Inserting Interval |  | Medium  |
+| 3324 | Find the Sequence of Strings Appeared on the Screen |  | Medium  |
+| 3325 | Count Substrings With K-Frequency Characters I |  | Medium  |
+| 3326 | Minimum Division Operations to Make Array Non Decreasing |  | Medium  |
+| 3327 | Check if DFS Strings Are Palindromes |  | Hard  |
+| 3328 | Find Cities in Each State II |  | Medium  |
+| 3329 | Count Substrings With K-Frequency Characters II |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
