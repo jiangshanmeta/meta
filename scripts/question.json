@@ -23261,6 +23261,48 @@
         "difficulty": 2
     },
     {
+        "id": 3566,
+        "index": "3324",
+        "title": "Find the Sequence of Strings Appeared on the Screen",
+        "title_slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+        "difficulty": 2
+    },
+    {
+        "id": 3502,
+        "index": "3325",
+        "title": "Count Substrings With K-Frequency Characters I",
+        "title_slug": "count-substrings-with-k-frequency-characters-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3607,
+        "index": "3326",
+        "title": "Minimum Division Operations to Make Array Non Decreasing",
+        "title_slug": "minimum-division-operations-to-make-array-non-decreasing",
+        "difficulty": 2
+    },
+    {
+        "id": 3603,
+        "index": "3327",
+        "title": "Check if DFS Strings Are Palindromes",
+        "title_slug": "check-if-dfs-strings-are-palindromes",
+        "difficulty": 3
+    },
+    {
+        "id": 3650,
+        "index": "3328",
+        "title": "Find Cities in Each State II",
+        "title_slug": "find-cities-in-each-state-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3499,
+        "index": "3329",
+        "title": "Count Substrings With K-Frequency Characters II",
+        "title_slug": "count-substrings-with-k-frequency-characters-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
