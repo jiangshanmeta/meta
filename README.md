@@ -3116,7 +3116,7 @@
 | 3096 | Minimum Levels to Gain More Points |  | Medium  |
 | 3097 | Shortest Subarray With OR at Least K II |  | Medium  |
 | 3098 | Find the Sum of Subsequence Powers |  | Hard  |
-| 3099 | Harshad Number |  | Easy  |
+| 3099 | Harshad Number | [TypeScript](./src/3099.harshad-number.3371/solution.ts) | Easy  |
 | 3100 | Water Bottles II |  | Medium  |
 | 3101 | Count Alternating Subarrays |  | Medium  |
 | 3102 | Minimize Manhattan Distances |  | Hard  |
@@ -3127,7 +3127,7 @@
 | 3107 | Minimum Operations to Make Median of Array Equal to K |  | Medium  |
 | 3108 | Minimum Cost Walk in Weighted Graph |  | Hard  |
 | 3109 | Find the Index of Permutation |  | Medium  |
-| 3110 | Score of a String |  | Easy  |
+| 3110 | Score of a String | [TypeScript](./src/3110.score-of-a-string.3379/solution.ts) | Easy  |
 | 3111 | Minimum Rectangles to Cover Points |  | Medium  |
 | 3112 | Minimum Time to Visit Disappearing Nodes |  | Medium  |
 | 3113 | Find the Number of Subarrays Where Boundary Elements Are Maximum |  | Hard  |
@@ -3137,18 +3137,18 @@
 | 3117 | Minimum Sum of Values by Dividing Array |  | Hard  |
 | 3118 | Friday Purchase III  |  | Medium  |
 | 3119 | Maximum Number of Potholes That Can Be Fixed |  | Medium  |
-| 3120 | Count the Number of Special Characters I |  | Easy  |
+| 3120 | Count the Number of Special Characters I | [TypeScript](./src/3120.count-the-number-of-special-characters-i.3408/solution.ts) | Easy  |
 | 3121 | Count the Number of Special Characters II |  | Medium  |
 | 3122 | Minimum Number of Operations to Satisfy Conditions |  | Medium  |
 | 3123 | Find Edges in Shortest Paths |  | Hard  |
 | 3124 | Find Longest Calls |  | Medium  |
 | 3125 | Maximum Number That Makes Result of Bitwise AND Zero |  | Medium  |
 | 3126 | Server Utilization Time |  | Medium  |
-| 3127 | Make a Square with the Same Color |  | Easy  |
+| 3127 | Make a Square with the Same Color | [TypeScript](./src/3127.make-a-square-with-the-same-color.3398/solution.ts) | Easy  |
 | 3128 | Right Triangles |  | Medium  |
 | 3129 | Find All Possible Stable Binary Arrays I |  | Medium  |
 | 3130 | Find All Possible Stable Binary Arrays II |  | Hard  |
-| 3131 | Find the Integer Added to Array I |  | Easy  |
+| 3131 | Find the Integer Added to Array I | [TypeScript](./src/3131.find-the-integer-added-to-array-i.3397/solution.ts) | Easy  |
 | 3132 | Find the Integer Added to Array II |  | Medium  |
 | 3133 | Minimum Array End |  | Medium  |
 | 3134 | Find the Median of the Uniqueness Array |  | Hard  |
