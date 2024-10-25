@@ -3131,7 +3131,7 @@
 | 3111 | Minimum Rectangles to Cover Points |  | Medium  |
 | 3112 | Minimum Time to Visit Disappearing Nodes |  | Medium  |
 | 3113 | Find the Number of Subarrays Where Boundary Elements Are Maximum |  | Hard  |
-| 3114 | Latest Time You Can Obtain After Replacing Characters |  | Easy  |
+| 3114 | Latest Time You Can Obtain After Replacing Characters | [TypeScript](./src/3114.latest-time-you-can-obtain-after-replacing-characters.3361/solution.ts) | Easy  |
 | 3115 | Maximum Prime Difference |  | Medium  |
 | 3116 | Kth Smallest Amount With Single Denomination Combination |  | Hard  |
 | 3117 | Minimum Sum of Values by Dividing Array |  | Hard  |
@@ -3153,22 +3153,22 @@
 | 3133 | Minimum Array End |  | Medium  |
 | 3134 | Find the Median of the Uniqueness Array |  | Hard  |
 | 3135 | Equalize Strings by Adding or Removing Characters at Ends |  | Medium  |
-| 3136 | Valid Word |  | Easy  |
+| 3136 | Valid Word | [TypeScript](./src/3136.valid-word.3396/solution.ts) | Easy  |
 | 3137 | Minimum Number of Operations to Make Word K-Periodic |  | Medium  |
 | 3138 | Minimum Length of Anagram Concatenation |  | Medium  |
 | 3139 | Minimum Cost to Equalize Array |  | Hard  |
 | 3140 | Consecutive Available Seats II |  | Medium  |
 | 3141 | Maximum Hamming Distances |  | Hard  |
-| 3142 | Check if Grid Satisfies Conditions |  | Easy  |
+| 3142 | Check if Grid Satisfies Conditions | [TypeScript](./src/3142.check-if-grid-satisfies-conditions.3415/solution.ts) | Easy  |
 | 3143 | Maximum Points Inside the Square |  | Medium  |
 | 3144 | Minimum Substring Partition of Equal Character Frequency |  | Medium  |
 | 3145 | Find Products of Elements of Big Array |  | Hard  |
-| 3146 | Permutation Difference between Two Strings |  | Easy  |
+| 3146 | Permutation Difference between Two Strings | [TypeScript](./src/3146.permutation-difference-between-two-strings.3412/solution.ts) | Easy  |
 | 3147 | Taking Maximum Energy From the Mystic Dungeon |  | Medium  |
 | 3148 | Maximum Difference Score in a Grid |  | Medium  |
 | 3149 | Find the Minimum Cost Array Permutation |  | Hard  |
 | 3150 | Invalid Tweets II |  | Easy  |
-| 3151 | Special Array I |  | Easy  |
+| 3151 | Special Array I | [TypeScript](./src/3151.special-array-i.3429/solution.ts) | Easy  |
 | 3152 | Special Array II |  | Medium  |
 | 3153 | Sum of Digit Differences of All Pairs |  | Medium  |
 | 3154 | Find Number of Ways to Reach the K-th Stair |  | Hard  |
