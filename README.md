@@ -1589,7 +1589,7 @@
 | 1569 | Number of Ways to Reorder Array to Get Same BST |  | Hard  |
 | 1570 | Dot Product of Two Sparse Vectors | [JavaScript](./src/1570.dot-product-of-two-sparse-vectors.1713/solution.js) [TypeScript](./src/1570.dot-product-of-two-sparse-vectors.1713/solution.ts) | Medium  |
 | 1571 | Warehouse Manager |  | Easy  |
-| 1572 | Matrix Diagonal Sum | [JavaScript](./src/1572.matrix-diagonal-sum.1677/solution.js) [TypeScript](./src/1572.matrix-diagonal-sum.1677/solution.ts) | Easy  |
+| 1572 | Matrix Diagonal Sum | [Java](./src/1572.matrix-diagonal-sum.1677/solution.java) [JavaScript](./src/1572.matrix-diagonal-sum.1677/solution.js) [TypeScript](./src/1572.matrix-diagonal-sum.1677/solution.ts) | Easy  |
 | 1573 | Number of Ways to Split a String | [TypeScript](./src/1573.number-of-ways-to-split-a-string.1678/solution.ts) | Medium  |
 | 1574 | Shortest Subarray to be Removed to Make Array Sorted | [TypeScript](./src/1574.shortest-subarray-to-be-removed-to-make-array-sorted.1679/solution.ts) | Medium  |
 | 1575 | Count All Possible Routes |  | Hard  |
@@ -1749,7 +1749,7 @@
 | 1729 | Find Followers Count |  | Easy  |
 | 1730 | Shortest Path to Get Food |  | Medium  |
 | 1731 | The Number of Employees Which Report to Each Employee |  | Easy  |
-| 1732 | Find the Highest Altitude | [JavaScript](./src/1732.find-the-highest-altitude.1833/solution.js) [TypeScript](./src/1732.find-the-highest-altitude.1833/solution.ts) | Easy  |
+| 1732 | Find the Highest Altitude | [Java](./src/1732.find-the-highest-altitude.1833/solution.java) [JavaScript](./src/1732.find-the-highest-altitude.1833/solution.js) [TypeScript](./src/1732.find-the-highest-altitude.1833/solution.ts) | Easy  |
 | 1733 | Minimum Number of People to Teach | [JavaScript](./src/1733.minimum-number-of-people-to-teach.1834/solution.js) [TypeScript](./src/1733.minimum-number-of-people-to-teach.1834/solution.ts) | Medium  |
 | 1734 | Decode XORed Permutation | [JavaScript](./src/1734.decode-xored-permutation.1835/solution.js) [TypeScript](./src/1734.decode-xored-permutation.1835/solution.ts) | Medium  |
 | 1735 | Count Ways to Make Array With Product |  | Hard  |
@@ -1946,7 +1946,7 @@
 | 1926 | Nearest Exit from Entrance in Maze | [JavaScript](./src/1926.nearest-exit-from-entrance-in-maze.2038/solution.js) [TypeScript](./src/1926.nearest-exit-from-entrance-in-maze.2038/solution.ts) | Medium  |
 | 1927 | Sum Game |  | Medium  |
 | 1928 | Minimum Cost to Reach Destination in Time |  | Hard  |
-| 1929 | Concatenation of Array | [JavaScript](./src/1929.concatenation-of-array.2058/solution.js) [TypeScript](./src/1929.concatenation-of-array.2058/solution.ts) | Easy  |
+| 1929 | Concatenation of Array | [Java](./src/1929.concatenation-of-array.2058/solution.java) [JavaScript](./src/1929.concatenation-of-array.2058/solution.js) [TypeScript](./src/1929.concatenation-of-array.2058/solution.ts) | Easy  |
 | 1930 | Unique Length-3 Palindromic Subsequences | [JavaScript](./src/1930.unique-length-3-palindromic-subsequences.2059/solution.js) [TypeScript](./src/1930.unique-length-3-palindromic-subsequences.2059/solution.ts) | Medium  |
 | 1931 | Painting a Grid With Three Different Colors |  | Hard  |
 | 1932 | Merge BSTs to Create Single BST |  | Hard  |
@@ -2660,7 +2660,7 @@
 | 2640 | Find the Score of All Prefixes of an Array | [TypeScript](./src/2640.find-the-score-of-all-prefixes-of-an-array.2676/solution.ts) | Medium  |
 | 2641 | Cousins in Binary Tree II | [TypeScript](./src/2641.cousins-in-binary-tree-ii.2677/solution.ts) | Medium  |
 | 2642 | Design Graph With Shortest Path Calculator | [TypeScript](./src/2642.design-graph-with-shortest-path-calculator.2678/solution.ts) | Hard  |
-| 2643 | Row With Maximum Ones | [TypeScript](./src/2643.row-with-maximum-ones.2737/solution.ts) | Easy  |
+| 2643 | Row With Maximum Ones | [Java](./src/2643.row-with-maximum-ones.2737/solution.java) [TypeScript](./src/2643.row-with-maximum-ones.2737/solution.ts) | Easy  |
 | 2644 | Find the Maximum Divisibility Score | [TypeScript](./src/2644.find-the-maximum-divisibility-score.2694/solution.ts) | Easy  |
 | 2645 | Minimum Additions to Make Valid String | [TypeScript](./src/2645.minimum-additions-to-make-valid-string.2736/solution.ts) | Medium  |
 | 2646 | Minimize the Total Price of the Trips |  | Hard  |
@@ -3363,7 +3363,7 @@
 | LCP14 | 切分数组 |  | Hard  |
 | LCP15 | 游乐园的迷宫 |  | Hard  |
 | LCP16 | 游乐园的游览计划 |  | Hard  |
-| LCP17 | 速算机器人 | [JavaScript](./src/LCP17.nGK0Fy.1000139/solution.js) [TypeScript](./src/LCP17.nGK0Fy.1000139/solution.ts) | Easy  |
+| LCP17 | 速算机器人 | [Java](./src/LCP17.nGK0Fy.1000139/solution.java) [JavaScript](./src/LCP17.nGK0Fy.1000139/solution.js) [TypeScript](./src/LCP17.nGK0Fy.1000139/solution.ts) | Easy  |
 | LCP18 | 早餐组合 | [JavaScript](./src/LCP18.2vYnGI.1000146/solution.js) [TypeScript](./src/LCP18.2vYnGI.1000146/solution.ts) | Easy  |
 | LCP19 | 秋叶收藏集 | [TypeScript](./src/LCP19.UlBDOe.1000130/solution.ts) | Medium  |
 | LCP20 | 快速公交 |  | Hard  |
