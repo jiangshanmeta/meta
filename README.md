@@ -3175,23 +3175,23 @@
 | 3155 | Maximum Number of Upgradable Servers |  | Medium  |
 | 3156 | Employee Task Duration and Concurrent Tasks |  | Hard  |
 | 3157 | Find the Level of Tree with Minimum Sum |  | Medium  |
-| 3158 | Find the XOR of Numbers Which Appear Twice |  | Easy  |
+| 3158 | Find the XOR of Numbers Which Appear Twice | [TypeScript](./src/3158.find-the-xor-of-numbers-which-appear-twice.3428/solution.ts) | Easy  |
 | 3159 | Find Occurrences of an Element in an Array |  | Medium  |
 | 3160 | Find the Number of Distinct Colors Among the Balls |  | Medium  |
 | 3161 | Block Placement Queries |  | Hard  |
-| 3162 | Find the Number of Good Pairs I |  | Easy  |
+| 3162 | Find the Number of Good Pairs I | [TypeScript](./src/3162.find-the-number-of-good-pairs-i.3446/solution.ts) | Easy  |
 | 3163 | String Compression III |  | Medium  |
 | 3164 | Find the Number of Good Pairs II |  | Medium  |
 | 3165 | Maximum Sum of Subsequence With Non-adjacent Elements |  | Hard  |
 | 3166 | Calculate Parking Fees and Duration |  | Medium  |
 | 3167 | Better Compression of String |  | Medium  |
-| 3168 | Minimum Number of Chairs in a Waiting Room |  | Easy  |
+| 3168 | Minimum Number of Chairs in a Waiting Room | [TypeScript](./src/3168.minimum-number-of-chairs-in-a-waiting-room.3426/solution.ts) | Easy  |
 | 3169 | Count Days Without Meetings |  | Medium  |
 | 3170 | Lexicographically Minimum String After Removing Stars |  | Medium  |
 | 3171 | Find Subarray With Bitwise OR Closest to K |  | Hard  |
 | 3172 | Second Day Verification |  | Easy  |
 | 3173 | Bitwise OR of Adjacent Elements |  | Easy  |
-| 3174 | Clear Digits |  | Easy  |
+| 3174 | Clear Digits | [TypeScript](./src/3174.clear-digits.3447/solution.ts) | Easy  |
 | 3175 | Find The First Player to win K Games in a Row |  | Medium  |
 | 3176 | Find the Maximum Length of a Good Subsequence I |  | Medium  |
 | 3177 | Find the Maximum Length of a Good Subsequence II |  | Hard  |
@@ -3201,7 +3201,7 @@
 | 3181 | Maximum Total Reward Using Operations II |  | Hard  |
 | 3182 | Find Top Scoring Students |  | Medium  |
 | 3183 | The Number of Ways to Make the Sum |  | Medium  |
-| 3184 | Count Pairs That Form a Complete Day I |  | Easy  |
+| 3184 | Count Pairs That Form a Complete Day I | [TypeScript](./src/3184.count-pairs-that-form-a-complete-day-i.3421/solution.ts) | Easy  |
 | 3185 | Count Pairs That Form a Complete Day II |  | Medium  |
 | 3186 | Maximum Total Damage With Spell Casting |  | Medium  |
 | 3187 | Peaks in Array |  | Hard  |
