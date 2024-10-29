@@ -3249,13 +3249,13 @@
 | 3229 | Minimum Operations to Make Array Equal to Target |  | Hard  |
 | 3230 | Customer Purchasing Behavior Analysis |  | Medium  |
 | 3231 | Minimum Number of Increasing Subsequence to Be Removed |  | Hard  |
-| 3232 | Find if Digit Game Can Be Won |  | Easy  |
+| 3232 | Find if Digit Game Can Be Won | [TypeScript](./src/3232.find-if-digit-game-can-be-won.3515/solution.ts) | Easy  |
 | 3233 | Find the Count of Numbers Which Are Not Special |  | Medium  |
 | 3234 | Count the Number of Substrings With Dominant Ones |  | Medium  |
 | 3235 | Check if the Rectangle Corner Is Reachable |  | Hard  |
 | 3236 | CEO Subordinate Hierarchy |  | Hard  |
 | 3237 | Alt and Tab Simulation |  | Medium  |
-| 3238 | Find the Number of Winning Players |  | Easy  |
+| 3238 | Find the Number of Winning Players | [TypeScript](./src/3238.find-the-number-of-winning-players.3519/solution.ts) | Easy  |
 | 3239 | Minimum Number of Flips to Make Binary Grid Palindromic I |  | Medium  |
 | 3240 | Minimum Number of Flips to Make Binary Grid Palindromic II |  | Medium  |
 | 3241 | Time Taken to Mark All Nodes |  | Hard  |
@@ -3287,17 +3287,17 @@
 | 3267 | Count Almost Equal Pairs II |  | Hard  |
 | 3268 | Find Overlapping Shifts II |  | Hard  |
 | 3269 | Constructing Two Increasing Arrays |  | Hard  |
-| 3270 | Find the Key of the Numbers |  | Easy  |
+| 3270 | Find the Key of the Numbers | [TypeScript](./src/3270.find-the-key-of-the-numbers.3568/solution.ts) | Easy  |
 | 3271 | Hash Divided String |  | Medium  |
 | 3272 | Find the Count of Good Integers |  | Hard  |
 | 3273 | Minimum Amount of Damage Dealt to Bob |  | Hard  |
-| 3274 | Check if Two Chessboard Squares Have the Same Color |  | Easy  |
+| 3274 | Check if Two Chessboard Squares Have the Same Color | [TypeScript](./src/3274.check-if-two-chessboard-squares-have-the-same-color.3553/solution.ts) | Easy  |
 | 3275 | K-th Nearest Obstacle Queries |  | Medium  |
 | 3276 | Select Cells in Grid With Maximum Score |  | Hard  |
 | 3277 | Maximum XOR Score Subarray Queries |  | Hard  |
 | 3278 | Find Candidates for Data Scientist Position II |  | Medium  |
 | 3279 | Maximum Total Area Occupied by Pistons |  | Hard  |
-| 3280 | Convert Date to Binary |  | Easy  |
+| 3280 | Convert Date to Binary | [TypeScript](./src/3280.convert-date-to-binary.3567/solution.ts) | Easy  |
 | 3281 | Maximize Score of Numbers in Ranges |  | Medium  |
 | 3282 | Reach End of Array With Max Score |  | Medium  |
 | 3283 | Maximum Number of Moves to Kill All Pawns |  | Hard  |
