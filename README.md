@@ -3317,11 +3317,11 @@
 | 3297 | Count Substrings That Can Be Rearranged to Contain a String I |  | Medium  |
 | 3298 | Count Substrings That Can Be Rearranged to Contain a String II |  | Hard  |
 | 3299 | Sum of Consecutive Subsequences |  | Hard  |
-| 3300 | Minimum Element After Replacement With Digit Sum |  | Easy  |
+| 3300 | Minimum Element After Replacement With Digit Sum | [TypeScript](./src/3300.minimum-element-after-replacement-with-digit-sum.3606/solution.ts) | Easy  |
 | 3301 | Maximize the Total Height of Unique Towers |  | Medium  |
 | 3302 | Find the Lexicographically Smallest Valid Sequence |  | Medium  |
 | 3303 | Find the Occurrence of First Almost Equal Substring |  | Hard  |
-| 3304 | Find the K-th Character in String Game I |  | Easy  |
+| 3304 | Find the K-th Character in String Game I | [TypeScript](./src/3304.find-the-k-th-character-in-string-game-i.3600/solution.ts) | Easy  |
 | 3305 | Count of Substrings Containing Every Vowel and K Consonants I |  | Medium  |
 | 3306 | Count of Substrings Containing Every Vowel and K Consonants II |  | Medium  |
 | 3307 | Find the K-th Character in String Game II |  | Hard  |
@@ -3347,6 +3347,16 @@
 | 3327 | Check if DFS Strings Are Palindromes |  | Hard  |
 | 3328 | Find Cities in Each State II |  | Medium  |
 | 3329 | Count Substrings With K-Frequency Characters II |  | Hard  |
+| 3330 | Find the Original Typed String I | [Java](./src/3330.find-the-original-typed-string-i.3617/solution.java) [TypeScript](./src/3330.find-the-original-typed-string-i.3617/solution.ts) | Easy  |
+| 3331 | Find Subtree Sizes After Changes |  | Medium  |
+| 3332 | Maximum Points Tourist Can Earn |  | Medium  |
+| 3333 | Find the Original Typed String II |  | Hard  |
+| 3334 | Find the Maximum Factor Score of Array |  | Medium  |
+| 3335 | Total Characters in String After Transformations I |  | Medium  |
+| 3336 | Find the Number of Subsequences With Equal GCD |  | Hard  |
+| 3337 | Total Characters in String After Transformations II |  | Hard  |
+| 3338 | Second Highest Salary II |  | Medium  |
+| 3339 | Find the Number of K-Even Arrays |  | Medium  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -3618,7 +3628,7 @@
 | LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
 | LCR001 | 两数相除 | [TypeScript](./src/LCR001.xoh6Oh.1000228/solution.ts) | Easy  |
 | LCR002 | 二进制求和 |  | Easy  |
-| LCR003 | 比特位计数 |  | Easy  |
+| LCR003 | 比特位计数 | [Java](./src/LCR003.w3tCBm.1000230/solution.java) | Easy  |
 | LCR004 | 只出现一次的数字 II | [TypeScript](./src/LCR004.WGki4K.1000233/solution.ts) | Medium  |
 | LCR005 | 最大单词长度乘积 |  | Medium  |
 | LCR006 | 两数之和 II - 输入有序数组 |  | Easy  |
