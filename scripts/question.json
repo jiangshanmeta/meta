@@ -23303,6 +23303,76 @@
         "difficulty": 3
     },
     {
+        "id": 3617,
+        "index": "3330",
+        "title": "Find the Original Typed String I",
+        "title_slug": "find-the-original-typed-string-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3576,
+        "index": "3331",
+        "title": "Find Subtree Sizes After Changes",
+        "title_slug": "find-subtree-sizes-after-changes",
+        "difficulty": 2
+    },
+    {
+        "id": 3587,
+        "index": "3332",
+        "title": "Maximum Points Tourist Can Earn",
+        "title_slug": "maximum-points-tourist-can-earn",
+        "difficulty": 2
+    },
+    {
+        "id": 3618,
+        "index": "3333",
+        "title": "Find the Original Typed String II",
+        "title_slug": "find-the-original-typed-string-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3593,
+        "index": "3334",
+        "title": "Find the Maximum Factor Score of Array",
+        "title_slug": "find-the-maximum-factor-score-of-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3629,
+        "index": "3335",
+        "title": "Total Characters in String After Transformations I",
+        "title_slug": "total-characters-in-string-after-transformations-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3608,
+        "index": "3336",
+        "title": "Find the Number of Subsequences With Equal GCD",
+        "title_slug": "find-the-number-of-subsequences-with-equal-gcd",
+        "difficulty": 3
+    },
+    {
+        "id": 3630,
+        "index": "3337",
+        "title": "Total Characters in String After Transformations II",
+        "title_slug": "total-characters-in-string-after-transformations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3660,
+        "index": "3338",
+        "title": "Second Highest Salary II",
+        "title_slug": "second-highest-salary-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3614,
+        "index": "3339",
+        "title": "Find the Number of K-Even Arrays",
+        "title_slug": "find-the-number-of-k-even-arrays",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
