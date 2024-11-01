@@ -70,7 +70,7 @@
 | 0050 | Pow(x, n) | [JavaScript](./src/0050.powx-n.50/solution.js) [TypeScript](./src/0050.powx-n.50/solution.ts) | Medium  |
 | 0051 | N-Queens |  | Hard  |
 | 0052 | N-Queens II |  | Hard  |
-| 0053 | Maximum Subarray | [JavaScript](./src/0053.maximum-subarray.53/solution.js) [TypeScript](./src/0053.maximum-subarray.53/solution.ts) | Medium  |
+| 0053 | Maximum Subarray | [Java](./src/0053.maximum-subarray.53/solution.java) [JavaScript](./src/0053.maximum-subarray.53/solution.js) [TypeScript](./src/0053.maximum-subarray.53/solution.ts) | Medium  |
 | 0054 | Spiral Matrix | [JavaScript](./src/0054.spiral-matrix.54/solution.js) [TypeScript](./src/0054.spiral-matrix.54/solution.ts) | Medium  |
 | 0055 | Jump Game | [JavaScript](./src/0055.jump-game.55/solution.js) [TypeScript](./src/0055.jump-game.55/solution.ts) | Medium  |
 | 0056 | Merge Intervals | [JavaScript](./src/0056.merge-intervals.56/solution.js) | Medium  |
@@ -433,7 +433,7 @@
 | 0413 | Arithmetic Slices | [JavaScript](./src/0413.arithmetic-slices.413/solution.js) | Medium  |
 | 0414 | Third Maximum Number | [JavaScript](./src/0414.third-maximum-number.414/solution.js) [TypeScript](./src/0414.third-maximum-number.414/solution.ts) | Easy  |
 | 0415 | Add Strings | [JavaScript](./src/0415.add-strings.415/solution.js) [TypeScript](./src/0415.add-strings.415/solution.ts) | Easy  |
-| 0416 | Partition Equal Subset Sum | [JavaScript](./src/0416.partition-equal-subset-sum.416/solution.js) [TypeScript](./src/0416.partition-equal-subset-sum.416/solution.ts) | Medium  |
+| 0416 | Partition Equal Subset Sum | [Java](./src/0416.partition-equal-subset-sum.416/solution.java) [JavaScript](./src/0416.partition-equal-subset-sum.416/solution.js) [TypeScript](./src/0416.partition-equal-subset-sum.416/solution.ts) | Medium  |
 | 0417 | Pacific Atlantic Water Flow | [JavaScript](./src/0417.pacific-atlantic-water-flow.417/solution.js) | Medium  |
 | 0418 | Sentence Screen Fitting |  | Medium  |
 | 0419 | Battleships in a Board | [JavaScript](./src/0419.battleships-in-a-board.419/solution.js) | Medium  |
@@ -745,7 +745,7 @@
 | 0725 | Split Linked List in Parts | [JavaScript](./src/0725.split-linked-list-in-parts.725/solution.js) | Medium  |
 | 0726 | Number of Atoms | [JavaScript](./src/0726.number-of-atoms.726/solution.js) | Hard  |
 | 0727 | Minimum Window Subsequence |  | Hard  |
-| 0728 | Self Dividing Numbers | [JavaScript](./src/0728.self-dividing-numbers.728/solution.js) [TypeScript](./src/0728.self-dividing-numbers.728/solution.ts) | Easy  |
+| 0728 | Self Dividing Numbers | [Java](./src/0728.self-dividing-numbers.728/solution.java) [JavaScript](./src/0728.self-dividing-numbers.728/solution.js) [TypeScript](./src/0728.self-dividing-numbers.728/solution.ts) | Easy  |
 | 0729 | My Calendar I | [JavaScript](./src/0729.my-calendar-i.729/solution.js) | Medium  |
 | 0730 | Count Different Palindromic Subsequences |  | Hard  |
 | 0731 | My Calendar II | [TypeScript](./src/0731.my-calendar-ii.731/solution.ts) | Medium  |
@@ -783,7 +783,7 @@
 | 0763 | Partition Labels | [JavaScript](./src/0763.partition-labels.768/solution.js) [TypeScript](./src/0763.partition-labels.768/solution.ts) | Medium  |
 | 0764 | Largest Plus Sign | [TypeScript](./src/0764.largest-plus-sign.769/solution.ts) | Medium  |
 | 0765 | Couples Holding Hands |  | Hard  |
-| 0766 | Toeplitz Matrix | [JavaScript](./src/0766.toeplitz-matrix.777/solution.js) [TypeScript](./src/0766.toeplitz-matrix.777/solution.ts) | Easy  |
+| 0766 | Toeplitz Matrix | [Java](./src/0766.toeplitz-matrix.777/solution.java) [JavaScript](./src/0766.toeplitz-matrix.777/solution.js) [TypeScript](./src/0766.toeplitz-matrix.777/solution.ts) | Easy  |
 | 0767 | Reorganize String | [JavaScript](./src/0767.reorganize-string.778/solution.js) | Medium  |
 | 0768 | Max Chunks To Make Sorted II | [JavaScript](./src/0768.max-chunks-to-make-sorted-ii.779/solution.js) | Hard  |
 | 0769 | Max Chunks To Make Sorted | [JavaScript](./src/0769.max-chunks-to-make-sorted.780/solution.js) | Medium  |
@@ -813,7 +813,7 @@
 | 0793 | Preimage Size of Factorial Zeroes Function | [TypeScript](./src/0793.preimage-size-of-factorial-zeroes-function.809/solution.ts) | Hard  |
 | 0794 | Valid Tic-Tac-Toe State | [JavaScript](./src/0794.valid-tic-tac-toe-state.810/solution.js) | Medium  |
 | 0795 | Number of Subarrays with Bounded Maximum | [JavaScript](./src/0795.number-of-subarrays-with-bounded-maximum.811/solution.js) | Medium  |
-| 0796 | Rotate String | [JavaScript](./src/0796.rotate-string.812/solution.js) [TypeScript](./src/0796.rotate-string.812/solution.ts) | Easy  |
+| 0796 | Rotate String | [Java](./src/0796.rotate-string.812/solution.java) [JavaScript](./src/0796.rotate-string.812/solution.js) [TypeScript](./src/0796.rotate-string.812/solution.ts) | Easy  |
 | 0797 | All Paths From Source to Target | [JavaScript](./src/0797.all-paths-from-source-to-target.813/solution.js) [TypeScript](./src/0797.all-paths-from-source-to-target.813/solution.ts) | Medium  |
 | 0798 | Smallest Rotation with Highest Score |  | Hard  |
 | 0799 | Champagne Tower | [JavaScript](./src/0799.champagne-tower.815/solution.js) | Medium  |
