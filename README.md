@@ -431,7 +431,7 @@
 | 0411 | Minimum Unique Word Abbreviation |  | Hard  |
 | 0412 | Fizz Buzz | [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
 | 0413 | Arithmetic Slices | [JavaScript](./src/0413.arithmetic-slices.413/solution.js) | Medium  |
-| 0414 | Third Maximum Number | [JavaScript](./src/0414.third-maximum-number.414/solution.js) [TypeScript](./src/0414.third-maximum-number.414/solution.ts) | Easy  |
+| 0414 | Third Maximum Number | [Java](./src/0414.third-maximum-number.414/solution.java) [JavaScript](./src/0414.third-maximum-number.414/solution.js) [TypeScript](./src/0414.third-maximum-number.414/solution.ts) | Easy  |
 | 0415 | Add Strings | [JavaScript](./src/0415.add-strings.415/solution.js) [TypeScript](./src/0415.add-strings.415/solution.ts) | Easy  |
 | 0416 | Partition Equal Subset Sum | [Java](./src/0416.partition-equal-subset-sum.416/solution.java) [JavaScript](./src/0416.partition-equal-subset-sum.416/solution.js) [TypeScript](./src/0416.partition-equal-subset-sum.416/solution.ts) | Medium  |
 | 0417 | Pacific Atlantic Water Flow | [JavaScript](./src/0417.pacific-atlantic-water-flow.417/solution.js) | Medium  |
@@ -458,7 +458,7 @@
 | 0438 | Find All Anagrams in a String | [JavaScript](./src/0438.find-all-anagrams-in-a-string.438/solution.js) [TypeScript](./src/0438.find-all-anagrams-in-a-string.438/solution.ts) | Medium  |
 | 0439 | Ternary Expression Parser |  | Medium  |
 | 0440 | K-th Smallest in Lexicographical Order |  | Hard  |
-| 0441 | Arranging Coins | [JavaScript](./src/0441.arranging-coins.441/solution.js) [TypeScript](./src/0441.arranging-coins.441/solution.ts) | Easy  |
+| 0441 | Arranging Coins | [Java](./src/0441.arranging-coins.441/solution.java) [JavaScript](./src/0441.arranging-coins.441/solution.js) [TypeScript](./src/0441.arranging-coins.441/solution.ts) | Easy  |
 | 0442 | Find All Duplicates in an Array | [JavaScript](./src/0442.find-all-duplicates-in-an-array.442/solution.js) [TypeScript](./src/0442.find-all-duplicates-in-an-array.442/solution.ts) | Medium  |
 | 0443 | String Compression | [JavaScript](./src/0443.string-compression.443/solution.js) | Medium  |
 | 0444 | Sequence Reconstruction |  | Medium  |
@@ -502,7 +502,7 @@
 | 0482 | License Key Formatting | [JavaScript](./src/0482.license-key-formatting.482/solution.js) [TypeScript](./src/0482.license-key-formatting.482/solution.ts) | Easy  |
 | 0483 | Smallest Good Base |  | Hard  |
 | 0484 | Find Permutation |  | Medium  |
-| 0485 | Max Consecutive Ones | [JavaScript](./src/0485.max-consecutive-ones.485/solution.js) [TypeScript](./src/0485.max-consecutive-ones.485/solution.ts) | Easy  |
+| 0485 | Max Consecutive Ones | [Java](./src/0485.max-consecutive-ones.485/solution.java) [JavaScript](./src/0485.max-consecutive-ones.485/solution.js) [TypeScript](./src/0485.max-consecutive-ones.485/solution.ts) | Easy  |
 | 0486 | Predict the Winner | [JavaScript](./src/0486.predict-the-winner.486/solution.js) | Medium  |
 | 0487 | Max Consecutive Ones II | [JavaScript](./src/0487.max-consecutive-ones-ii.487/solution.js) | Medium  |
 | 0488 | Zuma Game |  | Hard  |
@@ -645,7 +645,7 @@
 | 0625 | Minimum Factorization |  | Medium  |
 | 0626 | Exchange Seats | [Mysql](./src/0626.exchange-seats.626/solution.sql) | Medium  |
 | 0627 | Swap Salary | [Mysql](./src/0627.swap-salary.627/solution.sql) | Easy  |
-| 0628 | Maximum Product of Three Numbers | [JavaScript](./src/0628.maximum-product-of-three-numbers.628/solution.js) [TypeScript](./src/0628.maximum-product-of-three-numbers.628/solution.ts) | Easy  |
+| 0628 | Maximum Product of Three Numbers | [Java](./src/0628.maximum-product-of-three-numbers.628/solution.java) [JavaScript](./src/0628.maximum-product-of-three-numbers.628/solution.js) [TypeScript](./src/0628.maximum-product-of-three-numbers.628/solution.ts) | Easy  |
 | 0629 | K Inverse Pairs Array |  | Hard  |
 | 0630 | Course Schedule III |  | Hard  |
 | 0631 | Design Excel Sum Formula |  | Hard  |
@@ -823,7 +823,7 @@
 | 0803 | Bricks Falling When Hit |  | Hard  |
 | 0804 | Unique Morse Code Words | [JavaScript](./src/0804.unique-morse-code-words.822/solution.js) [TypeScript](./src/0804.unique-morse-code-words.822/solution.ts) | Easy  |
 | 0805 | Split Array With Same Average |  | Hard  |
-| 0806 | Number of Lines To Write String | [JavaScript](./src/0806.number-of-lines-to-write-string.824/solution.js) [TypeScript](./src/0806.number-of-lines-to-write-string.824/solution.ts) | Easy  |
+| 0806 | Number of Lines To Write String | [Java](./src/0806.number-of-lines-to-write-string.824/solution.java) [JavaScript](./src/0806.number-of-lines-to-write-string.824/solution.js) [TypeScript](./src/0806.number-of-lines-to-write-string.824/solution.ts) | Easy  |
 | 0807 | Max Increase to Keep City Skyline | [JavaScript](./src/0807.max-increase-to-keep-city-skyline.825/solution.js) [TypeScript](./src/0807.max-increase-to-keep-city-skyline.825/solution.ts) | Medium  |
 | 0808 | Soup Servings |  | Medium  |
 | 0809 | Expressive Words | [JavaScript](./src/0809.expressive-words.827/solution.js) | Medium  |
