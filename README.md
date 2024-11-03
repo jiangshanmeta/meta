@@ -877,7 +877,7 @@
 | 0857 | Minimum Cost to Hire K Workers |  | Hard  |
 | 0858 | Mirror Reflection |  | Medium  |
 | 0859 | Buddy Strings | [JavaScript](./src/0859.buddy-strings.889/solution.js) [TypeScript](./src/0859.buddy-strings.889/solution.ts) | Easy  |
-| 0860 | Lemonade Change | [JavaScript](./src/0860.lemonade-change.890/solution.js) [TypeScript](./src/0860.lemonade-change.890/solution.ts) | Easy  |
+| 0860 | Lemonade Change | [Java](./src/0860.lemonade-change.890/solution.java) [JavaScript](./src/0860.lemonade-change.890/solution.js) [TypeScript](./src/0860.lemonade-change.890/solution.ts) | Easy  |
 | 0861 | Score After Flipping Matrix | [JavaScript](./src/0861.score-after-flipping-matrix.891/solution.js) [TypeScript](./src/0861.score-after-flipping-matrix.891/solution.ts) | Medium  |
 | 0862 | Shortest Subarray with Sum at Least K | [JavaScript](./src/0862.shortest-subarray-with-sum-at-least-k.892/solution.js) | Hard  |
 | 0863 | All Nodes Distance K in Binary Tree | [JavaScript](./src/0863.all-nodes-distance-k-in-binary-tree.893/solution.js) [TypeScript](./src/0863.all-nodes-distance-k-in-binary-tree.893/solution.ts) | Medium  |
@@ -1035,7 +1035,7 @@
 | 1015 | Smallest Integer Divisible by K | [JavaScript](./src/1015.smallest-integer-divisible-by-k.1064/solution.js) [TypeScript](./src/1015.smallest-integer-divisible-by-k.1064/solution.ts) | Medium  |
 | 1016 | Binary String With Substrings Representing 1 To N | [JavaScript](./src/1016.binary-string-with-substrings-representing-1-to-n.1065/solution.js) [TypeScript](./src/1016.binary-string-with-substrings-representing-1-to-n.1065/solution.ts) | Medium  |
 | 1017 | Convert to Base -2 | [JavaScript](./src/1017.convert-to-base-2.1070/solution.js) | Medium  |
-| 1018 | Binary Prefix Divisible By 5 | [JavaScript](./src/1018.binary-prefix-divisible-by-5.1071/solution.js) [TypeScript](./src/1018.binary-prefix-divisible-by-5.1071/solution.ts) | Easy  |
+| 1018 | Binary Prefix Divisible By 5 | [Java](./src/1018.binary-prefix-divisible-by-5.1071/solution.java) [JavaScript](./src/1018.binary-prefix-divisible-by-5.1071/solution.js) [TypeScript](./src/1018.binary-prefix-divisible-by-5.1071/solution.ts) | Easy  |
 | 1019 | Next Greater Node In Linked List | [JavaScript](./src/1019.next-greater-node-in-linked-list.1072/solution.js) [TypeScript](./src/1019.next-greater-node-in-linked-list.1072/solution.ts) | Medium  |
 | 1020 | Number of Enclaves | [JavaScript](./src/1020.number-of-enclaves.1073/solution.js) [TypeScript](./src/1020.number-of-enclaves.1073/solution.ts) | Medium  |
 | 1021 | Remove Outermost Parentheses | [JavaScript](./src/1021.remove-outermost-parentheses.1078/solution.js) [TypeScript](./src/1021.remove-outermost-parentheses.1078/solution.ts) | Easy  |
@@ -1095,7 +1095,7 @@
 | 1075 | Project Employees I |  | Easy  |
 | 1076 | Project Employees II |  | Easy  |
 | 1077 | Project Employees III |  | Medium  |
-| 1078 | Occurrences After Bigram | [JavaScript](./src/1078.occurrences-after-bigram.1156/solution.js) [TypeScript](./src/1078.occurrences-after-bigram.1156/solution.ts) | Easy  |
+| 1078 | Occurrences After Bigram | [Java](./src/1078.occurrences-after-bigram.1156/solution.java) [JavaScript](./src/1078.occurrences-after-bigram.1156/solution.js) [TypeScript](./src/1078.occurrences-after-bigram.1156/solution.ts) | Easy  |
 | 1079 | Letter Tile Possibilities | [JavaScript](./src/1079.letter-tile-possibilities.1160/solution.js) | Medium  |
 | 1080 | Insufficient Nodes in Root to Leaf Paths | [JavaScript](./src/1080.insufficient-nodes-in-root-to-leaf-paths.1157/solution.js) | Medium  |
 | 1081 | Smallest Subsequence of Distinct Characters | [JavaScript](./src/1081.smallest-subsequence-of-distinct-characters.1159/solution.js) [TypeScript](./src/1081.smallest-subsequence-of-distinct-characters.1159/solution.ts) | Medium  |
@@ -1177,7 +1177,7 @@
 | 1157 | Online Majority Element In Subarray |  | Hard  |
 | 1158 | Market Analysis I |  | Medium  |
 | 1159 | Market Analysis II |  | Hard  |
-| 1160 | Find Words That Can Be Formed by Characters | [JavaScript](./src/1160.find-words-that-can-be-formed-by-characters.1112/solution.js) [TypeScript](./src/1160.find-words-that-can-be-formed-by-characters.1112/solution.ts) | Easy  |
+| 1160 | Find Words That Can Be Formed by Characters | [Java](./src/1160.find-words-that-can-be-formed-by-characters.1112/solution.java) [JavaScript](./src/1160.find-words-that-can-be-formed-by-characters.1112/solution.js) [TypeScript](./src/1160.find-words-that-can-be-formed-by-characters.1112/solution.ts) | Easy  |
 | 1161 | Maximum Level Sum of a Binary Tree | [JavaScript](./src/1161.maximum-level-sum-of-a-binary-tree.1116/solution.js) [TypeScript](./src/1161.maximum-level-sum-of-a-binary-tree.1116/solution.ts) | Medium  |
 | 1162 | As Far from Land as Possible | [JavaScript](./src/1162.as-far-from-land-as-possible.1117/solution.js) | Medium  |
 | 1163 | Last Substring in Lexicographical Order |  | Hard  |
@@ -1192,7 +1192,7 @@
 | 1172 | Dinner Plate Stacks | [JavaScript](./src/1172.dinner-plate-stacks.1270/solution.js) | Hard  |
 | 1173 | Immediate Food Delivery I |  | Easy  |
 | 1174 | Immediate Food Delivery II |  | Medium  |
-| 1175 | Prime Arrangements | [JavaScript](./src/1175.prime-arrangements.1279/solution.js) [TypeScript](./src/1175.prime-arrangements.1279/solution.ts) | Easy  |
+| 1175 | Prime Arrangements | [Java](./src/1175.prime-arrangements.1279/solution.java) [JavaScript](./src/1175.prime-arrangements.1279/solution.js) [TypeScript](./src/1175.prime-arrangements.1279/solution.ts) | Easy  |
 | 1176 | Diet Plan Performance | [JavaScript](./src/1176.diet-plan-performance.1280/solution.js) [TypeScript](./src/1176.diet-plan-performance.1280/solution.ts) | Easy  |
 | 1177 | Can Make Palindrome from Substring | [JavaScript](./src/1177.can-make-palindrome-from-substring.1281/solution.js) | Medium  |
 | 1178 | Number of Valid Words for Each Puzzle |  | Hard  |
