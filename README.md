@@ -3445,7 +3445,7 @@
 | LCR123 | 图书整理 I | [Java](./src/LCR123.cong-wei-dao-tou-da-yin-lian-biao-lcof.100282/solution.java) | Easy  |
 | LCR124 | 推理二叉树 |  | Medium  |
 | LCR125 | 图书整理 II |  | Easy  |
-| LCR126 | 斐波那契数 |  | Easy  |
+| LCR126 | 斐波那契数 | [Java](./src/LCR126.fei-bo-na-qi-shu-lie-lcof.100274/solution.java) | Easy  |
 | LCR127 | 跳跃训练 |  | Easy  |
 | LCR128 | 库存管理 I |  | Easy  |
 | LCR129 | 字母迷宫 |  | Medium  |
@@ -3454,7 +3454,7 @@
 | LCR132 | 砍竹子 II |  | Medium  |
 | LCR133 | 位 1 的个数 | [Java](./src/LCR133.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.java) | Easy  |
 | LCR134 | Pow(x, n) |  | Medium  |
-| LCR135 | 报数 |  | Easy  |
+| LCR135 | 报数 | [Java](./src/LCR135.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.java) | Easy  |
 | LCR136 | 删除链表的节点 | [Java](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.java) | Easy  |
 | LCR137 | 模糊搜索验证 |  | Hard  |
 | LCR138 | 有效数字 | [TypeScript](./src/LCR138.biao-shi-shu-zhi-de-zi-fu-chuan-lcof.100290/solution.ts) | Medium  |
@@ -3469,7 +3469,7 @@
 | LCR147 | 最小栈 |  | Easy  |
 | LCR148 | 验证图书取出顺序 |  | Medium  |
 | LCR149 | 彩灯装饰记录 I |  | Medium  |
-| LCR150 | 彩灯装饰记录 II |  | Easy  |
+| LCR150 | 彩灯装饰记录 II | [Java](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.java) | Easy  |
 | LCR151 | 彩灯装饰记录 III |  | Medium  |
 | LCR152 | 验证二叉搜索树的后序遍历序列 |  | Medium  |
 | LCR153 | 二叉树中和为目标值的路径 |  | Medium  |
@@ -3491,10 +3491,10 @@
 | LCR169 | 招式拆解 II |  | Easy  |
 | LCR170 | 交易逆序对的总数 |  | Hard  |
 | LCR171 | 训练计划 V |  | Easy  |
-| LCR172 | 统计目标成绩的出现次数 |  | Easy  |
+| LCR172 | 统计目标成绩的出现次数 | [Java](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.java) | Easy  |
 | LCR173 | 点名 |  | Easy  |
 | LCR174 | 寻找二叉搜索树中的目标节点 |  | Easy  |
-| LCR175 | 计算二叉树的深度 |  | Easy  |
+| LCR175 | 计算二叉树的深度 | [Java](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.java) | Easy  |
 | LCR176 | 判断是否为平衡二叉树 |  | Easy  |
 | LCR177 | 撞色搭配 |  | Medium  |
 | LCR178 | 训练计划 VI |  | Medium  |
