@@ -3495,13 +3495,13 @@
 | LCR173 | 点名 |  | Easy  |
 | LCR174 | 寻找二叉搜索树中的目标节点 |  | Easy  |
 | LCR175 | 计算二叉树的深度 | [Java](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.java) | Easy  |
-| LCR176 | 判断是否为平衡二叉树 |  | Easy  |
+| LCR176 | 判断是否为平衡二叉树 | [Java](./src/LCR176.ping-heng-er-cha-shu-lcof.100342/solution.java) | Easy  |
 | LCR177 | 撞色搭配 |  | Medium  |
 | LCR178 | 训练计划 VI |  | Medium  |
-| LCR179 | 查找总价格为目标值的两个商品 |  | Easy  |
+| LCR179 | 查找总价格为目标值的两个商品 | [Java](./src/LCR179.he-wei-sde-liang-ge-shu-zi-lcof.100322/solution.java) | Easy  |
 | LCR180 | 文件组合 |  | Easy  |
-| LCR181 | 字符串中的单词反转 |  | Easy  |
-| LCR182 | 动态口令 |  | Easy  |
+| LCR181 | 字符串中的单词反转 | [Java](./src/LCR181.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.java) | Easy  |
+| LCR182 | 动态口令 | [Java](./src/LCR182.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.java) | Easy  |
 | LCR183 | 望远镜中最高的海拔 |  | Hard  |
 | LCR184 | 设计自助结算系统 |  | Medium  |
 | LCR185 | 统计结果概率 |  | Medium  |
@@ -3512,7 +3512,7 @@
 | LCR190 | 加密运算 |  | Easy  |
 | LCR191 | 按规则计算统计结果 |  | Medium  |
 | LCR192 | 把字符串转换成整数 (atoi) | [JavaScript](./src/LCR192.ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.100340/solution.js) | Medium  |
-| LCR193 | 求二叉搜索树的最近公共祖先 |  | Easy  |
+| LCR193 | 求二叉搜索树的最近公共祖先 | [Java](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.java) | Easy  |
 | LCR194 | 寻找二叉树的最近公共祖先 |  | Easy  |
 | 面试题01_01 | Is Unique LCCI | [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
 | 面试题01_02 | Check Permutation LCCI | [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
