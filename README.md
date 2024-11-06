@@ -3513,9 +3513,9 @@
 | LCR191 | 按规则计算统计结果 |  | Medium  |
 | LCR192 | 把字符串转换成整数 (atoi) | [JavaScript](./src/LCR192.ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.100340/solution.js) | Medium  |
 | LCR193 | 求二叉搜索树的最近公共祖先 | [Java](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.java) | Easy  |
-| LCR194 | 寻找二叉树的最近公共祖先 |  | Easy  |
-| 面试题01_01 | Is Unique LCCI | [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
-| 面试题01_02 | Check Permutation LCCI | [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
+| LCR194 | 寻找二叉树的最近公共祖先 | [Java](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.java) | Easy  |
+| 面试题01_01 | Is Unique LCCI | [Java](./src/面试题01_01.is-unique-lcci.100158/solution.java) [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
+| 面试题01_02 | Check Permutation LCCI | [Java](./src/面试题01_02.check-permutation-lcci.100159/solution.java) [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
 | 面试题01_03 | String to URL LCCI | [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/solution.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/solution.ts) | Easy  |
 | 面试题01_04 | Palindrome Permutation LCCI | [JavaScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.js) [TypeScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.ts) | Easy  |
 | 面试题01_05 | One Away LCCI | [JavaScript](./src/面试题01_05.one-away-lcci.1000006/solution.js) [TypeScript](./src/面试题01_05.one-away-lcci.1000006/solution.ts) | Medium  |
@@ -3540,7 +3540,7 @@
 | 面试题04_01 | Route Between Nodes LCCI  | [JavaScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.js) [TypeScript](./src/面试题04_01.route-between-nodes-lcci.100171/solution.ts) | Medium  |
 | 面试题04_02 | Minimum Height Tree LCCI | [JavaScript](./src/面试题04_02.minimum-height-tree-lcci.100174/solution.js) [TypeScript](./src/面试题04_02.minimum-height-tree-lcci.100174/solution.ts) | Easy  |
 | 面试题04_03 | List of Depth LCCI | [JavaScript](./src/面试题04_03.list-of-depth-lcci.100175/solution.js) [TypeScript](./src/面试题04_03.list-of-depth-lcci.100175/solution.ts) | Medium  |
-| 面试题04_04 | Check Balance LCCI | [JavaScript](./src/面试题04_04.check-balance-lcci.100176/solution.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/solution.ts) | Easy  |
+| 面试题04_04 | Check Balance LCCI | [Java](./src/面试题04_04.check-balance-lcci.100176/solution.java) [JavaScript](./src/面试题04_04.check-balance-lcci.100176/solution.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/solution.ts) | Easy  |
 | 面试题04_05 | Legal Binary Search Tree LCCI | [JavaScript](./src/面试题04_05.legal-binary-search-tree-lcci.100177/solution.js) [TypeScript](./src/面试题04_05.legal-binary-search-tree-lcci.100177/solution.ts) | Medium  |
 | 面试题04_06 | Successor LCCI | [JavaScript](./src/面试题04_06.successor-lcci.100178/solution.js) | Medium  |
 | 面试题04_08 | First Common Ancestor LCCI | [JavaScript](./src/面试题04_08.first-common-ancestor-lcci.100179/solution.js) | Medium  |
@@ -3568,7 +3568,7 @@
 | 面试题08_12 | Eight Queens LCCI |  | Hard  |
 | 面试题08_13 | Pile Box LCCI | [TypeScript](./src/面试题08_13.pile-box-lcci.100202/solution.ts) | Hard  |
 | 面试题08_14 | Boolean Evaluation LCCI |  | Medium  |
-| 面试题10_01 | Sorted Merge LCCI | [JavaScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.js) [TypeScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.ts) | Easy  |
+| 面试题10_01 | Sorted Merge LCCI | [Java](./src/面试题10_01.sorted-merge-lcci.1000012/solution.java) [JavaScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.js) [TypeScript](./src/面试题10_01.sorted-merge-lcci.1000012/solution.ts) | Easy  |
 | 面试题10_02 | Group Anagrams LCCI | [JavaScript](./src/面试题10_02.group-anagrams-lcci.1000040/solution.js) [TypeScript](./src/面试题10_02.group-anagrams-lcci.1000040/solution.ts) | Medium  |
 | 面试题10_03 | Search Rotate Array LCCI | [JavaScript](./src/面试题10_03.search-rotate-array-lcci.100232/solution.js) | Medium  |
 | 面试题10_05 | Sparse Array Search LCCI | [JavaScript](./src/面试题10_05.sparse-array-search-lcci.100242/solution.js) [TypeScript](./src/面试题10_05.sparse-array-search-lcci.100242/solution.ts) | Easy  |
