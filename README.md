@@ -3480,7 +3480,7 @@
 | LCR158 | 库存管理 II |  | Easy  |
 | LCR159 | 库存管理 III |  | Easy  |
 | LCR160 | 数据流中的中位数 |  | Hard  |
-| LCR161 | 连续天数的最高销售额 |  | Easy  |
+| LCR161 | 连续天数的最高销售额 | [Java](./src/LCR161.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.java) | Easy  |
 | LCR162 | 数字 1 的个数 |  | Hard  |
 | LCR163 | 找到第 k 位数字 |  | Medium  |
 | LCR164 | 破解闯关密码 |  | Medium  |
@@ -3492,7 +3492,7 @@
 | LCR170 | 交易逆序对的总数 |  | Hard  |
 | LCR171 | 训练计划 V |  | Easy  |
 | LCR172 | 统计目标成绩的出现次数 | [Java](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.java) | Easy  |
-| LCR173 | 点名 |  | Easy  |
+| LCR173 | 点名 | [Java](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.java) | Easy  |
 | LCR174 | 寻找二叉搜索树中的目标节点 |  | Easy  |
 | LCR175 | 计算二叉树的深度 | [Java](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.java) | Easy  |
 | LCR176 | 判断是否为平衡二叉树 | [Java](./src/LCR176.ping-heng-er-cha-shu-lcof.100342/solution.java) | Easy  |
@@ -3505,7 +3505,7 @@
 | LCR183 | 望远镜中最高的海拔 |  | Hard  |
 | LCR184 | 设计自助结算系统 |  | Medium  |
 | LCR185 | 统计结果概率 |  | Medium  |
-| LCR186 | 文物朝代判断 |  | Easy  |
+| LCR186 | 文物朝代判断 | [Java](./src/LCR186.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.java) | Easy  |
 | LCR187 | 破冰游戏 |  | Easy  |
 | LCR188 | 买卖芯片的最佳时机 |  | Medium  |
 | LCR189 | 设计机械累加器 |  | Medium  |
