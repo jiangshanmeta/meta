@@ -3579,9 +3579,9 @@
 | 面试题16_02 | Words Frequency LCCI | [JavaScript](./src/面试题16_02.words-frequency-lcci.100259/solution.js) [TypeScript](./src/面试题16_02.words-frequency-lcci.100259/solution.ts) | Medium  |
 | 面试题16_03 | Intersection LCCI |  | Hard  |
 | 面试题16_04 | Tic-Tac-Toe LCCI | [JavaScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.js) [TypeScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.ts) | Medium  |
-| 面试题16_05 | Factorial Zeros LCCI | [JavaScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.js) [TypeScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.ts) | Easy  |
+| 面试题16_05 | Factorial Zeros LCCI | [Java](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.java) [JavaScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.js) [TypeScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.ts) | Easy  |
 | 面试题16_06 | Smallest Difference LCCI | [JavaScript](./src/面试题16_06.smallest-difference-lcci.100262/solution.js) [TypeScript](./src/面试题16_06.smallest-difference-lcci.100262/solution.ts) | Medium  |
-| 面试题16_07 | Maximum LCCI | [JavaScript](./src/面试题16_07.maximum-lcci.100349/solution.js) [TypeScript](./src/面试题16_07.maximum-lcci.100349/solution.ts) | Easy  |
+| 面试题16_07 | Maximum LCCI | [Java](./src/面试题16_07.maximum-lcci.100349/solution.java) [JavaScript](./src/面试题16_07.maximum-lcci.100349/solution.js) [TypeScript](./src/面试题16_07.maximum-lcci.100349/solution.ts) | Easy  |
 | 面试题16_08 | English Int LCCI | [JavaScript](./src/面试题16_08.english-int-lcci.1000018/solution.js) | Hard  |
 | 面试题16_09 | Operations LCCI | [TypeScript](./src/面试题16_09.operations-lcci.100350/solution.ts) | Medium  |
 | 面试题16_10 | Living People LCCI | [JavaScript](./src/面试题16_10.living-people-lcci.100351/solution.js) [TypeScript](./src/面试题16_10.living-people-lcci.100351/solution.ts) | Medium  |
