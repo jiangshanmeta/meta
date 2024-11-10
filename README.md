@@ -1206,7 +1206,7 @@
 | 1186 | Maximum Subarray Sum with One Deletion | [JavaScript](./src/1186.maximum-subarray-sum-with-one-deletion.1288/solution.js) | Medium  |
 | 1187 | Make Array Strictly Increasing |  | Hard  |
 | 1188 | Design Bounded Blocking Queue |  | Medium  |
-| 1189 | Maximum Number of Balloons | [JavaScript](./src/1189.maximum-number-of-balloons.1297/solution.js) [TypeScript](./src/1189.maximum-number-of-balloons.1297/solution.ts) | Easy  |
+| 1189 | Maximum Number of Balloons | [Java](./src/1189.maximum-number-of-balloons.1297/solution.java) [JavaScript](./src/1189.maximum-number-of-balloons.1297/solution.js) [TypeScript](./src/1189.maximum-number-of-balloons.1297/solution.ts) | Easy  |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | [JavaScript](./src/1190.reverse-substrings-between-each-pair-of-parentheses.1298/solution.js) | Medium  |
 | 1191 | K-Concatenation Maximum Sum | [JavaScript](./src/1191.k-concatenation-maximum-sum.1299/solution.js) | Medium  |
 | 1192 | Critical Connections in a Network |  | Hard  |
@@ -1411,7 +1411,7 @@
 | 1391 | Check if There is a Valid Path in a Grid | [JavaScript](./src/1391.check-if-there-is-a-valid-path-in-a-grid.1507/solution.js) | Medium  |
 | 1392 | Longest Happy Prefix | [TypeScript](./src/1392.longest-happy-prefix.1508/solution.ts) | Hard  |
 | 1393 | Capital Gain/Loss |  | Medium  |
-| 1394 | Find Lucky Integer in an Array | [JavaScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.js) [TypeScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.ts) | Easy  |
+| 1394 | Find Lucky Integer in an Array | [Java](./src/1394.find-lucky-integer-in-an-array.1510/solution.java) [JavaScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.js) [TypeScript](./src/1394.find-lucky-integer-in-an-array.1510/solution.ts) | Easy  |
 | 1395 | Count Number of Teams | [JavaScript](./src/1395.count-number-of-teams.1511/solution.js) | Medium  |
 | 1396 | Design Underground System | [JavaScript](./src/1396.design-underground-system.1512/solution.js) | Medium  |
 | 1397 | Find All Good Strings |  | Hard  |
@@ -1430,7 +1430,7 @@
 | 1410 | HTML Entity Parser | [JavaScript](./src/1410.html-entity-parser.1526/solution.js) | Medium  |
 | 1411 | Number of Ways to Paint N × 3 Grid |  | Hard  |
 | 1412 | Find the Quiet Students in All Exams |  | Hard  |
-| 1413 | Minimum Value to Get Positive Step by Step Sum | [JavaScript](./src/1413.minimum-value-to-get-positive-step-by-step-sum.1514/solution.js) [TypeScript](./src/1413.minimum-value-to-get-positive-step-by-step-sum.1514/solution.ts) | Easy  |
+| 1413 | Minimum Value to Get Positive Step by Step Sum | [Java](./src/1413.minimum-value-to-get-positive-step-by-step-sum.1514/solution.java) [JavaScript](./src/1413.minimum-value-to-get-positive-step-by-step-sum.1514/solution.js) [TypeScript](./src/1413.minimum-value-to-get-positive-step-by-step-sum.1514/solution.ts) | Easy  |
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [JavaScript](./src/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.1515/solution.js) | Medium  |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | [JavaScript](./src/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.1516/solution.js) | Medium  |
 | 1416 | Restore The Array | [JavaScript](./src/1416.restore-the-array.1517/solution.js) | Hard  |
@@ -1439,7 +1439,7 @@
 | 1419 | Minimum Number of Frogs Croaking | [JavaScript](./src/1419.minimum-number-of-frogs-croaking.1534/solution.js) | Medium  |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons |  | Hard  |
 | 1421 | NPV Queries |  | Easy  |
-| 1422 | Maximum Score After Splitting a String | [JavaScript](./src/1422.maximum-score-after-splitting-a-string.1537/solution.js) [TypeScript](./src/1422.maximum-score-after-splitting-a-string.1537/solution.ts) | Easy  |
+| 1422 | Maximum Score After Splitting a String | [Java](./src/1422.maximum-score-after-splitting-a-string.1537/solution.java) [JavaScript](./src/1422.maximum-score-after-splitting-a-string.1537/solution.js) [TypeScript](./src/1422.maximum-score-after-splitting-a-string.1537/solution.ts) | Easy  |
 | 1423 | Maximum Points You Can Obtain from Cards | [JavaScript](./src/1423.maximum-points-you-can-obtain-from-cards.1538/solution.js) | Medium  |
 | 1424 | Diagonal Traverse II | [JavaScript](./src/1424.diagonal-traverse-ii.1539/solution.js) | Medium  |
 | 1425 | Constrained Subsequence Sum | [JavaScript](./src/1425.constrained-subsequence-sum.1286/solution.js) | Hard  |
@@ -1463,7 +1463,7 @@
 | 1443 | Minimum Time to Collect All Apples in a Tree | [JavaScript](./src/1443.minimum-time-to-collect-all-apples-in-a-tree.1554/solution.js) | Medium  |
 | 1444 | Number of Ways of Cutting a Pizza |  | Hard  |
 | 1445 | Apples & Oranges |  | Medium  |
-| 1446 | Consecutive Characters | [JavaScript](./src/1446.consecutive-characters.1542/solution.js) [TypeScript](./src/1446.consecutive-characters.1542/solution.ts) | Easy  |
+| 1446 | Consecutive Characters | [Java](./src/1446.consecutive-characters.1542/solution.java) [JavaScript](./src/1446.consecutive-characters.1542/solution.js) [TypeScript](./src/1446.consecutive-characters.1542/solution.ts) | Easy  |
 | 1447 | Simplified Fractions | [JavaScript](./src/1447.simplified-fractions.1543/solution.js) | Medium  |
 | 1448 | Count Good Nodes in Binary Tree | [JavaScript](./src/1448.count-good-nodes-in-binary-tree.1544/solution.js) [TypeScript](./src/1448.count-good-nodes-in-binary-tree.1544/solution.ts) | Medium  |
 | 1449 | Form Largest Integer With Digits That Add up to Target |  | Hard  |
@@ -1487,7 +1487,7 @@
 | 1467 | Probability of a Two Boxes Having The Same Number of Distinct Balls |  | Hard  |
 | 1468 | Calculate Salaries |  | Medium  |
 | 1469 | Find All The Lonely Nodes | [JavaScript](./src/1469.find-all-the-lonely-nodes.1609/solution.js) [TypeScript](./src/1469.find-all-the-lonely-nodes.1609/solution.ts) | Easy  |
-| 1470 | Shuffle the Array | [JavaScript](./src/1470.shuffle-the-array.1580/solution.js) [TypeScript](./src/1470.shuffle-the-array.1580/solution.ts) | Easy  |
+| 1470 | Shuffle the Array | [Java](./src/1470.shuffle-the-array.1580/solution.java) [JavaScript](./src/1470.shuffle-the-array.1580/solution.js) [TypeScript](./src/1470.shuffle-the-array.1580/solution.ts) | Easy  |
 | 1471 | The k Strongest Values in an Array | [JavaScript](./src/1471.the-k-strongest-values-in-an-array.1581/solution.js) | Medium  |
 | 1472 | Design Browser History | [JavaScript](./src/1472.design-browser-history.1582/solution.js) [TypeScript](./src/1472.design-browser-history.1582/solution.ts) | Medium  |
 | 1473 | Paint House III |  | Hard  |
@@ -3302,11 +3302,11 @@
 | 3282 | Reach End of Array With Max Score |  | Medium  |
 | 3283 | Maximum Number of Moves to Kill All Pawns |  | Hard  |
 | 3284 | Sum of Consecutive Subarrays |  | Medium  |
-| 3285 | Find Indices of Stable Mountains |  | Easy  |
+| 3285 | Find Indices of Stable Mountains | [TypeScript](./src/3285.find-indices-of-stable-mountains.3582/solution.ts) | Easy  |
 | 3286 | Find a Safe Walk Through a Grid |  | Medium  |
 | 3287 | Find the Maximum Sequence Value of Array |  | Hard  |
 | 3288 | Length of the Longest Increasing Path |  | Hard  |
-| 3289 | The Two Sneaky Numbers of Digitville |  | Easy  |
+| 3289 | The Two Sneaky Numbers of Digitville | [TypeScript](./src/3289.the-two-sneaky-numbers-of-digitville.3581/solution.ts) | Easy  |
 | 3290 | Maximum Multiplication Score |  | Medium  |
 | 3291 | Minimum Number of Valid Strings to Form Target I |  | Medium  |
 | 3292 | Minimum Number of Valid Strings to Form Target II |  | Hard  |
@@ -3357,6 +3357,15 @@
 | 3337 | Total Characters in String After Transformations II |  | Hard  |
 | 3338 | Second Highest Salary II |  | Medium  |
 | 3339 | Find the Number of K-Even Arrays |  | Medium  |
+| 3340 | Check Balanced String |  | Easy  |
+| 3341 | Find Minimum Time to Reach Last Room I |  | Medium  |
+| 3342 | Find Minimum Time to Reach Last Room II |  | Medium  |
+| 3343 | Count Number of Balanced Permutations |  | Hard  |
+| 3344 | Maximum Sized Array |  | Medium  |
+| 3345 | Smallest Divisible Digit Product I |  | Easy  |
+| 3346 | Maximum Frequency of an Element After Performing Operations I |  | Medium  |
+| 3347 | Maximum Frequency of an Element After Performing Operations II |  | Hard  |
+| 3348 | Smallest Divisible Digit Product II |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -3433,7 +3442,7 @@
 | LCP74 | 最强祝福力场 |  | Medium  |
 | LCP75 | 传送卷轴 |  | Hard  |
 | LCP76 | 魔法棋盘 |  | Hard  |
-| LCP77 | 符文储备 | [TypeScript](./src/LCP77.W2ZX4X.1000565/solution.ts) | Easy  |
+| LCP77 | 符文储备 | [Java](./src/LCP77.W2ZX4X.1000565/solution.java) [TypeScript](./src/LCP77.W2ZX4X.1000565/solution.ts) | Easy  |
 | LCP78 | 城墙防线 |  | Medium  |
 | LCP79 | 提取咒文 |  | Medium  |
 | LCP80 | 生物进化录 |  | Hard  |
@@ -3726,7 +3735,7 @@
 | LCR098 | 不同路径 |  | Medium  |
 | LCR099 | 最小路径和 |  | Medium  |
 | LCR100 | 三角形最小路径和 |  | Medium  |
-| LCR101 | 分割等和子集 |  | Easy  |
+| LCR101 | 分割等和子集 | [Java](./src/LCR101.NUPfPr.1000287/solution.java) | Easy  |
 | LCR102 | 目标和 |  | Medium  |
 | LCR103 | 零钱兑换 |  | Medium  |
 | LCR104 | 组合总和 Ⅳ |  | Medium  |
