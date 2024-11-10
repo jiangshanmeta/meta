@@ -23373,6 +23373,69 @@
         "difficulty": 2
     },
     {
+        "id": 3636,
+        "index": "3340",
+        "title": "Check Balanced String",
+        "title_slug": "check-balanced-string",
+        "difficulty": 1
+    },
+    {
+        "id": 3627,
+        "index": "3341",
+        "title": "Find Minimum Time to Reach Last Room I",
+        "title_slug": "find-minimum-time-to-reach-last-room-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3628,
+        "index": "3342",
+        "title": "Find Minimum Time to Reach Last Room II",
+        "title_slug": "find-minimum-time-to-reach-last-room-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3637,
+        "index": "3343",
+        "title": "Count Number of Balanced Permutations",
+        "title_slug": "count-number-of-balanced-permutations",
+        "difficulty": 3
+    },
+    {
+        "id": 3679,
+        "index": "3344",
+        "title": "Maximum Sized Array",
+        "title_slug": "maximum-sized-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3626,
+        "index": "3345",
+        "title": "Smallest Divisible Digit Product I",
+        "title_slug": "smallest-divisible-digit-product-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3622,
+        "index": "3346",
+        "title": "Maximum Frequency of an Element After Performing Operations I",
+        "title_slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3640,
+        "index": "3347",
+        "title": "Maximum Frequency of an Element After Performing Operations II",
+        "title_slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3635,
+        "index": "3348",
+        "title": "Smallest Divisible Digit Product II",
+        "title_slug": "smallest-divisible-digit-product-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
