@@ -1497,7 +1497,7 @@
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [JavaScript](./src/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.1573/solution.js) | Medium  |
 | 1478 | Allocate Mailboxes |  | Hard  |
 | 1479 | Sales by Day of the Week |  | Hard  |
-| 1480 | Running Sum of 1d Array | [JavaScript](./src/1480.running-sum-of-1d-array.1603/solution.js) [TypeScript](./src/1480.running-sum-of-1d-array.1603/solution.ts) | Easy  |
+| 1480 | Running Sum of 1d Array | [Java](./src/1480.running-sum-of-1d-array.1603/solution.java) [JavaScript](./src/1480.running-sum-of-1d-array.1603/solution.js) [TypeScript](./src/1480.running-sum-of-1d-array.1603/solution.ts) | Easy  |
 | 1481 | Least Number of Unique Integers after K Removals | [JavaScript](./src/1481.least-number-of-unique-integers-after-k-removals.1604/solution.js) | Medium  |
 | 1482 | Minimum Number of Days to Make m Bouquets | [TypeScript](./src/1482.minimum-number-of-days-to-make-m-bouquets.1605/solution.ts) | Medium  |
 | 1483 | Kth Ancestor of a Tree Node |  | Hard  |
@@ -1508,7 +1508,7 @@
 | 1488 | Avoid Flood in The City |  | Medium  |
 | 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree |  | Hard  |
 | 1490 | Clone N-ary Tree | [JavaScript](./src/1490.clone-n-ary-tree.1634/solution.js) [TypeScript](./src/1490.clone-n-ary-tree.1634/solution.ts) | Medium  |
-| 1491 | Average Salary Excluding the Minimum and Maximum Salary | [JavaScript](./src/1491.average-salary-excluding-the-minimum-and-maximum-salary.1584/solution.js) [TypeScript](./src/1491.average-salary-excluding-the-minimum-and-maximum-salary.1584/solution.ts) | Easy  |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | [Java](./src/1491.average-salary-excluding-the-minimum-and-maximum-salary.1584/solution.java) [JavaScript](./src/1491.average-salary-excluding-the-minimum-and-maximum-salary.1584/solution.js) [TypeScript](./src/1491.average-salary-excluding-the-minimum-and-maximum-salary.1584/solution.ts) | Easy  |
 | 1492 | The kth Factor of n | [JavaScript](./src/1492.the-kth-factor-of-n.1585/solution.js) | Medium  |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [JavaScript](./src/1493.longest-subarray-of-1s-after-deleting-one-element.1586/solution.js) | Medium  |
 | 1494 | Parallel Courses II |  | Hard  |
@@ -1524,7 +1524,7 @@
 | 1504 | Count Submatrices With All Ones | [TypeScript](./src/1504.count-submatrices-with-all-ones.1628/solution.ts) | Medium  |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard  |
 | 1506 | Find Root of N-Ary Tree | [JavaScript](./src/1506.find-root-of-n-ary-tree.1650/solution.js) | Medium  |
-| 1507 | Reformat Date | [JavaScript](./src/1507.reformat-date.1283/solution.js) [TypeScript](./src/1507.reformat-date.1283/solution.ts) | Easy  |
+| 1507 | Reformat Date | [Java](./src/1507.reformat-date.1283/solution.java) [JavaScript](./src/1507.reformat-date.1283/solution.js) [TypeScript](./src/1507.reformat-date.1283/solution.ts) | Easy  |
 | 1508 | Range Sum of Sorted Subarray Sums | [JavaScript](./src/1508.range-sum-of-sorted-subarray-sums.1615/solution.js) | Medium  |
 | 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | [JavaScript](./src/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.1616/solution.js) | Medium  |
 | 1510 | Stone Game IV | [JavaScript](./src/1510.stone-game-iv.1617/solution.js) | Hard  |
@@ -1535,12 +1535,12 @@
 | 1515 | Best Position for a Service Centre |  | Hard  |
 | 1516 | Move Sub-Tree of N-Ary Tree |  | Hard  |
 | 1517 | Find Users With Valid E-Mails |  | Easy  |
-| 1518 | Water Bottles | [JavaScript](./src/1518.water-bottles.1642/solution.js) [TypeScript](./src/1518.water-bottles.1642/solution.ts) | Easy  |
+| 1518 | Water Bottles | [Java](./src/1518.water-bottles.1642/solution.java) [JavaScript](./src/1518.water-bottles.1642/solution.js) [TypeScript](./src/1518.water-bottles.1642/solution.ts) | Easy  |
 | 1519 | Number of Nodes in the Sub-Tree With the Same Label | [JavaScript](./src/1519.number-of-nodes-in-the-sub-tree-with-the-same-label.1643/solution.js) | Medium  |
 | 1520 | Maximum Number of Non-Overlapping Substrings |  | Hard  |
 | 1521 | Find a Value of a Mysterious Function Closest to Target |  | Hard  |
 | 1522 | Diameter of N-Ary Tree | [JavaScript](./src/1522.diameter-of-n-ary-tree.1665/solution.js) [TypeScript](./src/1522.diameter-of-n-ary-tree.1665/solution.ts) | Medium  |
-| 1523 | Count Odd Numbers in an Interval Range | [JavaScript](./src/1523.count-odd-numbers-in-an-interval-range.1630/solution.js) [TypeScript](./src/1523.count-odd-numbers-in-an-interval-range.1630/solution.ts) | Easy  |
+| 1523 | Count Odd Numbers in an Interval Range | [Java](./src/1523.count-odd-numbers-in-an-interval-range.1630/solution.java) [JavaScript](./src/1523.count-odd-numbers-in-an-interval-range.1630/solution.js) [TypeScript](./src/1523.count-odd-numbers-in-an-interval-range.1630/solution.ts) | Easy  |
 | 1524 | Number of Sub-arrays With Odd Sum | [JavaScript](./src/1524.number-of-sub-arrays-with-odd-sum.1631/solution.js) [TypeScript](./src/1524.number-of-sub-arrays-with-odd-sum.1631/solution.ts) | Medium  |
 | 1525 | Number of Good Ways to Split a String | [JavaScript](./src/1525.number-of-good-ways-to-split-a-string.1632/solution.js) | Medium  |
 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [JavaScript](./src/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633/solution.js) | Hard  |
