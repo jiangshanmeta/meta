@@ -1545,7 +1545,7 @@
 | 1525 | Number of Good Ways to Split a String | [JavaScript](./src/1525.number-of-good-ways-to-split-a-string.1632/solution.js) | Medium  |
 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [JavaScript](./src/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.1633/solution.js) | Hard  |
 | 1527 | Patients With a Condition |  | Easy  |
-| 1528 | Shuffle String | [JavaScript](./src/1528.shuffle-string.1651/solution.js) [TypeScript](./src/1528.shuffle-string.1651/solution.ts) | Easy  |
+| 1528 | Shuffle String | [Java](./src/1528.shuffle-string.1651/solution.java) [JavaScript](./src/1528.shuffle-string.1651/solution.js) [TypeScript](./src/1528.shuffle-string.1651/solution.ts) | Easy  |
 | 1529 | Minimum Suffix Flips | [JavaScript](./src/1529.minimum-suffix-flips.1652/solution.js) | Medium  |
 | 1530 | Number of Good Leaf Nodes Pairs | [JavaScript](./src/1530.number-of-good-leaf-nodes-pairs.1653/solution.js) | Medium  |
 | 1531 | String Compression II |  | Hard  |
@@ -1641,12 +1641,12 @@
 | 1621 | Number of Sets of K Non-Overlapping Line Segments |  | Medium  |
 | 1622 | Fancy Sequence |  | Hard  |
 | 1623 | All Valid Triplets That Can Represent a Country |  | Easy  |
-| 1624 | Largest Substring Between Two Equal Characters | [JavaScript](./src/1624.largest-substring-between-two-equal-characters.1746/solution.js) | Easy  |
+| 1624 | Largest Substring Between Two Equal Characters | [Java](./src/1624.largest-substring-between-two-equal-characters.1746/solution.java) [JavaScript](./src/1624.largest-substring-between-two-equal-characters.1746/solution.js) | Easy  |
 | 1625 | Lexicographically Smallest String After Applying Operations |  | Medium  |
 | 1626 | Best Team With No Conflicts |  | Medium  |
 | 1627 | Graph Connectivity With Threshold |  | Hard  |
 | 1628 | Design an Expression Tree With Evaluate Function |  | Medium  |
-| 1629 | Slowest Key | [JavaScript](./src/1629.slowest-key.1751/solution.js) [TypeScript](./src/1629.slowest-key.1751/solution.ts) | Easy  |
+| 1629 | Slowest Key | [Java](./src/1629.slowest-key.1751/solution.java) [JavaScript](./src/1629.slowest-key.1751/solution.js) [TypeScript](./src/1629.slowest-key.1751/solution.ts) | Easy  |
 | 1630 | Arithmetic Subarrays | [JavaScript](./src/1630.arithmetic-subarrays.1752/solution.js) | Medium  |
 | 1631 | Path With Minimum Effort |  | Medium  |
 | 1632 | Rank Transform of a Matrix |  | Hard  |
@@ -1663,7 +1663,7 @@
 | 1643 | Kth Smallest Instructions |  | Hard  |
 | 1644 | Lowest Common Ancestor of a Binary Tree II | [JavaScript](./src/1644.lowest-common-ancestor-of-a-binary-tree-ii.1780/solution.js) | Medium  |
 | 1645 | Hopper Company Queries II |  | Hard  |
-| 1646 | Get Maximum in Generated Array | [JavaScript](./src/1646.get-maximum-in-generated-array.1769/solution.js) [TypeScript](./src/1646.get-maximum-in-generated-array.1769/solution.ts) | Easy  |
+| 1646 | Get Maximum in Generated Array | [Java](./src/1646.get-maximum-in-generated-array.1769/solution.java) [JavaScript](./src/1646.get-maximum-in-generated-array.1769/solution.js) [TypeScript](./src/1646.get-maximum-in-generated-array.1769/solution.ts) | Easy  |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | [JavaScript](./src/1647.minimum-deletions-to-make-character-frequencies-unique.1770/solution.js) [TypeScript](./src/1647.minimum-deletions-to-make-character-frequencies-unique.1770/solution.ts) | Medium  |
 | 1648 | Sell Diminishing-Valued Colored Balls | [TypeScript](./src/1648.sell-diminishing-valued-colored-balls.1771/solution.ts) | Medium  |
 | 1649 | Create Sorted Array through Instructions |  | Hard  |
@@ -1876,7 +1876,7 @@
 | 1856 | Maximum Subarray Min-Product | [TypeScript](./src/1856.maximum-subarray-min-product.1985/solution.ts) | Medium  |
 | 1857 | Largest Color Value in a Directed Graph |  | Hard  |
 | 1858 | Longest Word With All Prefixes |  | Medium  |
-| 1859 | Sorting the Sentence | [JavaScript](./src/1859.sorting-the-sentence.1970/solution.js) [TypeScript](./src/1859.sorting-the-sentence.1970/solution.ts) | Easy  |
+| 1859 | Sorting the Sentence | [Java](./src/1859.sorting-the-sentence.1970/solution.java) [JavaScript](./src/1859.sorting-the-sentence.1970/solution.js) [TypeScript](./src/1859.sorting-the-sentence.1970/solution.ts) | Easy  |
 | 1860 | Incremental Memory Leak | [JavaScript](./src/1860.incremental-memory-leak.1971/solution.js) [TypeScript](./src/1860.incremental-memory-leak.1971/solution.ts) | Medium  |
 | 1861 | Rotating the Box |  | Medium  |
 | 1862 | Sum of Floored Pairs | [TypeScript](./src/1862.sum-of-floored-pairs.1326/solution.ts) | Hard  |
