@@ -19,8 +19,37 @@ dirList.forEach((folderName) => {
     }
 
     const expectFolderName = genFolderName(questionObj);
+    if (folderName === expectFolderName) {
+        return;
+    }
 
-    if (folderName !== expectFolderName) {
-        console.log(questionId, folderName, expectFolderName, '子目录名错误');
+    console.log(questionId, folderName, expectFolderName, '子目录名错误');
+
+    if (!fs.existsSync(path.join(__dirname, '../src', expectFolderName))) {
+        console.log(expectFolderName, '-----');
+        fs.rename(
+            path.join(__dirname, '../src', folderName),
+            path.join(__dirname, '../src', expectFolderName),
+            (err) => {
+                if (err) {
+                    console.error(err);
+                }
+            }
+        );
+    } else {
+        const subdir = fs.readdirSync(path.join(__dirname, '../src', folderName));
+
+        subdir.forEach((filename) => {
+            fs.rename(
+                path.join(__dirname, '../src', folderName, filename),
+                path.join(__dirname, '../src', expectFolderName, filename),
+                (err) => {
+                    if (err) {
+                        console.error(err);
+                    }
+                }
+
+            );
+        });
     }
 });
