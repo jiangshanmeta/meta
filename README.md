@@ -1801,7 +1801,7 @@
 | 1781 | Sum of Beauty of All Substrings | [JavaScript](./src/1781.sum-of-beauty-of-all-substrings.1890/solution.js) [TypeScript](./src/1781.sum-of-beauty-of-all-substrings.1890/solution.ts) | Medium  |
 | 1782 | Count Pairs Of Nodes |  | Hard  |
 | 1783 | Grand Slam Titles |  | Medium  |
-| 1784 | Check if Binary String Has at Most One Segment of Ones | [JavaScript](./src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.1910/solution.js) [TypeScript](./src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.1910/solution.ts) | Easy  |
+| 1784 | Check if Binary String Has at Most One Segment of Ones | [Java](./src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.1910/solution.java) [JavaScript](./src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.1910/solution.js) [TypeScript](./src/1784.check-if-binary-string-has-at-most-one-segment-of-ones.1910/solution.ts) | Easy  |
 | 1785 | Minimum Elements to Add to Form a Given Sum | [JavaScript](./src/1785.minimum-elements-to-add-to-form-a-given-sum.1911/solution.js) [TypeScript](./src/1785.minimum-elements-to-add-to-form-a-given-sum.1911/solution.ts) | Medium  |
 | 1786 | Number of Restricted Paths From First to Last Node |  | Medium  |
 | 1787 | Make the XOR of All Segments Equal to Zero |  | Hard  |
@@ -1813,7 +1813,7 @@
 | 1793 | Maximum Score of a Good Subarray | [TypeScript](./src/1793.maximum-score-of-a-good-subarray.1918/solution.ts) | Hard  |
 | 1794 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
 | 1795 | Rearrange Products Table |  | Easy  |
-| 1796 | Second Largest Digit in a String | [JavaScript](./src/1796.second-largest-digit-in-a-string.1904/solution.js) [TypeScript](./src/1796.second-largest-digit-in-a-string.1904/solution.ts) | Easy  |
+| 1796 | Second Largest Digit in a String | [Java](./src/1796.second-largest-digit-in-a-string.1904/solution.java) [JavaScript](./src/1796.second-largest-digit-in-a-string.1904/solution.js) [TypeScript](./src/1796.second-largest-digit-in-a-string.1904/solution.ts) | Easy  |
 | 1797 | Design Authentication Manager | [JavaScript](./src/1797.design-authentication-manager.1905/solution.js) [TypeScript](./src/1797.design-authentication-manager.1905/solution.ts) | Medium  |
 | 1798 | Maximum Number of Consecutive Values You Can Make | [JavaScript](./src/1798.maximum-number-of-consecutive-values-you-can-make.1930/solution.js) [TypeScript](./src/1798.maximum-number-of-consecutive-values-you-can-make.1930/solution.ts) | Medium  |
 | 1799 | Maximize Score After N Operations |  | Hard  |
@@ -1865,7 +1865,7 @@
 | 1845 | Seat Reservation Manager | [JavaScript](./src/1845.seat-reservation-manager.1955/solution.js) | Medium  |
 | 1846 | Maximum Element After Decreasing and Rearranging | [JavaScript](./src/1846.maximum-element-after-decreasing-and-rearranging.1956/solution.js) | Medium  |
 | 1847 | Closest Room | [TypeScript](./src/1847.closest-room.1957/solution.ts) | Hard  |
-| 1848 | Minimum Distance to the Target Element | [JavaScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.js) [TypeScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.ts) | Easy  |
+| 1848 | Minimum Distance to the Target Element | [Java](./src/1848.minimum-distance-to-the-target-element.1975/solution.java) [JavaScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.js) [TypeScript](./src/1848.minimum-distance-to-the-target-element.1975/solution.ts) | Easy  |
 | 1849 | Splitting a String Into Descending Consecutive Values | [JavaScript](./src/1849.splitting-a-string-into-descending-consecutive-values.1976/solution.js) | Medium  |
 | 1850 | Minimum Adjacent Swaps to Reach the Kth Smallest Number |  | Medium  |
 | 1851 | Minimum Interval to Include Each Query |  | Hard  |
@@ -1886,7 +1886,7 @@
 | 1866 | Number of Ways to Rearrange Sticks With K Sticks Visible |  | Hard  |
 | 1867 | Orders With Maximum Quantity Above Average |  | Medium  |
 | 1868 | Product of Two Run-Length Encoded Arrays |  | Medium  |
-| 1869 | Longer Contiguous Segments of Ones than Zeros | [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.ts) | Easy  |
+| 1869 | Longer Contiguous Segments of Ones than Zeros | [Java](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.java) [JavaScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.js) [TypeScript](./src/1869.longer-contiguous-segments-of-ones-than-zeros.1999/solution.ts) | Easy  |
 | 1870 | Minimum Speed to Arrive on Time | [JavaScript](./src/1870.minimum-speed-to-arrive-on-time.2000/solution.js) [TypeScript](./src/1870.minimum-speed-to-arrive-on-time.2000/solution.ts) | Medium  |
 | 1871 | Jump Game VII | [TypeScript](./src/1871.jump-game-vii.2001/solution.ts) | Medium  |
 | 1872 | Stone Game VIII |  | Hard  |
@@ -1974,7 +1974,7 @@
 | 1954 | Minimum Garden Perimeter to Collect Enough Apples | [JavaScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.js) [TypeScript](./src/1954.minimum-garden-perimeter-to-collect-enough-apples.1295/solution.ts) | Medium  |
 | 1955 | Count Number of Special Subsequences | [TypeScript](./src/1955.count-number-of-special-subsequences.2086/solution.ts) | Hard  |
 | 1956 | Minimum Time For K Virus Variants to Spread |  | Hard  |
-| 1957 | Delete Characters to Make Fancy String | [JavaScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.js) [TypeScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.ts) | Easy  |
+| 1957 | Delete Characters to Make Fancy String | [Java](./src/1957.delete-characters-to-make-fancy-string.1302/solution.java) [JavaScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.js) [TypeScript](./src/1957.delete-characters-to-make-fancy-string.1302/solution.ts) | Easy  |
 | 1958 | Check if Move is Legal | [TypeScript](./src/1958.check-if-move-is-legal.2080/solution.ts) | Medium  |
 | 1959 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
 | 1960 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
