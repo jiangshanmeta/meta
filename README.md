@@ -1991,7 +1991,7 @@
 | 1971 | Find if Path Exists in Graph | [JavaScript](./src/1971.find-if-path-exists-in-graph.2121/solution.js) [TypeScript](./src/1971.find-if-path-exists-in-graph.2121/solution.ts) | Easy  |
 | 1972 | First and Last Call On the Same Day |  | Hard  |
 | 1973 | Count Nodes Equal to Sum of Descendants |  | Medium  |
-| 1974 | Minimum Time to Type Word Using Special Typewriter | [JavaScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.js) [TypeScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.ts) | Easy  |
+| 1974 | Minimum Time to Type Word Using Special Typewriter | [Java](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.java) [JavaScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.js) [TypeScript](./src/1974.minimum-time-to-type-word-using-special-typewriter.2088/solution.ts) | Easy  |
 | 1975 | Maximum Matrix Sum | [TypeScript](./src/1975.maximum-matrix-sum.2089/solution.ts) | Medium  |
 | 1976 | Number of Ways to Arrive at Destination |  | Medium  |
 | 1977 | Number of Ways to Separate Numbers |  | Hard  |
@@ -2033,13 +2033,13 @@
 | 2013 | Detect Squares |  | Medium  |
 | 2014 | Longest Subsequence Repeated k Times |  | Hard  |
 | 2015 | Average Height of Buildings in Each Segment |  | Medium  |
-| 2016 | Maximum Difference Between Increasing Elements | [JavaScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.js) [TypeScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.ts) | Easy  |
+| 2016 | Maximum Difference Between Increasing Elements | [Java](./src/2016.maximum-difference-between-increasing-elements.2144/solution.java) [JavaScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.js) [TypeScript](./src/2016.maximum-difference-between-increasing-elements.2144/solution.ts) | Easy  |
 | 2017 | Grid Game | [TypeScript](./src/2017.grid-game.2145/solution.ts) | Medium  |
 | 2018 | Check if Word Can Be Placed In Crossword |  | Medium  |
 | 2019 | The Score of Students Solving Math Expression |  | Hard  |
 | 2020 | Number of Accounts That Did Not Stream |  | Medium  |
 | 2021 | Brightest Position on Street |  | Medium  |
-| 2022 | Convert 1D Array Into 2D Array | [JavaScript](./src/2022.convert-1d-array-into-2d-array.2132/solution.js) [TypeScript](./src/2022.convert-1d-array-into-2d-array.2132/solution.ts) | Easy  |
+| 2022 | Convert 1D Array Into 2D Array | [Java](./src/2022.convert-1d-array-into-2d-array.2132/solution.java) [JavaScript](./src/2022.convert-1d-array-into-2d-array.2132/solution.js) [TypeScript](./src/2022.convert-1d-array-into-2d-array.2132/solution.ts) | Easy  |
 | 2023 | Number of Pairs of Strings With Concatenation Equal to Target | [JavaScript](./src/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.2133/solution.js) | Medium  |
 | 2024 | Maximize the Confusion of an Exam |  | Medium  |
 | 2025 | Maximum Number of Ways to Partition an Array |  | Hard  |
@@ -2085,7 +2085,7 @@
 | 2065 | Maximum Path Quality of a Graph |  | Hard  |
 | 2066 | Account Balance |  | Medium  |
 | 2067 | Number of Equal Count Substrings |  | Medium  |
-| 2068 | Check Whether Two Strings are Almost Equivalent | [JavaScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.js) [TypeScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.ts) | Easy  |
+| 2068 | Check Whether Two Strings are Almost Equivalent | [Java](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.java) [JavaScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.js) [TypeScript](./src/2068.check-whether-two-strings-are-almost-equivalent.2177/solution.ts) | Easy  |
 | 2069 | Walking Robot Simulation II |  | Medium  |
 | 2070 | Most Beautiful Item for Each Query | [TypeScript](./src/2070.most-beautiful-item-for-each-query.2179/solution.ts) | Medium  |
 | 2071 | Maximum Number of Tasks You Can Assign |  | Hard  |
@@ -2136,7 +2136,7 @@
 | 2116 | Check if a Parentheses String Can Be Valid |  | Medium  |
 | 2117 | Abbreviating the Product of a Range |  | Hard  |
 | 2118 | Build the Equation |  | Hard  |
-| 2119 | A Number After a Double Reversal | [JavaScript](./src/2119.a-number-after-a-double-reversal.2238/solution.js) [TypeScript](./src/2119.a-number-after-a-double-reversal.2238/solution.ts) | Easy  |
+| 2119 | A Number After a Double Reversal | [Java](./src/2119.a-number-after-a-double-reversal.2238/solution.java) [JavaScript](./src/2119.a-number-after-a-double-reversal.2238/solution.js) [TypeScript](./src/2119.a-number-after-a-double-reversal.2238/solution.ts) | Easy  |
 | 2120 | Execution of All Suffix Instructions Staying in a Grid | [TypeScript](./src/2120.execution-of-all-suffix-instructions-staying-in-a-grid.2239/solution.ts) | Medium  |
 | 2121 | Intervals Between Identical Elements | [TypeScript](./src/2121.intervals-between-identical-elements.2240/solution.ts) | Medium  |
 | 2122 | Recover the Original Array |  | Hard  |
@@ -2146,7 +2146,7 @@
 | 2126 | Destroying Asteroids | [JavaScript](./src/2126.destroying-asteroids.2245/solution.js) [TypeScript](./src/2126.destroying-asteroids.2245/solution.ts) | Medium  |
 | 2127 | Maximum Employees to Be Invited to a Meeting |  | Hard  |
 | 2128 | Remove All Ones With Row and Column Flips |  | Medium  |
-| 2129 | Capitalize the Title | [JavaScript](./src/2129.capitalize-the-title.2235/solution.js) [TypeScript](./src/2129.capitalize-the-title.2235/solution.ts) | Easy  |
+| 2129 | Capitalize the Title | [Java](./src/2129.capitalize-the-title.2235/solution.java) [JavaScript](./src/2129.capitalize-the-title.2235/solution.js) [TypeScript](./src/2129.capitalize-the-title.2235/solution.ts) | Easy  |
 | 2130 | Maximum Twin Sum of a Linked List | [JavaScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/solution.js) [TypeScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/solution.ts) | Medium  |
 | 2131 | Longest Palindrome by Concatenating Two Letter Words |  | Medium  |
 | 2132 | Stamping the Grid |  | Hard  |
@@ -2161,11 +2161,11 @@
 | 2141 | Maximum Running Time of N Computers |  | Hard  |
 | 2142 | The Number of Passengers in Each Bus I |  | Medium  |
 | 2143 | Choose Numbers From Two Arrays in Range |  | Hard  |
-| 2144 | Minimum Cost of Buying Candies With Discount | [JavaScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.js) [TypeScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.ts) | Easy  |
+| 2144 | Minimum Cost of Buying Candies With Discount | [Java](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.java) [JavaScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.js) [TypeScript](./src/2144.minimum-cost-of-buying-candies-with-discount.2248/solution.ts) | Easy  |
 | 2145 | Count the Hidden Sequences | [TypeScript](./src/2145.count-the-hidden-sequences.2249/solution.ts) | Medium  |
 | 2146 | K Highest Ranked Items Within a Price Range |  | Medium  |
 | 2147 | Number of Ways to Divide a Long Corridor | [TypeScript](./src/2147.number-of-ways-to-divide-a-long-corridor.2251/solution.ts) | Hard  |
-| 2148 | Count Elements With Strictly Smaller and Greater Elements  | [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.ts) | Easy  |
+| 2148 | Count Elements With Strictly Smaller and Greater Elements  | [Java](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.java) [JavaScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.js) [TypeScript](./src/2148.count-elements-with-strictly-smaller-and-greater-elements.2269/solution.ts) | Easy  |
 | 2149 | Rearrange Array Elements by Sign | [JavaScript](./src/2149.rearrange-array-elements-by-sign.2271/solution.js) [TypeScript](./src/2149.rearrange-array-elements-by-sign.2271/solution.ts) | Medium  |
 | 2150 | Find All Lonely Numbers in the Array | [JavaScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/solution.js) [TypeScript](./src/2150.find-all-lonely-numbers-in-the-array.2270/solution.ts) | Medium  |
 | 2151 | Maximum Good People Based on Statements |  | Hard  |
@@ -2186,7 +2186,7 @@
 | 2166 | Design Bitset | [TypeScript](./src/2166.design-bitset.2285/solution.ts) | Medium  |
 | 2167 | Minimum Time to Remove All Cars Containing Illegal Goods |  | Hard  |
 | 2168 | Unique Substrings With Equal Digit Frequency |  | Medium  |
-| 2169 | Count Operations to Obtain Zero | [JavaScript](./src/2169.count-operations-to-obtain-zero.2288/solution.js) [TypeScript](./src/2169.count-operations-to-obtain-zero.2288/solution.ts) | Easy  |
+| 2169 | Count Operations to Obtain Zero | [Java](./src/2169.count-operations-to-obtain-zero.2288/solution.java) [JavaScript](./src/2169.count-operations-to-obtain-zero.2288/solution.js) [TypeScript](./src/2169.count-operations-to-obtain-zero.2288/solution.ts) | Easy  |
 | 2170 | Minimum Operations to Make the Array Alternating |  | Medium  |
 | 2171 | Removing Minimum Number of Magic Beans | [TypeScript](./src/2171.removing-minimum-number-of-magic-beans.2290/solution.ts) | Medium  |
 | 2172 | Maximum AND Sum of Array |  | Hard  |
@@ -2304,7 +2304,7 @@
 | 2284 | Sender With Largest Word Count | [TypeScript](./src/2284.sender-with-largest-word-count.2378/solution.ts) | Medium  |
 | 2285 | Maximum Total Importance of Roads |  | Medium  |
 | 2286 | Booking Concert Tickets in Groups |  | Hard  |
-| 2287 | Rearrange Characters to Make Target String | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.ts) | Easy  |
+| 2287 | Rearrange Characters to Make Target String | [Java](./src/2287.rearrange-characters-to-make-target-string.2372/solution.java) [JavaScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.js) [TypeScript](./src/2287.rearrange-characters-to-make-target-string.2372/solution.ts) | Easy  |
 | 2288 | Apply Discount to Prices | [TypeScript](./src/2288.apply-discount-to-prices.2373/solution.ts) | Medium  |
 | 2289 | Steps to Make Array Non-decreasing | [TypeScript](./src/2289.steps-to-make-array-non-decreasing.2374/solution.ts) | Medium  |
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
