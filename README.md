@@ -52,7 +52,7 @@
 | 0032 | Longest Valid Parentheses | [JavaScript](./src/0032.longest-valid-parentheses.32/solution.js) [TypeScript](./src/0032.longest-valid-parentheses.32/solution.ts) | Hard  |
 | 0033 | Search in Rotated Sorted Array | [JavaScript](./src/0033.search-in-rotated-sorted-array.33/solution.js) | Medium  |
 | 0034 | Find First and Last Position of Element in Sorted Array | [JavaScript](./src/0034.find-first-and-last-position-of-element-in-sorted-array.34/solution.js) [TypeScript](./src/0034.find-first-and-last-position-of-element-in-sorted-array.34/solution.ts) | Medium  |
-| 0035 | Search Insert Position | [JavaScript](./src/0035.search-insert-position.35/solution.js) [TypeScript](./src/0035.search-insert-position.35/solution.ts) | Easy  |
+| 0035 | Search Insert Position | [Java](./src/0035.search-insert-position.35/solution.java) [JavaScript](./src/0035.search-insert-position.35/solution.js) [TypeScript](./src/0035.search-insert-position.35/solution.ts) | Easy  |
 | 0036 | Valid Sudoku | [JavaScript](./src/0036.valid-sudoku.36/solution.js) | Medium  |
 | 0037 | Sudoku Solver |  | Hard  |
 | 0038 | Count and Say | [JavaScript](./src/0038.count-and-say.38/solution.js) [TypeScript](./src/0038.count-and-say.38/solution.ts) | Medium  |
@@ -300,7 +300,7 @@
 | 0280 | Wiggle Sort | [JavaScript](./src/0280.wiggle-sort.280/solution.js) [TypeScript](./src/0280.wiggle-sort.280/solution.ts) | Medium  |
 | 0281 | Zigzag Iterator | [JavaScript](./src/0281.zigzag-iterator.281/solution.js) [TypeScript](./src/0281.zigzag-iterator.281/solution.ts) | Medium  |
 | 0282 | Expression Add Operators |  | Hard  |
-| 0283 | Move Zeroes | [JavaScript](./src/0283.move-zeroes.283/solution.js) [TypeScript](./src/0283.move-zeroes.283/solution.ts) | Easy  |
+| 0283 | Move Zeroes | [Java](./src/0283.move-zeroes.283/solution.java) [JavaScript](./src/0283.move-zeroes.283/solution.js) [TypeScript](./src/0283.move-zeroes.283/solution.ts) | Easy  |
 | 0284 | Peeking Iterator | [JavaScript](./src/0284.peeking-iterator.284/solution.js) [Python3](./src/0284.peeking-iterator.284/solution.py) [TypeScript](./src/0284.peeking-iterator.284/solution.ts) | Medium  |
 | 0285 | Inorder Successor in BST | [JavaScript](./src/0285.inorder-successor-in-bst.285/solution.js) [TypeScript](./src/0285.inorder-successor-in-bst.285/solution.ts) | Medium  |
 | 0286 | Walls and Gates |  | Medium  |
@@ -429,7 +429,7 @@
 | 0409 | Longest Palindrome | [JavaScript](./src/0409.longest-palindrome.409/solution.js) [TypeScript](./src/0409.longest-palindrome.409/solution.ts) | Easy  |
 | 0410 | Split Array Largest Sum | [JavaScript](./src/0410.split-array-largest-sum.410/solution.js) [TypeScript](./src/0410.split-array-largest-sum.410/solution.ts) | Hard  |
 | 0411 | Minimum Unique Word Abbreviation |  | Hard  |
-| 0412 | Fizz Buzz | [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
+| 0412 | Fizz Buzz | [Java](./src/0412.fizz-buzz.412/solution.java) [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
 | 0413 | Arithmetic Slices | [JavaScript](./src/0413.arithmetic-slices.413/solution.js) | Medium  |
 | 0414 | Third Maximum Number | [Java](./src/0414.third-maximum-number.414/solution.java) [JavaScript](./src/0414.third-maximum-number.414/solution.js) [TypeScript](./src/0414.third-maximum-number.414/solution.ts) | Easy  |
 | 0415 | Add Strings | [JavaScript](./src/0415.add-strings.415/solution.js) [TypeScript](./src/0415.add-strings.415/solution.ts) | Easy  |
@@ -446,7 +446,7 @@
 | 0426 | Convert Binary Search Tree to Sorted Doubly Linked List | [JavaScript](./src/0426.convert-binary-search-tree-to-sorted-doubly-linked-list.758/solution.js) | Medium  |
 | 0427 | Construct Quad Tree | [JavaScript](./src/0427.construct-quad-tree.772/solution.js) | Medium  |
 | 0428 | Serialize and Deserialize N-ary Tree | [JavaScript](./src/0428.serialize-and-deserialize-n-ary-tree.765/solution.js) | Hard  |
-| 0429 | N-ary Tree Level Order Traversal | [JavaScript](./src/0429.n-ary-tree-level-order-traversal.764/solution.js) [TypeScript](./src/0429.n-ary-tree-level-order-traversal.764/solution.ts) | Medium  |
+| 0429 | N-ary Tree Level Order Traversal | [Java](./src/0429.n-ary-tree-level-order-traversal.764/solution.java) [JavaScript](./src/0429.n-ary-tree-level-order-traversal.764/solution.js) [TypeScript](./src/0429.n-ary-tree-level-order-traversal.764/solution.ts) | Medium  |
 | 0430 | Flatten a Multilevel Doubly Linked List | [JavaScript](./src/0430.flatten-a-multilevel-doubly-linked-list.766/solution.js) | Medium  |
 | 0431 | Encode N-ary Tree to Binary Tree | [JavaScript](./src/0431.encode-n-ary-tree-to-binary-tree.771/solution.js) [TypeScript](./src/0431.encode-n-ary-tree-to-binary-tree.771/solution.ts) | Hard  |
 | 0432 | All O`one Data Structure | [JavaScript](./src/0432.all-oone-data-structure.432/solution.js) | Hard  |
@@ -521,7 +521,7 @@
 | 0501 | Find Mode in Binary Search Tree | [JavaScript](./src/0501.find-mode-in-binary-search-tree.501/solution.js) [TypeScript](./src/0501.find-mode-in-binary-search-tree.501/solution.ts) | Easy  |
 | 0502 | IPO | [TypeScript](./src/0502.ipo.502/solution.ts) | Hard  |
 | 0503 | Next Greater Element II | [JavaScript](./src/0503.next-greater-element-ii.503/solution.js) [TypeScript](./src/0503.next-greater-element-ii.503/solution.ts) | Medium  |
-| 0504 | Base 7 | [JavaScript](./src/0504.base-7.504/solution.js) [TypeScript](./src/0504.base-7.504/solution.ts) | Easy  |
+| 0504 | Base 7 | [Java](./src/0504.base-7.504/solution.java) [JavaScript](./src/0504.base-7.504/solution.js) [TypeScript](./src/0504.base-7.504/solution.ts) | Easy  |
 | 0505 | The Maze II |  | Medium  |
 | 0506 | Relative Ranks | [JavaScript](./src/0506.relative-ranks.506/solution.js) [TypeScript](./src/0506.relative-ranks.506/solution.ts) | Easy  |
 | 0507 | Perfect Number | [JavaScript](./src/0507.perfect-number.507/solution.js) [TypeScript](./src/0507.perfect-number.507/solution.ts) | Easy  |
