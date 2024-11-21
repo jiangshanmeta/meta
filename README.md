@@ -2449,7 +2449,7 @@
 | 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
 | 2431 | Maximize Total Tastiness of Purchased Fruits |  | Medium  |
-| 2432 | The Employee That Worked on the Longest Task | [JavaScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.js) [TypeScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.ts) | Easy  |
+| 2432 | The Employee That Worked on the Longest Task | [Java](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.java) [JavaScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.js) [TypeScript](./src/2432.the-employee-that-worked-on-the-longest-task.2518/solution.ts) | Easy  |
 | 2433 | Find The Original Array of Prefix Xor | [JavaScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.js) [TypeScript](./src/2433.find-the-original-array-of-prefix-xor.2519/solution.ts) | Medium  |
 | 2434 | Using a Robot to Print the Lexicographically Smallest String | [TypeScript](./src/2434.using-a-robot-to-print-the-lexicographically-smallest-string.2520/solution.ts) | Medium  |
 | 2435 | Paths in Matrix Whose Sum Is Divisible by K |  | Hard  |
@@ -2507,7 +2507,7 @@
 | 2487 | Remove Nodes From Linked List | [JavaScript](./src/2487.remove-nodes-from-linked-list.2573/solution.js) [TypeScript](./src/2487.remove-nodes-from-linked-list.2573/solution.ts) | Medium  |
 | 2488 | Count Subarrays With Median K |  | Hard  |
 | 2489 | Number of Substrings With Fixed Ratio |  | Medium  |
-| 2490 | Circular Sentence | [JavaScript](./src/2490.circular-sentence.2580/solution.js) [TypeScript](./src/2490.circular-sentence.2580/solution.ts) | Easy  |
+| 2490 | Circular Sentence | [Java](./src/2490.circular-sentence.2580/solution.java) [JavaScript](./src/2490.circular-sentence.2580/solution.js) [TypeScript](./src/2490.circular-sentence.2580/solution.ts) | Easy  |
 | 2491 | Divide Players Into Teams of Equal Skill | [JavaScript](./src/2491.divide-players-into-teams-of-equal-skill.2581/solution.js) [TypeScript](./src/2491.divide-players-into-teams-of-equal-skill.2581/solution.ts) | Medium  |
 | 2492 | Minimum Score of a Path Between Two Cities | [JavaScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.js) [TypeScript](./src/2492.minimum-score-of-a-path-between-two-cities.2582/solution.ts) | Medium  |
 | 2493 | Divide Nodes Into the Maximum Number of Groups |  | Hard  |
@@ -2532,7 +2532,7 @@
 | 2512 | Reward Top K Students | [TypeScript](./src/2512.reward-top-k-students.2603/solution.ts) | Medium  |
 | 2513 | Minimize the Maximum of Two Arrays |  | Medium  |
 | 2514 | Count Anagrams |  | Hard  |
-| 2515 | Shortest Distance to Target String in a Circular Array | [TypeScript](./src/2515.shortest-distance-to-target-string-in-a-circular-array.2598/solution.ts) | Easy  |
+| 2515 | Shortest Distance to Target String in a Circular Array | [Java](./src/2515.shortest-distance-to-target-string-in-a-circular-array.2598/solution.java) [TypeScript](./src/2515.shortest-distance-to-target-string-in-a-circular-array.2598/solution.ts) | Easy  |
 | 2516 | Take K of Each Character From Left and Right | [TypeScript](./src/2516.take-k-of-each-character-from-left-and-right.2599/solution.ts) | Medium  |
 | 2517 | Maximum Tastiness of Candy Basket | [TypeScript](./src/2517.maximum-tastiness-of-candy-basket.2600/solution.ts) | Medium  |
 | 2518 | Number of Great Partitions |  | Hard  |
@@ -2557,11 +2557,11 @@
 | 2537 | Count the Number of Good Subarrays | [TypeScript](./src/2537.count-the-number-of-good-subarrays.2626/solution.ts) | Medium  |
 | 2538 | Difference Between Maximum and Minimum Price Sum |  | Hard  |
 | 2539 | Count the Number of Good Subsequences |  | Medium  |
-| 2540 | Minimum Common Value | [JavaScript](./src/2540.minimum-common-value.2634/solution.js) [TypeScript](./src/2540.minimum-common-value.2634/solution.ts) | Easy  |
+| 2540 | Minimum Common Value | [Java](./src/2540.minimum-common-value.2634/solution.java) [JavaScript](./src/2540.minimum-common-value.2634/solution.js) [TypeScript](./src/2540.minimum-common-value.2634/solution.ts) | Easy  |
 | 2541 | Minimum Operations to Make Array Equal II | [TypeScript](./src/2541.minimum-operations-to-make-array-equal-ii.2604/solution.ts) | Medium  |
 | 2542 | Maximum Subsequence Score |  | Medium  |
 | 2543 | Check if Point Is Reachable |  | Hard  |
-| 2544 | Alternating Digit Sum | [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
+| 2544 | Alternating Digit Sum | [Java](./src/2544.alternating-digit-sum.2630/solution.java) [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
 | 2545 | Sort the Students by Their Kth Score | [JavaScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.js) [TypeScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.ts) | Medium  |
 | 2546 | Apply Bitwise Operations to Make Strings Equal | [JavaScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.js) [TypeScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.ts) | Medium  |
 | 2547 | Minimum Cost to Split an Array |  | Hard  |
