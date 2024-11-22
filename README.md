@@ -2622,7 +2622,7 @@
 | 2602 | Minimum Operations to Make All Array Elements Equal | [TypeScript](./src/2602.minimum-operations-to-make-all-array-elements-equal.2718/solution.ts) | Medium  |
 | 2603 | Collect Coins in a Tree |  | Hard  |
 | 2604 | Minimum Time to Eat All Grains |  | Hard  |
-| 2605 | Form Smallest Number From Two Digit Arrays | [TypeScript](./src/2605.form-smallest-number-from-two-digit-arrays.2668/solution.ts) | Easy  |
+| 2605 | Form Smallest Number From Two Digit Arrays | [Java](./src/2605.form-smallest-number-from-two-digit-arrays.2668/solution.java) [TypeScript](./src/2605.form-smallest-number-from-two-digit-arrays.2668/solution.ts) | Easy  |
 | 2606 | Find the Substring With Maximum Cost | [TypeScript](./src/2606.find-the-substring-with-maximum-cost.2669/solution.ts) | Medium  |
 | 2607 | Make K-Subarray Sums Equal | [TypeScript](./src/2607.make-k-subarray-sums-equal.2670/solution.ts) | Medium  |
 | 2608 | Shortest Cycle in a Graph |  | Hard  |
@@ -2677,7 +2677,7 @@
 | 2657 | Find the Prefix Common Array of Two Arrays | [TypeScript](./src/2657.find-the-prefix-common-array-of-two-arrays.2766/solution.ts) | Medium  |
 | 2658 | Maximum Number of Fish in a Grid | [TypeScript](./src/2658.maximum-number-of-fish-in-a-grid.2764/solution.ts) | Medium  |
 | 2659 | Make Array Empty | [TypeScript](./src/2659.make-array-empty.2765/solution.ts) | Hard  |
-| 2660 | Determine the Winner of a Bowling Game | [TypeScript](./src/2660.determine-the-winner-of-a-bowling-game.2684/solution.ts) | Easy  |
+| 2660 | Determine the Winner of a Bowling Game | [Java](./src/2660.determine-the-winner-of-a-bowling-game.2684/solution.java) [TypeScript](./src/2660.determine-the-winner-of-a-bowling-game.2684/solution.ts) | Easy  |
 | 2661 | First Completely Painted Row or Column | [TypeScript](./src/2661.first-completely-painted-row-or-column.2685/solution.ts) | Medium  |
 | 2662 | Minimum Cost of a Path With Special Roads | [TypeScript](./src/2662.minimum-cost-of-a-path-with-special-roads.2686/solution.ts) | Medium  |
 | 2663 | Lexicographically Smallest Beautiful String |  | Hard  |
@@ -2801,7 +2801,7 @@
 | 2781 | Length of the Longest Valid Substring |  | Hard  |
 | 2782 | Number of Unique Categories |  | Medium  |
 | 2783 | Flight Occupancy and Waitlist Analysis |  | Medium  |
-| 2784 | Check if Array is Good | [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
+| 2784 | Check if Array is Good | [Java](./src/2784.check-if-array-is-good.2892/solution.java) [TypeScript](./src/2784.check-if-array-is-good.2892/solution.ts) | Easy  |
 | 2785 | Sort Vowels in a String | [TypeScript](./src/2785.sort-vowels-in-a-string.2887/solution.ts) | Medium  |
 | 2786 | Visit Array Positions to Maximize Score | [TypeScript](./src/2786.visit-array-positions-to-maximize-score.2893/solution.ts) | Medium  |
 | 2787 | Ways to Express an Integer as Sum of Powers | [TypeScript](./src/2787.ways-to-express-an-integer-as-sum-of-powers.2882/solution.ts) | Medium  |
@@ -2823,7 +2823,7 @@
 | 2803 | Factorial Generator |  | Easy  |
 | 2804 | Array Prototype ForEach |  | Easy  |
 | 2805 | Custom Interval |  | Medium  |
-| 2806 | Account Balance After Rounded Purchase | [TypeScript](./src/2806.account-balance-after-rounded-purchase.2955/solution.ts) | Easy  |
+| 2806 | Account Balance After Rounded Purchase | [Java](./src/2806.account-balance-after-rounded-purchase.2955/solution.java) [TypeScript](./src/2806.account-balance-after-rounded-purchase.2955/solution.ts) | Easy  |
 | 2807 | Insert Greatest Common Divisors in Linked List | [TypeScript](./src/2807.insert-greatest-common-divisors-in-linked-list.2903/solution.ts) | Medium  |
 | 2808 | Minimum Seconds to Equalize a Circular Array |  | Medium  |
 | 2809 | Minimum Time to Make Array Sum At Most x |  | Hard  |
@@ -2886,7 +2886,7 @@
 | 2866 | Beautiful Towers II | [TypeScript](./src/2866.beautiful-towers-ii.3113/solution.ts) | Medium  |
 | 2867 | Count Valid Paths in a Tree |  | Hard  |
 | 2868 | The Wording Game |  | Hard  |
-| 2869 | Minimum Operations to Collect Elements | [TypeScript](./src/2869.minimum-operations-to-collect-elements.3044/solution.ts) | Easy  |
+| 2869 | Minimum Operations to Collect Elements | [Java](./src/2869.minimum-operations-to-collect-elements.3044/solution.java) [TypeScript](./src/2869.minimum-operations-to-collect-elements.3044/solution.ts) | Easy  |
 | 2870 | Minimum Number of Operations to Make Array Empty | [TypeScript](./src/2870.minimum-number-of-operations-to-make-array-empty.3094/solution.ts) | Medium  |
 | 2871 | Split Array Into Maximum Number of Subarrays | [TypeScript](./src/2871.split-array-into-maximum-number-of-subarrays.3080/solution.ts) | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
