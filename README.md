@@ -3041,11 +3041,11 @@
 | 3021 | Alice and Bob Playing Flower Game |  | Medium  |
 | 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
 | 3023 | Find Pattern in Infinite Stream I |  | Medium  |
-| 3024 | Type of Triangle | [TypeScript](./src/3024.type-of-triangle.3321/solution.ts) | Easy  |
+| 3024 | Type of Triangle | [Java](./src/3024.type-of-triangle.3321/solution.java) [TypeScript](./src/3024.type-of-triangle.3321/solution.ts) | Easy  |
 | 3025 | Find the Number of Ways to Place People I |  | Medium  |
 | 3026 | Maximum Good Subarray Sum | [TypeScript](./src/3026.maximum-good-subarray-sum.3265/solution.ts) | Medium  |
 | 3027 | Find the Number of Ways to Place People II |  | Hard  |
-| 3028 | Ant on the Boundary | [TypeScript](./src/3028.ant-on-the-boundary.3311/solution.ts) | Easy  |
+| 3028 | Ant on the Boundary | [Java](./src/3028.ant-on-the-boundary.3311/solution.java) [TypeScript](./src/3028.ant-on-the-boundary.3311/solution.ts) | Easy  |
 | 3029 | Minimum Time to Revert Word to Initial State I | [TypeScript](./src/3029.minimum-time-to-revert-word-to-initial-state-i.3297/solution.ts) | Medium  |
 | 3030 | Find the Grid of Region Average | [TypeScript](./src/3030.find-the-grid-of-region-average.3272/solution.ts) | Medium  |
 | 3031 | Minimum Time to Revert Word to Initial State II | [TypeScript](./src/3031.minimum-time-to-revert-word-to-initial-state-ii.3296/solution.ts) | Hard  |
@@ -3055,7 +3055,7 @@
 | 3035 | Maximum Palindromes After Operations | [TypeScript](./src/3035.maximum-palindromes-after-operations.3317/solution.ts) | Medium  |
 | 3036 | Number of Subarrays That Match a Pattern II | [TypeScript](./src/3036.number-of-subarrays-that-match-a-pattern-ii.3290/solution.ts) | Hard  |
 | 3037 | Find Pattern in Infinite Stream II |  | Hard  |
-| 3038 | Maximum Number of Operations With the Same Score I | [TypeScript](./src/3038.maximum-number-of-operations-with-the-same-score-i.3320/solution.ts) | Easy  |
+| 3038 | Maximum Number of Operations With the Same Score I | [Java](./src/3038.maximum-number-of-operations-with-the-same-score-i.3320/solution.java) [TypeScript](./src/3038.maximum-number-of-operations-with-the-same-score-i.3320/solution.ts) | Easy  |
 | 3039 | Apply Operations to Make String Empty | [TypeScript](./src/3039.apply-operations-to-make-string-empty.3308/solution.ts) | Medium  |
 | 3040 | Maximum Number of Operations With the Same Score II | [TypeScript](./src/3040.maximum-number-of-operations-with-the-same-score-ii.3318/solution.ts) | Medium  |
 | 3041 | Maximize Consecutive Elements in an Array After Modification | [TypeScript](./src/3041.maximize-consecutive-elements-in-an-array-after-modification.3298/solution.ts) | Hard  |
@@ -3091,12 +3091,12 @@
 | 3071 | Minimum Operations to Write the Letter Y on a Grid |  | Medium  |
 | 3072 | Distribute Elements Into Two Arrays II |  | Hard  |
 | 3073 | Maximum Increasing Triplet Value |  | Medium  |
-| 3074 | Apple Redistribution into Boxes | [TypeScript](./src/3074.apple-redistribution-into-boxes.3334/solution.ts) | Easy  |
+| 3074 | Apple Redistribution into Boxes | [Java](./src/3074.apple-redistribution-into-boxes.3334/solution.java) [TypeScript](./src/3074.apple-redistribution-into-boxes.3334/solution.ts) | Easy  |
 | 3075 | Maximize Happiness of Selected Children |  | Medium  |
 | 3076 | Shortest Uncommon Substring in an Array |  | Medium  |
 | 3077 | Maximum Strength of K Disjoint Subarrays |  | Hard  |
 | 3078 | Match Alphanumerical Pattern in Matrix I |  | Medium  |
-| 3079 | Find the Sum of Encrypted Integers | [TypeScript](./src/3079.find-the-sum-of-encrypted-integers.3367/solution.ts) | Easy  |
+| 3079 | Find the Sum of Encrypted Integers | [Java](./src/3079.find-the-sum-of-encrypted-integers.3367/solution.java) [TypeScript](./src/3079.find-the-sum-of-encrypted-integers.3367/solution.ts) | Easy  |
 | 3080 | Mark Elements on Array by Performing Queries |  | Medium  |
 | 3081 | Replace Question Marks in String to Minimize Its Value |  | Medium  |
 | 3082 | Find the Sum of the Power of All Subsequences |  | Hard  |
