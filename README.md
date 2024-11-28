@@ -3116,7 +3116,7 @@
 | 3096 | Minimum Levels to Gain More Points |  | Medium  |
 | 3097 | Shortest Subarray With OR at Least K II |  | Medium  |
 | 3098 | Find the Sum of Subsequence Powers |  | Hard  |
-| 3099 | Harshad Number | [TypeScript](./src/3099.harshad-number.3371/solution.ts) | Easy  |
+| 3099 | Harshad Number | [Java](./src/3099.harshad-number.3371/solution.java) [TypeScript](./src/3099.harshad-number.3371/solution.ts) | Easy  |
 | 3100 | Water Bottles II |  | Medium  |
 | 3101 | Count Alternating Subarrays |  | Medium  |
 | 3102 | Minimize Manhattan Distances |  | Hard  |
@@ -3127,7 +3127,7 @@
 | 3107 | Minimum Operations to Make Median of Array Equal to K |  | Medium  |
 | 3108 | Minimum Cost Walk in Weighted Graph |  | Hard  |
 | 3109 | Find the Index of Permutation |  | Medium  |
-| 3110 | Score of a String | [TypeScript](./src/3110.score-of-a-string.3379/solution.ts) | Easy  |
+| 3110 | Score of a String | [Java](./src/3110.score-of-a-string.3379/solution.java) [TypeScript](./src/3110.score-of-a-string.3379/solution.ts) | Easy  |
 | 3111 | Minimum Rectangles to Cover Points |  | Medium  |
 | 3112 | Minimum Time to Visit Disappearing Nodes |  | Medium  |
 | 3113 | Find the Number of Subarrays Where Boundary Elements Are Maximum |  | Hard  |
