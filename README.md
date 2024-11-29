@@ -34,9 +34,9 @@
 | 0014 | Longest Common Prefix | [JavaScript](./src/0014.longest-common-prefix.14/solution.js) [TypeScript](./src/0014.longest-common-prefix.14/solution.ts) | Easy  |
 | 0015 | 3Sum | [JavaScript](./src/0015.3sum.15/solution.js) | Medium  |
 | 0016 | 3Sum Closest | [JavaScript](./src/0016.3sum-closest.16/solution.js) | Medium  |
-| 0017 | Letter Combinations of a Phone Number | [JavaScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.js) [TypeScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.ts) | Medium  |
+| 0017 | Letter Combinations of a Phone Number | [Java](./src/0017.letter-combinations-of-a-phone-number.17/solution.java) [JavaScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.js) [TypeScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.ts) | Medium  |
 | 0018 | 4Sum | [JavaScript](./src/0018.4sum.18/solution.js) | Medium  |
-| 0019 | Remove Nth Node From End of List | [JavaScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.js) [TypeScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.ts) | Medium  |
+| 0019 | Remove Nth Node From End of List | [Java](./src/0019.remove-nth-node-from-end-of-list.19/solution.java) [JavaScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.js) [TypeScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.ts) | Medium  |
 | 0020 | Valid Parentheses | [Java](./src/0020.valid-parentheses.20/solution.java) [JavaScript](./src/0020.valid-parentheses.20/solution.js) [TypeScript](./src/0020.valid-parentheses.20/solution.ts) | Easy  |
 | 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [Java](./src/0021.merge-two-sorted-lists.21/solution.java) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
 | 0022 | Generate Parentheses | [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
@@ -63,8 +63,8 @@
 | 0043 | Multiply Strings | [JavaScript](./src/0043.multiply-strings.43/solution.js) | Medium  |
 | 0044 | Wildcard Matching | [JavaScript](./src/0044.wildcard-matching.44/solution.js) | Hard  |
 | 0045 | Jump Game II | [JavaScript](./src/0045.jump-game-ii.45/solution.js) [TypeScript](./src/0045.jump-game-ii.45/solution.ts) | Medium  |
-| 0046 | Permutations | [JavaScript](./src/0046.permutations.46/solution.js) [TypeScript](./src/0046.permutations.46/solution.ts) | Medium  |
-| 0047 | Permutations II | [JavaScript](./src/0047.permutations-ii.47/solution.js) [TypeScript](./src/0047.permutations-ii.47/solution.ts) | Medium  |
+| 0046 | Permutations | [Java](./src/0046.permutations.46/solution.java) [JavaScript](./src/0046.permutations.46/solution.js) [TypeScript](./src/0046.permutations.46/solution.ts) | Medium  |
+| 0047 | Permutations II | [Java](./src/0047.permutations-ii.47/solution.java) [JavaScript](./src/0047.permutations-ii.47/solution.js) [TypeScript](./src/0047.permutations-ii.47/solution.ts) | Medium  |
 | 0048 | Rotate Image | [JavaScript](./src/0048.rotate-image.48/solution.js) [TypeScript](./src/0048.rotate-image.48/solution.ts) | Medium  |
 | 0049 | Group Anagrams | [JavaScript](./src/0049.group-anagrams.49/solution.js) [TypeScript](./src/0049.group-anagrams.49/solution.ts) | Medium  |
 | 0050 | Pow(x, n) | [JavaScript](./src/0050.powx-n.50/solution.js) [TypeScript](./src/0050.powx-n.50/solution.ts) | Medium  |
@@ -94,7 +94,7 @@
 | 0074 | Search a 2D Matrix | [JavaScript](./src/0074.search-a-2d-matrix.74/solution.js) [TypeScript](./src/0074.search-a-2d-matrix.74/solution.ts) | Medium  |
 | 0075 | Sort Colors | [JavaScript](./src/0075.sort-colors.75/solution.js) [TypeScript](./src/0075.sort-colors.75/solution.ts) | Medium  |
 | 0076 | Minimum Window Substring | [JavaScript](./src/0076.minimum-window-substring.76/solution.js) | Hard  |
-| 0077 | Combinations | [JavaScript](./src/0077.combinations.77/solution.js) [TypeScript](./src/0077.combinations.77/solution.ts) | Medium  |
+| 0077 | Combinations | [Java](./src/0077.combinations.77/solution.java) [JavaScript](./src/0077.combinations.77/solution.js) [TypeScript](./src/0077.combinations.77/solution.ts) | Medium  |
 | 0078 | Subsets | [JavaScript](./src/0078.subsets.78/solution.js) [TypeScript](./src/0078.subsets.78/solution.ts) | Medium  |
 | 0079 | Word Search | [JavaScript](./src/0079.word-search.79/solution.js) [TypeScript](./src/0079.word-search.79/solution.ts) | Medium  |
 | 0080 | Remove Duplicates from Sorted Array II | [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
