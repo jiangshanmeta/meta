@@ -3137,29 +3137,29 @@
 | 3117 | Minimum Sum of Values by Dividing Array |  | Hard  |
 | 3118 | Friday Purchase III  |  | Medium  |
 | 3119 | Maximum Number of Potholes That Can Be Fixed |  | Medium  |
-| 3120 | Count the Number of Special Characters I | [TypeScript](./src/3120.count-the-number-of-special-characters-i.3408/solution.ts) | Easy  |
+| 3120 | Count the Number of Special Characters I | [Java](./src/3120.count-the-number-of-special-characters-i.3408/solution.java) [TypeScript](./src/3120.count-the-number-of-special-characters-i.3408/solution.ts) | Easy  |
 | 3121 | Count the Number of Special Characters II |  | Medium  |
 | 3122 | Minimum Number of Operations to Satisfy Conditions |  | Medium  |
 | 3123 | Find Edges in Shortest Paths |  | Hard  |
 | 3124 | Find Longest Calls |  | Medium  |
 | 3125 | Maximum Number That Makes Result of Bitwise AND Zero |  | Medium  |
 | 3126 | Server Utilization Time |  | Medium  |
-| 3127 | Make a Square with the Same Color | [TypeScript](./src/3127.make-a-square-with-the-same-color.3398/solution.ts) | Easy  |
+| 3127 | Make a Square with the Same Color | [Java](./src/3127.make-a-square-with-the-same-color.3398/solution.java) [TypeScript](./src/3127.make-a-square-with-the-same-color.3398/solution.ts) | Easy  |
 | 3128 | Right Triangles |  | Medium  |
 | 3129 | Find All Possible Stable Binary Arrays I |  | Medium  |
 | 3130 | Find All Possible Stable Binary Arrays II |  | Hard  |
-| 3131 | Find the Integer Added to Array I | [TypeScript](./src/3131.find-the-integer-added-to-array-i.3397/solution.ts) | Easy  |
+| 3131 | Find the Integer Added to Array I | [Java](./src/3131.find-the-integer-added-to-array-i.3397/solution.java) [TypeScript](./src/3131.find-the-integer-added-to-array-i.3397/solution.ts) | Easy  |
 | 3132 | Find the Integer Added to Array II |  | Medium  |
 | 3133 | Minimum Array End |  | Medium  |
 | 3134 | Find the Median of the Uniqueness Array |  | Hard  |
 | 3135 | Equalize Strings by Adding or Removing Characters at Ends |  | Medium  |
-| 3136 | Valid Word | [TypeScript](./src/3136.valid-word.3396/solution.ts) | Easy  |
+| 3136 | Valid Word | [Java](./src/3136.valid-word.3396/solution.java) [TypeScript](./src/3136.valid-word.3396/solution.ts) | Easy  |
 | 3137 | Minimum Number of Operations to Make Word K-Periodic |  | Medium  |
 | 3138 | Minimum Length of Anagram Concatenation |  | Medium  |
 | 3139 | Minimum Cost to Equalize Array |  | Hard  |
 | 3140 | Consecutive Available Seats II |  | Medium  |
 | 3141 | Maximum Hamming Distances |  | Hard  |
-| 3142 | Check if Grid Satisfies Conditions | [TypeScript](./src/3142.check-if-grid-satisfies-conditions.3415/solution.ts) | Easy  |
+| 3142 | Check if Grid Satisfies Conditions | [Java](./src/3142.check-if-grid-satisfies-conditions.3415/solution.java) [TypeScript](./src/3142.check-if-grid-satisfies-conditions.3415/solution.ts) | Easy  |
 | 3143 | Maximum Points Inside the Square |  | Medium  |
 | 3144 | Minimum Substring Partition of Equal Character Frequency |  | Medium  |
 | 3145 | Find Products of Elements of Big Array |  | Hard  |
