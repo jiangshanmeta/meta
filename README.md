@@ -3163,12 +3163,12 @@
 | 3143 | Maximum Points Inside the Square |  | Medium  |
 | 3144 | Minimum Substring Partition of Equal Character Frequency |  | Medium  |
 | 3145 | Find Products of Elements of Big Array |  | Hard  |
-| 3146 | Permutation Difference between Two Strings | [TypeScript](./src/3146.permutation-difference-between-two-strings.3412/solution.ts) | Easy  |
+| 3146 | Permutation Difference between Two Strings | [Java](./src/3146.permutation-difference-between-two-strings.3412/solution.java) [TypeScript](./src/3146.permutation-difference-between-two-strings.3412/solution.ts) | Easy  |
 | 3147 | Taking Maximum Energy From the Mystic Dungeon |  | Medium  |
 | 3148 | Maximum Difference Score in a Grid |  | Medium  |
 | 3149 | Find the Minimum Cost Array Permutation |  | Hard  |
 | 3150 | Invalid Tweets II |  | Easy  |
-| 3151 | Special Array I | [TypeScript](./src/3151.special-array-i.3429/solution.ts) | Easy  |
+| 3151 | Special Array I | [Java](./src/3151.special-array-i.3429/solution.java) [TypeScript](./src/3151.special-array-i.3429/solution.ts) | Easy  |
 | 3152 | Special Array II |  | Medium  |
 | 3153 | Sum of Digit Differences of All Pairs |  | Medium  |
 | 3154 | Find Number of Ways to Reach the K-th Stair |  | Hard  |
@@ -3185,13 +3185,13 @@
 | 3165 | Maximum Sum of Subsequence With Non-adjacent Elements |  | Hard  |
 | 3166 | Calculate Parking Fees and Duration |  | Medium  |
 | 3167 | Better Compression of String |  | Medium  |
-| 3168 | Minimum Number of Chairs in a Waiting Room | [TypeScript](./src/3168.minimum-number-of-chairs-in-a-waiting-room.3426/solution.ts) | Easy  |
+| 3168 | Minimum Number of Chairs in a Waiting Room | [Java](./src/3168.minimum-number-of-chairs-in-a-waiting-room.3426/solution.java) [TypeScript](./src/3168.minimum-number-of-chairs-in-a-waiting-room.3426/solution.ts) | Easy  |
 | 3169 | Count Days Without Meetings |  | Medium  |
 | 3170 | Lexicographically Minimum String After Removing Stars |  | Medium  |
 | 3171 | Find Subarray With Bitwise OR Closest to K |  | Hard  |
 | 3172 | Second Day Verification |  | Easy  |
 | 3173 | Bitwise OR of Adjacent Elements |  | Easy  |
-| 3174 | Clear Digits | [TypeScript](./src/3174.clear-digits.3447/solution.ts) | Easy  |
+| 3174 | Clear Digits | [Java](./src/3174.clear-digits.3447/solution.java) [TypeScript](./src/3174.clear-digits.3447/solution.ts) | Easy  |
 | 3175 | Find The First Player to win K Games in a Row |  | Medium  |
 | 3176 | Find the Maximum Length of a Good Subsequence I |  | Medium  |
 | 3177 | Find the Maximum Length of a Good Subsequence II |  | Hard  |
@@ -3201,7 +3201,7 @@
 | 3181 | Maximum Total Reward Using Operations II |  | Hard  |
 | 3182 | Find Top Scoring Students |  | Medium  |
 | 3183 | The Number of Ways to Make the Sum |  | Medium  |
-| 3184 | Count Pairs That Form a Complete Day I | [TypeScript](./src/3184.count-pairs-that-form-a-complete-day-i.3421/solution.ts) | Easy  |
+| 3184 | Count Pairs That Form a Complete Day I | [Java](./src/3184.count-pairs-that-form-a-complete-day-i.3421/solution.java) [TypeScript](./src/3184.count-pairs-that-form-a-complete-day-i.3421/solution.ts) | Easy  |
 | 3185 | Count Pairs That Form a Complete Day II |  | Medium  |
 | 3186 | Maximum Total Damage With Spell Casting |  | Medium  |
 | 3187 | Peaks in Array |  | Hard  |
