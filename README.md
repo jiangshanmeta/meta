@@ -86,7 +86,7 @@
 | 0066 | Plus One | [JavaScript](./src/0066.plus-one.66/solution.js) [TypeScript](./src/0066.plus-one.66/solution.ts) | Easy  |
 | 0067 | Add Binary | [Java](./src/0067.add-binary.67/solution.java) [JavaScript](./src/0067.add-binary.67/solution.js) [TypeScript](./src/0067.add-binary.67/solution.ts) | Easy  |
 | 0068 | Text Justification |  | Hard  |
-| 0069 | Sqrt(x) | [JavaScript](./src/0069.sqrtx.69/solution.js) [TypeScript](./src/0069.sqrtx.69/solution.ts) | Easy  |
+| 0069 | Sqrt(x) | [Java](./src/0069.sqrtx.69/solution.java) [JavaScript](./src/0069.sqrtx.69/solution.js) [TypeScript](./src/0069.sqrtx.69/solution.ts) | Easy  |
 | 0070 | Climbing Stairs | [JavaScript](./src/0070.climbing-stairs.70/solution.js) [TypeScript](./src/0070.climbing-stairs.70/solution.ts) | Easy  |
 | 0071 | Simplify Path | [JavaScript](./src/0071.simplify-path.71/solution.js) | Medium  |
 | 0072 | Edit Distance | [JavaScript](./src/0072.edit-distance.72/solution.js) [TypeScript](./src/0072.edit-distance.72/solution.ts) | Medium  |
@@ -95,7 +95,7 @@
 | 0075 | Sort Colors | [JavaScript](./src/0075.sort-colors.75/solution.js) [TypeScript](./src/0075.sort-colors.75/solution.ts) | Medium  |
 | 0076 | Minimum Window Substring | [JavaScript](./src/0076.minimum-window-substring.76/solution.js) | Hard  |
 | 0077 | Combinations | [Java](./src/0077.combinations.77/solution.java) [JavaScript](./src/0077.combinations.77/solution.js) [TypeScript](./src/0077.combinations.77/solution.ts) | Medium  |
-| 0078 | Subsets | [JavaScript](./src/0078.subsets.78/solution.js) [TypeScript](./src/0078.subsets.78/solution.ts) | Medium  |
+| 0078 | Subsets | [Java](./src/0078.subsets.78/solution.java) [JavaScript](./src/0078.subsets.78/solution.js) [TypeScript](./src/0078.subsets.78/solution.ts) | Medium  |
 | 0079 | Word Search | [JavaScript](./src/0079.word-search.79/solution.js) [TypeScript](./src/0079.word-search.79/solution.ts) | Medium  |
 | 0080 | Remove Duplicates from Sorted Array II | [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
 | 0081 | Search in Rotated Sorted Array II | [JavaScript](./src/0081.search-in-rotated-sorted-array-ii.81/solution.js) | Medium  |
@@ -168,7 +168,7 @@
 | 0148 | Sort List | [JavaScript](./src/0148.sort-list.148/solution.js) | Medium  |
 | 0149 | Max Points on a Line |  | Hard  |
 | 0150 | Evaluate Reverse Polish Notation | [JavaScript](./src/0150.evaluate-reverse-polish-notation.150/solution.js) [TypeScript](./src/0150.evaluate-reverse-polish-notation.150/solution.ts) | Medium  |
-| 0151 | Reverse Words in a String | [JavaScript](./src/0151.reverse-words-in-a-string.151/solution.js) [TypeScript](./src/0151.reverse-words-in-a-string.151/solution.ts) | Medium  |
+| 0151 | Reverse Words in a String | [Java](./src/0151.reverse-words-in-a-string.151/solution.java) [JavaScript](./src/0151.reverse-words-in-a-string.151/solution.js) [TypeScript](./src/0151.reverse-words-in-a-string.151/solution.ts) | Medium  |
 | 0152 | Maximum Product Subarray | [JavaScript](./src/0152.maximum-product-subarray.152/solution.js) [TypeScript](./src/0152.maximum-product-subarray.152/solution.ts) | Medium  |
 | 0153 | Find Minimum in Rotated Sorted Array | [JavaScript](./src/0153.find-minimum-in-rotated-sorted-array.153/solution.js) | Medium  |
 | 0154 | Find Minimum in Rotated Sorted Array II | [JavaScript](./src/0154.find-minimum-in-rotated-sorted-array-ii.154/solution.js) | Hard  |
@@ -254,7 +254,7 @@
 | 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/solution.js) [TypeScript](./src/0234.palindrome-linked-list.234/solution.ts) | Easy  |
 | 0235 | Lowest Common Ancestor of a Binary Search Tree | [Go](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.go) [Java](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.java) [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.ts) | Medium  |
 | 0236 | Lowest Common Ancestor of a Binary Tree | [Java](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.java) [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.ts) | Medium  |
-| 0237 | Delete Node in a Linked List | [JavaScript](./src/0237.delete-node-in-a-linked-list.237/solution.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/solution.ts) | Medium  |
+| 0237 | Delete Node in a Linked List | [Java](./src/0237.delete-node-in-a-linked-list.237/solution.java) [JavaScript](./src/0237.delete-node-in-a-linked-list.237/solution.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/solution.ts) | Medium  |
 | 0238 | Product of Array Except Self | [JavaScript](./src/0238.product-of-array-except-self.238/solution.js) [TypeScript](./src/0238.product-of-array-except-self.238/solution.ts) | Medium  |
 | 0239 | Sliding Window Maximum | [JavaScript](./src/0239.sliding-window-maximum.239/solution.js) [TypeScript](./src/0239.sliding-window-maximum.239/solution.ts) | Hard  |
 | 0240 | Search a 2D Matrix II | [JavaScript](./src/0240.search-a-2d-matrix-ii.240/solution.js) [TypeScript](./src/0240.search-a-2d-matrix-ii.240/solution.ts) | Medium  |
@@ -335,7 +335,7 @@
 | 0315 | Count of Smaller Numbers After Self | [JavaScript](./src/0315.count-of-smaller-numbers-after-self.315/solution.js) | Hard  |
 | 0316 | Remove Duplicate Letters | [JavaScript](./src/0316.remove-duplicate-letters.316/solution.js) [TypeScript](./src/0316.remove-duplicate-letters.316/solution.ts) | Medium  |
 | 0317 | Shortest Distance from All Buildings |  | Hard  |
-| 0318 | Maximum Product of Word Lengths | [JavaScript](./src/0318.maximum-product-of-word-lengths.318/solution.js) [TypeScript](./src/0318.maximum-product-of-word-lengths.318/solution.ts) | Medium  |
+| 0318 | Maximum Product of Word Lengths | [Java](./src/0318.maximum-product-of-word-lengths.318/solution.java) [JavaScript](./src/0318.maximum-product-of-word-lengths.318/solution.js) [TypeScript](./src/0318.maximum-product-of-word-lengths.318/solution.ts) | Medium  |
 | 0319 | Bulb Switcher | [JavaScript](./src/0319.bulb-switcher.319/solution.js) [TypeScript](./src/0319.bulb-switcher.319/solution.ts) | Medium  |
 | 0320 | Generalized Abbreviation | [JavaScript](./src/0320.generalized-abbreviation.320/solution.js) [TypeScript](./src/0320.generalized-abbreviation.320/solution.ts) | Medium  |
 | 0321 | Create Maximum Number |  | Hard  |
