@@ -3207,7 +3207,7 @@
 | 3187 | Peaks in Array |  | Hard  |
 | 3188 | Find Top Scoring Students II |  | Hard  |
 | 3189 | Minimum Moves to Get a Peaceful Board |  | Medium  |
-| 3190 | Find Minimum Operations to Make All Elements Divisible by Three | [TypeScript](./src/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.3476/solution.ts) | Easy  |
+| 3190 | Find Minimum Operations to Make All Elements Divisible by Three | [Java](./src/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.3476/solution.java) [TypeScript](./src/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.3476/solution.ts) | Easy  |
 | 3191 | Minimum Operations to Make Binary Array Elements Equal to One I |  | Medium  |
 | 3192 | Minimum Operations to Make Binary Array Elements Equal to One II |  | Medium  |
 | 3193 | Count the Number of Inversions |  | Hard  |
@@ -3227,7 +3227,7 @@
 | 3207 | Maximum Points After Enemy Battles |  | Medium  |
 | 3208 | Alternating Groups II |  | Medium  |
 | 3209 | Number of Subarrays With AND Value of K |  | Hard  |
-| 3210 | Find the Encrypted String | [TypeScript](./src/3210.find-the-encrypted-string.3468/solution.ts) | Easy  |
+| 3210 | Find the Encrypted String | [Java](./src/3210.find-the-encrypted-string.3468/solution.java) [TypeScript](./src/3210.find-the-encrypted-string.3468/solution.ts) | Easy  |
 | 3211 | Generate Binary Strings Without Adjacent Zeros |  | Medium  |
 | 3212 | Count Submatrices With Equal Frequency of X and Y |  | Medium  |
 | 3213 | Construct String with Minimum Cost |  | Hard  |
@@ -3239,17 +3239,17 @@
 | 3219 | Minimum Cost for Cutting Cake II |  | Hard  |
 | 3220 | Odd and Even Transactions |  | Medium  |
 | 3221 | Maximum Array Hopping Score II |  | Medium  |
-| 3222 | Find the Winning Player in Coin Game | [TypeScript](./src/3222.find-the-winning-player-in-coin-game.3511/solution.ts) | Easy  |
+| 3222 | Find the Winning Player in Coin Game | [Java](./src/3222.find-the-winning-player-in-coin-game.3511/solution.java) [TypeScript](./src/3222.find-the-winning-player-in-coin-game.3511/solution.ts) | Easy  |
 | 3223 | Minimum Length of String After Operations |  | Medium  |
 | 3224 | Minimum Array Changes to Make Differences Equal |  | Medium  |
 | 3225 | Maximum Score From Grid Operations |  | Hard  |
-| 3226 | Number of Bit Changes to Make Two Integers Equal | [TypeScript](./src/3226.number-of-bit-changes-to-make-two-integers-equal.3508/solution.ts) | Easy  |
+| 3226 | Number of Bit Changes to Make Two Integers Equal | [Java](./src/3226.number-of-bit-changes-to-make-two-integers-equal.3508/solution.java) [TypeScript](./src/3226.number-of-bit-changes-to-make-two-integers-equal.3508/solution.ts) | Easy  |
 | 3227 | Vowels Game in a String |  | Medium  |
 | 3228 | Maximum Number of Operations to Move Ones to the End |  | Medium  |
 | 3229 | Minimum Operations to Make Array Equal to Target |  | Hard  |
 | 3230 | Customer Purchasing Behavior Analysis |  | Medium  |
 | 3231 | Minimum Number of Increasing Subsequence to Be Removed |  | Hard  |
-| 3232 | Find if Digit Game Can Be Won | [TypeScript](./src/3232.find-if-digit-game-can-be-won.3515/solution.ts) | Easy  |
+| 3232 | Find if Digit Game Can Be Won | [Java](./src/3232.find-if-digit-game-can-be-won.3515/solution.java) [TypeScript](./src/3232.find-if-digit-game-can-be-won.3515/solution.ts) | Easy  |
 | 3233 | Find the Count of Numbers Which Are Not Special |  | Medium  |
 | 3234 | Count the Number of Substrings With Dominant Ones |  | Medium  |
 | 3235 | Check if the Rectangle Corner Is Reachable |  | Hard  |
