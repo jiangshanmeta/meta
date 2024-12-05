@@ -41,11 +41,11 @@
 | 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [Java](./src/0021.merge-two-sorted-lists.21/solution.java) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
 | 0022 | Generate Parentheses | [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
 | 0023 | Merge k Sorted Lists | [JavaScript](./src/0023.merge-k-sorted-lists.23/solution.js) [TypeScript](./src/0023.merge-k-sorted-lists.23/solution.ts) | Hard  |
-| 0024 | Swap Nodes in Pairs | [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
+| 0024 | Swap Nodes in Pairs | [Java](./src/0024.swap-nodes-in-pairs.24/solution.java) [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/solution.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/solution.ts) | Hard  |
 | 0026 | Remove Duplicates from Sorted Array | [Java](./src/0026.remove-duplicates-from-sorted-array.26/solution.java) [JavaScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.js) [TypeScript](./src/0026.remove-duplicates-from-sorted-array.26/solution.ts) | Easy  |
 | 0027 | Remove Element | [Java](./src/0027.remove-element.27/solution.java) [JavaScript](./src/0027.remove-element.27/solution.js) [TypeScript](./src/0027.remove-element.27/solution.ts) | Easy  |
-| 0028 | Find the Index of the First Occurrence in a String | [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Easy  |
+| 0028 | Find the Index of the First Occurrence in a String | [Java](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.java) [JavaScript](./src/0028.find-the-index-of-the-first-occurrence-in-a-string.28/solution.js) | Easy  |
 | 0029 | Divide Two Integers | [JavaScript](./src/0029.divide-two-integers.29/solution.js) | Medium  |
 | 0030 | Substring with Concatenation of All Words |  | Hard  |
 | 0031 | Next Permutation | [JavaScript](./src/0031.next-permutation.31/solution.js) | Medium  |
@@ -72,14 +72,14 @@
 | 0052 | N-Queens II |  | Hard  |
 | 0053 | Maximum Subarray | [Java](./src/0053.maximum-subarray.53/solution.java) [JavaScript](./src/0053.maximum-subarray.53/solution.js) [TypeScript](./src/0053.maximum-subarray.53/solution.ts) | Medium  |
 | 0054 | Spiral Matrix | [JavaScript](./src/0054.spiral-matrix.54/solution.js) [TypeScript](./src/0054.spiral-matrix.54/solution.ts) | Medium  |
-| 0055 | Jump Game | [JavaScript](./src/0055.jump-game.55/solution.js) [TypeScript](./src/0055.jump-game.55/solution.ts) | Medium  |
+| 0055 | Jump Game | [Java](./src/0055.jump-game.55/solution.java) [JavaScript](./src/0055.jump-game.55/solution.js) [TypeScript](./src/0055.jump-game.55/solution.ts) | Medium  |
 | 0056 | Merge Intervals | [JavaScript](./src/0056.merge-intervals.56/solution.js) | Medium  |
 | 0057 | Insert Interval | [JavaScript](./src/0057.insert-interval.57/solution.js) | Medium  |
 | 0058 | Length of Last Word | [Java](./src/0058.length-of-last-word.58/solution.java) [JavaScript](./src/0058.length-of-last-word.58/solution.js) [TypeScript](./src/0058.length-of-last-word.58/solution.ts) | Easy  |
 | 0059 | Spiral Matrix II | [JavaScript](./src/0059.spiral-matrix-ii.59/solution.js) [TypeScript](./src/0059.spiral-matrix-ii.59/solution.ts) | Medium  |
 | 0060 | Permutation Sequence | [JavaScript](./src/0060.permutation-sequence.60/solution.js) | Hard  |
-| 0061 | Rotate List | [JavaScript](./src/0061.rotate-list.61/solution.js) [TypeScript](./src/0061.rotate-list.61/solution.ts) | Medium  |
-| 0062 | Unique Paths | [JavaScript](./src/0062.unique-paths.62/solution.js) [TypeScript](./src/0062.unique-paths.62/solution.ts) | Medium  |
+| 0061 | Rotate List | [Java](./src/0061.rotate-list.61/solution.java) [JavaScript](./src/0061.rotate-list.61/solution.js) [TypeScript](./src/0061.rotate-list.61/solution.ts) | Medium  |
+| 0062 | Unique Paths | [Java](./src/0062.unique-paths.62/solution.java) [JavaScript](./src/0062.unique-paths.62/solution.js) [TypeScript](./src/0062.unique-paths.62/solution.ts) | Medium  |
 | 0063 | Unique Paths II | [JavaScript](./src/0063.unique-paths-ii.63/solution.js) [TypeScript](./src/0063.unique-paths-ii.63/solution.ts) | Medium  |
 | 0064 | Minimum Path Sum | [JavaScript](./src/0064.minimum-path-sum.64/solution.js) [TypeScript](./src/0064.minimum-path-sum.64/solution.ts) | Medium  |
 | 0065 | Valid Number | [JavaScript](./src/0065.valid-number.65/solution.js) | Hard  |
@@ -325,7 +325,7 @@
 | 0305 | Number of Islands II |  | Hard  |
 | 0306 | Additive Number | [JavaScript](./src/0306.additive-number.306/solution.js) | Medium  |
 | 0307 | Range Sum Query - Mutable | [JavaScript](./src/0307.range-sum-query-mutable.307/solution.js) [TypeScript](./src/0307.range-sum-query-mutable.307/solution.ts) | Medium  |
-| 0308 | Range Sum Query 2D - Mutable |  | Hard  |
+| 0308 | Range Sum Query 2D - Mutable |  | Medium  |
 | 0309 | Best Time to Buy and Sell Stock with Cooldown | [JavaScript](./src/0309.best-time-to-buy-and-sell-stock-with-cooldown.309/solution.js) | Medium  |
 | 0310 | Minimum Height Trees | [JavaScript](./src/0310.minimum-height-trees.310/solution.js) | Medium  |
 | 0311 | Sparse Matrix Multiplication | [JavaScript](./src/0311.sparse-matrix-multiplication.311/solution.js) [TypeScript](./src/0311.sparse-matrix-multiplication.311/solution.ts) | Medium  |
@@ -3366,6 +3366,32 @@
 | 3346 | Maximum Frequency of an Element After Performing Operations I |  | Medium  |
 | 3347 | Maximum Frequency of an Element After Performing Operations II |  | Hard  |
 | 3348 | Smallest Divisible Digit Product II |  | Hard  |
+| 3349 | Adjacent Increasing Subarrays Detection I |  | Easy  |
+| 3350 | Adjacent Increasing Subarrays Detection II |  | Medium  |
+| 3351 | Sum of Good Subsequences |  | Hard  |
+| 3352 | Count K-Reducible Numbers Less Than N |  | Hard  |
+| 3353 | Minimum Total Operations |  | Easy  |
+| 3354 | Make Array Elements Equal to Zero |  | Easy  |
+| 3355 | Zero Array Transformation I |  | Medium  |
+| 3356 | Zero Array Transformation II |  | Medium  |
+| 3357 | Minimize the Maximum Adjacent Element Difference |  | Hard  |
+| 3358 | Books with NULL Ratings |  | Easy  |
+| 3359 | Find Sorted Submatrices With Maximum Element at Most K |  | Hard  |
+| 3360 | Stone Removal Game |  | Easy  |
+| 3361 | Shift Distance Between Two Strings |  | Medium  |
+| 3362 | Zero Array Transformation III |  | Medium  |
+| 3363 | Find the Maximum Number of Fruits Collected |  | Hard  |
+| 3364 | Minimum Positive Sum Subarray  |  | Easy  |
+| 3365 | Rearrange K Substrings to Form Target String |  | Medium  |
+| 3366 | Minimum Array Sum |  | Medium  |
+| 3367 | Maximize Sum of Weights after Edge Removals |  | Hard  |
+| 3368 | First Letter Capitalization |  | Hard  |
+| 3369 | Design an Array Statistics Tracker  |  | Hard  |
+| 3370 | Smallest Number With All Set Bits |  | Easy  |
+| 3371 | Identify the Largest Outlier in an Array |  | Medium  |
+| 3372 | Maximize the Number of Target Nodes After Connecting Trees I |  | Medium  |
+| 3373 | Maximize the Number of Target Nodes After Connecting Trees II |  | Hard  |
+| 3374 | First Letter Capitalization II |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
