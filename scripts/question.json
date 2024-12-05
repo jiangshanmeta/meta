@@ -2153,7 +2153,7 @@
         "index": "0308",
         "title": "Range Sum Query 2D - Mutable",
         "title_slug": "range-sum-query-2d-mutable",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "id": 309,
@@ -23433,6 +23433,188 @@
         "index": "3348",
         "title": "Smallest Divisible Digit Product II",
         "title_slug": "smallest-divisible-digit-product-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3612,
+        "index": "3349",
+        "title": "Adjacent Increasing Subarrays Detection I",
+        "title_slug": "adjacent-increasing-subarrays-detection-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3619,
+        "index": "3350",
+        "title": "Adjacent Increasing Subarrays Detection II",
+        "title_slug": "adjacent-increasing-subarrays-detection-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3646,
+        "index": "3351",
+        "title": "Sum of Good Subsequences",
+        "title_slug": "sum-of-good-subsequences",
+        "difficulty": 3
+    },
+    {
+        "id": 3631,
+        "index": "3352",
+        "title": "Count K-Reducible Numbers Less Than N",
+        "title_slug": "count-k-reducible-numbers-less-than-n",
+        "difficulty": 3
+    },
+    {
+        "id": 3694,
+        "index": "3353",
+        "title": "Minimum Total Operations",
+        "title_slug": "minimum-total-operations",
+        "difficulty": 1
+    },
+    {
+        "id": 3616,
+        "index": "3354",
+        "title": "Make Array Elements Equal to Zero",
+        "title_slug": "make-array-elements-equal-to-zero",
+        "difficulty": 1
+    },
+    {
+        "id": 3639,
+        "index": "3355",
+        "title": "Zero Array Transformation I",
+        "title_slug": "zero-array-transformation-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3643,
+        "index": "3356",
+        "title": "Zero Array Transformation II",
+        "title_slug": "zero-array-transformation-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3658,
+        "index": "3357",
+        "title": "Minimize the Maximum Adjacent Element Difference",
+        "title_slug": "minimize-the-maximum-adjacent-element-difference",
+        "difficulty": 3
+    },
+    {
+        "id": 3695,
+        "index": "3358",
+        "title": "Books with NULL Ratings",
+        "title_slug": "books-with-null-ratings",
+        "difficulty": 1
+    },
+    {
+        "id": 3652,
+        "index": "3359",
+        "title": "Find Sorted Submatrices With Maximum Element at Most K",
+        "title_slug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+        "difficulty": 3
+    },
+    {
+        "id": 3625,
+        "index": "3360",
+        "title": "Stone Removal Game",
+        "title_slug": "stone-removal-game",
+        "difficulty": 1
+    },
+    {
+        "id": 3591,
+        "index": "3361",
+        "title": "Shift Distance Between Two Strings",
+        "title_slug": "shift-distance-between-two-strings",
+        "difficulty": 2
+    },
+    {
+        "id": 3647,
+        "index": "3362",
+        "title": "Zero Array Transformation III",
+        "title_slug": "zero-array-transformation-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3648,
+        "index": "3363",
+        "title": "Find the Maximum Number of Fruits Collected",
+        "title_slug": "find-the-maximum-number-of-fruits-collected",
+        "difficulty": 3
+    },
+    {
+        "id": 3644,
+        "index": "3364",
+        "title": "Minimum Positive Sum Subarray ",
+        "title_slug": "minimum-positive-sum-subarray",
+        "difficulty": 1
+    },
+    {
+        "id": 3595,
+        "index": "3365",
+        "title": "Rearrange K Substrings to Form Target String",
+        "title_slug": "rearrange-k-substrings-to-form-target-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3654,
+        "index": "3366",
+        "title": "Minimum Array Sum",
+        "title_slug": "minimum-array-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3675,
+        "index": "3367",
+        "title": "Maximize Sum of Weights after Edge Removals",
+        "title_slug": "maximize-sum-of-weights-after-edge-removals",
+        "difficulty": 3
+    },
+    {
+        "id": 3703,
+        "index": "3368",
+        "title": "First Letter Capitalization",
+        "title_slug": "first-letter-capitalization",
+        "difficulty": 3
+    },
+    {
+        "id": 3710,
+        "index": "3369",
+        "title": "Design an Array Statistics Tracker ",
+        "title_slug": "design-an-array-statistics-tracker",
+        "difficulty": 3
+    },
+    {
+        "id": 3676,
+        "index": "3370",
+        "title": "Smallest Number With All Set Bits",
+        "title_slug": "smallest-number-with-all-set-bits",
+        "difficulty": 1
+    },
+    {
+        "id": 3594,
+        "index": "3371",
+        "title": "Identify the Largest Outlier in an Array",
+        "title_slug": "identify-the-largest-outlier-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3633,
+        "index": "3372",
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3645,
+        "index": "3373",
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3711,
+        "index": "3374",
+        "title": "First Letter Capitalization II",
+        "title_slug": "first-letter-capitalization-ii",
         "difficulty": 3
     },
     {
