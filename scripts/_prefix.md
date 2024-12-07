@@ -16,5 +16,8 @@
 
 ## 目录
 
+* TS/JS Answer {{totalTSOrJS}}
+* Java Answer {{totalJava}}
+
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
