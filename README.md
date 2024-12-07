@@ -3291,18 +3291,18 @@
 | 3271 | Hash Divided String |  | Medium  |
 | 3272 | Find the Count of Good Integers |  | Hard  |
 | 3273 | Minimum Amount of Damage Dealt to Bob |  | Hard  |
-| 3274 | Check if Two Chessboard Squares Have the Same Color | [TypeScript](./src/3274.check-if-two-chessboard-squares-have-the-same-color.3553/solution.ts) | Easy  |
+| 3274 | Check if Two Chessboard Squares Have the Same Color | [Java](./src/3274.check-if-two-chessboard-squares-have-the-same-color.3553/solution.java) [TypeScript](./src/3274.check-if-two-chessboard-squares-have-the-same-color.3553/solution.ts) | Easy  |
 | 3275 | K-th Nearest Obstacle Queries |  | Medium  |
 | 3276 | Select Cells in Grid With Maximum Score |  | Hard  |
 | 3277 | Maximum XOR Score Subarray Queries |  | Hard  |
 | 3278 | Find Candidates for Data Scientist Position II |  | Medium  |
 | 3279 | Maximum Total Area Occupied by Pistons |  | Hard  |
-| 3280 | Convert Date to Binary | [TypeScript](./src/3280.convert-date-to-binary.3567/solution.ts) | Easy  |
+| 3280 | Convert Date to Binary | [Java](./src/3280.convert-date-to-binary.3567/solution.java) [TypeScript](./src/3280.convert-date-to-binary.3567/solution.ts) | Easy  |
 | 3281 | Maximize Score of Numbers in Ranges |  | Medium  |
 | 3282 | Reach End of Array With Max Score |  | Medium  |
 | 3283 | Maximum Number of Moves to Kill All Pawns |  | Hard  |
 | 3284 | Sum of Consecutive Subarrays |  | Medium  |
-| 3285 | Find Indices of Stable Mountains | [TypeScript](./src/3285.find-indices-of-stable-mountains.3582/solution.ts) | Easy  |
+| 3285 | Find Indices of Stable Mountains | [Java](./src/3285.find-indices-of-stable-mountains.3582/solution.java) [TypeScript](./src/3285.find-indices-of-stable-mountains.3582/solution.ts) | Easy  |
 | 3286 | Find a Safe Walk Through a Grid |  | Medium  |
 | 3287 | Find the Maximum Sequence Value of Array |  | Hard  |
 | 3288 | Length of the Longest Increasing Path |  | Hard  |
@@ -3357,12 +3357,12 @@
 | 3337 | Total Characters in String After Transformations II |  | Hard  |
 | 3338 | Second Highest Salary II |  | Medium  |
 | 3339 | Find the Number of K-Even Arrays |  | Medium  |
-| 3340 | Check Balanced String |  | Easy  |
+| 3340 | Check Balanced String | [Java](./src/3340.check-balanced-string.3636/solution.java) | Easy  |
 | 3341 | Find Minimum Time to Reach Last Room I |  | Medium  |
 | 3342 | Find Minimum Time to Reach Last Room II |  | Medium  |
 | 3343 | Count Number of Balanced Permutations |  | Hard  |
 | 3344 | Maximum Sized Array |  | Medium  |
-| 3345 | Smallest Divisible Digit Product I |  | Easy  |
+| 3345 | Smallest Divisible Digit Product I | [Java](./src/3345.smallest-divisible-digit-product-i.3626/solution.java) | Easy  |
 | 3346 | Maximum Frequency of an Element After Performing Operations I |  | Medium  |
 | 3347 | Maximum Frequency of an Element After Performing Operations II |  | Hard  |
 | 3348 | Smallest Divisible Digit Product II |  | Hard  |
