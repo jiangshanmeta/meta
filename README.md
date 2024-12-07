@@ -16,6 +16,9 @@
 
 ## 目录
 
+* TS/JS Answer 2243
+* Java Answer 335
+
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 | 0001 | Two Sum | [Go](./src/0001.two-sum.1/solution.go) [Java](./src/0001.two-sum.1/solution.java) [JavaScript](./src/0001.two-sum.1/solution.js) [TypeScript](./src/0001.two-sum.1/solution.ts) | Easy  |
