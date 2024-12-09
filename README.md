@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 335
+* Java Answer 340
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -83,7 +83,7 @@
 | 0060 | Permutation Sequence | [JavaScript](./src/0060.permutation-sequence.60/solution.js) | Hard  |
 | 0061 | Rotate List | [Java](./src/0061.rotate-list.61/solution.java) [JavaScript](./src/0061.rotate-list.61/solution.js) [TypeScript](./src/0061.rotate-list.61/solution.ts) | Medium  |
 | 0062 | Unique Paths | [Java](./src/0062.unique-paths.62/solution.java) [JavaScript](./src/0062.unique-paths.62/solution.js) [TypeScript](./src/0062.unique-paths.62/solution.ts) | Medium  |
-| 0063 | Unique Paths II | [JavaScript](./src/0063.unique-paths-ii.63/solution.js) [TypeScript](./src/0063.unique-paths-ii.63/solution.ts) | Medium  |
+| 0063 | Unique Paths II | [Java](./src/0063.unique-paths-ii.63/solution.java) [JavaScript](./src/0063.unique-paths-ii.63/solution.js) [TypeScript](./src/0063.unique-paths-ii.63/solution.ts) | Medium  |
 | 0064 | Minimum Path Sum | [JavaScript](./src/0064.minimum-path-sum.64/solution.js) [TypeScript](./src/0064.minimum-path-sum.64/solution.ts) | Medium  |
 | 0065 | Valid Number | [JavaScript](./src/0065.valid-number.65/solution.js) | Hard  |
 | 0066 | Plus One | [JavaScript](./src/0066.plus-one.66/solution.js) [TypeScript](./src/0066.plus-one.66/solution.ts) | Easy  |
@@ -106,7 +106,7 @@
 | 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [Java](./src/0083.remove-duplicates-from-sorted-list.83/solution.java) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
 | 0084 | Largest Rectangle in Histogram | [TypeScript](./src/0084.largest-rectangle-in-histogram.84/solution.ts) | Hard  |
 | 0085 | Maximal Rectangle | [TypeScript](./src/0085.maximal-rectangle.85/solution.ts) | Hard  |
-| 0086 | Partition List | [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
+| 0086 | Partition List | [Java](./src/0086.partition-list.86/solution.java) [JavaScript](./src/0086.partition-list.86/solution.js) [TypeScript](./src/0086.partition-list.86/solution.ts) | Medium  |
 | 0087 | Scramble String |  | Hard  |
 | 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [Java](./src/0088.merge-sorted-array.88/solution.java) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
 | 0089 | Gray Code | [JavaScript](./src/0089.gray-code.89/solution.js) | Medium  |
@@ -133,13 +133,13 @@
 | 0110 | Balanced Binary Tree | [Java](./src/0110.balanced-binary-tree.110/solution.java) [JavaScript](./src/0110.balanced-binary-tree.110/solution.js) [TypeScript](./src/0110.balanced-binary-tree.110/solution.ts) | Easy  |
 | 0111 | Minimum Depth of Binary Tree | [Java](./src/0111.minimum-depth-of-binary-tree.111/solution.java) [JavaScript](./src/0111.minimum-depth-of-binary-tree.111/solution.js) [TypeScript](./src/0111.minimum-depth-of-binary-tree.111/solution.ts) | Easy  |
 | 0112 | Path Sum | [Go](./src/0112.path-sum.112/solution.go) [Java](./src/0112.path-sum.112/solution.java) [JavaScript](./src/0112.path-sum.112/solution.js) [TypeScript](./src/0112.path-sum.112/solution.ts) | Easy  |
-| 0113 | Path Sum II | [JavaScript](./src/0113.path-sum-ii.113/solution.js) [TypeScript](./src/0113.path-sum-ii.113/solution.ts) | Medium  |
+| 0113 | Path Sum II | [Java](./src/0113.path-sum-ii.113/solution.java) [JavaScript](./src/0113.path-sum-ii.113/solution.js) [TypeScript](./src/0113.path-sum-ii.113/solution.ts) | Medium  |
 | 0114 | Flatten Binary Tree to Linked List | [JavaScript](./src/0114.flatten-binary-tree-to-linked-list.114/solution.js) [TypeScript](./src/0114.flatten-binary-tree-to-linked-list.114/solution.ts) | Medium  |
 | 0115 | Distinct Subsequences | [JavaScript](./src/0115.distinct-subsequences.115/solution.js) | Hard  |
 | 0116 | Populating Next Right Pointers in Each Node | [JavaScript](./src/0116.populating-next-right-pointers-in-each-node.116/solution.js) [TypeScript](./src/0116.populating-next-right-pointers-in-each-node.116/solution.ts) | Medium  |
 | 0117 | Populating Next Right Pointers in Each Node II | [JavaScript](./src/0117.populating-next-right-pointers-in-each-node-ii.117/solution.js) [TypeScript](./src/0117.populating-next-right-pointers-in-each-node-ii.117/solution.ts) | Medium  |
 | 0118 | Pascal's Triangle | [Java](./src/0118.pascals-triangle.118/solution.java) [JavaScript](./src/0118.pascals-triangle.118/solution.js) [TypeScript](./src/0118.pascals-triangle.118/solution.ts) | Easy  |
-| 0119 | Pascal's Triangle II | [JavaScript](./src/0119.pascals-triangle-ii.119/solution.js) [TypeScript](./src/0119.pascals-triangle-ii.119/solution.ts) | Easy  |
+| 0119 | Pascal's Triangle II | [Java](./src/0119.pascals-triangle-ii.119/solution.java) [JavaScript](./src/0119.pascals-triangle-ii.119/solution.js) [TypeScript](./src/0119.pascals-triangle-ii.119/solution.ts) | Easy  |
 | 0120 | Triangle | [JavaScript](./src/0120.triangle.120/solution.js) [TypeScript](./src/0120.triangle.120/solution.ts) | Medium  |
 | 0121 | Best Time to Buy and Sell Stock | [Java](./src/0121.best-time-to-buy-and-sell-stock.121/solution.java) [JavaScript](./src/0121.best-time-to-buy-and-sell-stock.121/solution.js) [TypeScript](./src/0121.best-time-to-buy-and-sell-stock.121/solution.ts) | Easy  |
 | 0122 | Best Time to Buy and Sell Stock II | [JavaScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/solution.js) [TypeScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/solution.ts) | Medium  |
@@ -222,7 +222,7 @@
 | 0199 | Binary Tree Right Side View | [Java](./src/0199.binary-tree-right-side-view.199/solution.java) [JavaScript](./src/0199.binary-tree-right-side-view.199/solution.js) [TypeScript](./src/0199.binary-tree-right-side-view.199/solution.ts) | Medium  |
 | 0200 | Number of Islands | [JavaScript](./src/0200.number-of-islands.200/solution.js) [TypeScript](./src/0200.number-of-islands.200/solution.ts) | Medium  |
 | 0201 | Bitwise AND of Numbers Range | [JavaScript](./src/0201.bitwise-and-of-numbers-range.201/solution.js) | Medium  |
-| 0202 | Happy Number | [JavaScript](./src/0202.happy-number.202/solution.js) [TypeScript](./src/0202.happy-number.202/solution.ts) | Easy  |
+| 0202 | Happy Number | [Java](./src/0202.happy-number.202/solution.java) [JavaScript](./src/0202.happy-number.202/solution.js) [TypeScript](./src/0202.happy-number.202/solution.ts) | Easy  |
 | 0203 | Remove Linked List Elements | [Go](./src/0203.remove-linked-list-elements.203/solution.go) [Java](./src/0203.remove-linked-list-elements.203/solution.java) [JavaScript](./src/0203.remove-linked-list-elements.203/solution.js) [TypeScript](./src/0203.remove-linked-list-elements.203/solution.ts) | Easy  |
 | 0204 | Count Primes | [JavaScript](./src/0204.count-primes.204/solution.js) [TypeScript](./src/0204.count-primes.204/solution.ts) | Medium  |
 | 0205 | Isomorphic Strings | [JavaScript](./src/0205.isomorphic-strings.205/solution.js) [TypeScript](./src/0205.isomorphic-strings.205/solution.ts) | Easy  |
