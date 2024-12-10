@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 340
+* Java Answer 345
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -34,7 +34,7 @@
 | 0011 | Container With Most Water | [JavaScript](./src/0011.container-with-most-water.11/solution.js) | Medium  |
 | 0012 | Integer to Roman | [JavaScript](./src/0012.integer-to-roman.12/solution.js) [TypeScript](./src/0012.integer-to-roman.12/solution.ts) | Medium  |
 | 0013 | Roman to Integer | [JavaScript](./src/0013.roman-to-integer.13/solution.js) [TypeScript](./src/0013.roman-to-integer.13/solution.ts) | Easy  |
-| 0014 | Longest Common Prefix | [JavaScript](./src/0014.longest-common-prefix.14/solution.js) [TypeScript](./src/0014.longest-common-prefix.14/solution.ts) | Easy  |
+| 0014 | Longest Common Prefix | [Java](./src/0014.longest-common-prefix.14/solution.java) [JavaScript](./src/0014.longest-common-prefix.14/solution.js) [TypeScript](./src/0014.longest-common-prefix.14/solution.ts) | Easy  |
 | 0015 | 3Sum | [JavaScript](./src/0015.3sum.15/solution.js) | Medium  |
 | 0016 | 3Sum Closest | [JavaScript](./src/0016.3sum-closest.16/solution.js) | Medium  |
 | 0017 | Letter Combinations of a Phone Number | [Java](./src/0017.letter-combinations-of-a-phone-number.17/solution.java) [JavaScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.js) [TypeScript](./src/0017.letter-combinations-of-a-phone-number.17/solution.ts) | Medium  |
@@ -254,7 +254,7 @@
 | 0231 | Power of Two | [Java](./src/0231.power-of-two.231/solution.java) [JavaScript](./src/0231.power-of-two.231/solution.js) [TypeScript](./src/0231.power-of-two.231/solution.ts) | Easy  |
 | 0232 | Implement Queue using Stacks | [JavaScript](./src/0232.implement-queue-using-stacks.232/solution.js) [TypeScript](./src/0232.implement-queue-using-stacks.232/solution.ts) | Easy  |
 | 0233 | Number of Digit One | [JavaScript](./src/0233.number-of-digit-one.233/solution.js) | Hard  |
-| 0234 | Palindrome Linked List | [JavaScript](./src/0234.palindrome-linked-list.234/solution.js) [TypeScript](./src/0234.palindrome-linked-list.234/solution.ts) | Easy  |
+| 0234 | Palindrome Linked List | [Java](./src/0234.palindrome-linked-list.234/solution.java) [JavaScript](./src/0234.palindrome-linked-list.234/solution.js) [TypeScript](./src/0234.palindrome-linked-list.234/solution.ts) | Easy  |
 | 0235 | Lowest Common Ancestor of a Binary Search Tree | [Go](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.go) [Java](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.java) [JavaScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.js) [TypeScript](./src/0235.lowest-common-ancestor-of-a-binary-search-tree.235/solution.ts) | Medium  |
 | 0236 | Lowest Common Ancestor of a Binary Tree | [Java](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.java) [JavaScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.js) [TypeScript](./src/0236.lowest-common-ancestor-of-a-binary-tree.236/solution.ts) | Medium  |
 | 0237 | Delete Node in a Linked List | [Java](./src/0237.delete-node-in-a-linked-list.237/solution.java) [JavaScript](./src/0237.delete-node-in-a-linked-list.237/solution.js) [TypeScript](./src/0237.delete-node-in-a-linked-list.237/solution.ts) | Medium  |
@@ -278,7 +278,7 @@
 | 0255 | Verify Preorder Sequence in Binary Search Tree | [JavaScript](./src/0255.verify-preorder-sequence-in-binary-search-tree.255/solution.js) | Medium  |
 | 0256 | Paint House |  | Medium  |
 | 0257 | Binary Tree Paths | [Java](./src/0257.binary-tree-paths.257/solution.java) [JavaScript](./src/0257.binary-tree-paths.257/solution.js) [TypeScript](./src/0257.binary-tree-paths.257/solution.ts) | Easy  |
-| 0258 | Add Digits | [JavaScript](./src/0258.add-digits.258/solution.js) [TypeScript](./src/0258.add-digits.258/solution.ts) | Easy  |
+| 0258 | Add Digits | [Java](./src/0258.add-digits.258/solution.java) [JavaScript](./src/0258.add-digits.258/solution.js) [TypeScript](./src/0258.add-digits.258/solution.ts) | Easy  |
 | 0259 | 3Sum Smaller | [JavaScript](./src/0259.3sum-smaller.259/solution.js) [TypeScript](./src/0259.3sum-smaller.259/solution.ts) | Medium  |
 | 0260 | Single Number III | [JavaScript](./src/0260.single-number-iii.260/solution.js) [TypeScript](./src/0260.single-number-iii.260/solution.ts) | Medium  |
 | 0261 | Graph Valid Tree |  | Medium  |
@@ -288,7 +288,7 @@
 | 0265 | Paint House II |  | Hard  |
 | 0266 | Palindrome Permutation | [JavaScript](./src/0266.palindrome-permutation.266/solution.js) [TypeScript](./src/0266.palindrome-permutation.266/solution.ts) | Easy  |
 | 0267 | Palindrome Permutation II | [JavaScript](./src/0267.palindrome-permutation-ii.267/solution.js) [TypeScript](./src/0267.palindrome-permutation-ii.267/solution.ts) | Medium  |
-| 0268 | Missing Number | [JavaScript](./src/0268.missing-number.268/solution.js) [TypeScript](./src/0268.missing-number.268/solution.ts) | Easy  |
+| 0268 | Missing Number | [Java](./src/0268.missing-number.268/solution.java) [JavaScript](./src/0268.missing-number.268/solution.js) [TypeScript](./src/0268.missing-number.268/solution.ts) | Easy  |
 | 0269 | Alien Dictionary |  | Hard  |
 | 0270 | Closest Binary Search Tree Value | [JavaScript](./src/0270.closest-binary-search-tree-value.270/solution.js) [TypeScript](./src/0270.closest-binary-search-tree-value.270/solution.ts) | Easy  |
 | 0271 | Encode and Decode Strings | [JavaScript](./src/0271.encode-and-decode-strings.271/solution.js) | Medium  |
@@ -348,7 +348,7 @@
 | 0325 | Maximum Size Subarray Sum Equals k | [JavaScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.js) [TypeScript](./src/0325.maximum-size-subarray-sum-equals-k.325/solution.ts) | Medium  |
 | 0326 | Power of Three | [Java](./src/0326.power-of-three.326/solution.java) [JavaScript](./src/0326.power-of-three.326/solution.js) [TypeScript](./src/0326.power-of-three.326/solution.ts) | Easy  |
 | 0327 | Count of Range Sum | [TypeScript](./src/0327.count-of-range-sum.327/solution.ts) | Hard  |
-| 0328 | Odd Even Linked List | [JavaScript](./src/0328.odd-even-linked-list.328/solution.js) [TypeScript](./src/0328.odd-even-linked-list.328/solution.ts) | Medium  |
+| 0328 | Odd Even Linked List | [Java](./src/0328.odd-even-linked-list.328/solution.java) [JavaScript](./src/0328.odd-even-linked-list.328/solution.js) [TypeScript](./src/0328.odd-even-linked-list.328/solution.ts) | Medium  |
 | 0329 | Longest Increasing Path in a Matrix | [JavaScript](./src/0329.longest-increasing-path-in-a-matrix.329/solution.js) | Hard  |
 | 0330 | Patching Array |  | Hard  |
 | 0331 | Verify Preorder Serialization of a Binary Tree | [JavaScript](./src/0331.verify-preorder-serialization-of-a-binary-tree.331/solution.js) | Medium  |
