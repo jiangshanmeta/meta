@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 345
+* Java Answer 350
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -362,14 +362,14 @@
 | 0339 | Nested List Weight Sum | [JavaScript](./src/0339.nested-list-weight-sum.339/solution.js) [TypeScript](./src/0339.nested-list-weight-sum.339/solution.ts) | Medium  |
 | 0340 | Longest Substring with At Most K Distinct Characters |  | Medium  |
 | 0341 | Flatten Nested List Iterator | [JavaScript](./src/0341.flatten-nested-list-iterator.341/solution.js) | Medium  |
-| 0342 | Power of Four | [JavaScript](./src/0342.power-of-four.342/solution.js) [TypeScript](./src/0342.power-of-four.342/solution.ts) | Easy  |
+| 0342 | Power of Four | [Java](./src/0342.power-of-four.342/solution.java) [JavaScript](./src/0342.power-of-four.342/solution.js) [TypeScript](./src/0342.power-of-four.342/solution.ts) | Easy  |
 | 0343 | Integer Break | [JavaScript](./src/0343.integer-break.343/solution.js) [TypeScript](./src/0343.integer-break.343/solution.ts) | Medium  |
 | 0344 | Reverse String | [Java](./src/0344.reverse-string.344/solution.java) [JavaScript](./src/0344.reverse-string.344/solution.js) [TypeScript](./src/0344.reverse-string.344/solution.ts) | Easy  |
 | 0345 | Reverse Vowels of a String | [Java](./src/0345.reverse-vowels-of-a-string.345/solution.java) [JavaScript](./src/0345.reverse-vowels-of-a-string.345/solution.js) [TypeScript](./src/0345.reverse-vowels-of-a-string.345/solution.ts) | Easy  |
 | 0346 | Moving Average from Data Stream | [JavaScript](./src/0346.moving-average-from-data-stream.346/solution.js) [TypeScript](./src/0346.moving-average-from-data-stream.346/solution.ts) | Easy  |
 | 0347 | Top K Frequent Elements | [JavaScript](./src/0347.top-k-frequent-elements.347/solution.js) | Medium  |
 | 0348 | Design Tic-Tac-Toe |  | Medium  |
-| 0349 | Intersection of Two Arrays | [JavaScript](./src/0349.intersection-of-two-arrays.349/solution.js) [TypeScript](./src/0349.intersection-of-two-arrays.349/solution.ts) | Easy  |
+| 0349 | Intersection of Two Arrays | [Java](./src/0349.intersection-of-two-arrays.349/solution.java) [JavaScript](./src/0349.intersection-of-two-arrays.349/solution.js) [TypeScript](./src/0349.intersection-of-two-arrays.349/solution.ts) | Easy  |
 | 0350 | Intersection of Two Arrays II | [JavaScript](./src/0350.intersection-of-two-arrays-ii.350/solution.js) [TypeScript](./src/0350.intersection-of-two-arrays-ii.350/solution.ts) | Easy  |
 | 0351 | Android Unlock Patterns |  | Medium  |
 | 0352 | Data Stream as Disjoint Intervals | [JavaScript](./src/0352.data-stream-as-disjoint-intervals.352/solution.js) | Hard  |
@@ -404,10 +404,10 @@
 | 0381 | Insert Delete GetRandom O(1) - Duplicates allowed | [JavaScript](./src/0381.insert-delete-getrandom-o1-duplicates-allowed.381/solution.js) | Hard  |
 | 0382 | Linked List Random Node | [JavaScript](./src/0382.linked-list-random-node.382/solution.js) | Medium  |
 | 0383 | Ransom Note | [Java](./src/0383.ransom-note.383/solution.java) [JavaScript](./src/0383.ransom-note.383/solution.js) [TypeScript](./src/0383.ransom-note.383/solution.ts) | Easy  |
-| 0384 | Shuffle an Array | [JavaScript](./src/0384.shuffle-an-array.384/solution.js) [TypeScript](./src/0384.shuffle-an-array.384/solution.ts) | Medium  |
+| 0384 | Shuffle an Array | [Java](./src/0384.shuffle-an-array.384/solution.java) [JavaScript](./src/0384.shuffle-an-array.384/solution.js) [TypeScript](./src/0384.shuffle-an-array.384/solution.ts) | Medium  |
 | 0385 | Mini Parser | [JavaScript](./src/0385.mini-parser.385/solution.js) | Medium  |
 | 0386 | Lexicographical Numbers | [JavaScript](./src/0386.lexicographical-numbers.386/solution.js) [TypeScript](./src/0386.lexicographical-numbers.386/solution.ts) | Medium  |
-| 0387 | First Unique Character in a String | [JavaScript](./src/0387.first-unique-character-in-a-string.387/solution.js) [TypeScript](./src/0387.first-unique-character-in-a-string.387/solution.ts) | Easy  |
+| 0387 | First Unique Character in a String | [Java](./src/0387.first-unique-character-in-a-string.387/solution.java) [JavaScript](./src/0387.first-unique-character-in-a-string.387/solution.js) [TypeScript](./src/0387.first-unique-character-in-a-string.387/solution.ts) | Easy  |
 | 0388 | Longest Absolute File Path | [JavaScript](./src/0388.longest-absolute-file-path.388/solution.js) | Medium  |
 | 0389 | Find the Difference | [Java](./src/0389.find-the-difference.389/solution.java) [JavaScript](./src/0389.find-the-difference.389/solution.js) [TypeScript](./src/0389.find-the-difference.389/solution.ts) | Easy  |
 | 0390 | Elimination Game |  | Medium  |
@@ -429,7 +429,7 @@
 | 0406 | Queue Reconstruction by Height |  | Medium  |
 | 0407 | Trapping Rain Water II |  | Hard  |
 | 0408 | Valid Word Abbreviation | [JavaScript](./src/0408.valid-word-abbreviation.408/solution.js) [TypeScript](./src/0408.valid-word-abbreviation.408/solution.ts) | Easy  |
-| 0409 | Longest Palindrome | [JavaScript](./src/0409.longest-palindrome.409/solution.js) [TypeScript](./src/0409.longest-palindrome.409/solution.ts) | Easy  |
+| 0409 | Longest Palindrome | [Java](./src/0409.longest-palindrome.409/solution.java) [JavaScript](./src/0409.longest-palindrome.409/solution.js) [TypeScript](./src/0409.longest-palindrome.409/solution.ts) | Easy  |
 | 0410 | Split Array Largest Sum | [JavaScript](./src/0410.split-array-largest-sum.410/solution.js) [TypeScript](./src/0410.split-array-largest-sum.410/solution.ts) | Hard  |
 | 0411 | Minimum Unique Word Abbreviation |  | Hard  |
 | 0412 | Fizz Buzz | [Java](./src/0412.fizz-buzz.412/solution.java) [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
