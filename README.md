@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 350
+* Java Answer 355
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -463,7 +463,7 @@
 | 0440 | K-th Smallest in Lexicographical Order |  | Hard  |
 | 0441 | Arranging Coins | [Java](./src/0441.arranging-coins.441/solution.java) [JavaScript](./src/0441.arranging-coins.441/solution.js) [TypeScript](./src/0441.arranging-coins.441/solution.ts) | Easy  |
 | 0442 | Find All Duplicates in an Array | [JavaScript](./src/0442.find-all-duplicates-in-an-array.442/solution.js) [TypeScript](./src/0442.find-all-duplicates-in-an-array.442/solution.ts) | Medium  |
-| 0443 | String Compression | [JavaScript](./src/0443.string-compression.443/solution.js) | Medium  |
+| 0443 | String Compression | [Java](./src/0443.string-compression.443/solution.java) [JavaScript](./src/0443.string-compression.443/solution.js) | Medium  |
 | 0444 | Sequence Reconstruction |  | Medium  |
 | 0445 | Add Two Numbers II | [JavaScript](./src/0445.add-two-numbers-ii.445/solution.js) [TypeScript](./src/0445.add-two-numbers-ii.445/solution.ts) | Medium  |
 | 0446 | Arithmetic Slices II - Subsequence | [JavaScript](./src/0446.arithmetic-slices-ii-subsequence.446/solution.js) | Hard  |
@@ -490,7 +490,7 @@
 | 0467 | Unique Substrings in Wraparound String | [TypeScript](./src/0467.unique-substrings-in-wraparound-string.467/solution.ts) | Medium  |
 | 0468 | Validate IP Address | [JavaScript](./src/0468.validate-ip-address.468/solution.js) | Medium  |
 | 0469 | Convex Polygon |  | Medium  |
-| 0470 | Implement Rand10() Using Rand7() | [JavaScript](./src/0470.implement-rand10-using-rand7.903/solution.js) [TypeScript](./src/0470.implement-rand10-using-rand7.903/solution.ts) | Medium  |
+| 0470 | Implement Rand10() Using Rand7() | [Java](./src/0470.implement-rand10-using-rand7.903/solution.java) [JavaScript](./src/0470.implement-rand10-using-rand7.903/solution.js) [TypeScript](./src/0470.implement-rand10-using-rand7.903/solution.ts) | Medium  |
 | 0471 | Encode String with Shortest Length |  | Hard  |
 | 0472 | Concatenated Words |  | Hard  |
 | 0473 | Matchsticks to Square | [JavaScript](./src/0473.matchsticks-to-square.473/solution.js) | Medium  |
@@ -529,7 +529,7 @@
 | 0506 | Relative Ranks | [JavaScript](./src/0506.relative-ranks.506/solution.js) [TypeScript](./src/0506.relative-ranks.506/solution.ts) | Easy  |
 | 0507 | Perfect Number | [JavaScript](./src/0507.perfect-number.507/solution.js) [TypeScript](./src/0507.perfect-number.507/solution.ts) | Easy  |
 | 0508 | Most Frequent Subtree Sum | [JavaScript](./src/0508.most-frequent-subtree-sum.508/solution.js) [TypeScript](./src/0508.most-frequent-subtree-sum.508/solution.ts) | Medium  |
-| 0509 | Fibonacci Number | [JavaScript](./src/0509.fibonacci-number.1013/solution.js) [TypeScript](./src/0509.fibonacci-number.1013/solution.ts) | Easy  |
+| 0509 | Fibonacci Number | [Java](./src/0509.fibonacci-number.1013/solution.java) [JavaScript](./src/0509.fibonacci-number.1013/solution.js) [TypeScript](./src/0509.fibonacci-number.1013/solution.ts) | Easy  |
 | 0510 | Inorder Successor in BST II | [JavaScript](./src/0510.inorder-successor-in-bst-ii.509/solution.js) [TypeScript](./src/0510.inorder-successor-in-bst-ii.509/solution.ts) | Medium  |
 | 0511 | Game Play Analysis I |  | Easy  |
 | 0512 | Game Play Analysis II |  | Easy  |
@@ -540,7 +540,7 @@
 | 0517 | Super Washing Machines |  | Hard  |
 | 0518 | Coin Change II | [JavaScript](./src/0518.coin-change-ii.518/solution.js) [TypeScript](./src/0518.coin-change-ii.518/solution.ts) | Medium  |
 | 0519 | Random Flip Matrix | [JavaScript](./src/0519.random-flip-matrix.913/solution.js) | Medium  |
-| 0520 | Detect Capital | [JavaScript](./src/0520.detect-capital.520/solution.js) [TypeScript](./src/0520.detect-capital.520/solution.ts) | Easy  |
+| 0520 | Detect Capital | [Java](./src/0520.detect-capital.520/solution.java) [JavaScript](./src/0520.detect-capital.520/solution.js) [TypeScript](./src/0520.detect-capital.520/solution.ts) | Easy  |
 | 0521 | Longest Uncommon Subsequence I | [Java](./src/0521.longest-uncommon-subsequence-i.521/solution.java) [JavaScript](./src/0521.longest-uncommon-subsequence-i.521/solution.js) [TypeScript](./src/0521.longest-uncommon-subsequence-i.521/solution.ts) | Easy  |
 | 0522 | Longest Uncommon Subsequence II | [JavaScript](./src/0522.longest-uncommon-subsequence-ii.522/solution.js) | Medium  |
 | 0523 | Continuous Subarray Sum | [JavaScript](./src/0523.continuous-subarray-sum.523/solution.js) | Medium  |
@@ -558,7 +558,7 @@
 | 0535 | Encode and Decode TinyURL | [JavaScript](./src/0535.encode-and-decode-tinyurl.535/solution.js) [TypeScript](./src/0535.encode-and-decode-tinyurl.535/solution.ts) | Medium  |
 | 0536 | Construct Binary Tree from String | [JavaScript](./src/0536.construct-binary-tree-from-string.536/solution.js) | Medium  |
 | 0537 | Complex Number Multiplication | [JavaScript](./src/0537.complex-number-multiplication.537/solution.js) [TypeScript](./src/0537.complex-number-multiplication.537/solution.ts) | Medium  |
-| 0538 | Convert BST to Greater Tree | [JavaScript](./src/0538.convert-bst-to-greater-tree.538/solution.js) [TypeScript](./src/0538.convert-bst-to-greater-tree.538/solution.ts) | Medium  |
+| 0538 | Convert BST to Greater Tree | [Java](./src/0538.convert-bst-to-greater-tree.538/solution.java) [JavaScript](./src/0538.convert-bst-to-greater-tree.538/solution.js) [TypeScript](./src/0538.convert-bst-to-greater-tree.538/solution.ts) | Medium  |
 | 0539 | Minimum Time Difference | [JavaScript](./src/0539.minimum-time-difference.539/solution.js) [TypeScript](./src/0539.minimum-time-difference.539/solution.ts) | Medium  |
 | 0540 | Single Element in a Sorted Array | [JavaScript](./src/0540.single-element-in-a-sorted-array.540/solution.js) [TypeScript](./src/0540.single-element-in-a-sorted-array.540/solution.ts) | Medium  |
 | 0541 | Reverse String II | [JavaScript](./src/0541.reverse-string-ii.541/solution.js) [TypeScript](./src/0541.reverse-string-ii.541/solution.ts) | Easy  |
