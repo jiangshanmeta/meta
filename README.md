@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 360
+* Java Answer 365
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -561,7 +561,7 @@
 | 0538 | Convert BST to Greater Tree | [Java](./src/0538.convert-bst-to-greater-tree.538/solution.java) [JavaScript](./src/0538.convert-bst-to-greater-tree.538/solution.js) [TypeScript](./src/0538.convert-bst-to-greater-tree.538/solution.ts) | Medium  |
 | 0539 | Minimum Time Difference | [JavaScript](./src/0539.minimum-time-difference.539/solution.js) [TypeScript](./src/0539.minimum-time-difference.539/solution.ts) | Medium  |
 | 0540 | Single Element in a Sorted Array | [JavaScript](./src/0540.single-element-in-a-sorted-array.540/solution.js) [TypeScript](./src/0540.single-element-in-a-sorted-array.540/solution.ts) | Medium  |
-| 0541 | Reverse String II | [JavaScript](./src/0541.reverse-string-ii.541/solution.js) [TypeScript](./src/0541.reverse-string-ii.541/solution.ts) | Easy  |
+| 0541 | Reverse String II | [Java](./src/0541.reverse-string-ii.541/solution.java) [JavaScript](./src/0541.reverse-string-ii.541/solution.js) [TypeScript](./src/0541.reverse-string-ii.541/solution.ts) | Easy  |
 | 0542 | 01 Matrix | [JavaScript](./src/0542.01-matrix.542/solution.js) | Medium  |
 | 0543 | Diameter of Binary Tree | [JavaScript](./src/0543.diameter-of-binary-tree.543/solution.js) [TypeScript](./src/0543.diameter-of-binary-tree.543/solution.ts) | Easy  |
 | 0544 | Output Contest Matches |  | Medium  |
@@ -579,14 +579,14 @@
 | 0556 | Next Greater Element III | [JavaScript](./src/0556.next-greater-element-iii.556/solution.js) | Medium  |
 | 0557 | Reverse Words in a String III | [Java](./src/0557.reverse-words-in-a-string-iii.557/solution.java) [JavaScript](./src/0557.reverse-words-in-a-string-iii.557/solution.js) [TypeScript](./src/0557.reverse-words-in-a-string-iii.557/solution.ts) | Easy  |
 | 0558 | Logical OR of Two Binary Grids Represented as Quad-Trees | [JavaScript](./src/0558.logical-or-of-two-binary-grids-represented-as-quad-trees.773/solution.js) | Medium  |
-| 0559 | Maximum Depth of N-ary Tree | [JavaScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.js) [TypeScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.ts) | Easy  |
+| 0559 | Maximum Depth of N-ary Tree | [Java](./src/0559.maximum-depth-of-n-ary-tree.774/solution.java) [JavaScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.js) [TypeScript](./src/0559.maximum-depth-of-n-ary-tree.774/solution.ts) | Easy  |
 | 0560 | Subarray Sum Equals K | [JavaScript](./src/0560.subarray-sum-equals-k.560/solution.js) [TypeScript](./src/0560.subarray-sum-equals-k.560/solution.ts) | Medium  |
-| 0561 | Array Partition | [JavaScript](./src/0561.array-partition.561/solution.js) [TypeScript](./src/0561.array-partition.561/solution.ts) | Easy  |
+| 0561 | Array Partition | [Java](./src/0561.array-partition.561/solution.java) [JavaScript](./src/0561.array-partition.561/solution.js) [TypeScript](./src/0561.array-partition.561/solution.ts) | Easy  |
 | 0562 | Longest Line of Consecutive One in Matrix |  | Medium  |
 | 0563 | Binary Tree Tilt | [JavaScript](./src/0563.binary-tree-tilt.563/solution.js) [TypeScript](./src/0563.binary-tree-tilt.563/solution.ts) | Easy  |
 | 0564 | Find the Closest Palindrome |  | Hard  |
 | 0565 | Array Nesting | [JavaScript](./src/0565.array-nesting.565/solution.js) | Medium  |
-| 0566 | Reshape the Matrix | [JavaScript](./src/0566.reshape-the-matrix.566/solution.js) [TypeScript](./src/0566.reshape-the-matrix.566/solution.ts) | Easy  |
+| 0566 | Reshape the Matrix | [Java](./src/0566.reshape-the-matrix.566/solution.java) [JavaScript](./src/0566.reshape-the-matrix.566/solution.js) [TypeScript](./src/0566.reshape-the-matrix.566/solution.ts) | Easy  |
 | 0567 | Permutation in String | [JavaScript](./src/0567.permutation-in-string.567/solution.js) [TypeScript](./src/0567.permutation-in-string.567/solution.ts) | Medium  |
 | 0568 | Maximum Vacation Days |  | Hard  |
 | 0569 | Median Employee Salary |  | Hard  |
@@ -609,7 +609,7 @@
 | 0586 | Customer Placing the Largest Number of Orders |  | Easy  |
 | 0587 | Erect the Fence |  | Hard  |
 | 0588 | Design In-Memory File System |  | Hard  |
-| 0589 | N-ary Tree Preorder Traversal | [JavaScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.js) [TypeScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.ts) | Easy  |
+| 0589 | N-ary Tree Preorder Traversal | [Java](./src/0589.n-ary-tree-preorder-traversal.775/solution.java) [JavaScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.js) [TypeScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.ts) | Easy  |
 | 0590 | N-ary Tree Postorder Traversal | [JavaScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.js) [TypeScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.ts) | Easy  |
 | 0591 | Tag Validator |  | Hard  |
 | 0592 | Fraction Addition and Subtraction | [JavaScript](./src/0592.fraction-addition-and-subtraction.592/solution.js) | Medium  |
