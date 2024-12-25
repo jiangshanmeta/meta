@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 365
+* Java Answer 370
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -42,7 +42,7 @@
 | 0019 | Remove Nth Node From End of List | [Java](./src/0019.remove-nth-node-from-end-of-list.19/solution.java) [JavaScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.js) [TypeScript](./src/0019.remove-nth-node-from-end-of-list.19/solution.ts) | Medium  |
 | 0020 | Valid Parentheses | [Java](./src/0020.valid-parentheses.20/solution.java) [JavaScript](./src/0020.valid-parentheses.20/solution.js) [TypeScript](./src/0020.valid-parentheses.20/solution.ts) | Easy  |
 | 0021 | Merge Two Sorted Lists | [Go](./src/0021.merge-two-sorted-lists.21/solution.go) [Java](./src/0021.merge-two-sorted-lists.21/solution.java) [JavaScript](./src/0021.merge-two-sorted-lists.21/solution.js) [TypeScript](./src/0021.merge-two-sorted-lists.21/solution.ts) | Easy  |
-| 0022 | Generate Parentheses | [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
+| 0022 | Generate Parentheses | [Java](./src/0022.generate-parentheses.22/solution.java) [JavaScript](./src/0022.generate-parentheses.22/solution.js) [TypeScript](./src/0022.generate-parentheses.22/solution.ts) | Medium  |
 | 0023 | Merge k Sorted Lists | [JavaScript](./src/0023.merge-k-sorted-lists.23/solution.js) [TypeScript](./src/0023.merge-k-sorted-lists.23/solution.ts) | Hard  |
 | 0024 | Swap Nodes in Pairs | [Java](./src/0024.swap-nodes-in-pairs.24/solution.java) [JavaScript](./src/0024.swap-nodes-in-pairs.24/solution.js) [TypeScript](./src/0024.swap-nodes-in-pairs.24/solution.ts) | Medium  |
 | 0025 | Reverse Nodes in k-Group | [JavaScript](./src/0025.reverse-nodes-in-k-group.25/solution.js) [TypeScript](./src/0025.reverse-nodes-in-k-group.25/solution.ts) | Hard  |
@@ -70,7 +70,7 @@
 | 0047 | Permutations II | [Java](./src/0047.permutations-ii.47/solution.java) [JavaScript](./src/0047.permutations-ii.47/solution.js) [TypeScript](./src/0047.permutations-ii.47/solution.ts) | Medium  |
 | 0048 | Rotate Image | [JavaScript](./src/0048.rotate-image.48/solution.js) [TypeScript](./src/0048.rotate-image.48/solution.ts) | Medium  |
 | 0049 | Group Anagrams | [JavaScript](./src/0049.group-anagrams.49/solution.js) [TypeScript](./src/0049.group-anagrams.49/solution.ts) | Medium  |
-| 0050 | Pow(x, n) | [JavaScript](./src/0050.powx-n.50/solution.js) [TypeScript](./src/0050.powx-n.50/solution.ts) | Medium  |
+| 0050 | Pow(x, n) | [Java](./src/0050.powx-n.50/solution.java) [JavaScript](./src/0050.powx-n.50/solution.js) [TypeScript](./src/0050.powx-n.50/solution.ts) | Medium  |
 | 0051 | N-Queens |  | Hard  |
 | 0052 | N-Queens II |  | Hard  |
 | 0053 | Maximum Subarray | [Java](./src/0053.maximum-subarray.53/solution.java) [JavaScript](./src/0053.maximum-subarray.53/solution.js) [TypeScript](./src/0053.maximum-subarray.53/solution.ts) | Medium  |
@@ -175,7 +175,7 @@
 | 0152 | Maximum Product Subarray | [JavaScript](./src/0152.maximum-product-subarray.152/solution.js) [TypeScript](./src/0152.maximum-product-subarray.152/solution.ts) | Medium  |
 | 0153 | Find Minimum in Rotated Sorted Array | [JavaScript](./src/0153.find-minimum-in-rotated-sorted-array.153/solution.js) | Medium  |
 | 0154 | Find Minimum in Rotated Sorted Array II | [JavaScript](./src/0154.find-minimum-in-rotated-sorted-array-ii.154/solution.js) | Hard  |
-| 0155 | Min Stack | [JavaScript](./src/0155.min-stack.155/solution.js) [TypeScript](./src/0155.min-stack.155/solution.ts) | Medium  |
+| 0155 | Min Stack | [Java](./src/0155.min-stack.155/solution.java) [JavaScript](./src/0155.min-stack.155/solution.js) [TypeScript](./src/0155.min-stack.155/solution.ts) | Medium  |
 | 0156 | Binary Tree Upside Down | [JavaScript](./src/0156.binary-tree-upside-down.156/solution.js) [TypeScript](./src/0156.binary-tree-upside-down.156/solution.ts) | Medium  |
 | 0157 | Read N Characters Given Read4 | [JavaScript](./src/0157.read-n-characters-given-read4.157/solution.js) | Easy  |
 | 0158 | Read N Characters Given read4 II - Call Multiple Times |  | Hard  |
@@ -189,7 +189,7 @@
 | 0166 | Fraction to Recurring Decimal | [JavaScript](./src/0166.fraction-to-recurring-decimal.166/solution.js) | Medium  |
 | 0167 | Two Sum II - Input Array Is Sorted | [JavaScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.js) [TypeScript](./src/0167.two-sum-ii-input-array-is-sorted.167/solution.ts) | Medium  |
 | 0168 | Excel Sheet Column Title | [JavaScript](./src/0168.excel-sheet-column-title.168/solution.js) [TypeScript](./src/0168.excel-sheet-column-title.168/solution.ts) | Easy  |
-| 0169 | Majority Element | [JavaScript](./src/0169.majority-element.169/solution.js) [TypeScript](./src/0169.majority-element.169/solution.ts) | Easy  |
+| 0169 | Majority Element | [Java](./src/0169.majority-element.169/solution.java) [JavaScript](./src/0169.majority-element.169/solution.js) [TypeScript](./src/0169.majority-element.169/solution.ts) | Easy  |
 | 0170 | Two Sum III - Data structure design | [JavaScript](./src/0170.two-sum-iii-data-structure-design.170/solution.js) [TypeScript](./src/0170.two-sum-iii-data-structure-design.170/solution.ts) | Easy  |
 | 0171 | Excel Sheet Column Number | [JavaScript](./src/0171.excel-sheet-column-number.171/solution.js) [TypeScript](./src/0171.excel-sheet-column-number.171/solution.ts) | Easy  |
 | 0172 | Factorial Trailing Zeroes | [JavaScript](./src/0172.factorial-trailing-zeroes.172/solution.js) [TypeScript](./src/0172.factorial-trailing-zeroes.172/solution.ts) | Medium  |
@@ -283,7 +283,7 @@
 | 0260 | Single Number III | [JavaScript](./src/0260.single-number-iii.260/solution.js) [TypeScript](./src/0260.single-number-iii.260/solution.ts) | Medium  |
 | 0261 | Graph Valid Tree |  | Medium  |
 | 0262 | Trips and Users |  | Hard  |
-| 0263 | Ugly Number | [JavaScript](./src/0263.ugly-number.263/solution.js) [TypeScript](./src/0263.ugly-number.263/solution.ts) | Easy  |
+| 0263 | Ugly Number | [Java](./src/0263.ugly-number.263/solution.java) [JavaScript](./src/0263.ugly-number.263/solution.js) [TypeScript](./src/0263.ugly-number.263/solution.ts) | Easy  |
 | 0264 | Ugly Number II | [JavaScript](./src/0264.ugly-number-ii.264/solution.js) | Medium  |
 | 0265 | Paint House II |  | Hard  |
 | 0266 | Palindrome Permutation | [JavaScript](./src/0266.palindrome-permutation.266/solution.js) [TypeScript](./src/0266.palindrome-permutation.266/solution.ts) | Easy  |
@@ -3395,6 +3395,31 @@
 | 3372 | Maximize the Number of Target Nodes After Connecting Trees I |  | Medium  |
 | 3373 | Maximize the Number of Target Nodes After Connecting Trees II |  | Hard  |
 | 3374 | First Letter Capitalization II |  | Hard  |
+| 3375 | Minimum Operations to Make Array Values Equal to K |  | Easy  |
+| 3376 | Minimum Time to Break Locks I |  | Medium  |
+| 3377 | Digit Operations to Make Two Integers Equal |  | Medium  |
+| 3378 | Count Connected Components in LCM Graph |  | Hard  |
+| 3379 | Transformed Array |  | Easy  |
+| 3380 | Maximum Area Rectangle With Point Constraints I |  | Medium  |
+| 3381 | Maximum Subarray Sum With Length Divisible by K |  | Medium  |
+| 3382 | Maximum Area Rectangle With Point Constraints II |  | Hard  |
+| 3383 | Minimum Runes to Add to Cast Spell |  | Hard  |
+| 3384 | Team Dominance by Pass Success |  | Hard  |
+| 3385 | Minimum Time to Break Locks II |  | Hard  |
+| 3386 | Button with Longest Push Time |  | Easy  |
+| 3387 | Maximize Amount After Two Days of Conversions |  | Medium  |
+| 3388 | Count Beautiful Splits in an Array |  | Medium  |
+| 3389 | Minimum Operations to Make Character Frequencies Equal |  | Hard  |
+| 3390 | Longest Team Pass Streak |  | Hard  |
+| 3391 | Design a 3D Binary Matrix with Efficient Layer Tracking |  | Medium  |
+| 3392 | Count Subarrays of Length Three With a Condition |  | Easy  |
+| 3393 | Count Paths With the Given XOR Value |  | Medium  |
+| 3394 | Check if Grid can be Cut into Sections |  | Medium  |
+| 3395 | Subsequences with a Unique Middle Mode I |  | Hard  |
+| 3396 | Minimum Number of Operations to Make Elements in Array Distinct |  | Easy  |
+| 3397 | Maximum Number of Distinct Elements After Operations |  | Medium  |
+| 3398 | Smallest Substring With Identical Characters I |  | Hard  |
+| 3399 | Smallest Substring With Identical Characters II |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
