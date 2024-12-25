@@ -23618,6 +23618,181 @@
         "difficulty": 3
     },
     {
+        "id": 3621,
+        "index": "3375",
+        "title": "Minimum Operations to Make Array Values Equal to K",
+        "title_slug": "minimum-operations-to-make-array-values-equal-to-k",
+        "difficulty": 1
+    },
+    {
+        "id": 3649,
+        "index": "3376",
+        "title": "Minimum Time to Break Locks I",
+        "title_slug": "minimum-time-to-break-locks-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3655,
+        "index": "3377",
+        "title": "Digit Operations to Make Two Integers Equal",
+        "title_slug": "digit-operations-to-make-two-integers-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 3680,
+        "index": "3378",
+        "title": "Count Connected Components in LCM Graph",
+        "title_slug": "count-connected-components-in-lcm-graph",
+        "difficulty": 3
+    },
+    {
+        "id": 3651,
+        "index": "3379",
+        "title": "Transformed Array",
+        "title_slug": "transformed-array",
+        "difficulty": 1
+    },
+    {
+        "id": 3681,
+        "index": "3380",
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "title_slug": "maximum-area-rectangle-with-point-constraints-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3653,
+        "index": "3381",
+        "title": "Maximum Subarray Sum With Length Divisible by K",
+        "title_slug": "maximum-subarray-sum-with-length-divisible-by-k",
+        "difficulty": 2
+    },
+    {
+        "id": 3689,
+        "index": "3382",
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "title_slug": "maximum-area-rectangle-with-point-constraints-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3718,
+        "index": "3383",
+        "title": "Minimum Runes to Add to Cast Spell",
+        "title_slug": "minimum-runes-to-add-to-cast-spell",
+        "difficulty": 3
+    },
+    {
+        "id": 3719,
+        "index": "3384",
+        "title": "Team Dominance by Pass Success",
+        "title_slug": "team-dominance-by-pass-success",
+        "difficulty": 3
+    },
+    {
+        "id": 3693,
+        "index": "3385",
+        "title": "Minimum Time to Break Locks II",
+        "title_slug": "minimum-time-to-break-locks-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3632,
+        "index": "3386",
+        "title": "Button with Longest Push Time",
+        "title_slug": "button-with-longest-push-time",
+        "difficulty": 1
+    },
+    {
+        "id": 3613,
+        "index": "3387",
+        "title": "Maximize Amount After Two Days of Conversions",
+        "title_slug": "maximize-amount-after-two-days-of-conversions",
+        "difficulty": 2
+    },
+    {
+        "id": 3686,
+        "index": "3388",
+        "title": "Count Beautiful Splits in an Array",
+        "title_slug": "count-beautiful-splits-in-an-array",
+        "difficulty": 2
+    },
+    {
+        "id": 3638,
+        "index": "3389",
+        "title": "Minimum Operations to Make Character Frequencies Equal",
+        "title_slug": "minimum-operations-to-make-character-frequencies-equal",
+        "difficulty": 3
+    },
+    {
+        "id": 3726,
+        "index": "3390",
+        "title": "Longest Team Pass Streak",
+        "title_slug": "longest-team-pass-streak",
+        "difficulty": 3
+    },
+    {
+        "id": 3735,
+        "index": "3391",
+        "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+        "title_slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+        "difficulty": 2
+    },
+    {
+        "id": 3685,
+        "index": "3392",
+        "title": "Count Subarrays of Length Three With a Condition",
+        "title_slug": "count-subarrays-of-length-three-with-a-condition",
+        "difficulty": 1
+    },
+    {
+        "id": 3659,
+        "index": "3393",
+        "title": "Count Paths With the Given XOR Value",
+        "title_slug": "count-paths-with-the-given-xor-value",
+        "difficulty": 2
+    },
+    {
+        "id": 3657,
+        "index": "3394",
+        "title": "Check if Grid can be Cut into Sections",
+        "title_slug": "check-if-grid-can-be-cut-into-sections",
+        "difficulty": 2
+    },
+    {
+        "id": 3700,
+        "index": "3395",
+        "title": "Subsequences with a Unique Middle Mode I",
+        "title_slug": "subsequences-with-a-unique-middle-mode-i",
+        "difficulty": 3
+    },
+    {
+        "id": 3656,
+        "index": "3396",
+        "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+        "title_slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+        "difficulty": 1
+    },
+    {
+        "id": 3620,
+        "index": "3397",
+        "title": "Maximum Number of Distinct Elements After Operations",
+        "title_slug": "maximum-number-of-distinct-elements-after-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 3690,
+        "index": "3398",
+        "title": "Smallest Substring With Identical Characters I",
+        "title_slug": "smallest-substring-with-identical-characters-i",
+        "difficulty": 3
+    },
+    {
+        "id": 3706,
+        "index": "3399",
+        "title": "Smallest Substring With Identical Characters II",
+        "title_slug": "smallest-substring-with-identical-characters-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",

@@ -9,7 +9,8 @@
     "sync": "tsx scripts/sync.ts",
     "append": "tsx scripts/append.ts",
     "mistake": "tsx scripts/find-mistake.ts",
-    "clearEmptyDir": "tsx scripts/clearEmptyDir.ts"
+    "clearEmptyDir": "tsx scripts/clearEmptyDir.ts",
+    "diff": "tsx scripts/diff.ts"
   },
   "author": "jiangshanmeta",
   "license": "MIT",
