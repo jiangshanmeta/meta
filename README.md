@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 370
+* Java Answer 375
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -140,7 +140,7 @@
 | 0117 | Populating Next Right Pointers in Each Node II | [JavaScript](./src/0117.populating-next-right-pointers-in-each-node-ii.117/solution.js) [TypeScript](./src/0117.populating-next-right-pointers-in-each-node-ii.117/solution.ts) | Medium  |
 | 0118 | Pascal's Triangle | [Java](./src/0118.pascals-triangle.118/solution.java) [JavaScript](./src/0118.pascals-triangle.118/solution.js) [TypeScript](./src/0118.pascals-triangle.118/solution.ts) | Easy  |
 | 0119 | Pascal's Triangle II | [Java](./src/0119.pascals-triangle-ii.119/solution.java) [JavaScript](./src/0119.pascals-triangle-ii.119/solution.js) [TypeScript](./src/0119.pascals-triangle-ii.119/solution.ts) | Easy  |
-| 0120 | Triangle | [JavaScript](./src/0120.triangle.120/solution.js) [TypeScript](./src/0120.triangle.120/solution.ts) | Medium  |
+| 0120 | Triangle | [Java](./src/0120.triangle.120/solution.java) [JavaScript](./src/0120.triangle.120/solution.js) [TypeScript](./src/0120.triangle.120/solution.ts) | Medium  |
 | 0121 | Best Time to Buy and Sell Stock | [Java](./src/0121.best-time-to-buy-and-sell-stock.121/solution.java) [JavaScript](./src/0121.best-time-to-buy-and-sell-stock.121/solution.js) [TypeScript](./src/0121.best-time-to-buy-and-sell-stock.121/solution.ts) | Easy  |
 | 0122 | Best Time to Buy and Sell Stock II | [JavaScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/solution.js) [TypeScript](./src/0122.best-time-to-buy-and-sell-stock-ii.122/solution.ts) | Medium  |
 | 0123 | Best Time to Buy and Sell Stock III | [JavaScript](./src/0123.best-time-to-buy-and-sell-stock-iii.123/solution.js) | Hard  |
@@ -520,7 +520,7 @@
 | 0497 | Random Point in Non-overlapping Rectangles | [JavaScript](./src/0497.random-point-in-non-overlapping-rectangles.914/solution.js) | Medium  |
 | 0498 | Diagonal Traverse | [JavaScript](./src/0498.diagonal-traverse.498/solution.js) | Medium  |
 | 0499 | The Maze III |  | Hard  |
-| 0500 | Keyboard Row | [JavaScript](./src/0500.keyboard-row.500/solution.js) [TypeScript](./src/0500.keyboard-row.500/solution.ts) | Easy  |
+| 0500 | Keyboard Row | [Java](./src/0500.keyboard-row.500/solution.java) [JavaScript](./src/0500.keyboard-row.500/solution.js) [TypeScript](./src/0500.keyboard-row.500/solution.ts) | Easy  |
 | 0501 | Find Mode in Binary Search Tree | [JavaScript](./src/0501.find-mode-in-binary-search-tree.501/solution.js) [TypeScript](./src/0501.find-mode-in-binary-search-tree.501/solution.ts) | Easy  |
 | 0502 | IPO | [TypeScript](./src/0502.ipo.502/solution.ts) | Hard  |
 | 0503 | Next Greater Element II | [JavaScript](./src/0503.next-greater-element-ii.503/solution.js) [TypeScript](./src/0503.next-greater-element-ii.503/solution.ts) | Medium  |
@@ -559,7 +559,7 @@
 | 0536 | Construct Binary Tree from String | [JavaScript](./src/0536.construct-binary-tree-from-string.536/solution.js) | Medium  |
 | 0537 | Complex Number Multiplication | [JavaScript](./src/0537.complex-number-multiplication.537/solution.js) [TypeScript](./src/0537.complex-number-multiplication.537/solution.ts) | Medium  |
 | 0538 | Convert BST to Greater Tree | [Java](./src/0538.convert-bst-to-greater-tree.538/solution.java) [JavaScript](./src/0538.convert-bst-to-greater-tree.538/solution.js) [TypeScript](./src/0538.convert-bst-to-greater-tree.538/solution.ts) | Medium  |
-| 0539 | Minimum Time Difference | [JavaScript](./src/0539.minimum-time-difference.539/solution.js) [TypeScript](./src/0539.minimum-time-difference.539/solution.ts) | Medium  |
+| 0539 | Minimum Time Difference | [Java](./src/0539.minimum-time-difference.539/solution.java) [JavaScript](./src/0539.minimum-time-difference.539/solution.js) [TypeScript](./src/0539.minimum-time-difference.539/solution.ts) | Medium  |
 | 0540 | Single Element in a Sorted Array | [JavaScript](./src/0540.single-element-in-a-sorted-array.540/solution.js) [TypeScript](./src/0540.single-element-in-a-sorted-array.540/solution.ts) | Medium  |
 | 0541 | Reverse String II | [Java](./src/0541.reverse-string-ii.541/solution.java) [JavaScript](./src/0541.reverse-string-ii.541/solution.js) [TypeScript](./src/0541.reverse-string-ii.541/solution.ts) | Easy  |
 | 0542 | 01 Matrix | [JavaScript](./src/0542.01-matrix.542/solution.js) | Medium  |
@@ -610,7 +610,7 @@
 | 0587 | Erect the Fence |  | Hard  |
 | 0588 | Design In-Memory File System |  | Hard  |
 | 0589 | N-ary Tree Preorder Traversal | [Java](./src/0589.n-ary-tree-preorder-traversal.775/solution.java) [JavaScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.js) [TypeScript](./src/0589.n-ary-tree-preorder-traversal.775/solution.ts) | Easy  |
-| 0590 | N-ary Tree Postorder Traversal | [JavaScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.js) [TypeScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.ts) | Easy  |
+| 0590 | N-ary Tree Postorder Traversal | [Java](./src/0590.n-ary-tree-postorder-traversal.776/solution.java) [JavaScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.js) [TypeScript](./src/0590.n-ary-tree-postorder-traversal.776/solution.ts) | Easy  |
 | 0591 | Tag Validator |  | Hard  |
 | 0592 | Fraction Addition and Subtraction | [JavaScript](./src/0592.fraction-addition-and-subtraction.592/solution.js) | Medium  |
 | 0593 | Valid Square | [JavaScript](./src/0593.valid-square.593/solution.js) [TypeScript](./src/0593.valid-square.593/solution.ts) | Medium  |
@@ -681,7 +681,7 @@
 | 0658 | Find K Closest Elements | [JavaScript](./src/0658.find-k-closest-elements.658/solution.js) [TypeScript](./src/0658.find-k-closest-elements.658/solution.ts) | Medium  |
 | 0659 | Split Array into Consecutive Subsequences |  | Medium  |
 | 0660 | Remove 9 |  | Hard  |
-| 0661 | Image Smoother | [JavaScript](./src/0661.image-smoother.661/solution.js) [TypeScript](./src/0661.image-smoother.661/solution.ts) | Easy  |
+| 0661 | Image Smoother | [Java](./src/0661.image-smoother.661/solution.java) [JavaScript](./src/0661.image-smoother.661/solution.js) [TypeScript](./src/0661.image-smoother.661/solution.ts) | Easy  |
 | 0662 | Maximum Width of Binary Tree | [JavaScript](./src/0662.maximum-width-of-binary-tree.662/solution.js) [TypeScript](./src/0662.maximum-width-of-binary-tree.662/solution.ts) | Medium  |
 | 0663 | Equal Tree Partition |  | Medium  |
 | 0664 | Strange Printer |  | Hard  |
