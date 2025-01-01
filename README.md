@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 375
+* Java Answer 380
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -86,7 +86,7 @@
 | 0063 | Unique Paths II | [Java](./src/0063.unique-paths-ii.63/solution.java) [JavaScript](./src/0063.unique-paths-ii.63/solution.js) [TypeScript](./src/0063.unique-paths-ii.63/solution.ts) | Medium  |
 | 0064 | Minimum Path Sum | [JavaScript](./src/0064.minimum-path-sum.64/solution.js) [TypeScript](./src/0064.minimum-path-sum.64/solution.ts) | Medium  |
 | 0065 | Valid Number | [JavaScript](./src/0065.valid-number.65/solution.js) | Hard  |
-| 0066 | Plus One | [JavaScript](./src/0066.plus-one.66/solution.js) [TypeScript](./src/0066.plus-one.66/solution.ts) | Easy  |
+| 0066 | Plus One | [Java](./src/0066.plus-one.66/solution.java) [JavaScript](./src/0066.plus-one.66/solution.js) [TypeScript](./src/0066.plus-one.66/solution.ts) | Easy  |
 | 0067 | Add Binary | [Java](./src/0067.add-binary.67/solution.java) [JavaScript](./src/0067.add-binary.67/solution.js) [TypeScript](./src/0067.add-binary.67/solution.ts) | Easy  |
 | 0068 | Text Justification |  | Hard  |
 | 0069 | Sqrt(x) | [Java](./src/0069.sqrtx.69/solution.java) [JavaScript](./src/0069.sqrtx.69/solution.js) [TypeScript](./src/0069.sqrtx.69/solution.ts) | Easy  |
@@ -100,7 +100,7 @@
 | 0077 | Combinations | [Java](./src/0077.combinations.77/solution.java) [JavaScript](./src/0077.combinations.77/solution.js) [TypeScript](./src/0077.combinations.77/solution.ts) | Medium  |
 | 0078 | Subsets | [Java](./src/0078.subsets.78/solution.java) [JavaScript](./src/0078.subsets.78/solution.js) [TypeScript](./src/0078.subsets.78/solution.ts) | Medium  |
 | 0079 | Word Search | [JavaScript](./src/0079.word-search.79/solution.js) [TypeScript](./src/0079.word-search.79/solution.ts) | Medium  |
-| 0080 | Remove Duplicates from Sorted Array II | [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
+| 0080 | Remove Duplicates from Sorted Array II | [Java](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.java) [JavaScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.js) [TypeScript](./src/0080.remove-duplicates-from-sorted-array-ii.80/solution.ts) | Medium  |
 | 0081 | Search in Rotated Sorted Array II | [JavaScript](./src/0081.search-in-rotated-sorted-array-ii.81/solution.js) | Medium  |
 | 0082 | Remove Duplicates from Sorted List II | [JavaScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.js) [TypeScript](./src/0082.remove-duplicates-from-sorted-list-ii.82/solution.ts) | Medium  |
 | 0083 | Remove Duplicates from Sorted List | [Go](./src/0083.remove-duplicates-from-sorted-list.83/solution.go) [Java](./src/0083.remove-duplicates-from-sorted-list.83/solution.java) [JavaScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.js) [TypeScript](./src/0083.remove-duplicates-from-sorted-list.83/solution.ts) | Easy  |
@@ -161,8 +161,8 @@
 | 0138 | Copy List with Random Pointer | [JavaScript](./src/0138.copy-list-with-random-pointer.138/solution.js) | Medium  |
 | 0139 | Word Break | [JavaScript](./src/0139.word-break.139/solution.js) | Medium  |
 | 0140 | Word Break II | [JavaScript](./src/0140.word-break-ii.140/solution.js) | Hard  |
-| 0141 | Linked List Cycle | [JavaScript](./src/0141.linked-list-cycle.141/solution.js) [TypeScript](./src/0141.linked-list-cycle.141/solution.ts) | Easy  |
-| 0142 | Linked List Cycle II | [JavaScript](./src/0142.linked-list-cycle-ii.142/solution.js) [TypeScript](./src/0142.linked-list-cycle-ii.142/solution.ts) | Medium  |
+| 0141 | Linked List Cycle | [Java](./src/0141.linked-list-cycle.141/solution.java) [JavaScript](./src/0141.linked-list-cycle.141/solution.js) [TypeScript](./src/0141.linked-list-cycle.141/solution.ts) | Easy  |
+| 0142 | Linked List Cycle II | [Java](./src/0142.linked-list-cycle-ii.142/solution.java) [JavaScript](./src/0142.linked-list-cycle-ii.142/solution.js) [TypeScript](./src/0142.linked-list-cycle-ii.142/solution.ts) | Medium  |
 | 0143 | Reorder List | [JavaScript](./src/0143.reorder-list.143/solution.js) [TypeScript](./src/0143.reorder-list.143/solution.ts) | Medium  |
 | 0144 | Binary Tree Preorder Traversal | [Go](./src/0144.binary-tree-preorder-traversal.144/solution.go) [Java](./src/0144.binary-tree-preorder-traversal.144/solution.java) [JavaScript](./src/0144.binary-tree-preorder-traversal.144/solution.js) [TypeScript](./src/0144.binary-tree-preorder-traversal.144/solution.ts) | Easy  |
 | 0145 | Binary Tree Postorder Traversal | [Go](./src/0145.binary-tree-postorder-traversal.145/solution.go) [Java](./src/0145.binary-tree-postorder-traversal.145/solution.java) [JavaScript](./src/0145.binary-tree-postorder-traversal.145/solution.js) [TypeScript](./src/0145.binary-tree-postorder-traversal.145/solution.ts) | Easy  |
@@ -689,7 +689,7 @@
 | 0666 | Path Sum IV | [JavaScript](./src/0666.path-sum-iv.666/solution.js) | Medium  |
 | 0667 | Beautiful Arrangement II |  | Medium  |
 | 0668 | Kth Smallest Number in Multiplication Table |  | Hard  |
-| 0669 | Trim a Binary Search Tree | [JavaScript](./src/0669.trim-a-binary-search-tree.669/solution.js) [TypeScript](./src/0669.trim-a-binary-search-tree.669/solution.ts) | Medium  |
+| 0669 | Trim a Binary Search Tree | [Java](./src/0669.trim-a-binary-search-tree.669/solution.java) [JavaScript](./src/0669.trim-a-binary-search-tree.669/solution.js) [TypeScript](./src/0669.trim-a-binary-search-tree.669/solution.ts) | Medium  |
 | 0670 | Maximum Swap | [JavaScript](./src/0670.maximum-swap.670/solution.js) | Medium  |
 | 0671 | Second Minimum Node In a Binary Tree | [JavaScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.js) [TypeScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.ts) | Easy  |
 | 0672 | Bulb Switcher II |  | Medium  |
