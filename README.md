@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 380
+* Java Answer 395
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -694,15 +694,15 @@
 | 0671 | Second Minimum Node In a Binary Tree | [JavaScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.js) [TypeScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.ts) | Easy  |
 | 0672 | Bulb Switcher II |  | Medium  |
 | 0673 | Number of Longest Increasing Subsequence | [JavaScript](./src/0673.number-of-longest-increasing-subsequence.673/solution.js) | Medium  |
-| 0674 | Longest Continuous Increasing Subsequence | [JavaScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.js) [TypeScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.ts) | Easy  |
+| 0674 | Longest Continuous Increasing Subsequence | [Java](./src/0674.longest-continuous-increasing-subsequence.674/solution.java) [JavaScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.js) [TypeScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.ts) | Easy  |
 | 0675 | Cut Off Trees for Golf Event |  | Hard  |
 | 0676 | Implement Magic Dictionary | [JavaScript](./src/0676.implement-magic-dictionary.676/solution.js) | Medium  |
 | 0677 | Map Sum Pairs | [JavaScript](./src/0677.map-sum-pairs.677/solution.js) | Medium  |
 | 0678 | Valid Parenthesis String | [JavaScript](./src/0678.valid-parenthesis-string.678/solution.js) | Medium  |
 | 0679 | 24 Game |  | Hard  |
-| 0680 | Valid Palindrome II | [JavaScript](./src/0680.valid-palindrome-ii.680/solution.js) [TypeScript](./src/0680.valid-palindrome-ii.680/solution.ts) | Easy  |
+| 0680 | Valid Palindrome II | [Java](./src/0680.valid-palindrome-ii.680/solution.java) [JavaScript](./src/0680.valid-palindrome-ii.680/solution.js) [TypeScript](./src/0680.valid-palindrome-ii.680/solution.ts) | Easy  |
 | 0681 | Next Closest Time | [JavaScript](./src/0681.next-closest-time.681/solution.js) | Medium  |
-| 0682 | Baseball Game | [JavaScript](./src/0682.baseball-game.682/solution.js) [TypeScript](./src/0682.baseball-game.682/solution.ts) | Easy  |
+| 0682 | Baseball Game | [Java](./src/0682.baseball-game.682/solution.java) [JavaScript](./src/0682.baseball-game.682/solution.js) [TypeScript](./src/0682.baseball-game.682/solution.ts) | Easy  |
 | 0683 | K Empty Slots |  | Hard  |
 | 0684 | Redundant Connection | [JavaScript](./src/0684.redundant-connection.684/solution.js) | Medium  |
 | 0685 | Redundant Connection II |  | Hard  |
@@ -713,15 +713,15 @@
 | 0690 | Employee Importance | [JavaScript](./src/0690.employee-importance.690/solution.js) [Python3](./src/0690.employee-importance.690/solution.py) [TypeScript](./src/0690.employee-importance.690/solution.ts) | Medium  |
 | 0691 | Stickers to Spell Word |  | Hard  |
 | 0692 | Top K Frequent Words | [JavaScript](./src/0692.top-k-frequent-words.692/solution.js) | Medium  |
-| 0693 | Binary Number with Alternating Bits | [JavaScript](./src/0693.binary-number-with-alternating-bits.693/solution.js) [TypeScript](./src/0693.binary-number-with-alternating-bits.693/solution.ts) | Easy  |
+| 0693 | Binary Number with Alternating Bits | [Java](./src/0693.binary-number-with-alternating-bits.693/solution.java) [JavaScript](./src/0693.binary-number-with-alternating-bits.693/solution.js) [TypeScript](./src/0693.binary-number-with-alternating-bits.693/solution.ts) | Easy  |
 | 0694 | Number of Distinct Islands |  | Medium  |
-| 0695 | Max Area of Island | [JavaScript](./src/0695.max-area-of-island.695/solution.js) [TypeScript](./src/0695.max-area-of-island.695/solution.ts) | Medium  |
+| 0695 | Max Area of Island | [Java](./src/0695.max-area-of-island.695/solution.java) [JavaScript](./src/0695.max-area-of-island.695/solution.js) [TypeScript](./src/0695.max-area-of-island.695/solution.ts) | Medium  |
 | 0696 | Count Binary Substrings | [JavaScript](./src/0696.count-binary-substrings.696/solution.js) [TypeScript](./src/0696.count-binary-substrings.696/solution.ts) | Easy  |
 | 0697 | Degree of an Array | [JavaScript](./src/0697.degree-of-an-array.697/solution.js) [TypeScript](./src/0697.degree-of-an-array.697/solution.ts) | Easy  |
 | 0698 | Partition to K Equal Sum Subsets |  | Medium  |
 | 0699 | Falling Squares | [TypeScript](./src/0699.falling-squares.699/solution.ts) | Hard  |
 | 0700 | Search in a Binary Search Tree | [Go](./src/0700.search-in-a-binary-search-tree.783/solution.go) [Java](./src/0700.search-in-a-binary-search-tree.783/solution.java) [JavaScript](./src/0700.search-in-a-binary-search-tree.783/solution.js) [TypeScript](./src/0700.search-in-a-binary-search-tree.783/solution.ts) | Easy  |
-| 0701 | Insert into a Binary Search Tree | [JavaScript](./src/0701.insert-into-a-binary-search-tree.784/solution.js) [TypeScript](./src/0701.insert-into-a-binary-search-tree.784/solution.ts) | Medium  |
+| 0701 | Insert into a Binary Search Tree | [Java](./src/0701.insert-into-a-binary-search-tree.784/solution.java) [JavaScript](./src/0701.insert-into-a-binary-search-tree.784/solution.js) [TypeScript](./src/0701.insert-into-a-binary-search-tree.784/solution.ts) | Medium  |
 | 0702 | Search in a Sorted Array of Unknown Size | [JavaScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.js) [TypeScript](./src/0702.search-in-a-sorted-array-of-unknown-size.786/solution.ts) | Medium  |
 | 0703 | Kth Largest Element in a Stream | [JavaScript](./src/0703.kth-largest-element-in-a-stream.789/solution.js) [TypeScript](./src/0703.kth-largest-element-in-a-stream.789/solution.ts) | Easy  |
 | 0704 | Binary Search | [Java](./src/0704.binary-search.792/solution.java) [JavaScript](./src/0704.binary-search.792/solution.js) [TypeScript](./src/0704.binary-search.792/solution.ts) | Easy  |
@@ -755,7 +755,7 @@
 | 0732 | My Calendar III | [TypeScript](./src/0732.my-calendar-iii.732/solution.ts) | Hard  |
 | 0733 | Flood Fill | [JavaScript](./src/0733.flood-fill.733/solution.js) [TypeScript](./src/0733.flood-fill.733/solution.ts) | Easy  |
 | 0734 | Sentence Similarity | [JavaScript](./src/0734.sentence-similarity.734/solution.js) [TypeScript](./src/0734.sentence-similarity.734/solution.ts) | Easy  |
-| 0735 | Asteroid Collision | [JavaScript](./src/0735.asteroid-collision.735/solution.js) [TypeScript](./src/0735.asteroid-collision.735/solution.ts) | Medium  |
+| 0735 | Asteroid Collision | [Java](./src/0735.asteroid-collision.735/solution.java) [JavaScript](./src/0735.asteroid-collision.735/solution.js) [TypeScript](./src/0735.asteroid-collision.735/solution.ts) | Medium  |
 | 0736 | Parse Lisp Expression |  | Hard  |
 | 0737 | Sentence Similarity II | [JavaScript](./src/0737.sentence-similarity-ii.737/solution.js) [TypeScript](./src/0737.sentence-similarity-ii.737/solution.ts) | Medium  |
 | 0738 | Monotone Increasing Digits | [JavaScript](./src/0738.monotone-increasing-digits.738/solution.js) | Medium  |
@@ -804,7 +804,7 @@
 | 0781 | Rabbits in Forest | [JavaScript](./src/0781.rabbits-in-forest.797/solution.js) | Medium  |
 | 0782 | Transform to Chessboard |  | Hard  |
 | 0783 | Minimum Distance Between BST Nodes | [Java](./src/0783.minimum-distance-between-bst-nodes.799/solution.java) [JavaScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.js) [TypeScript](./src/0783.minimum-distance-between-bst-nodes.799/solution.ts) | Easy  |
-| 0784 | Letter Case Permutation | [JavaScript](./src/0784.letter-case-permutation.800/solution.js) [TypeScript](./src/0784.letter-case-permutation.800/solution.ts) | Medium  |
+| 0784 | Letter Case Permutation | [Java](./src/0784.letter-case-permutation.800/solution.java) [JavaScript](./src/0784.letter-case-permutation.800/solution.js) [TypeScript](./src/0784.letter-case-permutation.800/solution.ts) | Medium  |
 | 0785 | Is Graph Bipartite? | [JavaScript](./src/0785.is-graph-bipartite.801/solution.js) [TypeScript](./src/0785.is-graph-bipartite.801/solution.ts) | Medium  |
 | 0786 | K-th Smallest Prime Fraction |  | Medium  |
 | 0787 | Cheapest Flights Within K Stops |  | Medium  |
@@ -824,7 +824,7 @@
 | 0801 | Minimum Swaps To Make Sequences Increasing |  | Hard  |
 | 0802 | Find Eventual Safe States | [JavaScript](./src/0802.find-eventual-safe-states.820/solution.js) | Medium  |
 | 0803 | Bricks Falling When Hit |  | Hard  |
-| 0804 | Unique Morse Code Words | [JavaScript](./src/0804.unique-morse-code-words.822/solution.js) [TypeScript](./src/0804.unique-morse-code-words.822/solution.ts) | Easy  |
+| 0804 | Unique Morse Code Words | [Java](./src/0804.unique-morse-code-words.822/solution.java) [JavaScript](./src/0804.unique-morse-code-words.822/solution.js) [TypeScript](./src/0804.unique-morse-code-words.822/solution.ts) | Easy  |
 | 0805 | Split Array With Same Average |  | Hard  |
 | 0806 | Number of Lines To Write String | [Java](./src/0806.number-of-lines-to-write-string.824/solution.java) [JavaScript](./src/0806.number-of-lines-to-write-string.824/solution.js) [TypeScript](./src/0806.number-of-lines-to-write-string.824/solution.ts) | Easy  |
 | 0807 | Max Increase to Keep City Skyline | [JavaScript](./src/0807.max-increase-to-keep-city-skyline.825/solution.js) [TypeScript](./src/0807.max-increase-to-keep-city-skyline.825/solution.ts) | Medium  |
@@ -834,7 +834,7 @@
 | 0811 | Subdomain Visit Count | [JavaScript](./src/0811.subdomain-visit-count.829/solution.js) [TypeScript](./src/0811.subdomain-visit-count.829/solution.ts) | Medium  |
 | 0812 | Largest Triangle Area | [JavaScript](./src/0812.largest-triangle-area.830/solution.js) | Easy  |
 | 0813 | Largest Sum of Averages | [JavaScript](./src/0813.largest-sum-of-averages.831/solution.js) | Medium  |
-| 0814 | Binary Tree Pruning | [JavaScript](./src/0814.binary-tree-pruning.832/solution.js) [TypeScript](./src/0814.binary-tree-pruning.832/solution.ts) | Medium  |
+| 0814 | Binary Tree Pruning | [Java](./src/0814.binary-tree-pruning.832/solution.java) [JavaScript](./src/0814.binary-tree-pruning.832/solution.js) [TypeScript](./src/0814.binary-tree-pruning.832/solution.ts) | Medium  |
 | 0815 | Bus Routes |  | Hard  |
 | 0816 | Ambiguous Coordinates | [JavaScript](./src/0816.ambiguous-coordinates.834/solution.js) | Medium  |
 | 0817 | Linked List Components | [JavaScript](./src/0817.linked-list-components.835/solution.js) | Medium  |
@@ -850,7 +850,7 @@
 | 0827 | Making A Large Island |  | Hard  |
 | 0828 | Count Unique Characters of All Substrings of a Given String |  | Hard  |
 | 0829 | Consecutive Numbers Sum | [TypeScript](./src/0829.consecutive-numbers-sum.856/solution.ts) | Hard  |
-| 0830 | Positions of Large Groups | [JavaScript](./src/0830.positions-of-large-groups.857/solution.js) [TypeScript](./src/0830.positions-of-large-groups.857/solution.ts) | Easy  |
+| 0830 | Positions of Large Groups | [Java](./src/0830.positions-of-large-groups.857/solution.java) [JavaScript](./src/0830.positions-of-large-groups.857/solution.js) [TypeScript](./src/0830.positions-of-large-groups.857/solution.ts) | Easy  |
 | 0831 | Masking Personal Information | [JavaScript](./src/0831.masking-personal-information.858/solution.js) | Medium  |
 | 0832 | Flipping an Image | [Java](./src/0832.flipping-an-image.861/solution.java) [JavaScript](./src/0832.flipping-an-image.861/solution.js) [TypeScript](./src/0832.flipping-an-image.861/solution.ts) | Easy  |
 | 0833 | Find And Replace in String | [JavaScript](./src/0833.find-and-replace-in-string.862/solution.js) | Medium  |
@@ -864,7 +864,7 @@
 | 0841 | Keys and Rooms | [JavaScript](./src/0841.keys-and-rooms.871/solution.js) | Medium  |
 | 0842 | Split Array into Fibonacci Sequence | [JavaScript](./src/0842.split-array-into-fibonacci-sequence.872/solution.js) | Medium  |
 | 0843 | Guess the Word |  | Hard  |
-| 0844 | Backspace String Compare | [JavaScript](./src/0844.backspace-string-compare.874/solution.js) [TypeScript](./src/0844.backspace-string-compare.874/solution.ts) | Easy  |
+| 0844 | Backspace String Compare | [Java](./src/0844.backspace-string-compare.874/solution.java) [JavaScript](./src/0844.backspace-string-compare.874/solution.js) [TypeScript](./src/0844.backspace-string-compare.874/solution.ts) | Easy  |
 | 0845 | Longest Mountain in Array | [JavaScript](./src/0845.longest-mountain-in-array.875/solution.js) | Medium  |
 | 0846 | Hand of Straights | [JavaScript](./src/0846.hand-of-straights.876/solution.js) [TypeScript](./src/0846.hand-of-straights.876/solution.ts) | Medium  |
 | 0847 | Shortest Path Visiting All Nodes |  | Hard  |
@@ -887,7 +887,7 @@
 | 0864 | Shortest Path to Get All Keys |  | Hard  |
 | 0865 | Smallest Subtree with all the Deepest Nodes | [JavaScript](./src/0865.smallest-subtree-with-all-the-deepest-nodes.896/solution.js) [TypeScript](./src/0865.smallest-subtree-with-all-the-deepest-nodes.896/solution.ts) | Medium  |
 | 0866 | Prime Palindrome | [JavaScript](./src/0866.prime-palindrome.897/solution.js) [TypeScript](./src/0866.prime-palindrome.897/solution.ts) | Medium  |
-| 0867 | Transpose Matrix | [JavaScript](./src/0867.transpose-matrix.898/solution.js) [TypeScript](./src/0867.transpose-matrix.898/solution.ts) | Easy  |
+| 0867 | Transpose Matrix | [Java](./src/0867.transpose-matrix.898/solution.java) [JavaScript](./src/0867.transpose-matrix.898/solution.js) [TypeScript](./src/0867.transpose-matrix.898/solution.ts) | Easy  |
 | 0868 | Binary Gap | [Java](./src/0868.binary-gap.899/solution.java) [JavaScript](./src/0868.binary-gap.899/solution.js) [TypeScript](./src/0868.binary-gap.899/solution.ts) | Easy  |
 | 0869 | Reordered Power of 2 | [JavaScript](./src/0869.reordered-power-of-2.900/solution.js) [TypeScript](./src/0869.reordered-power-of-2.900/solution.ts) | Medium  |
 | 0870 | Advantage Shuffle | [JavaScript](./src/0870.advantage-shuffle.901/solution.js) | Medium  |
@@ -895,7 +895,7 @@
 | 0872 | Leaf-Similar Trees | [JavaScript](./src/0872.leaf-similar-trees.904/solution.js) [TypeScript](./src/0872.leaf-similar-trees.904/solution.ts) | Easy  |
 | 0873 | Length of Longest Fibonacci Subsequence | [JavaScript](./src/0873.length-of-longest-fibonacci-subsequence.905/solution.js) | Medium  |
 | 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/solution.js) | Medium  |
-| 0875 | Koko Eating Bananas | [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
+| 0875 | Koko Eating Bananas | [Java](./src/0875.koko-eating-bananas.907/solution.java) [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
 | 0876 | Middle of the Linked List | [Go](./src/0876.middle-of-the-linked-list.908/solution.go) [Java](./src/0876.middle-of-the-linked-list.908/solution.java) [JavaScript](./src/0876.middle-of-the-linked-list.908/solution.js) [TypeScript](./src/0876.middle-of-the-linked-list.908/solution.ts) | Easy  |
 | 0877 | Stone Game | [JavaScript](./src/0877.stone-game.909/solution.js) | Medium  |
 | 0878 | Nth Magical Number | [TypeScript](./src/0878.nth-magical-number.910/solution.ts) | Hard  |
@@ -945,7 +945,7 @@
 | 0922 | Sort Array By Parity II | [JavaScript](./src/0922.sort-array-by-parity-ii.958/solution.js) [TypeScript](./src/0922.sort-array-by-parity-ii.958/solution.ts) | Easy  |
 | 0923 | 3Sum With Multiplicity | [JavaScript](./src/0923.3sum-with-multiplicity.959/solution.js) | Medium  |
 | 0924 | Minimize Malware Spread |  | Hard  |
-| 0925 | Long Pressed Name | [JavaScript](./src/0925.long-pressed-name.961/solution.js) [TypeScript](./src/0925.long-pressed-name.961/solution.ts) | Easy  |
+| 0925 | Long Pressed Name | [Java](./src/0925.long-pressed-name.961/solution.java) [JavaScript](./src/0925.long-pressed-name.961/solution.js) [TypeScript](./src/0925.long-pressed-name.961/solution.ts) | Easy  |
 | 0926 | Flip String to Monotone Increasing | [JavaScript](./src/0926.flip-string-to-monotone-increasing.962/solution.js) | Medium  |
 | 0927 | Three Equal Parts |  | Hard  |
 | 0928 | Minimize Malware Spread II |  | Hard  |
