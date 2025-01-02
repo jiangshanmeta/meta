@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 395
+* Java Answer 400
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -961,7 +961,7 @@
 | 0938 | Range Sum of BST | [Java](./src/0938.range-sum-of-bst.975/solution.java) [JavaScript](./src/0938.range-sum-of-bst.975/solution.js) [TypeScript](./src/0938.range-sum-of-bst.975/solution.ts) | Easy  |
 | 0939 | Minimum Area Rectangle | [JavaScript](./src/0939.minimum-area-rectangle.976/solution.js) | Medium  |
 | 0940 | Distinct Subsequences II | [JavaScript](./src/0940.distinct-subsequences-ii.977/solution.js) | Hard  |
-| 0941 | Valid Mountain Array | [JavaScript](./src/0941.valid-mountain-array.978/solution.js) [TypeScript](./src/0941.valid-mountain-array.978/solution.ts) | Easy  |
+| 0941 | Valid Mountain Array | [Java](./src/0941.valid-mountain-array.978/solution.java) [JavaScript](./src/0941.valid-mountain-array.978/solution.js) [TypeScript](./src/0941.valid-mountain-array.978/solution.ts) | Easy  |
 | 0942 | DI String Match | [JavaScript](./src/0942.di-string-match.979/solution.js) | Easy  |
 | 0943 | Find the Shortest Superstring |  | Hard  |
 | 0944 | Delete Columns to Make Sorted | [JavaScript](./src/0944.delete-columns-to-make-sorted.981/solution.js) [TypeScript](./src/0944.delete-columns-to-make-sorted.981/solution.ts) | Easy  |
@@ -971,7 +971,7 @@
 | 0948 | Bag of Tokens | [JavaScript](./src/0948.bag-of-tokens.985/solution.js) | Medium  |
 | 0949 | Largest Time for Given Digits | [JavaScript](./src/0949.largest-time-for-given-digits.986/solution.js) | Medium  |
 | 0950 | Reveal Cards In Increasing Order | [JavaScript](./src/0950.reveal-cards-in-increasing-order.987/solution.js) | Medium  |
-| 0951 | Flip Equivalent Binary Trees | [JavaScript](./src/0951.flip-equivalent-binary-trees.988/solution.js) [TypeScript](./src/0951.flip-equivalent-binary-trees.988/solution.ts) | Medium  |
+| 0951 | Flip Equivalent Binary Trees | [Java](./src/0951.flip-equivalent-binary-trees.988/solution.java) [JavaScript](./src/0951.flip-equivalent-binary-trees.988/solution.js) [TypeScript](./src/0951.flip-equivalent-binary-trees.988/solution.ts) | Medium  |
 | 0952 | Largest Component Size by Common Factor | [TypeScript](./src/0952.largest-component-size-by-common-factor.989/solution.ts) | Hard  |
 | 0953 | Verifying an Alien Dictionary | [JavaScript](./src/0953.verifying-an-alien-dictionary.990/solution.js) [TypeScript](./src/0953.verifying-an-alien-dictionary.990/solution.ts) | Easy  |
 | 0954 | Array of Doubled Pairs | [JavaScript](./src/0954.array-of-doubled-pairs.991/solution.js) | Medium  |
@@ -1022,7 +1022,7 @@
 | 0999 | Available Captures for Rook | [JavaScript](./src/0999.available-captures-for-rook.1041/solution.js) | Easy  |
 | 1000 | Minimum Cost to Merge Stones |  | Hard  |
 | 1001 | Grid Illumination | [JavaScript](./src/1001.grid-illumination.1043/solution.js) | Hard  |
-| 1002 | Find Common Characters | [JavaScript](./src/1002.find-common-characters.1044/solution.js) [TypeScript](./src/1002.find-common-characters.1044/solution.ts) | Easy  |
+| 1002 | Find Common Characters | [Java](./src/1002.find-common-characters.1044/solution.java) [JavaScript](./src/1002.find-common-characters.1044/solution.js) [TypeScript](./src/1002.find-common-characters.1044/solution.ts) | Easy  |
 | 1003 | Check If Word Is Valid After Substitutions | [JavaScript](./src/1003.check-if-word-is-valid-after-substitutions.1045/solution.js) [TypeScript](./src/1003.check-if-word-is-valid-after-substitutions.1045/solution.ts) | Medium  |
 | 1004 | Max Consecutive Ones III | [JavaScript](./src/1004.max-consecutive-ones-iii.1046/solution.js) | Medium  |
 | 1005 | Maximize Sum Of Array After K Negations | [JavaScript](./src/1005.maximize-sum-of-array-after-k-negations.1047/solution.js) [TypeScript](./src/1005.maximize-sum-of-array-after-k-negations.1047/solution.ts) | Easy  |
@@ -1058,7 +1058,7 @@
 | 1035 | Uncrossed Lines |  | Medium  |
 | 1036 | Escape a Large Maze |  | Hard  |
 | 1037 | Valid Boomerang | [JavaScript](./src/1037.valid-boomerang.1115/solution.js) [TypeScript](./src/1037.valid-boomerang.1115/solution.ts) | Easy  |
-| 1038 | Binary Search Tree to Greater Sum Tree | [JavaScript](./src/1038.binary-search-tree-to-greater-sum-tree.1114/solution.js) [TypeScript](./src/1038.binary-search-tree-to-greater-sum-tree.1114/solution.ts) | Medium  |
+| 1038 | Binary Search Tree to Greater Sum Tree | [Java](./src/1038.binary-search-tree-to-greater-sum-tree.1114/solution.java) [JavaScript](./src/1038.binary-search-tree-to-greater-sum-tree.1114/solution.js) [TypeScript](./src/1038.binary-search-tree-to-greater-sum-tree.1114/solution.ts) | Medium  |
 | 1039 | Minimum Score Triangulation of Polygon |  | Medium  |
 | 1040 | Moving Stones Until Consecutive II |  | Medium  |
 | 1041 | Robot Bounded In Circle | [JavaScript](./src/1041.robot-bounded-in-circle.1119/solution.js) | Medium  |
@@ -1091,7 +1091,7 @@
 | 1068 | Product Sales Analysis I |  | Easy  |
 | 1069 | Product Sales Analysis II |  | Easy  |
 | 1070 | Product Sales Analysis III |  | Medium  |
-| 1071 | Greatest Common Divisor of Strings | [JavaScript](./src/1071.greatest-common-divisor-of-strings.1146/solution.js) | Easy  |
+| 1071 | Greatest Common Divisor of Strings | [Java](./src/1071.greatest-common-divisor-of-strings.1146/solution.java) [JavaScript](./src/1071.greatest-common-divisor-of-strings.1146/solution.js) | Easy  |
 | 1072 | Flip Columns For Maximum Number of Equal Rows |  | Medium  |
 | 1073 | Adding Two Negabinary Numbers |  | Medium  |
 | 1074 | Number of Submatrices That Sum to Target |  | Hard  |
