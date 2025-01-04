@@ -23793,6 +23793,55 @@
         "difficulty": 3
     },
     {
+        "id": 3740,
+        "index": "3400",
+        "title": "Maximum Number of Matching Indices After Right Shifts",
+        "title_slug": "maximum-number-of-matching-indices-after-right-shifts",
+        "difficulty": 2
+    },
+    {
+        "id": 3746,
+        "index": "3401",
+        "title": "Find Circular Gift Exchange Chains",
+        "title_slug": "find-circular-gift-exchange-chains",
+        "difficulty": 3
+    },
+    {
+        "id": 3691,
+        "index": "3402",
+        "title": "Minimum Operations to Make Columns Strictly Increasing",
+        "title_slug": "minimum-operations-to-make-columns-strictly-increasing",
+        "difficulty": 1
+    },
+    {
+        "id": 3683,
+        "index": "3403",
+        "title": "Find the Lexicographically Largest String From the Box I",
+        "title_slug": "find-the-lexicographically-largest-string-from-the-box-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3699,
+        "index": "3404",
+        "title": "Count Special Subsequences",
+        "title_slug": "count-special-subsequences",
+        "difficulty": 2
+    },
+    {
+        "id": 3682,
+        "index": "3405",
+        "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+        "title_slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+        "difficulty": 3
+    },
+    {
+        "id": 3749,
+        "index": "3406",
+        "title": "Find the Lexicographically Largest String From the Box II",
+        "title_slug": "find-the-lexicographically-largest-string-from-the-box-ii",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
