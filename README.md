@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 400
+* Java Answer 405
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3420,6 +3420,13 @@
 | 3397 | Maximum Number of Distinct Elements After Operations |  | Medium  |
 | 3398 | Smallest Substring With Identical Characters I |  | Hard  |
 | 3399 | Smallest Substring With Identical Characters II |  | Hard  |
+| 3400 | Maximum Number of Matching Indices After Right Shifts |  | Medium  |
+| 3401 | Find Circular Gift Exchange Chains |  | Hard  |
+| 3402 | Minimum Operations to Make Columns Strictly Increasing | [Java](./src/3402.minimum-operations-to-make-columns-strictly-increasing.3691/solution.java) | Easy  |
+| 3403 | Find the Lexicographically Largest String From the Box I |  | Medium  |
+| 3404 | Count Special Subsequences |  | Medium  |
+| 3405 | Count the Number of Arrays with K Matching Adjacent Elements |  | Hard  |
+| 3406 | Find the Lexicographically Largest String From the Box II |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
@@ -3579,10 +3586,10 @@
 | LCR194 | 寻找二叉树的最近公共祖先 | [Java](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.java) [JavaScript](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.js) [Python3](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.py) [TypeScript](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.ts) | Easy  |
 | 面试题01_01 | Is Unique LCCI | [Java](./src/面试题01_01.is-unique-lcci.100158/solution.java) [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
 | 面试题01_02 | Check Permutation LCCI | [Java](./src/面试题01_02.check-permutation-lcci.100159/solution.java) [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
-| 面试题01_03 | String to URL LCCI | [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/solution.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/solution.ts) | Easy  |
+| 面试题01_03 | String to URL LCCI | [Java](./src/面试题01_03.string-to-url-lcci.100160/solution.java) [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/solution.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/solution.ts) | Easy  |
 | 面试题01_04 | Palindrome Permutation LCCI | [JavaScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.js) [TypeScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.ts) | Easy  |
 | 面试题01_05 | One Away LCCI | [JavaScript](./src/面试题01_05.one-away-lcci.1000006/solution.js) [TypeScript](./src/面试题01_05.one-away-lcci.1000006/solution.ts) | Medium  |
-| 面试题01_06 | Compress String LCCI | [JavaScript](./src/面试题01_06.compress-string-lcci.100161/solution.js) [TypeScript](./src/面试题01_06.compress-string-lcci.100161/solution.ts) | Easy  |
+| 面试题01_06 | Compress String LCCI | [Java](./src/面试题01_06.compress-string-lcci.100161/solution.java) [JavaScript](./src/面试题01_06.compress-string-lcci.100161/solution.js) [TypeScript](./src/面试题01_06.compress-string-lcci.100161/solution.ts) | Easy  |
 | 面试题01_07 | Rotate Matrix LCCI | [JavaScript](./src/面试题01_07.rotate-matrix-lcci.100185/solution.js) [TypeScript](./src/面试题01_07.rotate-matrix-lcci.100185/solution.ts) | Medium  |
 | 面试题01_08 | Zero Matrix LCCI | [JavaScript](./src/面试题01_08.zero-matrix-lcci.100186/solution.js) [TypeScript](./src/面试题01_08.zero-matrix-lcci.100186/solution.ts) | Medium  |
 | 面试题01_09 | String Rotation LCCI | [JavaScript](./src/面试题01_09.string-rotation-lcci.100162/solution.js) [TypeScript](./src/面试题01_09.string-rotation-lcci.100162/solution.ts) | Easy  |
@@ -3617,7 +3624,7 @@
 | 面试题05_06 | Convert Integer LCCI | [JavaScript](./src/面试题05_06.convert-integer-lcci.100181/solution.js) [TypeScript](./src/面试题05_06.convert-integer-lcci.100181/solution.ts) | Easy  |
 | 面试题05_07 | Exchange LCCI | [JavaScript](./src/面试题05_07.exchange-lcci.100182/solution.js) [TypeScript](./src/面试题05_07.exchange-lcci.100182/solution.ts) | Easy  |
 | 面试题05_08 | Draw Line LCCI |  | Medium  |
-| 面试题08_01 | Three Steps Problem LCCI | [JavaScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.js) [TypeScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.ts) | Easy  |
+| 面试题08_01 | Three Steps Problem LCCI | [Java](./src/面试题08_01.three-steps-problem-lcci.100197/solution.java) [JavaScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.js) [TypeScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.ts) | Easy  |
 | 面试题08_02 | Robot in a Grid LCCI | [JavaScript](./src/面试题08_02.robot-in-a-grid-lcci.1000011/solution.js) [TypeScript](./src/面试题08_02.robot-in-a-grid-lcci.1000011/solution.ts) | Medium  |
 | 面试题08_03 | Magic Index LCCI | [JavaScript](./src/面试题08_03.magic-index-lcci.100240/solution.js) [TypeScript](./src/面试题08_03.magic-index-lcci.100240/solution.ts) | Easy  |
 | 面试题08_04 | Power Set LCCI | [JavaScript](./src/面试题08_04.power-set-lcci.100198/solution.js) [TypeScript](./src/面试题08_04.power-set-lcci.100198/solution.ts) | Medium  |
@@ -3639,7 +3646,7 @@
 | 面试题10_10 | Rank from Stream LCCI | [JavaScript](./src/面试题10_10.rank-from-stream-lcci.1000041/solution.js) [TypeScript](./src/面试题10_10.rank-from-stream-lcci.1000041/solution.ts) | Medium  |
 | 面试题10_11 | Peaks and Valleys LCCI | [JavaScript](./src/面试题10_11.peaks-and-valleys-lcci.1000013/solution.js) | Medium  |
 | 面试题16_01 | Swap Numbers LCCI | [JavaScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.js) [TypeScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.ts) | Medium  |
-| 面试题16_02 | Words Frequency LCCI | [JavaScript](./src/面试题16_02.words-frequency-lcci.100259/solution.js) [TypeScript](./src/面试题16_02.words-frequency-lcci.100259/solution.ts) | Medium  |
+| 面试题16_02 | Words Frequency LCCI | [Java](./src/面试题16_02.words-frequency-lcci.100259/solution.java) [JavaScript](./src/面试题16_02.words-frequency-lcci.100259/solution.js) [TypeScript](./src/面试题16_02.words-frequency-lcci.100259/solution.ts) | Medium  |
 | 面试题16_03 | Intersection LCCI |  | Hard  |
 | 面试题16_04 | Tic-Tac-Toe LCCI | [JavaScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.js) [TypeScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.ts) | Medium  |
 | 面试题16_05 | Factorial Zeros LCCI | [Java](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.java) [JavaScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.js) [TypeScript](./src/面试题16_05.factorial-zeros-lcci.1000017/solution.ts) | Easy  |
