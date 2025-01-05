@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 405
+* Java Answer 410
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1109,7 +1109,7 @@
 | 1086 | High Five | [JavaScript](./src/1086.high-five.1074/solution.js) | Easy  |
 | 1087 | Brace Expansion | [JavaScript](./src/1087.brace-expansion.1076/solution.js) | Medium  |
 | 1088 | Confusing Number II |  | Hard  |
-| 1089 | Duplicate Zeros | [JavaScript](./src/1089.duplicate-zeros.1168/solution.js) [TypeScript](./src/1089.duplicate-zeros.1168/solution.ts) | Easy  |
+| 1089 | Duplicate Zeros | [Java](./src/1089.duplicate-zeros.1168/solution.java) [JavaScript](./src/1089.duplicate-zeros.1168/solution.js) [TypeScript](./src/1089.duplicate-zeros.1168/solution.ts) | Easy  |
 | 1090 | Largest Values From Labels | [JavaScript](./src/1090.largest-values-from-labels.1169/solution.js) | Medium  |
 | 1091 | Shortest Path in Binary Matrix | [JavaScript](./src/1091.shortest-path-in-binary-matrix.1171/solution.js) | Medium  |
 | 1092 | Shortest Common Supersequence  | [JavaScript](./src/1092.shortest-common-supersequence.1170/solution.js) | Hard  |
@@ -1157,7 +1157,7 @@
 | 1134 | Armstrong Number | [JavaScript](./src/1134.armstrong-number.1090/solution.js) [TypeScript](./src/1134.armstrong-number.1090/solution.ts) | Easy  |
 | 1135 | Connecting Cities With Minimum Cost |  | Medium  |
 | 1136 | Parallel Courses |  | Medium  |
-| 1137 | N-th Tribonacci Number | [JavaScript](./src/1137.n-th-tribonacci-number.1236/solution.js) [TypeScript](./src/1137.n-th-tribonacci-number.1236/solution.ts) | Easy  |
+| 1137 | N-th Tribonacci Number | [Java](./src/1137.n-th-tribonacci-number.1236/solution.java) [JavaScript](./src/1137.n-th-tribonacci-number.1236/solution.js) [TypeScript](./src/1137.n-th-tribonacci-number.1236/solution.ts) | Easy  |
 | 1138 | Alphabet Board Path | [JavaScript](./src/1138.alphabet-board-path.1238/solution.js) | Medium  |
 | 1139 | Largest 1-Bordered Square | [JavaScript](./src/1139.largest-1-bordered-square.1239/solution.js) | Medium  |
 | 1140 | Stone Game II |  | Medium  |
@@ -1310,7 +1310,7 @@
 | 1287 | Element Appearing More Than 25% In Sorted Array | [JavaScript](./src/1287.element-appearing-more-than-25-in-sorted-array.1221/solution.js) | Easy  |
 | 1288 | Remove Covered Intervals | [JavaScript](./src/1288.remove-covered-intervals.1222/solution.js) | Medium  |
 | 1289 | Minimum Falling Path Sum II | [JavaScript](./src/1289.minimum-falling-path-sum-ii.1224/solution.js) | Hard  |
-| 1290 | Convert Binary Number in a Linked List to Integer | [Go](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.go) [JavaScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.js) [TypeScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.ts) | Easy  |
+| 1290 | Convert Binary Number in a Linked List to Integer | [Go](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.go) [Java](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.java) [JavaScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.js) [TypeScript](./src/1290.convert-binary-number-in-a-linked-list-to-integer.1411/solution.ts) | Easy  |
 | 1291 | Sequential Digits | [JavaScript](./src/1291.sequential-digits.1212/solution.js) | Medium  |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |  | Medium  |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination |  | Hard  |
@@ -1319,10 +1319,10 @@
 | 1296 | Divide Array in Sets of K Consecutive Numbers | [JavaScript](./src/1296.divide-array-in-sets-of-k-consecutive-numbers.1422/solution.js) [TypeScript](./src/1296.divide-array-in-sets-of-k-consecutive-numbers.1422/solution.ts) | Medium  |
 | 1297 | Maximum Number of Occurrences of a Substring |  | Medium  |
 | 1298 | Maximum Candies You Can Get from Boxes |  | Hard  |
-| 1299 | Replace Elements with Greatest Element on Right Side | [JavaScript](./src/1299.replace-elements-with-greatest-element-on-right-side.1231/solution.js) [TypeScript](./src/1299.replace-elements-with-greatest-element-on-right-side.1231/solution.ts) | Easy  |
+| 1299 | Replace Elements with Greatest Element on Right Side | [Java](./src/1299.replace-elements-with-greatest-element-on-right-side.1231/solution.java) [JavaScript](./src/1299.replace-elements-with-greatest-element-on-right-side.1231/solution.js) [TypeScript](./src/1299.replace-elements-with-greatest-element-on-right-side.1231/solution.ts) | Easy  |
 | 1300 | Sum of Mutated Array Closest to Target | [JavaScript](./src/1300.sum-of-mutated-array-closest-to-target.1232/solution.js) | Medium  |
 | 1301 | Number of Paths with Max Score | [Python3](./src/1301.number-of-paths-with-max-score.1234/solution.py) | Hard  |
-| 1302 | Deepest Leaves Sum | [JavaScript](./src/1302.deepest-leaves-sum.1254/solution.js) [TypeScript](./src/1302.deepest-leaves-sum.1254/solution.ts) | Medium  |
+| 1302 | Deepest Leaves Sum | [Java](./src/1302.deepest-leaves-sum.1254/solution.java) [JavaScript](./src/1302.deepest-leaves-sum.1254/solution.js) [TypeScript](./src/1302.deepest-leaves-sum.1254/solution.ts) | Medium  |
 | 1303 | Find the Team Size |  | Easy  |
 | 1304 | Find N Unique Integers Sum up to Zero | [JavaScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.js) [TypeScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.ts) | Easy  |
 | 1305 | All Elements in Two Binary Search Trees | [Python3](./src/1305.all-elements-in-two-binary-search-trees.1427/solution.py) [TypeScript](./src/1305.all-elements-in-two-binary-search-trees.1427/solution.ts) | Medium  |
