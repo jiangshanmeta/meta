@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 410
+* Java Answer 415
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1345,7 +1345,7 @@
 | 1322 | Ads Performance |  | Easy  |
 | 1323 | Maximum 69 Number | [Java](./src/1323.maximum-69-number.1448/solution.java) [JavaScript](./src/1323.maximum-69-number.1448/solution.js) [TypeScript](./src/1323.maximum-69-number.1448/solution.ts) | Easy  |
 | 1324 | Print Words Vertically | [JavaScript](./src/1324.print-words-vertically.1449/solution.js) [TypeScript](./src/1324.print-words-vertically.1449/solution.ts) | Medium  |
-| 1325 | Delete Leaves With a Given Value | [JavaScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.js) [TypeScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.ts) | Medium  |
+| 1325 | Delete Leaves With a Given Value | [Java](./src/1325.delete-leaves-with-a-given-value.1450/solution.java) [JavaScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.js) [TypeScript](./src/1325.delete-leaves-with-a-given-value.1450/solution.ts) | Medium  |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | [JavaScript](./src/1326.minimum-number-of-taps-to-open-to-water-a-garden.1451/solution.js) | Hard  |
 | 1327 | List the Products Ordered in a Period |  | Easy  |
 | 1328 | Break a Palindrome | [JavaScript](./src/1328.break-a-palindrome.1252/solution.js) | Medium  |
@@ -1358,7 +1358,7 @@
 | 1335 | Minimum Difficulty of a Job Schedule | [JavaScript](./src/1335.minimum-difficulty-of-a-job-schedule.1457/solution.js) | Hard  |
 | 1336 | Number of Transactions per Visit |  | Hard  |
 | 1337 | The K Weakest Rows in a Matrix | [JavaScript](./src/1337.the-k-weakest-rows-in-a-matrix.1463/solution.js) [TypeScript](./src/1337.the-k-weakest-rows-in-a-matrix.1463/solution.ts) | Easy  |
-| 1338 | Reduce Array Size to The Half | [JavaScript](./src/1338.reduce-array-size-to-the-half.1464/solution.js) [TypeScript](./src/1338.reduce-array-size-to-the-half.1464/solution.ts) | Medium  |
+| 1338 | Reduce Array Size to The Half | [Java](./src/1338.reduce-array-size-to-the-half.1464/solution.java) [JavaScript](./src/1338.reduce-array-size-to-the-half.1464/solution.js) [TypeScript](./src/1338.reduce-array-size-to-the-half.1464/solution.ts) | Medium  |
 | 1339 | Maximum Product of Splitted Binary Tree | [JavaScript](./src/1339.maximum-product-of-splitted-binary-tree.1465/solution.js) | Medium  |
 | 1340 | Jump Game V | [JavaScript](./src/1340.jump-game-v.1466/solution.js) | Hard  |
 | 1341 | Movie Rating |  | Medium  |
@@ -1366,7 +1366,7 @@
 | 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | [JavaScript](./src/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.1445/solution.js) | Medium  |
 | 1344 | Angle Between Hands of a Clock | [JavaScript](./src/1344.angle-between-hands-of-a-clock.1446/solution.js) [TypeScript](./src/1344.angle-between-hands-of-a-clock.1446/solution.ts) | Medium  |
 | 1345 | Jump Game IV | [JavaScript](./src/1345.jump-game-iv.1447/solution.js) | Hard  |
-| 1346 | Check If N and Its Double Exist | [JavaScript](./src/1346.check-if-n-and-its-double-exist.1468/solution.js) [TypeScript](./src/1346.check-if-n-and-its-double-exist.1468/solution.ts) | Easy  |
+| 1346 | Check If N and Its Double Exist | [Java](./src/1346.check-if-n-and-its-double-exist.1468/solution.java) [JavaScript](./src/1346.check-if-n-and-its-double-exist.1468/solution.js) [TypeScript](./src/1346.check-if-n-and-its-double-exist.1468/solution.ts) | Easy  |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | [JavaScript](./src/1347.minimum-number-of-steps-to-make-two-strings-anagram.1469/solution.js) [TypeScript](./src/1347.minimum-number-of-steps-to-make-two-strings-anagram.1469/solution.ts) | Medium  |
 | 1348 | Tweet Counts Per Frequency | [JavaScript](./src/1348.tweet-counts-per-frequency.1470/solution.js) | Medium  |
 | 1349 | Maximum Students Taking Exam |  | Hard  |
@@ -1394,7 +1394,7 @@
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | [JavaScript](./src/1371.find-the-longest-substring-containing-vowels-in-even-counts.1473/solution.js) | Medium  |
 | 1372 | Longest ZigZag Path in a Binary Tree | [JavaScript](./src/1372.longest-zigzag-path-in-a-binary-tree.1474/solution.js) | Medium  |
 | 1373 | Maximum Sum BST in Binary Tree | [JavaScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/solution.js) [TypeScript](./src/1373.maximum-sum-bst-in-binary-tree.1475/solution.ts) | Hard  |
-| 1374 | Generate a String With Characters That Have Odd Counts | [JavaScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/solution.js) [TypeScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/solution.ts) | Easy  |
+| 1374 | Generate a String With Characters That Have Odd Counts | [Java](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/solution.java) [JavaScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/solution.js) [TypeScript](./src/1374.generate-a-string-with-characters-that-have-odd-counts.1490/solution.ts) | Easy  |
 | 1375 | Number of Times Binary String Is Prefix-Aligned | [JavaScript](./src/1375.number-of-times-binary-string-is-prefix-aligned.1491/solution.js) | Medium  |
 | 1376 | Time Needed to Inform All Employees | [JavaScript](./src/1376.time-needed-to-inform-all-employees.1492/solution.js) | Medium  |
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/solution.js) | Hard  |
@@ -1475,7 +1475,7 @@
 | 1452 | People Whose List of Favorite Companies Is Not a Subset of Another List | [JavaScript](./src/1452.people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.1562/solution.js) | Medium  |
 | 1453 | Maximum Number of Darts Inside of a Circular Dartboard |  | Hard  |
 | 1454 | Active Users |  | Medium  |
-| 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [JavaScript](./src/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.1566/solution.js) [TypeScript](./src/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.1566/solution.ts) | Easy  |
+| 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Java](./src/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.1566/solution.java) [JavaScript](./src/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.1566/solution.js) [TypeScript](./src/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.1566/solution.ts) | Easy  |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [JavaScript](./src/1456.maximum-number-of-vowels-in-a-substring-of-given-length.1567/solution.js) | Medium  |
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | [JavaScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.js) [Python3](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.py) [TypeScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.ts) | Medium  |
 | 1458 | Max Dot Product of Two Subsequences | [JavaScript](./src/1458.max-dot-product-of-two-subsequences.1569/solution.js) | Hard  |
