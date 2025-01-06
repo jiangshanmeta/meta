@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 415
+* Java Answer 420
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1522,7 +1522,7 @@
 | 1499 | Max Value of Equation |  | Hard  |
 | 1500 | Design a File Sharing System |  | Medium  |
 | 1501 | Countries You Can Safely Invest In |  | Medium  |
-| 1502 | Can Make Arithmetic Progression From Sequence | [JavaScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.js) [TypeScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.ts) | Easy  |
+| 1502 | Can Make Arithmetic Progression From Sequence | [Java](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.java) [JavaScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.js) [TypeScript](./src/1502.can-make-arithmetic-progression-from-sequence.1626/solution.ts) | Easy  |
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | [TypeScript](./src/1503.last-moment-before-all-ants-fall-out-of-a-plank.1627/solution.ts) | Medium  |
 | 1504 | Count Submatrices With All Ones | [TypeScript](./src/1504.count-submatrices-with-all-ones.1628/solution.ts) | Medium  |
 | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits |  | Hard  |
@@ -1570,13 +1570,13 @@
 | 1547 | Minimum Cost to Cut a Stick |  | Hard  |
 | 1548 | The Most Similar Path in a Graph |  | Hard  |
 | 1549 | The Most Recent Orders for Each Product |  | Medium  |
-| 1550 | Three Consecutive Odds | [JavaScript](./src/1550.three-consecutive-odds.1293/solution.js) [TypeScript](./src/1550.three-consecutive-odds.1293/solution.ts) | Easy  |
+| 1550 | Three Consecutive Odds | [Java](./src/1550.three-consecutive-odds.1293/solution.java) [JavaScript](./src/1550.three-consecutive-odds.1293/solution.js) [TypeScript](./src/1550.three-consecutive-odds.1293/solution.ts) | Easy  |
 | 1551 | Minimum Operations to Make Array Equal | [JavaScript](./src/1551.minimum-operations-to-make-array-equal.1674/solution.js) | Medium  |
 | 1552 | Magnetic Force Between Two Balls | [TypeScript](./src/1552.magnetic-force-between-two-balls.1675/solution.ts) | Medium  |
 | 1553 | Minimum Number of Days to Eat N Oranges | [JavaScript](./src/1553.minimum-number-of-days-to-eat-n-oranges.1676/solution.js) | Hard  |
 | 1554 | Strings Differ by One Character | [JavaScript](./src/1554.strings-differ-by-one-character.1697/solution.js) | Medium  |
 | 1555 | Bank Account Summary |  | Medium  |
-| 1556 | Thousand Separator | [JavaScript](./src/1556.thousand-separator.1660/solution.js) [TypeScript](./src/1556.thousand-separator.1660/solution.ts) | Easy  |
+| 1556 | Thousand Separator | [Java](./src/1556.thousand-separator.1660/solution.java) [JavaScript](./src/1556.thousand-separator.1660/solution.js) [TypeScript](./src/1556.thousand-separator.1660/solution.ts) | Easy  |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [JavaScript](./src/1557.minimum-number-of-vertices-to-reach-all-nodes.1661/solution.js) | Medium  |
 | 1558 | Minimum Numbers of Function Calls to Make Target Array | [JavaScript](./src/1558.minimum-numbers-of-function-calls-to-make-target-array.1662/solution.js) | Medium  |
 | 1559 | Detect Cycles in 2D Grid |  | Medium  |
@@ -1639,7 +1639,7 @@
 | 1616 | Split Two Strings to Make Palindrome | [JavaScript](./src/1616.split-two-strings-to-make-palindrome.1739/solution.js) | Medium  |
 | 1617 | Count Subtrees With Max Distance Between Cities |  | Hard  |
 | 1618 | Maximum Font to Fit a Sentence in a Screen | [JavaScript](./src/1618.maximum-font-to-fit-a-sentence-in-a-screen.1384/solution.js) | Medium  |
-| 1619 | Mean of Array After Removing Some Elements | [JavaScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.js) [TypeScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.ts) | Easy  |
+| 1619 | Mean of Array After Removing Some Elements | [Java](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.java) [JavaScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.js) [TypeScript](./src/1619.mean-of-array-after-removing-some-elements.1210/solution.ts) | Easy  |
 | 1620 | Coordinate With Maximum Network Quality | [TypeScript](./src/1620.coordinate-with-maximum-network-quality.1726/solution.ts) | Medium  |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments |  | Medium  |
 | 1622 | Fancy Sequence |  | Hard  |
@@ -1778,7 +1778,7 @@
 | 1755 | Closest Subsequence Sum |  | Hard  |
 | 1756 | Design Most Recently Used Queue | [JavaScript](./src/1756.design-most-recently-used-queue.1903/solution.js) | Medium  |
 | 1757 | Recyclable and Low Fat Products |  | Easy  |
-| 1758 | Minimum Changes To Make Alternating Binary String | [JavaScript](./src/1758.minimum-changes-to-make-alternating-binary-string.1884/solution.js) [TypeScript](./src/1758.minimum-changes-to-make-alternating-binary-string.1884/solution.ts) | Easy  |
+| 1758 | Minimum Changes To Make Alternating Binary String | [Java](./src/1758.minimum-changes-to-make-alternating-binary-string.1884/solution.java) [JavaScript](./src/1758.minimum-changes-to-make-alternating-binary-string.1884/solution.js) [TypeScript](./src/1758.minimum-changes-to-make-alternating-binary-string.1884/solution.ts) | Easy  |
 | 1759 | Count Number of Homogenous Substrings | [JavaScript](./src/1759.count-number-of-homogenous-substrings.1885/solution.js) [TypeScript](./src/1759.count-number-of-homogenous-substrings.1885/solution.ts) | Medium  |
 | 1760 | Minimum Limit of Balls in a Bag | [JavaScript](./src/1760.minimum-limit-of-balls-in-a-bag.1886/solution.js) [TypeScript](./src/1760.minimum-limit-of-balls-in-a-bag.1886/solution.ts) | Medium  |
 | 1761 | Minimum Degree of a Connected Trio in a Graph |  | Hard  |
