@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 420
+* Java Answer 425
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1820,12 +1820,12 @@
 | 1797 | Design Authentication Manager | [JavaScript](./src/1797.design-authentication-manager.1905/solution.js) [TypeScript](./src/1797.design-authentication-manager.1905/solution.ts) | Medium  |
 | 1798 | Maximum Number of Consecutive Values You Can Make | [JavaScript](./src/1798.maximum-number-of-consecutive-values-you-can-make.1930/solution.js) [TypeScript](./src/1798.maximum-number-of-consecutive-values-you-can-make.1930/solution.ts) | Medium  |
 | 1799 | Maximize Score After N Operations |  | Hard  |
-| 1800 | Maximum Ascending Subarray Sum | [JavaScript](./src/1800.maximum-ascending-subarray-sum.1927/solution.js) [TypeScript](./src/1800.maximum-ascending-subarray-sum.1927/solution.ts) | Easy  |
+| 1800 | Maximum Ascending Subarray Sum | [Java](./src/1800.maximum-ascending-subarray-sum.1927/solution.java) [JavaScript](./src/1800.maximum-ascending-subarray-sum.1927/solution.js) [TypeScript](./src/1800.maximum-ascending-subarray-sum.1927/solution.ts) | Easy  |
 | 1801 | Number of Orders in the Backlog | [JavaScript](./src/1801.number-of-orders-in-the-backlog.1928/solution.js) [TypeScript](./src/1801.number-of-orders-in-the-backlog.1928/solution.ts) | Medium  |
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [JavaScript](./src/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929/solution.js) [TypeScript](./src/1802.maximum-value-at-a-given-index-in-a-bounded-array.1929/solution.ts) | Medium  |
 | 1803 | Count Pairs With XOR in a Range | [JavaScript](./src/1803.count-pairs-with-xor-in-a-range.1907/solution.js) [TypeScript](./src/1803.count-pairs-with-xor-in-a-range.1907/solution.ts) | Hard  |
 | 1804 | Implement Trie II (Prefix Tree) |  | Medium  |
-| 1805 | Number of Different Integers in a String | [JavaScript](./src/1805.number-of-different-integers-in-a-string.1933/solution.js) [TypeScript](./src/1805.number-of-different-integers-in-a-string.1933/solution.ts) | Easy  |
+| 1805 | Number of Different Integers in a String | [Java](./src/1805.number-of-different-integers-in-a-string.1933/solution.java) [JavaScript](./src/1805.number-of-different-integers-in-a-string.1933/solution.js) [TypeScript](./src/1805.number-of-different-integers-in-a-string.1933/solution.ts) | Easy  |
 | 1806 | Minimum Number of Operations to Reinitialize a Permutation | [JavaScript](./src/1806.minimum-number-of-operations-to-reinitialize-a-permutation.1935/solution.js) [TypeScript](./src/1806.minimum-number-of-operations-to-reinitialize-a-permutation.1935/solution.ts) | Medium  |
 | 1807 | Evaluate the Bracket Pairs of a String | [JavaScript](./src/1807.evaluate-the-bracket-pairs-of-a-string.1934/solution.js) [TypeScript](./src/1807.evaluate-the-bracket-pairs-of-a-string.1934/solution.ts) | Medium  |
 | 1808 | Maximize Number of Nice Divisors |  | Hard  |
@@ -1896,7 +1896,7 @@
 | 1873 | Calculate Special Bonus |  | Easy  |
 | 1874 | Minimize Product Sum of Two Arrays |  | Medium  |
 | 1875 | Group Employees of the Same Salary |  | Medium  |
-| 1876 | Substrings of Size Three with Distinct Characters | [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.js) [TypeScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.ts) | Easy  |
+| 1876 | Substrings of Size Three with Distinct Characters | [Java](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.java) [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.js) [TypeScript](./src/1876.substrings-of-size-three-with-distinct-characters.1987/solution.ts) | Easy  |
 | 1877 | Minimize Maximum Pair Sum in Array | [TypeScript](./src/1877.minimize-maximum-pair-sum-in-array.1988/solution.ts) | Medium  |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid |  | Medium  |
 | 1879 | Minimum XOR Sum of Two Arrays |  | Hard  |
@@ -1923,7 +1923,7 @@
 | 1900 | The Earliest and Latest Rounds Where Players Compete |  | Hard  |
 | 1901 | Find a Peak Element II |  | Medium  |
 | 1902 | Depth of BST Given Insertion Order |  | Medium  |
-| 1903 | Largest Odd Number in String | [JavaScript](./src/1903.largest-odd-number-in-string.2032/solution.js) [TypeScript](./src/1903.largest-odd-number-in-string.2032/solution.ts) | Easy  |
+| 1903 | Largest Odd Number in String | [Java](./src/1903.largest-odd-number-in-string.2032/solution.java) [JavaScript](./src/1903.largest-odd-number-in-string.2032/solution.js) [TypeScript](./src/1903.largest-odd-number-in-string.2032/solution.ts) | Easy  |
 | 1904 | The Number of Full Rounds You Have Played | [JavaScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/solution.js) [TypeScript](./src/1904.the-number-of-full-rounds-you-have-played.2033/solution.ts) | Medium  |
 | 1905 | Count Sub Islands | [JavaScript](./src/1905.count-sub-islands.2035/solution.js) [TypeScript](./src/1905.count-sub-islands.2035/solution.ts) | Medium  |
 | 1906 | Minimum Absolute Difference Queries | [JavaScript](./src/1906.minimum-absolute-difference-queries.2034/solution.js) [TypeScript](./src/1906.minimum-absolute-difference-queries.2034/solution.ts) | Medium  |
@@ -1940,7 +1940,7 @@
 | 1917 | Leetcodify Friends Recommendations |  | Hard  |
 | 1918 | Kth Smallest Subarray Sum |  | Medium  |
 | 1919 | Leetcodify Similar Friends |  | Hard  |
-| 1920 | Build Array from Permutation | [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) [TypeScript](./src/1920.build-array-from-permutation.2048/solution.ts) | Easy  |
+| 1920 | Build Array from Permutation | [Java](./src/1920.build-array-from-permutation.2048/solution.java) [JavaScript](./src/1920.build-array-from-permutation.2048/solution.js) [TypeScript](./src/1920.build-array-from-permutation.2048/solution.ts) | Easy  |
 | 1921 | Eliminate Maximum Number of Monsters | [TypeScript](./src/1921.eliminate-maximum-number-of-monsters.2049/solution.ts) | Medium  |
 | 1922 | Count Good Numbers | [TypeScript](./src/1922.count-good-numbers.2050/solution.ts) | Medium  |
 | 1923 | Longest Common Subpath |  | Hard  |
