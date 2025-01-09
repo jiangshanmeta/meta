@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 425
+* Java Answer 430
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1961,11 +1961,11 @@
 | 1938 | Maximum Genetic Difference Query |  | Hard  |
 | 1939 | Users That Actively Request Confirmation Messages |  | Easy  |
 | 1940 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
-| 1941 | Check if All Characters Have Equal Number of Occurrences | [JavaScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.js) [TypeScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.ts) | Easy  |
+| 1941 | Check if All Characters Have Equal Number of Occurrences | [Java](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.java) [JavaScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.js) [TypeScript](./src/1941.check-if-all-characters-have-equal-number-of-occurrences.2053/solution.ts) | Easy  |
 | 1942 | The Number of the Smallest Unoccupied Chair | [TypeScript](./src/1942.the-number-of-the-smallest-unoccupied-chair.2054/solution.ts) | Medium  |
 | 1943 | Describe the Painting |  | Medium  |
 | 1944 | Number of Visible People in a Queue | [TypeScript](./src/1944.number-of-visible-people-in-a-queue.1305/solution.ts) | Hard  |
-| 1945 | Sum of Digits of String After Convert | [JavaScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.js) [TypeScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.ts) | Easy  |
+| 1945 | Sum of Digits of String After Convert | [Java](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.java) [JavaScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.js) [TypeScript](./src/1945.sum-of-digits-of-string-after-convert.2076/solution.ts) | Easy  |
 | 1946 | Largest Number After Mutating Substring | [JavaScript](./src/1946.largest-number-after-mutating-substring.2077/solution.js) [TypeScript](./src/1946.largest-number-after-mutating-substring.2077/solution.ts) | Medium  |
 | 1947 | Maximum Compatibility Score Sum | [JavaScript](./src/1947.maximum-compatibility-score-sum.2078/solution.js) [TypeScript](./src/1947.maximum-compatibility-score-sum.2078/solution.ts) | Medium  |
 | 1948 | Delete Duplicate Folders in System |  | Hard  |
@@ -1981,13 +1981,13 @@
 | 1958 | Check if Move is Legal | [TypeScript](./src/1958.check-if-move-is-legal.2080/solution.ts) | Medium  |
 | 1959 | Minimum Total Space Wasted With K Resizing Operations |  | Medium  |
 | 1960 | Maximum Product of the Length of Two Palindromic Substrings |  | Hard  |
-| 1961 | Check If String Is a Prefix of Array | [JavaScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.js) [TypeScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.ts) | Easy  |
+| 1961 | Check If String Is a Prefix of Array | [Java](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.java) [JavaScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.js) [TypeScript](./src/1961.check-if-string-is-a-prefix-of-array.2093/solution.ts) | Easy  |
 | 1962 | Remove Stones to Minimize the Total | [JavaScript](./src/1962.remove-stones-to-minimize-the-total.2094/solution.js) [TypeScript](./src/1962.remove-stones-to-minimize-the-total.2094/solution.ts) | Medium  |
 | 1963 | Minimum Number of Swaps to Make the String Balanced |  | Medium  |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position |  | Hard  |
 | 1965 | Employees With Missing Information |  | Easy  |
 | 1966 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
-| 1967 | Number of Strings That Appear as Substrings in Word | [JavaScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.js) [TypeScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.ts) | Easy  |
+| 1967 | Number of Strings That Appear as Substrings in Word | [Java](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.java) [JavaScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.js) [TypeScript](./src/1967.number-of-strings-that-appear-as-substrings-in-word.2099/solution.ts) | Easy  |
 | 1968 | Array With Elements Not Equal to Average of Neighbors | [JavaScript](./src/1968.array-with-elements-not-equal-to-average-of-neighbors.2085/solution.js) | Medium  |
 | 1969 | Minimum Non-Zero Product of the Array Elements |  | Medium  |
 | 1970 | Last Day Where You Can Still Cross |  | Hard  |
@@ -1999,7 +1999,7 @@
 | 1976 | Number of Ways to Arrive at Destination |  | Medium  |
 | 1977 | Number of Ways to Separate Numbers |  | Hard  |
 | 1978 | Employees Whose Manager Left the Company |  | Easy  |
-| 1979 | Find Greatest Common Divisor of Array | [JavaScript](./src/1979.find-greatest-common-divisor-of-array.2106/solution.js) [TypeScript](./src/1979.find-greatest-common-divisor-of-array.2106/solution.ts) | Easy  |
+| 1979 | Find Greatest Common Divisor of Array | [Java](./src/1979.find-greatest-common-divisor-of-array.2106/solution.java) [JavaScript](./src/1979.find-greatest-common-divisor-of-array.2106/solution.js) [TypeScript](./src/1979.find-greatest-common-divisor-of-array.2106/solution.ts) | Easy  |
 | 1980 | Find Unique Binary String | [JavaScript](./src/1980.find-unique-binary-string.2107/solution.js) [TypeScript](./src/1980.find-unique-binary-string.2107/solution.ts) | Medium  |
 | 1981 | Minimize the Difference Between Target and Chosen Elements |  | Medium  |
 | 1982 | Find Array Given Subset Sums |  | Hard  |
