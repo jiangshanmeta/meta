@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 430
+* Java Answer 435
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2004,7 +2004,7 @@
 | 1981 | Minimize the Difference Between Target and Chosen Elements |  | Medium  |
 | 1982 | Find Array Given Subset Sums |  | Hard  |
 | 1983 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
-| 1984 | Minimum Difference Between Highest and Lowest of K Scores | [JavaScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.js) [TypeScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.ts) | Easy  |
+| 1984 | Minimum Difference Between Highest and Lowest of K Scores | [Java](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.java) [JavaScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.js) [TypeScript](./src/1984.minimum-difference-between-highest-and-lowest-of-k-scores.2112/solution.ts) | Easy  |
 | 1985 | Find the Kth Largest Integer in the Array | [TypeScript](./src/1985.find-the-kth-largest-integer-in-the-array.2113/solution.ts) | Medium  |
 | 1986 | Minimum Number of Work Sessions to Finish the Tasks |  | Medium  |
 | 1987 | Number of Unique Good Subsequences |  | Hard  |
@@ -2077,7 +2077,7 @@
 | 2054 | Two Best Non-Overlapping Events |  | Medium  |
 | 2055 | Plates Between Candles | [TypeScript](./src/2055.plates-between-candles.2165/solution.ts) | Medium  |
 | 2056 | Number of Valid Move Combinations On Chessboard |  | Hard  |
-| 2057 | Smallest Index With Equal Value | [JavaScript](./src/2057.smallest-index-with-equal-value.2181/solution.js) [TypeScript](./src/2057.smallest-index-with-equal-value.2181/solution.ts) | Easy  |
+| 2057 | Smallest Index With Equal Value | [Java](./src/2057.smallest-index-with-equal-value.2181/solution.java) [JavaScript](./src/2057.smallest-index-with-equal-value.2181/solution.js) [TypeScript](./src/2057.smallest-index-with-equal-value.2181/solution.ts) | Easy  |
 | 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | [TypeScript](./src/2058.find-the-minimum-and-maximum-number-of-nodes-between-critical-points.2182/solution.ts) | Medium  |
 | 2059 | Minimum Operations to Convert Number |  | Medium  |
 | 2060 | Check if an Original String Exists Given Two Encoded Strings |  | Hard  |
@@ -2109,7 +2109,7 @@
 | 2086 | Minimum Number of Food Buckets to Feed the Hamsters | [JavaScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.js) [TypeScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.ts) | Medium  |
 | 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
 | 2088 | Count Fertile Pyramids in a Land |  | Hard  |
-| 2089 | Find Target Indices After Sorting Array | [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.ts) | Easy  |
+| 2089 | Find Target Indices After Sorting Array | [Java](./src/2089.find-target-indices-after-sorting-array.2210/solution.java) [JavaScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.js) [TypeScript](./src/2089.find-target-indices-after-sorting-array.2210/solution.ts) | Easy  |
 | 2090 | K Radius Subarray Averages | [JavaScript](./src/2090.k-radius-subarray-averages.2211/solution.js) [TypeScript](./src/2090.k-radius-subarray-averages.2211/solution.ts) | Medium  |
 | 2091 | Removing Minimum and Maximum From Array | [JavaScript](./src/2091.removing-minimum-and-maximum-from-array.2212/solution.js) [TypeScript](./src/2091.removing-minimum-and-maximum-from-array.2212/solution.ts) | Medium  |
 | 2092 | Find All People With Secret |  | Hard  |
@@ -2158,7 +2158,7 @@
 | 2135 | Count Words Obtained After Adding a Letter | [TypeScript](./src/2135.count-words-obtained-after-adding-a-letter.2256/solution.ts) | Medium  |
 | 2136 | Earliest Possible Day of Full Bloom |  | Hard  |
 | 2137 | Pour Water Between Buckets to Make Water Levels Equal |  | Medium  |
-| 2138 | Divide a String Into Groups of Size k | [JavaScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.js) [TypeScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.ts) | Easy  |
+| 2138 | Divide a String Into Groups of Size k | [Java](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.java) [JavaScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.js) [TypeScript](./src/2138.divide-a-string-into-groups-of-size-k.2260/solution.ts) | Easy  |
 | 2139 | Minimum Moves to Reach Target Score | [JavaScript](./src/2139.minimum-moves-to-reach-target-score.1303/solution.js) [TypeScript](./src/2139.minimum-moves-to-reach-target-score.1303/solution.ts) | Medium  |
 | 2140 | Solving Questions With Brainpower | [TypeScript](./src/2140.solving-questions-with-brainpower.2262/solution.ts) | Medium  |
 | 2141 | Maximum Running Time of N Computers |  | Hard  |
@@ -2200,7 +2200,7 @@
 | 2177 | Find Three Consecutive Integers That Sum to a Given Number | [JavaScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/solution.js) [TypeScript](./src/2177.find-three-consecutive-integers-that-sum-to-a-given-number.2278/solution.ts) | Medium  |
 | 2178 | Maximum Split of Positive Even Integers |  | Medium  |
 | 2179 | Count Good Triplets in an Array |  | Hard  |
-| 2180 | Count Integers With Even Digit Sum | [JavaScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.js) [TypeScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.ts) | Easy  |
+| 2180 | Count Integers With Even Digit Sum | [Java](./src/2180.count-integers-with-even-digit-sum.2298/solution.java) [JavaScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.js) [TypeScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.ts) | Easy  |
 | 2181 | Merge Nodes in Between Zeros | [JavaScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.js) [TypeScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.ts) | Medium  |
 | 2182 | Construct String With Repeat Limit |  | Medium  |
 | 2183 | Count Array Pairs Divisible by K |  | Hard  |
