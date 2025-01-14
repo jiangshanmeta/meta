@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 435
+* Java Answer 440
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2226,7 +2226,7 @@
 | 2203 | Minimum Weighted Subgraph With the Required Paths |  | Hard  |
 | 2204 | Distance to a Cycle in Undirected Graph |  | Hard  |
 | 2205 | The Number of Users That Are Eligible for Discount |  | Easy  |
-| 2206 | Divide Array Into Equal Pairs | [JavaScript](./src/2206.divide-array-into-equal-pairs.2308/solution.js) [TypeScript](./src/2206.divide-array-into-equal-pairs.2308/solution.ts) | Easy  |
+| 2206 | Divide Array Into Equal Pairs | [Java](./src/2206.divide-array-into-equal-pairs.2308/solution.java) [JavaScript](./src/2206.divide-array-into-equal-pairs.2308/solution.js) [TypeScript](./src/2206.divide-array-into-equal-pairs.2308/solution.ts) | Easy  |
 | 2207 | Maximize Number of Subsequences in a String | [TypeScript](./src/2207.maximize-number-of-subsequences-in-a-string.2309/solution.ts) | Medium  |
 | 2208 | Minimum Operations to Halve Array Sum | [TypeScript](./src/2208.minimum-operations-to-halve-array-sum.2310/solution.ts) | Medium  |
 | 2209 | Minimum White Tiles After Covering With Carpets |  | Hard  |
@@ -2240,7 +2240,7 @@
 | 2217 | Find Palindrome With Fixed Length |  | Medium  |
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
 | 2219 | Maximum Sum Score of Array |  | Medium  |
-| 2220 | Minimum Bit Flips to Convert Number | [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.ts) | Easy  |
+| 2220 | Minimum Bit Flips to Convert Number | [Java](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.java) [JavaScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.js) [TypeScript](./src/2220.minimum-bit-flips-to-convert-number.2323/solution.ts) | Easy  |
 | 2221 | Find Triangular Sum of an Array | [JavaScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.js) [TypeScript](./src/2221.find-triangular-sum-of-an-array.2324/solution.ts) | Medium  |
 | 2222 | Number of Ways to Select Buildings | [TypeScript](./src/2222.number-of-ways-to-select-buildings.2325/solution.ts) | Medium  |
 | 2223 | Sum of Scores of Built Strings | [TypeScript](./src/2223.sum-of-scores-of-built-strings.2326/solution.ts) | Hard  |
@@ -2289,7 +2289,7 @@
 | 2266 | Count Number of Texts | [TypeScript](./src/2266.count-number-of-texts.2348/solution.ts) | Medium  |
 | 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
 | 2268 | Minimum Number of Keypresses |  | Medium  |
-| 2269 | Find the K-Beauty of a Number | [JavaScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.js) [TypeScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.ts) | Easy  |
+| 2269 | Find the K-Beauty of a Number | [Java](./src/2269.find-the-k-beauty-of-a-number.1430/solution.java) [JavaScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.js) [TypeScript](./src/2269.find-the-k-beauty-of-a-number.1430/solution.ts) | Easy  |
 | 2270 | Number of Ways to Split Array | [TypeScript](./src/2270.number-of-ways-to-split-array.2358/solution.ts) | Medium  |
 | 2271 | Maximum White Tiles Covered by a Carpet |  | Medium  |
 | 2272 | Substring With Largest Variance |  | Hard  |
@@ -2313,7 +2313,7 @@
 | 2290 | Minimum Obstacle Removal to Reach Corner |  | Hard  |
 | 2291 | Maximum Profit From Trading Stocks |  | Medium  |
 | 2292 | Products With Three or More Orders in Two Consecutive Years |  | Medium  |
-| 2293 | Min Max Game | [JavaScript](./src/2293.min-max-game.2386/solution.js) [TypeScript](./src/2293.min-max-game.2386/solution.ts) | Easy  |
+| 2293 | Min Max Game | [Java](./src/2293.min-max-game.2386/solution.java) [JavaScript](./src/2293.min-max-game.2386/solution.js) [TypeScript](./src/2293.min-max-game.2386/solution.ts) | Easy  |
 | 2294 | Partition Array Such That Maximum Difference Is K | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.js) [TypeScript](./src/2294.partition-array-such-that-maximum-difference-is-k.2387/solution.ts) | Medium  |
 | 2295 | Replace Elements in an Array | [JavaScript](./src/2295.replace-elements-in-an-array.2388/solution.js) [TypeScript](./src/2295.replace-elements-in-an-array.2388/solution.ts) | Medium  |
 | 2296 | Design a Text Editor |  | Hard  |
@@ -2339,7 +2339,7 @@
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [JavaScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.js) [TypeScript](./src/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.2403/solution.ts) | Medium  |
 | 2317 | Maximum XOR After Operations  | [TypeScript](./src/2317.maximum-xor-after-operations.2402/solution.ts) | Medium  |
 | 2318 | Number of Distinct Roll Sequences |  | Hard  |
-| 2319 | Check if Matrix Is X-Matrix | [JavaScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.js) [TypeScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.ts) | Easy  |
+| 2319 | Check if Matrix Is X-Matrix | [Java](./src/2319.check-if-matrix-is-x-matrix.2398/solution.java) [JavaScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.js) [TypeScript](./src/2319.check-if-matrix-is-x-matrix.2398/solution.ts) | Easy  |
 | 2320 | Count Number of Ways to Place Houses | [TypeScript](./src/2320.count-number-of-ways-to-place-houses.2397/solution.ts) | Medium  |
 | 2321 | Maximum Score Of Spliced Array |  | Hard  |
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
