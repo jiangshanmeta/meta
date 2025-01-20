@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 450
+* Java Answer 455
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3089,7 +3089,7 @@
 | 3066 | Minimum Operations to Exceed Threshold Value II |  | Medium  |
 | 3067 | Count Pairs of Connectable Servers in a Weighted Tree Network |  | Medium  |
 | 3068 | Find the Maximum Sum of Node Values |  | Hard  |
-| 3069 | Distribute Elements Into Two Arrays I | [TypeScript](./src/3069.distribute-elements-into-two-arrays-i.3347/solution.ts) | Easy  |
+| 3069 | Distribute Elements Into Two Arrays I | [Java](./src/3069.distribute-elements-into-two-arrays-i.3347/solution.java) [TypeScript](./src/3069.distribute-elements-into-two-arrays-i.3347/solution.ts) | Easy  |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k |  | Medium  |
 | 3071 | Minimum Operations to Write the Letter Y on a Grid |  | Medium  |
 | 3072 | Distribute Elements Into Two Arrays II |  | Hard  |
@@ -3103,7 +3103,7 @@
 | 3080 | Mark Elements on Array by Performing Queries |  | Medium  |
 | 3081 | Replace Question Marks in String to Minimize Its Value |  | Medium  |
 | 3082 | Find the Sum of the Power of All Subsequences |  | Hard  |
-| 3083 | Existence of a Substring in a String and Its Reverse | [TypeScript](./src/3083.existence-of-a-substring-in-a-string-and-its-reverse.3353/solution.ts) | Easy  |
+| 3083 | Existence of a Substring in a String and Its Reverse | [Java](./src/3083.existence-of-a-substring-in-a-string-and-its-reverse.3353/solution.java) [TypeScript](./src/3083.existence-of-a-substring-in-a-string-and-its-reverse.3353/solution.ts) | Easy  |
 | 3084 | Count Substrings Starting and Ending with Given Character |  | Medium  |
 | 3085 | Minimum Deletions to Make String K-Special |  | Medium  |
 | 3086 | Minimum Moves to Pick K Ones |  | Hard  |
@@ -3178,7 +3178,7 @@
 | 3155 | Maximum Number of Upgradable Servers |  | Medium  |
 | 3156 | Employee Task Duration and Concurrent Tasks |  | Hard  |
 | 3157 | Find the Level of Tree with Minimum Sum |  | Medium  |
-| 3158 | Find the XOR of Numbers Which Appear Twice | [TypeScript](./src/3158.find-the-xor-of-numbers-which-appear-twice.3428/solution.ts) | Easy  |
+| 3158 | Find the XOR of Numbers Which Appear Twice | [Java](./src/3158.find-the-xor-of-numbers-which-appear-twice.3428/solution.java) [TypeScript](./src/3158.find-the-xor-of-numbers-which-appear-twice.3428/solution.ts) | Easy  |
 | 3159 | Find Occurrences of an Element in an Array |  | Medium  |
 | 3160 | Find the Number of Distinct Colors Among the Balls |  | Medium  |
 | 3161 | Block Placement Queries |  | Hard  |
@@ -3268,7 +3268,7 @@
 | 3245 | Alternating Groups III |  | Hard  |
 | 3246 | Premier League Table Ranking |  | Easy  |
 | 3247 | Number of Subsequences with Odd Sum |  | Medium  |
-| 3248 | Snake in Matrix |  | Easy  |
+| 3248 | Snake in Matrix | [Java](./src/3248.snake-in-matrix.3533/solution.java) | Easy  |
 | 3249 | Count the Number of Good Nodes |  | Medium  |
 | 3250 | Find the Count of Monotonic Pairs I |  | Hard  |
 | 3251 | Find the Count of Monotonic Pairs II |  | Hard  |
@@ -3290,7 +3290,7 @@
 | 3267 | Count Almost Equal Pairs II |  | Hard  |
 | 3268 | Find Overlapping Shifts II |  | Hard  |
 | 3269 | Constructing Two Increasing Arrays |  | Hard  |
-| 3270 | Find the Key of the Numbers | [TypeScript](./src/3270.find-the-key-of-the-numbers.3568/solution.ts) | Easy  |
+| 3270 | Find the Key of the Numbers | [Java](./src/3270.find-the-key-of-the-numbers.3568/solution.java) [TypeScript](./src/3270.find-the-key-of-the-numbers.3568/solution.ts) | Easy  |
 | 3271 | Hash Divided String |  | Medium  |
 | 3272 | Find the Count of Good Integers |  | Hard  |
 | 3273 | Minimum Amount of Damage Dealt to Bob |  | Hard  |
