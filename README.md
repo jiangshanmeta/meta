@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 455
+* Java Answer 460
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3309,13 +3309,13 @@
 | 3286 | Find a Safe Walk Through a Grid |  | Medium  |
 | 3287 | Find the Maximum Sequence Value of Array |  | Hard  |
 | 3288 | Length of the Longest Increasing Path |  | Hard  |
-| 3289 | The Two Sneaky Numbers of Digitville | [TypeScript](./src/3289.the-two-sneaky-numbers-of-digitville.3581/solution.ts) | Easy  |
+| 3289 | The Two Sneaky Numbers of Digitville | [Java](./src/3289.the-two-sneaky-numbers-of-digitville.3581/solution.java) [TypeScript](./src/3289.the-two-sneaky-numbers-of-digitville.3581/solution.ts) | Easy  |
 | 3290 | Maximum Multiplication Score |  | Medium  |
 | 3291 | Minimum Number of Valid Strings to Form Target I |  | Medium  |
 | 3292 | Minimum Number of Valid Strings to Form Target II |  | Hard  |
 | 3293 | Calculate Product Final Price |  | Medium  |
 | 3294 | Convert Doubly Linked List to Array II |  | Medium  |
-| 3295 | Report Spam Message |  | Medium  |
+| 3295 | Report Spam Message | [Java](./src/3295.report-spam-message.3541/solution.java) | Medium  |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero |  | Medium  |
 | 3297 | Count Substrings That Can Be Rearranged to Contain a String I |  | Medium  |
 | 3298 | Count Substrings That Can Be Rearranged to Contain a String II |  | Hard  |
@@ -3380,7 +3380,7 @@
 | 3357 | Minimize the Maximum Adjacent Element Difference |  | Hard  |
 | 3358 | Books with NULL Ratings |  | Easy  |
 | 3359 | Find Sorted Submatrices With Maximum Element at Most K |  | Hard  |
-| 3360 | Stone Removal Game |  | Easy  |
+| 3360 | Stone Removal Game | [Java](./src/3360.stone-removal-game.3625/solution.java) | Easy  |
 | 3361 | Shift Distance Between Two Strings |  | Medium  |
 | 3362 | Zero Array Transformation III |  | Medium  |
 | 3363 | Find the Maximum Number of Fruits Collected |  | Hard  |
@@ -3390,12 +3390,12 @@
 | 3367 | Maximize Sum of Weights after Edge Removals |  | Hard  |
 | 3368 | First Letter Capitalization |  | Hard  |
 | 3369 | Design an Array Statistics Tracker  |  | Hard  |
-| 3370 | Smallest Number With All Set Bits |  | Easy  |
+| 3370 | Smallest Number With All Set Bits | [Java](./src/3370.smallest-number-with-all-set-bits.3676/solution.java) | Easy  |
 | 3371 | Identify the Largest Outlier in an Array |  | Medium  |
 | 3372 | Maximize the Number of Target Nodes After Connecting Trees I |  | Medium  |
 | 3373 | Maximize the Number of Target Nodes After Connecting Trees II |  | Hard  |
 | 3374 | First Letter Capitalization II |  | Hard  |
-| 3375 | Minimum Operations to Make Array Values Equal to K |  | Easy  |
+| 3375 | Minimum Operations to Make Array Values Equal to K | [Java](./src/3375.minimum-operations-to-make-array-values-equal-to-k.3621/solution.java) | Easy  |
 | 3376 | Minimum Time to Break Locks I |  | Medium  |
 | 3377 | Digit Operations to Make Two Integers Equal |  | Medium  |
 | 3378 | Count Connected Components in LCM Graph |  | Hard  |
