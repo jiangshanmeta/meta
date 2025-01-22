@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 460
+* Java Answer 465
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3399,20 +3399,20 @@
 | 3376 | Minimum Time to Break Locks I |  | Medium  |
 | 3377 | Digit Operations to Make Two Integers Equal |  | Medium  |
 | 3378 | Count Connected Components in LCM Graph |  | Hard  |
-| 3379 | Transformed Array |  | Easy  |
+| 3379 | Transformed Array | [Java](./src/3379.transformed-array.3651/solution.java) | Easy  |
 | 3380 | Maximum Area Rectangle With Point Constraints I |  | Medium  |
 | 3381 | Maximum Subarray Sum With Length Divisible by K |  | Medium  |
 | 3382 | Maximum Area Rectangle With Point Constraints II |  | Hard  |
 | 3383 | Minimum Runes to Add to Cast Spell |  | Hard  |
 | 3384 | Team Dominance by Pass Success |  | Hard  |
 | 3385 | Minimum Time to Break Locks II |  | Hard  |
-| 3386 | Button with Longest Push Time |  | Easy  |
+| 3386 | Button with Longest Push Time | [Java](./src/3386.button-with-longest-push-time.3632/solution.java) | Easy  |
 | 3387 | Maximize Amount After Two Days of Conversions |  | Medium  |
 | 3388 | Count Beautiful Splits in an Array |  | Medium  |
 | 3389 | Minimum Operations to Make Character Frequencies Equal |  | Hard  |
 | 3390 | Longest Team Pass Streak |  | Hard  |
 | 3391 | Design a 3D Binary Matrix with Efficient Layer Tracking |  | Medium  |
-| 3392 | Count Subarrays of Length Three With a Condition |  | Easy  |
+| 3392 | Count Subarrays of Length Three With a Condition | [Java](./src/3392.count-subarrays-of-length-three-with-a-condition.3685/solution.java) | Easy  |
 | 3393 | Count Paths With the Given XOR Value |  | Medium  |
 | 3394 | Check if Grid can be Cut into Sections |  | Medium  |
 | 3395 | Subsequences with a Unique Middle Mode I |  | Hard  |
@@ -3454,7 +3454,7 @@
 | LCP25 | 古董键盘 |  | Hard  |
 | LCP26 | 导航装置 |  | Hard  |
 | LCP27 | 黑盒光线反射 |  | Hard  |
-| LCP28 | 采购方案 | [JavaScript](./src/LCP28.4xy4Wx.1000215/solution.js) [TypeScript](./src/LCP28.4xy4Wx.1000215/solution.ts) | Easy  |
+| LCP28 | 采购方案 | [Java](./src/LCP28.4xy4Wx.1000215/solution.java) [JavaScript](./src/LCP28.4xy4Wx.1000215/solution.js) [TypeScript](./src/LCP28.4xy4Wx.1000215/solution.ts) | Easy  |
 | LCP29 | 乐团站位 |  | Medium  |
 | LCP30 | 魔塔游戏 |  | Medium  |
 | LCP31 | 变换的迷宫 |  | Hard  |
@@ -3470,7 +3470,7 @@
 | LCP41 | 黑白翻转棋 |  | Medium  |
 | LCP42 | 玩具套圈 |  | Hard  |
 | LCP43 | 十字路口的交通 |  | Hard  |
-| LCP44 | 开幕式焰火 | [JavaScript](./src/LCP44.sZ59z6.1000362/solution.js) [TypeScript](./src/LCP44.sZ59z6.1000362/solution.ts) | Easy  |
+| LCP44 | 开幕式焰火 | [Java](./src/LCP44.sZ59z6.1000362/solution.java) [JavaScript](./src/LCP44.sZ59z6.1000362/solution.js) [TypeScript](./src/LCP44.sZ59z6.1000362/solution.ts) | Easy  |
 | LCP45 | 自行车炫技赛场 |  | Medium  |
 | LCP46 | 志愿者调配 |  | Medium  |
 | LCP47 | 入场安检 |  | Hard  |
