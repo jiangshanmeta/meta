@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 465
+* Java Answer 470
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3492,7 +3492,7 @@
 | LCP63 | 弹珠游戏 |  | Medium  |
 | LCP64 | 二叉树灯饰 |  | Medium  |
 | LCP65 | 舒适的湿度 |  | Hard  |
-| LCP66 | 最小展台数量 | [JavaScript](./src/LCP66.600YaG.1000481/solution.js) [TypeScript](./src/LCP66.600YaG.1000481/solution.ts) | Easy  |
+| LCP66 | 最小展台数量 | [Java](./src/LCP66.600YaG.1000481/solution.java) [JavaScript](./src/LCP66.600YaG.1000481/solution.js) [TypeScript](./src/LCP66.600YaG.1000481/solution.ts) | Easy  |
 | LCP67 | 装饰树 | [JavaScript](./src/LCP67.KnLfVT.1000482/solution.js) [TypeScript](./src/LCP67.KnLfVT.1000482/solution.ts) | Medium  |
 | LCP68 | 美观的花束 | [TypeScript](./src/LCP68.1GxJYY.1000483/solution.ts) | Medium  |
 | LCP69 | Hello LeetCode! |  | Hard  |
@@ -3700,7 +3700,7 @@
 | LCR002 | 二进制求和 | [JavaScript](./src/LCR002.JFETK5.1000231/solution.js) | Easy  |
 | LCR003 | 比特位计数 | [Java](./src/LCR003.w3tCBm.1000230/solution.java) [JavaScript](./src/LCR003.w3tCBm.1000230/solution.js) [TypeScript](./src/LCR003.w3tCBm.1000230/solution.ts) | Easy  |
 | LCR004 | 只出现一次的数字 II | [TypeScript](./src/LCR004.WGki4K.1000233/solution.ts) | Medium  |
-| LCR005 | 最大单词长度乘积 | [JavaScript](./src/LCR005.aseY1I.1000236/solution.js) [TypeScript](./src/LCR005.aseY1I.1000236/solution.ts) | Medium  |
+| LCR005 | 最大单词长度乘积 | [Java](./src/LCR005.aseY1I.1000236/solution.java) [JavaScript](./src/LCR005.aseY1I.1000236/solution.js) [TypeScript](./src/LCR005.aseY1I.1000236/solution.ts) | Medium  |
 | LCR006 | 两数之和 II - 输入有序数组 | [JavaScript](./src/LCR006.kLl5u1.1000237/solution.js) | Easy  |
 | LCR007 | 三数之和 | [TypeScript](./src/LCR007.1fGaJU.1000239/solution.ts) | Medium  |
 | LCR008 | 长度最小的子数组 | [TypeScript](./src/LCR008.2VG8Kg.1000242/solution.ts) | Medium  |
@@ -3714,10 +3714,10 @@
 | LCR016 | 无重复字符的最长子串 | [TypeScript](./src/LCR016.wtcaE1.1000252/solution.ts) | Medium  |
 | LCR017 | 最小覆盖子串 | [JavaScript](./src/LCR017.M1oyTv.1000253/solution.js) | Hard  |
 | LCR018 | 验证回文串 | [Java](./src/LCR018.XltzEq.1000254/solution.java) [JavaScript](./src/LCR018.XltzEq.1000254/solution.js) [TypeScript](./src/LCR018.XltzEq.1000254/solution.ts) | Easy  |
-| LCR019 | 验证回文串 II | [JavaScript](./src/LCR019.RQku0D.1000255/solution.js) | Easy  |
+| LCR019 | 验证回文串 II | [Java](./src/LCR019.RQku0D.1000255/solution.java) [JavaScript](./src/LCR019.RQku0D.1000255/solution.js) | Easy  |
 | LCR020 | 回文子串 | [TypeScript](./src/LCR020.a7VOhD.1000256/solution.ts) | Medium  |
-| LCR021 | 删除链表的倒数第 N 个结点 | [JavaScript](./src/LCR021.SLwz0R.1000257/solution.js) [TypeScript](./src/LCR021.SLwz0R.1000257/solution.ts) | Medium  |
-| LCR022 | 环形链表 II | [JavaScript](./src/LCR022.c32eOV.1000258/solution.js) | Medium  |
+| LCR021 | 删除链表的倒数第 N 个结点 | [Java](./src/LCR021.SLwz0R.1000257/solution.java) [JavaScript](./src/LCR021.SLwz0R.1000257/solution.js) [TypeScript](./src/LCR021.SLwz0R.1000257/solution.ts) | Medium  |
+| LCR022 | 环形链表 II | [Java](./src/LCR022.c32eOV.1000258/solution.java) [JavaScript](./src/LCR022.c32eOV.1000258/solution.js) | Medium  |
 | LCR023 | 相交链表 | [Java](./src/LCR023.3u1WK4.1000259/solution.java) [JavaScript](./src/LCR023.3u1WK4.1000259/solution.js) | Easy  |
 | LCR024 | 反转链表 | [Go](./src/LCR024.UHnkqh.1000260/solution.go) [Java](./src/LCR024.UHnkqh.1000260/solution.java) [JavaScript](./src/LCR024.UHnkqh.1000260/solution.js) [TypeScript](./src/LCR024.UHnkqh.1000260/solution.ts) | Easy  |
 | LCR025 | 两数相加 II | [TypeScript](./src/LCR025.lMSNwu.1000261/solution.ts) | Medium  |
