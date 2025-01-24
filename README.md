@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 470
+* Java Answer 475
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3722,21 +3722,21 @@
 | LCR024 | 反转链表 | [Go](./src/LCR024.UHnkqh.1000260/solution.go) [Java](./src/LCR024.UHnkqh.1000260/solution.java) [JavaScript](./src/LCR024.UHnkqh.1000260/solution.js) [TypeScript](./src/LCR024.UHnkqh.1000260/solution.ts) | Easy  |
 | LCR025 | 两数相加 II | [TypeScript](./src/LCR025.lMSNwu.1000261/solution.ts) | Medium  |
 | LCR026 | 重排链表 | [TypeScript](./src/LCR026.LGjMqU.1000262/solution.ts) | Medium  |
-| LCR027 | 回文链表 | [JavaScript](./src/LCR027.aMhZSa.1000263/solution.js) [TypeScript](./src/LCR027.aMhZSa.1000263/solution.ts) | Easy  |
+| LCR027 | 回文链表 | [Java](./src/LCR027.aMhZSa.1000263/solution.java) [JavaScript](./src/LCR027.aMhZSa.1000263/solution.js) [TypeScript](./src/LCR027.aMhZSa.1000263/solution.ts) | Easy  |
 | LCR028 | 扁平化多级双向链表 | [TypeScript](./src/LCR028.Qv1Da2.1000264/solution.ts) | Medium  |
 | LCR029 | 循环有序列表的插入 |  | Medium  |
 | LCR030 | O(1) 时间插入、删除和获取随机元素 | [TypeScript](./src/LCR030.FortPu.1000267/solution.ts) | Medium  |
 | LCR031 | LRU 缓存 |  | Medium  |
-| LCR032 | 有效的字母异位词 | [JavaScript](./src/LCR032.dKk3P7.1000273/solution.js) | Easy  |
+| LCR032 | 有效的字母异位词 | [Java](./src/LCR032.dKk3P7.1000273/solution.java) [JavaScript](./src/LCR032.dKk3P7.1000273/solution.js) | Easy  |
 | LCR033 | 字母异位词分组 | [JavaScript](./src/LCR033.sfvd7V.1000275/solution.js) | Medium  |
 | LCR034 | 验证外星语词典 | [JavaScript](./src/LCR034.lwyVBB.1000276/solution.js) | Easy  |
-| LCR035 | 最小时间差 | [JavaScript](./src/LCR035.569nqc.1000278/solution.js) [TypeScript](./src/LCR035.569nqc.1000278/solution.ts) | Medium  |
+| LCR035 | 最小时间差 | [Java](./src/LCR035.569nqc.1000278/solution.java) [JavaScript](./src/LCR035.569nqc.1000278/solution.js) [TypeScript](./src/LCR035.569nqc.1000278/solution.ts) | Medium  |
 | LCR036 | 逆波兰表达式求值 | [JavaScript](./src/LCR036.8Zf90G.1000279/solution.js) | Medium  |
-| LCR037 | 行星碰撞 | [JavaScript](./src/LCR037.XagZNi.1000281/solution.js) | Medium  |
+| LCR037 | 行星碰撞 | [Java](./src/LCR037.XagZNi.1000281/solution.java) [JavaScript](./src/LCR037.XagZNi.1000281/solution.js) | Medium  |
 | LCR038 | 每日温度 | [JavaScript](./src/LCR038.iIQa4I.1000282/solution.js) | Medium  |
 | LCR039 | 柱状图中最大的矩形 | [TypeScript](./src/LCR039.0ynMMM.1000283/solution.ts) | Hard  |
 | LCR040 | 最大矩形 | [TypeScript](./src/LCR040.PLYXKQ.1000284/solution.ts) | Hard  |
-| LCR041 | 数据流中的移动平均值 | [JavaScript](./src/LCR041.qIsx9U.1000292/solution.js) [TypeScript](./src/LCR041.qIsx9U.1000292/solution.ts) | Easy  |
+| LCR041 | 数据流中的移动平均值 | [Java](./src/LCR041.qIsx9U.1000292/solution.java) [JavaScript](./src/LCR041.qIsx9U.1000292/solution.js) [TypeScript](./src/LCR041.qIsx9U.1000292/solution.ts) | Easy  |
 | LCR042 | 最近的请求次数 | [JavaScript](./src/LCR042.H8086Q.1000293/solution.js) [TypeScript](./src/LCR042.H8086Q.1000293/solution.ts) | Easy  |
 | LCR043 | 完全二叉树插入器 | [TypeScript](./src/LCR043.NaqhDT.1000295/solution.ts) | Medium  |
 | LCR044 | 在每个树行中找最大值 | [JavaScript](./src/LCR044.hPov7L.1000297/solution.js) [TypeScript](./src/LCR044.hPov7L.1000297/solution.ts) | Medium  |
