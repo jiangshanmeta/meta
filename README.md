@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 475
+* Java Answer 480
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3737,14 +3737,14 @@
 | LCR039 | 柱状图中最大的矩形 | [TypeScript](./src/LCR039.0ynMMM.1000283/solution.ts) | Hard  |
 | LCR040 | 最大矩形 | [TypeScript](./src/LCR040.PLYXKQ.1000284/solution.ts) | Hard  |
 | LCR041 | 数据流中的移动平均值 | [Java](./src/LCR041.qIsx9U.1000292/solution.java) [JavaScript](./src/LCR041.qIsx9U.1000292/solution.js) [TypeScript](./src/LCR041.qIsx9U.1000292/solution.ts) | Easy  |
-| LCR042 | 最近的请求次数 | [JavaScript](./src/LCR042.H8086Q.1000293/solution.js) [TypeScript](./src/LCR042.H8086Q.1000293/solution.ts) | Easy  |
+| LCR042 | 最近的请求次数 | [Java](./src/LCR042.H8086Q.1000293/solution.java) [JavaScript](./src/LCR042.H8086Q.1000293/solution.js) [TypeScript](./src/LCR042.H8086Q.1000293/solution.ts) | Easy  |
 | LCR043 | 完全二叉树插入器 | [TypeScript](./src/LCR043.NaqhDT.1000295/solution.ts) | Medium  |
-| LCR044 | 在每个树行中找最大值 | [JavaScript](./src/LCR044.hPov7L.1000297/solution.js) [TypeScript](./src/LCR044.hPov7L.1000297/solution.ts) | Medium  |
+| LCR044 | 在每个树行中找最大值 | [Java](./src/LCR044.hPov7L.1000297/solution.java) [JavaScript](./src/LCR044.hPov7L.1000297/solution.js) [TypeScript](./src/LCR044.hPov7L.1000297/solution.ts) | Medium  |
 | LCR045 | 找树左下角的值 | [JavaScript](./src/LCR045.LwUNpT.1000298/solution.js) | Medium  |
-| LCR046 | 二叉树的右视图 | [JavaScript](./src/LCR046.WNC0Lk.1000299/solution.js) | Medium  |
-| LCR047 | 二叉树剪枝 | [JavaScript](./src/LCR047.pOCWxh.1000301/solution.js) | Medium  |
+| LCR046 | 二叉树的右视图 | [Java](./src/LCR046.WNC0Lk.1000299/solution.java) [JavaScript](./src/LCR046.WNC0Lk.1000299/solution.js) | Medium  |
+| LCR047 | 二叉树剪枝 | [Java](./src/LCR047.pOCWxh.1000301/solution.java) [JavaScript](./src/LCR047.pOCWxh.1000301/solution.js) | Medium  |
 | LCR048 | 二叉树的序列化与反序列化 | [TypeScript](./src/LCR048.h54YBf.1000304/solution.ts) | Hard  |
-| LCR049 | 求根节点到叶节点数字之和 | [JavaScript](./src/LCR049.3Etpl5.1000306/solution.js) | Medium  |
+| LCR049 | 求根节点到叶节点数字之和 | [Java](./src/LCR049.3Etpl5.1000306/solution.java) [JavaScript](./src/LCR049.3Etpl5.1000306/solution.js) | Medium  |
 | LCR050 | 路径总和 III | [TypeScript](./src/LCR050.6eUYwP.1000307/solution.ts) | Medium  |
 | LCR051 | 二叉树中的最大路径和 | [TypeScript](./src/LCR051.jC7MId.1000309/solution.ts) | Hard  |
 | LCR052 | 递增顺序搜索树 | [JavaScript](./src/LCR052.NYBBNL.1000311/solution.js) | Easy  |
