@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 480
+* Java Answer 495
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3516,7 +3516,7 @@
 | LCR124 | 推理二叉树 | [JavaScript](./src/LCR124.zhong-jian-er-cha-shu-lcof.100283/solution.js) [TypeScript](./src/LCR124.zhong-jian-er-cha-shu-lcof.100283/solution.ts) | Medium  |
 | LCR125 | 图书整理 II | [JavaScript](./src/LCR125.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.js) [TypeScript](./src/LCR125.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.100273/solution.ts) | Easy  |
 | LCR126 | 斐波那契数 | [Java](./src/LCR126.fei-bo-na-qi-shu-lie-lcof.100274/solution.java) [JavaScript](./src/LCR126.fei-bo-na-qi-shu-lie-lcof.100274/solution.js) [TypeScript](./src/LCR126.fei-bo-na-qi-shu-lie-lcof.100274/solution.ts) | Easy  |
-| LCR127 | 跳跃训练 | [JavaScript](./src/LCR127.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.js) [TypeScript](./src/LCR127.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.ts) | Easy  |
+| LCR127 | 跳跃训练 | [Java](./src/LCR127.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.java) [JavaScript](./src/LCR127.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.js) [TypeScript](./src/LCR127.qing-wa-tiao-tai-jie-wen-ti-lcof.100277/solution.ts) | Easy  |
 | LCR128 | 库存管理 I | [JavaScript](./src/LCR128.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.100278/solution.js) | Easy  |
 | LCR129 | 字母迷宫 | [JavaScript](./src/LCR129.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.js) [TypeScript](./src/LCR129.ju-zhen-zhong-de-lu-jing-lcof.100279/solution.ts) | Medium  |
 | LCR130 | 衣橱整理 | [JavaScript](./src/LCR130.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.js) [TypeScript](./src/LCR130.ji-qi-ren-de-yun-dong-fan-wei-lcof.100281/solution.ts) | Medium  |
@@ -3746,11 +3746,11 @@
 | LCR048 | 二叉树的序列化与反序列化 | [TypeScript](./src/LCR048.h54YBf.1000304/solution.ts) | Hard  |
 | LCR049 | 求根节点到叶节点数字之和 | [Java](./src/LCR049.3Etpl5.1000306/solution.java) [JavaScript](./src/LCR049.3Etpl5.1000306/solution.js) | Medium  |
 | LCR050 | 路径总和 III | [TypeScript](./src/LCR050.6eUYwP.1000307/solution.ts) | Medium  |
-| LCR051 | 二叉树中的最大路径和 | [TypeScript](./src/LCR051.jC7MId.1000309/solution.ts) | Hard  |
+| LCR051 | 二叉树中的最大路径和 | [Java](./src/LCR051.jC7MId.1000309/solution.java) [TypeScript](./src/LCR051.jC7MId.1000309/solution.ts) | Hard  |
 | LCR052 | 递增顺序搜索树 | [JavaScript](./src/LCR052.NYBBNL.1000311/solution.js) | Easy  |
 | LCR053 | 二叉搜索树中的中序后继 | [JavaScript](./src/LCR053.P5rCT8.1000313/solution.js) [TypeScript](./src/LCR053.P5rCT8.1000313/solution.ts) | Medium  |
-| LCR054 | 把二叉搜索树转换为累加树 | [JavaScript](./src/LCR054.w6cpku.1000315/solution.js) | Medium  |
-| LCR055 | 二叉搜索树迭代器 | [JavaScript](./src/LCR055.kTOapQ.1000316/solution.js) [TypeScript](./src/LCR055.kTOapQ.1000316/solution.ts) | Medium  |
+| LCR054 | 把二叉搜索树转换为累加树 | [Java](./src/LCR054.w6cpku.1000315/solution.java) [JavaScript](./src/LCR054.w6cpku.1000315/solution.js) | Medium  |
+| LCR055 | 二叉搜索树迭代器 | [Java](./src/LCR055.kTOapQ.1000316/solution.java) [JavaScript](./src/LCR055.kTOapQ.1000316/solution.js) [TypeScript](./src/LCR055.kTOapQ.1000316/solution.ts) | Medium  |
 | LCR056 | 两数之和 IV - 输入二叉搜索树 | [JavaScript](./src/LCR056.opLdQZ.1000319/solution.js) | Easy  |
 | LCR057 | 存在重复元素 III |  | Medium  |
 | LCR058 | 我的日程安排表 I | [TypeScript](./src/LCR058.fi9suh.1000322/solution.ts) | Medium  |
@@ -3767,23 +3767,23 @@
 | LCR069 | 山脉数组的峰顶索引 | [JavaScript](./src/LCR069.B1IidL.1000333/solution.js) | Easy  |
 | LCR070 | 有序数组中的单一元素 | [JavaScript](./src/LCR070.skFtm2.1000334/solution.js) [TypeScript](./src/LCR070.skFtm2.1000334/solution.ts) | Medium  |
 | LCR071 | 按权重随机选择 | [TypeScript](./src/LCR071.cuyjEf.1000335/solution.ts) | Medium  |
-| LCR072 | x 的平方根 | [JavaScript](./src/LCR072.jJ0w9p.1000336/solution.js) [TypeScript](./src/LCR072.jJ0w9p.1000336/solution.ts) | Easy  |
+| LCR072 | x 的平方根 | [Java](./src/LCR072.jJ0w9p.1000336/solution.java) [JavaScript](./src/LCR072.jJ0w9p.1000336/solution.js) [TypeScript](./src/LCR072.jJ0w9p.1000336/solution.ts) | Easy  |
 | LCR073 | 爱吃香蕉的狒狒 | [JavaScript](./src/LCR073.nZZqjQ.1000337/solution.js) | Medium  |
 | LCR074 | 合并区间 | [TypeScript](./src/LCR074.SsGoHC.1000338/solution.ts) | Medium  |
 | LCR075 | 数组的相对排序 | [JavaScript](./src/LCR075.0H97ZC.1000339/solution.js) [TypeScript](./src/LCR075.0H97ZC.1000339/solution.ts) | Easy  |
 | LCR076 | 数组中的第 K 个最大元素 | [TypeScript](./src/LCR076.xx4gT2.1000340/solution.ts) | Medium  |
 | LCR077 | 排序链表 | [TypeScript](./src/LCR077.7WHec2.1000341/solution.ts) | Medium  |
 | LCR078 | 合并 K 个升序链表 | [TypeScript](./src/LCR078.vvXgSW.1000342/solution.ts) | Hard  |
-| LCR079 | 子集 | [JavaScript](./src/LCR079.TVdhkn.1000343/solution.js) [TypeScript](./src/LCR079.TVdhkn.1000343/solution.ts) | Medium  |
-| LCR080 | 组合 | [JavaScript](./src/LCR080.uUsW3B.1000344/solution.js) [TypeScript](./src/LCR080.uUsW3B.1000344/solution.ts) | Medium  |
+| LCR079 | 子集 | [Java](./src/LCR079.TVdhkn.1000343/solution.java) [JavaScript](./src/LCR079.TVdhkn.1000343/solution.js) [TypeScript](./src/LCR079.TVdhkn.1000343/solution.ts) | Medium  |
+| LCR080 | 组合 | [Java](./src/LCR080.uUsW3B.1000344/solution.java) [JavaScript](./src/LCR080.uUsW3B.1000344/solution.js) [TypeScript](./src/LCR080.uUsW3B.1000344/solution.ts) | Medium  |
 | LCR081 | 组合总和 | [JavaScript](./src/LCR081.Ygoe9J.1000229/solution.js) [TypeScript](./src/LCR081.Ygoe9J.1000229/solution.ts) | Medium  |
 | LCR082 | 组合总和 II | [JavaScript](./src/LCR082.4sjJUc.1000232/solution.js) [TypeScript](./src/LCR082.4sjJUc.1000232/solution.ts) | Medium  |
-| LCR083 | 全排列 | [JavaScript](./src/LCR083.VvJkup.1000234/solution.js) [TypeScript](./src/LCR083.VvJkup.1000234/solution.ts) | Medium  |
-| LCR084 | 全排列 II  | [JavaScript](./src/LCR084.7p8L0Z.1000235/solution.js) [TypeScript](./src/LCR084.7p8L0Z.1000235/solution.ts) | Medium  |
-| LCR085 | 括号生成 | [JavaScript](./src/LCR085.IDBivT.1000238/solution.js) [TypeScript](./src/LCR085.IDBivT.1000238/solution.ts) | Medium  |
+| LCR083 | 全排列 | [Java](./src/LCR083.VvJkup.1000234/solution.java) [JavaScript](./src/LCR083.VvJkup.1000234/solution.js) [TypeScript](./src/LCR083.VvJkup.1000234/solution.ts) | Medium  |
+| LCR084 | 全排列 II  | [Java](./src/LCR084.7p8L0Z.1000235/solution.java) [JavaScript](./src/LCR084.7p8L0Z.1000235/solution.js) [TypeScript](./src/LCR084.7p8L0Z.1000235/solution.ts) | Medium  |
+| LCR085 | 括号生成 | [Java](./src/LCR085.IDBivT.1000238/solution.java) [JavaScript](./src/LCR085.IDBivT.1000238/solution.js) [TypeScript](./src/LCR085.IDBivT.1000238/solution.ts) | Medium  |
 | LCR086 | 分割回文串 | [TypeScript](./src/LCR086.M99OJA.1000240/solution.ts) | Medium  |
 | LCR087 | 复原 IP 地址 | [TypeScript](./src/LCR087.0on3uN.1000241/solution.ts) | Medium  |
-| LCR088 | 使用最小花费爬楼梯 | [JavaScript](./src/LCR088.GzCJIP.1000243/solution.js) [TypeScript](./src/LCR088.GzCJIP.1000243/solution.ts) | Easy  |
+| LCR088 | 使用最小花费爬楼梯 | [Java](./src/LCR088.GzCJIP.1000243/solution.java) [JavaScript](./src/LCR088.GzCJIP.1000243/solution.js) [TypeScript](./src/LCR088.GzCJIP.1000243/solution.ts) | Easy  |
 | LCR089 | 打家劫舍 | [JavaScript](./src/LCR089.Gu0c2T.1000245/solution.js) | Medium  |
 | LCR090 | 打家劫舍 II | [TypeScript](./src/LCR090.PzWKhm.1000266/solution.ts) | Medium  |
 | LCR091 | 粉刷房子 | [TypeScript](./src/LCR091.JEj789.1000268/solution.ts) | Medium  |
@@ -3793,14 +3793,14 @@
 | LCR095 | 最长公共子序列 | [TypeScript](./src/LCR095.qJnOS7.1000274/solution.ts) | Medium  |
 | LCR096 | 交错字符串 | [JavaScript](./src/LCR096.IY6buf.1000277/solution.js) | Medium  |
 | LCR097 | 不同的子序列 | [JavaScript](./src/LCR097.21dk04.1000280/solution.js) | Hard  |
-| LCR098 | 不同路径 | [JavaScript](./src/LCR098.2AoeFn.1000345/solution.js) [TypeScript](./src/LCR098.2AoeFn.1000345/solution.ts) | Medium  |
-| LCR099 | 最小路径和 | [JavaScript](./src/LCR099.0i0mDW.1000285/solution.js) [TypeScript](./src/LCR099.0i0mDW.1000285/solution.ts) | Medium  |
-| LCR100 | 三角形最小路径和 | [JavaScript](./src/LCR100.IlPe0q.1000286/solution.js) [TypeScript](./src/LCR100.IlPe0q.1000286/solution.ts) | Medium  |
+| LCR098 | 不同路径 | [Java](./src/LCR098.2AoeFn.1000345/solution.java) [JavaScript](./src/LCR098.2AoeFn.1000345/solution.js) [TypeScript](./src/LCR098.2AoeFn.1000345/solution.ts) | Medium  |
+| LCR099 | 最小路径和 | [Java](./src/LCR099.0i0mDW.1000285/solution.java) [JavaScript](./src/LCR099.0i0mDW.1000285/solution.js) [TypeScript](./src/LCR099.0i0mDW.1000285/solution.ts) | Medium  |
+| LCR100 | 三角形最小路径和 | [Java](./src/LCR100.IlPe0q.1000286/solution.java) [JavaScript](./src/LCR100.IlPe0q.1000286/solution.js) [TypeScript](./src/LCR100.IlPe0q.1000286/solution.ts) | Medium  |
 | LCR101 | 分割等和子集 | [Java](./src/LCR101.NUPfPr.1000287/solution.java) [JavaScript](./src/LCR101.NUPfPr.1000287/solution.js) [TypeScript](./src/LCR101.NUPfPr.1000287/solution.ts) | Easy  |
 | LCR102 | 目标和 | [TypeScript](./src/LCR102.YaVDxD.1000288/solution.ts) | Medium  |
 | LCR103 | 零钱兑换 | [JavaScript](./src/LCR103.gaM7Ch.1000289/solution.js) [TypeScript](./src/LCR103.gaM7Ch.1000289/solution.ts) | Medium  |
 | LCR104 | 组合总和 Ⅳ | [TypeScript](./src/LCR104.D0F0SV.1000290/solution.ts) | Medium  |
-| LCR105 | 岛屿的最大面积 | [JavaScript](./src/LCR105.ZL6zAn.1000291/solution.js) [TypeScript](./src/LCR105.ZL6zAn.1000291/solution.ts) | Medium  |
+| LCR105 | 岛屿的最大面积 | [Java](./src/LCR105.ZL6zAn.1000291/solution.java) [JavaScript](./src/LCR105.ZL6zAn.1000291/solution.js) [TypeScript](./src/LCR105.ZL6zAn.1000291/solution.ts) | Medium  |
 | LCR106 | 判断二分图 | [JavaScript](./src/LCR106.vEAB3K.1000294/solution.js) [TypeScript](./src/LCR106.vEAB3K.1000294/solution.ts) | Medium  |
 | LCR107 | 01 矩阵 | [JavaScript](./src/LCR107.2bCMpM.1000296/solution.js) [TypeScript](./src/LCR107.2bCMpM.1000296/solution.ts) | Medium  |
 | LCR108 | 单词接龙 | [JavaScript](./src/LCR108.om3reC.1000300/solution.js) | Hard  |
