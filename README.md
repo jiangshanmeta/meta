@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 495
+* Java Answer 500
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3523,20 +3523,20 @@
 | LCR131 | 砍竹子 I | [JavaScript](./src/LCR131.jian-sheng-zi-lcof.100284/solution.js) [TypeScript](./src/LCR131.jian-sheng-zi-lcof.100284/solution.ts) | Medium  |
 | LCR132 | 砍竹子 II | [JavaScript](./src/LCR132.jian-sheng-zi-ii-lcof.100285/solution.js) [TypeScript](./src/LCR132.jian-sheng-zi-ii-lcof.100285/solution.ts) | Medium  |
 | LCR133 | 位 1 的个数 | [Java](./src/LCR133.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.java) [JavaScript](./src/LCR133.er-jin-zhi-zhong-1de-ge-shu-lcof.100292/solution.js) | Easy  |
-| LCR134 | Pow(x, n) | [JavaScript](./src/LCR134.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.js) [TypeScript](./src/LCR134.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.ts) | Medium  |
+| LCR134 | Pow(x, n) | [Java](./src/LCR134.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.java) [JavaScript](./src/LCR134.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.js) [TypeScript](./src/LCR134.shu-zhi-de-zheng-shu-ci-fang-lcof.100295/solution.ts) | Medium  |
 | LCR135 | 报数 | [Java](./src/LCR135.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.java) [JavaScript](./src/LCR135.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.js) [TypeScript](./src/LCR135.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.100296/solution.ts) | Easy  |
 | LCR136 | 删除链表的节点 | [Go](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.go) [Java](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.java) [JavaScript](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.js) [TypeScript](./src/LCR136.shan-chu-lian-biao-de-jie-dian-lcof.100299/solution.ts) | Easy  |
 | LCR137 | 模糊搜索验证 | [JavaScript](./src/LCR137.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.js) [TypeScript](./src/LCR137.zheng-ze-biao-da-shi-pi-pei-lcof.100297/solution.ts) | Hard  |
 | LCR138 | 有效数字 | [TypeScript](./src/LCR138.biao-shi-shu-zhi-de-zi-fu-chuan-lcof.100290/solution.ts) | Medium  |
 | LCR139 | 训练计划 I | [Java](./src/LCR139.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.java) [JavaScript](./src/LCR139.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.js) [TypeScript](./src/LCR139.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.100291/solution.ts) | Easy  |
-| LCR140 | 训练计划 II | [Go](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.go) [JavaScript](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.js) [TypeScript](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.ts) | Easy  |
-| LCR141 | 训练计划 III | [Go](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.go) [JavaScript](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.js) [TypeScript](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.ts) | Easy  |
-| LCR142 | 训练计划 IV | [Go](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.go) [JavaScript](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.js) [TypeScript](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.ts) | Easy  |
+| LCR140 | 训练计划 II | [Go](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.go) [Java](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.java) [JavaScript](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.js) [TypeScript](./src/LCR140.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.100294/solution.ts) | Easy  |
+| LCR141 | 训练计划 III | [Go](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.go) [Java](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.java) [JavaScript](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.js) [TypeScript](./src/LCR141.fan-zhuan-lian-biao-lcof.100298/solution.ts) | Easy  |
+| LCR142 | 训练计划 IV | [Go](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.go) [Java](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.java) [JavaScript](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.js) [TypeScript](./src/LCR142.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.100286/solution.ts) | Easy  |
 | LCR143 | 子结构判断 | [JavaScript](./src/LCR143.shu-de-zi-jie-gou-lcof.100287/solution.js) [TypeScript](./src/LCR143.shu-de-zi-jie-gou-lcof.100287/solution.ts) | Medium  |
 | LCR144 | 翻转二叉树 | [Java](./src/LCR144.er-cha-shu-de-jing-xiang-lcof.100288/solution.java) [JavaScript](./src/LCR144.er-cha-shu-de-jing-xiang-lcof.100288/solution.js) [TypeScript](./src/LCR144.er-cha-shu-de-jing-xiang-lcof.100288/solution.ts) | Easy  |
 | LCR145 | 判断对称二叉树 | [Java](./src/LCR145.dui-cheng-de-er-cha-shu-lcof.100289/solution.java) [JavaScript](./src/LCR145.dui-cheng-de-er-cha-shu-lcof.100289/solution.js) [TypeScript](./src/LCR145.dui-cheng-de-er-cha-shu-lcof.100289/solution.ts) | Easy  |
 | LCR146 | 螺旋遍历二维数组 | [JavaScript](./src/LCR146.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.js) [TypeScript](./src/LCR146.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.ts) | Easy  |
-| LCR147 | 最小栈 | [JavaScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.js) [TypeScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.ts) | Easy  |
+| LCR147 | 最小栈 | [Java](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.java) [JavaScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.js) [TypeScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.ts) | Easy  |
 | LCR148 | 验证图书取出顺序 | [JavaScript](./src/LCR148.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.js) [TypeScript](./src/LCR148.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.ts) | Medium  |
 | LCR149 | 彩灯装饰记录 I | [JavaScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.js) [TypeScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.ts) | Medium  |
 | LCR150 | 彩灯装饰记录 II | [Java](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.java) [JavaScript](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.js) [TypeScript](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.ts) | Easy  |
