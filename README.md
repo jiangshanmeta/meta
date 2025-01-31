@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 500
+* Java Answer 505
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3538,7 +3538,7 @@
 | LCR146 | 螺旋遍历二维数组 | [JavaScript](./src/LCR146.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.js) [TypeScript](./src/LCR146.shun-shi-zhen-da-yin-ju-zhen-lcof.100293/solution.ts) | Easy  |
 | LCR147 | 最小栈 | [Java](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.java) [JavaScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.js) [TypeScript](./src/LCR147.bao-han-minhan-shu-de-zhan-lcof.100302/solution.ts) | Easy  |
 | LCR148 | 验证图书取出顺序 | [JavaScript](./src/LCR148.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.js) [TypeScript](./src/LCR148.zhan-de-ya-ru-dan-chu-xu-lie-lcof.100306/solution.ts) | Medium  |
-| LCR149 | 彩灯装饰记录 I | [JavaScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.js) [TypeScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.ts) | Medium  |
+| LCR149 | 彩灯装饰记录 I | [Java](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.java) [JavaScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.js) [TypeScript](./src/LCR149.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.100311/solution.ts) | Medium  |
 | LCR150 | 彩灯装饰记录 II | [Java](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.java) [JavaScript](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.js) [TypeScript](./src/LCR150.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.100312/solution.ts) | Easy  |
 | LCR151 | 彩灯装饰记录 III | [JavaScript](./src/LCR151.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/solution.js) [TypeScript](./src/LCR151.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.100314/solution.ts) | Medium  |
 | LCR152 | 验证二叉搜索树的后序遍历序列 | [JavaScript](./src/LCR152.er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.100315/solution.js) | Medium  |
@@ -3546,16 +3546,16 @@
 | LCR154 | 随机链表的复制 | [JavaScript](./src/LCR154.fu-za-lian-biao-de-fu-zhi-lcof.100300/solution.js) | Medium  |
 | LCR155 | 将二叉搜索树转化为排序的双向链表 | [JavaScript](./src/LCR155.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.100305/solution.js) | Medium  |
 | LCR156 | 序列化与反序列化二叉树 | [JavaScript](./src/LCR156.xu-lie-hua-er-cha-shu-lcof.100307/solution.js) | Hard  |
-| LCR157 | 套餐内商品的排列顺序 | [JavaScript](./src/LCR157.zi-fu-chuan-de-pai-lie-lcof.100308/solution.js) [TypeScript](./src/LCR157.zi-fu-chuan-de-pai-lie-lcof.100308/solution.ts) | Medium  |
-| LCR158 | 库存管理 II | [JavaScript](./src/LCR158.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.js) [TypeScript](./src/LCR158.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.ts) | Easy  |
-| LCR159 | 库存管理 III | [JavaScript](./src/LCR159.zui-xiao-de-kge-shu-lcof.100301/solution.js) [TypeScript](./src/LCR159.zui-xiao-de-kge-shu-lcof.100301/solution.ts) | Easy  |
+| LCR157 | 套餐内商品的排列顺序 | [Java](./src/LCR157.zi-fu-chuan-de-pai-lie-lcof.100308/solution.java) [JavaScript](./src/LCR157.zi-fu-chuan-de-pai-lie-lcof.100308/solution.js) [TypeScript](./src/LCR157.zi-fu-chuan-de-pai-lie-lcof.100308/solution.ts) | Medium  |
+| LCR158 | 库存管理 II | [Java](./src/LCR158.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.java) [JavaScript](./src/LCR158.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.js) [TypeScript](./src/LCR158.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.100310/solution.ts) | Easy  |
+| LCR159 | 库存管理 III | [Java](./src/LCR159.zui-xiao-de-kge-shu-lcof.100301/solution.java) [JavaScript](./src/LCR159.zui-xiao-de-kge-shu-lcof.100301/solution.js) [TypeScript](./src/LCR159.zui-xiao-de-kge-shu-lcof.100301/solution.ts) | Easy  |
 | LCR160 | 数据流中的中位数 | [JavaScript](./src/LCR160.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/solution.js) [TypeScript](./src/LCR160.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.100303/solution.ts) | Hard  |
 | LCR161 | 连续天数的最高销售额 | [Java](./src/LCR161.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.java) [JavaScript](./src/LCR161.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.js) [TypeScript](./src/LCR161.lian-xu-zi-shu-zu-de-zui-da-he-lcof.100304/solution.ts) | Easy  |
 | LCR162 | 数字 1 的个数 | [JavaScript](./src/LCR162.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.100309/solution.js) | Hard  |
 | LCR163 | 找到第 k 位数字 | [JavaScript](./src/LCR163.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.100313/solution.js) | Medium  |
 | LCR164 | 破解闯关密码 | [JavaScript](./src/LCR164.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.js) [TypeScript](./src/LCR164.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.100323/solution.ts) | Medium  |
 | LCR165 | 解密数字 | [JavaScript](./src/LCR165.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.js) [TypeScript](./src/LCR165.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.100325/solution.ts) | Medium  |
-| LCR166 | 珠宝的最高价值 | [JavaScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
+| LCR166 | 珠宝的最高价值 | [Java](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.java) [JavaScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | LCR167 | 招式拆解 I | [JavaScript](./src/LCR167.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
 | LCR168 | 丑数 | [JavaScript](./src/LCR168.chou-shu-lcof.100334/solution.js) | Medium  |
 | LCR169 | 招式拆解 II | [JavaScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.js) [TypeScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.ts) | Easy  |
