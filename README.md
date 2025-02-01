@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 505
+* Java Answer 510
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3558,9 +3558,9 @@
 | LCR166 | 珠宝的最高价值 | [Java](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.java) [JavaScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.js) [TypeScript](./src/LCR166.li-wu-de-zui-da-jie-zhi-lcof.100327/solution.ts) | Medium  |
 | LCR167 | 招式拆解 I | [JavaScript](./src/LCR167.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.100332/solution.js) | Medium  |
 | LCR168 | 丑数 | [JavaScript](./src/LCR168.chou-shu-lcof.100334/solution.js) | Medium  |
-| LCR169 | 招式拆解 II | [JavaScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.js) [TypeScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.ts) | Easy  |
+| LCR169 | 招式拆解 II | [Java](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.java) [JavaScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.js) [TypeScript](./src/LCR169.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.100316/solution.ts) | Easy  |
 | LCR170 | 交易逆序对的总数 | [JavaScript](./src/LCR170.shu-zu-zhong-de-ni-xu-dui-lcof.100318/solution.js) | Hard  |
-| LCR171 | 训练计划 V | [JavaScript](./src/LCR171.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.js) | Easy  |
+| LCR171 | 训练计划 V | [Java](./src/LCR171.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.java) [JavaScript](./src/LCR171.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.js) | Easy  |
 | LCR172 | 统计目标成绩的出现次数 | [Java](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.java) [JavaScript](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.js) [TypeScript](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.ts) | Easy  |
 | LCR173 | 点名 | [Java](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.java) [JavaScript](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.js) [TypeScript](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.ts) | Easy  |
 | LCR174 | 寻找二叉搜索树中的目标节点 | [JavaScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.js) [TypeScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.ts) | Easy  |
@@ -3573,14 +3573,14 @@
 | LCR181 | 字符串中的单词反转 | [Java](./src/LCR181.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.java) [JavaScript](./src/LCR181.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.js) [TypeScript](./src/LCR181.fan-zhuan-dan-ci-shun-xu-lcof.100328/solution.ts) | Easy  |
 | LCR182 | 动态口令 | [Java](./src/LCR182.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.java) [JavaScript](./src/LCR182.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.js) [TypeScript](./src/LCR182.zuo-xuan-zhuan-zi-fu-chuan-lcof.100330/solution.ts) | Easy  |
 | LCR183 | 望远镜中最高的海拔 | [JavaScript](./src/LCR183.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.js) [TypeScript](./src/LCR183.hua-dong-chuang-kou-de-zui-da-zhi-lcof.100336/solution.ts) | Hard  |
-| LCR184 | 设计自助结算系统 | [JavaScript](./src/LCR184.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/LCR184.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
+| LCR184 | 设计自助结算系统 | [Java](./src/LCR184.dui-lie-de-zui-da-zhi-lcof.100337/solution.java) [JavaScript](./src/LCR184.dui-lie-de-zui-da-zhi-lcof.100337/solution.js) [TypeScript](./src/LCR184.dui-lie-de-zui-da-zhi-lcof.100337/solution.ts) | Medium  |
 | LCR185 | 统计结果概率 | [JavaScript](./src/LCR185.nge-tou-zi-de-dian-shu-lcof.100339/solution.js) | Medium  |
 | LCR186 | 文物朝代判断 | [Java](./src/LCR186.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.java) [JavaScript](./src/LCR186.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.js) [TypeScript](./src/LCR186.bu-ke-pai-zhong-de-shun-zi-lcof.100341/solution.ts) | Easy  |
 | LCR187 | 破冰游戏 |  | Easy  |
-| LCR188 | 买卖芯片的最佳时机 | [JavaScript](./src/LCR188.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/LCR188.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
+| LCR188 | 买卖芯片的最佳时机 | [Java](./src/LCR188.gu-piao-de-zui-da-li-run-lcof.100344/solution.java) [JavaScript](./src/LCR188.gu-piao-de-zui-da-li-run-lcof.100344/solution.js) [TypeScript](./src/LCR188.gu-piao-de-zui-da-li-run-lcof.100344/solution.ts) | Medium  |
 | LCR189 | 设计机械累加器 | [JavaScript](./src/LCR189.qiu-12n-lcof.100345/solution.js) [TypeScript](./src/LCR189.qiu-12n-lcof.100345/solution.ts) | Medium  |
 | LCR190 | 加密运算 | [JavaScript](./src/LCR190.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.js) [TypeScript](./src/LCR190.bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.100335/solution.ts) | Easy  |
-| LCR191 | 按规则计算统计结果 | [JavaScript](./src/LCR191.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.js) [TypeScript](./src/LCR191.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.ts) | Medium  |
+| LCR191 | 按规则计算统计结果 | [Java](./src/LCR191.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.java) [JavaScript](./src/LCR191.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.js) [TypeScript](./src/LCR191.gou-jian-cheng-ji-shu-zu-lcof.100338/solution.ts) | Medium  |
 | LCR192 | 把字符串转换成整数 (atoi) | [JavaScript](./src/LCR192.ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.100340/solution.js) | Medium  |
 | LCR193 | 求二叉搜索树的最近公共祖先 | [Java](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.java) [JavaScript](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.js) [Python3](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.py) [TypeScript](./src/LCR193.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.100346/solution.ts) | Easy  |
 | LCR194 | 寻找二叉树的最近公共祖先 | [Java](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.java) [JavaScript](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.js) [Python3](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.py) [TypeScript](./src/LCR194.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.100347/solution.ts) | Easy  |
