@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 510
+* Java Answer 515
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3587,15 +3587,15 @@
 | 面试题01_01 | Is Unique LCCI | [Java](./src/面试题01_01.is-unique-lcci.100158/solution.java) [JavaScript](./src/面试题01_01.is-unique-lcci.100158/solution.js) [TypeScript](./src/面试题01_01.is-unique-lcci.100158/solution.ts) | Easy  |
 | 面试题01_02 | Check Permutation LCCI | [Java](./src/面试题01_02.check-permutation-lcci.100159/solution.java) [JavaScript](./src/面试题01_02.check-permutation-lcci.100159/solution.js) [TypeScript](./src/面试题01_02.check-permutation-lcci.100159/solution.ts) | Easy  |
 | 面试题01_03 | String to URL LCCI | [Java](./src/面试题01_03.string-to-url-lcci.100160/solution.java) [JavaScript](./src/面试题01_03.string-to-url-lcci.100160/solution.js) [TypeScript](./src/面试题01_03.string-to-url-lcci.100160/solution.ts) | Easy  |
-| 面试题01_04 | Palindrome Permutation LCCI | [JavaScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.js) [TypeScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.ts) | Easy  |
+| 面试题01_04 | Palindrome Permutation LCCI | [Java](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.java) [JavaScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.js) [TypeScript](./src/面试题01_04.palindrome-permutation-lcci.100184/solution.ts) | Easy  |
 | 面试题01_05 | One Away LCCI | [JavaScript](./src/面试题01_05.one-away-lcci.1000006/solution.js) [TypeScript](./src/面试题01_05.one-away-lcci.1000006/solution.ts) | Medium  |
 | 面试题01_06 | Compress String LCCI | [Java](./src/面试题01_06.compress-string-lcci.100161/solution.java) [JavaScript](./src/面试题01_06.compress-string-lcci.100161/solution.js) [TypeScript](./src/面试题01_06.compress-string-lcci.100161/solution.ts) | Easy  |
 | 面试题01_07 | Rotate Matrix LCCI | [JavaScript](./src/面试题01_07.rotate-matrix-lcci.100185/solution.js) [TypeScript](./src/面试题01_07.rotate-matrix-lcci.100185/solution.ts) | Medium  |
 | 面试题01_08 | Zero Matrix LCCI | [JavaScript](./src/面试题01_08.zero-matrix-lcci.100186/solution.js) [TypeScript](./src/面试题01_08.zero-matrix-lcci.100186/solution.ts) | Medium  |
 | 面试题01_09 | String Rotation LCCI | [JavaScript](./src/面试题01_09.string-rotation-lcci.100162/solution.js) [TypeScript](./src/面试题01_09.string-rotation-lcci.100162/solution.ts) | Easy  |
 | 面试题02_01 | Remove Duplicate Node LCCI | [JavaScript](./src/面试题02_01.remove-duplicate-node-lcci.100163/solution.js) [TypeScript](./src/面试题02_01.remove-duplicate-node-lcci.100163/solution.ts) | Easy  |
-| 面试题02_02 | Kth Node From End of List LCCI | [JavaScript](./src/面试题02_02.kth-node-from-end-of-list-lcci.1000007/solution.js) [TypeScript](./src/面试题02_02.kth-node-from-end-of-list-lcci.1000007/solution.ts) | Easy  |
-| 面试题02_03 | Delete Middle Node LCCI | [JavaScript](./src/面试题02_03.delete-middle-node-lcci.100187/solution.js) | Easy  |
+| 面试题02_02 | Kth Node From End of List LCCI | [Java](./src/面试题02_02.kth-node-from-end-of-list-lcci.1000007/solution.java) [JavaScript](./src/面试题02_02.kth-node-from-end-of-list-lcci.1000007/solution.js) [TypeScript](./src/面试题02_02.kth-node-from-end-of-list-lcci.1000007/solution.ts) | Easy  |
+| 面试题02_03 | Delete Middle Node LCCI | [Java](./src/面试题02_03.delete-middle-node-lcci.100187/solution.java) [JavaScript](./src/面试题02_03.delete-middle-node-lcci.100187/solution.js) | Easy  |
 | 面试题02_04 | Partition List LCCI | [JavaScript](./src/面试题02_04.partition-list-lcci.1000008/solution.js) | Medium  |
 | 面试题02_05 | Sum Lists LCCI | [JavaScript](./src/面试题02_05.sum-lists-lcci.100188/solution.js) [TypeScript](./src/面试题02_05.sum-lists-lcci.100188/solution.ts) | Medium  |
 | 面试题02_06 | Palindrome Linked List LCCI | [JavaScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.js) [TypeScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.ts) | Easy  |
@@ -3693,8 +3693,8 @@
 | 面试题17_24 | Max Submatrix LCCI |  | Hard  |
 | 面试题17_25 | Word Rectangle LCCI |  | Hard  |
 | 面试题17_26 | Sparse Similarity LCCI |  | Hard  |
-| LCS01 | 下载插件 | [TypeScript](./src/LCS01.Ju9Xwi.1000225/solution.ts) | Easy  |
-| LCS02 | 完成一半题目 | [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
+| LCS01 | 下载插件 | [Java](./src/LCS01.Ju9Xwi.1000225/solution.java) [TypeScript](./src/LCS01.Ju9Xwi.1000225/solution.ts) | Easy  |
+| LCS02 | 完成一半题目 | [Java](./src/LCS02.WqXACV.1000226/solution.java) [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
 | LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
 | LCR001 | 两数相除 | [TypeScript](./src/LCR001.xoh6Oh.1000228/solution.ts) | Easy  |
 | LCR002 | 二进制求和 | [JavaScript](./src/LCR002.JFETK5.1000231/solution.js) | Easy  |
