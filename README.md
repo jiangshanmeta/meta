@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 515
+* Java Answer 525
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3598,9 +3598,9 @@
 | 面试题02_03 | Delete Middle Node LCCI | [Java](./src/面试题02_03.delete-middle-node-lcci.100187/solution.java) [JavaScript](./src/面试题02_03.delete-middle-node-lcci.100187/solution.js) | Easy  |
 | 面试题02_04 | Partition List LCCI | [JavaScript](./src/面试题02_04.partition-list-lcci.1000008/solution.js) | Medium  |
 | 面试题02_05 | Sum Lists LCCI | [JavaScript](./src/面试题02_05.sum-lists-lcci.100188/solution.js) [TypeScript](./src/面试题02_05.sum-lists-lcci.100188/solution.ts) | Medium  |
-| 面试题02_06 | Palindrome Linked List LCCI | [JavaScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.js) [TypeScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.ts) | Easy  |
+| 面试题02_06 | Palindrome Linked List LCCI | [Java](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.java) [JavaScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.js) [TypeScript](./src/面试题02_06.palindrome-linked-list-lcci.100164/solution.ts) | Easy  |
 | 面试题02_07 | Intersection of Two Linked Lists LCCI | [JavaScript](./src/面试题02_07.intersection-of-two-linked-lists-lcci.100167/solution.js) | Easy  |
-| 面试题02_08 | Linked List Cycle LCCI | [JavaScript](./src/面试题02_08.linked-list-cycle-lcci.100168/solution.js) | Medium  |
+| 面试题02_08 | Linked List Cycle LCCI | [Java](./src/面试题02_08.linked-list-cycle-lcci.100168/solution.java) [JavaScript](./src/面试题02_08.linked-list-cycle-lcci.100168/solution.js) | Medium  |
 | 面试题03_01 | Three in One LCCI | [JavaScript](./src/面试题03_01.three-in-one-lcci.100172/solution.js) [TypeScript](./src/面试题03_01.three-in-one-lcci.100172/solution.ts) | Easy  |
 | 面试题03_02 | Min Stack LCCI | [JavaScript](./src/面试题03_02.min-stack-lcci.100169/solution.js) [TypeScript](./src/面试题03_02.min-stack-lcci.100169/solution.ts) | Easy  |
 | 面试题03_03 | Stack of Plates LCCI | [JavaScript](./src/面试题03_03.stack-of-plates-lcci.100195/solution.js) [TypeScript](./src/面试题03_03.stack-of-plates-lcci.100195/solution.ts) | Medium  |
@@ -3613,7 +3613,7 @@
 | 面试题04_04 | Check Balance LCCI | [Java](./src/面试题04_04.check-balance-lcci.100176/solution.java) [JavaScript](./src/面试题04_04.check-balance-lcci.100176/solution.js) [TypeScript](./src/面试题04_04.check-balance-lcci.100176/solution.ts) | Easy  |
 | 面试题04_05 | Legal Binary Search Tree LCCI | [JavaScript](./src/面试题04_05.legal-binary-search-tree-lcci.100177/solution.js) [TypeScript](./src/面试题04_05.legal-binary-search-tree-lcci.100177/solution.ts) | Medium  |
 | 面试题04_06 | Successor LCCI | [JavaScript](./src/面试题04_06.successor-lcci.100178/solution.js) | Medium  |
-| 面试题04_08 | First Common Ancestor LCCI | [JavaScript](./src/面试题04_08.first-common-ancestor-lcci.100179/solution.js) | Medium  |
+| 面试题04_08 | First Common Ancestor LCCI | [Java](./src/面试题04_08.first-common-ancestor-lcci.100179/solution.java) [JavaScript](./src/面试题04_08.first-common-ancestor-lcci.100179/solution.js) | Medium  |
 | 面试题04_09 | BST Sequences LCCI | [JavaScript](./src/面试题04_09.bst-sequences-lcci.1000010/solution.js) [TypeScript](./src/面试题04_09.bst-sequences-lcci.1000010/solution.ts) | Hard  |
 | 面试题04_10 | Check SubTree LCCI | [JavaScript](./src/面试题04_10.check-subtree-lcci.100229/solution.js) [TypeScript](./src/面试题04_10.check-subtree-lcci.100229/solution.ts) | Medium  |
 | 面试题04_12 | Paths with Sum LCCI | [JavaScript](./src/面试题04_12.paths-with-sum-lcci.1000009/solution.js) [TypeScript](./src/面试题04_12.paths-with-sum-lcci.1000009/solution.ts) | Medium  |
@@ -3627,13 +3627,13 @@
 | 面试题08_01 | Three Steps Problem LCCI | [Java](./src/面试题08_01.three-steps-problem-lcci.100197/solution.java) [JavaScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.js) [TypeScript](./src/面试题08_01.three-steps-problem-lcci.100197/solution.ts) | Easy  |
 | 面试题08_02 | Robot in a Grid LCCI | [JavaScript](./src/面试题08_02.robot-in-a-grid-lcci.1000011/solution.js) [TypeScript](./src/面试题08_02.robot-in-a-grid-lcci.1000011/solution.ts) | Medium  |
 | 面试题08_03 | Magic Index LCCI | [JavaScript](./src/面试题08_03.magic-index-lcci.100240/solution.js) [TypeScript](./src/面试题08_03.magic-index-lcci.100240/solution.ts) | Easy  |
-| 面试题08_04 | Power Set LCCI | [JavaScript](./src/面试题08_04.power-set-lcci.100198/solution.js) [TypeScript](./src/面试题08_04.power-set-lcci.100198/solution.ts) | Medium  |
+| 面试题08_04 | Power Set LCCI | [Java](./src/面试题08_04.power-set-lcci.100198/solution.java) [JavaScript](./src/面试题08_04.power-set-lcci.100198/solution.js) [TypeScript](./src/面试题08_04.power-set-lcci.100198/solution.ts) | Medium  |
 | 面试题08_05 | Recursive Mulitply LCCI | [JavaScript](./src/面试题08_05.recursive-mulitply-lcci.100199/solution.js) | Medium  |
 | 面试题08_06 | Hanota LCCI | [JavaScript](./src/面试题08_06.hanota-lcci.1000015/solution.js) [TypeScript](./src/面试题08_06.hanota-lcci.1000015/solution.ts) | Easy  |
-| 面试题08_07 | Permutation I LCCI | [JavaScript](./src/面试题08_07.permutation-i-lcci.100241/solution.js) [TypeScript](./src/面试题08_07.permutation-i-lcci.100241/solution.ts) | Medium  |
-| 面试题08_08 | Permutation II LCCI | [JavaScript](./src/面试题08_08.permutation-ii-lcci.100348/solution.js) [TypeScript](./src/面试题08_08.permutation-ii-lcci.100348/solution.ts) | Medium  |
+| 面试题08_07 | Permutation I LCCI | [Java](./src/面试题08_07.permutation-i-lcci.100241/solution.java) [JavaScript](./src/面试题08_07.permutation-i-lcci.100241/solution.js) [TypeScript](./src/面试题08_07.permutation-i-lcci.100241/solution.ts) | Medium  |
+| 面试题08_08 | Permutation II LCCI | [Java](./src/面试题08_08.permutation-ii-lcci.100348/solution.java) [JavaScript](./src/面试题08_08.permutation-ii-lcci.100348/solution.js) [TypeScript](./src/面试题08_08.permutation-ii-lcci.100348/solution.ts) | Medium  |
 | 面试题08_09 | Bracket LCCI | [JavaScript](./src/面试题08_09.bracket-lcci.100200/solution.js) [TypeScript](./src/面试题08_09.bracket-lcci.100200/solution.ts) | Medium  |
-| 面试题08_10 | Color Fill LCCI | [JavaScript](./src/面试题08_10.color-fill-lcci.100201/solution.js) [TypeScript](./src/面试题08_10.color-fill-lcci.100201/solution.ts) | Easy  |
+| 面试题08_10 | Color Fill LCCI | [Java](./src/面试题08_10.color-fill-lcci.100201/solution.java) [JavaScript](./src/面试题08_10.color-fill-lcci.100201/solution.js) [TypeScript](./src/面试题08_10.color-fill-lcci.100201/solution.ts) | Easy  |
 | 面试题08_11 | Coin LCCI | [JavaScript](./src/面试题08_11.coin-lcci.100231/solution.js) [TypeScript](./src/面试题08_11.coin-lcci.100231/solution.ts) | Medium  |
 | 面试题08_12 | Eight Queens LCCI |  | Hard  |
 | 面试题08_13 | Pile Box LCCI | [TypeScript](./src/面试题08_13.pile-box-lcci.100202/solution.ts) | Hard  |
@@ -3645,7 +3645,7 @@
 | 面试题10_09 | Sorted Matrix Search LCCI | [JavaScript](./src/面试题10_09.sorted-matrix-search-lcci.1000016/solution.js) | Medium  |
 | 面试题10_10 | Rank from Stream LCCI | [JavaScript](./src/面试题10_10.rank-from-stream-lcci.1000041/solution.js) [TypeScript](./src/面试题10_10.rank-from-stream-lcci.1000041/solution.ts) | Medium  |
 | 面试题10_11 | Peaks and Valleys LCCI | [JavaScript](./src/面试题10_11.peaks-and-valleys-lcci.1000013/solution.js) | Medium  |
-| 面试题16_01 | Swap Numbers LCCI | [JavaScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.js) [TypeScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.ts) | Medium  |
+| 面试题16_01 | Swap Numbers LCCI | [Java](./src/面试题16_01.swap-numbers-lcci.100258/solution.java) [JavaScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.js) [TypeScript](./src/面试题16_01.swap-numbers-lcci.100258/solution.ts) | Medium  |
 | 面试题16_02 | Words Frequency LCCI | [Java](./src/面试题16_02.words-frequency-lcci.100259/solution.java) [JavaScript](./src/面试题16_02.words-frequency-lcci.100259/solution.js) [TypeScript](./src/面试题16_02.words-frequency-lcci.100259/solution.ts) | Medium  |
 | 面试题16_03 | Intersection LCCI |  | Hard  |
 | 面试题16_04 | Tic-Tac-Toe LCCI | [JavaScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.js) [TypeScript](./src/面试题16_04.tic-tac-toe-lcci.100261/solution.ts) | Medium  |
@@ -3670,13 +3670,13 @@
 | 面试题16_25 | LRU Cache LCCI | [JavaScript](./src/面试题16_25.lru-cache-lcci.1000026/solution.js) | Medium  |
 | 面试题16_26 | Calculator LCCI | [TypeScript](./src/面试题16_26.calculator-lcci.1000027/solution.ts) | Medium  |
 | 面试题17_01 | Add Without Plus LCCI | [JavaScript](./src/面试题17_01.add-without-plus-lcci.1000025/solution.js) [TypeScript](./src/面试题17_01.add-without-plus-lcci.1000025/solution.ts) | Easy  |
-| 面试题17_04 | Missing Number LCCI | [JavaScript](./src/面试题17_04.missing-number-lcci.1000032/solution.js) [TypeScript](./src/面试题17_04.missing-number-lcci.1000032/solution.ts) | Easy  |
+| 面试题17_04 | Missing Number LCCI | [Java](./src/面试题17_04.missing-number-lcci.1000032/solution.java) [JavaScript](./src/面试题17_04.missing-number-lcci.1000032/solution.js) [TypeScript](./src/面试题17_04.missing-number-lcci.1000032/solution.ts) | Easy  |
 | 面试题17_05 | Find Longest Subarray LCCI | [JavaScript](./src/面试题17_05.find-longest-subarray-lcci.1000033/solution.js) | Medium  |
 | 面试题17_06 | Number Of 2s In Range LCCI |  | Hard  |
 | 面试题17_07 | Baby Names LCCI | [JavaScript](./src/面试题17_07.baby-names-lcci.1000035/solution.js) [TypeScript](./src/面试题17_07.baby-names-lcci.1000035/solution.ts) | Medium  |
 | 面试题17_08 | Circus Tower LCCI |  | Medium  |
 | 面试题17_09 | Get Kth Magic Number LCCI | [JavaScript](./src/面试题17_09.get-kth-magic-number-lcci.1000037/solution.js) [TypeScript](./src/面试题17_09.get-kth-magic-number-lcci.1000037/solution.ts) | Medium  |
-| 面试题17_10 | Find Majority Element LCCI | [JavaScript](./src/面试题17_10.find-majority-element-lcci.1000038/solution.js) [TypeScript](./src/面试题17_10.find-majority-element-lcci.1000038/solution.ts) | Easy  |
+| 面试题17_10 | Find Majority Element LCCI | [Java](./src/面试题17_10.find-majority-element-lcci.1000038/solution.java) [JavaScript](./src/面试题17_10.find-majority-element-lcci.1000038/solution.js) [TypeScript](./src/面试题17_10.find-majority-element-lcci.1000038/solution.ts) | Easy  |
 | 面试题17_11 | Find Closest LCCI | [JavaScript](./src/面试题17_11.find-closest-lcci.1000039/solution.js) [TypeScript](./src/面试题17_11.find-closest-lcci.1000039/solution.ts) | Medium  |
 | 面试题17_12 | BiNode LCCI | [JavaScript](./src/面试题17_12.binode-lcci.1000019/solution.js) [TypeScript](./src/面试题17_12.binode-lcci.1000019/solution.ts) | Easy  |
 | 面试题17_13 | Re-Space LCCI |  | Medium  |
