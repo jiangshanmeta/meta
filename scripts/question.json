@@ -23842,6 +23842,181 @@
         "difficulty": 3
     },
     {
+        "id": 3684,
+        "index": "3407",
+        "title": "Substring Matching Pattern",
+        "title_slug": "substring-matching-pattern",
+        "difficulty": 1
+    },
+    {
+        "id": 3678,
+        "index": "3408",
+        "title": "Design Task Manager",
+        "title_slug": "design-task-manager",
+        "difficulty": 2
+    },
+    {
+        "id": 3716,
+        "index": "3409",
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "title_slug": "longest-subsequence-with-decreasing-adjacent-difference",
+        "difficulty": 2
+    },
+    {
+        "id": 3688,
+        "index": "3410",
+        "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+        "title_slug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+        "difficulty": 3
+    },
+    {
+        "id": 3702,
+        "index": "3411",
+        "title": "Maximum Subarray With Equal Products",
+        "title_slug": "maximum-subarray-with-equal-products",
+        "difficulty": 1
+    },
+    {
+        "id": 3634,
+        "index": "3412",
+        "title": "Find Mirror Score of a String",
+        "title_slug": "find-mirror-score-of-a-string",
+        "difficulty": 2
+    },
+    {
+        "id": 3715,
+        "index": "3413",
+        "title": "Maximum Coins From K Consecutive Bags",
+        "title_slug": "maximum-coins-from-k-consecutive-bags",
+        "difficulty": 2
+    },
+    {
+        "id": 3562,
+        "index": "3414",
+        "title": "Maximum Score of Non-overlapping Intervals",
+        "title_slug": "maximum-score-of-non-overlapping-intervals",
+        "difficulty": 3
+    },
+    {
+        "id": 3757,
+        "index": "3415",
+        "title": "Find Products with Three Consecutive Digits ",
+        "title_slug": "find-products-with-three-consecutive-digits",
+        "difficulty": 1
+    },
+    {
+        "id": 3756,
+        "index": "3416",
+        "title": "Subsequences with a Unique Middle Mode II",
+        "title_slug": "subsequences-with-a-unique-middle-mode-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3708,
+        "index": "3417",
+        "title": "Zigzag Grid Traversal With Skip",
+        "title_slug": "zigzag-grid-traversal-with-skip",
+        "difficulty": 1
+    },
+    {
+        "id": 3677,
+        "index": "3418",
+        "title": "Maximum Amount of Money Robot Can Earn",
+        "title_slug": "maximum-amount-of-money-robot-can-earn",
+        "difficulty": 2
+    },
+    {
+        "id": 3720,
+        "index": "3419",
+        "title": "Minimize the Maximum Edge Weight of Graph",
+        "title_slug": "minimize-the-maximum-edge-weight-of-graph",
+        "difficulty": 2
+    },
+    {
+        "id": 3674,
+        "index": "3420",
+        "title": "Count Non-Decreasing Subarrays After K Operations",
+        "title_slug": "count-non-decreasing-subarrays-after-k-operations",
+        "difficulty": 3
+    },
+    {
+        "id": 3767,
+        "index": "3421",
+        "title": "Find Students Who Improved",
+        "title_slug": "find-students-who-improved",
+        "difficulty": 2
+    },
+    {
+        "id": 3698,
+        "index": "3422",
+        "title": "Minimum Operations to Make Subarray Elements Equal",
+        "title_slug": "minimum-operations-to-make-subarray-elements-equal",
+        "difficulty": 2
+    },
+    {
+        "id": 3747,
+        "index": "3423",
+        "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+        "title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+        "difficulty": 1
+    },
+    {
+        "id": 3712,
+        "index": "3424",
+        "title": "Minimum Cost to Make Arrays Identical",
+        "title_slug": "minimum-cost-to-make-arrays-identical",
+        "difficulty": 2
+    },
+    {
+        "id": 3687,
+        "index": "3425",
+        "title": "Longest Special Path",
+        "title_slug": "longest-special-path",
+        "difficulty": 3
+    },
+    {
+        "id": 3739,
+        "index": "3426",
+        "title": "Manhattan Distances of All Arrangements of Pieces",
+        "title_slug": "manhattan-distances-of-all-arrangements-of-pieces",
+        "difficulty": 3
+    },
+    {
+        "id": 3731,
+        "index": "3427",
+        "title": "Sum of Variable Length Subarrays",
+        "title_slug": "sum-of-variable-length-subarrays",
+        "difficulty": 1
+    },
+    {
+        "id": 3714,
+        "index": "3428",
+        "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+        "title_slug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+        "difficulty": 2
+    },
+    {
+        "id": 3737,
+        "index": "3429",
+        "title": "Paint House IV",
+        "title_slug": "paint-house-iv",
+        "difficulty": 2
+    },
+    {
+        "id": 3725,
+        "index": "3430",
+        "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+        "title_slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+        "difficulty": 3
+    },
+    {
+        "id": 3758,
+        "index": "3431",
+        "title": "Minimum Unlocked Indices to Sort Nums",
+        "title_slug": "minimum-unlocked-indices-to-sort-nums",
+        "difficulty": 2
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
