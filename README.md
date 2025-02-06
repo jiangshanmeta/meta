@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 530
+* Java Answer 535
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -84,7 +84,7 @@
 | 0061 | Rotate List | [Java](./src/0061.rotate-list.61/solution.java) [JavaScript](./src/0061.rotate-list.61/solution.js) [TypeScript](./src/0061.rotate-list.61/solution.ts) | Medium  |
 | 0062 | Unique Paths | [Java](./src/0062.unique-paths.62/solution.java) [JavaScript](./src/0062.unique-paths.62/solution.js) [TypeScript](./src/0062.unique-paths.62/solution.ts) | Medium  |
 | 0063 | Unique Paths II | [Java](./src/0063.unique-paths-ii.63/solution.java) [JavaScript](./src/0063.unique-paths-ii.63/solution.js) [TypeScript](./src/0063.unique-paths-ii.63/solution.ts) | Medium  |
-| 0064 | Minimum Path Sum | [JavaScript](./src/0064.minimum-path-sum.64/solution.js) [TypeScript](./src/0064.minimum-path-sum.64/solution.ts) | Medium  |
+| 0064 | Minimum Path Sum | [Java](./src/0064.minimum-path-sum.64/solution.java) [JavaScript](./src/0064.minimum-path-sum.64/solution.js) [TypeScript](./src/0064.minimum-path-sum.64/solution.ts) | Medium  |
 | 0065 | Valid Number | [JavaScript](./src/0065.valid-number.65/solution.js) | Hard  |
 | 0066 | Plus One | [Java](./src/0066.plus-one.66/solution.java) [JavaScript](./src/0066.plus-one.66/solution.js) [TypeScript](./src/0066.plus-one.66/solution.ts) | Easy  |
 | 0067 | Add Binary | [Java](./src/0067.add-binary.67/solution.java) [JavaScript](./src/0067.add-binary.67/solution.js) [TypeScript](./src/0067.add-binary.67/solution.ts) | Easy  |
@@ -110,7 +110,7 @@
 | 0087 | Scramble String |  | Hard  |
 | 0088 | Merge Sorted Array | [Go](./src/0088.merge-sorted-array.88/solution.go) [Java](./src/0088.merge-sorted-array.88/solution.java) [JavaScript](./src/0088.merge-sorted-array.88/solution.js) [TypeScript](./src/0088.merge-sorted-array.88/solution.ts) | Easy  |
 | 0089 | Gray Code | [JavaScript](./src/0089.gray-code.89/solution.js) | Medium  |
-| 0090 | Subsets II | [JavaScript](./src/0090.subsets-ii.90/solution.js) [TypeScript](./src/0090.subsets-ii.90/solution.ts) | Medium  |
+| 0090 | Subsets II | [Java](./src/0090.subsets-ii.90/solution.java) [JavaScript](./src/0090.subsets-ii.90/solution.js) [TypeScript](./src/0090.subsets-ii.90/solution.ts) | Medium  |
 | 0091 | Decode Ways | [JavaScript](./src/0091.decode-ways.91/solution.js) [TypeScript](./src/0091.decode-ways.91/solution.ts) | Medium  |
 | 0092 | Reverse Linked List II | [JavaScript](./src/0092.reverse-linked-list-ii.92/solution.js) [TypeScript](./src/0092.reverse-linked-list-ii.92/solution.ts) | Medium  |
 | 0093 | Restore IP Addresses | [JavaScript](./src/0093.restore-ip-addresses.93/solution.js) | Medium  |
@@ -312,7 +312,7 @@
 | 0289 | Game of Life | [JavaScript](./src/0289.game-of-life.289/solution.js) | Medium  |
 | 0290 | Word Pattern | [JavaScript](./src/0290.word-pattern.290/solution.js) [TypeScript](./src/0290.word-pattern.290/solution.ts) | Easy  |
 | 0291 | Word Pattern II |  | Medium  |
-| 0292 | Nim Game | [JavaScript](./src/0292.nim-game.292/solution.js) [TypeScript](./src/0292.nim-game.292/solution.ts) | Easy  |
+| 0292 | Nim Game | [Java](./src/0292.nim-game.292/solution.java) [JavaScript](./src/0292.nim-game.292/solution.js) [TypeScript](./src/0292.nim-game.292/solution.ts) | Easy  |
 | 0293 | Flip Game | [JavaScript](./src/0293.flip-game.293/solution.js) [TypeScript](./src/0293.flip-game.293/solution.ts) | Easy  |
 | 0294 | Flip Game II |  | Medium  |
 | 0295 | Find Median from Data Stream | [JavaScript](./src/0295.find-median-from-data-stream.295/solution.js) | Hard  |
@@ -370,7 +370,7 @@
 | 0347 | Top K Frequent Elements | [JavaScript](./src/0347.top-k-frequent-elements.347/solution.js) | Medium  |
 | 0348 | Design Tic-Tac-Toe |  | Medium  |
 | 0349 | Intersection of Two Arrays | [Java](./src/0349.intersection-of-two-arrays.349/solution.java) [JavaScript](./src/0349.intersection-of-two-arrays.349/solution.js) [TypeScript](./src/0349.intersection-of-two-arrays.349/solution.ts) | Easy  |
-| 0350 | Intersection of Two Arrays II | [JavaScript](./src/0350.intersection-of-two-arrays-ii.350/solution.js) [TypeScript](./src/0350.intersection-of-two-arrays-ii.350/solution.ts) | Easy  |
+| 0350 | Intersection of Two Arrays II | [Java](./src/0350.intersection-of-two-arrays-ii.350/solution.java) [JavaScript](./src/0350.intersection-of-two-arrays-ii.350/solution.js) [TypeScript](./src/0350.intersection-of-two-arrays-ii.350/solution.ts) | Easy  |
 | 0351 | Android Unlock Patterns |  | Medium  |
 | 0352 | Data Stream as Disjoint Intervals | [JavaScript](./src/0352.data-stream-as-disjoint-intervals.352/solution.js) | Hard  |
 | 0353 | Design Snake Game |  | Medium  |
@@ -435,7 +435,7 @@
 | 0412 | Fizz Buzz | [Java](./src/0412.fizz-buzz.412/solution.java) [JavaScript](./src/0412.fizz-buzz.412/solution.js) [TypeScript](./src/0412.fizz-buzz.412/solution.ts) | Easy  |
 | 0413 | Arithmetic Slices | [JavaScript](./src/0413.arithmetic-slices.413/solution.js) | Medium  |
 | 0414 | Third Maximum Number | [Java](./src/0414.third-maximum-number.414/solution.java) [JavaScript](./src/0414.third-maximum-number.414/solution.js) [TypeScript](./src/0414.third-maximum-number.414/solution.ts) | Easy  |
-| 0415 | Add Strings | [JavaScript](./src/0415.add-strings.415/solution.js) [TypeScript](./src/0415.add-strings.415/solution.ts) | Easy  |
+| 0415 | Add Strings | [Java](./src/0415.add-strings.415/solution.java) [JavaScript](./src/0415.add-strings.415/solution.js) [TypeScript](./src/0415.add-strings.415/solution.ts) | Easy  |
 | 0416 | Partition Equal Subset Sum | [Java](./src/0416.partition-equal-subset-sum.416/solution.java) [JavaScript](./src/0416.partition-equal-subset-sum.416/solution.js) [TypeScript](./src/0416.partition-equal-subset-sum.416/solution.ts) | Medium  |
 | 0417 | Pacific Atlantic Water Flow | [JavaScript](./src/0417.pacific-atlantic-water-flow.417/solution.js) | Medium  |
 | 0418 | Sentence Screen Fitting |  | Medium  |
