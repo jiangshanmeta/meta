@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 535
+* Java Answer 540
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -481,7 +481,7 @@
 | 0458 | Poor Pigs |  | Hard  |
 | 0459 | Repeated Substring Pattern | [JavaScript](./src/0459.repeated-substring-pattern.459/solution.js) [TypeScript](./src/0459.repeated-substring-pattern.459/solution.ts) | Easy  |
 | 0460 | LFU Cache | [JavaScript](./src/0460.lfu-cache.460/solution.js) | Hard  |
-| 0461 | Hamming Distance | [JavaScript](./src/0461.hamming-distance.461/solution.js) [TypeScript](./src/0461.hamming-distance.461/solution.ts) | Easy  |
+| 0461 | Hamming Distance | [Java](./src/0461.hamming-distance.461/solution.java) [JavaScript](./src/0461.hamming-distance.461/solution.js) [TypeScript](./src/0461.hamming-distance.461/solution.ts) | Easy  |
 | 0462 | Minimum Moves to Equal Array Elements II | [TypeScript](./src/0462.minimum-moves-to-equal-array-elements-ii.462/solution.ts) | Medium  |
 | 0463 | Island Perimeter | [JavaScript](./src/0463.island-perimeter.463/solution.js) [TypeScript](./src/0463.island-perimeter.463/solution.ts) | Easy  |
 | 0464 | Can I Win |  | Medium  |
@@ -527,7 +527,7 @@
 | 0504 | Base 7 | [Java](./src/0504.base-7.504/solution.java) [JavaScript](./src/0504.base-7.504/solution.js) [TypeScript](./src/0504.base-7.504/solution.ts) | Easy  |
 | 0505 | The Maze II |  | Medium  |
 | 0506 | Relative Ranks | [JavaScript](./src/0506.relative-ranks.506/solution.js) [TypeScript](./src/0506.relative-ranks.506/solution.ts) | Easy  |
-| 0507 | Perfect Number | [JavaScript](./src/0507.perfect-number.507/solution.js) [TypeScript](./src/0507.perfect-number.507/solution.ts) | Easy  |
+| 0507 | Perfect Number | [Java](./src/0507.perfect-number.507/solution.java) [JavaScript](./src/0507.perfect-number.507/solution.js) [TypeScript](./src/0507.perfect-number.507/solution.ts) | Easy  |
 | 0508 | Most Frequent Subtree Sum | [JavaScript](./src/0508.most-frequent-subtree-sum.508/solution.js) [TypeScript](./src/0508.most-frequent-subtree-sum.508/solution.ts) | Medium  |
 | 0509 | Fibonacci Number | [Java](./src/0509.fibonacci-number.1013/solution.java) [JavaScript](./src/0509.fibonacci-number.1013/solution.js) [TypeScript](./src/0509.fibonacci-number.1013/solution.ts) | Easy  |
 | 0510 | Inorder Successor in BST II | [JavaScript](./src/0510.inorder-successor-in-bst-ii.509/solution.js) [TypeScript](./src/0510.inorder-successor-in-bst-ii.509/solution.ts) | Medium  |
@@ -557,7 +557,7 @@
 | 0534 | Game Play Analysis III |  | Medium  |
 | 0535 | Encode and Decode TinyURL | [JavaScript](./src/0535.encode-and-decode-tinyurl.535/solution.js) [TypeScript](./src/0535.encode-and-decode-tinyurl.535/solution.ts) | Medium  |
 | 0536 | Construct Binary Tree from String | [JavaScript](./src/0536.construct-binary-tree-from-string.536/solution.js) | Medium  |
-| 0537 | Complex Number Multiplication | [JavaScript](./src/0537.complex-number-multiplication.537/solution.js) [TypeScript](./src/0537.complex-number-multiplication.537/solution.ts) | Medium  |
+| 0537 | Complex Number Multiplication | [Java](./src/0537.complex-number-multiplication.537/solution.java) [JavaScript](./src/0537.complex-number-multiplication.537/solution.js) [TypeScript](./src/0537.complex-number-multiplication.537/solution.ts) | Medium  |
 | 0538 | Convert BST to Greater Tree | [Java](./src/0538.convert-bst-to-greater-tree.538/solution.java) [JavaScript](./src/0538.convert-bst-to-greater-tree.538/solution.js) [TypeScript](./src/0538.convert-bst-to-greater-tree.538/solution.ts) | Medium  |
 | 0539 | Minimum Time Difference | [Java](./src/0539.minimum-time-difference.539/solution.java) [JavaScript](./src/0539.minimum-time-difference.539/solution.js) [TypeScript](./src/0539.minimum-time-difference.539/solution.ts) | Medium  |
 | 0540 | Single Element in a Sorted Array | [JavaScript](./src/0540.single-element-in-a-sorted-array.540/solution.js) [TypeScript](./src/0540.single-element-in-a-sorted-array.540/solution.ts) | Medium  |
@@ -691,7 +691,7 @@
 | 0668 | Kth Smallest Number in Multiplication Table |  | Hard  |
 | 0669 | Trim a Binary Search Tree | [Java](./src/0669.trim-a-binary-search-tree.669/solution.java) [JavaScript](./src/0669.trim-a-binary-search-tree.669/solution.js) [TypeScript](./src/0669.trim-a-binary-search-tree.669/solution.ts) | Medium  |
 | 0670 | Maximum Swap | [JavaScript](./src/0670.maximum-swap.670/solution.js) | Medium  |
-| 0671 | Second Minimum Node In a Binary Tree | [JavaScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.js) [TypeScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.ts) | Easy  |
+| 0671 | Second Minimum Node In a Binary Tree | [Java](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.java) [JavaScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.js) [TypeScript](./src/0671.second-minimum-node-in-a-binary-tree.671/solution.ts) | Easy  |
 | 0672 | Bulb Switcher II |  | Medium  |
 | 0673 | Number of Longest Increasing Subsequence | [JavaScript](./src/0673.number-of-longest-increasing-subsequence.673/solution.js) | Medium  |
 | 0674 | Longest Continuous Increasing Subsequence | [Java](./src/0674.longest-continuous-increasing-subsequence.674/solution.java) [JavaScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.js) [TypeScript](./src/0674.longest-continuous-increasing-subsequence.674/solution.ts) | Easy  |
@@ -839,7 +839,7 @@
 | 0816 | Ambiguous Coordinates | [JavaScript](./src/0816.ambiguous-coordinates.834/solution.js) | Medium  |
 | 0817 | Linked List Components | [JavaScript](./src/0817.linked-list-components.835/solution.js) | Medium  |
 | 0818 | Race Car |  | Hard  |
-| 0819 | Most Common Word | [JavaScript](./src/0819.most-common-word.837/solution.js) [TypeScript](./src/0819.most-common-word.837/solution.ts) | Easy  |
+| 0819 | Most Common Word | [Java](./src/0819.most-common-word.837/solution.java) [JavaScript](./src/0819.most-common-word.837/solution.js) [TypeScript](./src/0819.most-common-word.837/solution.ts) | Easy  |
 | 0820 | Short Encoding of Words | [JavaScript](./src/0820.short-encoding-of-words.839/solution.js) | Medium  |
 | 0821 | Shortest Distance to a Character | [Java](./src/0821.shortest-distance-to-a-character.841/solution.java) [JavaScript](./src/0821.shortest-distance-to-a-character.841/solution.js) [TypeScript](./src/0821.shortest-distance-to-a-character.841/solution.ts) | Easy  |
 | 0822 | Card Flipping Game | [JavaScript](./src/0822.card-flipping-game.842/solution.js) | Medium  |
