@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 540
+* Java Answer 545
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -892,7 +892,7 @@
 | 0869 | Reordered Power of 2 | [JavaScript](./src/0869.reordered-power-of-2.900/solution.js) [TypeScript](./src/0869.reordered-power-of-2.900/solution.ts) | Medium  |
 | 0870 | Advantage Shuffle | [JavaScript](./src/0870.advantage-shuffle.901/solution.js) | Medium  |
 | 0871 | Minimum Number of Refueling Stops |  | Hard  |
-| 0872 | Leaf-Similar Trees | [JavaScript](./src/0872.leaf-similar-trees.904/solution.js) [TypeScript](./src/0872.leaf-similar-trees.904/solution.ts) | Easy  |
+| 0872 | Leaf-Similar Trees | [Java](./src/0872.leaf-similar-trees.904/solution.java) [JavaScript](./src/0872.leaf-similar-trees.904/solution.js) [TypeScript](./src/0872.leaf-similar-trees.904/solution.ts) | Easy  |
 | 0873 | Length of Longest Fibonacci Subsequence | [JavaScript](./src/0873.length-of-longest-fibonacci-subsequence.905/solution.js) | Medium  |
 | 0874 | Walking Robot Simulation | [JavaScript](./src/0874.walking-robot-simulation.906/solution.js) | Medium  |
 | 0875 | Koko Eating Bananas | [Java](./src/0875.koko-eating-bananas.907/solution.java) [JavaScript](./src/0875.koko-eating-bananas.907/solution.js) | Medium  |
@@ -917,7 +917,7 @@
 | 0894 | All Possible Full Binary Trees | [JavaScript](./src/0894.all-possible-full-binary-trees.930/solution.js) | Medium  |
 | 0895 | Maximum Frequency Stack | [JavaScript](./src/0895.maximum-frequency-stack.931/solution.js) [TypeScript](./src/0895.maximum-frequency-stack.931/solution.ts) | Hard  |
 | 0896 | Monotonic Array | [JavaScript](./src/0896.monotonic-array.932/solution.js) [TypeScript](./src/0896.monotonic-array.932/solution.ts) | Easy  |
-| 0897 | Increasing Order Search Tree | [JavaScript](./src/0897.increasing-order-search-tree.933/solution.js) [TypeScript](./src/0897.increasing-order-search-tree.933/solution.ts) | Easy  |
+| 0897 | Increasing Order Search Tree | [Java](./src/0897.increasing-order-search-tree.933/solution.java) [JavaScript](./src/0897.increasing-order-search-tree.933/solution.js) [TypeScript](./src/0897.increasing-order-search-tree.933/solution.ts) | Easy  |
 | 0898 | Bitwise ORs of Subarrays | [TypeScript](./src/0898.bitwise-ors-of-subarrays.934/solution.ts) | Medium  |
 | 0899 | Orderly Queue |  | Hard  |
 | 0900 | RLE Iterator | [JavaScript](./src/0900.rle-iterator.936/solution.js) [TypeScript](./src/0900.rle-iterator.936/solution.ts) | Medium  |
@@ -925,7 +925,7 @@
 | 0902 | Numbers At Most N Given Digit Set |  | Hard  |
 | 0903 | Valid Permutations for DI Sequence |  | Hard  |
 | 0904 | Fruit Into Baskets | [JavaScript](./src/0904.fruit-into-baskets.940/solution.js) [TypeScript](./src/0904.fruit-into-baskets.940/solution.ts) | Medium  |
-| 0905 | Sort Array By Parity | [JavaScript](./src/0905.sort-array-by-parity.941/solution.js) [TypeScript](./src/0905.sort-array-by-parity.941/solution.ts) | Easy  |
+| 0905 | Sort Array By Parity | [Java](./src/0905.sort-array-by-parity.941/solution.java) [JavaScript](./src/0905.sort-array-by-parity.941/solution.js) [TypeScript](./src/0905.sort-array-by-parity.941/solution.ts) | Easy  |
 | 0906 | Super Palindromes | [TypeScript](./src/0906.super-palindromes.942/solution.ts) | Hard  |
 | 0907 | Sum of Subarray Minimums | [JavaScript](./src/0907.sum-of-subarray-minimums.943/solution.js) [TypeScript](./src/0907.sum-of-subarray-minimums.943/solution.ts) | Medium  |
 | 0908 | Smallest Range I | [JavaScript](./src/0908.smallest-range-i.944/solution.js) [TypeScript](./src/0908.smallest-range-i.944/solution.ts) | Easy  |
@@ -1009,7 +1009,7 @@
 | 0986 | Interval List Intersections | [JavaScript](./src/0986.interval-list-intersections.1028/solution.js) | Medium  |
 | 0987 | Vertical Order Traversal of a Binary Tree | [JavaScript](./src/0987.vertical-order-traversal-of-a-binary-tree.1029/solution.js) [TypeScript](./src/0987.vertical-order-traversal-of-a-binary-tree.1029/solution.ts) | Hard  |
 | 0988 | Smallest String Starting From Leaf | [JavaScript](./src/0988.smallest-string-starting-from-leaf.1030/solution.js) [TypeScript](./src/0988.smallest-string-starting-from-leaf.1030/solution.ts) | Medium  |
-| 0989 | Add to Array-Form of Integer | [JavaScript](./src/0989.add-to-array-form-of-integer.1031/solution.js) [TypeScript](./src/0989.add-to-array-form-of-integer.1031/solution.ts) | Easy  |
+| 0989 | Add to Array-Form of Integer | [Java](./src/0989.add-to-array-form-of-integer.1031/solution.java) [JavaScript](./src/0989.add-to-array-form-of-integer.1031/solution.js) [TypeScript](./src/0989.add-to-array-form-of-integer.1031/solution.ts) | Easy  |
 | 0990 | Satisfiability of Equality Equations | [JavaScript](./src/0990.satisfiability-of-equality-equations.1032/solution.js) | Medium  |
 | 0991 | Broken Calculator |  | Medium  |
 | 0992 | Subarrays with K Different Integers | [JavaScript](./src/0992.subarrays-with-k-different-integers.1034/solution.js) | Hard  |
@@ -1017,7 +1017,7 @@
 | 0994 | Rotting Oranges | [JavaScript](./src/0994.rotting-oranges.1036/solution.js) | Medium  |
 | 0995 | Minimum Number of K Consecutive Bit Flips |  | Hard  |
 | 0996 | Number of Squareful Arrays | [TypeScript](./src/0996.number-of-squareful-arrays.1038/solution.ts) | Hard  |
-| 0997 | Find the Town Judge | [JavaScript](./src/0997.find-the-town-judge.1039/solution.js) [TypeScript](./src/0997.find-the-town-judge.1039/solution.ts) | Easy  |
+| 0997 | Find the Town Judge | [Java](./src/0997.find-the-town-judge.1039/solution.java) [JavaScript](./src/0997.find-the-town-judge.1039/solution.js) [TypeScript](./src/0997.find-the-town-judge.1039/solution.ts) | Easy  |
 | 0998 | Maximum Binary Tree II | [JavaScript](./src/0998.maximum-binary-tree-ii.1040/solution.js) [TypeScript](./src/0998.maximum-binary-tree-ii.1040/solution.ts) | Medium  |
 | 0999 | Available Captures for Rook | [JavaScript](./src/0999.available-captures-for-rook.1041/solution.js) | Easy  |
 | 1000 | Minimum Cost to Merge Stones |  | Hard  |
