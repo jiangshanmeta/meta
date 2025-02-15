@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 545
+* Java Answer 550
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1419,7 +1419,7 @@
 | 1396 | Design Underground System | [JavaScript](./src/1396.design-underground-system.1512/solution.js) | Medium  |
 | 1397 | Find All Good Strings |  | Hard  |
 | 1398 | Customers Who Bought Products A and B but Not C |  | Medium  |
-| 1399 | Count Largest Group | [JavaScript](./src/1399.count-largest-group.1500/solution.js) [TypeScript](./src/1399.count-largest-group.1500/solution.ts) | Easy  |
+| 1399 | Count Largest Group | [Java](./src/1399.count-largest-group.1500/solution.java) [JavaScript](./src/1399.count-largest-group.1500/solution.js) [TypeScript](./src/1399.count-largest-group.1500/solution.ts) | Easy  |
 | 1400 | Construct K Palindrome Strings | [JavaScript](./src/1400.construct-k-palindrome-strings.1502/solution.js) | Medium  |
 | 1401 | Circle and Rectangle Overlapping | [JavaScript](./src/1401.circle-and-rectangle-overlapping.1501/solution.js) | Medium  |
 | 1402 | Reducing Dishes | [JavaScript](./src/1402.reducing-dishes.1503/solution.js) | Hard  |
@@ -1456,8 +1456,8 @@
 | 1433 | Check If a String Can Break Another String | [JavaScript](./src/1433.check-if-a-string-can-break-another-string.1530/solution.js) | Medium  |
 | 1434 | Number of Ways to Wear Different Hats to Each Other |  | Hard  |
 | 1435 | Create a Session Bar Chart |  | Easy  |
-| 1436 | Destination City | [JavaScript](./src/1436.destination-city.1547/solution.js) [TypeScript](./src/1436.destination-city.1547/solution.ts) | Easy  |
-| 1437 | Check If All 1's Are at Least Length K Places Away | [JavaScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.js) [TypeScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.ts) | Easy  |
+| 1436 | Destination City | [Java](./src/1436.destination-city.1547/solution.java) [JavaScript](./src/1436.destination-city.1547/solution.js) [TypeScript](./src/1436.destination-city.1547/solution.ts) | Easy  |
+| 1437 | Check If All 1's Are at Least Length K Places Away | [Java](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.java) [JavaScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.js) [TypeScript](./src/1437.check-if-all-1s-are-at-least-length-k-places-away.1548/solution.ts) | Easy  |
 | 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [JavaScript](./src/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.1549/solution.js) | Medium  |
 | 1439 | Find the Kth Smallest Sum of a Matrix With Sorted Rows |  | Hard  |
 | 1440 | Evaluate Boolean Expression |  | Medium  |
@@ -1480,7 +1480,7 @@
 | 1457 | Pseudo-Palindromic Paths in a Binary Tree | [JavaScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.js) [Python3](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.py) [TypeScript](./src/1457.pseudo-palindromic-paths-in-a-binary-tree.1568/solution.ts) | Medium  |
 | 1458 | Max Dot Product of Two Subsequences | [JavaScript](./src/1458.max-dot-product-of-two-subsequences.1569/solution.js) | Hard  |
 | 1459 | Rectangles Area |  | Medium  |
-| 1460 | Make Two Arrays Equal by Reversing Subarrays | [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-subarrays.1556/solution.js) | Easy  |
+| 1460 | Make Two Arrays Equal by Reversing Subarrays | [Java](./src/1460.make-two-arrays-equal-by-reversing-subarrays.1556/solution.java) [JavaScript](./src/1460.make-two-arrays-equal-by-reversing-subarrays.1556/solution.js) | Easy  |
 | 1461 | Check If a String Contains All Binary Codes of Size K | [JavaScript](./src/1461.check-if-a-string-contains-all-binary-codes-of-size-k.1557/solution.js) | Medium  |
 | 1462 | Course Schedule IV | [TypeScript](./src/1462.course-schedule-iv.1558/solution.ts) | Medium  |
 | 1463 | Cherry Pickup II |  | Hard  |
@@ -1495,7 +1495,7 @@
 | 1472 | Design Browser History | [JavaScript](./src/1472.design-browser-history.1582/solution.js) [TypeScript](./src/1472.design-browser-history.1582/solution.ts) | Medium  |
 | 1473 | Paint House III |  | Hard  |
 | 1474 | Delete N Nodes After M Nodes of a Linked List | [JavaScript](./src/1474.delete-n-nodes-after-m-nodes-of-a-linked-list.1618/solution.js) [TypeScript](./src/1474.delete-n-nodes-after-m-nodes-of-a-linked-list.1618/solution.ts) | Easy  |
-| 1475 | Final Prices With a Special Discount in a Shop | [JavaScript](./src/1475.final-prices-with-a-special-discount-in-a-shop.1570/solution.js) [TypeScript](./src/1475.final-prices-with-a-special-discount-in-a-shop.1570/solution.ts) | Easy  |
+| 1475 | Final Prices With a Special Discount in a Shop | [Java](./src/1475.final-prices-with-a-special-discount-in-a-shop.1570/solution.java) [JavaScript](./src/1475.final-prices-with-a-special-discount-in-a-shop.1570/solution.js) [TypeScript](./src/1475.final-prices-with-a-special-discount-in-a-shop.1570/solution.ts) | Easy  |
 | 1476 | Subrectangle Queries | [JavaScript](./src/1476.subrectangle-queries.1572/solution.js) | Medium  |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [JavaScript](./src/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.1573/solution.js) | Medium  |
 | 1478 | Allocate Mailboxes |  | Hard  |
