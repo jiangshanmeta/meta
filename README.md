@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 550
+* Java Answer 555
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1602,7 +1602,7 @@
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable |  | Hard  |
 | 1580 | Put Boxes Into the Warehouse II |  | Medium  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions |  | Easy  |
-| 1582 | Special Positions in a Binary Matrix | [JavaScript](./src/1582.special-positions-in-a-binary-matrix.1704/solution.js) [TypeScript](./src/1582.special-positions-in-a-binary-matrix.1704/solution.ts) | Easy  |
+| 1582 | Special Positions in a Binary Matrix | [Java](./src/1582.special-positions-in-a-binary-matrix.1704/solution.java) [JavaScript](./src/1582.special-positions-in-a-binary-matrix.1704/solution.js) [TypeScript](./src/1582.special-positions-in-a-binary-matrix.1704/solution.ts) | Easy  |
 | 1583 | Count Unhappy Friends |  | Medium  |
 | 1584 | Min Cost to Connect All Points |  | Medium  |
 | 1585 | Check If String Is Transformable With Substring Sort Operations |  | Hard  |
@@ -1709,7 +1709,7 @@
 | 1686 | Stone Game VI |  | Medium  |
 | 1687 | Delivering Boxes from Storage to Ports |  | Hard  |
 | 1688 | Count of Matches in Tournament | [Java](./src/1688.count-of-matches-in-tournament.1806/solution.java) [JavaScript](./src/1688.count-of-matches-in-tournament.1806/solution.js) [TypeScript](./src/1688.count-of-matches-in-tournament.1806/solution.ts) | Easy  |
-| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [JavaScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.js) [TypeScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.ts) | Medium  |
+| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [Java](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.java) [JavaScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.js) [TypeScript](./src/1689.partitioning-into-minimum-number-of-deci-binary-numbers.1807/solution.ts) | Medium  |
 | 1690 | Stone Game VII |  | Medium  |
 | 1691 | Maximum Height by Stacking Cuboids  |  | Hard  |
 | 1692 | Count Ways to Distribute Candies |  | Hard  |
@@ -1789,7 +1789,7 @@
 | 1766 | Tree of Coprimes |  | Hard  |
 | 1767 | Find the Subtasks That Did Not Execute |  | Hard  |
 | 1768 | Merge Strings Alternately | [Java](./src/1768.merge-strings-alternately.1894/solution.java) [JavaScript](./src/1768.merge-strings-alternately.1894/solution.js) [TypeScript](./src/1768.merge-strings-alternately.1894/solution.ts) | Easy  |
-| 1769 | Minimum Number of Operations to Move All Balls to Each Box | [JavaScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.js) [TypeScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.ts) | Medium  |
+| 1769 | Minimum Number of Operations to Move All Balls to Each Box | [Java](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.java) [JavaScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.js) [TypeScript](./src/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.1895/solution.ts) | Medium  |
 | 1770 | Maximum Score from Performing Multiplication Operations |  | Hard  |
 | 1771 | Maximize Palindrome Length From Subsequences |  | Hard  |
 | 1772 | Sort Features by Popularity | [JavaScript](./src/1772.sort-features-by-popularity.1919/solution.js) | Medium  |
@@ -1848,7 +1848,7 @@
 | 1825 | Finding MK Average |  | Hard  |
 | 1826 | Faulty Sensor |  | Easy  |
 | 1827 | Minimum Operations to Make the Array Increasing | [JavaScript](./src/1827.minimum-operations-to-make-the-array-increasing.1938/solution.js) [TypeScript](./src/1827.minimum-operations-to-make-the-array-increasing.1938/solution.ts) | Easy  |
-| 1828 | Queries on Number of Points Inside a Circle | [JavaScript](./src/1828.queries-on-number-of-points-inside-a-circle.1939/solution.js) [TypeScript](./src/1828.queries-on-number-of-points-inside-a-circle.1939/solution.ts) | Medium  |
+| 1828 | Queries on Number of Points Inside a Circle | [Java](./src/1828.queries-on-number-of-points-inside-a-circle.1939/solution.java) [JavaScript](./src/1828.queries-on-number-of-points-inside-a-circle.1939/solution.js) [TypeScript](./src/1828.queries-on-number-of-points-inside-a-circle.1939/solution.ts) | Medium  |
 | 1829 | Maximum XOR for Each Query | [JavaScript](./src/1829.maximum-xor-for-each-query.1940/solution.js) [TypeScript](./src/1829.maximum-xor-for-each-query.1940/solution.ts) | Medium  |
 | 1830 | Minimum Number of Operations to Make String Sorted |  | Hard  |
 | 1831 | Maximum Transaction Each Day |  | Medium  |
@@ -2011,7 +2011,7 @@
 | 1988 | Find Cutoff Score for Each School |  | Medium  |
 | 1989 | Maximum Number of People That Can Be Caught in Tag |  | Medium  |
 | 1990 | Count the Number of Experiments |  | Medium  |
-| 1991 | Find the Middle Index in Array | [JavaScript](./src/1991.find-the-middle-index-in-array.2102/solution.js) [TypeScript](./src/1991.find-the-middle-index-in-array.2102/solution.ts) | Easy  |
+| 1991 | Find the Middle Index in Array | [Java](./src/1991.find-the-middle-index-in-array.2102/solution.java) [JavaScript](./src/1991.find-the-middle-index-in-array.2102/solution.js) [TypeScript](./src/1991.find-the-middle-index-in-array.2102/solution.ts) | Easy  |
 | 1992 | Find All Groups of Farmland | [TypeScript](./src/1992.find-all-groups-of-farmland.2103/solution.ts) | Medium  |
 | 1993 | Operations on Tree |  | Medium  |
 | 1994 | The Number of Good Subsets |  | Hard  |
