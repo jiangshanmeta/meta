@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 555
+* Java Answer 560
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2047,12 +2047,12 @@
 | 2024 | Maximize the Confusion of an Exam |  | Medium  |
 | 2025 | Maximum Number of Ways to Partition an Array |  | Hard  |
 | 2026 | Low-Quality Problems |  | Easy  |
-| 2027 | Minimum Moves to Convert String | [JavaScript](./src/2027.minimum-moves-to-convert-string.2154/solution.js) [TypeScript](./src/2027.minimum-moves-to-convert-string.2154/solution.ts) | Easy  |
+| 2027 | Minimum Moves to Convert String | [Java](./src/2027.minimum-moves-to-convert-string.2154/solution.java) [JavaScript](./src/2027.minimum-moves-to-convert-string.2154/solution.js) [TypeScript](./src/2027.minimum-moves-to-convert-string.2154/solution.ts) | Easy  |
 | 2028 | Find Missing Observations | [TypeScript](./src/2028.find-missing-observations.2155/solution.ts) | Medium  |
 | 2029 | Stone Game IX |  | Medium  |
 | 2030 | Smallest K-Length Subsequence With Occurrences of a Letter | [TypeScript](./src/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.2157/solution.ts) | Hard  |
 | 2031 | Count Subarrays With More Ones Than Zeros |  | Medium  |
-| 2032 | Two Out of Three | [JavaScript](./src/2032.two-out-of-three.2159/solution.js) [TypeScript](./src/2032.two-out-of-three.2159/solution.ts) | Easy  |
+| 2032 | Two Out of Three | [Java](./src/2032.two-out-of-three.2159/solution.java) [JavaScript](./src/2032.two-out-of-three.2159/solution.js) [TypeScript](./src/2032.two-out-of-three.2159/solution.ts) | Easy  |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | [TypeScript](./src/2033.minimum-operations-to-make-a-uni-value-grid.2160/solution.ts) | Medium  |
 | 2034 | Stock Price Fluctuation  | [TypeScript](./src/2034.stock-price-fluctuation.2161/solution.ts) | Medium  |
 | 2035 | Partition Array Into Two Arrays to Minimize Sum Difference |  | Hard  |
@@ -2068,7 +2068,7 @@
 | 2045 | Second Minimum Time to Reach Destination |  | Hard  |
 | 2046 | Sort Linked List Already Sorted Using Absolute Values |  | Medium  |
 | 2047 | Number of Valid Words in a Sentence | [JavaScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.js) [TypeScript](./src/2047.number-of-valid-words-in-a-sentence.2173/solution.ts) | Easy  |
-| 2048 | Next Greater Numerically Balanced Number | [TypeScript](./src/2048.next-greater-numerically-balanced-number.2174/solution.ts) | Medium  |
+| 2048 | Next Greater Numerically Balanced Number | [Java](./src/2048.next-greater-numerically-balanced-number.2174/solution.java) [TypeScript](./src/2048.next-greater-numerically-balanced-number.2174/solution.ts) | Medium  |
 | 2049 | Count Nodes With the Highest Score | [TypeScript](./src/2049.count-nodes-with-the-highest-score.2175/solution.ts) | Medium  |
 | 2050 | Parallel Courses III |  | Hard  |
 | 2051 | The Category of Each Member in the Store |  | Medium  |
@@ -2105,7 +2105,7 @@
 | 2082 | The Number of Rich Customers |  | Easy  |
 | 2083 | Substrings That Begin and End With the Same Letter |  | Medium  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders |  | Medium  |
-| 2085 | Count Common Words With One Occurrence | [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.ts) | Easy  |
+| 2085 | Count Common Words With One Occurrence | [Java](./src/2085.count-common-words-with-one-occurrence.2190/solution.java) [JavaScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.js) [TypeScript](./src/2085.count-common-words-with-one-occurrence.2190/solution.ts) | Easy  |
 | 2086 | Minimum Number of Food Buckets to Feed the Hamsters | [JavaScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.js) [TypeScript](./src/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.2191/solution.ts) | Medium  |
 | 2087 | Minimum Cost Homecoming of a Robot in a Grid |  | Medium  |
 | 2088 | Count Fertile Pyramids in a Land |  | Hard  |
@@ -2153,7 +2153,7 @@
 | 2130 | Maximum Twin Sum of a Linked List | [JavaScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/solution.js) [TypeScript](./src/2130.maximum-twin-sum-of-a-linked-list.2236/solution.ts) | Medium  |
 | 2131 | Longest Palindrome by Concatenating Two Letter Words |  | Medium  |
 | 2132 | Stamping the Grid |  | Hard  |
-| 2133 | Check if Every Row and Column Contains All Numbers | [JavaScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.js) [TypeScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.ts) | Easy  |
+| 2133 | Check if Every Row and Column Contains All Numbers | [Java](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.java) [JavaScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.js) [TypeScript](./src/2133.check-if-every-row-and-column-contains-all-numbers.2254/solution.ts) | Easy  |
 | 2134 | Minimum Swaps to Group All 1's Together II | [TypeScript](./src/2134.minimum-swaps-to-group-all-1s-together-ii.2255/solution.ts) | Medium  |
 | 2135 | Count Words Obtained After Adding a Letter | [TypeScript](./src/2135.count-words-obtained-after-adding-a-letter.2256/solution.ts) | Medium  |
 | 2136 | Earliest Possible Day of Full Bloom |  | Hard  |
