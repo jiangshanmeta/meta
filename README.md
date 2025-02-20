@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 560
+* Java Answer 565
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2201,7 +2201,7 @@
 | 2178 | Maximum Split of Positive Even Integers |  | Medium  |
 | 2179 | Count Good Triplets in an Array |  | Hard  |
 | 2180 | Count Integers With Even Digit Sum | [Java](./src/2180.count-integers-with-even-digit-sum.2298/solution.java) [JavaScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.js) [TypeScript](./src/2180.count-integers-with-even-digit-sum.2298/solution.ts) | Easy  |
-| 2181 | Merge Nodes in Between Zeros | [JavaScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.js) [TypeScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.ts) | Medium  |
+| 2181 | Merge Nodes in Between Zeros | [Java](./src/2181.merge-nodes-in-between-zeros.2299/solution.java) [JavaScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.js) [TypeScript](./src/2181.merge-nodes-in-between-zeros.2299/solution.ts) | Medium  |
 | 2182 | Construct String With Repeat Limit |  | Medium  |
 | 2183 | Count Array Pairs Divisible by K |  | Hard  |
 | 2184 | Number of Ways to Build Sturdy Brick Wall |  | Medium  |
@@ -2210,7 +2210,7 @@
 | 2187 | Minimum Time to Complete Trips | [TypeScript](./src/2187.minimum-time-to-complete-trips.2294/solution.ts) | Medium  |
 | 2188 | Minimum Time to Finish the Race |  | Hard  |
 | 2189 | Number of Ways to Build House of Cards |  | Medium  |
-| 2190 | Most Frequent Number Following Key In an Array | [JavaScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.js) [TypeScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.ts) | Easy  |
+| 2190 | Most Frequent Number Following Key In an Array | [Java](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.java) [JavaScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.js) [TypeScript](./src/2190.most-frequent-number-following-key-in-an-array.2312/solution.ts) | Easy  |
 | 2191 | Sort the Jumbled Numbers | [JavaScript](./src/2191.sort-the-jumbled-numbers.1333/solution.js) [TypeScript](./src/2191.sort-the-jumbled-numbers.1333/solution.ts) | Medium  |
 | 2192 | All Ancestors of a Node in a Directed Acyclic Graph | [JavaScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.js) [TypeScript](./src/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.1431/solution.ts) | Medium  |
 | 2193 | Minimum Number of Moves to Make Palindrome |  | Hard  |
@@ -2235,7 +2235,7 @@
 | 2212 | Maximum Points in an Archery Competition |  | Medium  |
 | 2213 | Longest Substring of One Repeating Character |  | Hard  |
 | 2214 | Minimum Health to Beat Game |  | Medium  |
-| 2215 | Find the Difference of Two Arrays | [JavaScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.js) [TypeScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.ts) | Easy  |
+| 2215 | Find the Difference of Two Arrays | [Java](./src/2215.find-the-difference-of-two-arrays.1392/solution.java) [JavaScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.js) [TypeScript](./src/2215.find-the-difference-of-two-arrays.1392/solution.ts) | Easy  |
 | 2216 | Minimum Deletions to Make Array Beautiful | [TypeScript](./src/2216.minimum-deletions-to-make-array-beautiful.1355/solution.ts) | Medium  |
 | 2217 | Find Palindrome With Fixed Length |  | Medium  |
 | 2218 | Maximum Value of K Coins From Piles |  | Hard  |
@@ -2263,12 +2263,12 @@
 | 2240 | Number of Ways to Buy Pens and Pencils | [TypeScript](./src/2240.number-of-ways-to-buy-pens-and-pencils.2351/solution.ts) | Medium  |
 | 2241 | Design an ATM Machine | [TypeScript](./src/2241.design-an-atm-machine.2352/solution.ts) | Medium  |
 | 2242 | Maximum Score of a Node Sequence |  | Hard  |
-| 2243 | Calculate Digit Sum of a String | [JavaScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.js) [TypeScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.ts) | Easy  |
+| 2243 | Calculate Digit Sum of a String | [Java](./src/2243.calculate-digit-sum-of-a-string.2361/solution.java) [JavaScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.js) [TypeScript](./src/2243.calculate-digit-sum-of-a-string.2361/solution.ts) | Easy  |
 | 2244 | Minimum Rounds to Complete All Tasks | [TypeScript](./src/2244.minimum-rounds-to-complete-all-tasks.2362/solution.ts) | Medium  |
 | 2245 | Maximum Trailing Zeros in a Cornered Path |  | Medium  |
 | 2246 | Longest Path With Different Adjacent Characters |  | Hard  |
 | 2247 | Maximum Cost of Trip With K Highways |  | Hard  |
-| 2248 | Intersection of Multiple Arrays | [JavaScript](./src/2248.intersection-of-multiple-arrays.2331/solution.js) [TypeScript](./src/2248.intersection-of-multiple-arrays.2331/solution.ts) | Easy  |
+| 2248 | Intersection of Multiple Arrays | [Java](./src/2248.intersection-of-multiple-arrays.2331/solution.java) [JavaScript](./src/2248.intersection-of-multiple-arrays.2331/solution.js) [TypeScript](./src/2248.intersection-of-multiple-arrays.2331/solution.ts) | Easy  |
 | 2249 | Count Lattice Points Inside a Circle |  | Medium  |
 | 2250 | Count Number of Rectangles Containing Each Point |  | Medium  |
 | 2251 | Number of Flowers in Full Bloom | [TypeScript](./src/2251.number-of-flowers-in-full-bloom.2334/solution.ts) | Hard  |
