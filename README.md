@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 565
+* Java Answer 570
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2284,7 +2284,7 @@
 | 2261 | K Divisible Elements Subarrays |  | Medium  |
 | 2262 | Total Appeal of A String |  | Hard  |
 | 2263 | Make Array Non-decreasing or Non-increasing |  | Hard  |
-| 2264 | Largest 3-Same-Digit Number in String | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.js) [TypeScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.ts) | Easy  |
+| 2264 | Largest 3-Same-Digit Number in String | [Java](./src/2264.largest-3-same-digit-number-in-string.2346/solution.java) [JavaScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.js) [TypeScript](./src/2264.largest-3-same-digit-number-in-string.2346/solution.ts) | Easy  |
 | 2265 | Count Nodes Equal to Average of Subtree | [TypeScript](./src/2265.count-nodes-equal-to-average-of-subtree.2347/solution.ts) | Medium  |
 | 2266 | Count Number of Texts | [TypeScript](./src/2266.count-number-of-texts.2348/solution.ts) | Medium  |
 | 2267 |  Check if There Is a Valid Parentheses String Path |  | Hard  |
@@ -2323,7 +2323,7 @@
 | 2300 | Successful Pairs of Spells and Potions | [TypeScript](./src/2300.successful-pairs-of-spells-and-potions.2392/solution.ts) | Medium  |
 | 2301 | Match Substring After Replacement | [TypeScript](./src/2301.match-substring-after-replacement.2393/solution.ts) | Hard  |
 | 2302 | Count Subarrays With Score Less Than K | [TypeScript](./src/2302.count-subarrays-with-score-less-than-k.2394/solution.ts) | Hard  |
-| 2303 | Calculate Amount Paid in Taxes | [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
+| 2303 | Calculate Amount Paid in Taxes | [Java](./src/2303.calculate-amount-paid-in-taxes.1382/solution.java) [JavaScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.js) [TypeScript](./src/2303.calculate-amount-paid-in-taxes.1382/solution.ts) | Easy  |
 | 2304 | Minimum Path Cost in a Grid | [TypeScript](./src/2304.minimum-path-cost-in-a-grid.1394/solution.ts) | Medium  |
 | 2305 | Fair Distribution of Cookies |  | Medium  |
 | 2306 | Naming a Company |  | Hard  |
@@ -2345,7 +2345,7 @@
 | 2322 | Minimum Score After Removals on a Tree |  | Hard  |
 | 2323 | Find Minimum Time to Finish All Jobs II |  | Medium  |
 | 2324 | Product Sales Analysis IV |  | Medium  |
-| 2325 | Decode the Message | [JavaScript](./src/2325.decode-the-message.2406/solution.js) [TypeScript](./src/2325.decode-the-message.2406/solution.ts) | Easy  |
+| 2325 | Decode the Message | [Java](./src/2325.decode-the-message.2406/solution.java) [JavaScript](./src/2325.decode-the-message.2406/solution.js) [TypeScript](./src/2325.decode-the-message.2406/solution.ts) | Easy  |
 | 2326 | Spiral Matrix IV | [TypeScript](./src/2326.spiral-matrix-iv.2411/solution.ts) | Medium  |
 | 2327 | Number of People Aware of a Secret | [TypeScript](./src/2327.number-of-people-aware-of-a-secret.2408/solution.ts) | Medium  |
 | 2328 | Number of Increasing Paths in a Grid |  | Hard  |
@@ -2355,7 +2355,7 @@
 | 2332 | The Latest Time to Catch a Bus |  | Medium  |
 | 2333 | Minimum Sum of Squared Difference | [TypeScript](./src/2333.minimum-sum-of-squared-difference.2418/solution.ts) | Medium  |
 | 2334 | Subarray With Elements Greater Than Varying Threshold |  | Hard  |
-| 2335 | Minimum Amount of Time to Fill Cups | [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.ts) | Easy  |
+| 2335 | Minimum Amount of Time to Fill Cups | [Java](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.java) [JavaScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.js) [TypeScript](./src/2335.minimum-amount-of-time-to-fill-cups.2412/solution.ts) | Easy  |
 | 2336 | Smallest Number in Infinite Set | [TypeScript](./src/2336.smallest-number-in-infinite-set.2413/solution.ts) | Medium  |
 | 2337 | Move Pieces to Obtain a String | [TypeScript](./src/2337.move-pieces-to-obtain-a-string.2414/solution.ts) | Medium  |
 | 2338 | Count the Number of Ideal Arrays |  | Hard  |
@@ -2438,7 +2438,7 @@
 | 2415 | Reverse Odd Levels of Binary Tree | [JavaScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.js) [TypeScript](./src/2415.reverse-odd-levels-of-binary-tree.2493/solution.ts) | Medium  |
 | 2416 | Sum of Prefix Scores of Strings | [TypeScript](./src/2416.sum-of-prefix-scores-of-strings.2494/solution.ts) | Hard  |
 | 2417 | Closest Fair Integer |  | Medium  |
-| 2418 | Sort the People | [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
+| 2418 | Sort the People | [Java](./src/2418.sort-the-people.2502/solution.java) [JavaScript](./src/2418.sort-the-people.2502/solution.js) [TypeScript](./src/2418.sort-the-people.2502/solution.ts) | Easy  |
 | 2419 | Longest Subarray With Maximum Bitwise AND | [JavaScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.js) [TypeScript](./src/2419.longest-subarray-with-maximum-bitwise-and.2503/solution.ts) | Medium  |
 | 2420 | Find All Good Indices | [TypeScript](./src/2420.find-all-good-indices.2504/solution.ts) | Medium  |
 | 2421 | Number of Good Paths |  | Hard  |
