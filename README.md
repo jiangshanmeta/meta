@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 570
+* Java Answer 575
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2447,7 +2447,7 @@
 | 2424 | Longest Uploaded Prefix | [TypeScript](./src/2424.longest-uploaded-prefix.2512/solution.ts) | Medium  |
 | 2425 | Bitwise XOR of All Pairings | [JavaScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.js) [TypeScript](./src/2425.bitwise-xor-of-all-pairings.2533/solution.ts) | Medium  |
 | 2426 | Number of Pairs Satisfying Inequality | [TypeScript](./src/2426.number-of-pairs-satisfying-inequality.2513/solution.ts) | Hard  |
-| 2427 | Number of Common Factors | [JavaScript](./src/2427.number-of-common-factors.2507/solution.js) [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
+| 2427 | Number of Common Factors | [Java](./src/2427.number-of-common-factors.2507/solution.java) [JavaScript](./src/2427.number-of-common-factors.2507/solution.js) [TypeScript](./src/2427.number-of-common-factors.2507/solution.ts) | Easy  |
 | 2428 | Maximum Sum of an Hourglass | [JavaScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.js) [TypeScript](./src/2428.maximum-sum-of-an-hourglass.2508/solution.ts) | Medium  |
 | 2429 | Minimize XOR | [JavaScript](./src/2429.minimize-xor.2509/solution.js) [TypeScript](./src/2429.minimize-xor.2509/solution.ts) | Medium  |
 | 2430 | Maximum Deletions on a String |  | Hard  |
@@ -2526,7 +2526,7 @@
 | 2503 | Maximum Number of Points From Grid Queries |  | Hard  |
 | 2504 | Concatenate the Name and the Profession |  | Easy  |
 | 2505 | Bitwise OR of All Subsequence Sums |  | Medium  |
-| 2506 | Count Pairs Of Similar Strings | [JavaScript](./src/2506.count-pairs-of-similar-strings.2594/solution.js) [TypeScript](./src/2506.count-pairs-of-similar-strings.2594/solution.ts) | Easy  |
+| 2506 | Count Pairs Of Similar Strings | [Java](./src/2506.count-pairs-of-similar-strings.2594/solution.java) [JavaScript](./src/2506.count-pairs-of-similar-strings.2594/solution.js) [TypeScript](./src/2506.count-pairs-of-similar-strings.2594/solution.ts) | Easy  |
 | 2507 | Smallest Value After Replacing With Sum of Prime Factors | [JavaScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.js) [TypeScript](./src/2507.smallest-value-after-replacing-with-sum-of-prime-factors.2595/solution.ts) | Medium  |
 | 2508 | Add Edges to Make Degrees of All Nodes Even |  | Hard  |
 | 2509 | Cycle Length Queries in a Tree |  | Hard  |
@@ -2545,7 +2545,7 @@
 | 2522 | Partition String Into Substrings With Values at Most K | [TypeScript](./src/2522.partition-string-into-substrings-with-values-at-most-k.2511/solution.ts) | Medium  |
 | 2523 | Closest Prime Numbers in Range | [TypeScript](./src/2523.closest-prime-numbers-in-range.2610/solution.ts) | Medium  |
 | 2524 | Maximum Frequency Score of a Subarray |  | Hard  |
-| 2525 | Categorize Box According to Criteria | [JavaScript](./src/2525.categorize-box-according-to-criteria.2619/solution.js) [TypeScript](./src/2525.categorize-box-according-to-criteria.2619/solution.ts) | Easy  |
+| 2525 | Categorize Box According to Criteria | [Java](./src/2525.categorize-box-according-to-criteria.2619/solution.java) [JavaScript](./src/2525.categorize-box-according-to-criteria.2619/solution.js) [TypeScript](./src/2525.categorize-box-according-to-criteria.2619/solution.ts) | Easy  |
 | 2526 | Find Consecutive Integers from a Data Stream | [JavaScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.js) [TypeScript](./src/2526.find-consecutive-integers-from-a-data-stream.2620/solution.ts) | Medium  |
 | 2527 | Find Xor-Beauty of Array | [TypeScript](./src/2527.find-xor-beauty-of-array.2621/solution.ts) | Medium  |
 | 2528 | Maximize the Minimum Powered City |  | Hard  |
@@ -2565,7 +2565,7 @@
 | 2542 | Maximum Subsequence Score |  | Medium  |
 | 2543 | Check if Point Is Reachable |  | Hard  |
 | 2544 | Alternating Digit Sum | [Java](./src/2544.alternating-digit-sum.2630/solution.java) [JavaScript](./src/2544.alternating-digit-sum.2630/solution.js) [TypeScript](./src/2544.alternating-digit-sum.2630/solution.ts) | Easy  |
-| 2545 | Sort the Students by Their Kth Score | [JavaScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.js) [TypeScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.ts) | Medium  |
+| 2545 | Sort the Students by Their Kth Score | [Java](./src/2545.sort-the-students-by-their-kth-score.2631/solution.java) [JavaScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.js) [TypeScript](./src/2545.sort-the-students-by-their-kth-score.2631/solution.ts) | Medium  |
 | 2546 | Apply Bitwise Operations to Make Strings Equal | [JavaScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.js) [TypeScript](./src/2546.apply-bitwise-operations-to-make-strings-equal.2632/solution.ts) | Medium  |
 | 2547 | Minimum Cost to Split an Array |  | Hard  |
 | 2548 | Maximum Price to Fill a Bag |  | Medium  |
@@ -2579,7 +2579,7 @@
 | 2556 | Disconnect Path in a Binary Matrix by at Most One Flip |  | Medium  |
 | 2557 | Maximum Number of Integers to Choose From a Range II |  | Medium  |
 | 2558 | Take Gifts From the Richest Pile | [TypeScript](./src/2558.take-gifts-from-the-richest-pile.2692/solution.ts) | Easy  |
-| 2559 | Count Vowel Strings in Ranges | [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
+| 2559 | Count Vowel Strings in Ranges | [Java](./src/2559.count-vowel-strings-in-ranges.2691/solution.java) [TypeScript](./src/2559.count-vowel-strings-in-ranges.2691/solution.ts) | Medium  |
 | 2560 | House Robber IV | [TypeScript](./src/2560.house-robber-iv.2690/solution.ts) | Medium  |
 | 2561 | Rearranging Fruits |  | Hard  |
 | 2562 | Find the Array Concatenation Value | [Java](./src/2562.find-the-array-concatenation-value.2698/solution.java) [TypeScript](./src/2562.find-the-array-concatenation-value.2698/solution.ts) | Easy  |
