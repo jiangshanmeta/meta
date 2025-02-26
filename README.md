@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 575
+* Java Answer 580
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2699,11 +2699,11 @@
 | 2676 | Throttle | [TypeScript](./src/2676.throttle.2771/solution.ts) | Medium  |
 | 2677 | Chunk Array | [TypeScript](./src/2677.chunk-array.2798/solution.ts) | Easy  |
 | 2678 | Number of Senior Citizens | [Java](./src/2678.number-of-senior-citizens.2727/solution.java) [TypeScript](./src/2678.number-of-senior-citizens.2727/solution.ts) | Easy  |
-| 2679 | Sum in a Matrix | [TypeScript](./src/2679.sum-in-a-matrix.2728/solution.ts) | Medium  |
+| 2679 | Sum in a Matrix | [Java](./src/2679.sum-in-a-matrix.2728/solution.java) [TypeScript](./src/2679.sum-in-a-matrix.2728/solution.ts) | Medium  |
 | 2680 | Maximum OR |  | Medium  |
 | 2681 | Power of Heroes |  | Hard  |
 | 2682 | Find the Losers of the Circular Game | [TypeScript](./src/2682.find-the-losers-of-the-circular-game.2791/solution.ts) | Easy  |
-| 2683 | Neighboring Bitwise XOR | [TypeScript](./src/2683.neighboring-bitwise-xor.2792/solution.ts) | Medium  |
+| 2683 | Neighboring Bitwise XOR | [Java](./src/2683.neighboring-bitwise-xor.2792/solution.java) [TypeScript](./src/2683.neighboring-bitwise-xor.2792/solution.ts) | Medium  |
 | 2684 | Maximum Number of Moves in a Grid | [TypeScript](./src/2684.maximum-number-of-moves-in-a-grid.2794/solution.ts) | Medium  |
 | 2685 | Count the Number of Complete Components | [TypeScript](./src/2685.count-the-number-of-complete-components.2793/solution.ts) | Medium  |
 | 2686 | Immediate Food Delivery III |  | Medium  |
@@ -2717,7 +2717,7 @@
 | 2694 | Event Emitter | [TypeScript](./src/2694.event-emitter.2797/solution.ts) | Medium  |
 | 2695 | Array Wrapper | [TypeScript](./src/2695.array-wrapper.2805/solution.ts) | Easy  |
 | 2696 | Minimum String Length After Removing Substrings | [TypeScript](./src/2696.minimum-string-length-after-removing-substrings.2800/solution.ts) | Easy  |
-| 2697 | Lexicographically Smallest Palindrome | [TypeScript](./src/2697.lexicographically-smallest-palindrome.2816/solution.ts) | Easy  |
+| 2697 | Lexicographically Smallest Palindrome | [Java](./src/2697.lexicographically-smallest-palindrome.2816/solution.java) [TypeScript](./src/2697.lexicographically-smallest-palindrome.2816/solution.ts) | Easy  |
 | 2698 | Find the Punishment Number of an Integer | [TypeScript](./src/2698.find-the-punishment-number-of-an-integer.2802/solution.ts) | Medium  |
 | 2699 | Modify Graph Edge Weights |  | Hard  |
 | 2700 | Differences Between Two Objects | [TypeScript](./src/2700.differences-between-two-objects.2774/solution.ts) | Medium  |
@@ -2827,7 +2827,7 @@
 | 2804 | Array Prototype ForEach |  | Easy  |
 | 2805 | Custom Interval |  | Medium  |
 | 2806 | Account Balance After Rounded Purchase | [Java](./src/2806.account-balance-after-rounded-purchase.2955/solution.java) [TypeScript](./src/2806.account-balance-after-rounded-purchase.2955/solution.ts) | Easy  |
-| 2807 | Insert Greatest Common Divisors in Linked List | [TypeScript](./src/2807.insert-greatest-common-divisors-in-linked-list.2903/solution.ts) | Medium  |
+| 2807 | Insert Greatest Common Divisors in Linked List | [Java](./src/2807.insert-greatest-common-divisors-in-linked-list.2903/solution.java) [TypeScript](./src/2807.insert-greatest-common-divisors-in-linked-list.2903/solution.ts) | Medium  |
 | 2808 | Minimum Seconds to Equalize a Circular Array |  | Medium  |
 | 2809 | Minimum Time to Make Array Sum At Most x |  | Hard  |
 | 2810 | Faulty Keyboard | [TypeScript](./src/2810.faulty-keyboard.2886/solution.ts) | Easy  |
@@ -2844,7 +2844,7 @@
 | 2821 | Delay the Resolution of Each Promise |  | Medium  |
 | 2822 | Inversion of Object |  | Easy  |
 | 2823 | Deep Object Filter |  | Medium  |
-| 2824 | Count Pairs Whose Sum is Less than Target | [TypeScript](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.ts) | Easy  |
+| 2824 | Count Pairs Whose Sum is Less than Target | [Java](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.java) [TypeScript](./src/2824.count-pairs-whose-sum-is-less-than-target.2917/solution.ts) | Easy  |
 | 2825 | Make String a Subsequence Using Cyclic Increments |  | Medium  |
 | 2826 | Sorting Three Groups | [TypeScript](./src/2826.sorting-three-groups.2904/solution.ts) | Medium  |
 | 2827 | Number of Beautiful Integers in the Range |  | Hard  |
