@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2243
-* Java Answer 580
+* Java Answer 585
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2859,16 +2859,16 @@
 | 2836 | Maximize Value of Function in a Ball Passing Game |  | Hard  |
 | 2837 | Total Traveled Distance |  | Easy  |
 | 2838 | Maximum Coins Heroes Can Collect |  | Medium  |
-| 2839 | Check if Strings Can be Made Equal With Operations I | [TypeScript](./src/2839.check-if-strings-can-be-made-equal-with-operations-i.2999/solution.ts) | Easy  |
+| 2839 | Check if Strings Can be Made Equal With Operations I | [Java](./src/2839.check-if-strings-can-be-made-equal-with-operations-i.2999/solution.java) [TypeScript](./src/2839.check-if-strings-can-be-made-equal-with-operations-i.2999/solution.ts) | Easy  |
 | 2840 | Check if Strings Can be Made Equal With Operations II | [TypeScript](./src/2840.check-if-strings-can-be-made-equal-with-operations-ii.2978/solution.ts) | Medium  |
 | 2841 | Maximum Sum of Almost Unique Subarray | [TypeScript](./src/2841.maximum-sum-of-almost-unique-subarray.2954/solution.ts) | Medium  |
 | 2842 | Count K-Subsequences of a String With Maximum Beauty |  | Hard  |
-| 2843 |   Count Symmetric Integers | [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
+| 2843 |   Count Symmetric Integers | [Java](./src/2843.count-symmetric-integers.2998/solution.java) [TypeScript](./src/2843.count-symmetric-integers.2998/solution.ts) | Easy  |
 | 2844 | Minimum Operations to Make a Special Number | [TypeScript](./src/2844.minimum-operations-to-make-a-special-number.3046/solution.ts) | Medium  |
 | 2845 | Count of Interesting Subarrays | [TypeScript](./src/2845.count-of-interesting-subarrays.2915/solution.ts) | Medium  |
 | 2846 | Minimum Edge Weight Equilibrium Queries in a Tree |  | Hard  |
 | 2847 | Smallest Number With Given Digit Product |  | Medium  |
-| 2848 | Points That Intersect With Cars | [TypeScript](./src/2848.points-that-intersect-with-cars.3034/solution.ts) | Easy  |
+| 2848 | Points That Intersect With Cars | [Java](./src/2848.points-that-intersect-with-cars.3034/solution.java) [TypeScript](./src/2848.points-that-intersect-with-cars.3034/solution.ts) | Easy  |
 | 2849 | Determine if a Cell Is Reachable at a Given Time |  | Medium  |
 | 2850 | Minimum Moves to Spread Stones Over Grid |  | Medium  |
 | 2851 | String Transformation |  | Hard  |
@@ -2893,7 +2893,7 @@
 | 2870 | Minimum Number of Operations to Make Array Empty | [TypeScript](./src/2870.minimum-number-of-operations-to-make-array-empty.3094/solution.ts) | Medium  |
 | 2871 | Split Array Into Maximum Number of Subarrays | [TypeScript](./src/2871.split-array-into-maximum-number-of-subarrays.3080/solution.ts) | Medium  |
 | 2872 | Maximum Number of K-Divisible Components |  | Hard  |
-| 2873 | Maximum Value of an Ordered Triplet I | [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
+| 2873 | Maximum Value of an Ordered Triplet I | [Java](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.java) [TypeScript](./src/2873.maximum-value-of-an-ordered-triplet-i.3154/solution.ts) | Easy  |
 | 2874 | Maximum Value of an Ordered Triplet II | [TypeScript](./src/2874.maximum-value-of-an-ordered-triplet-ii.3152/solution.ts) | Medium  |
 | 2875 | Minimum Size Subarray in Infinite Array | [TypeScript](./src/2875.minimum-size-subarray-in-infinite-array.3141/solution.ts) | Medium  |
 | 2876 | Count Visited Nodes in a Directed Graph |  | Hard  |
@@ -2928,7 +2928,7 @@
 | 2905 | Find Indices With Index and Value Difference II | [TypeScript](./src/2905.find-indices-with-index-and-value-difference-ii.3170/solution.ts) | Medium  |
 | 2906 | Construct Product Matrix | [TypeScript](./src/2906.construct-product-matrix.3031/solution.ts) | Medium  |
 | 2907 | Maximum Profitable Triplets With Increasing Prices I |  | Medium  |
-| 2908 | Minimum Sum of Mountain Triplets I | [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
+| 2908 | Minimum Sum of Mountain Triplets I | [Java](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.java) [TypeScript](./src/2908.minimum-sum-of-mountain-triplets-i.3176/solution.ts) | Easy  |
 | 2909 | Minimum Sum of Mountain Triplets II | [TypeScript](./src/2909.minimum-sum-of-mountain-triplets-ii.3186/solution.ts) | Medium  |
 | 2910 | Minimum Number of Groups to Create a Valid Assignment |  | Medium  |
 | 2911 | Minimum Changes to Make K Semi-palindromes |  | Hard  |
