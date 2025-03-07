@@ -16,8 +16,8 @@
 
 ## 目录
 
-* TS/JS Answer 2243
-* Java Answer 585
+* TS/JS Answer 2244
+* Java Answer 594
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -2957,7 +2957,7 @@
 | 2934 | Minimum Operations to Maximize Last Elements in Arrays |  | Medium  |
 | 2935 | Maximum Strong Pair XOR II |  | Hard  |
 | 2936 | Number of Equal Numbers Blocks |  | Medium  |
-| 2937 | Make Three Strings Equal | [TypeScript](./src/2937.make-three-strings-equal.3207/solution.ts) | Easy  |
+| 2937 | Make Three Strings Equal | [Java](./src/2937.make-three-strings-equal.3207/solution.java) [TypeScript](./src/2937.make-three-strings-equal.3207/solution.ts) | Easy  |
 | 2938 | Separate Black and White Balls | [TypeScript](./src/2938.separate-black-and-white-balls.3195/solution.ts) | Medium  |
 | 2939 | Maximum Xor Product |  | Medium  |
 | 2940 | Find Building Where Alice and Bob Can Meet | [TypeScript](./src/2940.find-building-where-alice-and-bob-can-meet.3181/solution.ts) | Hard  |
@@ -3020,12 +3020,12 @@
 | 2997 | Minimum Number of Operations to Make Array XOR Equal to K | [TypeScript](./src/2997.minimum-number-of-operations-to-make-array-xor-equal-to-k.3249/solution.ts) | Medium  |
 | 2998 | Minimum Number of Operations to Make X and Y Equal |  | Medium  |
 | 2999 | Count the Number of Powerful Integers |  | Hard  |
-| 3000 | Maximum Area of Longest Diagonal Rectangle | [TypeScript](./src/3000.maximum-area-of-longest-diagonal-rectangle.3251/solution.ts) | Easy  |
+| 3000 | Maximum Area of Longest Diagonal Rectangle | [Java](./src/3000.maximum-area-of-longest-diagonal-rectangle.3251/solution.java) [TypeScript](./src/3000.maximum-area-of-longest-diagonal-rectangle.3251/solution.ts) | Easy  |
 | 3001 | Minimum Moves to Capture The Queen |  | Medium  |
 | 3002 | Maximum Size of a Set After Removals | [TypeScript](./src/3002.maximum-size-of-a-set-after-removals.3228/solution.ts) | Medium  |
 | 3003 | Maximize the Number of Partitions After Operations |  | Hard  |
 | 3004 | Maximum Subtree of the Same Color |  | Medium  |
-| 3005 | Count Elements With Maximum Frequency | [TypeScript](./src/3005.count-elements-with-maximum-frequency.3242/solution.ts) | Easy  |
+| 3005 | Count Elements With Maximum Frequency | [Java](./src/3005.count-elements-with-maximum-frequency.3242/solution.java) [TypeScript](./src/3005.count-elements-with-maximum-frequency.3242/solution.ts) | Easy  |
 | 3006 | Find Beautiful Indices in the Given Array I | [TypeScript](./src/3006.find-beautiful-indices-in-the-given-array-i.3245/solution.ts) | Medium  |
 | 3007 | Maximum Number That Sum of the Prices Is Less Than or Equal to K |  | Medium  |
 | 3008 | Find Beautiful Indices in the Given Array II | [TypeScript](./src/3008.find-beautiful-indices-in-the-given-array-ii.3303/solution.ts) | Hard  |
@@ -3039,7 +3039,7 @@
 | 3016 | Minimum Number of Pushes to Type Word II | [TypeScript](./src/3016.minimum-number-of-pushes-to-type-word-ii.3276/solution.ts) | Medium  |
 | 3017 | Count the Number of Houses at a Certain Distance II |  | Hard  |
 | 3018 | Maximum Number of Removal Queries That Can Be Processed I |  | Hard  |
-| 3019 | Number of Changing Keys | [TypeScript](./src/3019.number-of-changing-keys.3312/solution.ts) | Easy  |
+| 3019 | Number of Changing Keys | [Java](./src/3019.number-of-changing-keys.3312/solution.java) [TypeScript](./src/3019.number-of-changing-keys.3312/solution.ts) | Easy  |
 | 3020 | Find the Maximum Number of Elements in Subset | [TypeScript](./src/3020.find-the-maximum-number-of-elements-in-subset.3299/solution.ts) | Medium  |
 | 3021 | Alice and Bob Playing Flower Game |  | Medium  |
 | 3022 | Minimize OR of Remaining Elements Using Operations |  | Hard  |
@@ -3053,7 +3053,7 @@
 | 3030 | Find the Grid of Region Average | [TypeScript](./src/3030.find-the-grid-of-region-average.3272/solution.ts) | Medium  |
 | 3031 | Minimum Time to Revert Word to Initial State II | [TypeScript](./src/3031.minimum-time-to-revert-word-to-initial-state-ii.3296/solution.ts) | Hard  |
 | 3032 | Count Numbers With Unique Digits II |  | Easy  |
-| 3033 | Modify the Matrix | [TypeScript](./src/3033.modify-the-matrix.3330/solution.ts) | Easy  |
+| 3033 | Modify the Matrix | [Java](./src/3033.modify-the-matrix.3330/solution.java) [TypeScript](./src/3033.modify-the-matrix.3330/solution.ts) | Easy  |
 | 3034 | Number of Subarrays That Match a Pattern I | [TypeScript](./src/3034.number-of-subarrays-that-match-a-pattern-i.3269/solution.ts) | Medium  |
 | 3035 | Maximum Palindromes After Operations | [TypeScript](./src/3035.maximum-palindromes-after-operations.3317/solution.ts) | Medium  |
 | 3036 | Number of Subarrays That Match a Pattern II | [TypeScript](./src/3036.number-of-subarrays-that-match-a-pattern-ii.3290/solution.ts) | Hard  |
@@ -3062,11 +3062,11 @@
 | 3039 | Apply Operations to Make String Empty | [TypeScript](./src/3039.apply-operations-to-make-string-empty.3308/solution.ts) | Medium  |
 | 3040 | Maximum Number of Operations With the Same Score II | [TypeScript](./src/3040.maximum-number-of-operations-with-the-same-score-ii.3318/solution.ts) | Medium  |
 | 3041 | Maximize Consecutive Elements in an Array After Modification | [TypeScript](./src/3041.maximize-consecutive-elements-in-an-array-after-modification.3298/solution.ts) | Hard  |
-| 3042 | Count Prefix and Suffix Pairs I | [TypeScript](./src/3042.count-prefix-and-suffix-pairs-i.3309/solution.ts) | Easy  |
+| 3042 | Count Prefix and Suffix Pairs I | [Java](./src/3042.count-prefix-and-suffix-pairs-i.3309/solution.java) [TypeScript](./src/3042.count-prefix-and-suffix-pairs-i.3309/solution.ts) | Easy  |
 | 3043 | Find the Length of the Longest Common Prefix | [TypeScript](./src/3043.find-the-length-of-the-longest-common-prefix.3329/solution.ts) | Medium  |
 | 3044 | Most Frequent Prime | [TypeScript](./src/3044.most-frequent-prime.3314/solution.ts) | Medium  |
 | 3045 | Count Prefix and Suffix Pairs II | [TypeScript](./src/3045.count-prefix-and-suffix-pairs-ii.3305/solution.ts) | Hard  |
-| 3046 | Split the Array | [TypeScript](./src/3046.split-the-array.3324/solution.ts) | Easy  |
+| 3046 | Split the Array | [Java](./src/3046.split-the-array.3324/solution.java) [TypeScript](./src/3046.split-the-array.3324/solution.ts) | Easy  |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles |  | Medium  |
 | 3048 | Earliest Second to Mark Indices I |  | Medium  |
 | 3049 | Earliest Second to Mark Indices II |  | Hard  |
@@ -3085,7 +3085,7 @@
 | 3062 | Winner of the Linked List Game |  | Easy  |
 | 3063 | Linked List Frequency |  | Easy  |
 | 3064 | Guess the Number Using Bitwise Questions I |  | Medium  |
-| 3065 | Minimum Operations to Exceed Threshold Value I | [TypeScript](./src/3065.minimum-operations-to-exceed-threshold-value-i.3331/solution.ts) | Easy  |
+| 3065 | Minimum Operations to Exceed Threshold Value I | [Java](./src/3065.minimum-operations-to-exceed-threshold-value-i.3331/solution.java) [TypeScript](./src/3065.minimum-operations-to-exceed-threshold-value-i.3331/solution.ts) | Easy  |
 | 3066 | Minimum Operations to Exceed Threshold Value II |  | Medium  |
 | 3067 | Count Pairs of Connectable Servers in a Weighted Tree Network |  | Medium  |
 | 3068 | Find the Maximum Sum of Node Values |  | Hard  |
@@ -3125,7 +3125,7 @@
 | 3102 | Minimize Manhattan Distances |  | Hard  |
 | 3103 | Find Trending Hashtags II  |  | Hard  |
 | 3104 | Find Longest Self-Contained Substring |  | Hard  |
-| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray |  | Easy  |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | [Java](./src/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.3372/solution.java) [TypeScript](./src/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.3372/solution.ts) | Easy  |
 | 3106 | Lexicographically Smallest String After Operations With Constraint |  | Medium  |
 | 3107 | Minimum Operations to Make Median of Array Equal to K |  | Medium  |
 | 3108 | Minimum Cost Walk in Weighted Graph |  | Hard  |
