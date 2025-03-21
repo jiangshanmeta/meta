@@ -16,8 +16,8 @@
 
 ## 目录
 
-* TS/JS Answer 2244
-* Java Answer 594
+* TS/JS Answer 2246
+* Java Answer 597
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3182,7 +3182,7 @@
 | 3159 | Find Occurrences of an Element in an Array |  | Medium  |
 | 3160 | Find the Number of Distinct Colors Among the Balls |  | Medium  |
 | 3161 | Block Placement Queries |  | Hard  |
-| 3162 | Find the Number of Good Pairs I | [TypeScript](./src/3162.find-the-number-of-good-pairs-i.3446/solution.ts) | Easy  |
+| 3162 | Find the Number of Good Pairs I | [Java](./src/3162.find-the-number-of-good-pairs-i.3446/solution.java) [TypeScript](./src/3162.find-the-number-of-good-pairs-i.3446/solution.ts) | Easy  |
 | 3163 | String Compression III |  | Medium  |
 | 3164 | Find the Number of Good Pairs II |  | Medium  |
 | 3165 | Maximum Sum of Subsequence With Non-adjacent Elements |  | Hard  |
@@ -3214,7 +3214,7 @@
 | 3191 | Minimum Operations to Make Binary Array Elements Equal to One I |  | Medium  |
 | 3192 | Minimum Operations to Make Binary Array Elements Equal to One II |  | Medium  |
 | 3193 | Count the Number of Inversions |  | Hard  |
-| 3194 | Minimum Average of Smallest and Largest Elements |  | Easy  |
+| 3194 | Minimum Average of Smallest and Largest Elements | [Java](./src/3194.minimum-average-of-smallest-and-largest-elements.3471/solution.java) [TypeScript](./src/3194.minimum-average-of-smallest-and-largest-elements.3471/solution.ts) | Easy  |
 | 3195 | Find the Minimum Area to Cover All Ones I |  | Medium  |
 | 3196 | Maximize Total Cost of Alternating Subarrays |  | Medium  |
 | 3197 | Find the Minimum Area to Cover All Ones II |  | Hard  |
@@ -3226,7 +3226,7 @@
 | 3203 | Find Minimum Diameter After Merging Two Trees |  | Hard  |
 | 3204 | Bitwise User Permissions Analysis |  | Medium  |
 | 3205 | Maximum Array Hopping Score I |  | Medium  |
-| 3206 | Alternating Groups I |  | Easy  |
+| 3206 | Alternating Groups I | [Java](./src/3206.alternating-groups-i.3463/solution.java) [TypeScript](./src/3206.alternating-groups-i.3463/solution.ts) | Easy  |
 | 3207 | Maximum Points After Enemy Battles |  | Medium  |
 | 3208 | Alternating Groups II |  | Medium  |
 | 3209 | Number of Subarrays With AND Value of K |  | Hard  |
