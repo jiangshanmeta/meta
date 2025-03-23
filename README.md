@@ -17,7 +17,7 @@
 ## 目录
 
 * TS/JS Answer 2246
-* Java Answer 597
+* Java Answer 602
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -496,7 +496,7 @@
 | 0473 | Matchsticks to Square | [JavaScript](./src/0473.matchsticks-to-square.473/solution.js) | Medium  |
 | 0474 | Ones and Zeroes | [JavaScript](./src/0474.ones-and-zeroes.474/solution.js) | Medium  |
 | 0475 | Heaters | [JavaScript](./src/0475.heaters.475/solution.js) | Medium  |
-| 0476 | Number Complement | [JavaScript](./src/0476.number-complement.476/solution.js) [TypeScript](./src/0476.number-complement.476/solution.ts) | Easy  |
+| 0476 | Number Complement | [Java](./src/0476.number-complement.476/solution.java) [JavaScript](./src/0476.number-complement.476/solution.js) [TypeScript](./src/0476.number-complement.476/solution.ts) | Easy  |
 | 0477 | Total Hamming Distance | [JavaScript](./src/0477.total-hamming-distance.477/solution.js) | Medium  |
 | 0478 | Generate Random Point in a Circle | [JavaScript](./src/0478.generate-random-point-in-a-circle.915/solution.js) [TypeScript](./src/0478.generate-random-point-in-a-circle.915/solution.ts) | Medium  |
 | 0479 | Largest Palindrome Product | [JavaScript](./src/0479.largest-palindrome-product.479/solution.js) [TypeScript](./src/0479.largest-palindrome-product.479/solution.ts) | Hard  |
@@ -916,7 +916,7 @@
 | 0893 | Groups of Special-Equivalent Strings | [JavaScript](./src/0893.groups-of-special-equivalent-strings.929/solution.js) [TypeScript](./src/0893.groups-of-special-equivalent-strings.929/solution.ts) | Medium  |
 | 0894 | All Possible Full Binary Trees | [JavaScript](./src/0894.all-possible-full-binary-trees.930/solution.js) | Medium  |
 | 0895 | Maximum Frequency Stack | [JavaScript](./src/0895.maximum-frequency-stack.931/solution.js) [TypeScript](./src/0895.maximum-frequency-stack.931/solution.ts) | Hard  |
-| 0896 | Monotonic Array | [JavaScript](./src/0896.monotonic-array.932/solution.js) [TypeScript](./src/0896.monotonic-array.932/solution.ts) | Easy  |
+| 0896 | Monotonic Array | [Java](./src/0896.monotonic-array.932/solution.java) [JavaScript](./src/0896.monotonic-array.932/solution.js) [TypeScript](./src/0896.monotonic-array.932/solution.ts) | Easy  |
 | 0897 | Increasing Order Search Tree | [Java](./src/0897.increasing-order-search-tree.933/solution.java) [JavaScript](./src/0897.increasing-order-search-tree.933/solution.js) [TypeScript](./src/0897.increasing-order-search-tree.933/solution.ts) | Easy  |
 | 0898 | Bitwise ORs of Subarrays | [TypeScript](./src/0898.bitwise-ors-of-subarrays.934/solution.ts) | Medium  |
 | 0899 | Orderly Queue |  | Hard  |
@@ -981,7 +981,7 @@
 | 0958 | Check Completeness of a Binary Tree | [JavaScript](./src/0958.check-completeness-of-a-binary-tree.998/solution.js) [TypeScript](./src/0958.check-completeness-of-a-binary-tree.998/solution.ts) | Medium  |
 | 0959 | Regions Cut By Slashes | [JavaScript](./src/0959.regions-cut-by-slashes.999/solution.js) | Medium  |
 | 0960 | Delete Columns to Make Sorted III |  | Hard  |
-| 0961 | N-Repeated Element in Size 2N Array | [JavaScript](./src/0961.n-repeated-element-in-size-2n-array.1001/solution.js) [TypeScript](./src/0961.n-repeated-element-in-size-2n-array.1001/solution.ts) | Easy  |
+| 0961 | N-Repeated Element in Size 2N Array | [Java](./src/0961.n-repeated-element-in-size-2n-array.1001/solution.java) [JavaScript](./src/0961.n-repeated-element-in-size-2n-array.1001/solution.js) [TypeScript](./src/0961.n-repeated-element-in-size-2n-array.1001/solution.ts) | Easy  |
 | 0962 | Maximum Width Ramp | [JavaScript](./src/0962.maximum-width-ramp.1002/solution.js) [TypeScript](./src/0962.maximum-width-ramp.1002/solution.ts) | Medium  |
 | 0963 | Minimum Area Rectangle II |  | Medium  |
 | 0964 | Least Operators to Express Number |  | Hard  |
@@ -1029,7 +1029,7 @@
 | 1006 | Clumsy Factorial | [JavaScript](./src/1006.clumsy-factorial.1048/solution.js) [TypeScript](./src/1006.clumsy-factorial.1048/solution.ts) | Medium  |
 | 1007 | Minimum Domino Rotations For Equal Row | [JavaScript](./src/1007.minimum-domino-rotations-for-equal-row.1049/solution.js) | Medium  |
 | 1008 | Construct Binary Search Tree from Preorder Traversal | [JavaScript](./src/1008.construct-binary-search-tree-from-preorder-traversal.1050/solution.js) [TypeScript](./src/1008.construct-binary-search-tree-from-preorder-traversal.1050/solution.ts) | Medium  |
-| 1009 | Complement of Base 10 Integer | [JavaScript](./src/1009.complement-of-base-10-integer.1054/solution.js) [TypeScript](./src/1009.complement-of-base-10-integer.1054/solution.ts) | Easy  |
+| 1009 | Complement of Base 10 Integer | [Java](./src/1009.complement-of-base-10-integer.1054/solution.java) [JavaScript](./src/1009.complement-of-base-10-integer.1054/solution.js) [TypeScript](./src/1009.complement-of-base-10-integer.1054/solution.ts) | Easy  |
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | [JavaScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.js) [TypeScript](./src/1010.pairs-of-songs-with-total-durations-divisible-by-60.1055/solution.ts) | Medium  |
 | 1011 | Capacity To Ship Packages Within D Days | [JavaScript](./src/1011.capacity-to-ship-packages-within-d-days.1056/solution.js) | Medium  |
 | 1012 | Numbers With Repeated Digits |  | Hard  |
@@ -3236,7 +3236,7 @@
 | 3213 | Construct String with Minimum Cost |  | Hard  |
 | 3214 | Year on Year Growth Rate |  | Hard  |
 | 3215 | Count Triplets with Even XOR Set Bits II |  | Medium  |
-| 3216 | Lexicographically Smallest String After a Swap | [TypeScript](./src/3216.lexicographically-smallest-string-after-a-swap.3484/solution.ts) | Easy  |
+| 3216 | Lexicographically Smallest String After a Swap | [Java](./src/3216.lexicographically-smallest-string-after-a-swap.3484/solution.java) [TypeScript](./src/3216.lexicographically-smallest-string-after-a-swap.3484/solution.ts) | Easy  |
 | 3217 | Delete Nodes From Linked List Present in Array |  | Medium  |
 | 3218 | Minimum Cost for Cutting Cake I |  | Medium  |
 | 3219 | Minimum Cost for Cutting Cake II |  | Hard  |
