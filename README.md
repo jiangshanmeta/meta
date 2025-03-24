@@ -16,8 +16,8 @@
 
 ## 目录
 
-* TS/JS Answer 2246
-* Java Answer 602
+* TS/JS Answer 2248
+* Java Answer 605
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1324,7 +1324,7 @@
 | 1301 | Number of Paths with Max Score | [Python3](./src/1301.number-of-paths-with-max-score.1234/solution.py) | Hard  |
 | 1302 | Deepest Leaves Sum | [Java](./src/1302.deepest-leaves-sum.1254/solution.java) [JavaScript](./src/1302.deepest-leaves-sum.1254/solution.js) [TypeScript](./src/1302.deepest-leaves-sum.1254/solution.ts) | Medium  |
 | 1303 | Find the Team Size |  | Easy  |
-| 1304 | Find N Unique Integers Sum up to Zero | [JavaScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.js) [TypeScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.ts) | Easy  |
+| 1304 | Find N Unique Integers Sum up to Zero | [Java](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.java) [JavaScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.js) [TypeScript](./src/1304.find-n-unique-integers-sum-up-to-zero.1426/solution.ts) | Easy  |
 | 1305 | All Elements in Two Binary Search Trees | [Python3](./src/1305.all-elements-in-two-binary-search-trees.1427/solution.py) [TypeScript](./src/1305.all-elements-in-two-binary-search-trees.1427/solution.ts) | Medium  |
 | 1306 | Jump Game III | [JavaScript](./src/1306.jump-game-iii.1428/solution.js) | Medium  |
 | 1307 | Verbal Arithmetic Puzzle |  | Hard  |
@@ -3258,17 +3258,17 @@
 | 3235 | Check if the Rectangle Corner Is Reachable |  | Hard  |
 | 3236 | CEO Subordinate Hierarchy |  | Hard  |
 | 3237 | Alt and Tab Simulation |  | Medium  |
-| 3238 | Find the Number of Winning Players | [TypeScript](./src/3238.find-the-number-of-winning-players.3519/solution.ts) | Easy  |
+| 3238 | Find the Number of Winning Players | [Java](./src/3238.find-the-number-of-winning-players.3519/solution.java) [TypeScript](./src/3238.find-the-number-of-winning-players.3519/solution.ts) | Easy  |
 | 3239 | Minimum Number of Flips to Make Binary Grid Palindromic I |  | Medium  |
 | 3240 | Minimum Number of Flips to Make Binary Grid Palindromic II |  | Medium  |
 | 3241 | Time Taken to Mark All Nodes |  | Hard  |
-| 3242 | Design Neighbor Sum Service |  | Easy  |
+| 3242 | Design Neighbor Sum Service | [Java](./src/3242.design-neighbor-sum-service.3516/solution.java) [TypeScript](./src/3242.design-neighbor-sum-service.3516/solution.ts) | Easy  |
 | 3243 | Shortest Distance After Road Addition Queries I |  | Medium  |
 | 3244 | Shortest Distance After Road Addition Queries II |  | Hard  |
 | 3245 | Alternating Groups III |  | Hard  |
 | 3246 | Premier League Table Ranking |  | Easy  |
 | 3247 | Number of Subsequences with Odd Sum |  | Medium  |
-| 3248 | Snake in Matrix | [Java](./src/3248.snake-in-matrix.3533/solution.java) | Easy  |
+| 3248 | Snake in Matrix | [Java](./src/3248.snake-in-matrix.3533/solution.java) [TypeScript](./src/3248.snake-in-matrix.3533/solution.ts) | Easy  |
 | 3249 | Count the Number of Good Nodes |  | Medium  |
 | 3250 | Find the Count of Monotonic Pairs I |  | Hard  |
 | 3251 | Find the Count of Monotonic Pairs II |  | Hard  |
@@ -3452,6 +3452,70 @@
 | 3429 | Paint House IV |  | Medium  |
 | 3430 | Maximum and Minimum Sums of at Most Size K Subarrays |  | Hard  |
 | 3431 | Minimum Unlocked Indices to Sort Nums |  | Medium  |
+| 3432 | Count Partitions with Even Sum Difference |  | Easy  |
+| 3433 | Count Mentions Per User |  | Medium  |
+| 3434 | Maximum Frequency After Subarray Operation |  | Medium  |
+| 3435 | Frequencies of Shortest Supersequences |  | Hard  |
+| 3436 | Find Valid Emails |  | Easy  |
+| 3437 | Permutations III |  | Medium  |
+| 3438 | Find Valid Pair of Adjacent Digits in String |  | Easy  |
+| 3439 | Reschedule Meetings for Maximum Free Time I |  | Medium  |
+| 3440 | Reschedule Meetings for Maximum Free Time II |  | Medium  |
+| 3441 | Minimum Cost Good Caption |  | Hard  |
+| 3442 | Maximum Difference Between Even and Odd Frequency I |  | Easy  |
+| 3443 | Maximum Manhattan Distance After K Changes |  | Medium  |
+| 3444 | Minimum Increments for Target Multiples in an Array |  | Hard  |
+| 3445 | Maximum Difference Between Even and Odd Frequency II |  | Hard  |
+| 3446 | Sort Matrix by Diagonals |  | Medium  |
+| 3447 | Assign Elements to Groups with Constraints |  | Medium  |
+| 3448 | Count Substrings Divisible By Last Digit |  | Hard  |
+| 3449 | Maximize the Minimum Game Score |  | Hard  |
+| 3450 | Maximum Students on a Single Bench |  | Easy  |
+| 3451 | Find Invalid IP Addresses |  | Hard  |
+| 3452 | Sum of Good Numbers |  | Easy  |
+| 3453 | Separate Squares I |  | Medium  |
+| 3454 | Separate Squares II |  | Hard  |
+| 3455 | Shortest Matching Substring |  | Hard  |
+| 3456 | Find Special Substring of Length K |  | Easy  |
+| 3457 | Eat Pizzas! |  | Medium  |
+| 3458 | Select K Disjoint Special Substrings |  | Medium  |
+| 3459 | Length of Longest V-Shaped Diagonal Segment |  | Hard  |
+| 3460 | Longest Common Prefix After at Most One Removal |  | Medium  |
+| 3461 | Check If Digits Are Equal in String After Operations I |  | Easy  |
+| 3462 | Maximum Sum With at Most K Elements |  | Medium  |
+| 3463 | Check If Digits Are Equal in String After Operations II |  | Hard  |
+| 3464 | Maximize the Distance Between Points on a Square |  | Hard  |
+| 3465 | Find Products with Valid Serial Numbers |  | Easy  |
+| 3466 | Maximum Coin Collection  |  | Medium  |
+| 3467 | Transform Array by Parity |  | Easy  |
+| 3468 | Find the Number of Copy Arrays |  | Medium  |
+| 3469 | Find Minimum Cost to Remove Array Elements |  | Medium  |
+| 3470 | Permutations IV |  | Hard  |
+| 3471 | Find the Largest Almost Missing Integer |  | Easy  |
+| 3472 | Longest Palindromic Subsequence After at Most K Operations |  | Medium  |
+| 3473 | Sum of K Subarrays With Length at Least M |  | Medium  |
+| 3474 | Lexicographically Smallest Generated String |  | Hard  |
+| 3475 | DNA Pattern Recognition  |  | Medium  |
+| 3476 | Maximize Profit from Task Assignment |  | Medium  |
+| 3477 | Fruits Into Baskets II |  | Easy  |
+| 3478 | Choose K Elements With Maximum Sum |  | Medium  |
+| 3479 | Fruits Into Baskets III |  | Medium  |
+| 3480 | Maximize Subarrays After Removing One Conflicting Pair |  | Hard  |
+| 3481 | Apply Substitutions |  | Medium  |
+| 3482 | Analyze Organization Hierarchy |  | Hard  |
+| 3483 | Unique 3-Digit Even Numbers |  | Easy  |
+| 3484 | Design Spreadsheet |  | Medium  |
+| 3485 | Longest Common Prefix of K Strings After Removal |  | Hard  |
+| 3486 | Longest Special Path II |  | Hard  |
+| 3487 | Maximum Unique Subarray Sum After Deletion |  | Easy  |
+| 3488 | Closest Equal Element Queries |  | Medium  |
+| 3489 | Zero Array Transformation IV |  | Medium  |
+| 3490 | Count Beautiful Numbers |  | Hard  |
+| 3491 | Phone Number Prefix |  | Easy  |
+| 3492 | Maximum Containers on a Ship |  | Easy  |
+| 3493 | Properties Graph |  | Medium  |
+| 3494 | Find the Minimum Amount of Time to Brew Potions |  | Medium  |
+| 3495 | Minimum Operations to Make Array Elements Zero |  | Hard  |
 | LCP01 | Guess Numbers | [Java](./src/LCP01.guess-numbers.100107/solution.java) [JavaScript](./src/LCP01.guess-numbers.100107/solution.js) [TypeScript](./src/LCP01.guess-numbers.100107/solution.ts) | Easy  |
 | LCP02 | Deep Dark Fraction | [JavaScript](./src/LCP02.deep-dark-fraction.100092/solution.js) [TypeScript](./src/LCP02.deep-dark-fraction.100092/solution.ts) | Easy  |
 | LCP03 | Programmable Robot |  | Medium  |
