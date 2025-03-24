@@ -24017,6 +24017,454 @@
         "difficulty": 2
     },
     {
+        "id": 3704,
+        "index": "3432",
+        "title": "Count Partitions with Even Sum Difference",
+        "title_slug": "count-partitions-with-even-sum-difference",
+        "difficulty": 1
+    },
+    {
+        "id": 3721,
+        "index": "3433",
+        "title": "Count Mentions Per User",
+        "title_slug": "count-mentions-per-user",
+        "difficulty": 2
+    },
+    {
+        "id": 3751,
+        "index": "3434",
+        "title": "Maximum Frequency After Subarray Operation",
+        "title_slug": "maximum-frequency-after-subarray-operation",
+        "difficulty": 2
+    },
+    {
+        "id": 3713,
+        "index": "3435",
+        "title": "Frequencies of Shortest Supersequences",
+        "title_slug": "frequencies-of-shortest-supersequences",
+        "difficulty": 3
+    },
+    {
+        "id": 3782,
+        "index": "3436",
+        "title": "Find Valid Emails",
+        "title_slug": "find-valid-emails",
+        "difficulty": 1
+    },
+    {
+        "id": 3780,
+        "index": "3437",
+        "title": "Permutations III",
+        "title_slug": "permutations-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3736,
+        "index": "3438",
+        "title": "Find Valid Pair of Adjacent Digits in String",
+        "title_slug": "find-valid-pair-of-adjacent-digits-in-string",
+        "difficulty": 1
+    },
+    {
+        "id": 3743,
+        "index": "3439",
+        "title": "Reschedule Meetings for Maximum Free Time I",
+        "title_slug": "reschedule-meetings-for-maximum-free-time-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3741,
+        "index": "3440",
+        "title": "Reschedule Meetings for Maximum Free Time II",
+        "title_slug": "reschedule-meetings-for-maximum-free-time-ii",
+        "difficulty": 2
+    },
+    {
+        "id": 3701,
+        "index": "3441",
+        "title": "Minimum Cost Good Caption",
+        "title_slug": "minimum-cost-good-caption",
+        "difficulty": 3
+    },
+    {
+        "id": 3753,
+        "index": "3442",
+        "title": "Maximum Difference Between Even and Odd Frequency I",
+        "title_slug": "maximum-difference-between-even-and-odd-frequency-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3754,
+        "index": "3443",
+        "title": "Maximum Manhattan Distance After K Changes",
+        "title_slug": "maximum-manhattan-distance-after-k-changes",
+        "difficulty": 2
+    },
+    {
+        "id": 3697,
+        "index": "3444",
+        "title": "Minimum Increments for Target Multiples in an Array",
+        "title_slug": "minimum-increments-for-target-multiples-in-an-array",
+        "difficulty": 3
+    },
+    {
+        "id": 3761,
+        "index": "3445",
+        "title": "Maximum Difference Between Even and Odd Frequency II",
+        "title_slug": "maximum-difference-between-even-and-odd-frequency-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3748,
+        "index": "3446",
+        "title": "Sort Matrix by Diagonals",
+        "title_slug": "sort-matrix-by-diagonals",
+        "difficulty": 2
+    },
+    {
+        "id": 3760,
+        "index": "3447",
+        "title": "Assign Elements to Groups with Constraints",
+        "title_slug": "assign-elements-to-groups-with-constraints",
+        "difficulty": 2
+    },
+    {
+        "id": 3696,
+        "index": "3448",
+        "title": "Count Substrings Divisible By Last Digit",
+        "title_slug": "count-substrings-divisible-by-last-digit",
+        "difficulty": 3
+    },
+    {
+        "id": 3762,
+        "index": "3449",
+        "title": "Maximize the Minimum Game Score",
+        "title_slug": "maximize-the-minimum-game-score",
+        "difficulty": 3
+    },
+    {
+        "id": 3787,
+        "index": "3450",
+        "title": "Maximum Students on a Single Bench",
+        "title_slug": "maximum-students-on-a-single-bench",
+        "difficulty": 1
+    },
+    {
+        "id": 3792,
+        "index": "3451",
+        "title": "Find Invalid IP Addresses",
+        "title_slug": "find-invalid-ip-addresses",
+        "difficulty": 3
+    },
+    {
+        "id": 3723,
+        "index": "3452",
+        "title": "Sum of Good Numbers",
+        "title_slug": "sum-of-good-numbers",
+        "difficulty": 1
+    },
+    {
+        "id": 3763,
+        "index": "3453",
+        "title": "Separate Squares I",
+        "title_slug": "separate-squares-i",
+        "difficulty": 2
+    },
+    {
+        "id": 3775,
+        "index": "3454",
+        "title": "Separate Squares II",
+        "title_slug": "separate-squares-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3692,
+        "index": "3455",
+        "title": "Shortest Matching Substring",
+        "title_slug": "shortest-matching-substring",
+        "difficulty": 3
+    },
+    {
+        "id": 3709,
+        "index": "3456",
+        "title": "Find Special Substring of Length K",
+        "title_slug": "find-special-substring-of-length-k",
+        "difficulty": 1
+    },
+    {
+        "id": 3779,
+        "index": "3457",
+        "title": "Eat Pizzas!",
+        "title_slug": "eat-pizzas",
+        "difficulty": 2
+    },
+    {
+        "id": 3771,
+        "index": "3458",
+        "title": "Select K Disjoint Special Substrings",
+        "title_slug": "select-k-disjoint-special-substrings",
+        "difficulty": 2
+    },
+    {
+        "id": 3733,
+        "index": "3459",
+        "title": "Length of Longest V-Shaped Diagonal Segment",
+        "title_slug": "length-of-longest-v-shaped-diagonal-segment",
+        "difficulty": 3
+    },
+    {
+        "id": 3796,
+        "index": "3460",
+        "title": "Longest Common Prefix After at Most One Removal",
+        "title_slug": "longest-common-prefix-after-at-most-one-removal",
+        "difficulty": 2
+    },
+    {
+        "id": 3768,
+        "index": "3461",
+        "title": "Check If Digits Are Equal in String After Operations I",
+        "title_slug": "check-if-digits-are-equal-in-string-after-operations-i",
+        "difficulty": 1
+    },
+    {
+        "id": 3764,
+        "index": "3462",
+        "title": "Maximum Sum With at Most K Elements",
+        "title_slug": "maximum-sum-with-at-most-k-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 3774,
+        "index": "3463",
+        "title": "Check If Digits Are Equal in String After Operations II",
+        "title_slug": "check-if-digits-are-equal-in-string-after-operations-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3781,
+        "index": "3464",
+        "title": "Maximize the Distance Between Points on a Square",
+        "title_slug": "maximize-the-distance-between-points-on-a-square",
+        "difficulty": 3
+    },
+    {
+        "id": 3803,
+        "index": "3465",
+        "title": "Find Products with Valid Serial Numbers",
+        "title_slug": "find-products-with-valid-serial-numbers",
+        "difficulty": 1
+    },
+    {
+        "id": 3806,
+        "index": "3466",
+        "title": "Maximum Coin Collection ",
+        "title_slug": "maximum-coin-collection",
+        "difficulty": 2
+    },
+    {
+        "id": 3778,
+        "index": "3467",
+        "title": "Transform Array by Parity",
+        "title_slug": "transform-array-by-parity",
+        "difficulty": 1
+    },
+    {
+        "id": 3785,
+        "index": "3468",
+        "title": "Find the Number of Copy Arrays",
+        "title_slug": "find-the-number-of-copy-arrays",
+        "difficulty": 2
+    },
+    {
+        "id": 3776,
+        "index": "3469",
+        "title": "Find Minimum Cost to Remove Array Elements",
+        "title_slug": "find-minimum-cost-to-remove-array-elements",
+        "difficulty": 2
+    },
+    {
+        "id": 3783,
+        "index": "3470",
+        "title": "Permutations IV",
+        "title_slug": "permutations-iv",
+        "difficulty": 3
+    },
+    {
+        "id": 3705,
+        "index": "3471",
+        "title": "Find the Largest Almost Missing Integer",
+        "title_slug": "find-the-largest-almost-missing-integer",
+        "difficulty": 1
+    },
+    {
+        "id": 3786,
+        "index": "3472",
+        "title": "Longest Palindromic Subsequence After at Most K Operations",
+        "title_slug": "longest-palindromic-subsequence-after-at-most-k-operations",
+        "difficulty": 2
+    },
+    {
+        "id": 3722,
+        "index": "3473",
+        "title": "Sum of K Subarrays With Length at Least M",
+        "title_slug": "sum-of-k-subarrays-with-length-at-least-m",
+        "difficulty": 2
+    },
+    {
+        "id": 3770,
+        "index": "3474",
+        "title": "Lexicographically Smallest Generated String",
+        "title_slug": "lexicographically-smallest-generated-string",
+        "difficulty": 3
+    },
+    {
+        "id": 3816,
+        "index": "3475",
+        "title": "DNA Pattern Recognition ",
+        "title_slug": "dna-pattern-recognition",
+        "difficulty": 2
+    },
+    {
+        "id": 3818,
+        "index": "3476",
+        "title": "Maximize Profit from Task Assignment",
+        "title_slug": "maximize-profit-from-task-assignment",
+        "difficulty": 2
+    },
+    {
+        "id": 3790,
+        "index": "3477",
+        "title": "Fruits Into Baskets II",
+        "title_slug": "fruits-into-baskets-ii",
+        "difficulty": 1
+    },
+    {
+        "id": 3759,
+        "index": "3478",
+        "title": "Choose K Elements With Maximum Sum",
+        "title_slug": "choose-k-elements-with-maximum-sum",
+        "difficulty": 2
+    },
+    {
+        "id": 3791,
+        "index": "3479",
+        "title": "Fruits Into Baskets III",
+        "title_slug": "fruits-into-baskets-iii",
+        "difficulty": 2
+    },
+    {
+        "id": 3789,
+        "index": "3480",
+        "title": "Maximize Subarrays After Removing One Conflicting Pair",
+        "title_slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+        "difficulty": 3
+    },
+    {
+        "id": 3825,
+        "index": "3481",
+        "title": "Apply Substitutions",
+        "title_slug": "apply-substitutions",
+        "difficulty": 2
+    },
+    {
+        "id": 3828,
+        "index": "3482",
+        "title": "Analyze Organization Hierarchy",
+        "title_slug": "analyze-organization-hierarchy",
+        "difficulty": 3
+    },
+    {
+        "id": 3799,
+        "index": "3483",
+        "title": "Unique 3-Digit Even Numbers",
+        "title_slug": "unique-3-digit-even-numbers",
+        "difficulty": 1
+    },
+    {
+        "id": 3797,
+        "index": "3484",
+        "title": "Design Spreadsheet",
+        "title_slug": "design-spreadsheet",
+        "difficulty": 2
+    },
+    {
+        "id": 3784,
+        "index": "3485",
+        "title": "Longest Common Prefix of K Strings After Removal",
+        "title_slug": "longest-common-prefix-of-k-strings-after-removal",
+        "difficulty": 3
+    },
+    {
+        "id": 3798,
+        "index": "3486",
+        "title": "Longest Special Path II",
+        "title_slug": "longest-special-path-ii",
+        "difficulty": 3
+    },
+    {
+        "id": 3788,
+        "index": "3487",
+        "title": "Maximum Unique Subarray Sum After Deletion",
+        "title_slug": "maximum-unique-subarray-sum-after-deletion",
+        "difficulty": 1
+    },
+    {
+        "id": 3750,
+        "index": "3488",
+        "title": "Closest Equal Element Queries",
+        "title_slug": "closest-equal-element-queries",
+        "difficulty": 2
+    },
+    {
+        "id": 3795,
+        "index": "3489",
+        "title": "Zero Array Transformation IV",
+        "title_slug": "zero-array-transformation-iv",
+        "difficulty": 2
+    },
+    {
+        "id": 3801,
+        "index": "3490",
+        "title": "Count Beautiful Numbers",
+        "title_slug": "count-beautiful-numbers",
+        "difficulty": 3
+    },
+    {
+        "id": 3836,
+        "index": "3491",
+        "title": "Phone Number Prefix",
+        "title_slug": "phone-number-prefix",
+        "difficulty": 1
+    },
+    {
+        "id": 3817,
+        "index": "3492",
+        "title": "Maximum Containers on a Ship",
+        "title_slug": "maximum-containers-on-a-ship",
+        "difficulty": 1
+    },
+    {
+        "id": 3809,
+        "index": "3493",
+        "title": "Properties Graph",
+        "title_slug": "properties-graph",
+        "difficulty": 2
+    },
+    {
+        "id": 3794,
+        "index": "3494",
+        "title": "Find the Minimum Amount of Time to Brew Potions",
+        "title_slug": "find-the-minimum-amount-of-time-to-brew-potions",
+        "difficulty": 2
+    },
+    {
+        "id": 3744,
+        "index": "3495",
+        "title": "Minimum Operations to Make Array Elements Zero",
+        "title_slug": "minimum-operations-to-make-array-elements-zero",
+        "difficulty": 3
+    },
+    {
         "id": 100107,
         "index": "LCP01",
         "title": "Guess Numbers",
