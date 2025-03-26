@@ -16,8 +16,8 @@
 
 ## 目录
 
-* TS/JS Answer 2248
-* Java Answer 605
+* TS/JS Answer 2252
+* Java Answer 606
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -3315,12 +3315,12 @@
 | 3292 | Minimum Number of Valid Strings to Form Target II |  | Hard  |
 | 3293 | Calculate Product Final Price |  | Medium  |
 | 3294 | Convert Doubly Linked List to Array II |  | Medium  |
-| 3295 | Report Spam Message | [Java](./src/3295.report-spam-message.3541/solution.java) | Medium  |
+| 3295 | Report Spam Message | [Java](./src/3295.report-spam-message.3541/solution.java) [TypeScript](./src/3295.report-spam-message.3541/solution.ts) | Medium  |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero |  | Medium  |
 | 3297 | Count Substrings That Can Be Rearranged to Contain a String I |  | Medium  |
 | 3298 | Count Substrings That Can Be Rearranged to Contain a String II |  | Hard  |
 | 3299 | Sum of Consecutive Subsequences |  | Hard  |
-| 3300 | Minimum Element After Replacement With Digit Sum | [TypeScript](./src/3300.minimum-element-after-replacement-with-digit-sum.3606/solution.ts) | Easy  |
+| 3300 | Minimum Element After Replacement With Digit Sum | [Java](./src/3300.minimum-element-after-replacement-with-digit-sum.3606/solution.java) [TypeScript](./src/3300.minimum-element-after-replacement-with-digit-sum.3606/solution.ts) | Easy  |
 | 3301 | Maximize the Total Height of Unique Towers |  | Medium  |
 | 3302 | Find the Lexicographically Smallest Valid Sequence |  | Medium  |
 | 3303 | Find the Occurrence of First Almost Equal Substring |  | Hard  |
@@ -3360,12 +3360,12 @@
 | 3337 | Total Characters in String After Transformations II |  | Hard  |
 | 3338 | Second Highest Salary II |  | Medium  |
 | 3339 | Find the Number of K-Even Arrays |  | Medium  |
-| 3340 | Check Balanced String | [Java](./src/3340.check-balanced-string.3636/solution.java) | Easy  |
+| 3340 | Check Balanced String | [Java](./src/3340.check-balanced-string.3636/solution.java) [TypeScript](./src/3340.check-balanced-string.3636/solution.ts) | Easy  |
 | 3341 | Find Minimum Time to Reach Last Room I |  | Medium  |
 | 3342 | Find Minimum Time to Reach Last Room II |  | Medium  |
 | 3343 | Count Number of Balanced Permutations |  | Hard  |
 | 3344 | Maximum Sized Array |  | Medium  |
-| 3345 | Smallest Divisible Digit Product I | [Java](./src/3345.smallest-divisible-digit-product-i.3626/solution.java) | Easy  |
+| 3345 | Smallest Divisible Digit Product I | [Java](./src/3345.smallest-divisible-digit-product-i.3626/solution.java) [TypeScript](./src/3345.smallest-divisible-digit-product-i.3626/solution.ts) | Easy  |
 | 3346 | Maximum Frequency of an Element After Performing Operations I |  | Medium  |
 | 3347 | Maximum Frequency of an Element After Performing Operations II |  | Hard  |
 | 3348 | Smallest Divisible Digit Product II |  | Hard  |
@@ -3380,7 +3380,7 @@
 | 3357 | Minimize the Maximum Adjacent Element Difference |  | Hard  |
 | 3358 | Books with NULL Ratings |  | Easy  |
 | 3359 | Find Sorted Submatrices With Maximum Element at Most K |  | Hard  |
-| 3360 | Stone Removal Game | [Java](./src/3360.stone-removal-game.3625/solution.java) | Easy  |
+| 3360 | Stone Removal Game | [Java](./src/3360.stone-removal-game.3625/solution.java) [TypeScript](./src/3360.stone-removal-game.3625/solution.ts) | Easy  |
 | 3361 | Shift Distance Between Two Strings |  | Medium  |
 | 3362 | Zero Array Transformation III |  | Medium  |
 | 3363 | Find the Maximum Number of Fruits Collected |  | Hard  |
