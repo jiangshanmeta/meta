@@ -16,8 +16,8 @@
 
 ## 目录
 
-* TS/JS Answer 2252
-* Java Answer 606
+* TS/JS Answer 2262
+* Java Answer 625
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -1400,7 +1400,7 @@
 | 1377 | Frog Position After T Seconds | [JavaScript](./src/1377.frog-position-after-t-seconds.1493/solution.js) | Hard  |
 | 1378 | Replace Employee ID With The Unique Identifier |  | Easy  |
 | 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | [Java](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.java) [JavaScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.js) [TypeScript](./src/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.1498/solution.ts) | Easy  |
-| 1380 | Lucky Numbers in a Matrix | [JavaScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.js) [TypeScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.ts) | Easy  |
+| 1380 | Lucky Numbers in a Matrix | [Java](./src/1380.lucky-numbers-in-a-matrix.1496/solution.java) [JavaScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.js) [TypeScript](./src/1380.lucky-numbers-in-a-matrix.1496/solution.ts) | Easy  |
 | 1381 | Design a Stack With Increment Operation | [JavaScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.js) [TypeScript](./src/1381.design-a-stack-with-increment-operation.1497/solution.ts) | Medium  |
 | 1382 | Balance a Binary Search Tree | [JavaScript](./src/1382.balance-a-binary-search-tree.1285/solution.js) [TypeScript](./src/1382.balance-a-binary-search-tree.1285/solution.ts) | Medium  |
 | 1383 | Maximum Performance of a Team |  | Hard  |
@@ -3390,39 +3390,39 @@
 | 3367 | Maximize Sum of Weights after Edge Removals |  | Hard  |
 | 3368 | First Letter Capitalization |  | Hard  |
 | 3369 | Design an Array Statistics Tracker  |  | Hard  |
-| 3370 | Smallest Number With All Set Bits | [Java](./src/3370.smallest-number-with-all-set-bits.3676/solution.java) | Easy  |
+| 3370 | Smallest Number With All Set Bits | [Java](./src/3370.smallest-number-with-all-set-bits.3676/solution.java) [TypeScript](./src/3370.smallest-number-with-all-set-bits.3676/solution.ts) | Easy  |
 | 3371 | Identify the Largest Outlier in an Array |  | Medium  |
 | 3372 | Maximize the Number of Target Nodes After Connecting Trees I |  | Medium  |
 | 3373 | Maximize the Number of Target Nodes After Connecting Trees II |  | Hard  |
 | 3374 | First Letter Capitalization II |  | Hard  |
-| 3375 | Minimum Operations to Make Array Values Equal to K | [Java](./src/3375.minimum-operations-to-make-array-values-equal-to-k.3621/solution.java) | Easy  |
+| 3375 | Minimum Operations to Make Array Values Equal to K | [Java](./src/3375.minimum-operations-to-make-array-values-equal-to-k.3621/solution.java) [TypeScript](./src/3375.minimum-operations-to-make-array-values-equal-to-k.3621/solution.ts) | Easy  |
 | 3376 | Minimum Time to Break Locks I |  | Medium  |
 | 3377 | Digit Operations to Make Two Integers Equal |  | Medium  |
 | 3378 | Count Connected Components in LCM Graph |  | Hard  |
-| 3379 | Transformed Array | [Java](./src/3379.transformed-array.3651/solution.java) | Easy  |
+| 3379 | Transformed Array | [Java](./src/3379.transformed-array.3651/solution.java) [TypeScript](./src/3379.transformed-array.3651/solution.ts) | Easy  |
 | 3380 | Maximum Area Rectangle With Point Constraints I |  | Medium  |
 | 3381 | Maximum Subarray Sum With Length Divisible by K |  | Medium  |
 | 3382 | Maximum Area Rectangle With Point Constraints II |  | Hard  |
 | 3383 | Minimum Runes to Add to Cast Spell |  | Hard  |
 | 3384 | Team Dominance by Pass Success |  | Hard  |
 | 3385 | Minimum Time to Break Locks II |  | Hard  |
-| 3386 | Button with Longest Push Time | [Java](./src/3386.button-with-longest-push-time.3632/solution.java) | Easy  |
+| 3386 | Button with Longest Push Time | [Java](./src/3386.button-with-longest-push-time.3632/solution.java) [TypeScript](./src/3386.button-with-longest-push-time.3632/solution.ts) | Easy  |
 | 3387 | Maximize Amount After Two Days of Conversions |  | Medium  |
 | 3388 | Count Beautiful Splits in an Array |  | Medium  |
 | 3389 | Minimum Operations to Make Character Frequencies Equal |  | Hard  |
 | 3390 | Longest Team Pass Streak |  | Hard  |
 | 3391 | Design a 3D Binary Matrix with Efficient Layer Tracking |  | Medium  |
-| 3392 | Count Subarrays of Length Three With a Condition | [Java](./src/3392.count-subarrays-of-length-three-with-a-condition.3685/solution.java) | Easy  |
+| 3392 | Count Subarrays of Length Three With a Condition | [Java](./src/3392.count-subarrays-of-length-three-with-a-condition.3685/solution.java) [TypeScript](./src/3392.count-subarrays-of-length-three-with-a-condition.3685/solution.ts) | Easy  |
 | 3393 | Count Paths With the Given XOR Value |  | Medium  |
 | 3394 | Check if Grid can be Cut into Sections |  | Medium  |
 | 3395 | Subsequences with a Unique Middle Mode I |  | Hard  |
-| 3396 | Minimum Number of Operations to Make Elements in Array Distinct |  | Easy  |
+| 3396 | Minimum Number of Operations to Make Elements in Array Distinct | [Java](./src/3396.minimum-number-of-operations-to-make-elements-in-array-distinct.3656/solution.java) [TypeScript](./src/3396.minimum-number-of-operations-to-make-elements-in-array-distinct.3656/solution.ts) | Easy  |
 | 3397 | Maximum Number of Distinct Elements After Operations |  | Medium  |
 | 3398 | Smallest Substring With Identical Characters I |  | Hard  |
 | 3399 | Smallest Substring With Identical Characters II |  | Hard  |
 | 3400 | Maximum Number of Matching Indices After Right Shifts |  | Medium  |
 | 3401 | Find Circular Gift Exchange Chains |  | Hard  |
-| 3402 | Minimum Operations to Make Columns Strictly Increasing | [Java](./src/3402.minimum-operations-to-make-columns-strictly-increasing.3691/solution.java) | Easy  |
+| 3402 | Minimum Operations to Make Columns Strictly Increasing | [Java](./src/3402.minimum-operations-to-make-columns-strictly-increasing.3691/solution.java) [TypeScript](./src/3402.minimum-operations-to-make-columns-strictly-increasing.3691/solution.ts) | Easy  |
 | 3403 | Find the Lexicographically Largest String From the Box I |  | Medium  |
 | 3404 | Count Special Subsequences |  | Medium  |
 | 3405 | Count the Number of Arrays with K Matching Adjacent Elements |  | Hard  |
@@ -3437,32 +3437,32 @@
 | 3414 | Maximum Score of Non-overlapping Intervals |  | Hard  |
 | 3415 | Find Products with Three Consecutive Digits  |  | Easy  |
 | 3416 | Subsequences with a Unique Middle Mode II |  | Hard  |
-| 3417 | Zigzag Grid Traversal With Skip |  | Easy  |
+| 3417 | Zigzag Grid Traversal With Skip | [Java](./src/3417.zigzag-grid-traversal-with-skip.3708/solution.java) [TypeScript](./src/3417.zigzag-grid-traversal-with-skip.3708/solution.ts) | Easy  |
 | 3418 | Maximum Amount of Money Robot Can Earn |  | Medium  |
 | 3419 | Minimize the Maximum Edge Weight of Graph |  | Medium  |
 | 3420 | Count Non-Decreasing Subarrays After K Operations |  | Hard  |
 | 3421 | Find Students Who Improved |  | Medium  |
 | 3422 | Minimum Operations to Make Subarray Elements Equal |  | Medium  |
-| 3423 | Maximum Difference Between Adjacent Elements in a Circular Array |  | Easy  |
+| 3423 | Maximum Difference Between Adjacent Elements in a Circular Array | [Java](./src/3423.maximum-difference-between-adjacent-elements-in-a-circular-array.3747/solution.java) [TypeScript](./src/3423.maximum-difference-between-adjacent-elements-in-a-circular-array.3747/solution.ts) | Easy  |
 | 3424 | Minimum Cost to Make Arrays Identical |  | Medium  |
 | 3425 | Longest Special Path |  | Hard  |
 | 3426 | Manhattan Distances of All Arrangements of Pieces |  | Hard  |
-| 3427 | Sum of Variable Length Subarrays |  | Easy  |
+| 3427 | Sum of Variable Length Subarrays | [Java](./src/3427.sum-of-variable-length-subarrays.3731/solution.java) [TypeScript](./src/3427.sum-of-variable-length-subarrays.3731/solution.ts) | Easy  |
 | 3428 | Maximum and Minimum Sums of at Most Size K Subsequences |  | Medium  |
 | 3429 | Paint House IV |  | Medium  |
 | 3430 | Maximum and Minimum Sums of at Most Size K Subarrays |  | Hard  |
 | 3431 | Minimum Unlocked Indices to Sort Nums |  | Medium  |
-| 3432 | Count Partitions with Even Sum Difference |  | Easy  |
+| 3432 | Count Partitions with Even Sum Difference | [Java](./src/3432.count-partitions-with-even-sum-difference.3704/solution.java) | Easy  |
 | 3433 | Count Mentions Per User |  | Medium  |
 | 3434 | Maximum Frequency After Subarray Operation |  | Medium  |
 | 3435 | Frequencies of Shortest Supersequences |  | Hard  |
 | 3436 | Find Valid Emails |  | Easy  |
 | 3437 | Permutations III |  | Medium  |
-| 3438 | Find Valid Pair of Adjacent Digits in String |  | Easy  |
+| 3438 | Find Valid Pair of Adjacent Digits in String | [Java](./src/3438.find-valid-pair-of-adjacent-digits-in-string.3736/solution.java) | Easy  |
 | 3439 | Reschedule Meetings for Maximum Free Time I |  | Medium  |
 | 3440 | Reschedule Meetings for Maximum Free Time II |  | Medium  |
 | 3441 | Minimum Cost Good Caption |  | Hard  |
-| 3442 | Maximum Difference Between Even and Odd Frequency I |  | Easy  |
+| 3442 | Maximum Difference Between Even and Odd Frequency I | [Java](./src/3442.maximum-difference-between-even-and-odd-frequency-i.3753/solution.java) | Easy  |
 | 3443 | Maximum Manhattan Distance After K Changes |  | Medium  |
 | 3444 | Minimum Increments for Target Multiples in an Array |  | Hard  |
 | 3445 | Maximum Difference Between Even and Odd Frequency II |  | Hard  |
@@ -3472,22 +3472,22 @@
 | 3449 | Maximize the Minimum Game Score |  | Hard  |
 | 3450 | Maximum Students on a Single Bench |  | Easy  |
 | 3451 | Find Invalid IP Addresses |  | Hard  |
-| 3452 | Sum of Good Numbers |  | Easy  |
+| 3452 | Sum of Good Numbers | [Java](./src/3452.sum-of-good-numbers.3723/solution.java) | Easy  |
 | 3453 | Separate Squares I |  | Medium  |
 | 3454 | Separate Squares II |  | Hard  |
 | 3455 | Shortest Matching Substring |  | Hard  |
-| 3456 | Find Special Substring of Length K |  | Easy  |
+| 3456 | Find Special Substring of Length K | [Java](./src/3456.find-special-substring-of-length-k.3709/solution.java) | Easy  |
 | 3457 | Eat Pizzas! |  | Medium  |
 | 3458 | Select K Disjoint Special Substrings |  | Medium  |
 | 3459 | Length of Longest V-Shaped Diagonal Segment |  | Hard  |
 | 3460 | Longest Common Prefix After at Most One Removal |  | Medium  |
-| 3461 | Check If Digits Are Equal in String After Operations I |  | Easy  |
+| 3461 | Check If Digits Are Equal in String After Operations I | [Java](./src/3461.check-if-digits-are-equal-in-string-after-operations-i.3768/solution.java) | Easy  |
 | 3462 | Maximum Sum With at Most K Elements |  | Medium  |
 | 3463 | Check If Digits Are Equal in String After Operations II |  | Hard  |
 | 3464 | Maximize the Distance Between Points on a Square |  | Hard  |
 | 3465 | Find Products with Valid Serial Numbers |  | Easy  |
 | 3466 | Maximum Coin Collection  |  | Medium  |
-| 3467 | Transform Array by Parity |  | Easy  |
+| 3467 | Transform Array by Parity | [Java](./src/3467.transform-array-by-parity.3778/solution.java) | Easy  |
 | 3468 | Find the Number of Copy Arrays |  | Medium  |
 | 3469 | Find Minimum Cost to Remove Array Elements |  | Medium  |
 | 3470 | Permutations IV |  | Hard  |
@@ -3497,22 +3497,22 @@
 | 3474 | Lexicographically Smallest Generated String |  | Hard  |
 | 3475 | DNA Pattern Recognition  |  | Medium  |
 | 3476 | Maximize Profit from Task Assignment |  | Medium  |
-| 3477 | Fruits Into Baskets II |  | Easy  |
+| 3477 | Fruits Into Baskets II | [Java](./src/3477.fruits-into-baskets-ii.3790/solution.java) | Easy  |
 | 3478 | Choose K Elements With Maximum Sum |  | Medium  |
 | 3479 | Fruits Into Baskets III |  | Medium  |
 | 3480 | Maximize Subarrays After Removing One Conflicting Pair |  | Hard  |
 | 3481 | Apply Substitutions |  | Medium  |
 | 3482 | Analyze Organization Hierarchy |  | Hard  |
-| 3483 | Unique 3-Digit Even Numbers |  | Easy  |
+| 3483 | Unique 3-Digit Even Numbers | [Java](./src/3483.unique-3-digit-even-numbers.3799/solution.java) | Easy  |
 | 3484 | Design Spreadsheet |  | Medium  |
 | 3485 | Longest Common Prefix of K Strings After Removal |  | Hard  |
 | 3486 | Longest Special Path II |  | Hard  |
-| 3487 | Maximum Unique Subarray Sum After Deletion |  | Easy  |
+| 3487 | Maximum Unique Subarray Sum After Deletion | [Java](./src/3487.maximum-unique-subarray-sum-after-deletion.3788/solution.java) | Easy  |
 | 3488 | Closest Equal Element Queries |  | Medium  |
 | 3489 | Zero Array Transformation IV |  | Medium  |
 | 3490 | Count Beautiful Numbers |  | Hard  |
 | 3491 | Phone Number Prefix |  | Easy  |
-| 3492 | Maximum Containers on a Ship |  | Easy  |
+| 3492 | Maximum Containers on a Ship | [Java](./src/3492.maximum-containers-on-a-ship.3817/solution.java) | Easy  |
 | 3493 | Properties Graph |  | Medium  |
 | 3494 | Find the Minimum Amount of Time to Brew Potions |  | Medium  |
 | 3495 | Minimum Operations to Make Array Elements Zero |  | Hard  |
@@ -3652,7 +3652,7 @@
 | LCR171 | 训练计划 V | [Java](./src/LCR171.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.java) [JavaScript](./src/LCR171.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.100326/solution.js) | Easy  |
 | LCR172 | 统计目标成绩的出现次数 | [Java](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.java) [JavaScript](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.js) [TypeScript](./src/LCR172.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.100329/solution.ts) | Easy  |
 | LCR173 | 点名 | [Java](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.java) [JavaScript](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.js) [TypeScript](./src/LCR173.que-shi-de-shu-zi-lcof.100331/solution.ts) | Easy  |
-| LCR174 | 寻找二叉搜索树中的目标节点 | [JavaScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.js) [TypeScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.ts) | Easy  |
+| LCR174 | 寻找二叉搜索树中的目标节点 | [Java](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.java) [JavaScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.js) [TypeScript](./src/LCR174.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.100333/solution.ts) | Easy  |
 | LCR175 | 计算二叉树的深度 | [Java](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.java) [JavaScript](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.js) [TypeScript](./src/LCR175.er-cha-shu-de-shen-du-lcof.100319/solution.ts) | Easy  |
 | LCR176 | 判断是否为平衡二叉树 | [Java](./src/LCR176.ping-heng-er-cha-shu-lcof.100342/solution.java) [JavaScript](./src/LCR176.ping-heng-er-cha-shu-lcof.100342/solution.js) [TypeScript](./src/LCR176.ping-heng-er-cha-shu-lcof.100342/solution.ts) | Easy  |
 | LCR177 | 撞色搭配 | [JavaScript](./src/LCR177.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320/solution.js) [TypeScript](./src/LCR177.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.100320/solution.ts) | Medium  |
@@ -3786,7 +3786,7 @@
 | LCS02 | 完成一半题目 | [Java](./src/LCS02.WqXACV.1000226/solution.java) [TypeScript](./src/LCS02.WqXACV.1000226/solution.ts) | Easy  |
 | LCS03 | 主题空间 | [TypeScript](./src/LCS03.YesdPw.1000227/solution.ts) | Medium  |
 | LCR001 | 两数相除 | [TypeScript](./src/LCR001.xoh6Oh.1000228/solution.ts) | Easy  |
-| LCR002 | 二进制求和 | [JavaScript](./src/LCR002.JFETK5.1000231/solution.js) | Easy  |
+| LCR002 | 二进制求和 | [Java](./src/LCR002.JFETK5.1000231/solution.java) [JavaScript](./src/LCR002.JFETK5.1000231/solution.js) | Easy  |
 | LCR003 | 比特位计数 | [Java](./src/LCR003.w3tCBm.1000230/solution.java) [JavaScript](./src/LCR003.w3tCBm.1000230/solution.js) [TypeScript](./src/LCR003.w3tCBm.1000230/solution.ts) | Easy  |
 | LCR004 | 只出现一次的数字 II | [TypeScript](./src/LCR004.WGki4K.1000233/solution.ts) | Medium  |
 | LCR005 | 最大单词长度乘积 | [Java](./src/LCR005.aseY1I.1000236/solution.java) [JavaScript](./src/LCR005.aseY1I.1000236/solution.js) [TypeScript](./src/LCR005.aseY1I.1000236/solution.ts) | Medium  |
@@ -3836,7 +3836,7 @@
 | LCR049 | 求根节点到叶节点数字之和 | [Java](./src/LCR049.3Etpl5.1000306/solution.java) [JavaScript](./src/LCR049.3Etpl5.1000306/solution.js) | Medium  |
 | LCR050 | 路径总和 III | [TypeScript](./src/LCR050.6eUYwP.1000307/solution.ts) | Medium  |
 | LCR051 | 二叉树中的最大路径和 | [Java](./src/LCR051.jC7MId.1000309/solution.java) [TypeScript](./src/LCR051.jC7MId.1000309/solution.ts) | Hard  |
-| LCR052 | 递增顺序搜索树 | [JavaScript](./src/LCR052.NYBBNL.1000311/solution.js) | Easy  |
+| LCR052 | 递增顺序搜索树 | [Java](./src/LCR052.NYBBNL.1000311/solution.java) [JavaScript](./src/LCR052.NYBBNL.1000311/solution.js) | Easy  |
 | LCR053 | 二叉搜索树中的中序后继 | [JavaScript](./src/LCR053.P5rCT8.1000313/solution.js) [TypeScript](./src/LCR053.P5rCT8.1000313/solution.ts) | Medium  |
 | LCR054 | 把二叉搜索树转换为累加树 | [Java](./src/LCR054.w6cpku.1000315/solution.java) [JavaScript](./src/LCR054.w6cpku.1000315/solution.js) | Medium  |
 | LCR055 | 二叉搜索树迭代器 | [Java](./src/LCR055.kTOapQ.1000316/solution.java) [JavaScript](./src/LCR055.kTOapQ.1000316/solution.js) [TypeScript](./src/LCR055.kTOapQ.1000316/solution.ts) | Medium  |
